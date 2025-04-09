@@ -1,2 +1,3 @@
-* annex.backend=MD5E
+* annex.backend=SHA256E
 **/.git* annex.largefiles=nothing
+*.csv annex.largefiles=largerthan=1m
