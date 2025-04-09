@@ -1,0 +1,69 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","catieid"
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"adas01a","Integer","","Recommended","World Recall Trial 1","0::10","number of errors",""
+"adas01b","Integer","","Recommended","World Recall Trial 2","0::10","number of errors",""
+"adas01c","Integer","","Recommended","World Recall Trial 3","0::10","number of errors",""
+"adas02","Integer","","Recommended","Naming Objects","0::5","0 = 0-2 items, 1 = 3-5 items, 2 = 6-8 items, 3 = 9-11 items, 4 = 12-14 items, 5 = 15-17 items",""
+"adas03","Integer","","Recommended","Commands Score","0::5","1 = 1 command incorrect / 4 commands correct
+2 = 2 commands incorrect / 3 commands correct
+3 = 3 commands incorrect / 2 commands correct
+4 = 4 commands incorrect / 1 command correct
+5 = all 5 commands incorrect",""
+"adas04","Integer","","Recommended","Constructional Praxis Score","0::5","0 = all 4 drawn correctly
+1 = 1 form drawn incorrectly
+2 = 2 forms drawn incorrectly
+3 = 3 forms drawn incorrectly
+4 = 4 forms drawn incorrectly
+5 = no figures, scribbles; parts of forms; words",""
+"adas05","Integer","","Recommended","Ideational Praxis Score","0::5","0 = all components performed correctly
+1 = failure to perform 1 component
+2 = failure to perform 2 components
+3 = failure to perform 3 components
+4 = failure to perform 4 components
+5 = failure to perform 5 components",""
+"adas06","Integer","","Recommended","Orientation Score","0::8","Number of incorrect responses",""
+"adas07a","Integer","","Recommended","World Recognition Trial 1","0::12","number of errors",""
+"adas07b","Integer","","Recommended","World Recognition Trial 2","0::12","number of errors",""
+"adas07c","Integer","","Recommended","World Recognition Trial 3","0::12","number of errors",""
+"adas08","Integer","","Recommended","Remembering Test Instructions","0::5","0 = patient never needs reminders of instructions
+1 = very mild � forgets once
+2 = mild � must be reminded 2 times
+3 = moderate � must be reminded 3 or 4 times
+4 = moderately severe � must be reminded 5 or 6 times
+5 = severe � must be reminded 7 or more times",""
+"adas09","Integer","","Recommended","Spoken Language Ability","0::5","0 = no instances where it is difficult to understand patient
+1 = very mild � one instance of lack of understandability
+2 = mild � patient has difficulty less than 25% of the time
+3 = moderate � patient has difficulty less than 25-50% of the time
+4 = moderately severe � patient has difficulty less than 50% of the time
+5 = severe � one or two word utterance; fluent, but empty speech; mute",""
+"adas10","Integer","","Recommended","Word-Finding Difficulty in Spontaneo","0::5","0 = no evidence of word finding difficulty in spontaneous speech
+1 = very mild � 1 or 2 instances, not clinically significant
+2 = mild � noticeable circumlocution or synonym substitution
+3 = moderate � loss of words without compensation on occasion
+4 = moderately severe � frequent loss of words without compensation
+5 = severe � nearly total loss of content of words; speech sounds empty; 1-2 word utterances",""
+"adas11","Integer","","Recommended","Comprehension of Spoken Language","0::5","0 = no evidence of poor comprehension
+1 = very mild � 1 or 2 instances of misunderstanding
+2 = mild � 3-5 instances of misunderstanding
+3 = moderate � requires several repetitions and rephrasing
+4 = moderately severe � patient only occasionally responds correctly; i.e., yes/no
+5 = severe � patient rarely responds to questions appropriately, not due to poverty of speech",""
+"adas12","Integer","","Recommended","Concentration/ Distractibility","0::10","0 = none, no evidence of poor concentration or distractibility 1 = very mild, one instance of poor concentration 2 = mild, 2-3 instances of poor concentration/distractibility; signs of restlessness and inattentiveness 3 = moderate, 4-5 instances during interview 4 = moderately severe, poor concentration/distractibility throughout much of interview 5 = severe, extreme difficulty in concentration and extremely distractible, unable to complete tasks; 6 = Is goal-oriented, can maintain interest in tasks; 7 = Slightly distractible, but is goal-oriented and can finish tasks with minimal pressure; 8 = Quite distractible; finishes tasks only with considerable pressure; shows minimal goal-oriented behavior; 9 = Extremely distractible, cannot sustain attention for more than a few seconds, regardless of external pressure; 10 = Never starts or gets involved in anything presented to him and therefore cannot be rated.
+",""
+"adas13","Integer","","Recommended","Number Cancellation:","0::40","number of targets hit",""
+"adas14","Integer","","Recommended","Executive Function(maze)","0::240","in seconds",""
+"adas_ts","Float","","Recommended","ADAS Total Score","0::5000","Created variable with 20% missing data rule applied: First, we created 2 intermediate variables: M_RECALL (mean number of words not recalled in the 3 trials): Average of (10-ADAS01A), (10-ADAS01B), (10- ADAS01C).
+M_RECOG (mean number of words not recognized in the 3 trials): Average of ADAS07A, ADAS07B, ADAS07C. Total score is calculated as follows: Sum of M_RECALL, ADAS02, ADAS03, ADAS04, ADAS05, ADAS06, M_RECOG, ADAS08, ADAS09, ADAS10, ADAS11",""
+"visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
+"visit","String","60","Recommended","Visit name","","",""
+"visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
+"phase_ct","String","20","Recommended","Current Phase. Phase patient was in at the time of the assessment Phase 4 refers to the follow-up phase.","Pre-Rand; Phase 1/1A; Phase 2; Phase 3; Phase 4; Phase 1B; Open-Choice Phase; Screening; Phase 1","",""
+"last1","Integer","","Recommended","Flag Last Phase 1/1A Visit","","1=Yes for all records meeting this criteria",""
+"base1","Integer","","Recommended","Flag Baseline Phase 1/1A Visit","","1=Yes for all records meeting this criteria",""
+"base_ts","Float","","Recommended","Baseline Total Score","","Scare at Phase 1 baselline",""
+"c_ts","Float","","Recommended","Changed from Baseline ADAS Total Score","","Change from Phase 1 baseline",""

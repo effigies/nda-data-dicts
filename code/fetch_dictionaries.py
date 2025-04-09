@@ -4,6 +4,7 @@
 #     "httpx",
 #     "rich",
 #     "stamina",
+#     "structlog",
 # ]
 # ///
 

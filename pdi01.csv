@@ -1,0 +1,164 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","record_id"
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender,sex"
+"pdeq1","Integer","","Recommended","I had moments of losing track of what
+was going on. I ""blanked out"" or ""space d
+out"" or in some way felt that I was not
+ part of what was going on.","1::5","1 = Not at all
+ true; 
+2 = Slightly
+ true; 
+3 = Somewhat 
+true; 
+4 = Very
+ true
+; 5 = Extremely 
+true",""
+"pdeq2","Integer","","Recommended","I found that I was on ""automatic pilot"". I
+ ended up doing things that I later realized 
+I hadn't actively decided to do.","1::5","1 = Not at all
+ true; 
+2 = Slightly
+ true; 
+3 = Somewhat 
+true; 
+4 = Very
+ true
+; 5 = Extremely 
+true",""
+"pdeq3","Integer","","Recommended","My sense of time changed. Things
+ seemed to be happening in slow motion.","1::5","1 = Not at all
+ true; 
+2 = Slightly
+ true; 
+3 = Somewhat 
+true; 
+4 = Very
+ true
+; 5 = Extremely 
+true",""
+"pdeq4","Integer","","Recommended","What was happening seemed unreal to
+ me, like I was in a dream, or watching a 
+movie or play.","1::5","1 = Not at all
+ true; 
+2 = Slightly
+ true; 
+3 = Somewhat 
+true; 
+4 = Very
+ true
+; 5 = Extremely 
+true",""
+"pdeq5","Integer","","Recommended","I felt as though I were spectator watching what was happening to me, as if I were floating above the scene or observing it? as an outsider","1::5","1 = Not at all
+ true; 
+2 = Slightly
+ true; 
+3 = Somewhat 
+true; 
+4 = Very
+ true
+; 5 = Extremely 
+true",""
+"pdeq6","Integer","","Recommended","There were moments when my sense of  my own body seemed distorted or changed. I felt disconnected from my own
+body, or it was unusually large or small.","1::5","1 = Not at all
+ true; 
+2 = Slightly
+ true; 
+3 = Somewhat 
+true; 
+4 = Very
+ true
+; 5 = Extremely 
+true",""
+"pdeq7","Integer","","Recommended","I felt as though things that were actually
+ happening to others were happening to 
+me  like I was in danger when I really
+wasn't.","1::5","1 = Not at all
+ true; 
+2 = Slightly
+ true; 
+3 = Somewhat 
+true; 
+4 = Very
+ true
+; 5 = Extremely 
+true",""
+"pdeq8","Integer","","Recommended","I was surprised to find afterwards that a 
+lot of things happened at the time that I
+was nor aware of, especially things I 
+ordinarily would have noticed","1::5","1 = Not at all
+ true; 
+2 = Slightly
+ true; 
+3 = Somewhat 
+true; 
+4 = Very
+ true
+; 5 = Extremely 
+true",""
+"pdeq9","Integer","","Recommended","I felt confused; That is, there were 
+moments when I had difficulty making 
+sense of what was happening.","1::5","1 = Not at all
+ true; 
+2 = Slightly
+ true; 
+3 = Somewhat 
+true; 
+4 = Very
+ true
+; 5 = Extremely 
+true",""
+"pdeq10","Integer","","Recommended","I felt disoriented; that is, there were
+ moments when I felt uncertain about
+ where I was or what time it was.","1::5","1 = Not at all
+ true; 
+2 = Slightly
+ true; 
+3 = Somewhat 
+true; 
+4 = Very
+ true
+; 5 = Extremely 
+true",""
+"pdi1","Integer","","Recommended","I felt helpless to do more","0::4","0= Not at all true; 1= Slightly true; 2 = Somewhat true; 3 = Very true; 4 = Extremely true","pdi_helpless"
+"pdi2","Integer","","Recommended","I felt sadness and grief","0::4","0= Not at all true; 1= Slightly true; 2 = Somewhat true; 3 = Very true; 4 = Extremely true",""
+"pdi3","Integer","","Recommended","I felt frustrated or angry I could not do 
+more","0::4","0= Not at all true; 1= Slightly true; 2 = Somewhat true; 3 = Very true; 4 = Extremely true",""
+"pdi4","Integer","","Recommended","I felt afraid for my own safety.","0::4","0= Not at all true; 1= Slightly true; 2 = Somewhat true; 3 = Very true; 4 = Extremely true","pdi_afraidformysafety"
+"pdi5","Integer","","Recommended","I felt guilt that more was not done","0::4","0= Not at all true; 1= Slightly true; 2 = Somewhat true; 3 = Very true; 4 = Extremely true",""
+"pdi6","Integer","","Recommended","I felt ashamed of my emotional reactions","0::4","0= Not at all true; 1= Slightly true; 2 = Somewhat true; 3 = Very true; 4 = Extremely true",""
+"pdi7","Integer","","Recommended","I felt worried about the safety of others","0::4","0= Not at all true; 1= Slightly true; 2 = Somewhat true; 3 = Very true; 4 = Extremely true",""
+"pdi8","Integer","","Recommended","I had the feeling I was about to lose 
+control of my emotions","0::4","0= Not at all true; 1= Slightly true; 2 = Somewhat true; 3 = Very true; 4 = Extremely true","pdi_abouttolosecontrol"
+"pdi9","Integer","","Recommended","I had difficulty controlling my bowel 
+and bladder.","0::4","0= Not at all true; 1= Slightly true; 2 = Somewhat true; 3 = Very true; 4 = Extremely true","pdi_difficultybowel"
+"pdi10","Integer","","Recommended","I was horrified by what happened","0::4","0= Not at all true; 1= Slightly true; 2 = Somewhat true; 3 = Very true; 4 = Extremely true","pdi_horrifiedbywhathappen"
+"pdi11","Integer","","Recommended","I had physical reactions like sweating, 
+shaking, and pounding heart","0::4","0= Not at all true; 1= Slightly true; 2 = Somewhat true; 3 = Very true; 4 = Extremely true","pdi_physicalreactions"
+"pdi12","Integer","","Recommended","I felt I might pass out.","0::4","0= Not at all true; 1= Slightly true; 2 = Somewhat true; 3 = Very true; 4 = Extremely true","pdi_mightpassout"
+"pdi13","Integer","","Recommended","I thought I might die.","0::4","0= Not at all true; 1= Slightly true; 2 = Somewhat true; 3 = Very true; 4 = Extremely true","pdi_mightdie"
+"pdi_total","Integer","","Required","PDI total score","","999=Missing","pdi_rs"
+"timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing","timepoint"
+"site","String","101","Recommended","Site","","Study Site","siteid"
+"pdi_sig","Integer","","Recommended","PDI Score indicative of significant distress [SIGNIFICANT] [1=Yes]","0 :: 1","0=No; 1=Yes",""
+"pdi_guilty","Integer","","Recommended","Peritraumatic Distress Inventory: Feel Guilty","1 :: 5; -7; -8","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All or almost all of the time; -8=DON'T KNOW; -7=REFUSED",""
+"pdi_ashamed","Integer","","Recommended","Peritraumatic Distress Inventory: Feel Ashamed","1 :: 5; -7; -8","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All or almost all of the time; -8=DON'T KNOW; -7=REFUSED",""
+"comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","",""
+"ed_pdi_rs_imputed_f1b","Integer","","Recommended","PDI: Sum of all items on scale; fully imputed using Freeze 1B cohort","0 :: 42","0 = No symptoms; 42 = Most severe symptoms",""
+"pdi_might_die","Integer","","Recommended","PDI: Might Die","0 :: 4; -5; -7; -8","0=None of the time; 1=A little of the time; 2=Some of the time; 3=Most of the time; 4=All or almost all of the time; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
+"pdi_feel_guilty_2wks","Integer","","Recommended","PDI: Feel Guilty (2 weeks)","1 :: 5; -5; -7; -8","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All or almost all of the time; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
+"pdi_feel_ashamed_2wks","Integer","","Recommended","PDI: Feel Ashamed (2 weeks)","1 :: 5; -5; -7; -8","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All or almost all of the time; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
+"ed_pdi_rs","Integer","","Recommended","PDI: Sum of all items on scale","0 :: 42","0=No symptoms; 42=Most severe symptoms",""
+"pdi_guiltshm_rs","Integer","","Recommended","PROMIS/PDI Guilt Shame Raw Score","0 :: 8","Higher scores indicate higher levels of guilt/shame",""
+"ed_pdi","Integer","","Recommended","PDI - Peritraumatic Distress Inventory - Severe peritraumatic distress indicator, raw score greater than 9","0;1","0 = False; 1 = True",""
+"pdi_feel_helpless","Integer","","Recommended","PDI: Feel Helpless","0 :: 4; -5; -7; -8","0=None of the time; 1=A little of the time; 2=Some of the time; 3=Most of the time; 4=All or almost all of the time; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
+"pdi_feel_afraid","Integer","","Recommended","PDI: Feel Afraid","0 :: 4; -5; -7; -8","0=None of the time; 1=A little of the time; 2=Some of the time; 3=Most of the time; 4=All or almost all of the time; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
+"pdi_lose_control","Integer","","Recommended","PDI: Lose Control","0 :: 4; -5; -7; -8","0=None of the time; 1=A little of the time; 2=Some of the time; 3=Most of the time; 4=All or almost all of the time; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
+"pdi_difficulty_bowel","Integer","","Recommended","PDI: Difficulty Control Bowel or Bladder","0 :: 4; -5; -7; -8","0=None of the time; 1=A little of the time; 2=Some of the time; 3=Most of the time; 4=All or almost all of the time; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
+"pdi_feel_horrified","Integer","","Recommended","PDI: Feel Horrified","0 :: 4; -5; -7; -8","0=None of the time; 1=A little of the time; 2=Some of the time; 3=Most of the time; 4=All or almost all of the time; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
+"pdi_physical_reactions","Integer","","Recommended","PDI: Physical Reactions","0 :: 4; -5; -7; -8","0=None of the time; 1=A little of the time; 2=Some of the time; 3=Most of the time; 4=All or almost all of the time; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
+"pdi_might_pass_out","Integer","","Recommended","PDI: Might Pass Out","0 :: 4; -5; -7; -8","0=None of the time; 1=A little of the time; 2=Some of the time; 3=Most of the time; 4=All or almost all of the time; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""

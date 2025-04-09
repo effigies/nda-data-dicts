@@ -1,0 +1,151 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","id"
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"goals","Integer","","Recommended","I set my personal goals and standards as high as possible","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"othsupport","Integer","","Recommended","Without support from others who are close to me, I would be helpless","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","support"
+"plangoal","Integer","","Recommended","I tend to be satisfied with my current plans/goals, rather than striving for higher goals","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"bigsmall","Integer","","Recommended","Sometimes I feel ver big, and other times I feel very small","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","deq1,deq_a_1"
+"jealous","Integer","","Recommended","When I am closely involved with someone, I never feel jealous","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"needothr","Integer","","Recommended","I urgently need things that only other people can provide","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"standard","Integer","","Recommended","I often find that I dont live up to my own standards","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","deq5,deq_a_5"
+"potentl","Integer","","Recommended","I feel I am always making full use of potential abilities","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","deq3,deq_a_3"
+"permance","Integer","","Recommended","The lakc of permanence in human relationships doesnt bother me","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","deq4,deq_a_4"
+"unworthy","Integer","","Recommended","If I fail to live up to expectations, I feel unworthy","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","deq2,deq_a_2"
+"helpless_fell","Integer","","Recommended","Many times I feel helpless","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","helpless"
+"criticze","Integer","","Recommended","I seldom worry about being criticized for things I have said or done","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"nowtobe","Integer","","Recommended","There is a considerable difference between how I am now and how I would like to be","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","deq6,deq_a_6"
+"compete","Integer","","Recommended","Enjoy sharp competition with others","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"responsib","Integer","","Recommended","I feel I have many responsibilities that I must meet","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","respond"
+"edi3_56","Integer","","Recommended","I feel empty inside (emotionally).","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree
+
+
+
+","empty"
+"haves","Integer","","Recommended","Not satisfied with haves","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","deq7,deq_a_7"
+"othrexpt","Integer","","Recommended","I dont care whether or not I live up to what other people expect of me","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"feelalon","Integer","","Recommended","I become frightened when I feel alone","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"loseself","Integer","","Recommended","I would feel like I'd be losing an immportant part of myself if I lost a very close friend","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"acceptme","Integer","","Recommended","People will accept me no matter how many mistakes I have made","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"difbreak","Integer","","Recommended","I have difficulty breaking off a relationship that is making me unhappy","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","deq8,deq_a_8"
+"closeto","Integer","","Recommended","I often think about the danger of losing someone who is close to me","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"expect","Integer","","Recommended","Other people have high expectations of me","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"devalue","Integer","","Recommended","When I am with others, I tend to devalue or ""undersell"" myself","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"orespond","Integer","","Recommended","I am not very concerned with how other people respond to me","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"uncertn","Integer","","Recommended","No matter how close a relationship between two people is, there is always a large amount of uncertainty and conflict","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"rejectn","Integer","","Recommended","Sensitive for signs of rejection","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"succeedfam","Integer","","Recommended","It's important for my family that I succeed","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","succeed"
+"disappnt","Integer","","Recommended","Often, I feel I have disappointed otheres","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","deq9,deq_a_9"
+"angry_feel","Integer","","Recommended","If someone makes me angry, I let him/her know how I feel","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","angry"
+"please","Integer","","Recommended","Try to please people","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","deq10,deq_a_10"
+"innerstr","Integer","","Recommended","Many inner resources (abilities, strengths)","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"difsayno","Integer","","Recommended","Difficult to say no","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"secure","Integer","","Recommended","Never feel secure in a close relationship","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","deq11,deq_a_11,deq_a_16"
+"feelabt","Integer","","Recommended","The way I feel about myself varies","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"change","Integer","","Recommended","Feel threatened by change","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"alone","Integer","","Recommended","Could go it alone","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"earnlove","Integer","","Recommended","Love has to be earned","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"senstive","Integer","","Recommended","I am very sensitive to the effects my words/actions hav eon the feelings of other people","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","deq12,deq_a_12"
+"blamself","Integer","","Recommended","Blame myself for things","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"indepndt","Integer","","Recommended","Very independent person","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"guilty","Integer","","Recommended","Often feel guilty","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"complex_person","Integer","","Recommended","Very complex person","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","complex"
+"offend","Integer","","Recommended","Worry about offending/hurting someone who is close to me","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","deq13,deq_a_13"
+"angerfr","Integer","","Recommended","Anger frightens me","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","deq14,deq_a_14"
+"accompl","Integer","","Recommended","it is not ""who you are,"" but ""what you have accomplished"" that counts","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"feelgood","Integer","","Recommended","Feel good about self whether I succeed or fail","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"feelasid","Integer","","Recommended","Put own feelings aside and devote my complete attention to someone else problems/feelings","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"leaveme","Integer","","Recommended","If someone I cared about become angry with me, I would feel threatened that he/she might leave me","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","deq15,deq_a_15"
+"uncomfrt","Integer","","Recommended","Uncomfortable when given important responsibility","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"mkamend","Integer","","Recommended","Make amends after fight","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"weakness","Integer","","Recommended","Difficult accepting weakness","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"enjoywrk","Integer","","Recommended","Enjoy my work than have my work approved","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"lonely","Integer","","Recommended","Lonely after argument","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"giveme","Integer","","Recommended","In my relationships, I am very concerned about what they can give me","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"family_rarely","Integer","","Recommended","Rarely think about family","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","family"
+"feelings","Integer","","Recommended","very frequently, my feelings toward someone close to me vary","1::7; -7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible; -7 =refused
+",""
+"impact","Integer","","Recommended","What I do and say has a very strong impact on those around me","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"special_self","Integer","","Recommended","Sometimes I feel that I am special","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","special"
+"closefam","Integer","","Recommended","grew up extremely close family","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","deq17,deq_a_17"
+"satisfy","Integer","","Recommended","Satisfied with self and accomplishments","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+","deq18,deq_a_18"
+"wantthgs","Integer","","Recommended","Want many things from someone I am close to","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"selfcrit","Integer","","Recommended","Critical of self","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"botherme","Integer","","Recommended","Being alone doesnt bother me at all","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"compgoal","Integer","","Recommended","I very frequently compare myself to standards/goals","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
+",""
+"deqsq","Float","","Recommended","DEQ Self Criticism","","",""
+"deqdepend","Float","","Recommended","DEQ Dependency","","",""
+"deqeffect","Float","","Recommended","DEQ Efficacy","","",""
+"site","String","101","Recommended","Site","","Study Site","siteid"
+"visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","date"
+"phase","Integer","","Recommended","Phase","","9 =follow up",""
+"week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
+"empty1","Integer","","Recommended","There are times when I feel ""empty"" inside.","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree
+",""
+"timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""

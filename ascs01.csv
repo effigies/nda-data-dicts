@@ -1,0 +1,50 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
+"ascs01","Integer","","Recommended","A woman who is drinking heavily can still give legal consent to sexual activity.","1::7","1= Not at all agree; 7= Very much agree",""
+"ascs02","Integer","","Recommended","A person who is sexually assaulted after drinking alcohol should only blame him- or herself.","1::7","1= Not at all agree; 7= Very much agree",""
+"ascs03","Integer","","Recommended","Consensual drunk sex is a normal and harmless part of college life.","1::7","1= Not at all agree; 7= Very much agree",""
+"ascs04","Integer","","Recommended","Alcohol is the most common date rape drug (or substance). (Reverse Scored)","1::7","1= Very much agree; 7= Not at all agree",""
+"ascs05","Integer","","Recommended","When a person is drinking alcohol, he or she is implying interest in engaging in sexual activity.","1::7","1= Not at all agree; 7= Very much agree",""
+"ascs06","Integer","","Recommended","If both partners are drunk and have sex, there is no way the man can be accused of sexual assault or rape.","1::7","1= Not at all agree; 7= Very much agree",""
+"ascs07","Integer","","Recommended","The more alcohol a person has consumed, the less able he/she is to consent to sexual activity. (Reverse Scored)","1::7","1= Very much agree; 7= Not at all agree",""
+"ascs08","Integer","","Recommended","For men, intoxication is not a defense against the charge of rape or sexual assault. (Reverse Scored)","1::7","1= Very much agree; 7= Not at all agree",""
+"ascs09","Integer","","Recommended","If a person who has been drinking becomes sleepy or unconscious, he/she cannot give consent to any sexual activity. (Reverse Scored)","1::7","1= Very much agree; 7= Not at all agree",""
+"ascs10","Integer","","Recommended","When alcohol is involved in a sexual situation, communication signals are easily misinterpreted. (Reverse Scoring)","1::7","1= Very much agree; 7= Not at all agree",""
+"ascs11","Integer","","Recommended","As a general rule, alcohol makes sexual situations easier and more enjoyable for both men and women.","1::7","1= Not at all agree; 7= Very much agree",""
+"ascs12","Integer","","Recommended","Alcohol use is makes a person more vulnerable to sexual assault. (Reverse Scored)","1::7","1= Very much agree; 7= Not at all agree",""
+"ascs_total","Integer","","Recommended","Alcohol and Sexual Consent Scale - Total Score","12::84","Sum of items ascs01 through ascs12",""
+"recognition_q1","Integer","","Recommended","Please rank each item to indicate your level of agreement: A person who is drunk can still give consent to sexual activity.","1 :: 5","5= Strongly Agree; 4= Agree; 3= Undecided; 2= Disagree; 1= Strongly Disagree",""
+"recognition_q2","Integer","","Recommended","Please rank each item to indicate your level of agreement: A person who is sexually assaulted after drinking alcohol should only blame themselves","1 :: 5","5= Strongly Agree; 4= Agree; 3= Undecided; 2= Disagree; 1= Strongly Disagree",""
+"recognition_q3","Integer","","Recommended","Please rank each item to indicate your level of agreement: Consensual drunk sex is a normal and harmless part of college life.","1 :: 5","5= Strongly Agree; 4= Agree; 3= Undecided; 2= Disagree; 1= Strongly Disagree",""
+"recognition_q4","Integer","","Recommended","Please rank each item to indicate your level of agreement: Alcohol is the most common date rape drug (or substance).","1 :: 5","5= Strongly Agree; 4= Agree; 3= Undecided; 2= Disagree; 1= Strongly Disagree",""
+"recognition_q5","Integer","","Recommended","Please rank each item to indicate your level of agreement: When a person is drinking alcohol, they are implying interest in engaging in sexual activity.","1 :: 5","5= Strongly Agree; 4= Agree; 3= Undecided; 2= Disagree; 1= Strongly Disagree",""
+"recognition_q6","Integer","","Recommended","Please rank each item to indicate your level of agreement: If both partners are drunk and have sex, there is no way either partner can be accused of sexual assault or rape.","1 :: 5","5= Strongly Agree; 4= Agree; 3= Undecided; 2= Disagree; 1= Strongly Disagree",""
+"recognition_q7","Integer","","Recommended","Please rank each item to indicate your level of agreement: The more alcohol a person has consumed, the less able they are to consent to sexual activity.","1 :: 5","5= Strongly Agree; 4= Agree; 3= Undecided; 2= Disagree; 1= Strongly Disagree",""
+"recognition_q8","Integer","","Recommended","Please rank each item to indicate your level of agreement: Intoxication is not a defense against the charge of rape or sexual assault.","1 :: 5","5= Strongly Agree; 4= Agree; 3= Undecided; 2= Disagree; 1= Strongly Disagree",""
+"recognition_q9","Integer","","Recommended","Please rank each item to indicate your level of agreement: If a person who has been drinking becomes sleepy or unconscious, they cannot give consent to any sexual activity.","1 :: 5","5= Strongly Agree; 4= Agree; 3= Undecided; 2= Disagree; 1= Strongly Disagree",""
+"recognition_q10","Integer","","Recommended","Please rank each item to indicate your level of agreement: When alcohol is involved in a sexual encounter, communication signals are easily misinterpreted.","1 :: 5","5= Strongly Agree; 4= Agree; 3= Undecided; 2= Disagree; 1= Strongly Disagree",""
+"recognition_q11","Integer","","Recommended","Please rank each item to indicate your level of agreement: As a general rule, alcohol makes sexual encounters easier and more enjoyable for both parties.","1 :: 5","5= Strongly Agree; 4= Agree; 3= Undecided; 2= Disagree; 1= Strongly Disagree",""
+"recognition_q12","Integer","","Recommended","Please rank each item to indicate your level of agreement: Alcohol use makes a person more vulnerable to sexual assault.","1 :: 5","5= Strongly Agree; 4= Agree; 3= Undecided; 2= Disagree; 1= Strongly Disagree",""
+"recognition_q13","Integer","","Recommended","How abusive is pressuring someone to have sex when they have said no?","0 :: 4","0= Not Abusive; 1= A Little Abusive; 2= Somewhat Abusive; 
+3= Very Abusive; 4= Extremely Abusive",""
+"recognition_q14","Integer","","Recommended","How abusive is refusing to use a condom when someone asks to use one?","0 :: 4","0= Not Abusive; 1= A Little Abusive; 2= Somewhat Abusive; 
+3= Very Abusive; 4= Extremely Abusive",""
+"recognition_q15","Integer","","Recommended","How abusive is preventing someone from using birth control when they want to use it?","0 :: 4","0= Not Abusive; 1= A Little Abusive; 2= Somewhat Abusive; 
+3= Very Abusive; 4= Extremely Abusive",""
+"recognition_q16","Integer","","Recommended","How abusive is trying to get someone pregnant when they do not want to be?","0 :: 4","0= Not Abusive; 1= A Little Abusive; 2= Somewhat Abusive; 
+3= Very Abusive; 4= Extremely Abusive",""
+"recognition_q17","Integer","","Recommended","How abusive is trying to make someone have an abortion when they do not want one?","0 :: 4","0= Not Abusive; 1= A Little Abusive; 2= Somewhat Abusive; 
+3= Very Abusive; 4= Extremely Abusive",""
+"recognition_q18","Integer","","Recommended","How abusive is trying to make someone keep a pregnancy that they do not want?","0 :: 4","0= Not Abusive; 1= A Little Abusive; 2= Somewhat Abusive; 
+3= Very Abusive; 4= Extremely Abusive",""
+"recognition_q19","Integer","","Recommended","How abusive is accusing your partner of cheating when they want to use a condom?","0 :: 4","0= Not Abusive; 1= A Little Abusive; 2= Somewhat Abusive; 
+3= Very Abusive; 4= Extremely Abusive",""
+"recognition_q20","Integer","","Recommended","How abusive is threatening to leave someone if they do not have sex (including oral, vaginal, or anal)?","0 :: 4","0= Not Abusive; 1= A Little Abusive; 2= Somewhat Abusive; 
+3= Very Abusive; 4= Extremely Abusive",""
+"recognition_q21","Integer","","Recommended","How abusive is threatening to have sex with others if they do not have sex (including oral, vaginal, or anal sex)?","0 :: 4","0= Not Abusive; 1= A Little Abusive; 2= Somewhat Abusive; 
+3= Very Abusive; 4= Extremely Abusive",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""

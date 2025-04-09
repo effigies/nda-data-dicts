@@ -1,0 +1,130 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","catieid,id,labid,subject,subjid"
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","mmse_date,testdate,wratdate"
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","agemonths"
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"visit","String","60","Recommended","Visit name","","",""
+"visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
+"mmse01","Integer","","Recommended","What is today's date?","0;1","0=Incorrect; 1=Correct","date,mmse1_1,mmse4,mmse_3,mmse_5"
+"mmse02","Integer","","Recommended","What is the year?","0;1","0=Incorrect; 1=Correct","mmse1,mmse1_2,mmse_1,year,year1"
+"mmse03","Integer","","Recommended","What is the month?","0;1","0=Incorrect; 1=Correct","mmse1_3,mmse3,mmse_3,mmse_5,month,monthx"
+"mmse04","Integer","","Recommended","What day of the week is today?","0;1","0=Incorrect; 1=Correct","day,day1,mmse1_4,mmse5,mmse_4"
+"mmse05","Integer","","Recommended","What season is it?","0;1","0=Incorrect; 1=Correct","mmse1_5,mmse2,mmse_2,season"
+"mmse06","Integer","","Recommended","What is the name of this hospital (clinic, place)?","0;1","0=Incorrect; 1=Correct","hospital,mmse1_6,mmse9,mmse_9"
+"mmse07","Integer","","Recommended","What floor are we on?","0;1","0=Incorrect; 1=Correct","floor,mmse10_1,mmse1_7,mmse_10"
+"mmse08","Integer","","Recommended","What town or city are we in?","0;1","0=Incorrect; 1=Correct","city,mmse1_8,mmse8,mmse_7,mmse_8"
+"mmse09","Integer","","Recommended","What county (district, borough, area)","0;1","0=Incorrect; 1=Correct","borough,mmse1_9,mmse_7,mmse_8"
+"mmse10","Integer","","Recommended","What state are we
+in?","0;1","0=Incorrect; 1=Correct","address,mmse1_10,mmse_6"
+"mmse11","Integer","","Recommended","Ball","0;1","0=Incorrect; 1=Correct","immediate1,mmse2_1"
+"mmse12","Integer","","Recommended","Flag","0;1","0=Incorrect; 1=Correct","immediate2,mmse2_2"
+"mmse13","Integer","","Recommended","Tree","0;1","0=Incorrect; 1=Correct","immediate3,mmse2_3"
+"mmse13a","Integer","","Recommended","Enter number of trials","0::6","(null)","mmse2_trials"
+"mmse14","Integer","","Recommended","D","0;1","0=Incorrect; 1=Correct","backwards1,mmse3b_1,mmse_14"
+"mmse15","Integer","","Recommended","L","0;1","0=Incorrect; 1=Correct","backwards2,mmse3b_2,mmse_15"
+"mmse16","Integer","","Recommended","R","0;1","0=Incorrect; 1=Correct","backwards3,mmse3b_3,mmse_16"
+"mmse17","Integer","","Recommended","O","0;1","0=Incorrect; 1=Correct","backwards4,mmse3b_4,mmse_17"
+"mmse18","Integer","","Recommended","W","0;1","0=Incorrect; 1=Correct","backwards5,mmse3b_5,mmse_18"
+"mmse19","Integer","","Recommended","Ball","0;1","0=Incorrect; 1=Correct","delayed1,mmse4_1,mmse_19"
+"mmse20","Integer","","Recommended","Flag","0;1","0=Incorrect; 1=Correct","delayed2,mmse4_2,mmse_20"
+"mmse21","Integer","","Recommended","Tree","0;1","0=Incorrect; 1=Correct","delayed3,mmse4_3,mmse_21"
+"mmse22","Integer","","Recommended","Show the subject a wrist watch and and ask, ""What is this?"" If the subject fives a function, say, ""Yes, but what is this called"" or ""What is its name?""","0;1","0=Incorrect; 1=Correct","mmse14_1,mmse5a_1,mmse_22,mmse_23,naming1"
+"mmse23","Integer","","Recommended","Repeat for pencil","0;1","0=Incorrect; 1=Correct","mmse15_1,mmse5a_2,mmse_22,mmse_23,naming2"
+"mmse24","Integer","","Recommended","Say Repeat after me: no ifs, ands, or buts.""","0;1","0=Incorrect; 1=Correct","mmse16_1,mmse5b,mmse_24,mmseform7,repetition"
+"mmse25","Integer","","Recommended","Take paper in right
+hand, and put it on the floor.","0;1","0=Incorrect; 1=Correct","mmse5c_1,mmse_25,takes"
+"mmse26","Integer","","Recommended","Folds paper in half","0;1","0=Incorrect; 1=Correct","folds,mmse5c_2,mmse_26"
+"mmse27","Integer","","Recommended","Puts paper on floor","0;1","0=Incorrect; 1=Correct","mmse5c_3,mmse_27,puts"
+"mmse28","Integer","","Recommended","Present the piece of paper that reads CLOSE YOUR EYES and say, ""Read this and do what it says."" Score correct only if the subject closes his/her eyes.","0;1","0=Incorrect; 1=Correct","mmse17_1,mmse5d,mmse_28,mmseform9,reading"
+"mmse29","Integer","","Recommended","Give the subject a
+blank piece of paper and say, ""Write a sentence."" If needed, prompt the subject: ""Write a sentence about the weather.""","0;1","0=Incorrect; 1=Correct","mmse18_1,mmse5e,mmse_29,mmseform10,writing"
+"mmse30","Integer","","Recommended","Present the subject with the Construction Stimulus page. Say, ""Copy this design."" Do not allow erasure. The subject may request a second attempt. (Clearly labelk the first and second attempts.)","0;1","0=Incorrect; 1=Correct","copying,mmse19_1,mmse5f,mmse_30,mmseform11"
+"visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
+"phase_ct","String","20","Recommended","Current Phase. Phase patient was in at the time of the assessment Phase 4 refers to the follow-up phase.","Pre-Rand; Phase 1/1A; Phase 2; Phase 3; Phase 4; Phase 1B; Open-Choice Phase; Screening; Phase 1","","phase"
+"mmse_ts","Integer","","Recommended","MMSE Total Score","0::30","Created variable with 20% missing data rule applied: Sum of (MMSE01 through MMSE30), not including MMSE13A","_score,mmse_s_adj,mmse_tot,mmse_total,mmsetot,mmsetotal"
+"base1","Integer","","Recommended","Flag Baseline Phase 1/1A Visit","","1=Yes for all records meeting this criteria",""
+"last1","Integer","","Recommended","Flag Last Phase 1/1A Visit","","1=Yes for all records meeting this criteria",""
+"base_ts","Float","","Recommended","Baseline Total Score","","Scare at Phase 1 baselline",""
+"c_ts","Float","","Recommended","Changed from Baseline ADAS Total Score","","Change from Phase 1 baseline",""
+"mmse20_1","Integer","","Recommended","20. Observe in which hand the subject held the pencil (or ask if the patient is right or left-handed). Take a piece of clean, letter-size paper; hold it up in front of the subject. 
+TAKE THIS PAPER IN YOUR RIGHT/ LEFT HAND, (opposite to dominant hand) FOLD IT IN HALF ONCE WITH BOTH HANDS, AND PUT THE PAPER DOWN ON THE FLOOR.
+Takes paper in RIGHT hand , Folds it in half once with both hands , Puts it on FLOOR 
+Score 1 point for each instruction correctly executed. Maximum of 3 points.","0::3","0 = subject did none: took paper in non-dominant hand, folded it in half once with both hands, put the paper down on the floor
+1 = subject did only one: took paper in non-dominant hand, folded it in half once with both hands, put the paper down on the floor
+2 = subject did only two: took paper in non-dominant hand, folded it in half once with both hands, put the paper down on the floor
+3 = subject did all three: took paper in non-dominant hand, folded it in half once with both hands, put the paper down on the floor",""
+"mmse11_1","Integer","","Recommended","11. I AM GOING TO NAME THREE OBJECTS. AFTER I HAVE SAID ALL THREE OBJECTS I WANT YOU TO REPEAT THEM. REMEMBER WHAT THEY ARE BECAUSE I AM GOING TO ASK YOU TO NAME THEM AGAIN IN A FEW MINUTES. Say the items slowly at one second intervals. APPLE TABLE PENNY
+Say: PLEASE REPEAT THE THREE ITEMS FOR ME.
+Score 1 point for each correct and exact reply on the first attempt. If subject did not repeat all three, repeat until they are learned or up to a maximum of 5 times, but only score first attempt. Number of trials ","1::3","1 = named one object
+2 = named two objects
+3 = named three objects",""
+"mmse12_1","Integer","","Recommended","12. I AM GOING TO ASK YOU TO DO SOME SUBTRACTION. THINK OF THE NUMBER 7. SUBTRACT 7 FROM 100. After first response, whether it is correct or incorrect, say NOW SUBTRACT 7 FROM THAT AND KEEP GOING.
+Once subject starts, do not interrupt. Allow him/her to proceed until five subtractions have been made. Repeat the instruction ""KEEP SUBTRACTING SEVEN FROM WHAT IS LEFT"" a maximum of three times.
+Score 1 point for each correct subtraction - see scoring guidelines 
+SPELL THE WORD ""WORLD"". Only repeat to a maximum of three times, until the subject understands. You may help the subject to spell ""world"" correctly. If s/he cannot spell ""world"" even with assistance, score 0.
+NOW SPELL IT BACKWARDS, PLEASE. (write down subject's reply): See scoring guide in the manual D L R O W","0::5; 8","0 = zero correct subtractions or backward spellings; 1 = one correct subtraction or backward spelling; 2 = two correct subtractions or backward spellings; 3 = three correct subtractions or backward spellings; 4 = four correct subtractions or backward spellings; 5 = five correct subtractions or backward spellings; 8=refused",""
+"mmse13_1","Integer","","Recommended","13. NOW WHAT WERE THE 3 OBJECTS THAT I ASKED YOU TO REMEMBER? Score 1 point for each correct response regardless of order. Do not cue subjects for the objects. 
+APPLE TABLE PENNY","0::3","0=none; 1 = named one object; 2 = named two objects; 3 = named three objects",""
+"mmse6_1","Integer","","Recommended","What country are we in?","0;1","0 = does not know country we are in
+1 = knows country we are in",""
+"mmse7_1","Integer","","Recommended","What province/state/county are we in?","0;1","0 = does not know province/state/county we are in
+1 = knows province/state/county we are in",""
+"study_id","Integer","","Recommended","Study ID number","","46=Acute Phase; 47=Stabilization Phase",""
+"site","String","101","Recommended","Site","","Study Site",""
+"week","Float","","Recommended","Week in level/study","","99=week 10-week 14","intid"
+"mms14","Integer","","Recommended","Attention calculation backward from 100","0;1; 8","Ask the patient to begin with 100 and count backward by sevens. Stop after five subtractions.  Score the total number of correct answers. 8= refused","mmse3a_1,mmse_14"
+"mms15","Integer","","Recommended","Attention calculation backward from 93","0;1; 8","Ask the patient to begin with 93 and count backward by sevens.  Score the total number of correct answers. 8= refused","mmse3a_2,mmse_15"
+"mms16","Integer","","Recommended","Attention calculation backward from 86","0;1; 8","Ask the patient to begin with 86 and count backward by sevens.  Score the total number of correct answers. 8= refused","mmse3a_3,mmse_16"
+"mms17","Integer","","Recommended","Attention calculation backward from 79","0;1; 8","Ask the patient to begin with 79 and count backward by sevens.  Score the total number of correct answers. 8= refused","mmse3a_4,mmse_17"
+"mms18","Integer","","Recommended","Attention calculation backward from 72","0;1; 8","Ask the patient to begin with 72 and count backward by sevens.  Score the total number of correct answers. 8= refused","mmse3a_5,mmse_18"
+"mmses3","Integer","","Recommended","Attention and Calculation alternative Score","0::5","ATTENTION AND CALCULATION alternative - If the patient cannot or will not perform the subtraction task, ask the patient to spell the word ""world"" backwards. The score is the number of letters in correct order (e.g., dlrow=5, dlorw=3).  Administer both, enter the higher of the 2 scores.  ","mmseform4_alt"
+"mmses4","Integer","","Recommended","Attention and Calculation Higher Score","0::5","ATTENTION AND CALCULATION alternative - If the patient cannot or will not perform the subtraction task, ask the patient to spell the word ""world"" backwards. The score is the number of letters in correct order (e.g., dlrow=5, dlorw=3).  Administer both, enter the higher of the 2 scores.   ","high_tot,mmse3c"
+"days_baseline","Integer","","Recommended","Days since baseline","","",""
+"me2","Integer","","Recommended","Status","0;1","0 = Past [Inactive]; 1 = Active",""
+"aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","mmse_interviewer"
+"comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","mmse_comments"
+"dode","String","10","Recommended","Date of Data Entry","","","mmse_entered"
+"orient_tot","Integer","","Recommended","Orientation Total","","",""
+"mmse_11","Integer","","Recommended","Registration: ""Ball""","0;1","0 = Incorrect; 1 = Correct - Trial is registration, not delayed recall",""
+"mmse_12","Integer","","Recommended","Registration: ""Flag""","0;1","0 = Incorrect; 1 = Correct - Trial is registration, not delayed recall",""
+"mmse_13","Integer","","Recommended","Registration: ""Tree""","0;1","0 = Incorrect; 1 = Correct - Trial is registration, not delayed recall",""
+"reg_tot","Integer","","Recommended","Registration Total","","",""
+"att_calc_tot","Integer","","Recommended","Attention & Calculation Total","","","mmse3a_sum"
+"alt_tot","Integer","","Recommended","Alternative ""WORLD"" Spelled Backward","0::5","","mmse3b_sum"
+"recall_tot","Integer","","Recommended","Recall Total","","",""
+"lang_tot","Integer","","Recommended","Language Total","","",""
+"tomal_wsr_trial1_apple","Integer","","Recommended","Word Selective Reminding Trial 1 Apple","0; 1","0 = Did not recall; 1 = Recalled","apple_recall,mmse_19"
+"repeatx","Integer","","Recommended","Repeated all three words?","0;1","0 = No; 1 = Yes",""
+"table_recall","Integer","","Recommended","Recalled Table?","0;1","0 = Incorrect; 1 = Correct","mmse_21"
+"penny_recall","Integer","","Recommended","Recalled Penny?","0;1","0 = Incorrect; 1 = Correct","mmse_20"
+"mmse_less25","Integer","","Recommended","MMSE score of 25 or below on the first visit (if 14 or older) ","0;1","0 = No; 1 = Yes",""
+"comqother","String","255","Recommended","Respondent - Other (text)","","",""
+"mmse_admin","Integer","","Recommended","Administration Method","1;2","1 = In-person; 2 = Remotely",""
+"mmse_assessor","Integer","","Recommended","Assessor:","","Rater number only",""
+"mmse_s_math","Integer","","Recommended","MMSE Score (Serial 7's):","","",""
+"mmse_s_spell","Integer","","Recommended","MMSE Score (WORLD):","","",""
+"mmse_note","Integer","","Recommended","Note Area for MMSE","","",""
+"mmse_011","Integer","","Recommended","Registration: Apple/Pony","0;1","0 = Incorrect; 1 = Correct",""
+"mmse_012","Integer","","Recommended","Registration: Penny/Quarter","0;1","0 = Incorrect; 1 = Correct",""
+"mmse_013","Integer","","Recommended","Registration: Table/Orange","0;1","0 = Incorrect; 1 = Correct",""
+"ca10","Float","","Recommended","Age (years)","","","subject_age"
+"ccc2datecomp","Date","","Recommended","Date Completed","","","mmse_date"
+"mmseform1","Integer","","Recommended","Oriented to date/time: What is the year? Season? Date? Day of the week? Month?","0::5","Number of answers correct; Sum of items mmse01-mmse05",""
+"mmseform2","Integer","","Recommended","Oriented to place: Where are we now: State? County? Town/city? Hospital? Floor?","0::5","Number of answers correct; Sum of items mmse06-mmse10",""
+"mmseform3","Integer","","Recommended","[Examiner names three unrelated objects clearly and slowly] Number of items patient correctly names","0::3","Number of items named",""
+"mmseform4","Integer","","Recommended","Backwards: I would like you to count backward from 100 by sevens, stop after five answers. Correct answer: 93, 86, 79, 72, 65","0::5","Number of answers correct; Sum of items mms14-mms18",""
+"mmseform5","Integer","","Recommended","Recall three items: Earlier I told you the names of three things (mmse3). Can you tell me what those were?","0::3","Number of items recalled",""
+"mmseform6","Integer","","Recommended","Name two items: Show patient two simple objects and ask the patient to name them","0::2","Number of items named",""
+"mmseform8","Integer","","Recommended","Perform command (e.g., take the paper in your right hand, fold it in half, and put it on the floor)","0::3","Number of commands correct",""
+"mmse_07","Integer","","Recommended","Show pencil. Ask:?What is this called??(score one point for correct response; accept pencil only; score 0 for pen)","0;1","0 = Incorrect; 1 = Correct",""
+"mmse_011_v2","Integer","","Recommended","Place design, eraser, and pencil in front of the person. Say:?Copy this design please.?Allow multiple tries. Wait until the person is finished and hands it back. Score one point for a correctly copied diagram. The person must have drawn a four-sided figure between two five-sided figures.?","0;1","0 = Incorrect; 1 = Correct",""
+"mmse_03","Integer","","Recommended","I am going to name three objects. When I am finished, I want you to repeat them. Remember what they are because I am going to ask you to name them again in a few minutes. (Say the following words slowly at approximately one-second intervals): Ball / Car / Man.","0::3","0 = 0 points; 1 = 1 point; 2 = 2 points; 3 = 3 points",""
+"mmse_total","Integer","","Recommended","MMSE Total score","0::30","Sum of items mmseform1, mmse_2-mmse_4, mmseform5, mmse_6, mmse24, mmse25, mmse_9-mmse__11. ",""
+"mmse_2","Integer","","Recommended","''Where are we now? State? County? Town/city? Street? Address?''","0::5","0 = 0 points; 1 = 1 point; 2 = 2 points; 3 = 3 points; 4 = 4 points; 5 = 5 points ",""
+"mmse_3","Integer","","Recommended","The examiner names three unrelated objects (ex. penny, lamp, dog) clearly and slowly, then the instructor asks the patient to name all three of them. The patient''s response is used for scoring. The examiner repeats them until patient learns all of them, if possible.","0::3","0 = 0 points; 1 = 1 point; 2 = 2 points; 3 = 3 points",""
+"mmse_4","Integer","","Recommended","''I would like you to count backward from 100 by sevens.'' (93, 86, 79, 72, 65, ...) Alternative: ''Spell WORLD backwards.'' (D-L-R-O-W)","0::5","0 = 0 points; 1 = 1 point; 2 = 2 points; 3 = 3 points; 4 = 4 points; 5 = 5 points ",""
+"mmse_6","Integer","","Recommended","Show the patient two simple objects, such as a wristwatch and a pencil, and ask the patient to name them.","0::2","0 = 0 points; 1 = 1 point; 2 = 2 points",""
+"mmse_9","Integer","","Recommended","Please read this and do what it says.(Written instruction is ''Close your eyes''.)","0;1","0 = 0 points; 1 = 1 point",""
+"mmse_10","Integer","","Recommended","Make up and write a sentence about anything. (This sentence must contain a noun and a verb.)","0;1","0 = 0 points; 1 = 1 point",""
+"mmse__11","Integer","","Recommended","''Please copy this picture.'' (The examiner gives the patient a blank piece of paper and asks him/her to draw the symbol below. All 10 angles must be present and two must intersect.)","0;1","0 = 0 points; 1 = 1 point",""

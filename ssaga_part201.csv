@@ -1,0 +1,1309 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
+"ssaga_event2","String","10","Recommended","Data Collection Event","V1;V2","V1 = Visit 1; V2 = Visit 2","event"
+"ssaga_mj1","Integer","","Recommended","883 : MARIJUANA I : MJ1 Have you ever used marijuana or hashish?","1;5","1 = NO ; 5 = YES","mj1"
+"ssaga_mj1a","Float","","Recommended","884 : MARIJUANA I : A. How many times? IF DON'T KNOW, CODE 99999","","99999 = Don't know","mj1a"
+"ssaga_mj1a1","Integer","","Recommended","885 : MARIJUANA I : 1. IF DK: Would you say 11 or more times?","1;5","1 = NO ; 5 = YES","mj1a1"
+"ssaga_mj1a2","Integer","","Recommended","886 : MARIJUANA I : 2. IF NO: Would you say 5 or more times?","1;5","1 = NO ; 5 = YES","mj1a2"
+"ssaga_mj1b","Integer","","Recommended","887 : MARIJUANA I : B. Did you ever use marijuana at least 21 times in a single year? IF FEWER THAN 21 TIMES, CODE B ""NO"" SILENTLY. OTHERS CONTINUE.","1;5","1 = NO ; 5 = YES","mj1b"
+"ssaga_mj2_ageons","Float","","Recommended","888 : MARIJUANA I : AGE ONS:","","9999 = Don't know","mj2_ageons"
+"ssaga_mj2a","Integer","","Recommended","889 : MARIJUANA I : A. Did you use marijuana more than once before you were 15?","1;5","1 = NO ; 5 = YES","mj2a"
+"ssaga_mj2b_agerec","Float","","Recommended","890 : MARIJUANA I : AGE REC:","","9999 = Don't know","mj2b_agerec"
+"ssaga_mj2b_12mago","Integer","","Recommended","891 : MARIJUANA I : IF REC OVER 1 YEAR AGO?","1;5","1 = NO ; 5 = YES","mj2b_12mago"
+"ssaga_mj2c","Float","","Recommended","892 : MARIJUANA I : C. How many times did you use marijuana in the last 12 months? IF DON'T KNOW, CODE 99999","","99999 = Don't know","mj2c"
+"ssaga_mj2c1","Integer","","Recommended","893 : MARIJUANA I : 1. Did you use marijuana at least 21 times during the past 12 months?","1;5","1 = NO ; 5 = YES","mj2c1"
+"ssaga_mj2d","Integer","","Recommended","894 : MARIJUANA I : D. Did you ever use marijuana at least once a week for a month or more?","1;5","1 = NO ; 5 = YES","mj2d"
+"ssaga_mj3","Float","","Recommended","895 : MARIJUANA I : MJ3 What was the longest period of time you used marijuana almost every day?","","","mj3"
+"ssaga_mj3_unit","Integer","","Recommended","896 : MARIJUANA I : CODE UNIT IF NEVER, CODE 0 DAYS","1::4","1 = DAYS ; 2 = WEEKS ; 3 = MONTHS ; 4 = YEARS","mj3_unit"
+"ssaga_mj3_days","Float","","Recommended","897 : MARIJUANA I : Days used MJ:","","sum((if([mj3_unit]=1, ([mj3]*[mj3_unit]), 0)),
+(if([mj3_unit]=2, ([mj3]*7), 0)),
+(if([mj3_unit]=3, ([mj3]*30), 0)),
+(if([mj3_unit]=4, ([mj3]*365), 0)))","mj3_days"
+"ssaga_mj3a_ageons","Float","","Recommended","898 : MARIJUANA I : AGE ONS:","","","mj3a_ageons"
+"ssaga_mj3a_agerec","Float","","Recommended","899 : MARIJUANA I : AGE REC:","","","mj3a_agerec"
+"ssaga_mj3b","Float","","Recommended","900 : MARIJUANA I : B. Please think about the period when you were using marijuana the most.  During that period, how many days per month did you use marijuana?","","","mj3b"
+"ssaga_mj3c","Float","","Recommended","901 : MARIJUANA I : C. During that period of heaviest use, how much marijuana did you use on an average day?","","","mj3c"
+"ssaga_mj3c_unit","Integer","","Recommended","902 : MARIJUANA I : CODE UNITS","2::4","2 = HITS ; 3 = JOINTS/CIGS ; 4 = PIPEFULS","mj3c_unit"
+"ssaga_mj3d","Float","","Recommended","903 : MARIJUANA I : D. How old were you when that period started?","","","mj3d"
+"ssaga_mj3e","Float","","Recommended","904 : MARIJUANA I : E. How long did that period last?","","","mj3e"
+"ssaga_mj4","Integer","","Recommended","905 : MARIJUANA I : MJ4 Have you ever stayed high from marijuana for a whole day or more?","1;5","1 = NO ; 5 = YES","mj4"
+"ssaga_mj4a_ageons","Float","","Recommended","906 : MARIJUANA I : AGE ONS:","","","mj4a_ageons"
+"ssaga_mj4a_agerec","Float","","Recommended","907 : MARIJUANA I : AGE REC:","","","mj4a_agerec"
+"ssaga_mj5","Integer","","Recommended","908 : MARIJUANA I : MJ5 Has there ever been a period of a month or more when a great deal of your time was spent using marijuana, getting marijuana, or getting over its effects?","1;5","1 = NO ; 5 = YES","mj5"
+"ssaga_mj6_1","Integer","","Recommended","909 : MARIJUANA I : 1. Feeling depressed or uninterested in things for more than 24 hours to the point that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","mj6_1"
+"ssaga_mj6_2","Integer","","Recommended","910 : MARIJUANA I : 2. Having trouble concentrating or having such trouble thinking clearly for more than 24 hours  that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","mj6_2"
+"ssaga_mj6_3","Integer","","Recommended","911 : MARIJUANA I : 3. Feeling paranoid or suspicious of people for more than 24 hours to the point that it interfered with your relationships?","1;5","1 = NO ; 5 = YES","mj6_3"
+"ssaga_mj6_4","Integer","","Recommended","912 : MARIJUANA I : 4. Decreased contact with friends or family?","1;5","1 = NO ; 5 = YES","mj6_4"
+"ssaga_mj6_5","Integer","","Recommended","913 : MARIJUANA I : 5. Hearing, seeing, or smelling things that weren't really there?","1;5","1 = NO ; 5 = YES","mj6_5"
+"ssaga_mj6a_1","Integer","","Recommended","914 : MARIJUANA I : 1. Feeling depressed or uninterested in things for more than 24 hours to the point that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","mj6a_1"
+"ssaga_mj6a_2","Integer","","Recommended","915 : MARIJUANA I : 2. Having trouble concentrating or having such trouble thinking clearly for more than 24 hours  that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","mj6a_2"
+"ssaga_mj6a_3","Integer","","Recommended","916 : MARIJUANA I : 3. Feeling paranoid or suspicious of people for more than 24 hours to the point that it interfered with your relationships?","1;5","1 = NO ; 5 = YES","mj6a_3"
+"ssaga_mj6a_4","Integer","","Recommended","917 : MARIJUANA I : 4. Decreased contact with friends or family?","1;5","1 = NO ; 5 = YES","mj6a_4"
+"ssaga_mj6a_5","Integer","","Recommended","918 : MARIJUANA I : 5. Hearing, seeing, or smelling things that weren't really there?","1;5","1 = NO ; 5 = YES","mj6a_5"
+"ssaga_mj6a","Float","","Recommended","919 : MARIJUANA I : MJ6A","","if(([mj6a_1]='5' or [mj6a_2]='5' or [mj6a_3]='5' or [mj6a_4]='5' or [mj6a_5]='5'), 5, 1)","mj6a"
+"ssaga_mj6b","Integer","","Recommended","920 : MARIJUANA I : B. Did you have decreased contact with friends or family 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","mj6b"
+"ssaga_mj7","Integer","","Recommended","921 : MARIJUANA I : MJ7 Have you often wanted to stop or cut down on marijuana?","1;5","1 = NO ; 5 = YES","mj7"
+"ssaga_mj7a","Integer","","Recommended","922 : MARIJUANA I : A. Have you ever tried to stop or cut down on marijuana but found you couldn't? IF NEVER TRIED TO STOP/CUT DOWN, CODE NO.","1;5","1 = NO, COULD STOP ; 5 = YES, COULD NOT STOP","mj7a"
+"ssaga_mj7b","Integer","","Recommended","923 : MARIJUANA I : B. Were you unable to stop or cut down 3 or more times?","1;5","1 = NO ; 5 = YES","mj7b"
+"ssaga_mj8","Integer","","Recommended","924 : MARIJUANA I : MJ8 Have you often used marijuana more frequently or in larger amounts than you intended to?","1;5","1 = NO ; 5 = YES","mj8"
+"ssaga_mj9","Integer","","Recommended","925 : MARIJUANA I : MJ9 Did you ever need larger amounts of marijuana to get an effect, or did you ever find that you could no longer get high on the amount you used to use?","1;5","1 = NO ; 5 = YES","mj9"
+"ssaga_mj10_1","Integer","","Recommended","926 : MARIJUANA II : 1. feel nervous, tense, restless or irritable?","1;5","1 = NO ; 5 = YES","mj10_1"
+"ssaga_mj10_2","Integer","","Recommended","927 : MARIJUANA II : 2. have trouble sleeping?","1;5","1 = NO ; 5 = YES","mj10_2"
+"ssaga_mj10_3","Integer","","Recommended","928 : MARIJUANA II : 3. tremble or twitch?","1;5","1 = NO ; 5 = YES","mj10_3"
+"ssaga_mj10_4","Integer","","Recommended","929 : MARIJUANA II : 4. sweat or have a fever?","1;5","1 = NO ; 5 = YES","mj10_4"
+"ssaga_mj10_5","Integer","","Recommended","930 : MARIJUANA II : 5. have nausea or vomiting?","1;5","1 = NO ; 5 = YES","mj10_5"
+"ssaga_mj10_6","Integer","","Recommended","931 : MARIJUANA II : 6. have diarrhea or stomach aches?","1;5","1 = NO ; 5 = YES","mj10_6"
+"ssaga_mj10_7","Integer","","Recommended","932 : MARIJUANA II : 7. have a marked increase or decrease in appetite, that is, have a significant change from your normal level?","1;5","1 = NO ; 5 = YES","mj10_7"
+"ssaga_mj10_sum","Float","","Recommended","933 : MARIJUANA II : MJ10 Endorsed;","","sum((if([mj10_1]='5', 1, 0)),
+(if([mj10_2]='5', 1, 0)),
+(if([mj10_3]='5', 1, 0)),
+(if([mj10_4]='5', 1, 0)),
+(if([mj10_5]='5', 1, 0)),
+(if([mj10_6]='5', 1, 0)),
+(if([mj10_7]='5', 1, 0)))","mj10_sum"
+"ssaga_mj10a","Integer","","Recommended","934 : MARIJUANA II : A. Have you ever used marijuana to keep from having any of these problems or to make them go away?","1;5","1 = NO ; 5 = YES","mj10a"
+"ssaga_mj10b","Integer","","Recommended","935 : MARIJUANA II : B. Did this happen 3 or more times?","1;5","1 = NO ; 5 = YES","mj10b"
+"ssaga_mj10c","Integer","","Recommended","936 : MARIJUANA II : C. Did these problems ever occur together?","1;5","1 = NO ; 5 = YES","mj10c"
+"ssaga_mj10d_1","Integer","","Recommended","937 : MARIJUANA II : 1. feel nervous, tense, restless or irritable?","1;5","1 = NO ; 5 = YES","mj10d_1"
+"ssaga_mj10d_2","Integer","","Recommended","938 : MARIJUANA II : 2. have trouble sleeping?","1;5","1 = NO ; 5 = YES","mj10d_2"
+"ssaga_mj10d_3","Integer","","Recommended","939 : MARIJUANA II : 3. tremble or twitch?","1;5","1 = NO ; 5 = YES","mj10d_3"
+"ssaga_mj10d_4","Integer","","Recommended","940 : MARIJUANA II : 4. sweat or have a fever?","1;5","1 = NO ; 5 = YES","mj10d_4"
+"ssaga_mj10d_5","Integer","","Recommended","941 : MARIJUANA II : 5. have nausea or vomiting?","1;5","1 = NO ; 5 = YES","mj10d_5"
+"ssaga_mj10d_6","Integer","","Recommended","942 : MARIJUANA II : 6. have diarrhea or stomach aches?","1;5","1 = NO ; 5 = YES","mj10d_6"
+"ssaga_mj10d_7","Integer","","Recommended","943 : MARIJUANA II : 7. have a marked increase or decrease in appetite, that is, have a significant change from your normal level?","1;5","1 = NO ; 5 = YES","mj10d_7"
+"ssaga_mj10e","Integer","","Recommended","944 : MARIJUANA II : E. How many times did you have problems like that (when they occurred together)?","","","mj10e"
+"ssaga_mj10f","Integer","","Recommended","945 : MARIJUANA II : F. What was the longest time these problems occurred together?","","","mj10f"
+"ssaga_mj10g","Integer","","Recommended","946 : MARIJUANA II : G. Did these problems interfere with your functioning at work, school, or home?","1;5","1 = NO ; 5 = YES","mj10g"
+"ssaga_mj11","Integer","","Recommended","947 : MARIJUANA II : MJ11 Have you ever been under the effects of marijuana when it increased your chances of getting hurt, for instance, when driving a car or boat, using knives, machinery or guns, crossing against traffic, climbing or swimming?","1;5","1 = NO ; 5 = YES","mj11"
+"ssaga_mj11a","Integer","","Recommended","948 : MARIJUANA II : A. Have you been in situations like this 3 or more times?","1;5","1 = NO ; 5 = YES","mj11a"
+"ssaga_mj11a1","Integer","","Recommended","949 : MARIJUANA II : 1. Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","mj11a1"
+"ssaga_mj11b","Integer","","Recommended","950 : MARIJUANA II : B. Did marijuana ever cause you to have any accidental injuries like a bad fall, cutting or burning yourself, or being hurt in a traffic accident?","1;5","1 = NO ; 5 = YES","mj11b"
+"ssaga_mj11c","Integer","","Recommended","951 : MARIJUANA II : C. Did this happen 3 or more times?","1;5","1 = NO ; 5 = YES","mj11c"
+"ssaga_mj11c1","Integer","","Recommended","952 : MARIJUANA II : 1. Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","mj11c1"
+"ssaga_mj12","Integer","","Recommended","953 : MARIJUANA II : MJ12 Did your marijuana use ever cause you to have problems with your friends or family?","1;5","1 = NO ; 5 = YES","mj12"
+"ssaga_mj12a","Integer","","Recommended","954 : MARIJUANA II : A. Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","mj12a"
+"ssaga_mj12b","Integer","","Recommended","955 : MARIJUANA II : B. Did you continue to use marijuana after you realized it was causing these problems?","1;5","1 = NO ; 5 = YES","mj12b"
+"ssaga_mj13","Integer","","Recommended","956 : MARIJUANA II : MJ13 Have you ever been arrested or had any other trouble with the police because of your marijuana use?","1;5","1 = NO ; 5 = YES","mj13"
+"ssaga_mj13a","Integer","","Recommended","957 : MARIJUANA II : A. Did this happen 3 or more times?","1;5","1 = NO ; 5 = YES","mj13a"
+"ssaga_mj13a1","Integer","","Recommended","958 : MARIJUANA II : 1. Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","mj13a1"
+"ssaga_mj14","Integer","","Recommended","959 : MARIJUANA II : MJ14 Has your being high on marijuana or experiencing its after-effects often interfered with your work, school, household, or child care responsibilities?","1;5","1 = NO ; 5 = YES","mj14"
+"ssaga_mj14a","Integer","","Recommended","960 : MARIJUANA II : A. Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","mj14a"
+"ssaga_mj16","Integer","","Recommended","961 : MARIJUANA II : MJ16 In situations where you couldn't use marijuana, did you ever have such a strong desire for it that you couldn't think of anything else?","1;5","1 = NO ; 5 = YES","mj16"
+"ssaga_mj16a_ageons","Float","","Recommended","962 : MARIJUANA II : AGE ONS:","","","mj16a_ageons"
+"ssaga_mj16a_agerec","Float","","Recommended","963 : MARIJUANA II : AGE REC:","","","mj16a_agerec"
+"ssaga_mj17","Integer","","Recommended","964 : MARIJUANA II : MJ17 Have you given up or greatly reduced important activities like sports, work, or associating with friends or relatives while using marijuana?","1;5","1 = NO ; 5 = YES","mj17"
+"ssaga_mj17a","Integer","","Recommended","965 : MARIJUANA II : A. Has this happened 3 or more times, or did it last a month or longer?","1;5","1 = NO ; 5 = YES","mj17a"
+"ssaga_mj18","Integer","","Recommended","966 : MARIJUANA II : MJ18 Have you ever used marijuana together with one or more other drugs, including alcohol?","1::5","1 = NO ; 3 =    ALCOHOL ONLY ; 5 = YES","mj18"
+"ssaga_mj18_specify","Integer","","Recommended","967 : MARIJUANA II : IF YES:  Let's list these drugs, beginning with the first you used together with marijuana. Choose how many first:","1::10","1 = 1; 2 = 2; 3 = 3; 4 = 4; 5 = 5; 6 = 6; 7 = 7; 8 = 8; 9 = 9; 10 = 10","mj18_specify"
+"ssaga_mj18_specify1","String","20","Recommended","968 : MARIJUANA II : Drug 1:","","","mj18_specify1"
+"ssaga_mj18_specify2","String","20","Recommended","969 : MARIJUANA II : Drug 2:","","","mj18_specify2"
+"ssaga_mj18_specify3","String","20","Recommended","970 : MARIJUANA II : Drug 3:","","","mj18_specify3"
+"ssaga_mj18_specify4","String","20","Recommended","971 : MARIJUANA II : Drug 4:","","","mj18_specify4"
+"ssaga_mj18_specify5","String","20","Recommended","972 : MARIJUANA II : Drug 5:","","","mj18_specify5"
+"ssaga_mj18_specify6","String","20","Recommended","973 : MARIJUANA II : Drug 6:","","","mj18_specify6"
+"ssaga_mj18_specify7","String","20","Recommended","974 : MARIJUANA II : Drug 7:","","","mj18_specify7"
+"ssaga_mj18_specify8","String","20","Recommended","975 : MARIJUANA II : Drug 8:","","","mj18_specify8"
+"ssaga_mj18_specify9","String","20","Recommended","976 : MARIJUANA II : Drug 9:","","","mj18_specify9"
+"ssaga_mj18_specify10","String","20","Recommended","977 : MARIJUANA II : Drug 10:","","","mj18_specify10"
+"ssaga_mj_total","Float","","Recommended","978 : MARIJUANA II : MJ19 TOTAL SX:","","sum((if([mj5]='5', 1, 0)),
+(if([mj6a]='5', 1, 0)),
+(if([mj7]='5', 1, 0)),
+(if([mj7a]='5', 1, 0)),
+(if([mj8]='5', 1, 0)),
+(if([mj9]='5', 1, 0)),
+(if([mj10b]='5', 1, 0)),
+(if([mj10c]='5', 1, 0)),
+(if([mj11a]='5', 1, 0)),
+(if([mj11c]='5', 1, 0)),
+(if([mj12b]='5', 1, 0)),
+(if([mj13a]='5', 1, 0)),
+(if([mj14]='5', 1, 0)),
+(if([mj16]='5', 1, 0)),
+(if([mj17a]='5', 1, 0)))","mj_total"
+"ssaga_mj5_12m","Integer","","Recommended","979 : MARIJUANA II : MJ5 12-MONTH: Spend a great deal of time using marijuana, getting it, or getting over its effects","1;5","1 = NO ; 5 = YES","mj5_12m"
+"ssaga_mj6a_12m","Integer","","Recommended","980 : MARIJUANA II : MJ6A1-5 12-MONTH: Continue to use marijuana knowing it caused any emotional or psychological problems or decreased contact with family/friends","1;5","1 = NO ; 5 = YES","mj6a_12m"
+"ssaga_mj7_12m","Integer","","Recommended","981 : MARIJUANA II : MJ7 12-MONTH: Often want to stop or cut down on marijuana","1;5","1 = NO ; 5 = YES","mj7_12m"
+"ssaga_mj7a_12m","Integer","","Recommended","982 : MARIJUANA II : MJ7A 12-MONTH: Try but find yourself unable to stop or cut down on marijuana","1;5","1 = NO ; 5 = YES","mj7a_12m"
+"ssaga_mj8_12m","Integer","","Recommended","983 : MARIJUANA II : MJ8 12-MONTH: Often use marijuana in larger amounts than intended","1;5","1 = NO ; 5 = YES","mj8_12m"
+"ssaga_mj9_12m","Integer","","Recommended","984 : MARIJUANA II : MJ9 12-MONTH: Need larger amounts of marijuana to get same effect or couldn't get high on amount used","1;5","1 = NO ; 5 = YES","mj9_12m"
+"ssaga_mj10b_12m","Integer","","Recommended","985 : MARIJUANA II : MJ10B 12-MONTH: Use marijuana to avoid withdrawal symptoms","1;5","1 = NO ; 5 = YES","mj10b_12m"
+"ssaga_mj10c_12m","Integer","","Recommended","986 : MARIJUANA II : MJ10C 12-MONTH: Experience withdrawal symptoms","1;5","1 = NO ; 5 = YES","mj10c_12m"
+"ssaga_mj11a_12m","Integer","","Recommended","987 : MARIJUANA II : MJ11A 12-MONTH: High from marijuana when could have injured yourself","1;5","1 = NO ; 5 = YES","mj11a_12m"
+"ssaga_mj11c_12m","Integer","","Recommended","988 : MARIJUANA II : MJ11C 12-MONTH: Have accidental injuries caused by marijuana","1;5","1 = NO ; 5 = YES","mj11c_12m"
+"ssaga_mj12b_12m","Integer","","Recommended","989 : MARIJUANA II : MJ12B 12-MONTH: Continue to use despite problems with family/friends","1;5","1 = NO ; 5 = YES","mj12b_12m"
+"ssaga_mj13a_12m","Integer","","Recommended","990 : MARIJUANA II : MJ13A 12-MONTH: Have trouble with police","1;5","1 = NO ; 5 = YES","mj13a_12m"
+"ssaga_mj14_12m","Integer","","Recommended","991 : MARIJUANA II : MJ14 12-MONTH: Find that marijuana often interfered with your responsibilities","1;5","1 = NO ; 5 = YES","mj14_12m"
+"ssaga_mj16_12m","Integer","","Recommended","992 : MARIJUANA II : MJ16 12-MONTH: Have such a strong desire for marijuana that you couldn't think of anything else","1;5","1 = NO ; 5 = YES","mj16_12m"
+"ssaga_mj17a_12m","Integer","","Recommended","993 : MARIJUANA II : MJ17A 12-MONTH: Give up or reduce important activities to use marijuana","1;5","1 = NO ; 5 = YES","mj17a_12m"
+"ssaga_mj_30d","Integer","","Recommended","994 : MARIJUANA II : Did any of these occur together in the same 30-Day period?","1;5","1 = NO ; 5 = YES","mj_30d"
+"ssaga_mj5_30d","Integer","","Recommended","995 : MARIJUANA II : MJ5 30-DAY: Spend a great deal of time using marijuana, getting it, or getting over its effects","1;5","1 = NO ; 5 = YES","mj5_30d"
+"ssaga_mj6a_30d","Integer","","Recommended","996 : MARIJUANA II : MJ6A1-5 30-DAY: Continue to use marijuana knowing it caused any emotional or psychological problems or decreased contact with family/friends","1;5","1 = NO ; 5 = YES","mj6a_30d"
+"ssaga_mj7_30d","Integer","","Recommended","997 : MARIJUANA II : MJ7 30-DAY: Often want to stop or cut down on marijuana","1;5","1 = NO ; 5 = YES","mj7_30d"
+"ssaga_mj7a_30d","Integer","","Recommended","998 : MARIJUANA II : MJ7A 30-DAY: Try but find yourself unable to stop or cut down on marijuana","1;5","1 = NO ; 5 = YES","mj7a_30d"
+"ssaga_mj8_30d","Integer","","Recommended","999 : MARIJUANA II : MJ8 30-DAY: Often use marijuana in larger amounts than intended","1;5","1 = NO ; 5 = YES","mj8_30d"
+"ssaga_mj9_30d","Integer","","Recommended","1000 : MARIJUANA II : MJ9 30-DAY: Need larger amounts of marijuana to get same effect or couldn't get high on amount used","1;5","1 = NO ; 5 = YES","mj9_30d"
+"ssaga_mj10b_30d","Integer","","Recommended","1001 : MARIJUANA II : MJ10B 30-DAY: Use marijuana to avoid withdrawal symptoms","1;5","1 = NO ; 5 = YES","mj10b_30d"
+"ssaga_mj10c_30d","Integer","","Recommended","1002 : MARIJUANA II : MJ10C 30-DAY: Experience withdrawal symptoms","1;5","1 = NO ; 5 = YES","mj10c_30d"
+"ssaga_mj11a_30d","Integer","","Recommended","1003 : MARIJUANA II : MJ11A 30-DAY: High from marijuana when could have injured yourself","1;5","1 = NO ; 5 = YES","mj11a_30d"
+"ssaga_mj11c_30d","Integer","","Recommended","1004 : MARIJUANA II : MJ11C 30-DAY: Have accidental injuries caused by marijuana","1;5","1 = NO ; 5 = YES","mj11c_30d"
+"ssaga_mj12b_30d","Integer","","Recommended","1005 : MARIJUANA II : MJ12B 30-DAY: Continue to use despite problems with family/friends","1;5","1 = NO ; 5 = YES","mj12b_30d"
+"ssaga_mj13a_30d","Integer","","Recommended","1006 : MARIJUANA II : MJ13A 30-DAY: Have trouble with police","1;5","1 = NO ; 5 = YES","mj13a_30d"
+"ssaga_mj14_30d","Integer","","Recommended","1007 : MARIJUANA II : MJ14 30-DAY: Find that marijuana often interfered with your responsibilities","1;5","1 = NO ; 5 = YES","mj14_30d"
+"ssaga_mj16_30d","Integer","","Recommended","1008 : MARIJUANA II : MJ16 30-DAY: Have such a strong desire for marijuana that you couldn't think of anything else","1;5","1 = NO ; 5 = YES","mj16_30d"
+"ssaga_mj17a_30d","Integer","","Recommended","1009 : MARIJUANA II : MJ17A 30-DAY: Give up or reduce important activities to use marijuana","1;5","1 = NO ; 5 = YES","mj17a_30d"
+"ssaga_mj19_ageons","Float","","Recommended","1010 : MARIJUANA II : AGE ONS:","","","mj19_ageons"
+"ssaga_mj19_agerec","Float","","Recommended","1011 : MARIJUANA II : AGE REC:","","","mj19_agerec"
+"ssaga_mj23","Integer","","Recommended","1012 : MARIJUANA II : MJ23 Have you ever brought up any problem you might have had with marijuana with any professional?","1;5","1 = NO ; 5 = YES","mj23"
+"ssaga_mj23a1","Integer","","Recommended","1013 : MARIJUANA II : 1. Psychiatrist","1;5","1 = NO ; 5 = YES","mj23a1"
+"ssaga_mj23a2","Integer","","Recommended","1014 : MARIJUANA II : 2. Another medical doctor","1;5","1 = NO ; 5 = YES","mj23a2"
+"ssaga_mj23a3","Integer","","Recommended","1015 : MARIJUANA II : 3. Psychologist","1;5","1 = NO ; 5 = YES","mj23a3"
+"ssaga_mj23a4","Integer","","Recommended","1016 : MARIJUANA II : 4. Another mental health professional","1;5","1 = NO ; 5 = YES","mj23a4"
+"ssaga_mj23a5","Integer","","Recommended","1017 : MARIJUANA II : 5. Member of the clergy","1;5","1 = NO ; 5 = YES","mj23a5"
+"ssaga_mj23a6","Integer","","Recommended","1018 : MARIJUANA II : 6. Another professional:","1;5","1 = NO ; 5 = YES","mj23a6"
+"ssaga_mj23a6specify","String","90","Recommended","1019 : MARIJUANA II : Specify:","","","mj23a6specify"
+"ssaga_mj23_ageons","Float","","Recommended","1020 : MARIJUANA II : AGE ONS:","","","mj23_ageons"
+"ssaga_mj23_agerec","Float","","Recommended","1021 : MARIJUANA II : AGE REC:","","","mj23_agerec"
+"ssaga_mj24","Integer","","Recommended","1022 : MARIJUANA II : MJ24 Have you ever been treated for a problem with marijuana?","1;5","1 = NO ; 5 = YES","mj24"
+"ssaga_mj24a1","Integer","","Recommended","1023 : MARIJUANA II : 1. NA or another self-help group","1;5","1 = NO ; 5 = YES","mj24a1"
+"ssaga_mj24a2","Integer","","Recommended","1024 : MARIJUANA II : 2. an outpatient drug program?","1;5","1 = NO ; 5 = YES","mj24a2"
+"ssaga_mj24a3","Integer","","Recommended","1025 : MARIJUANA II : 3. an outpatient program for something other than marijuana?","1;5","1 = NO ; 5 = YES","mj24a3"
+"ssaga_mj24a4","Integer","","Recommended","1026 : MARIJUANA II : 4. an inpatient drug program?","1;5","1 = NO ; 5 = YES","mj24a4"
+"ssaga_mj24a5","Integer","","Recommended","1027 : MARIJUANA II : 5. when you were an inpatient for medical complications due to marijuana use?","1;5","1 = NO ; 5 = YES","mj24a5"
+"ssaga_mj24a6","Integer","","Recommended","1028 : MARIJUANA II : 6. at any other place or program?","1;5","1 = NO ; 5 = YES","mj24a6"
+"ssaga_mj24a6specify","String","20","Recommended","1029 : MARIJUANA II : Specify:","","","mj24a6specify"
+"ssaga_mj24b_ageons","Float","","Recommended","1030 : MARIJUANA II : AGE ONS:","","","mj24b_ageons"
+"ssaga_mj24b_agerec","Float","","Recommended","1031 : MARIJUANA II : AGE REC:","","","mj24b_agerec"
+"ssaga_mj24d","Integer","","Recommended","1032 : MARIJUANA II : D. Did you ever attend a self-help group (like NA) for your marijuana use?","1;5","1 = NO ; 5 = YES","mj24d"
+"ssaga_mj24d_ageons","Float","","Recommended","1033 : MARIJUANA II : AGE ONS:","","","mj24d_ageons"
+"ssaga_mj24d_agerec","Float","","Recommended","1034 : MARIJUANA II : AGE REC:","","","mj24d_agerec"
+"ssaga_mj_notes","String","360","Recommended","1035 : MARIJUANA II : MARIJUANA NOTES:","","","mj_notes"
+"ssaga_dr_yn","Integer","","Recommended","1036 : DRUGS I : DR1 Have you ever used any of these drugs? Cocaine, Stimulants, Sedatives, Opiates, PCP, Hallucinogens, Solvents, Combinations (speedballs, ice), Other","1;5","1 = NO ; 5 = YES","dr_yn"
+"ssaga_dr1","Integer","","Recommended","1037 : DRUGS I : DR1 Drugs:","1::9","1 = COC ; 2 = STIM ; 3 = SED ; 4 = OPIATE ; 5 = PCP ; 6 = HAL ; 7 = SOL ; 8 = COMB ; 9 = OTHER","dr1"
+"ssaga_dr1_1a","Float","","Recommended","1038 : DRUGS I : A. How many times in your life have you used COCAINE? (If don't know, please fill in 9999)","","9999 = Don't know","dr1_1a"
+"ssaga_dr1_1a1","Integer","","Recommended","1039 : DRUGS I : 1. IF DK, ASK:  Would you say 11 or more times?","1;5","1 = NO ; 5 = YES","dr1_1a1"
+"ssaga_dr1_1a2","Integer","","Recommended","1040 : DRUGS I : 2. IF NO, ASK:  Would you say 5 or more times?","1;5","1 = NO ; 5 = YES","dr1_1a2"
+"ssaga_dr1_1b_ageons","Float","","Recommended","1041 : DRUGS I : AGE ONS:","","","dr1_1b_ageons"
+"ssaga_dr1_1b_agerec","Float","","Recommended","1042 : DRUGS I : AGE REC:","","","dr1_1b_agerec"
+"ssaga_dr1_2a","Float","","Recommended","1043 : DRUGS I : A. How many times in your life have you used STIM? (If don't know, please fill in 9999)","","9999 = Don't know","dr1_2a"
+"ssaga_dr1_2a1","Integer","","Recommended","1044 : DRUGS I : 1. IF DK, ASK:  Would you say 11 or more times?","1;5","1 = NO ; 5 = YES","dr1_2a1"
+"ssaga_dr1_2a2","Integer","","Recommended","1045 : DRUGS I : 2. IF NO, ASK:  Would you say 5 or more times?","1;5","1 = NO ; 5 = YES","dr1_2a2"
+"ssaga_dr1_2b_ageons","Float","","Recommended","1046 : DRUGS I : AGE ONS:","","","dr1_2b_ageons"
+"ssaga_dr1_2b_agerec","Float","","Recommended","1047 : DRUGS I : AGE REC:","","","dr1_2b_agerec"
+"ssaga_dr1_3a","Float","","Recommended","1048 : DRUGS I : A. How many times in your life have you used SED? (If don't know, please fill in 9999)","","9999 = Don't know","dr1_3a"
+"ssaga_dr1_3a1","Integer","","Recommended","1049 : DRUGS I : 1. IF DK, ASK:  Would you say 11 or more times?","1;5","1 = NO ; 5 = YES","dr1_3a1"
+"ssaga_dr1_3a2","Integer","","Recommended","1050 : DRUGS I : 2. IF NO, ASK:  Would you say 5 or more times?","1;5","1 = NO ; 5 = YES","dr1_3a2"
+"ssaga_dr1_3b_ageons","Float","","Recommended","1051 : DRUGS I : AGE ONS:","","","dr1_3b_ageons"
+"ssaga_dr1_3b_agerec","Float","","Recommended","1052 : DRUGS I : AGE REC:","","","dr1_3b_agerec"
+"ssaga_dr1_4a","Float","","Recommended","1053 : DRUGS I : A. How many times in your life have you used OP? (If don't know, please fill in 9999)","","9999 = Don't know","dr1_4a"
+"ssaga_dr1_4a1","Integer","","Recommended","1054 : DRUGS I : 1. IF DK, ASK:  Would you say 11 or more times?","1;5","1 = NO ; 5 = YES","dr1_4a1"
+"ssaga_dr1_4a2","Integer","","Recommended","1055 : DRUGS I : 2. IF NO, ASK:  Would you say 5 or more times?","1;5","1 = NO ; 5 = YES","dr1_4a2"
+"ssaga_dr1_4b_ageons","Float","","Recommended","1056 : DRUGS I : AGE ONS:","","9999 = Don't know","dr1_4b_ageons"
+"ssaga_dr1_4b_agerec","Float","","Recommended","1057 : DRUGS I : AGE REC:","","9999 = Don't know","dr1_4b_agerec"
+"ssaga_dr1_5a","Float","","Recommended","1058 : DRUGS I : A. How many times in your life have you used PCP? (If don't know, please fill in 9999)","","9999 = Don't know","dr1_5a"
+"ssaga_dr1_5a1","Integer","","Recommended","1059 : DRUGS I : 1. IF DK, ASK:  Would you say 11 or more times?","1;5","1 = NO ; 5 = YES","dr1_5a1"
+"ssaga_dr1_5a2","Integer","","Recommended","1060 : DRUGS I : 2. IF NO, ASK:  Would you say 5 or more times?","1;5","1 = NO ; 5 = YES","dr1_5a2"
+"ssaga_dr1_5b_ageons","Float","","Recommended","1061 : DRUGS I : AGE ONS:","","","dr1_5b_ageons"
+"ssaga_dr1_5b_agerec","Float","","Recommended","1062 : DRUGS I : AGE REC:","","","dr1_5b_agerec"
+"ssaga_dr1_6a","Float","","Recommended","1063 : DRUGS I : A. How many times in your life have you used HAL? (If don't know, please fill in 9999)","","9999 = Don't know","dr1_6a"
+"ssaga_dr1_6a1","Integer","","Recommended","1064 : DRUGS I : 1. IF DK, ASK:  Would you say 11 or more times?","1;5","1 = NO ; 5 = YES","dr1_6a1"
+"ssaga_dr1_6a2","Integer","","Recommended","1065 : DRUGS I : 2. IF NO, ASK:  Would you say 5 or more times?","1;5","1 = NO ; 5 = YES","dr1_6a2"
+"ssaga_dr1_6b_ageons","Float","","Recommended","1066 : DRUGS I : AGE ONS:","","9999 = Don't know","dr1_6b_ageons"
+"ssaga_dr1_6b_agerec","Float","","Recommended","1067 : DRUGS I : AGE REC:","","9999 = Don't know","dr1_6b_agerec"
+"ssaga_dr1_7a","Float","","Recommended","1068 : DRUGS I : A. How many times in your life have you used SOL? (If don't know, please fill in 9999)","","9999 = Don't know","dr1_7a"
+"ssaga_dr1_7a1","Integer","","Recommended","1069 : DRUGS I : 1. IF DK, ASK:  Would you say 11 or more times?","1;5","1 = NO ; 5 = YES","dr1_7a1"
+"ssaga_dr1_7a2","Integer","","Recommended","1070 : DRUGS I : 2. IF NO, ASK:  Would you say 5 or more times?","1;5","1 = NO ; 5 = YES","dr1_7a2"
+"ssaga_dr1_7b_ageons","Float","","Recommended","1071 : DRUGS I : AGE ONS:","","","dr1_7b_ageons"
+"ssaga_dr1_7b_agerec","Float","","Recommended","1072 : DRUGS I : AGE REC:","","","dr1_7b_agerec"
+"ssaga_dr1_8a","Float","","Recommended","1073 : DRUGS I : A. How many times in your life have you used COMB? (If don't know, please fill in 9999)","","9999 = Don't know","dr1_8a"
+"ssaga_dr1_8a1","Integer","","Recommended","1074 : DRUGS I : 1. IF DK, ASK:  Would you say 11 or more times?","1;5","1 = NO ; 5 = YES","dr1_8a1"
+"ssaga_dr1_8a2","Integer","","Recommended","1075 : DRUGS I : 2. IF NO, ASK:  Would you say 5 or more times?","1;5","1 = NO ; 5 = YES","dr1_8a2"
+"ssaga_dr1_8b_ageons","Float","","Recommended","1076 : DRUGS I : AGE ONS:","","","dr1_8b_ageons"
+"ssaga_dr1_8b_agerec","Float","","Recommended","1077 : DRUGS I : AGE REC:","","","dr1_8b_agerec"
+"ssaga_dr1_9","String","50","Recommended","1078 : DRUGS I : OTHER","","","dr1_9"
+"ssaga_dr1_9a","Float","","Recommended","1079 : DRUGS I : A. How many times in your life have you used [dr1_9]? (If don't know, please fill in 9999)","","9999 = Don't know","dr1_9a"
+"ssaga_dr1_9a1","Integer","","Recommended","1080 : DRUGS I : 1. IF DK, ASK:  Would you say 11 or more times?","1;5","1 = NO ; 5 = YES","dr1_9a1"
+"ssaga_dr1_9a2","Integer","","Recommended","1081 : DRUGS I : 2. IF NO, ASK:  Would you say 5 or more times?","1;5","1 = NO ; 5 = YES","dr1_9a2"
+"ssaga_dr1_9b_ageons","Float","","Recommended","1082 : DRUGS I : AGE ONS:","","9999 = Don't know","dr1_9b_ageons"
+"ssaga_dr1_9b_agerec","Float","","Recommended","1083 : DRUGS I : AGE REC:","","9999 = Don't know","dr1_9b_agerec"
+"ssaga_dr1_sum","Float","","Recommended","1084 : DRUGS I : BOX DR2:","","sum(
+(if(([dr1_1a]>=11 and [dr1_1a]<>'9999'), 1, 0)), 
+(if(([dr1_1a]='9999' and [dr1_1a1]='5'), 1, 0)),
+(if(([dr1_2a]>=11 and [dr1_2a]<>'9999'), 1, 0)), 
+(if(([dr1_2a]='9999' and [dr1_2a1]='5'), 1, 0)),
+(if(([dr1_3a]>=11 and [dr1_3a]<>'9999'), 1, 0)), 
+(if(([dr1_3a]='9999' and [dr1_3a1]='5'), 1, 0)), 
+(if(([dr1_4a]>=11 and [dr1_4a]<>'9999'), 1, 0)), 
+(if(([dr1_4a]='9999' and [dr1_4a1]='5'), 1, 0)), 
+(if(([dr1_5a]>=11 and [dr1_5a]<>'9999'), 1, 0)), 
+(if(([dr1_5a]='9999' and [dr1_5a1]='5'), 1, 0)), 
+(if(([dr1_6a]>=11 and [dr1_6a]<>'9999'), 1, 0)), 
+(if(([dr1_6a]='9999' and [dr1_6a1]='5'), 1, 0)), 
+(if(([dr1_7a]>=11 and [dr1_7a]<>'9999'), 1, 0)), 
+(if(([dr1_7a]='9999' and [dr1_7a1]='5'), 1, 0)), 
+(if(([dr1_8a]>=11 and [dr1_8a]<>'9999'), 1, 0)), 
+(if(([dr1_8a]='9999' and [dr1_8a1]='5'), 1, 0)), 
+(if(([dr1_9a]>=11 and [dr1_9a]<>'9999'), 1, 0)),
+(if(([dr1_9a]='9999' and [dr1_9a1]='5'), 1, 0)))","dr1_sum"
+"ssaga_dr1h","Integer","","Recommended","1085 : DRUGS I : H. Of all the drugs you have used, which one was your favorite (including MARIJUANA)? DO NOT COUNT ALCOHOL.","1::10","1 = COCAINE ; 2 = STIM ; 3 = SED ; 4 = OP ; 5 = PCP ; 6 = HAL ; 7 = SOL ; 8 = COMB ; 9 = [dr1_9] ; 10 = MARIJUANA","dr1h"
+"ssaga_dr1_oth","Integer","","Recommended","1086 : DRUGS I : Code Silently: If used other drugs 11 or more times (besides COCAINE, STIMULANTS, SEDATIVES, AND/OR OPIATES), select the one used most:","1::5","1 = PCP ; 2 = HAL ; 3 = SOL ; 4 = COMB ; 5 = [dr1_9]","dr1_oth"
+"ssaga_dr2coc","Float","","Recommended","1087 : DRUGS I : DR2 What is the longest period you used COCAINE almost every day?   IF NEVER ALMOST EVERY DAY, CODE 0 DAYS.   IF USED DAILY FOR 1 MONTH OR LONGER, CODE DR2A ""YES"" SILENTLY.","","","dr2coc"
+"ssaga_dr2coc_unit","Integer","","Recommended","1088 : DRUGS I : CODE UNIT","1::4","1 = DAYS ; 2 = WEEKS ; 3 = MONTHS ; 4 = YEARS","dr2coc_unit"
+"ssaga_dr2coc_a","Integer","","Recommended","1089 : DRUGS I : A. Did you ever use COCAINE at least once a week for one month or more?","1;5","1 = NO ; 5 = YES","dr2coc_a"
+"ssaga_dr2coc_b","Float","","Recommended","1090 : DRUGS I : B. Think about the time when you were using COCAINE the most.  During that period, how many days per month did you use COCAINE?","","","dr2coc_b"
+"ssaga_dr2coc_b1","Float","","Recommended","1091 : DRUGS I : 1. How long did that period last?","","","dr2coc_b1"
+"ssaga_dr2coc_b2","Float","","Recommended","1092 : DRUGS I : 2. During that period of heaviest use, how many times did you use COCAINE on an average day?","","","dr2coc_b2"
+"ssaga_dr2coc_b3","Float","","Recommended","1093 : DRUGS I : 3. How old were you when that period started?","","","dr2coc_b3"
+"ssaga_dr2stim","Float","","Recommended","1094 : DRUGS I : DR2 What is the longest period you used STIM almost every day?   IF NEVER ALMOST EVERY DAY, CODE 0 DAYS.   IF USED DAILY FOR 1 MONTH OR LONGER, CODE DR2A ""YES"" SILENTLY.","","","dr2stim"
+"ssaga_dr2stim_unit","Integer","","Recommended","1095 : DRUGS I : CODE UNIT","1::4","1 = DAYS ; 2 = WEEKS ; 3 = MONTHS ; 4 = YEARS","dr2stim_unit"
+"ssaga_dr2stim_a","Integer","","Recommended","1096 : DRUGS I : A. Did you ever use STIM at least once a week for one month or more?","1;5","1 = NO ; 5 = YES","dr2stim_a"
+"ssaga_dr2stim_b","Float","","Recommended","1097 : DRUGS I : B. Think about the time when you were using STIM the most.  During that period, how many days per month did you use STIM?","","","dr2stim_b"
+"ssaga_dr2stim_b1","Float","","Recommended","1098 : DRUGS I : 1. How long did that period last?","","","dr2stim_b1"
+"ssaga_dr2stim_b2","Float","","Recommended","1099 : DRUGS I : 2. During that period of heaviest use, how many times did you use STIM on an average day?","","","dr2stim_b2"
+"ssaga_dr2stim_b3","Float","","Recommended","1100 : DRUGS I : 3. How old were you when that period started?","","","dr2stim_b3"
+"ssaga_dr2sed","Float","","Recommended","1101 : DRUGS I : DR2 What is the longest period you used SED almost every day?   IF NEVER ALMOST EVERY DAY, CODE 0 DAYS.   IF USED DAILY FOR 1 MONTH OR LONGER, CODE DR2A ""YES"" SILENTLY.","","","dr2sed"
+"ssaga_dr2sed_unit","Integer","","Recommended","1102 : DRUGS I : CODE UNIT","1::4","1 = DAYS ; 2 = WEEKS ; 3 = MONTHS ; 4 = YEARS","dr2sed_unit"
+"ssaga_dr2sed_a","Integer","","Recommended","1103 : DRUGS I : A. Did you ever use SED at least once a week for one month or more?","1;5","1 = NO ; 5 = YES","dr2sed_a"
+"ssaga_dr2sed_b","Float","","Recommended","1104 : DRUGS I : B. Think about the time when you were using SED the most.  During that period, how many days per month did you use SED?","","","dr2sed_b"
+"ssaga_dr2sed_b1","Float","","Recommended","1105 : DRUGS I : 1. How long did that period last?","","","dr2sed_b1"
+"ssaga_dr2sed_b2","Float","","Recommended","1106 : DRUGS I : 2. During that period of heaviest use, how many times did you use SED on an average day?","","","dr2sed_b2"
+"ssaga_dr2sed_b3","Float","","Recommended","1107 : DRUGS I : 3. How old were you when that period started?","","","dr2sed_b3"
+"ssaga_dr2op","Float","","Recommended","1108 : DRUGS I : DR2 What is the longest period you used OP almost every day?   IF NEVER ALMOST EVERY DAY, CODE 0 DAYS.   IF USED DAILY FOR 1 MONTH OR LONGER, CODE DR2A ""YES"" SILENTLY.","","","dr2op"
+"ssaga_dr2op_unit","Integer","","Recommended","1109 : DRUGS I : CODE UNIT","1::4","1 = DAYS ; 2 = WEEKS ; 3 = MONTHS ; 4 = YEARS","dr2op_unit"
+"ssaga_dr2op_a","Integer","","Recommended","1110 : DRUGS I : A. Did you ever use OPIATE at least once a week for one month or more?","1;5","1 = NO ; 5 = YES","dr2op_a"
+"ssaga_dr2op_b","Float","","Recommended","1111 : DRUGS I : B. Think about the time when you were using OPIATE the most.  During that period, how many days per month did you use OP?","","","dr2op_b"
+"ssaga_dr2op_b1","Float","","Recommended","1112 : DRUGS I : 1. How long did that period last?","","","dr2op_b1"
+"ssaga_dr2op_b2","Float","","Recommended","1113 : DRUGS I : 2. During that period of heaviest use, how many times did you use OPIATE on an average day?","","","dr2op_b2"
+"ssaga_dr2op_b3","Float","","Recommended","1114 : DRUGS I : 3. How old were you when that period started?","","","dr2op_b3"
+"ssaga_dr2oth","Float","","Recommended","1115 : DRUGS I : DR2 What is the longest period you used [dr1_oth] almost every day?   IF NEVER ALMOST EVERY DAY, CODE 0 DAYS.   IF USED DAILY FOR 1 MONTH OR LONGER, CODE DR2A ""YES"" SILENTLY.","","","dr2oth"
+"ssaga_dr2oth_unit","Integer","","Recommended","1116 : DRUGS I : CODE UNIT","1::4","1 = DAYS ; 2 = WEEKS ; 3 = MONTHS ; 4 = YEARS","dr2oth_unit"
+"ssaga_dr2oth_a","Integer","","Recommended","1117 : DRUGS I : A. Did you ever use [dr1_oth] at least once a week for one month or more?","1;5","1 = NO ; 5 = YES","dr2oth_a"
+"ssaga_dr2oth_b","Float","","Recommended","1118 : DRUGS I : B. Think about the time when you were using [dr1_oth] the most.  During that period, how many days per month did you use OTHER DRUG?","","","dr2oth_b"
+"ssaga_dr2oth_b1","Float","","Recommended","1119 : DRUGS I : 1. How long did that period last?","","","dr2oth_b1"
+"ssaga_dr2oth_b2","Float","","Recommended","1120 : DRUGS I : 2. During that period of heaviest use, how many times did you use [dr1_oth] on an average day?","","","dr2oth_b2"
+"ssaga_dr2oth_b3","Float","","Recommended","1121 : DRUGS I : 3. How old were you when that period started?","","","dr2oth_b3"
+"ssaga_dr3coc","Integer","","Recommended","1122 : DRUGS I : DR3 Have you ever stayed high from COCAINE for a whole day or more?","1;5","1 = NO ; 5 = YES","dr3coc"
+"ssaga_dr3coc_a","Integer","","Recommended","1123 : DRUGS I : A. IF YES:  Did this happen 3 or more times?","1;5","1 = NO ; 5 = YES","dr3coc_a"
+"ssaga_dr3stim","Integer","","Recommended","1124 : DRUGS I : DR3 Have you ever stayed high from STIM for a whole day or more?","1;5","1 = NO ; 5 = YES","dr3stim"
+"ssaga_dr3stim_a","Integer","","Recommended","1125 : DRUGS I : A. IF YES:  Did this happen 3 or more times?","1;5","1 = NO ; 5 = YES","dr3stim_a"
+"ssaga_dr3sed","Integer","","Recommended","1126 : DRUGS I : DR3 Have you ever stayed high from SED for a whole day or more?","1;5","1 = NO ; 5 = YES","dr3sed"
+"ssaga_dr3sed_a","Integer","","Recommended","1127 : DRUGS I : A. IF YES:  Did this happen 3 or more times?","1;5","1 = NO ; 5 = YES","dr3sed_a"
+"ssaga_dr3op","Integer","","Recommended","1128 : DRUGS I : DR3 Have you ever stayed high from OP for a whole day or more?","1;5","1 = NO ; 5 = YES","dr3op"
+"ssaga_dr3op_a","Integer","","Recommended","1129 : DRUGS I : A. IF YES:  Did this happen 3 or more times?","1;5","1 = NO ; 5 = YES","dr3op_a"
+"ssaga_dr3oth","Integer","","Recommended","1130 : DRUGS I : DR3 Have you ever stayed high from [dr1_oth] for a whole day or more?","1;5","1 = NO ; 5 = YES","dr3oth"
+"ssaga_dr3oth_a","Integer","","Recommended","1131 : DRUGS I : A. IF YES:  Did this happen 3 or more times?","1;5","1 = NO ; 5 = YES","dr3oth_a"
+"ssaga_dr5coc","Integer","","Recommended","1132 : DRUGS I : DR5 Have you ever had such a strong desire for COCAINE that it was hard to think of anything else?","1;5","1 = NO ; 5 = YES","dr5coc"
+"ssaga_dr5coc_ageons","Float","","Recommended","1133 : DRUGS I : AGE ONS:","","","dr5coc_ageons"
+"ssaga_dr5coc_agerec","Float","","Recommended","1134 : DRUGS I : AGE REC:","","","dr5coc_agerec"
+"ssaga_dr5stim","Integer","","Recommended","1135 : DRUGS I : DR5 Have you ever had such a strong desire for STIM that it was hard to think of anything else?","1;5","1 = NO ; 5 = YES","dr5stim"
+"ssaga_dr5stim_ageons","Float","","Recommended","1136 : DRUGS I : AGE ONS:","","","dr5stim_ageons"
+"ssaga_dr5stim_agerec","Float","","Recommended","1137 : DRUGS I : AGE REC:","","","dr5stim_agerec"
+"ssaga_dr5sed","Integer","","Recommended","1138 : DRUGS I : DR5 Have you ever had such a strong desire for SED that it was hard to think of anything else?","1;5","1 = NO ; 5 = YES","dr5sed"
+"ssaga_dr5sed_ageons","Float","","Recommended","1139 : DRUGS I : AGE ONS:","","","dr5sed_ageons"
+"ssaga_dr5sed_agerec","Float","","Recommended","1140 : DRUGS I : AGE REC:","","","dr5sed_agerec"
+"ssaga_dr5op","Integer","","Recommended","1141 : DRUGS I : DR5 Have you ever had such a strong desire for OP that it was hard to think of anything else?","1;5","1 = NO ; 5 = YES","dr5op"
+"ssaga_dr5op_ageons","Float","","Recommended","1142 : DRUGS I : AGE ONS:","","","dr5op_ageons"
+"ssaga_dr5op_agerec","Float","","Recommended","1143 : DRUGS I : AGE REC:","","","dr5op_agerec"
+"ssaga_dr5oth","Integer","","Recommended","1144 : DRUGS I : DR5 Have you ever had such a strong desire for [dr1_oth] that it was hard to think of anything else?","1;5","1 = NO ; 5 = YES","dr5oth"
+"ssaga_dr5oth_ageons","Float","","Recommended","1145 : DRUGS I : AGE ONS:","","","dr5oth_ageons"
+"ssaga_dr5oth_agerec","Float","","Recommended","1146 : DRUGS I : AGE REC:","","","dr5oth_agerec"
+"ssaga_dr6coc","Integer","","Recommended","1147 : DRUGS I : DR6 Was there ever a period of a month or more when a great deal of your time was spent using COCAINE, getting COCAINE, or getting over its effects?","1;5","1 = NO ; 5 = YES","dr6coc"
+"ssaga_dr6stim","Integer","","Recommended","1148 : DRUGS I : DR6 Was there ever a period of a month or more when a great deal of your time was spent using STIM, getting STIM, or getting over its effects?","1;5","1 = NO ; 5 = YES","dr6stim"
+"ssaga_dr6sed","Integer","","Recommended","1149 : DRUGS I : DR6 Was there ever a period of a month or more when a great deal of your time was spent using SED, getting SED, or getting over its effects?","1;5","1 = NO ; 5 = YES","dr6sed"
+"ssaga_dr6op","Integer","","Recommended","1150 : DRUGS I : DR6 Was there ever a period of a month or more when a great deal of your time was spent using OP, getting OP, or getting over its effects?","1;5","1 = NO ; 5 = YES","dr6op"
+"ssaga_dr6oth","Integer","","Recommended","1151 : DRUGS I : DR6 Was there ever a period of a month or more when a great deal of your time was spent using [dr1_oth], getting [dr1_oth], or getting over its effects?","1;5","1 = NO ; 5 = YES","dr6oth"
+"ssaga_dr7coc","Integer","","Recommended","1152 : DRUGS I : DR7 Have you often wanted to stop or cut down on COCAINE?","1;5","1 = NO ; 5 = YES","dr7coc"
+"ssaga_dr7a_coc","Integer","","Recommended","1153 : DRUGS I : A. Have you ever tried to stop or cut down on COCAINE but found that you couldn't?","1;5","1 = NO ; 5 = YES","dr7a_coc"
+"ssaga_dr7b_coc","Integer","","Recommended","1154 : DRUGS I : B. Were you unable to stop or cut down 3 or more times?","1;5","1 = NO ; 5 = YES","dr7b_coc"
+"ssaga_dr7stim","Integer","","Recommended","1155 : DRUGS I : DR7 Have you often wanted to stop or cut down on STIM","1;5","1 = NO ; 5 = YES","dr7stim"
+"ssaga_dr7a_stim","Integer","","Recommended","1156 : DRUGS I : A. Have you ever tried to stop or cut down on STIM but found that you couldn't?","1;5","1 = NO ; 5 = YES","dr7a_stim"
+"ssaga_dr7b_stim","Integer","","Recommended","1157 : DRUGS I : B. Were you unable to stop or cut down 3 or more times?","1;5","1 = NO ; 5 = YES","dr7b_stim"
+"ssaga_dr7sed","Integer","","Recommended","1158 : DRUGS I : DR7 Have you often wanted to stop or cut down on SED","1;5","1 = NO ; 5 = YES","dr7sed"
+"ssaga_dr7a_sed","Integer","","Recommended","1159 : DRUGS I : A. Have you ever tried to stop or cut down on SED but found that you couldn't?","1;5","1 = NO ; 5 = YES","dr7a_sed"
+"ssaga_dr7b_sed","Integer","","Recommended","1160 : DRUGS I : B. Were you unable to stop or cut down 3 or more times?","1;5","1 = NO ; 5 = YES","dr7b_sed"
+"ssaga_dr7op","Integer","","Recommended","1161 : DRUGS I : DR7 Have you often wanted to stop or cut down on OP","1;5","1 = NO ; 5 = YES","dr7op"
+"ssaga_dr7a_op","Integer","","Recommended","1162 : DRUGS I : A. Have you ever tried to stop or cut down on OP but found that you couldn't?","1;5","1 = NO ; 5 = YES","dr7a_op"
+"ssaga_dr7b_op","Integer","","Recommended","1163 : DRUGS I : B. Were you unable to stop or cut down 3 or more times?","1;5","1 = NO ; 5 = YES","dr7b_op"
+"ssaga_dr7oth","Integer","","Recommended","1164 : DRUGS I : DR7 Have you often wanted to stop or cut down on [dr1_oth]","1;5","1 = NO ; 5 = YES","dr7oth"
+"ssaga_dr7a_oth","Integer","","Recommended","1165 : DRUGS I : A. Have you ever tried to stop or cut down on [dr1_oth] but found that you couldn't?","1;5","1 = NO ; 5 = YES","dr7a_oth"
+"ssaga_dr7b_oth","Integer","","Recommended","1166 : DRUGS I : B. Were you unable to stop or cut down 3 or more times?","1;5","1 = NO ; 5 = YES","dr7b_oth"
+"ssaga_dr8coc","Integer","","Recommended","1167 : DRUGS I : DR8 Did you ever need larger amounts of COCAINE to get an effect or find that you could no longer get high on the amount you used to use?","1;5","1 = NO ; 5 = YES","dr8coc"
+"ssaga_dr8stim","Integer","","Recommended","1168 : DRUGS I : DR8 Did you ever need larger amounts of STIM to get an effect or find that you could no longer get high on the amount you used to use?","1;5","1 = NO ; 5 = YES","dr8stim"
+"ssaga_dr8sed","Integer","","Recommended","1169 : DRUGS I : DR8 Did you ever need larger amounts of SED to get an effect or find that you could no longer get high on the amount you used to use?","1;5","1 = NO ; 5 = YES","dr8sed"
+"ssaga_dr8op","Integer","","Recommended","1170 : DRUGS I : DR8 Did you ever need larger amounts of OP to get an effect or find that you could no longer get high on the amount you used to use?","1;5","1 = NO ; 5 = YES","dr8op"
+"ssaga_dr8oth","Integer","","Recommended","1171 : DRUGS I : DR8 Did you ever need larger amounts of [dr1_oth] to get an effect or find that you could no longer get high on the amount you used to use?","1;5","1 = NO ; 5 = YES","dr8oth"
+"ssaga_dr9a_coc","Integer","","Recommended","1172 : DRUGS I : DR9 Have you ever given up or greatly reduced important activities while using COCAINE, like sports, work, or associating with friends or relatives?","1;5","1 = NO ; 5 = YES","dr9a_coc"
+"ssaga_dr9a_coc_a","Integer","","Recommended","1173 : DRUGS I : A. IF YES:  Did this happen 3 or more times or for a month or more?","1;5","1 = NO ; 5 = YES","dr9a_coc_a"
+"ssaga_dr9a_stim","Integer","","Recommended","1174 : DRUGS I : DR9 Have you ever given up or greatly reduced important activities while using STIM, like sports, work, or associating with friends or relatives?","1;5","1 = NO ; 5 = YES","dr9a_stim"
+"ssaga_dr9a_stim_a","Integer","","Recommended","1175 : DRUGS I : A. IF YES:  Did this happen 3 or more times or for a month or more?","1;5","1 = NO ; 5 = YES","dr9a_stim_a"
+"ssaga_dr9a_sed","Integer","","Recommended","1176 : DRUGS I : DR9 Have you ever given up or greatly reduced important activities while using SED, like sports, work, or associating with friends or relatives?","1;5","1 = NO ; 5 = YES","dr9a_sed"
+"ssaga_dr9a_sed_a","Integer","","Recommended","1177 : DRUGS I : A. IF YES:  Did this happen 3 or more times or for a month or more?","1;5","1 = NO ; 5 = YES","dr9a_sed_a"
+"ssaga_dr9a_op","Integer","","Recommended","1178 : DRUGS I : DR9 Have you ever given up or greatly reduced important activities while using OP, like sports, work, or associating with friends or relatives?","1;5","1 = NO ; 5 = YES","dr9a_op"
+"ssaga_dr9a_op_a","Integer","","Recommended","1179 : DRUGS I : A. IF YES:  Did this happen 3 or more times or for a month or more?","1;5","1 = NO ; 5 = YES","dr9a_op_a"
+"ssaga_dr9a_oth","Integer","","Recommended","1180 : DRUGS I : DR9 Have you ever given up or greatly reduced important activities while using [dr1_oth], like sports, work, or associating with friends or relatives?","1;5","1 = NO ; 5 = YES","dr9a_oth"
+"ssaga_dr9a_oth_a","Integer","","Recommended","1181 : DRUGS I : A. IF YES:  Did this happen 3 or more times or for a month or more?","1;5","1 = NO ; 5 = YES","dr9a_oth_a"
+"ssaga_dr10coc","Integer","","Recommended","1182 : DRUGS I : DR10 Have you often used COCAINE more days or in larger amounts than you intended to?","1;5","1 = NO ; 5 = YES","dr10coc"
+"ssaga_dr10stim","Integer","","Recommended","1183 : DRUGS I : DR10 Have you often used STIM more days or in larger amounts than you intended to?","1;5","1 = NO ; 5 = YES","dr10stim"
+"ssaga_dr10sed","Integer","","Recommended","1184 : DRUGS I : DR10 Have you often used SED more days or in larger amounts than you intended to?","1;5","1 = NO ; 5 = YES","dr10sed"
+"ssaga_dr10op","Integer","","Recommended","1185 : DRUGS I : DR10 Have you often used OP more days or in larger amounts than you intended to?","1;5","1 = NO ; 5 = YES","dr10op"
+"ssaga_dr10oth","Integer","","Recommended","1186 : DRUGS I : DR10 Have you often used [dr1_oth] more days or in larger amounts than you intended to?","1;5","1 = NO ; 5 = YES","dr10oth"
+"ssaga_dr11a1_coc","Integer","","Recommended","1187 : DRUGS II : 1. Did you feel depressed?","1;5","1 = NO ; 5 = YES","dr11a1_coc"
+"ssaga_dr11a2_coc","Integer","","Recommended","1188 : DRUGS II : 2. Did you feel restless?","1;5","1 = NO ; 5 = YES","dr11a2_coc"
+"ssaga_dr11a3_coc","Integer","","Recommended","1189 : DRUGS II : 3. Did you feel tired, sleepy, or weak?","1;5","1 = NO ; 5 = YES","dr11a3_coc"
+"ssaga_dr11a4_coc","Integer","","Recommended","1190 : DRUGS II : 4. Did you have trouble sleeping?","1;5","1 = NO ; 5 = YES","dr11a4_coc"
+"ssaga_dr11a5_coc","Integer","","Recommended","1191 : DRUGS II : 5. Did you sleep too much?","1;5","1 = NO ; 5 = YES","dr11a5_coc"
+"ssaga_dr11a6_coc","Integer","","Recommended","1192 : DRUGS II : 6. Did you have a strong desire or craving for COCAINE?","1;5","1 = NO ; 5 = YES","dr11a6_coc"
+"ssaga_dr11a7_coc","Integer","","Recommended","1193 : DRUGS II : 7. Did you feel slowed down, like you could hardly move?","1;5","1 = NO ; 5 = YES","dr11a7_coc"
+"ssaga_dr11a8_coc","Integer","","Recommended","1194 : DRUGS II : 8. Did you have an increase in appetite?","1;5","1 = NO ; 5 = YES","dr11a8_coc"
+"ssaga_dr11a9_coc","Integer","","Recommended","1195 : DRUGS II : 9. Did you have nightmares?","1;5","1 = NO ; 5 = YES","dr11a9_coc"
+"ssaga_dr11a_cocsum","Float","","Recommended","1196 : DRUGS II : Total of COC checked:","","sum((if([dr11a1_coc]='5', 1, 0)),
+(if([dr11a2_coc]='5', 1, 0)),
+(if([dr11a3_coc]='5', 1, 0)),
+(if([dr11a4_coc]='5', 1, 0)),
+(if([dr11a5_coc]='5', 1, 0)),
+(if([dr11a6_coc]='5', 1, 0)),
+(if([dr11a7_coc]='5', 1, 0)),
+(if([dr11a8_coc]='5', 1, 0)),
+(if([dr11a9_coc]='5', 1, 0)))","dr11a_cocsum"
+"ssaga_dr11b_coc","Integer","","Recommended","1197 : DRUGS II : DR11 B:  Was there ever a time when 2 or more of these problems occurred together because of stopping, cutting down on, or going without COCAINE?","1;5","1 = NO ; 5 = YES","dr11b_coc"
+"ssaga_dr11b_coc1","Integer","","Recommended","1198 : DRUGS II : 1. IF YES:  Did these problems occur together for 2 days or longer?","1;5","1 = NO ; 5 = YES","dr11b_coc1"
+"ssaga_dr11b_coc2_ageons","Float","","Recommended","1199 : DRUGS II : AGE ONS:","","","dr11b_coc2_ageons"
+"ssaga_dr11b_coc2_agerec","Float","","Recommended","1200 : DRUGS II : AGE REC:","","","dr11b_coc2_agerec"
+"ssaga_dr11c_coc","Integer","","Recommended","1201 : DRUGS II : DR11 C: Did you have any of these problems 3 or more times?","1;5","1 = NO ; 5 = YES","dr11c_coc"
+"ssaga_dr11d_coc","Integer","","Recommended","1202 : DRUGS II : DR11 D: Did these problems interfere with your functioning at work, school, or home?","1;5","1 = NO ; 5 = YES","dr11d_coc"
+"ssaga_dr11e_coc","Integer","","Recommended","1203 : DRUGS II : DR11 E: Have you ever used COCAINE to keep from having any of these problems or to make them go away?","1;5","1 = NO ; 5 = YES","dr11e_coc"
+"ssaga_dr11e1_coc1_ageons","Float","","Recommended","1204 : DRUGS II : AGE ONS:","","","dr11e1_coc1_ageons"
+"ssaga_dr11e1_coc1_agerec","Float","","Recommended","1205 : DRUGS II : AGE REC:","","","dr11e1_coc1_agerec"
+"ssaga_dr11e2_coc","Integer","","Recommended","1206 : DRUGS II : 2. Did you do that 3 or more times?","1;5","1 = NO ; 5 = YES","dr11e2_coc"
+"ssaga_dr11a1_stim","Integer","","Recommended","1207 : DRUGS II : 1. Did you feel depressed?","1;5","1 = NO ; 5 = YES","dr11a1_stim"
+"ssaga_dr11a2_stim","Integer","","Recommended","1208 : DRUGS II : 2. Did you feel restless?","1;5","1 = NO ; 5 = YES","dr11a2_stim"
+"ssaga_dr11a3_stim","Integer","","Recommended","1209 : DRUGS II : 3. Did you feel tired, sleepy, or weak?","1;5","1 = NO ; 5 = YES","dr11a3_stim"
+"ssaga_dr11a4_stim","Integer","","Recommended","1210 : DRUGS II : 4. Did you have trouble sleeping?","1;5","1 = NO ; 5 = YES","dr11a4_stim"
+"ssaga_dr11a5_stim","Integer","","Recommended","1211 : DRUGS II : 5. Did you sleep too much?","1;5","1 = NO ; 5 = YES","dr11a5_stim"
+"ssaga_dr11a6_stim","Integer","","Recommended","1212 : DRUGS II : 6. Did you have a strong desire or craving for STIM?","1;5","1 = NO ; 5 = YES","dr11a6_stim"
+"ssaga_dr11a7_stim","Integer","","Recommended","1213 : DRUGS II : 7. Did you feel slowed down, like you could hardly move?","1;5","1 = NO ; 5 = YES","dr11a7_stim"
+"ssaga_dr11a8_stim","Integer","","Recommended","1214 : DRUGS II : 8. Did you have an increase in appetite?","1;5","1 = NO ; 5 = YES","dr11a8_stim"
+"ssaga_dr11a9_stim","Integer","","Recommended","1215 : DRUGS II : 9. Did you have nightmares?","1;5","1 = NO ; 5 = YES","dr11a9_stim"
+"ssaga_dr11a_stimsum","Float","","Recommended","1216 : DRUGS II : Total of STIM checked:","","sum((if([dr11a1_stim]='5', 1, 0)),
+(if([dr11a2_stim]='5', 1, 0)),
+(if([dr11a3_stim]='5', 1, 0)),
+(if([dr11a4_stim]='5', 1, 0)),
+(if([dr11a5_stim]='5', 1, 0)),
+(if([dr11a6_stim]='5', 1, 0)),
+(if([dr11a7_stim]='5', 1, 0)),
+(if([dr11a8_stim]='5', 1, 0)),
+(if([dr11a9_stim]='5', 1, 0)))","dr11a_stimsum"
+"ssaga_dr11b_stim","Integer","","Recommended","1217 : DRUGS II : DR11 B: Was there ever a time when 2 or more of these problems occurred together because of stopping, cutting down on, or going without STIM?","1;5","1 = NO ; 5 = YES","dr11b_stim"
+"ssaga_dr11b_stim1","Integer","","Recommended","1218 : DRUGS II : 1. IF YES:  Did these problems occur together for 2 days or longer?","1;5","1 = NO ; 5 = YES","dr11b_stim1"
+"ssaga_dr11b_stim2_ageons","Float","","Recommended","1219 : DRUGS II : AGE ONS:","","","dr11b_stim2_ageons"
+"ssaga_dr11b_stim2_agerec","Float","","Recommended","1220 : DRUGS II : AGE REC:","","","dr11b_stim2_agerec"
+"ssaga_dr11c_stim","Integer","","Recommended","1221 : DRUGS II : DR11 C: Did you have any of these problems 3 or more times?","1;5","1 = NO ; 5 = YES","dr11c_stim"
+"ssaga_dr11d_stim","Integer","","Recommended","1222 : DRUGS II : DR11 D: Did these problems interfere with your functioning at work, school, or home?","1;5","1 = NO ; 5 = YES","dr11d_stim"
+"ssaga_dr11e_stim","Integer","","Recommended","1223 : DRUGS II : DR11 E: Have you ever used STIM to keep from having any of these problems or to make them go away?","1;5","1 = NO ; 5 = YES","dr11e_stim"
+"ssaga_dr11e1_stim1_ageons","Float","","Recommended","1224 : DRUGS II : AGE ONS:","","","dr11e1_stim1_ageons"
+"ssaga_dr11e1_stim1_agerec","Float","","Recommended","1225 : DRUGS II : AGE REC:","","","dr11e1_stim1_agerec"
+"ssaga_dr11e2_stim","Integer","","Recommended","1226 : DRUGS II : 2. Did you do that 3 or more times?","1;5","1 = NO ; 5 = YES","dr11e2_stim"
+"ssaga_dr11a1_sed","Integer","","Recommended","1227 : DRUGS II : 1. Did you feel depressed?","1;5","1 = NO ; 5 = YES","dr11a1_sed"
+"ssaga_dr11a2_sed","Integer","","Recommended","1228 : DRUGS II : 2. Did you feel restless?","1;5","1 = NO ; 5 = YES","dr11a2_sed"
+"ssaga_dr11a3_sed","Integer","","Recommended","1229 : DRUGS II : 3. Did you feel tired, sleepy, or weak?","1;5","1 = NO ; 5 = YES","dr11a3_sed"
+"ssaga_dr11a4_sed","Integer","","Recommended","1230 : DRUGS II : 4. Did you have trouble sleeping?","1;5","1 = NO ; 5 = YES","dr11a4_sed"
+"ssaga_dr11a18_sed","Integer","","Recommended","1231 : DRUGS II : 18. Did your heart race?","1;5","1 = NO ; 5 = YES","dr11a18_sed"
+"ssaga_dr11a19_sed","Integer","","Recommended","1232 : DRUGS II : 19. Did you sweat?","1;5","1 = NO ; 5 = YES","dr11a19_sed"
+"ssaga_dr11a20_sed","Integer","","Recommended","1233 : DRUGS II : 20. Did you have a fever?","1;5","1 = NO ; 5 = YES","dr11a20_sed"
+"ssaga_dr11a21_sed","Integer","","Recommended","1234 : DRUGS II : 21. Did you have nausea, or did you vomit?","1;5","1 = NO ; 5 = YES","dr11a21_sed"
+"ssaga_dr11a22_sed","Integer","","Recommended","1235 : DRUGS II : 22. Did you have headaches?","1;5","1 = NO ; 5 = YES","dr11a22_sed"
+"ssaga_dr11a23_sed","Integer","","Recommended","1236 : DRUGS II : 23. Did you feel nervous, tense, or irritable?","1;5","1 = NO ; 5 = YES","dr11a23_sed"
+"ssaga_dr11a24_sed","Integer","","Recommended","1237 : DRUGS II : 24. Did your hands shake?","1;5","1 = NO ; 5 = YES","dr11a24_sed"
+"ssaga_dr11a25_sed","Integer","","Recommended","1238 : DRUGS II : 25. Did you tremble or twitch?","1;5","1 = NO ; 5 = YES","dr11a25_sed"
+"ssaga_dr11a26_sed","Integer","","Recommended","1239 : DRUGS II : 26. Did you experience dizziness?","1;5","1 = NO ; 5 = YES","dr11a26_sed"
+"ssaga_dr11a27_sed","Integer","","Recommended","1240 : DRUGS II : 27. Did you have seizures?","1;5","1 = NO ; 5 = YES","dr11a27_sed"
+"ssaga_dr11a28_sed","Integer","","Recommended","1241 : DRUGS II : 28. Did you see, hear, or feel things that weren't really there?","1;5","1 = NO ; 5 = YES","dr11a28_sed"
+"ssaga_dr11a29_sed","Integer","","Recommended","1242 : DRUGS II : 29. Did you think that people were plotting to harm you (PARANOID)?","1;5","1 = NO ; 5 = YES","dr11a29_sed"
+"ssaga_dr11a_sedsum","Float","","Recommended","1243 : DRUGS II : Total of SED checked:","","sum((if([dr11a1_sed]='5', 1, 0)),
+(if([dr11a2_sed]='5', 1, 0)),
+(if([dr11a3_sed]='5', 1, 0)),
+(if([dr11a4_sed]='5', 1, 0)),
+(if([dr11a18_sed]='5', 1, 0)),
+(if([dr11a19_sed]='5', 1, 0)),
+(if([dr11a20_sed]='5', 1, 0)),
+(if([dr11a21_sed]='5', 1, 0)),
+(if([dr11a22_sed]='5', 1, 0)),
+(if([dr11a23_sed]='5', 1, 0)),
+(if([dr11a24_sed]='5', 1, 0)),
+(if([dr11a25_sed]='5', 1, 0)),
+(if([dr11a26_sed]='5', 1, 0)),
+(if([dr11a27_sed]='5', 1, 0)),
+(if([dr11a28_sed]='5', 1, 0)),
+(if([dr11a29_sed]='5', 1, 0)))","dr11a_sedsum"
+"ssaga_dr11b_sed","Integer","","Recommended","1244 : DRUGS II : DR11 B: Was there ever a time when 2 or more of these problems occurred together because of stopping, cutting down on, or going without SED?","1;5","1 = NO ; 5 = YES","dr11b_sed"
+"ssaga_dr11b_sed1","Integer","","Recommended","1245 : DRUGS II : 1. IF YES:  Did these problems occur together for 2 days or longer?","1;5","1 = NO ; 5 = YES","dr11b_sed1"
+"ssaga_dr11b_sed2_ageons","Float","","Recommended","1246 : DRUGS II : AGE ONS:","","","dr11b_sed2_ageons"
+"ssaga_dr11b_sed2_agerec","Float","","Recommended","1247 : DRUGS II : AGE REC:","","","dr11b_sed2_agerec"
+"ssaga_dr11c_sed","Integer","","Recommended","1248 : DRUGS II : DR11 C: Did you have any of these problems 3 or more times?","1;5","1 = NO ; 5 = YES","dr11c_sed"
+"ssaga_dr11d_sed","Integer","","Recommended","1249 : DRUGS II : DR11 D: Did these problems interfere with your functioning at work, school, or home?","1;5","1 = NO ; 5 = YES","dr11d_sed"
+"ssaga_dr11e_sed","Integer","","Recommended","1250 : DRUGS II : DR11 E: Have you ever used SED to keep from having any of these problems or to make them go away?","1;5","1 = NO ; 5 = YES","dr11e_sed"
+"ssaga_dr11e1_sed1_ageons","Float","","Recommended","1251 : DRUGS II : AGE ONS:","","","dr11e1_sed1_ageons"
+"ssaga_dr11e1_sed1_agerec","Float","","Recommended","1252 : DRUGS II : AGE REC:","","","dr11e1_sed1_agerec"
+"ssaga_dr11e2_sed","Integer","","Recommended","1253 : DRUGS II : 2. Did you do that 3 or more times?","1;5","1 = NO ; 5 = YES","dr11e2_sed"
+"ssaga_dr11a1_op","Integer","","Recommended","1254 : DRUGS II : 1. Did you feel depressed?","1;5","1 = NO ; 5 = YES","dr11a1_op"
+"ssaga_dr11a4_op","Integer","","Recommended","1255 : DRUGS II : 4. Did you have trouble sleeping?","1;5","1 = NO ; 5 = YES","dr11a4_op"
+"ssaga_dr11a6_op","Integer","","Recommended","1256 : DRUGS II : 6. Did you have a strong desire or craving for OP?","1;5","1 = NO ; 5 = YES","dr11a6_op"
+"ssaga_dr11a10_op","Integer","","Recommended","1257 : DRUGS II : 10. Did you have diarrhea?","1;5","1 = NO ; 5 = YES","dr11a10_op"
+"ssaga_dr11a11_op","Integer","","Recommended","1258 : DRUGS II : 11. Did you have stomach aches or stomach cramps?","1;5","1 = NO ; 5 = YES","dr11a11_op"
+"ssaga_dr11a12_op","Integer","","Recommended","1259 : DRUGS II : 12. Did your eyes run?","1;5","1 = NO ; 5 = YES","dr11a12_op"
+"ssaga_dr11a13_op","Integer","","Recommended","1260 : DRUGS II : 13. Did your nose run?","1;5","1 = NO ; 5 = YES","dr11a13_op"
+"ssaga_dr11a14_op","Integer","","Recommended","1261 : DRUGS II : 14. Did you have muscle pains?","1;5","1 = NO ; 5 = YES","dr11a14_op"
+"ssaga_dr11a15_op","Integer","","Recommended","1262 : DRUGS II : 15. Did you yawn?","1;5","1 = NO ; 5 = YES","dr11a15_op"
+"ssaga_dr11a16_op","Integer","","Recommended","1263 : DRUGS II : 16. Were your pupils dilated or were your eyes sensitive to light?","1;5","1 = NO ; 5 = YES","dr11a16_op"
+"ssaga_dr11a17_op","Integer","","Recommended","1264 : DRUGS II : 17. Did you have gooseflesh, goose bumps, or did you get the chills?","1;5","1 = NO ; 5 = YES","dr11a17_op"
+"ssaga_dr11a18_op","Integer","","Recommended","1265 : DRUGS II : 18. Did your heart race?","1;5","1 = NO ; 5 = YES","dr11a18_op"
+"ssaga_dr11a19_op","Integer","","Recommended","1266 : DRUGS II : 19. Did you sweat?","1;5","1 = NO ; 5 = YES","dr11a19_op"
+"ssaga_dr11a20_op","Integer","","Recommended","1267 : DRUGS II : 20. Did you have a fever?","1;5","1 = NO ; 5 = YES","dr11a20_op"
+"ssaga_dr11a21_op","Integer","","Recommended","1268 : DRUGS II : 21. Did you have nausea, or did you vomit?","1;5","1 = NO ; 5 = YES","dr11a21_op"
+"ssaga_dr11a_opsum","Float","","Recommended","1269 : DRUGS II : Total of OP checked:","","sum((if([dr11a1_op]='5', 1, 0)),
+(if([dr11a4_op]='5', 1, 0)),
+(if([dr11a6_op]='5', 1, 0)),
+(if([dr11a10_op]='5', 1, 0)),
+(if([dr11a11_op]='5', 1, 0)),
+(if([dr11a12_op]='5', 1, 0)),
+(if([dr11a13_op]='5', 1, 0)),
+(if([dr11a14_op]='5', 1, 0)),
+(if([dr11a15_op]='5', 1, 0)),
+(if([dr11a16_op]='5', 1, 0)),
+(if([dr11a17_op]='5', 1, 0)),
+(if([dr11a18_op]='5', 1, 0)),
+(if([dr11a19_op]='5', 1, 0)),
+(if([dr11a20_op]='5', 1, 0)),
+(if([dr11a21_op]='5', 1, 0)))","dr11a_opsum"
+"ssaga_dr11b_op","Integer","","Recommended","1270 : DRUGS II : DR11 B: Was there ever a time when 2 or more of these problems occurred together because of stopping, cutting down on, or going without OP?","1;5","1 = NO ; 5 = YES","dr11b_op"
+"ssaga_dr11b_op1","Integer","","Recommended","1271 : DRUGS II : 1. IF YES:  Did these problems occur together for 2 days or longer?","1;5","1 = NO ; 5 = YES","dr11b_op1"
+"ssaga_dr11b_op2_ageons","Float","","Recommended","1272 : DRUGS II : AGE ONS:","","","dr11b_op2_ageons"
+"ssaga_dr11b_op2_agerec","Float","","Recommended","1273 : DRUGS II : AGE REC:","","","dr11b_op2_agerec"
+"ssaga_dr11c_op","Integer","","Recommended","1274 : DRUGS II : DR11 C: Did you have any of these problems 3 or more times?","1;5","1 = NO ; 5 = YES","dr11c_op"
+"ssaga_dr11d_op","Integer","","Recommended","1275 : DRUGS II : DR11 D: Did these problems interfere with your functioning at work, school, or home?","1;5","1 = NO ; 5 = YES","dr11d_op"
+"ssaga_dr11e_op","Integer","","Recommended","1276 : DRUGS II : DR11 E: Have you ever used OP to keep from having any of these problems or to make them go away?","1;5","1 = NO ; 5 = YES","dr11e_op"
+"ssaga_dr11e1_op1_ageons","Float","","Recommended","1277 : DRUGS II : AGE ONS:","","","dr11e1_op1_ageons"
+"ssaga_dr11e1_op1_agerec","Float","","Recommended","1278 : DRUGS II : AGE REC:","","","dr11e1_op1_agerec"
+"ssaga_dr11e2_op","Integer","","Recommended","1279 : DRUGS II : 2. Did you do that 3 or more times?","1;5","1 = NO ; 5 = YES","dr11e2_op"
+"ssaga_dr11a1_oth","Integer","","Recommended","1280 : DRUGS II : 1. Did you feel depressed?","1;5","1 = NO ; 5 = YES","dr11a1_oth"
+"ssaga_dr11a2_oth","Integer","","Recommended","1281 : DRUGS II : 2. Did you feel restless?","1;5","1 = NO ; 5 = YES","dr11a2_oth"
+"ssaga_dr11a3_oth","Integer","","Recommended","1282 : DRUGS II : 3. Did you feel tired, sleepy, or weak?","1;5","1 = NO ; 5 = YES","dr11a3_oth"
+"ssaga_dr11a4_oth","Integer","","Recommended","1283 : DRUGS II : 4. Did you have trouble sleeping?","1;5","1 = NO ; 5 = YES","dr11a4_oth"
+"ssaga_dr11a5_oth","Integer","","Recommended","1284 : DRUGS II : 5. Did you sleep too much?","1;5","1 = NO ; 5 = YES","dr11a5_oth"
+"ssaga_dr11a6_oth","Integer","","Recommended","1285 : DRUGS II : 6. Did you have a strong desire or craving for [dr1_oth]?","1;5","1 = NO ; 5 = YES","dr11a6_oth"
+"ssaga_dr11a7_oth","Integer","","Recommended","1286 : DRUGS II : 7. Did you feel slowed down, like you could hardly move?","1;5","1 = NO ; 5 = YES","dr11a7_oth"
+"ssaga_dr11a8_oth","Integer","","Recommended","1287 : DRUGS II : 8. Did you have an increase in appetite?","1;5","1 = NO ; 5 = YES","dr11a8_oth"
+"ssaga_dr11a9_oth","Integer","","Recommended","1288 : DRUGS II : 9. Did you have nightmares?","1;5","1 = NO ; 5 = YES","dr11a9_oth"
+"ssaga_dr11a10_oth","Integer","","Recommended","1289 : DRUGS II : 10. Did you have diarrhea?","1;5","1 = NO ; 5 = YES","dr11a10_oth"
+"ssaga_dr11a11_oth","Integer","","Recommended","1290 : DRUGS II : 11. Did you have stomach aches or stomach cramps?","1;5","1 = NO ; 5 = YES","dr11a11_oth"
+"ssaga_dr11a12_oth","Integer","","Recommended","1291 : DRUGS II : 12. Did your eyes run?","1;5","1 = NO ; 5 = YES","dr11a12_oth"
+"ssaga_dr11a13_oth","Integer","","Recommended","1292 : DRUGS II : 13. Did your nose run?","1;5","1 = NO ; 5 = YES","dr11a13_oth"
+"ssaga_dr11a14_oth","Integer","","Recommended","1293 : DRUGS II : 14. Did you have muscle pains?","1;5","1 = NO ; 5 = YES","dr11a14_oth"
+"ssaga_dr11a15_oth","Integer","","Recommended","1294 : DRUGS II : 15. Did you yawn?","1;5","1 = NO ; 5 = YES","dr11a15_oth"
+"ssaga_dr11a16_oth","Integer","","Recommended","1295 : DRUGS II : 16. Were your pupils dilated or were your eyes sensitive to light?","1;5","1 = NO ; 5 = YES","dr11a16_oth"
+"ssaga_dr11a17_oth","Integer","","Recommended","1296 : DRUGS II : 17. Did you have gooseflesh, goose bumps, or did you get the chills?","1;5","1 = NO ; 5 = YES","dr11a17_oth"
+"ssaga_dr11a18_oth","Integer","","Recommended","1297 : DRUGS II : 18. Did your heart race?","1;5","1 = NO ; 5 = YES","dr11a18_oth"
+"ssaga_dr11a19_oth","Integer","","Recommended","1298 : DRUGS II : 19. Did you sweat?","1;5","1 = NO ; 5 = YES","dr11a19_oth"
+"ssaga_dr11a20_oth","Integer","","Recommended","1299 : DRUGS II : 20. Did you have a fever?","1;5","1 = NO ; 5 = YES","dr11a20_oth"
+"ssaga_dr11a21_oth","Integer","","Recommended","1300 : DRUGS II : 21. Did you have nausea, or did you vomit?","1;5","1 = NO ; 5 = YES","dr11a21_oth"
+"ssaga_dr11a22_oth","Integer","","Recommended","1301 : DRUGS II : 22. Did you have headaches?","1;5","1 = NO ; 5 = YES","dr11a22_oth"
+"ssaga_dr11a23_oth","Integer","","Recommended","1302 : DRUGS II : 23. Did you feel nervous, tense, or irritable?","1;5","1 = NO ; 5 = YES","dr11a23_oth"
+"ssaga_dr11a24_oth","Integer","","Recommended","1303 : DRUGS II : 24. Did your hands shake?","1;5","1 = NO ; 5 = YES","dr11a24_oth"
+"ssaga_dr11a25_oth","Integer","","Recommended","1304 : DRUGS II : 25. Did you tremble or twitch?","1;5","1 = NO ; 5 = YES","dr11a25_oth"
+"ssaga_dr11a26_oth","Integer","","Recommended","1305 : DRUGS II : 26. Did you experience dizziness?","1;5","1 = NO ; 5 = YES","dr11a26_oth"
+"ssaga_dr11a27_oth","Integer","","Recommended","1306 : DRUGS II : 27. Did you have seizures?","1;5","1 = NO ; 5 = YES","dr11a27_oth"
+"ssaga_dr11a28_oth","Integer","","Recommended","1307 : DRUGS II : 28. Did you see, hear, or feel things that weren't really there?","1;5","1 = NO ; 5 = YES","dr11a28_oth"
+"ssaga_dr11a29_oth","Integer","","Recommended","1308 : DRUGS II : 29. Did you think that people were plotting to harm you (PARANOID)?","1;5","1 = NO ; 5 = YES","dr11a29_oth"
+"ssaga_dr11a_othsum","Float","","Recommended","1309 : DRUGS II : Total of OTH checked:","","sum((if([dr11a1_oth]='5', 1, 0)),
+(if([dr11a2_oth]='5', 1, 0)),
+(if([dr11a3_oth]='5', 1, 0)),
+(if([dr11a4_oth]='5', 1, 0)),
+(if([dr11a5_oth]='5', 1, 0)),
+(if([dr11a6_oth]='5', 1, 0)),
+(if([dr11a7_oth]='5', 1, 0)),
+(if([dr11a8_oth]='5', 1, 0)),
+(if([dr11a9_oth]='5', 1, 0)),
+(if([dr11a10_oth]='5', 1, 0)),
+(if([dr11a11_oth]='5', 1, 0)),
+(if([dr11a12_oth]='5', 1, 0)),
+(if([dr11a13_oth]='5', 1, 0)),
+(if([dr11a14_oth]='5', 1, 0)),
+(if([dr11a15_oth]='5', 1, 0)),
+(if([dr11a16_oth]='5', 1, 0)),
+(if([dr11a17_oth]='5', 1, 0)),
+(if([dr11a18_oth]='5', 1, 0)),
+(if([dr11a19_oth]='5', 1, 0)),
+(if([dr11a20_oth]='5', 1, 0)),
+(if([dr11a21_oth]='5', 1, 0)),
+(if([dr11a22_oth]='5', 1, 0)),
+(if([dr11a23_oth]='5', 1, 0)),
+(if([dr11a24_oth]='5', 1, 0)),
+(if([dr11a25_oth]='5', 1, 0)),
+(if([dr11a26_oth]='5', 1, 0)),
+(if([dr11a27_oth]='5', 1, 0)),
+(if([dr11a28_oth]='5', 1, 0)),
+(if([dr11a29_oth]='5', 1, 0)))","dr11a_othsum"
+"ssaga_dr11b_oth","Integer","","Recommended","1310 : DRUGS II : DR11 B: Was there ever a time when 2 or more of these problems occurred together because of stopping, cutting down on, or going without [dr1_oth]?","1;5","1 = NO ; 5 = YES","dr11b_oth"
+"ssaga_dr11b_oth1","Integer","","Recommended","1311 : DRUGS II : 1. IF YES:  Did these problems occur together for 2 days or longer?","1;5","1 = NO ; 5 = YES","dr11b_oth1"
+"ssaga_dr11b_oth2_ageons","Float","","Recommended","1312 : DRUGS II : AGE ONS:","","","dr11b_oth2_ageons"
+"ssaga_dr11b_oth2_agerec","Float","","Recommended","1313 : DRUGS II : AGE REC:","","","dr11b_oth2_agerec"
+"ssaga_dr11c_oth","Integer","","Recommended","1314 : DRUGS II : DR11 C: Did you have any of these problems 3 or more times?","1;5","1 = NO ; 5 = YES","dr11c_oth"
+"ssaga_dr11d_oth","Integer","","Recommended","1315 : DRUGS II : DR11 D: Did these problems interfere with your functioning at work, school, or home?","1;5","1 = NO ; 5 = YES","dr11d_oth"
+"ssaga_dr11e_oth","Integer","","Recommended","1316 : DRUGS II : DR11 E: Have you ever used [dr1_oth] to keep from having any of these problems or to make them go away?","1;5","1 = NO ; 5 = YES","dr11e_oth"
+"ssaga_dr11e1_oth1_ageons","Float","","Recommended","1317 : DRUGS II : AGE ONS:","","","dr11e1_oth1_ageons"
+"ssaga_dr11e1_oth1_agerec","Float","","Recommended","1318 : DRUGS II : AGE REC:","","","dr11e1_oth1_agerec"
+"ssaga_dr11e2_oth","Integer","","Recommended","1319 : DRUGS II : 2. Did you do that 3 or more times?","1;5","1 = NO ; 5 = YES","dr11e2_oth"
+"ssaga_dr12a_coc","Integer","","Recommended","1320 : DRUGS II : DR12 COCAINE A. an overdose?","1;5","1 = NO ; 5 = YES","dr12a_coc"
+"ssaga_dr12a1_coc","Integer","","Recommended","1321 : DRUGS II : 1. IF YES:  Did you require medical treatment afterwards?","1;5","1 = NO ; 5 = YES","dr12a1_coc"
+"ssaga_dr12a2_coc","Integer","","Recommended","1322 : DRUGS II : 2. IF YES:   Did this happen 3 or more times? (overdose that required medical treatment)","1;5","1 = NO ; 5 = YES","dr12a2_coc"
+"ssaga_dr12b_coc","Integer","","Recommended","1323 : DRUGS II : DR12 COCAINE B. hepatitis?","1;5","1 = NO ; 5 = YES","dr12b_coc"
+"ssaga_dr12b1_coc","Integer","","Recommended","1324 : DRUGS II : 1. IF YES:  Did you continue to use COCAINE knowing it caused hepatitis?","1;5","1 = NO ; 5 = YES","dr12b1_coc"
+"ssaga_dr12c_coc","Integer","","Recommended","1325 : DRUGS II : DR12 COCAINE C. Other serious health problems?","1;5","1 = NO ; 5 = YES","dr12c_coc"
+"ssaga_dr12c_coc_problem","String","10","Recommended","1326 : DRUGS II : SPECIFY health problems caused by COCAINE:","","","dr12c_coc_problem"
+"ssaga_dr12c1_coc","Integer","","Recommended","1327 : DRUGS II : 1. IF YES:  Did you continue to use COCAINE knowing it caused health problems?","1;5","1 = NO ; 5 = YES","dr12c1_coc"
+"ssaga_dr12a_stim","Integer","","Recommended","1328 : DRUGS II : DR12 STIM A. an overdose?","1;5","1 = NO ; 5 = YES","dr12a_stim"
+"ssaga_dr12a1_stim","Integer","","Recommended","1329 : DRUGS II : 1. IF YES:  Did you require medical treatment afterwards?","1;5","1 = NO ; 5 = YES","dr12a1_stim"
+"ssaga_dr12a2_stim","Integer","","Recommended","1330 : DRUGS II : 2. IF YES:   Did this happen 3 or more times? (overdose that required medical treatment)","1;5","1 = NO ; 5 = YES","dr12a2_stim"
+"ssaga_dr12b_stim","Integer","","Recommended","1331 : DRUGS II : DR12 STIM B. hepatitis?","1;5","1 = NO ; 5 = YES","dr12b_stim"
+"ssaga_dr12b1_stim","Integer","","Recommended","1332 : DRUGS II : 1. IF YES:  Did you continue to use STIM knowing it caused hepatitis?","1;5","1 = NO ; 5 = YES","dr12b1_stim"
+"ssaga_dr12c_stim","Integer","","Recommended","1333 : DRUGS II : DR12 STIM C. Other serious health problems?","1;5","1 = NO ; 5 = YES","dr12c_stim"
+"ssaga_dr12c_stim_problem","String","20","Recommended","1334 : DRUGS II : SPECIFY health problems caused by STIM:","","","dr12c_stim_problem"
+"ssaga_dr12c1_stim","Integer","","Recommended","1335 : DRUGS II : 1. IF YES:  Did you continue to use STIM knowing it caused health problems?","1;5","1 = NO ; 5 = YES","dr12c1_stim"
+"ssaga_dr12a_sed","Integer","","Recommended","1336 : DRUGS II : DR12 SED A. an overdose?","1;5","1 = NO ; 5 = YES","dr12a_sed"
+"ssaga_dr12a1_sed","Integer","","Recommended","1337 : DRUGS II : 1. IF YES:  Did you require medical treatment afterwards?","1;5","1 = NO ; 5 = YES","dr12a1_sed"
+"ssaga_dr12a2_sed","Integer","","Recommended","1338 : DRUGS II : 2. IF YES:   Did this happen 3 or more times? (overdose that required medical treatment)","1;5","1 = NO ; 5 = YES","dr12a2_sed"
+"ssaga_dr12b_sed","Integer","","Recommended","1339 : DRUGS II : DR12 SED B. hepatitis?","1;5","1 = NO ; 5 = YES","dr12b_sed"
+"ssaga_dr12b1_sed","Integer","","Recommended","1340 : DRUGS II : 1. IF YES:  Did you continue to use SED knowing it caused hepatitis?","1;5","1 = NO ; 5 = YES","dr12b1_sed"
+"ssaga_dr12c_sed","Integer","","Recommended","1341 : DRUGS II : DR12 SED C. Other serious health problems?","1;5","1 = NO ; 5 = YES","dr12c_sed"
+"ssaga_dr12c_sed_problem","String","20","Recommended","1342 : DRUGS II : SPECIFY health problems caused by SED:","","","dr12c_sed_problem"
+"ssaga_dr12c1_sed","Integer","","Recommended","1343 : DRUGS II : 1. IF YES:  Did you continue to use SED knowing it caused health problems?","1;5","1 = NO ; 5 = YES","dr12c1_sed"
+"ssaga_dr12a_op","Integer","","Recommended","1344 : DRUGS II : DR12 OP A. an overdose?","1;5","1 = NO ; 5 = YES","dr12a_op"
+"ssaga_dr12a1_op","Integer","","Recommended","1345 : DRUGS II : 1. IF YES:  Did you require medical treatment afterwards?","1;5","1 = NO ; 5 = YES","dr12a1_op"
+"ssaga_dr12a2_op","Integer","","Recommended","1346 : DRUGS II : 2. IF YES:   Did this happen 3 or more times? (overdose that required medical treatment)","1;5","1 = NO ; 5 = YES","dr12a2_op"
+"ssaga_dr12b_op","Integer","","Recommended","1347 : DRUGS II : DR12 OP B. hepatitis?","1;5","1 = NO ; 5 = YES","dr12b_op"
+"ssaga_dr12b1_op","Integer","","Recommended","1348 : DRUGS II : 1. IF YES:  Did you continue to use OP knowing it caused hepatitis?","1;5","1 = NO ; 5 = YES","dr12b1_op"
+"ssaga_dr12c_op","Integer","","Recommended","1349 : DRUGS II : DR12 OP C. Other serious health problems?","1;5","1 = NO ; 5 = YES","dr12c_op"
+"ssaga_dr12c_op_problem","String","30","Recommended","1350 : DRUGS II : SPECIFY health problems caused by OP:","","","dr12c_op_problem"
+"ssaga_dr12c1_op","Integer","","Recommended","1351 : DRUGS II : 1. IF YES:  Did you continue to use OP knowing it caused health problems?","1;5","1 = NO ; 5 = YES","dr12c1_op"
+"ssaga_dr12a_oth","Integer","","Recommended","1352 : DRUGS II : DR12 [dr1_oth] A. an overdose?","1;5","1 = NO ; 5 = YES","dr12a_oth"
+"ssaga_dr12a1_oth","Integer","","Recommended","1353 : DRUGS II : 1. IF YES:  Did you require medical treatment afterwards?","1;5","1 = NO ; 5 = YES","dr12a1_oth"
+"ssaga_dr12a2_oth","Integer","","Recommended","1354 : DRUGS II : 2. IF YES:   Did this happen 3 or more times? (overdose that required medical treatment)","1;5","1 = NO ; 5 = YES","dr12a2_oth"
+"ssaga_dr12b_oth","Integer","","Recommended","1355 : DRUGS II : DR12 [dr1_oth] B. hepatitis?","1;5","1 = NO ; 5 = YES","dr12b_oth"
+"ssaga_dr12b1_oth","Integer","","Recommended","1356 : DRUGS II : 1. IF YES:  Did you continue to use [dr1_oth] knowing it caused hepatitis?","1;5","1 = NO ; 5 = YES","dr12b1_oth"
+"ssaga_dr12c_oth","Integer","","Recommended","1357 : DRUGS II : DR12 [dr1_oth] C. Other serious health problems?","1;5","1 = NO ; 5 = YES","dr12c_oth"
+"ssaga_dr12c_oth_problem","String","20","Recommended","1358 : DRUGS II : SPECIFY health problems caused by [dr1_oth]:","","","dr12c_oth_problem"
+"ssaga_dr12c1_oth","Integer","","Recommended","1359 : DRUGS II : 1. IF YES:  Did you continue to use [dr1_oth] knowing it caused health problems?","1;5","1 = NO ; 5 = YES","dr12c1_oth"
+"ssaga_dr13a_coc","Integer","","Recommended","1360 : DRUGS II : DR13 COCAINE: A. Were there ever objections from or problems with your family, friends, doctor, clergy, boss or people at work or school because of your COCAINE use?","1;5","1 = NO ; 5 = YES","dr13a_coc"
+"ssaga_dr13b_coc","Integer","","Recommended","1361 : DRUGS II : B. Did you ever get into any physical fights while using (COCAINE)?","1;5","1 = NO ; 5 = YES","dr13b_coc"
+"ssaga_dr13c_coc","Integer","","Recommended","1362 : DRUGS II : C. Did (this/either of these experiences) happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr13c_coc"
+"ssaga_dr13d_coc","Integer","","Recommended","1363 : DRUGS II : D. Did you continue to use COCAINE after you realized it was causing you any problem?","1;5","1 = NO ; 5 = YES","dr13d_coc"
+"ssaga_dr13a_stim","Integer","","Recommended","1364 : DRUGS II : DR13 STIM: A. Were there ever objections from or problems with your family, friends, doctor, clergy, boss or people at work or school because of your STIM use?","1;5","1 = NO ; 5 = YES","dr13a_stim"
+"ssaga_dr13b_stim","Integer","","Recommended","1365 : DRUGS II : B. Did you ever get into any physical fights while using (STIM)?","1;5","1 = NO ; 5 = YES","dr13b_stim"
+"ssaga_dr13c_stim","Integer","","Recommended","1366 : DRUGS II : C. Did (this/either of these experiences) happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr13c_stim"
+"ssaga_dr13d_stim","Integer","","Recommended","1367 : DRUGS II : D. Did you continue to use STIM after you realized it was causing you any problem?","1;5","1 = NO ; 5 = YES","dr13d_stim"
+"ssaga_dr13a_sed","Integer","","Recommended","1368 : DRUGS II : DR13 SED: A. Were there ever objections from or problems with your family, friends, doctor, clergy, boss or people at work or school because of your SED use?","1;5","1 = NO ; 5 = YES","dr13a_sed"
+"ssaga_dr13b_sed","Integer","","Recommended","1369 : DRUGS II : B. Did you ever get into any physical fights while using (SED)?","1;5","1 = NO ; 5 = YES","dr13b_sed"
+"ssaga_dr13c_sed","Integer","","Recommended","1370 : DRUGS II : C. Did (this/either of these experiences) happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr13c_sed"
+"ssaga_dr13d_sed","Integer","","Recommended","1371 : DRUGS II : D. Did you continue to use SED after you realized it was causing you any problem?","1;5","1 = NO ; 5 = YES","dr13d_sed"
+"ssaga_dr13a_op","Integer","","Recommended","1372 : DRUGS II : DR13 OP: A. Were there ever objections from or problems with your family, friends, doctor, clergy, boss or people at work or school because of your OP use?","1;5","1 = NO ; 5 = YES","dr13a_op"
+"ssaga_dr13b_op","Integer","","Recommended","1373 : DRUGS II : B. Did you ever get into any physical fights while using (OP)?","1;5","1 = NO ; 5 = YES","dr13b_op"
+"ssaga_dr13c_op","Integer","","Recommended","1374 : DRUGS II : C. Did (this/either of these experiences) happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr13c_op"
+"ssaga_dr13d_op","Integer","","Recommended","1375 : DRUGS II : D. Did you continue to use OP after you realized it was causing you any problem?","1;5","1 = NO ; 5 = YES","dr13d_op"
+"ssaga_dr13a_oth","Integer","","Recommended","1376 : DRUGS II : DR13 [dr1_oth]: A. Were there ever objections from or problems with your family, friends, doctor, clergy, boss or people at work or school because of your [dr1_oth] use?","1;5","1 = NO ; 5 = YES","dr13a_oth"
+"ssaga_dr13b_oth","Integer","","Recommended","1377 : DRUGS II : B. Did you ever get into any physical fights while using ([dr1_oth])?","1;5","1 = NO ; 5 = YES","dr13b_oth"
+"ssaga_dr13c_oth","Integer","","Recommended","1378 : DRUGS II : C. Did (this/either of these experiences) happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr13c_oth"
+"ssaga_dr13d_oth","Integer","","Recommended","1379 : DRUGS II : D. Did you continue to use [dr1_oth] after you realized it was causing you any problem?","1;5","1 = NO ; 5 = YES","dr13d_oth"
+"ssaga_dr14_coc","Integer","","Recommended","1380 : DRUGS II : DR14 Did you ever have trouble with the police because of COCAINE?","1;5","1 = NO ; 5 = YES","dr14_coc"
+"ssaga_dr14a_coc","Integer","","Recommended","1381 : DRUGS II :  A. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr14a_coc"
+"ssaga_dr14b_coc","Integer","","Recommended","1382 : DRUGS II : B. Did you continue to use COCAINE after you realized it was causing you trouble with the police?","1;5","1 = NO ; 5 = YES","dr14b_coc"
+"ssaga_dr14_stim","Integer","","Recommended","1383 : DRUGS II : DR14 Did you ever have trouble with the police because of STIM?","1;5","1 = NO ; 5 = YES","dr14_stim"
+"ssaga_dr14a_stim","Integer","","Recommended","1384 : DRUGS II :  A. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr14a_stim"
+"ssaga_dr14b_stim","Integer","","Recommended","1385 : DRUGS II : B. Did you continue to use STIM after you realized it was causing you trouble with the police?","1;5","1 = NO ; 5 = YES","dr14b_stim"
+"ssaga_dr14_sed","Integer","","Recommended","1386 : DRUGS II : DR14 Did you ever have trouble with the police because of SED?","1;5","1 = NO ; 5 = YES","dr14_sed"
+"ssaga_dr14a_sed","Integer","","Recommended","1387 : DRUGS II :  A. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr14a_sed"
+"ssaga_dr14b_sed","Integer","","Recommended","1388 : DRUGS II : B. Did you continue to use SED after you realized it was causing you trouble with the police?","1;5","1 = NO ; 5 = YES","dr14b_sed"
+"ssaga_dr14_op","Integer","","Recommended","1389 : DRUGS II : DR14 Did you ever have trouble with the police because of OP?","1;5","1 = NO ; 5 = YES","dr14_op"
+"ssaga_dr14a_op","Integer","","Recommended","1390 : DRUGS II :  A. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr14a_op"
+"ssaga_dr14b_op","Integer","","Recommended","1391 : DRUGS II : B. Did you continue to use OP after you realized it was causing you trouble with the police?","1;5","1 = NO ; 5 = YES","dr14b_op"
+"ssaga_dr14_oth","Integer","","Recommended","1392 : DRUGS II : DR14 Did you ever have trouble with the police because of [dr1_oth]?","1;5","1 = NO ; 5 = YES","dr14_oth"
+"ssaga_dr14a_oth","Integer","","Recommended","1393 : DRUGS II :  A. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr14a_oth"
+"ssaga_dr14b_oth","Integer","","Recommended","1394 : DRUGS II : B. Did you continue to use [dr1_oth] after you realized it was causing you trouble with the police?","1;5","1 = NO ; 5 = YES","dr14b_oth"
+"ssaga_dr15_coc","Integer","","Recommended","1395 : DRUGS II : DR15 Have you accidentally injured yourself when you were using COCAINE; that is had a bad fall, cut or burned yourself badly, got hurt in a traffic accident, or anything like that?","1;5","1 = NO ; 5 = YES","dr15_coc"
+"ssaga_dr15a_coc","Integer","","Recommended","1396 : DRUGS II : A. IF YES:  Did this happen 3 or more times?","1;5","1 = NO ; 5 = YES","dr15a_coc"
+"ssaga_dr15b_coc","Integer","","Recommended","1397 : DRUGS II : B. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr15b_coc"
+"ssaga_dr15_stim","Integer","","Recommended","1398 : DRUGS II : DR15 Have you accidentally injured yourself when you were using STIM; that is had a bad fall, cut or burned yourself badly, got hurt in a traffic accident, or anything like that?","1;5","1 = NO ; 5 = YES","dr15_stim"
+"ssaga_dr15a_stim","Integer","","Recommended","1399 : DRUGS II : A. IF YES:  Did this happen 3 or more times?","1;5","1 = NO ; 5 = YES","dr15a_stim"
+"ssaga_dr15b_stim","Integer","","Recommended","1400 : DRUGS II : B. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr15b_stim"
+"ssaga_dr15_sed","Integer","","Recommended","1401 : DRUGS II : DR15 Have you accidentally injured yourself when you were using SED; that is had a bad fall, cut or burned yourself badly, got hurt in a traffic accident, or anything like that?","1;5","1 = NO ; 5 = YES","dr15_sed"
+"ssaga_dr15a_sed","Integer","","Recommended","1402 : DRUGS II : A. IF YES:  Did this happen 3 or more times?","1;5","1 = NO ; 5 = YES","dr15a_sed"
+"ssaga_dr15b_sed","Integer","","Recommended","1403 : DRUGS II : B. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr15b_sed"
+"ssaga_dr15_op","Integer","","Recommended","1404 : DRUGS II : DR15 Have you accidentally injured yourself when you were using OP; that is had a bad fall, cut or burned yourself badly, got hurt in a traffic accident, or anything like that?","1;5","1 = NO ; 5 = YES","dr15_op"
+"ssaga_dr15a_op","Integer","","Recommended","1405 : DRUGS II : A. IF YES:  Did this happen 3 or more times?","1;5","1 = NO ; 5 = YES","dr15a_op"
+"ssaga_dr15b_op","Integer","","Recommended","1406 : DRUGS II : B. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr15b_op"
+"ssaga_dr15_oth","Integer","","Recommended","1407 : DRUGS II : DR15 Have you accidentally injured yourself when you were using [dr1_oth]; that is had a bad fall, cut or burned yourself badly, got hurt in a traffic accident, or anything like that?","1;5","1 = NO ; 5 = YES","dr15_oth"
+"ssaga_dr15a_oth","Integer","","Recommended","1408 : DRUGS II : A. IF YES:  Did this happen 3 or more times?","1;5","1 = NO ; 5 = YES","dr15a_oth"
+"ssaga_dr15b_oth","Integer","","Recommended","1409 : DRUGS II : B. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr15b_oth"
+"ssaga_dr16_coc","Integer","","Recommended","1410 : DRUGS II : DR16 Has your being high on COCAINE or experiencing its after-effects often interfered with your work, school, household, or child care responsibilities?","1;5","1 = NO ; 5 = YES","dr16_coc"
+"ssaga_dr16a_coc","Integer","","Recommended","1411 : DRUGS II : A. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr16a_coc"
+"ssaga_dr16_stim","Integer","","Recommended","1412 : DRUGS II : DR16 Has your being high on STIM or experiencing its after-effects often interfered with your work, school, household, or child care responsibilities?","1;5","1 = NO ; 5 = YES","dr16_stim"
+"ssaga_dr16a_stim","Integer","","Recommended","1413 : DRUGS II : A. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr16a_stim"
+"ssaga_dr16_sed","Integer","","Recommended","1414 : DRUGS II : DR16 Has your being high on SED or experiencing its after-effects often interfered with your work, school, household, or child care responsibilities?","1;5","1 = NO ; 5 = YES","dr16_sed"
+"ssaga_dr16a_sed","Integer","","Recommended","1415 : DRUGS II : A. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr16a_sed"
+"ssaga_dr16_op","Integer","","Recommended","1416 : DRUGS II : DR16 Has your being high on OP or experiencing its after-effects often interfered with your work, school, household, or child care responsibilities?","1;5","1 = NO ; 5 = YES","dr16_op"
+"ssaga_dr16a_op","Integer","","Recommended","1417 : DRUGS II : A. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr16a_op"
+"ssaga_dr16_oth","Integer","","Recommended","1418 : DRUGS II : DR16 Has your being high on [dr1_oth] or experiencing its after-effects often interfered with your work, school, household, or child care responsibilities?","1;5","1 = NO ; 5 = YES","dr16_oth"
+"ssaga_dr16a_oth","Integer","","Recommended","1419 : DRUGS II : A. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr16a_oth"
+"ssaga_dr17_coc","Integer","","Recommended","1420 : DRUGS II : DR17 Have there been 3 or more times when you have been under the influence of COCAINE in a situation where it increased your chances of getting hurt--for instance, when driving a car or boat; using knives, machinery, or guns; crossing against traffic; climbing; or swimming?","1;5","1 = NO ; 5 = YES","dr17_coc"
+"ssaga_dr17a_coc","Integer","","Recommended","1421 : DRUGS II : A. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr17a_coc"
+"ssaga_dr17_stim","Integer","","Recommended","1422 : DRUGS II : DR17 Have there been 3 or more times when you have been under the influence of STIM in a situation where it increased your chances of getting hurt--for instance, when driving a car or boat; using knives, machinery, or guns; crossing against traffic; climbing; or swimming?","1;5","1 = NO ; 5 = YES","dr17_stim"
+"ssaga_dr17a_stim","Integer","","Recommended","1423 : DRUGS II : A. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr17a_stim"
+"ssaga_dr17_sed","Integer","","Recommended","1424 : DRUGS II : DR17 Have there been 3 or more times when you have been under the influence of SED in a situation where it increased your chances of getting hurt--for instance, when driving a car or boat; using knives, machinery, or guns; crossing against traffic; climbing; or swimming?","1;5","1 = NO ; 5 = YES","dr17_sed"
+"ssaga_dr17a_sed","Integer","","Recommended","1425 : DRUGS II : A. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr17a_sed"
+"ssaga_dr17_op","Integer","","Recommended","1426 : DRUGS II : DR17 Have there been 3 or more times when you have been under the influence of OP in a situation where it increased your chances of getting hurt--for instance, when driving a car or boat; using knives, machinery, or guns; crossing against traffic; climbing; or swimming?","1;5","1 = NO ; 5 = YES","dr17_op"
+"ssaga_dr17a_op","Integer","","Recommended","1427 : DRUGS II : A. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr17a_op"
+"ssaga_dr17_oth","Integer","","Recommended","1428 : DRUGS II : DR17 Have there been 3 or more times when you have been under the influence of [dr1_oth] in a situation where it increased your chances of getting hurt--for instance, when driving a car or boat; using knives, machinery, or guns; crossing against traffic; climbing; or swimming?","1;5","1 = NO ; 5 = YES","dr17_oth"
+"ssaga_dr17a_oth","Integer","","Recommended","1429 : DRUGS II : A. IF YES:  Did this happen 3 or more times in any 12-month period?","1;5","1 = NO ; 5 = YES","dr17a_oth"
+"ssaga_dr18_coc1","Integer","","Recommended","1430 : DRUGS II : 1. Feeling depressed or uninterested in things for more than 24 hours to the point that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","dr18_coc1"
+"ssaga_dr18_coc2","Integer","","Recommended","1431 : DRUGS II : 2. Feeling paranoid or suspicious of people for more than 24 hours to the point that it interfered with your relationships?","1;5","1 = NO ; 5 = YES","dr18_coc2"
+"ssaga_dr18_coc3","Integer","","Recommended","1432 : DRUGS II : 3. Having trouble concentrating or thinking clearly for more than 24 hours to the point that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","dr18_coc3"
+"ssaga_dr18_coc4","Integer","","Recommended","1433 : DRUGS II : 4. Hearing, seeing, or smelling things that weren't really there?","1;5","1 = NO ; 5 = YES","dr18_coc4"
+"ssaga_dr18_coc5","Integer","","Recommended","1434 : DRUGS II : 5. Feeling jumpy or easily startled or nervous for more than 24 hours to the point that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","dr18_coc5"
+"ssaga_dr18a_coc","Integer","","Recommended","1435 : DRUGS II : A. Did you continue to use COCAINE after you knew it caused any of these problems? Review SX as following:","1;5","1 = NO ; 5 = YES","dr18a_coc"
+"ssaga_dr18_stim1","Integer","","Recommended","1436 : DRUGS II : 1. Feeling depressed or uninterested in things for more than 24 hours to the point that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","dr18_stim1"
+"ssaga_dr18_stim2","Integer","","Recommended","1437 : DRUGS II : 2. Feeling paranoid or suspicious of people for more than 24 hours to the point that it interfered with your relationships?","1;5","1 = NO ; 5 = YES","dr18_stim2"
+"ssaga_dr18_stim3","Integer","","Recommended","1438 : DRUGS II : 3. Having trouble concentrating or thinking clearly for more than 24 hours to the point that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","dr18_stim3"
+"ssaga_dr18_stim4","Integer","","Recommended","1439 : DRUGS II : 4. Hearing, seeing, or smelling things that weren't really there?","1;5","1 = NO ; 5 = YES","dr18_stim4"
+"ssaga_dr18_stim5","Integer","","Recommended","1440 : DRUGS II : 5. Feeling jumpy or easily startled or nervous for more than 24 hours to the point that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","dr18_stim5"
+"ssaga_dr18a_stim","Integer","","Recommended","1441 : DRUGS II : A. Did you continue to use STIM after you knew it caused any of these problems? Review SX as following:","1;5","1 = NO ; 5 = YES","dr18a_stim"
+"ssaga_dr18_sed1","Integer","","Recommended","1442 : DRUGS II : 1. Feeling depressed or uninterested in things for more than 24 hours to the point that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","dr18_sed1"
+"ssaga_dr18_sed2","Integer","","Recommended","1443 : DRUGS II : 2. Feeling paranoid or suspicious of people for more than 24 hours to the point that it interfered with your relationships?","1;5","1 = NO ; 5 = YES","dr18_sed2"
+"ssaga_dr18_sed3","Integer","","Recommended","1444 : DRUGS II : 3. Having trouble concentrating or thinking clearly for more than 24 hours to the point that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","dr18_sed3"
+"ssaga_dr18_sed4","Integer","","Recommended","1445 : DRUGS II : 4. Hearing, seeing, or smelling things that weren't really there?","1;5","1 = NO ; 5 = YES","dr18_sed4"
+"ssaga_dr18_sed5","Integer","","Recommended","1446 : DRUGS II : 5. Feeling jumpy or easily startled or nervous for more than 24 hours to the point that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","dr18_sed5"
+"ssaga_dr18a_sed","Integer","","Recommended","1447 : DRUGS II : A. Did you continue to use SED after you knew it caused any of these problems? Review SX as following:","1;5","1 = NO ; 5 = YES","dr18a_sed"
+"ssaga_dr18_op1","Integer","","Recommended","1448 : DRUGS II : 1. Feeling depressed or uninterested in things for more than 24 hours to the point that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","dr18_op1"
+"ssaga_dr18_op2","Integer","","Recommended","1449 : DRUGS II : 2. Feeling paranoid or suspicious of people for more than 24 hours to the point that it interfered with your relationships?","1;5","1 = NO ; 5 = YES","dr18_op2"
+"ssaga_dr18_op3","Integer","","Recommended","1450 : DRUGS II : 3. Having trouble concentrating or thinking clearly for more than 24 hours to the point that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","dr18_op3"
+"ssaga_dr18_op4","Integer","","Recommended","1451 : DRUGS II : 4. Hearing, seeing, or smelling things that weren't really there?","1;5","1 = NO ; 5 = YES","dr18_op4"
+"ssaga_dr18_op5","Integer","","Recommended","1452 : DRUGS II : 5. Feeling jumpy or easily startled or nervous for more than 24 hours to the point that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","dr18_op5"
+"ssaga_dr18a_op","Integer","","Recommended","1453 : DRUGS II : A. Did you continue to use OP after you knew it caused any of these problems? Review SX as following:","1;5","1 = NO ; 5 = YES","dr18a_op"
+"ssaga_dr18_oth1","Integer","","Recommended","1454 : DRUGS II : 1. Feeling depressed or uninterested in things for more than 24 hours to the point that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","dr18_oth1"
+"ssaga_dr18_oth2","Integer","","Recommended","1455 : DRUGS II : 2. Feeling paranoid or suspicious of people for more than 24 hours to the point that it interfered with your relationships?","1;5","1 = NO ; 5 = YES","dr18_oth2"
+"ssaga_dr18_oth3","Integer","","Recommended","1456 : DRUGS II : 3. Having trouble concentrating or thinking clearly for more than 24 hours to the point that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","dr18_oth3"
+"ssaga_dr18_oth4","Integer","","Recommended","1457 : DRUGS II : 4. Hearing, seeing, or smelling things that weren't really there?","1;5","1 = NO ; 5 = YES","dr18_oth4"
+"ssaga_dr18_oth5","Integer","","Recommended","1458 : DRUGS II : 5. Feeling jumpy or easily startled or nervous for more than 24 hours to the point that it interfered with your functioning?","1;5","1 = NO ; 5 = YES","dr18_oth5"
+"ssaga_dr18a_oth","Integer","","Recommended","1459 : DRUGS II : A. Did you continue to use [dr1_oth] after you knew it caused any of these problems? Review SX as following:","1;5","1 = NO ; 5 = YES","dr18a_oth"
+"ssaga_dr_total","Float","","Recommended","1460 : DRUGS II : Drug SX total:","","sum((if([dr5coc]='5', 1, 0)),
+(if([dr5stim]='5', 1, 0)),
+(if([dr5sed]='5', 1, 0)),
+(if([dr5op]='5', 1, 0)),
+(if([dr5oth]='5', 1, 0)),
+(if([dr6coc]='5', 1, 0)),
+(if([dr6stim]='5', 1, 0)),
+(if([dr6sed]='5', 1, 0)),
+(if([dr6op]='5', 1, 0)),
+(if([dr6oth]='5', 1, 0)),
+(if([dr7coc]='5', 1, 0)),
+(if([dr7stim]='5', 1, 0)),
+(if([dr7sed]='5', 1, 0)),
+(if([dr7op]='5', 1, 0)),
+(if([dr7oth]='5', 1, 0)),
+(if([dr7a_coc]='5', 1, 0)),
+(if([dr7a_stim]='5', 1, 0)),
+(if([dr7a_sed]='5', 1, 0)),
+(if([dr7a_op]='5', 1, 0)),
+(if([dr7a_oth]='5', 1, 0)),
+(if([dr7b_coc]='5', 1, 0)),
+(if([dr7b_stim]='5', 1, 0)),
+(if([dr7b_sed]='5', 1, 0)),
+(if([dr7b_op]='5', 1, 0)),
+(if([dr7b_oth]='5', 1, 0)),
+(if([dr8coc]='5', 1, 0)),
+(if([dr8stim]='5', 1, 0)),
+(if([dr8sed]='5', 1, 0)),
+(if([dr8op]='5', 1, 0)),
+(if([dr8oth]='5', 1, 0)),
+(if([dr9a_coc]='5', 1, 0)),
+(if([dr9a_stim]='5', 1, 0)),
+(if([dr9a_sed]='5', 1, 0)),
+(if([dr9a_op]='5', 1, 0)),
+(if([dr9a_oth]='5', 1, 0)),
+(if([dr10coc]='5', 1, 0)),
+(if([dr10stim]='5', 1, 0)),
+(if([dr10sed]='5', 1, 0)),
+(if([dr10op]='5', 1, 0)),
+(if([dr10oth]='5', 1, 0)),
+(if([dr11b_coc]='5', 1, 0)),
+(if([dr11b_stim]='5', 1, 0)),
+(if([dr11b_sed]='5', 1, 0)),
+(if([dr11b_op]='5', 1, 0)),
+(if([dr11b_oth]='5', 1, 0)),
+(if([dr11e2_coc]='5', 1, 0)),
+(if([dr11e2_stim]='5', 1, 0)),
+(if([dr11e2_sed]='5', 1, 0)),
+(if([dr11e2_op]='5', 1, 0)),
+(if([dr11e2_oth]='5', 1, 0)),
+(if([dr12a2_coc]='5', 1, 0)),
+(if([dr12a2_stim]='5', 1, 0)),
+(if([dr12a2_sed]='5', 1, 0)),
+(if([dr12a2_op]='5', 1, 0)),
+(if([dr12a2_oth]='5', 1, 0)),
+(if([dr12b1_coc]='5', 1, 0)),
+(if([dr12b1_stim]='5', 1, 0)),
+(if([dr12b1_sed]='5', 1, 0)),
+(if([dr12b1_op]='5', 1, 0)),
+(if([dr12b1_oth]='5', 1, 0)),
+(if([dr12c1_coc]='5', 1, 0)),
+(if([dr12c1_stim]='5', 1, 0)),
+(if([dr12c1_sed]='5', 1, 0)),
+(if([dr12c1_op]='5', 1, 0)),
+(if([dr12c1_oth]='5', 1, 0)),
+(if([dr13d_coc]='5', 1, 0)),
+(if([dr13d_stim]='5', 1, 0)),
+(if([dr13d_sed]='5', 1, 0)),
+(if([dr13d_op]='5', 1, 0)),
+(if([dr13d_oth]='5', 1, 0)),
+(if([dr14b_coc]='5', 1, 0)),
+(if([dr14b_stim]='5', 1, 0)),
+(if([dr14b_sed]='5', 1, 0)),
+(if([dr14b_op]='5', 1, 0)),
+(if([dr14b_oth]='5', 1, 0)),
+(if([dr15a_coc]='5', 1, 0)),
+(if([dr15a_stim]='5', 1, 0)),
+(if([dr15a_sed]='5', 1, 0)),
+(if([dr15a_op]='5', 1, 0)),
+(if([dr15a_oth]='5', 1, 0)),
+(if([dr16_coc]='5', 1, 0)),
+(if([dr16_stim]='5', 1, 0)),
+(if([dr16_sed]='5', 1, 0)),
+(if([dr16_op]='5', 1, 0)),
+(if([dr16_oth]='5', 1, 0)),
+(if([dr17_coc]='5', 1, 0)),
+(if([dr17_stim]='5', 1, 0)),
+(if([dr17_sed]='5', 1, 0)),
+(if([dr17_op]='5', 1, 0)),
+(if([dr17_oth]='5', 1, 0)),
+(if([dr18a_coc]='5', 1, 0)),
+(if([dr18a_stim]='5', 1, 0)),
+(if([dr18a_sed]='5', 1, 0)),
+(if([dr18a_op]='5', 1, 0)),
+(if([dr18a_oth]='5', 1, 0)))","dr_total"
+"ssaga_dr5coc_12m","Integer","","Recommended","1461 : DRUGS IV : DR5 12-MONTH Have such a strong desire for COCAINE that hard to think of anything else","1;5","1 = NO ; 5 = YES","dr5coc_12m"
+"ssaga_dr6coc_12m","Integer","","Recommended","1462 : DRUGS IV : DR6 12-MONTH COCAINE Spend a month or more using, getting, or getting over effects","1;5","1 = NO ; 5 = YES","dr6coc_12m"
+"ssaga_dr7coc_12m","Integer","","Recommended","1463 : DRUGS IV : DR7 12-MONTH COCAINE Often want tostop or cut down","1;5","1 = NO ; 5 = YES","dr7coc_12m"
+"ssaga_dr7a_coc_12m","Integer","","Recommended","1464 : DRUGS IV : DR7A 12-MONTH COCAINE Try tostop or cut down but find you couldn't","1;5","1 = NO ; 5 = YES","dr7a_coc_12m"
+"ssaga_dr7b_coc_12m","Integer","","Recommended","1465 : DRUGS IV : DR7B 12-MONTH COCAINE Try tostop or cut down but find you couldn't 3 or more times","1;5","1 = NO ; 5 = YES","dr7b_coc_12m"
+"ssaga_dr8coc_12m","Integer","","Recommended","1466 : DRUGS IV : DR8 12-MONTH COCAINE Need larger amounts to get an effect","1;5","1 = NO ; 5 = YES","dr8coc_12m"
+"ssaga_dr9a_coc_12m","Integer","","Recommended","1467 : DRUGS IV : DR9A 12-MONTH Give up or reduce important activities to use COCAINE","1;5","1 = NO ; 5 = YES","dr9a_coc_12m"
+"ssaga_dr10coc_12m","Integer","","Recommended","1468 : DRUGS IV : DR10 12-MONTH Often use COCAINE  more days or in larger amounts than intended","1;5","1 = NO ; 5 = YES","dr10coc_12m"
+"ssaga_dr11b_coc_12m","Integer","","Recommended","1469 : DRUGS IV : DR11B 12-MONTH COCAINE Experience withdrawal","1;5","1 = NO ; 5 = YES","dr11b_coc_12m"
+"ssaga_dr11e2_coc_12m","Integer","","Recommended","1470 : DRUGS IV : DR11E2 12-MONTH use COCAINE  to relieve or avoid withdrawal symptoms","1;5","1 = NO ; 5 = YES","dr11e2_coc_12m"
+"ssaga_dr12a2_coc_12m","Integer","","Recommended","1471 : DRUGS IV : DR12A2 12-MONTH COCAINE Overdose","1;5","1 = NO ; 5 = YES","dr12a2_coc_12m"
+"ssaga_dr12b1_coc_12m","Integer","","Recommended","1472 : DRUGS IV : DR12B1 12-MONTH Continue to use COCAINE  knowing it caused  hepatitis","1;5","1 = NO ; 5 = YES","dr12b1_coc_12m"
+"ssaga_dr12c1_coc_12m","Integer","","Recommended","1473 : DRUGS IV : DR12C1 12-MONTH Continue to use COCAINE  knowing it caused  other health problems","1;5","1 = NO ; 5 = YES","dr12c1_coc_12m"
+"ssaga_dr13d_coc_12m","Integer","","Recommended","1474 : DRUGS IV : DR13D 12-MONTH Continue to use COCAINE  knowing it caused  any problem","1;5","1 = NO ; 5 = YES","dr13d_coc_12m"
+"ssaga_dr14b_coc_12m","Integer","","Recommended","1475 : DRUGS IV : DR14B 12-MONTH COCAINE Continue to use knowing it caused  problems with police","1;5","1 = NO ; 5 = YES","dr14b_coc_12m"
+"ssaga_dr15a_coc_12m","Integer","","Recommended","1476 : DRUGS IV : DR15A 12-MONTH COCAINE Find that usecaused  accidental injuries","1;5","1 = NO ; 5 = YES","dr15a_coc_12m"
+"ssaga_dr16_coc_12m","Integer","","Recommended","1477 : DRUGS IV : DR16 12-MONTH COCAINE Find that use often interfered with responsibilities","1;5","1 = NO ; 5 = YES","dr16_coc_12m"
+"ssaga_dr17_coc_12m","Integer","","Recommended","1478 : DRUGS IV : DR17 12-MONTH COCAINE High when could have gotten hurt","1;5","1 = NO ; 5 = YES","dr17_coc_12m"
+"ssaga_dr18a_coc_12m","Integer","","Recommended","1479 : DRUGS IV : DR18A 12-MONTH COCAINE Continue to use knowing it caused  emotional or psychological problems","1;5","1 = NO ; 5 = YES","dr18a_coc_12m"
+"ssaga_dr5stim_12m","Integer","","Recommended","1480 : DRUGS IV : DR5 12-MONTH Have such a strong desire for STIM that hard to think of anything else","1;5","1 = NO ; 5 = YES","dr5stim_12m"
+"ssaga_dr6stim_12m","Integer","","Recommended","1481 : DRUGS IV : DR6 12-MONTH STIM Spend a month or more using, getting, or getting over effects","1;5","1 = NO ; 5 = YES","dr6stim_12m"
+"ssaga_dr7stim_12m","Integer","","Recommended","1482 : DRUGS IV : DR7 12-MONTH STIM Often want tostop or cut down","1;5","1 = NO ; 5 = YES","dr7stim_12m"
+"ssaga_dr7a_stim_12m","Integer","","Recommended","1483 : DRUGS IV : DR7A 12-MONTH STIM Try tostop or cut down but find you couldn't","1;5","1 = NO ; 5 = YES","dr7a_stim_12m"
+"ssaga_dr7b_stim_12m","Integer","","Recommended","1484 : DRUGS IV : DR7B 12-MONTH STIM Try tostop or cut down but find you couldn't 3 or more times","1;5","1 = NO ; 5 = YES","dr7b_stim_12m"
+"ssaga_dr8stim_12m","Integer","","Recommended","1485 : DRUGS IV : DR8 12-MONTH STIM Need larger amounts to get an effect","1;5","1 = NO ; 5 = YES","dr8stim_12m"
+"ssaga_dr9a_stim_12m","Integer","","Recommended","1486 : DRUGS IV : DR9A 12-MONTH Give up or reduce important activities to use STIM","1;5","1 = NO ; 5 = YES","dr9a_stim_12m"
+"ssaga_dr10stim_12m","Integer","","Recommended","1487 : DRUGS IV : DR10 12-MONTH Often use STIM  more days or in larger amounts than intended","1;5","1 = NO ; 5 = YES","dr10stim_12m"
+"ssaga_dr11b_stim_12m","Integer","","Recommended","1488 : DRUGS IV : DR11B 12-MONTH STIM Experience withdrawal","1;5","1 = NO ; 5 = YES","dr11b_stim_12m"
+"ssaga_dr11e2_stim_12m","Integer","","Recommended","1489 : DRUGS IV : DR11E2 12-MONTH use STIM  to relieve or avoid withdrawal symptoms","1;5","1 = NO ; 5 = YES","dr11e2_stim_12m"
+"ssaga_dr12a2_stim_12m","Integer","","Recommended","1490 : DRUGS IV : DR12A2 12-MONTH STIM Overdose","1;5","1 = NO ; 5 = YES","dr12a2_stim_12m"
+"ssaga_dr12b1_stim_12m","Integer","","Recommended","1491 : DRUGS IV : DR12B1 12-MONTH Continue to use STIM  knowing it caused  hepatitis","1;5","1 = NO ; 5 = YES","dr12b1_stim_12m"
+"ssaga_dr12c1_stim_12m","Integer","","Recommended","1492 : DRUGS IV : DR12C1 12-MONTH Continue to use STIM  knowing it caused  other health problems","1;5","1 = NO ; 5 = YES","dr12c1_stim_12m"
+"ssaga_dr13d_stim_12m","Integer","","Recommended","1493 : DRUGS IV : DR13D 12-MONTH Continue to use STIM  knowing it caused  any problem","1;5","1 = NO ; 5 = YES","dr13d_stim_12m"
+"ssaga_dr14b_stim_12m","Integer","","Recommended","1494 : DRUGS IV : DR14B 12-MONTH STIM Continue to use knowing it caused  problems with police","1;5","1 = NO ; 5 = YES","dr14b_stim_12m"
+"ssaga_dr15a_stim_12m","Integer","","Recommended","1495 : DRUGS IV : DR15A 12-MONTH STIM Find that usecaused  accidental injuries","1;5","1 = NO ; 5 = YES","dr15a_stim_12m"
+"ssaga_dr16_stim_12m","Integer","","Recommended","1496 : DRUGS IV : DR16 12-MONTH STIM Find that use often interfered with responsibilities","1;5","1 = NO ; 5 = YES","dr16_stim_12m"
+"ssaga_dr17_stim_12m","Integer","","Recommended","1497 : DRUGS IV : DR17 12-MONTH STIM High when could have gotten hurt","1;5","1 = NO ; 5 = YES","dr17_stim_12m"
+"ssaga_dr18a_stim_12m","Integer","","Recommended","1498 : DRUGS IV : DR18A 12-MONTH STIM Continue to use knowing it caused  emotional or psychological problems","1;5","1 = NO ; 5 = YES","dr18a_stim_12m"
+"ssaga_dr5sed_12m","Integer","","Recommended","1499 : DRUGS IV : DR5 12-MONTH Have such a strong desire for SED that hard to think of anything else","1;5","1 = NO ; 5 = YES","dr5sed_12m"
+"ssaga_dr6sed_12m","Integer","","Recommended","1500 : DRUGS IV : DR6 12-MONTH SED Spend a month or more using, getting, or getting over effects","1;5","1 = NO ; 5 = YES","dr6sed_12m"
+"ssaga_dr7sed_12m","Integer","","Recommended","1501 : DRUGS IV : DR7 12-MONTH SED Often want tostop or cut down","1;5","1 = NO ; 5 = YES","dr7sed_12m"
+"ssaga_dr7a_sed_12m","Integer","","Recommended","1502 : DRUGS IV : DR7A 12-MONTH SED Try tostop or cut down but find you couldn't","1;5","1 = NO ; 5 = YES","dr7a_sed_12m"
+"ssaga_dr7b_sed_12m","Integer","","Recommended","1503 : DRUGS IV : DR7B 12-MONTH SED Try tostop or cut down but find you couldn't 3 or more times","1;5","1 = NO ; 5 = YES","dr7b_sed_12m"
+"ssaga_dr8sed_12m","Integer","","Recommended","1504 : DRUGS IV : DR8 12-MONTH SED Need larger amounts to get an effect","1;5","1 = NO ; 5 = YES","dr8sed_12m"
+"ssaga_dr9a_sed_12m","Integer","","Recommended","1505 : DRUGS IV : DR9A 12-MONTH Give up or reduce important activities to use SED","1;5","1 = NO ; 5 = YES","dr9a_sed_12m"
+"ssaga_dr10sed_12m","Integer","","Recommended","1506 : DRUGS IV : DR10 12-MONTH Often use SED  more days or in larger amounts than intended","1;5","1 = NO ; 5 = YES","dr10sed_12m"
+"ssaga_dr11b_sed_12m","Integer","","Recommended","1507 : DRUGS IV : DR11B 12-MONTH SED Experience withdrawal","1;5","1 = NO ; 5 = YES","dr11b_sed_12m"
+"ssaga_dr11e2_sed_12m","Integer","","Recommended","1508 : DRUGS IV : DR11E2 12-MONTH use SED  to relieve or avoid withdrawal symptoms","1;5","1 = NO ; 5 = YES","dr11e2_sed_12m"
+"ssaga_dr12a2_sed_12m","Integer","","Recommended","1509 : DRUGS IV : DR12A2 12-MONTH SED Overdose","1;5","1 = NO ; 5 = YES","dr12a2_sed_12m"
+"ssaga_dr12b1_sed_12m","Integer","","Recommended","1510 : DRUGS IV : DR12B1 12-MONTH Continue to use SED  knowing it caused  hepatitis","1;5","1 = NO ; 5 = YES","dr12b1_sed_12m"
+"ssaga_dr12c1_sed_12m","Integer","","Recommended","1511 : DRUGS IV : DR12C1 12-MONTH Continue to use SED  knowing it caused  other health problems","1;5","1 = NO ; 5 = YES","dr12c1_sed_12m"
+"ssaga_dr13d_sed_12m","Integer","","Recommended","1512 : DRUGS IV : DR13D 12-MONTH Continue to use SED  knowing it caused  any problem","1;5","1 = NO ; 5 = YES","dr13d_sed_12m"
+"ssaga_dr14b_sed_12m","Integer","","Recommended","1513 : DRUGS IV : DR14B 12-MONTH SED Continue to use knowing it caused  problems with police","1;5","1 = NO ; 5 = YES","dr14b_sed_12m"
+"ssaga_dr15a_sed_12m","Integer","","Recommended","1514 : DRUGS IV : DR15A 12-MONTH SED Find that usecaused  accidental injuries","1;5","1 = NO ; 5 = YES","dr15a_sed_12m"
+"ssaga_dr16_sed_12m","Integer","","Recommended","1515 : DRUGS IV : DR16 12-MONTH SED Find that use often interfered with responsibilities","1;5","1 = NO ; 5 = YES","dr16_sed_12m"
+"ssaga_dr17_sed_12m","Integer","","Recommended","1516 : DRUGS IV : DR17 12-MONTH SED High when could have gotten hurt","1;5","1 = NO ; 5 = YES","dr17_sed_12m"
+"ssaga_dr18a_sed_12m","Integer","","Recommended","1517 : DRUGS IV : DR18A 12-MONTH SED Continue to use knowing it caused  emotional or psychological problems","1;5","1 = NO ; 5 = YES","dr18a_sed_12m"
+"ssaga_dr5op_12m","Integer","","Recommended","1518 : DRUGS IV : DR5 12-MONTH Have such a strong desire for OP that hard to think of anything else","1;5","1 = NO ; 5 = YES","dr5op_12m"
+"ssaga_dr6op_12m","Integer","","Recommended","1519 : DRUGS IV : DR6 12-MONTH OP Spend a month or more using, getting, or getting over effects","1;5","1 = NO ; 5 = YES","dr6op_12m"
+"ssaga_dr7op_12m","Integer","","Recommended","1520 : DRUGS IV : DR7 12-MONTH OP Often want tostop or cut down","1;5","1 = NO ; 5 = YES","dr7op_12m"
+"ssaga_dr7a_op_12m","Integer","","Recommended","1521 : DRUGS IV : DR7A 12-MONTH OP Try tostop or cut down but find you couldn't","1;5","1 = NO ; 5 = YES","dr7a_op_12m"
+"ssaga_dr7b_op_12m","Integer","","Recommended","1522 : DRUGS IV : DR7B 12-MONTH OP Try tostop or cut down but find you couldn't 3 or more times","1;5","1 = NO ; 5 = YES","dr7b_op_12m"
+"ssaga_dr8op_12m","Integer","","Recommended","1523 : DRUGS IV : DR8 12-MONTH OP Need larger amounts to get an effect","1;5","1 = NO ; 5 = YES","dr8op_12m"
+"ssaga_dr9a_op_12m","Integer","","Recommended","1524 : DRUGS IV : DR9A 12-MONTH Give up or reduce important activities to use OP","1;5","1 = NO ; 5 = YES","dr9a_op_12m"
+"ssaga_dr10op_12m","Integer","","Recommended","1525 : DRUGS IV : DR10 12-MONTH Often use OP  more days or in larger amounts than intended","1;5","1 = NO ; 5 = YES","dr10op_12m"
+"ssaga_dr11b_op_12m","Integer","","Recommended","1526 : DRUGS IV : DR11B 12-MONTH OP Experience withdrawal","1;5","1 = NO ; 5 = YES","dr11b_op_12m"
+"ssaga_dr11e2_op_12m","Integer","","Recommended","1527 : DRUGS IV : DR11E2 12-MONTH use OP  to relieve or avoid withdrawal symptoms","1;5","1 = NO ; 5 = YES","dr11e2_op_12m"
+"ssaga_dr12a2_op_12m","Integer","","Recommended","1528 : DRUGS IV : DR12A2 12-MONTH OP Overdose","1;5","1 = NO ; 5 = YES","dr12a2_op_12m"
+"ssaga_dr12b1_op_12m","Integer","","Recommended","1529 : DRUGS IV : DR12B1 12-MONTH Continue to use OP  knowing it caused  hepatitis","1;5","1 = NO ; 5 = YES","dr12b1_op_12m"
+"ssaga_dr12c1_op_12m","Integer","","Recommended","1530 : DRUGS IV : DR12C1 12-MONTH Continue to use OP  knowing it caused  other health problems","1;5","1 = NO ; 5 = YES","dr12c1_op_12m"
+"ssaga_dr13d_op_12m","Integer","","Recommended","1531 : DRUGS IV : DR13D 12-MONTH Continue to use OP  knowing it caused  any problem","1;5","1 = NO ; 5 = YES","dr13d_op_12m"
+"ssaga_dr14b_op_12m","Integer","","Recommended","1532 : DRUGS IV : DR14B 12-MONTH OP Continue to use knowing it caused  problems with police","1;5","1 = NO ; 5 = YES","dr14b_op_12m"
+"ssaga_dr15a_op_12m","Integer","","Recommended","1533 : DRUGS IV : DR15A 12-MONTH OP Find that usecaused  accidental injuries","1;5","1 = NO ; 5 = YES","dr15a_op_12m"
+"ssaga_dr16_op_12m","Integer","","Recommended","1534 : DRUGS IV : DR16 12-MONTH OP Find that use often interfered with responsibilities","1;5","1 = NO ; 5 = YES","dr16_op_12m"
+"ssaga_dr17_op_12m","Integer","","Recommended","1535 : DRUGS IV : DR17 12-MONTH OP High when could have gotten hurt","1;5","1 = NO ; 5 = YES","dr17_op_12m"
+"ssaga_dr18a_op_12m","Integer","","Recommended","1536 : DRUGS IV : DR18A 12-MONTH OP Continue to use knowing it caused  emotional or psychological problems","1;5","1 = NO ; 5 = YES","dr18a_op_12m"
+"ssaga_dr5oth_12m","Integer","","Recommended","1537 : DRUGS IV : DR5 12-MONTH Have such a strong desire for [dr1_oth] that hard to think of anything else","1;5","1 = NO ; 5 = YES","dr5oth_12m"
+"ssaga_dr6oth_12m","Integer","","Recommended","1538 : DRUGS IV : DR6 12-MONTH [dr1_oth] Spend a month or more using, getting, or getting over effects","1;5","1 = NO ; 5 = YES","dr6oth_12m"
+"ssaga_dr7oth_12m","Integer","","Recommended","1539 : DRUGS IV : DR7 12-MONTH [dr1_oth] Often want tostop or cut down","1;5","1 = NO ; 5 = YES","dr7oth_12m"
+"ssaga_dr7a_oth_12m","Integer","","Recommended","1540 : DRUGS IV : DR7A 12-MONTH [dr1_oth] Try tostop or cut down but find you couldn't","1;5","1 = NO ; 5 = YES","dr7a_oth_12m"
+"ssaga_dr7b_oth_12m","Integer","","Recommended","1541 : DRUGS IV : DR7B 12-MONTH [dr1_oth] Try tostop or cut down but find you couldn't 3 or more times","1;5","1 = NO ; 5 = YES","dr7b_oth_12m"
+"ssaga_dr8oth_12m","Integer","","Recommended","1542 : DRUGS IV : DR8 12-MONTH [dr1_oth] Need larger amounts to get an effect","1;5","1 = NO ; 5 = YES","dr8oth_12m"
+"ssaga_dr9a_oth_12m","Integer","","Recommended","1543 : DRUGS IV : DR9A 12-MONTH Give up or reduce important activities to use [dr1_oth]","1;5","1 = NO ; 5 = YES","dr9a_oth_12m"
+"ssaga_dr10oth_12m","Integer","","Recommended","1544 : DRUGS IV : DR10 12-MONTH Often use [dr1_oth]  more days or in larger amounts than intended","1;5","1 = NO ; 5 = YES","dr10oth_12m"
+"ssaga_dr11b_oth_12m","Integer","","Recommended","1545 : DRUGS IV : DR11B 12-MONTH [dr1_oth] Experience withdrawal","1;5","1 = NO ; 5 = YES","dr11b_oth_12m"
+"ssaga_dr11e2_oth_12m","Integer","","Recommended","1546 : DRUGS IV : DR11E2 12-MONTH use [dr1_oth]  to relieve or avoid withdrawal symptoms","1;5","1 = NO ; 5 = YES","dr11e2_oth_12m"
+"ssaga_dr12a2_oth_12m","Integer","","Recommended","1547 : DRUGS IV : DR12A2 12-MONTH [dr1_oth] Overdose","1;5","1 = NO ; 5 = YES","dr12a2_oth_12m"
+"ssaga_dr12b1_oth_12m","Integer","","Recommended","1548 : DRUGS IV : DR12B1 12-MONTH Continue to use [dr1_oth]  knowing it caused  hepatitis","1;5","1 = NO ; 5 = YES","dr12b1_oth_12m"
+"ssaga_dr12c1_oth_12m","Integer","","Recommended","1549 : DRUGS IV : DR12C1 12-MONTH Continue to use [dr1_oth]  knowing it caused  other health problems","1;5","1 = NO ; 5 = YES","dr12c1_oth_12m"
+"ssaga_dr13d_oth_12m","Integer","","Recommended","1550 : DRUGS IV : DR13D 12-MONTH Continue to use [dr1_oth]  knowing it caused  any problem","1;5","1 = NO ; 5 = YES","dr13d_oth_12m"
+"ssaga_dr14b_oth_12m","Integer","","Recommended","1551 : DRUGS IV : DR14B 12-MONTH [dr1_oth] Continue to use knowing it caused  problems with police","1;5","1 = NO ; 5 = YES","dr14b_oth_12m"
+"ssaga_dr15a_oth_12m","Integer","","Recommended","1552 : DRUGS IV : DR15A 12-MONTH [dr1_oth] Find that usecaused  accidental injuries","1;5","1 = NO ; 5 = YES","dr15a_oth_12m"
+"ssaga_dr16_oth_12m","Integer","","Recommended","1553 : DRUGS IV : DR16 12-MONTH [dr1_oth] Find that use often interfered with responsibilities","1;5","1 = NO ; 5 = YES","dr16_oth_12m"
+"ssaga_dr17_oth_12m","Integer","","Recommended","1554 : DRUGS IV : DR17 12-MONTH [dr1_oth] High when could have gotten hurt","1;5","1 = NO ; 5 = YES","dr17_oth_12m"
+"ssaga_dr18a_oth_12m","Integer","","Recommended","1555 : DRUGS IV : DR18A 12-MONTH [dr1_oth] Continue to use knowing it caused  emotional or psychological problems","1;5","1 = NO ; 5 = YES","dr18a_oth_12m"
+"ssaga_dr_12m_total","Float","","Recommended","1556 : DRUGS IV : Drug 12-month total:","","sum((if([dr5coc_12m]='5', 1, 0)),
+(if([dr5stim_12m]='5', 1, 0)),
+(if([dr5sed_12m]='5', 1, 0)),
+(if([dr5op_12m]='5', 1, 0)),
+(if([dr5oth_12m]='5', 1, 0)),
+(if([dr6coc_12m]='5', 1, 0)),
+(if([dr6stim_12m]='5', 1, 0)),
+(if([dr6sed_12m]='5', 1, 0)),
+(if([dr6op_12m]='5', 1, 0)),
+(if([dr6oth_12m]='5', 1, 0)),
+(if([dr7coc_12m]='5', 1, 0)),
+(if([dr7stim_12m]='5', 1, 0)),
+(if([dr7sed_12m]='5', 1, 0)),
+(if([dr7op_12m]='5', 1, 0)),
+(if([dr7oth_12m]='5', 1, 0)),
+(if([dr7a_coc_12m]='5', 1, 0)),
+(if([dr7a_stim_12m]='5', 1, 0)),
+(if([dr7a_sed_12m]='5', 1, 0)),
+(if([dr7a_op_12m]='5', 1, 0)),
+(if([dr7a_oth_12m]='5', 1, 0)),
+(if([dr7b_coc_12m]='5', 1, 0)),
+(if([dr7b_stim_12m]='5', 1, 0)),
+(if([dr7b_sed_12m]='5', 1, 0)),
+(if([dr7b_op_12m]='5', 1, 0)),
+(if([dr7b_oth_12m]='5', 1, 0)),
+(if([dr8coc_12m]='5', 1, 0)),
+(if([dr8stim_12m]='5', 1, 0)),
+(if([dr8sed_12m]='5', 1, 0)),
+(if([dr8op_12m]='5', 1, 0)),
+(if([dr8oth_12m]='5', 1, 0)),
+(if([dr9a_coc_12m]='5', 1, 0)),
+(if([dr9a_stim_12m]='5', 1, 0)),
+(if([dr9a_sed_12m]='5', 1, 0)),
+(if([dr9a_op_12m]='5', 1, 0)),
+(if([dr9a_oth_12m]='5', 1, 0)),
+(if([dr10coc_12m]='5', 1, 0)),
+(if([dr10stim_12m]='5', 1, 0)),
+(if([dr10sed_12m]='5', 1, 0)),
+(if([dr10op_12m]='5', 1, 0)),
+(if([dr10oth_12m]='5', 1, 0)),
+(if([dr11b_coc_12m]='5', 1, 0)),
+(if([dr11b_stim_12m]='5', 1, 0)),
+(if([dr11b_sed_12m]='5', 1, 0)),
+(if([dr11b_op_12m]='5', 1, 0)),
+(if([dr11b_oth_12m]='5', 1, 0)),
+(if([dr11e2_coc_12m]='5', 1, 0)),
+(if([dr11e2_stim_12m]='5', 1, 0)),
+(if([dr11e2_sed_12m]='5', 1, 0)),
+(if([dr11e2_op_12m]='5', 1, 0)),
+(if([dr11e2_oth_12m]='5', 1, 0)),
+(if([dr12a2_coc_12m]='5', 1, 0)),
+(if([dr12a2_stim_12m]='5', 1, 0)),
+(if([dr12a2_sed_12m]='5', 1, 0)),
+(if([dr12a2_op_12m]='5', 1, 0)),
+(if([dr12a2_oth_12m]='5', 1, 0)),
+(if([dr12b1_coc_12m]='5', 1, 0)),
+(if([dr12b1_stim_12m]='5', 1, 0)),
+(if([dr12b1_sed_12m]='5', 1, 0)),
+(if([dr12b1_op_12m]='5', 1, 0)),
+(if([dr12b1_oth_12m]='5', 1, 0)),
+(if([dr12c1_coc_12m]='5', 1, 0)),
+(if([dr12c1_stim_12m]='5', 1, 0)),
+(if([dr12c1_sed_12m]='5', 1, 0)),
+(if([dr12c1_op_12m]='5', 1, 0)),
+(if([dr12c1_oth_12m]='5', 1, 0)),
+(if([dr13d_coc_12m]='5', 1, 0)),
+(if([dr13d_stim_12m]='5', 1, 0)),
+(if([dr13d_sed_12m]='5', 1, 0)),
+(if([dr13d_op_12m]='5', 1, 0)),
+(if([dr13d_oth_12m]='5', 1, 0)),
+(if([dr14b_coc_12m]='5', 1, 0)),
+(if([dr14b_stim_12m]='5', 1, 0)),
+(if([dr14b_sed_12m]='5', 1, 0)),
+(if([dr14b_op_12m]='5', 1, 0)),
+(if([dr14b_oth_12m]='5', 1, 0)),
+(if([dr15a_coc_12m]='5', 1, 0)),
+(if([dr15a_stim_12m]='5', 1, 0)),
+(if([dr15a_sed_12m]='5', 1, 0)),
+(if([dr15a_op_12m]='5', 1, 0)),
+(if([dr15a_oth_12m]='5', 1, 0)),
+(if([dr16_coc_12m]='5', 1, 0)),
+(if([dr16_stim_12m]='5', 1, 0)),
+(if([dr16_sed_12m]='5', 1, 0)),
+(if([dr16_op_12m]='5', 1, 0)),
+(if([dr16_oth_12m]='5', 1, 0)),
+(if([dr17_coc_12m]='5', 1, 0)),
+(if([dr17_stim_12m]='5', 1, 0)),
+(if([dr17_sed_12m]='5', 1, 0)),
+(if([dr17_op_12m]='5', 1, 0)),
+(if([dr17_oth_12m]='5', 1, 0)),
+(if([dr18a_coc_12m]='5', 1, 0)),
+(if([dr18a_stim_12m]='5', 1, 0)),
+(if([dr18a_sed_12m]='5', 1, 0)),
+(if([dr18a_op_12m]='5', 1, 0)),
+(if([dr18a_oth_12m]='5', 1, 0)))","dr_12m_total"
+"ssaga_dr5coc_30d","Integer","","Recommended","1557 : DRUGS IV : DR5 30-DAY Have such a strong desire for COCAINE that hard to think of anything else","1;5","1 = NO ; 5 = YES","dr5coc_30d"
+"ssaga_dr6coc_30d","Integer","","Recommended","1558 : DRUGS IV : DR6 30-DAY COCAINE Spend a month or more using, getting, or getting over effects","1;5","1 = NO ; 5 = YES","dr6coc_30d"
+"ssaga_dr7coc_30d","Integer","","Recommended","1559 : DRUGS IV : DR7 30-DAY COCAINE Often want tostop or cut down","1;5","1 = NO ; 5 = YES","dr7coc_30d"
+"ssaga_dr7a_coc_30d","Integer","","Recommended","1560 : DRUGS IV : DR7A 30-DAY COCAINE Try tostop or cut down but find you couldn't","1;5","1 = NO ; 5 = YES","dr7a_coc_30d"
+"ssaga_dr7b_coc_30d","Integer","","Recommended","1561 : DRUGS IV : DR7B 30-DAY COCAINE Try tostop or cut down but find you couldn't 3 or more times","1;5","1 = NO ; 5 = YES","dr7b_coc_30d"
+"ssaga_dr8coc_30d","Integer","","Recommended","1562 : DRUGS IV : DR8 30-DAY COCAINE Need larger amounts to get an effect","1;5","1 = NO ; 5 = YES","dr8coc_30d"
+"ssaga_dr9a_coc_30d","Integer","","Recommended","1563 : DRUGS IV : DR9A 30-DAY Give up or reduce important activities to use COCAINE","1;5","1 = NO ; 5 = YES","dr9a_coc_30d"
+"ssaga_dr10coc_30d","Integer","","Recommended","1564 : DRUGS IV : DR10 30-DAY Often use COCAINE  more days or in larger amounts than intended","1;5","1 = NO ; 5 = YES","dr10coc_30d"
+"ssaga_dr11b_coc_30d","Integer","","Recommended","1565 : DRUGS IV : DR11B 30-DAY COCAINE Experience withdrawal","1;5","1 = NO ; 5 = YES","dr11b_coc_30d"
+"ssaga_dr11e2_coc_30d","Integer","","Recommended","1566 : DRUGS IV : DR11E2 30-DAY use COCAINE  to relieve or avoid withdrawal symptoms","1;5","1 = NO ; 5 = YES","dr11e2_coc_30d"
+"ssaga_dr12a2_coc_30d","Integer","","Recommended","1567 : DRUGS IV : DR12A2 30-DAY COCAINE Overdose","1;5","1 = NO ; 5 = YES","dr12a2_coc_30d"
+"ssaga_dr12b1_coc_30d","Integer","","Recommended","1568 : DRUGS IV : DR12B1 30-DAY Continue to use COCAINE  knowing it caused  hepatitis","1;5","1 = NO ; 5 = YES","dr12b1_coc_30d"
+"ssaga_dr12c1_coc_30d","Integer","","Recommended","1569 : DRUGS IV : DR12C1 30-DAY Continue to use COCAINE  knowing it caused  other health problems","1;5","1 = NO ; 5 = YES","dr12c1_coc_30d"
+"ssaga_dr13d_coc_30d","Integer","","Recommended","1570 : DRUGS IV : DR13D 30-DAY Continue to use COCAINE  knowing it caused  any problem","1;5","1 = NO ; 5 = YES","dr13d_coc_30d"
+"ssaga_dr14b_coc_30d","Integer","","Recommended","1571 : DRUGS IV : DR14B 30-DAY COCAINE Continue to use knowing it caused  problems with police","1;5","1 = NO ; 5 = YES","dr14b_coc_30d"
+"ssaga_dr15a_coc_30d","Integer","","Recommended","1572 : DRUGS IV : DR15A 30-DAY COCAINE Find that usecaused  accidental injuries","1;5","1 = NO ; 5 = YES","dr15a_coc_30d"
+"ssaga_dr16_coc_30d","Integer","","Recommended","1573 : DRUGS IV : DR16 30-DAY COCAINE Find that use often interfered with responsibilities","1;5","1 = NO ; 5 = YES","dr16_coc_30d"
+"ssaga_dr17_coc_30d","Integer","","Recommended","1574 : DRUGS IV : DR17 30-DAY COCAINE High when could have gotten hurt","1;5","1 = NO ; 5 = YES","dr17_coc_30d"
+"ssaga_dr18a_coc_30d","Integer","","Recommended","1575 : DRUGS IV : DR18A 30-DAY COCAINE Continue to use knowing it caused  emotional or psychological problems","1;5","1 = NO ; 5 = YES","dr18a_coc_30d"
+"ssaga_dr5stim_30d","Integer","","Recommended","1576 : DRUGS IV : DR5 30-DAY Have such a strong desire for STIM that hard to think of anything else","1;5","1 = NO ; 5 = YES","dr5stim_30d"
+"ssaga_dr6stim_30d","Integer","","Recommended","1577 : DRUGS IV : DR6 30-DAY STIM Spend a month or more using, getting, or getting over effects","1;5","1 = NO ; 5 = YES","dr6stim_30d"
+"ssaga_dr7stim_30d","Integer","","Recommended","1578 : DRUGS IV : DR7 30-DAY STIM Often want tostop or cut down","1;5","1 = NO ; 5 = YES","dr7stim_30d"
+"ssaga_dr7a_stim_30d","Integer","","Recommended","1579 : DRUGS IV : DR7A 30-DAY STIM Try tostop or cut down but find you couldn't","1;5","1 = NO ; 5 = YES","dr7a_stim_30d"
+"ssaga_dr7b_stim_30d","Integer","","Recommended","1580 : DRUGS IV : DR7B 30-DAY STIM Try tostop or cut down but find you couldn't 3 or more times","1;5","1 = NO ; 5 = YES","dr7b_stim_30d"
+"ssaga_dr8stim_30d","Integer","","Recommended","1581 : DRUGS IV : DR8 30-DAY STIM Need larger amounts to get an effect","1;5","1 = NO ; 5 = YES","dr8stim_30d"
+"ssaga_dr9a_stim_30d","Integer","","Recommended","1582 : DRUGS IV : DR9A 30-DAY Give up or reduce important activities to use STIM","1;5","1 = NO ; 5 = YES","dr9a_stim_30d"
+"ssaga_dr10stim_30d","Integer","","Recommended","1583 : DRUGS IV : DR10 30-DAY Often use STIM  more days or in larger amounts than intended","1;5","1 = NO ; 5 = YES","dr10stim_30d"
+"ssaga_dr11b_stim_30d","Integer","","Recommended","1584 : DRUGS IV : DR11B 30-DAY STIM Experience withdrawal","1;5","1 = NO ; 5 = YES","dr11b_stim_30d"
+"ssaga_dr11e2_stim_30d","Integer","","Recommended","1585 : DRUGS IV : DR11E2 30-DAY use STIM  to relieve or avoid withdrawal symptoms","1;5","1 = NO ; 5 = YES","dr11e2_stim_30d"
+"ssaga_dr12a2_stim_30d","Integer","","Recommended","1586 : DRUGS IV : DR12A2 30-DAY STIM Overdose","1;5","1 = NO ; 5 = YES","dr12a2_stim_30d"
+"ssaga_dr12b1_stim_30d","Integer","","Recommended","1587 : DRUGS IV : DR12B1 30-DAY Continue to use STIM  knowing it caused  hepatitis","1;5","1 = NO ; 5 = YES","dr12b1_stim_30d"
+"ssaga_dr12c1_stim_30d","Integer","","Recommended","1588 : DRUGS IV : DR12C1 30-DAY Continue to use STIM  knowing it caused  other health problems","1;5","1 = NO ; 5 = YES","dr12c1_stim_30d"
+"ssaga_dr13d_stim_30d","Integer","","Recommended","1589 : DRUGS IV : DR13D 30-DAY Continue to use STIM  knowing it caused  any problem","1;5","1 = NO ; 5 = YES","dr13d_stim_30d"
+"ssaga_dr14b_stim_30d","Integer","","Recommended","1590 : DRUGS IV : DR14B 30-DAY STIM Continue to use knowing it caused  problems with police","1;5","1 = NO ; 5 = YES","dr14b_stim_30d"
+"ssaga_dr15a_stim_30d","Integer","","Recommended","1591 : DRUGS IV : DR15A 30-DAY STIM Find that usecaused  accidental injuries","1;5","1 = NO ; 5 = YES","dr15a_stim_30d"
+"ssaga_dr16_stim_30d","Integer","","Recommended","1592 : DRUGS IV : DR16 30-DAY STIM Find that use often interfered with responsibilities","1;5","1 = NO ; 5 = YES","dr16_stim_30d"
+"ssaga_dr17_stim_30d","Integer","","Recommended","1593 : DRUGS IV : DR17 30-DAY STIM High when could have gotten hurt","1;5","1 = NO ; 5 = YES","dr17_stim_30d"
+"ssaga_dr18a_stim_30d","Integer","","Recommended","1594 : DRUGS IV : DR18A 30-DAY STIM Continue to use knowing it caused  emotional or psychological problems","1;5","1 = NO ; 5 = YES","dr18a_stim_30d"
+"ssaga_dr5sed_30d","Integer","","Recommended","1595 : DRUGS IV : DR5 30-DAY Have such a strong desire for SED that hard to think of anything else","1;5","1 = NO ; 5 = YES","dr5sed_30d"
+"ssaga_dr6sed_30d","Integer","","Recommended","1596 : DRUGS IV : DR6 30-DAY SED Spend a month or more using, getting, or getting over effects","1;5","1 = NO ; 5 = YES","dr6sed_30d"
+"ssaga_dr7sed_30d","Integer","","Recommended","1597 : DRUGS IV : DR7 30-DAY SED Often want tostop or cut down","1;5","1 = NO ; 5 = YES","dr7sed_30d"
+"ssaga_dr7a_sed_30d","Integer","","Recommended","1598 : DRUGS IV : DR7A 30-DAY SED Try tostop or cut down but find you couldn't","1;5","1 = NO ; 5 = YES","dr7a_sed_30d"
+"ssaga_dr7b_sed_30d","Integer","","Recommended","1599 : DRUGS IV : DR7B 30-DAY SED Try tostop or cut down but find you couldn't 3 or more times","1;5","1 = NO ; 5 = YES","dr7b_sed_30d"
+"ssaga_dr8sed_30d","Integer","","Recommended","1600 : DRUGS IV : DR8 30-DAY SED Need larger amounts to get an effect","1;5","1 = NO ; 5 = YES","dr8sed_30d"
+"ssaga_dr9a_sed_30d","Integer","","Recommended","1601 : DRUGS IV : DR9A 30-DAY Give up or reduce important activities to use SED","1;5","1 = NO ; 5 = YES","dr9a_sed_30d"
+"ssaga_dr10sed_30d","Integer","","Recommended","1602 : DRUGS IV : DR10 30-DAY Often use SED  more days or in larger amounts than intended","1;5","1 = NO ; 5 = YES","dr10sed_30d"
+"ssaga_dr11b_sed_30d","Integer","","Recommended","1603 : DRUGS IV : DR11B 30-DAY SED Experience withdrawal","1;5","1 = NO ; 5 = YES","dr11b_sed_30d"
+"ssaga_dr11e2_sed_30d","Integer","","Recommended","1604 : DRUGS IV : DR11E2 30-DAY use SED  to relieve or avoid withdrawal symptoms","1;5","1 = NO ; 5 = YES","dr11e2_sed_30d"
+"ssaga_dr12a2_sed_30d","Integer","","Recommended","1605 : DRUGS IV : DR12A2 30-DAY SED Overdose","1;5","1 = NO ; 5 = YES","dr12a2_sed_30d"
+"ssaga_dr12b1_sed_30d","Integer","","Recommended","1606 : DRUGS IV : DR12B1 30-DAY Continue to use SED  knowing it caused  hepatitis","1;5","1 = NO ; 5 = YES","dr12b1_sed_30d"
+"ssaga_dr12c1_sed_30d","Integer","","Recommended","1607 : DRUGS IV : DR12C1 30-DAY Continue to use SED  knowing it caused  other health problems","1;5","1 = NO ; 5 = YES","dr12c1_sed_30d"
+"ssaga_dr13d_sed_30d","Integer","","Recommended","1608 : DRUGS IV : DR13D 30-DAY Continue to use SED  knowing it caused  any problem","1;5","1 = NO ; 5 = YES","dr13d_sed_30d"
+"ssaga_dr14b_sed_30d","Integer","","Recommended","1609 : DRUGS IV : DR14B 30-DAY SED Continue to use knowing it caused  problems with police","1;5","1 = NO ; 5 = YES","dr14b_sed_30d"
+"ssaga_dr15a_sed_30d","Integer","","Recommended","1610 : DRUGS IV : DR15A 30-DAY SED Find that usecaused  accidental injuries","1;5","1 = NO ; 5 = YES","dr15a_sed_30d"
+"ssaga_dr16_sed_30d","Integer","","Recommended","1611 : DRUGS IV : DR16 30-DAY SED Find that use often interfered with responsibilities","1;5","1 = NO ; 5 = YES","dr16_sed_30d"
+"ssaga_dr17_sed_30d","Integer","","Recommended","1612 : DRUGS IV : DR17 30-DAY SED High when could have gotten hurt","1;5","1 = NO ; 5 = YES","dr17_sed_30d"
+"ssaga_dr18a_sed_30d","Integer","","Recommended","1613 : DRUGS IV : DR18A 30-DAY SED Continue to use knowing it caused  emotional or psychological problems","1;5","1 = NO ; 5 = YES","dr18a_sed_30d"
+"ssaga_dr5op_30d","Integer","","Recommended","1614 : DRUGS IV : DR5 30-DAY Have such a strong desire for OP that hard to think of anything else","1;5","1 = NO ; 5 = YES","dr5op_30d"
+"ssaga_dr6op_30d","Integer","","Recommended","1615 : DRUGS IV : DR6 30-DAY OP Spend a month or more using, getting, or getting over effects","1;5","1 = NO ; 5 = YES","dr6op_30d"
+"ssaga_dr7op_30d","Integer","","Recommended","1616 : DRUGS IV : DR7 30-DAY OP Often want tostop or cut down","1;5","1 = NO ; 5 = YES","dr7op_30d"
+"ssaga_dr7a_op_30d","Integer","","Recommended","1617 : DRUGS IV : DR7A 30-DAY OP Try tostop or cut down but find you couldn't","1;5","1 = NO ; 5 = YES","dr7a_op_30d"
+"ssaga_dr7b_op_30d","Integer","","Recommended","1618 : DRUGS IV : DR7B 30-DAY OP Try tostop or cut down but find you couldn't 3 or more times","1;5","1 = NO ; 5 = YES","dr7b_op_30d"
+"ssaga_dr8op_30d","Integer","","Recommended","1619 : DRUGS IV : DR8 30-DAY OP Need larger amounts to get an effect","1;5","1 = NO ; 5 = YES","dr8op_30d"
+"ssaga_dr9a_op_30d","Integer","","Recommended","1620 : DRUGS IV : DR9A 30-DAY Give up or reduce important activities to use OP","1;5","1 = NO ; 5 = YES","dr9a_op_30d"
+"ssaga_dr10op_30d","Integer","","Recommended","1621 : DRUGS IV : DR10 30-DAY Often use OP  more days or in larger amounts than intended","1;5","1 = NO ; 5 = YES","dr10op_30d"
+"ssaga_dr11b_op_30d","Integer","","Recommended","1622 : DRUGS IV : DR11B 30-DAY OP Experience withdrawal","1;5","1 = NO ; 5 = YES","dr11b_op_30d"
+"ssaga_dr11e2_op_30d","Integer","","Recommended","1623 : DRUGS IV : DR11E2 30-DAY use OP  to relieve or avoid withdrawal symptoms","1;5","1 = NO ; 5 = YES","dr11e2_op_30d"
+"ssaga_dr12a2_op_30d","Integer","","Recommended","1624 : DRUGS IV : DR12A2 30-DAY OP Overdose","1;5","1 = NO ; 5 = YES","dr12a2_op_30d"
+"ssaga_dr12b1_op_30d","Integer","","Recommended","1625 : DRUGS IV : DR12B1 30-DAY Continue to use OP  knowing it caused  hepatitis","1;5","1 = NO ; 5 = YES","dr12b1_op_30d"
+"ssaga_dr12c1_op_30d","Integer","","Recommended","1626 : DRUGS IV : DR12C1 30-DAY Continue to use OP  knowing it caused  other health problems","1;5","1 = NO ; 5 = YES","dr12c1_op_30d"
+"ssaga_dr13d_op_30d","Integer","","Recommended","1627 : DRUGS IV : DR13D 30-DAY Continue to use OP  knowing it caused  any problem","1;5","1 = NO ; 5 = YES","dr13d_op_30d"
+"ssaga_dr14b_op_30d","Integer","","Recommended","1628 : DRUGS IV : DR14B 30-DAY OP Continue to use knowing it caused  problems with police","1;5","1 = NO ; 5 = YES","dr14b_op_30d"
+"ssaga_dr15a_op_30d","Integer","","Recommended","1629 : DRUGS IV : DR15A 30-DAY OP Find that usecaused  accidental injuries","1;5","1 = NO ; 5 = YES","dr15a_op_30d"
+"ssaga_dr16_op_30d","Integer","","Recommended","1630 : DRUGS IV : DR16 30-DAY OP Find that use often interfered with responsibilities","1;5","1 = NO ; 5 = YES","dr16_op_30d"
+"ssaga_dr17_op_30d","Integer","","Recommended","1631 : DRUGS IV : DR17 30-DAY OP High when could have gotten hurt","1;5","1 = NO ; 5 = YES","dr17_op_30d"
+"ssaga_dr18a_op_30d","Integer","","Recommended","1632 : DRUGS IV : DR18A 30-DAY OP Continue to use knowing it caused  emotional or psychological problems","1;5","1 = NO ; 5 = YES","dr18a_op_30d"
+"ssaga_dr5oth_30d","Integer","","Recommended","1633 : DRUGS IV : DR5 30-DAY Have such a strong desire for [dr1_oth] that hard to think of anything else","1;5","1 = NO ; 5 = YES","dr5oth_30d"
+"ssaga_dr6oth_30d","Integer","","Recommended","1634 : DRUGS IV : DR6 30-DAY [dr1_oth] Spend a month or more using, getting, or getting over effects","1;5","1 = NO ; 5 = YES","dr6oth_30d"
+"ssaga_dr7oth_30d","Integer","","Recommended","1635 : DRUGS IV : DR7 30-DAY [dr1_oth] Often want tostop or cut down","1;5","1 = NO ; 5 = YES","dr7oth_30d"
+"ssaga_dr7a_oth_30d","Integer","","Recommended","1636 : DRUGS IV : DR7A 30-DAY [dr1_oth] Try tostop or cut down but find you couldn't","1;5","1 = NO ; 5 = YES","dr7a_oth_30d"
+"ssaga_dr7b_oth_30d","Integer","","Recommended","1637 : DRUGS IV : DR7B 30-DAY [dr1_oth] Try tostop or cut down but find you couldn't 3 or more times","1;5","1 = NO ; 5 = YES","dr7b_oth_30d"
+"ssaga_dr8oth_30d","Integer","","Recommended","1638 : DRUGS IV : DR8 30-DAY [dr1_oth] Need larger amounts to get an effect","1;5","1 = NO ; 5 = YES","dr8oth_30d"
+"ssaga_dr9a_oth_30d","Integer","","Recommended","1639 : DRUGS IV : DR9A 30-DAY Give up or reduce important activities to use [dr1_oth]","1;5","1 = NO ; 5 = YES","dr9a_oth_30d"
+"ssaga_dr10oth_30d","Integer","","Recommended","1640 : DRUGS IV : DR10 30-DAY Often use [dr1_oth]  more days or in larger amounts than intended","1;5","1 = NO ; 5 = YES","dr10oth_30d"
+"ssaga_dr11b_oth_30d","Integer","","Recommended","1641 : DRUGS IV : DR11B 30-DAY [dr1_oth] Experience withdrawal","1;5","1 = NO ; 5 = YES","dr11b_oth_30d"
+"ssaga_dr11e2_oth_30d","Integer","","Recommended","1642 : DRUGS IV : DR11E2 30-DAY use [dr1_oth]  to relieve or avoid withdrawal symptoms","1;5","1 = NO ; 5 = YES","dr11e2_oth_30d"
+"ssaga_dr12a2_oth_30d","Integer","","Recommended","1643 : DRUGS IV : DR12A2 30-DAY [dr1_oth] Overdose","1;5","1 = NO ; 5 = YES","dr12a2_oth_30d"
+"ssaga_dr12b1_oth_30d","Integer","","Recommended","1644 : DRUGS IV : DR12B1 30-DAY Continue to use [dr1_oth]  knowing it caused  hepatitis","1;5","1 = NO ; 5 = YES","dr12b1_oth_30d"
+"ssaga_dr12c1_oth_30d","Integer","","Recommended","1645 : DRUGS IV : DR12C1 30-DAY Continue to use [dr1_oth]  knowing it caused  other health problems","1;5","1 = NO ; 5 = YES","dr12c1_oth_30d"
+"ssaga_dr13d_oth_30d","Integer","","Recommended","1646 : DRUGS IV : DR13D 30-DAY Continue to use [dr1_oth]  knowing it caused  any problem","1;5","1 = NO ; 5 = YES","dr13d_oth_30d"
+"ssaga_dr14b_oth_30d","Integer","","Recommended","1647 : DRUGS IV : DR14B 30-DAY [dr1_oth] Continue to use knowing it caused  problems with police","1;5","1 = NO ; 5 = YES","dr14b_oth_30d"
+"ssaga_dr15a_oth_30d","Integer","","Recommended","1648 : DRUGS IV : DR15A 30-DAY [dr1_oth] Find that usecaused  accidental injuries","1;5","1 = NO ; 5 = YES","dr15a_oth_30d"
+"ssaga_dr16_oth_30d","Integer","","Recommended","1649 : DRUGS IV : DR16 30-DAY [dr1_oth] Find that use often interfered with responsibilities","1;5","1 = NO ; 5 = YES","dr16_oth_30d"
+"ssaga_dr17_oth_30d","Integer","","Recommended","1650 : DRUGS IV : DR17 30-DAY [dr1_oth] High when could have gotten hurt","1;5","1 = NO ; 5 = YES","dr17_oth_30d"
+"ssaga_dr18a_oth_30d","Integer","","Recommended","1651 : DRUGS IV : DR18A 30-DAY [dr1_oth] Continue to use knowing it caused  emotional or psychological problems","1;5","1 = NO ; 5 = YES","dr18a_oth_30d"
+"ssaga_dr19_1stcoc_ageons","Float","","Recommended","1652 : DRUGS IV : COCAINE AGE ONS:","","","dr19_1stcoc_ageons"
+"ssaga_dr19_lastcoc_agerec","Float","","Recommended","1653 : DRUGS IV : COCAINE AGE REC:","","","dr19_lastcoc_agerec"
+"ssaga_dr19_1ststim_ageons","Float","","Recommended","1654 : DRUGS IV : STIM AGE ONS:","","","dr19_1ststim_ageons"
+"ssaga_dr19_laststim_agerec","Float","","Recommended","1655 : DRUGS IV : STIM AGE REC:","","","dr19_laststim_agerec"
+"ssaga_dr19_1stsed_ageons","Float","","Recommended","1656 : DRUGS IV : SED AGE ONS:","","","dr19_1stsed_ageons"
+"ssaga_dr19_lastsed_agerec","Float","","Recommended","1657 : DRUGS IV : SED AGE REC:","","","dr19_lastsed_agerec"
+"ssaga_dr19_1stop_ageons","Float","","Recommended","1658 : DRUGS IV : OP AGE ONS:","","","dr19_1stop_ageons"
+"ssaga_dr19_lastop_agerec","Float","","Recommended","1659 : DRUGS IV : OP AGE REC:","","","dr19_lastop_agerec"
+"ssaga_dr19_1stoth_ageons","Float","","Recommended","1660 : DRUGS IV : [dr1_oth] AGE ONS:","","","dr19_1stoth_ageons"
+"ssaga_dr19_lastoth_agerec","Float","","Recommended","1661 : DRUGS IV : [dr1_oth] AGE REC:","","","dr19_lastoth_agerec"
+"ssaga_dr19a_coc_total","Float","","Recommended","1662 : DRUGS IV : DR 19A COCAINE TOTAL:","","sum((if([dr5coc]='5', 1, 0)),
+(if([dr6coc]='5', 1, 0)),
+(if([dr7coc]='5', 1, 0)),
+(if([dr7a_coc]='5', 1, 0)),
+(if([dr7b_coc]='5', 1, 0)),
+(if([dr8coc]='5', 1, 0)),
+(if([dr9a_coc]='5', 1, 0)),
+(if([dr10coc]='5', 1, 0)),
+(if([dr11b_coc]='5', 1, 0)),
+(if([dr11e2_coc]='5', 1, 0)),
+(if([dr12a2_coc]='5', 1, 0)),
+(if([dr12b1_coc]='5', 1, 0)),
+(if([dr12c1_coc]='5', 1, 0)),
+(if([dr13d_coc]='5', 1, 0)),
+(if([dr14b_coc]='5', 1, 0)),
+(if([dr15a_coc]='5', 1, 0)),
+(if([dr16_coc]='5', 1, 0)),
+(if([dr17_coc]='5', 1, 0)),
+(if([dr18a_coc]='5', 1, 0)))","dr19a_coc_total"
+"ssaga_dr19a_stim_total","Float","","Recommended","1663 : DRUGS IV : DR 19A STIM TOTAL:","","sum((if([dr5stim]='5', 1, 0)),
+(if([dr6stim]='5', 1, 0)),
+(if([dr7stim]='5', 1, 0)),
+(if([dr7a_stim]='5', 1, 0)),
+(if([dr7b_stim]='5', 1, 0)),
+(if([dr8stim]='5', 1, 0)),
+(if([dr9a_stim]='5', 1, 0)),
+(if([dr10stim]='5', 1, 0)),
+(if([dr11b_stim]='5', 1, 0)),
+(if([dr11e2_stim]='5', 1, 0)),
+(if([dr12a2_stim]='5', 1, 0)),
+(if([dr12b1_stim]='5', 1, 0)),
+(if([dr12c1_stim]='5', 1, 0)),
+(if([dr13d_stim]='5', 1, 0)),
+(if([dr14b_stim]='5', 1, 0)),
+(if([dr15a_stim]='5', 1, 0)),
+(if([dr16_stim]='5', 1, 0)),
+(if([dr17_stim]='5', 1, 0)),
+(if([dr18a_stim]='5', 1, 0)))","dr19a_stim_total"
+"ssaga_dr19a_sed_total","Float","","Recommended","1664 : DRUGS IV : DR 19A SED TOTAL:","","sum((if([dr5sed]='5', 1, 0)),
+(if([dr6sed]='5', 1, 0)),
+(if([dr7sed]='5', 1, 0)),
+(if([dr7a_sed]='5', 1, 0)),
+(if([dr7b_sed]='5', 1, 0)),
+(if([dr8sed]='5', 1, 0)),
+(if([dr9a_sed]='5', 1, 0)),
+(if([dr10sed]='5', 1, 0)),
+(if([dr11b_sed]='5', 1, 0)),
+(if([dr11e2_sed]='5', 1, 0)),
+(if([dr12a2_sed]='5', 1, 0)),
+(if([dr12b1_sed]='5', 1, 0)),
+(if([dr12c1_sed]='5', 1, 0)),
+(if([dr13d_sed]='5', 1, 0)),
+(if([dr14b_sed]='5', 1, 0)),
+(if([dr15a_sed]='5', 1, 0)),
+(if([dr16_sed]='5', 1, 0)),
+(if([dr17_sed]='5', 1, 0)),
+(if([dr18a_sed]='5', 1, 0)))","dr19a_sed_total"
+"ssaga_dr19a_op_total","Float","","Recommended","1665 : DRUGS IV : DR 19A OP TOTAL:","","sum((if([dr5op]='5', 1, 0)),
+(if([dr6op]='5', 1, 0)),
+(if([dr7op]='5', 1, 0)),
+(if([dr7a_op]='5', 1, 0)),
+(if([dr7b_op]='5', 1, 0)),
+(if([dr8op]='5', 1, 0)),
+(if([dr9a_op]='5', 1, 0)),
+(if([dr10op]='5', 1, 0)),
+(if([dr11b_op]='5', 1, 0)),
+(if([dr11e2_op]='5', 1, 0)),
+(if([dr12a2_op]='5', 1, 0)),
+(if([dr12b1_op]='5', 1, 0)),
+(if([dr12c1_op]='5', 1, 0)),
+(if([dr13d_op]='5', 1, 0)),
+(if([dr14b_op]='5', 1, 0)),
+(if([dr15a_op]='5', 1, 0)),
+(if([dr16_op]='5', 1, 0)),
+(if([dr17_op]='5', 1, 0)),
+(if([dr18a_op]='5', 1, 0)))","dr19a_op_total"
+"ssaga_dr19a_oth_total","Float","","Recommended","1666 : DRUGS IV : DR 19A OTH TOTAL:","","sum((if([dr5oth]='5', 1, 0)),
+(if([dr6oth]='5', 1, 0)),
+(if([dr7oth]='5', 1, 0)),
+(if([dr7a_oth]='5', 1, 0)),
+(if([dr7b_oth]='5', 1, 0)),
+(if([dr8oth]='5', 1, 0)),
+(if([dr9a_oth]='5', 1, 0)),
+(if([dr10oth]='5', 1, 0)),
+(if([dr11b_oth]='5', 1, 0)),
+(if([dr11e2_oth]='5', 1, 0)),
+(if([dr12a2_oth]='5', 1, 0)),
+(if([dr12b1_oth]='5', 1, 0)),
+(if([dr12c1_oth]='5', 1, 0)),
+(if([dr13d_oth]='5', 1, 0)),
+(if([dr14b_oth]='5', 1, 0)),
+(if([dr15a_oth]='5', 1, 0)),
+(if([dr16_oth]='5', 1, 0)),
+(if([dr17_oth]='5', 1, 0)),
+(if([dr18a_oth]='5', 1, 0)))","dr19a_oth_total"
+"ssaga_dr19a_1stcoc_ageons","Float","","Recommended","1667 : DRUGS IV : We were just talking about the time in your life when you had the greatest number of problems or experiences with COCAINE. Now, I'd like you think about the very first time you had several of these problems or experiences within a 12-month period. It might have been the same period, or it could have been earlier. How old were you when this period began?","","","dr19a_1stcoc_ageons"
+"ssaga_dr19a_lastcoc_agerec","Float","","Recommended","1668 : DRUGS IV : How old were you the last time you had several of these experiences occur within the same 12-month period? It might have been the same period we just talked about, or it could have been later.","","","dr19a_lastcoc_agerec"
+"ssaga_dr19a_1ststim_ageons","Float","","Recommended","1669 : DRUGS IV : We were just talking about the time in your life when you had the greatest number of problems or experiences with (STIM). Now, I'd like you think about the very first time you had several of these problems or experiences within a 12-month period. It might have been the same period, or it could have been earlier. How old were you when this period began?","","","dr19a_1ststim_ageons"
+"ssaga_dr19a_laststim_agerec","Float","","Recommended","1670 : DRUGS IV : How old were you the last time you had several of these experiences occur within the same 12-month period? It might have been the same period we just talked about, or it could have been later.","","","dr19a_laststim_agerec"
+"ssaga_dr19a_1stsed_ageons","Float","","Recommended","1671 : DRUGS IV : We were just talking about the time in your life when you had the greatest number of problems or experiences with (SED). Now, I'd like you think about the very first time you had several of these problems or experiences within a 12-month period. It might have been the same period, or it could have been earlier. How old were you when this period began?","","","dr19a_1stsed_ageons"
+"ssaga_dr19a_lastsed_agerec","Float","","Recommended","1672 : DRUGS IV : How old were you the last time you had several of these experiences occur within the same 12-month period? It might have been the same period we just talked about, or it could have been later.","","","dr19a_lastsed_agerec"
+"ssaga_dr19a_1stop_ageons","Float","","Recommended","1673 : DRUGS IV : We were just talking about the time in your life when you had the greatest number of problems or experiences with (OP). Now, I'd like you think about the very first time you had several of these problems or experiences within a 12-month period. It might have been the same period, or it could have been earlier. How old were you when this period began?","","","dr19a_1stop_ageons"
+"ssaga_dr19a_lastop_agerec","Float","","Recommended","1674 : DRUGS IV : How old were you the last time you had several of these experiences occur within the same 12-month period? It might have been the same period we just talked about, or it could have been later.","","","dr19a_lastop_agerec"
+"ssaga_dr19a_1stoth_ageons","Float","","Recommended","1675 : DRUGS IV : We were just talking about the time in your life when you had the greatest number of problems or experiences with ([dr1_oth]). Now, I'd like you think about the very first time you had several of these problems or experiences within a 12-month period. It might have been the same period, or it could have been earlier. How old were you when this period began?","","","dr19a_1stoth_ageons"
+"ssaga_dr19a_lastoth_agerec","Float","","Recommended","1676 : DRUGS IV : How old were you the last time you had several of these experiences occur within the same 12-month period? It might have been the same period we just talked about, or it could have been later.","","","dr19a_lastoth_agerec"
+"ssaga_dr22_total","Float","","Recommended","1677 : DRUGS IV : DR22 TOTAL:","","sum((if(([dr5coc]='5' or [dr5stim]='5' or [dr5sed]='5' or [dr5op]='5' or [dr5oth]='5'), 1, 0)),
+(if(([dr6coc]='5' or [dr6stim]='5' or [dr6sed]='5' or [dr6op]='5' or [dr6oth]='5' ), 1, 0)),
+(if(([dr7coc]='5' or [dr7stim]='5' or [dr7sed]='5' or [dr7op]='5' or [dr7oth]='5'), 1, 0)),
+(if(([dr7a_coc]='5' or [dr7a_stim]='5' or [dr7a_sed]='5' or [dr7a_op]='5' or [dr7a_oth]='5'), 1, 0)),
+(if(([dr7b_coc]='5' or [dr7b_stim]='5' or [dr7b_sed]='5' or [dr7b_op]='5' or [dr7b_oth]='5'), 1, 0)),
+(if(([dr8coc]='5' or [dr8stim]='5' or [dr8sed]='5' or [dr8op]='5' or [dr8oth]='5'), 1, 0)),
+(if(([dr9a_coc]='5' or [dr9a_stim]='5' or [dr9a_sed]='5' or [dr9a_op]='5' or [dr9a_oth]='5'), 1, 0)),
+(if(([dr10coc]='5' or [dr10stim]='5' or [dr10sed]='5' or [dr10op]='5' or [dr10oth]='5'), 1, 0)),
+(if(([dr11b_coc]='5' or [dr11b_stim]='5' or [dr11b_sed]='5' or [dr11b_op]='5' or [dr11b_oth]='5'), 1, 0)),
+(if(([dr11e2_coc]='5' or [dr11e2_stim]='5' or [dr11e2_sed]='5' or [dr11e2_op]='5' or [dr11e2_oth]='5'), 1, 0)),
+(if(([dr12a2_coc]='5' or [dr12a2_stim]='5' or [dr12a2_sed]='5' or [dr12a2_op]='5' or [dr12a2_oth]='5'), 1, 0)),
+(if(([dr12b1_coc]='5' or [dr12b1_stim]='5' or [dr12b1_sed]='5' or [dr12b1_op]='5' or [dr12b1_oth]='5'), 1, 0)),
+(if(([dr12c1_coc]='5' or [dr12c1_stim]='5' or [dr12c1_sed]='5' or [dr12c1_op]='5' or [dr12c1_oth]='5'), 1, 0)),
+(if(([dr13d_coc]='5' or [dr13d_stim]='5' or [dr13d_sed]='5' or [dr13d_op]='5' or [dr13d_oth]='5'), 1, 0)),
+(if(([dr14b_coc]='5' or [dr14b_stim]='5' or [dr14b_sed]='5' or [dr14b_op]='5' or [dr14b_oth]='5'), 1, 0)),
+(if(([dr15a_coc]='5' or [dr15a_stim]='5' or [dr15a_sed]='5' or [dr15a_op]='5' or [dr15a_oth]='5'), 1, 0)),
+(if(([dr16_coc]='5' or [dr16_stim]='5' or [dr16_sed]='5' or [dr16_op]='5' or [dr16_oth]='5'), 1, 0)),
+(if(([dr17_coc]='5' or [dr17_stim]='5' or [dr17_sed]='5' or [dr17_op]='5' or [dr17_oth]='5'), 1, 0)),
+(if(([dr18a_coc]='5' or [dr18a_stim]='5' or [dr18a_sed]='5' or [dr18a_op]='5' or [dr18a_oth]='5'), 1, 0)))","dr22_total"
+"ssaga_dr22coc","Float","","Recommended","1678 : DRUGS IV : DR22 Since the age of [dr1_1b_ageons], what is the longest period of time you have gone without COC Months:","","","dr22coc"
+"ssaga_dr22stim","Float","","Recommended","1679 : DRUGS IV : DR22 Since the age of [dr1_2b_ageons], what is the longest period of time you have gone without STIM Months:","","","dr22stim"
+"ssaga_dr22sed","Float","","Recommended","1680 : DRUGS IV : DR22 Since the age of [dr1_3b_ageons], what is the longest period of time you have gone without SED Months:","","","dr22sed"
+"ssaga_dr22op","Float","","Recommended","1681 : DRUGS IV : DR22 Since the age of [dr1_4b_ageons], what is the longest period of time you have gone without OP Months:","","","dr22op"
+"ssaga_dr22oth","Float","","Recommended","1682 : DRUGS IV : DR22 Since the age of [dr1_9b_ageons], what is the longest period of time you have gone without [dr1_oth] Months:","","","dr22oth"
+"ssaga_dr22a_coc","String","20","Recommended","1683 : DRUGS IV : A. How many times have you gone without COCAINE for 3 months or longer? When did the first period begin? IF R HAD MORE THAN 4 ABSTINENT PERIODS, RECORD THE 4 LONGEST.","","","dr22a_coc"
+"ssaga_dr22a_coc_ab1m","Float","","Recommended","1684 : DRUGS IV :  COCAINE 1st Abstinent Month:","","","dr22a_coc_ab1m"
+"ssaga_dr22a_coc_ab1y","Float","","Recommended","1685 : DRUGS IV :  COCAINE 1st Abstinent Year (YYYY):","","","dr22a_coc_ab1y"
+"ssaga_dr22a_coc_ab2m","Float","","Recommended","1686 : DRUGS IV :  COCAINE 2nd Abstinent Month:","","","dr22a_coc_ab2m"
+"ssaga_dr22a_coc_ab2y","Float","","Recommended","1687 : DRUGS IV :  COCAINE 2nd Abstinent Year (YYYY):","","","dr22a_coc_ab2y"
+"ssaga_dr22a_coc_ab3m","Float","","Recommended","1688 : DRUGS IV :  COCAINE 3rd Abstinent Month:","","","dr22a_coc_ab3m"
+"ssaga_dr22a_coc_ab3y","Float","","Recommended","1689 : DRUGS IV :  COCAINE 3rd Abstinent Year (YYYY):","","","dr22a_coc_ab3y"
+"ssaga_dr22a_coc_ab4m","Float","","Recommended","1690 : DRUGS IV :  COCAINE 4th Abstinent Month:","","","dr22a_coc_ab4m"
+"ssaga_dr22a_coc_ab4y","Float","","Recommended","1691 : DRUGS IV :  COCAINE 4th Abstinent Year (YYYY):","","","dr22a_coc_ab4y"
+"ssaga_dr22a_stim","String","60","Recommended","1692 : DRUGS IV : A. How many times have you gone without STIM for 3 months or longer? When did the first period begin? IF R HAD MORE THAN 4 ABSTINENT PERIODS, RECORD THE 4 LONGEST.","","","dr22a_stim"
+"ssaga_dr22a_stim_ab1m","Float","","Recommended","1693 : DRUGS IV : STIM 1st Abstinent Month:","","","dr22a_stim_ab1m"
+"ssaga_dr22a_stim_ab1y","Float","","Recommended","1694 : DRUGS IV : STIM 1st Abstinent Year (YYYY):","","","dr22a_stim_ab1y"
+"ssaga_dr22a_stim_ab2m","Float","","Recommended","1695 : DRUGS IV : STIM 2nd Abstinent Month:","","","dr22a_stim_ab2m"
+"ssaga_dr22a_stim_ab2y","Float","","Recommended","1696 : DRUGS IV : STIM 2nd Abstinent Year (YYYY):","","","dr22a_stim_ab2y"
+"ssaga_dr22a_stim_ab3m","Float","","Recommended","1697 : DRUGS IV : STIM 3rd Abstinent Month:","","","dr22a_stim_ab3m"
+"ssaga_dr22a_stim_ab3y","Float","","Recommended","1698 : DRUGS IV : STIM 3rd Abstinent Year (YYYY):","","","dr22a_stim_ab3y"
+"ssaga_dr22a_stim_ab4m","Float","","Recommended","1699 : DRUGS IV : STIM 4th Abstinent Month:","","","dr22a_stim_ab4m"
+"ssaga_dr22a_stim_ab4y","Float","","Recommended","1700 : DRUGS IV : STIM 4th Abstinent Year (YYYY):","","","dr22a_stim_ab4y"
+"ssaga_dr22a_sed","String","20","Recommended","1701 : DRUGS IV : A. How many times have you gone without SED for 3 months or longer? When did the first period begin? IF R HAD MORE THAN 4 ABSTINENT PERIODS, RECORD THE 4 LONGEST.","","","dr22a_sed"
+"ssaga_dr22a_sed_ab1m","Float","","Recommended","1702 : DRUGS IV : SED 1st Abstinent Month:","","","dr22a_sed_ab1m"
+"ssaga_dr22a_sed_ab1y","Float","","Recommended","1703 : DRUGS IV : SED 1st Abstinent Year (YYYY):","","","dr22a_sed_ab1y"
+"ssaga_dr22a_sed_ab2m","Float","","Recommended","1704 : DRUGS IV : SED 2nd Abstinent Month:","","","dr22a_sed_ab2m"
+"ssaga_dr22a_sed_ab2y","Float","","Recommended","1705 : DRUGS IV : SED 2nd Abstinent Year (YYYY):","","","dr22a_sed_ab2y"
+"ssaga_dr22a_sed_ab3m","Float","","Recommended","1706 : DRUGS IV : SED 3rd Abstinent Month:","","","dr22a_sed_ab3m"
+"ssaga_dr22a_sed_ab3y","Float","","Recommended","1707 : DRUGS IV : SED 3rd Abstinent Year (YYYY):","","","dr22a_sed_ab3y"
+"ssaga_dr22a_sed_ab4m","Float","","Recommended","1708 : DRUGS IV : SED 4th Abstinent Month:","","","dr22a_sed_ab4m"
+"ssaga_dr22a_sed_ab4y","Float","","Recommended","1709 : DRUGS IV : SED 4th Abstinent Year (YYYY):","","","dr22a_sed_ab4y"
+"ssaga_dr22a_op","String","20","Recommended","1710 : DRUGS IV : A. How many times have you gone without OP for 3 months or longer? When did the first period begin? IF R HAD MORE THAN 4 ABSTINENT PERIODS, RECORD THE 4 LONGEST.","","","dr22a_op"
+"ssaga_dr22a_op_ab1m","Float","","Recommended","1711 : DRUGS IV : OP 1st Abstinent Month:","","","dr22a_op_ab1m"
+"ssaga_dr22a_op_ab1y","Float","","Recommended","1712 : DRUGS IV : OP 1st Abstinent Year (YYYY):","","","dr22a_op_ab1y"
+"ssaga_dr22a_op_ab2m","Float","","Recommended","1713 : DRUGS IV : OP 2nd Abstinent Month:","","","dr22a_op_ab2m"
+"ssaga_dr22a_op_ab2y","Float","","Recommended","1714 : DRUGS IV : OP 2nd Abstinent Year (YYYY):","","","dr22a_op_ab2y"
+"ssaga_dr22a_op_ab3m","Float","","Recommended","1715 : DRUGS IV : OP 3rd Abstinent Month:","","","dr22a_op_ab3m"
+"ssaga_dr22a_op_ab3y","Float","","Recommended","1716 : DRUGS IV : OP 3rd Abstinent Year (YYYY):","","","dr22a_op_ab3y"
+"ssaga_dr22a_op_ab4m","Float","","Recommended","1717 : DRUGS IV : OP 4th Abstinent Month:","","","dr22a_op_ab4m"
+"ssaga_dr22a_op_ab4y","Float","","Recommended","1718 : DRUGS IV : OP 4th Abstinent Year (YYYY):","","","dr22a_op_ab4y"
+"ssaga_dr22a_oth","String","110","Recommended","1719 : DRUGS IV : A. How many times have you gone without [dr1_oth] for 3 months or longer? When did the first period begin? IF R HAD MORE THAN 4 ABSTINENT PERIODS, RECORD THE 4 LONGEST.","","","dr22a_oth"
+"ssaga_dr22a_oth_ab1m","Float","","Recommended","1720 : DRUGS IV : [dr1_oth]  1st Abstinent Month:","","","dr22a_oth_ab1m"
+"ssaga_dr22a_oth_ab1y","Float","","Recommended","1721 : DRUGS IV : [dr1_oth]  1st Abstinent Year (YYYY):","","","dr22a_oth_ab1y"
+"ssaga_dr22a_oth_ab2m","Float","","Recommended","1722 : DRUGS IV : [dr1_oth]  2nd Abstinent Month:","","","dr22a_oth_ab2m"
+"ssaga_dr22a_oth_ab2y","Float","","Recommended","1723 : DRUGS IV : [dr1_oth]  2nd Abstinent Year (YYYY):","","","dr22a_oth_ab2y"
+"ssaga_dr22a_oth_ab3m","Float","","Recommended","1724 : DRUGS IV : [dr1_oth]  3rd Abstinent Month:","","","dr22a_oth_ab3m"
+"ssaga_dr22a_oth_ab3y","Float","","Recommended","1725 : DRUGS IV : [dr1_oth]  3rd Abstinent Year (YYYY):","","","dr22a_oth_ab3y"
+"ssaga_dr22a_oth_ab4m","Float","","Recommended","1726 : DRUGS IV : [dr1_oth]  4th Abstinent Month:","","","dr22a_oth_ab4m"
+"ssaga_dr22a_oth_ab4y","Float","","Recommended","1727 : DRUGS IV : [dr1_oth]  4th Abstinent Year (YYYY):","","","dr22a_oth_ab4y"
+"ssaga_dr23","Integer","","Recommended","1728 : DRUGS IV : DR23 Have you ever brought up any problem you might have had with drugs with any professional?","1;5","1 = NO ; 5 = YES","dr23"
+"ssaga_dr23a1","Integer","","Recommended","1729 : DRUGS IV : 1. Psychiatrist","1;5","1 = NO ; 5 = YES","dr23a1"
+"ssaga_dr23a2","Integer","","Recommended","1730 : DRUGS IV : 2. Another medical doctor","1;5","1 = NO ; 5 = YES","dr23a2"
+"ssaga_dr23a3","Integer","","Recommended","1731 : DRUGS IV : 3. Psychologist","1;5","1 = NO ; 5 = YES","dr23a3"
+"ssaga_dr23a4","Integer","","Recommended","1732 : DRUGS IV : 4. Another mental health professional","1;5","1 = NO ; 5 = YES","dr23a4"
+"ssaga_dr23a5","Integer","","Recommended","1733 : DRUGS IV : 5. Member of the clergy","1;5","1 = NO ; 5 = YES","dr23a5"
+"ssaga_dr23a6","Integer","","Recommended","1734 : DRUGS IV : 6. Another professional:","1;5","1 = NO ; 5 = YES","dr23a6"
+"ssaga_dr23a6other","String","80","Recommended","1735 : DRUGS IV : IF YES, SPECIFY","","","dr23a6other"
+"ssaga_dr23a_total","Float","","Recommended","1736 : DRUGS IV : Sum of 23A","","sum((if([dr23a1]='5', 1, 0)),
+(if([dr23a2]='5', 1, 0)),
+(if([dr23a3]='5', 1, 0)),
+(if([dr23a4]='5', 1, 0)),
+(if([dr23a5]='5', 1, 0)),
+(if([dr23a6]='5', 1, 0)))","dr23a_total"
+"ssaga_dr23b_ageon","Float","","Recommended","1737 : DRUGS IV : AGE ONS:","","","dr23b_ageon"
+"ssaga_dr23b_agerec","Float","","Recommended","1738 : DRUGS IV : AGE REC:","","","dr23b_agerec"
+"ssaga_dr23c","Integer","","Recommended","1739 : DRUGS IV : C. With whom did you speak first?","1::6","1 = 1 Psychiatrist ; 2 = 2 Another medical doctor ; 3 = 3 Psychologist ; 4 = 4 Another mental health professional ; 5 = 5 Member of the clergy ; 6 = 6 Another professional","dr23c"
+"ssaga_dr24","Integer","","Recommended","1740 : DRUGS IV : DR24 Have you ever been treated for a problem with drugs?","1;5","1 = NO ; 5 = YES","dr24"
+"ssaga_dr24a1","Integer","","Recommended","1741 : DRUGS IV : 1. NA or another self-help group?","1;5","1 = NO ; 5 = YES","dr24a1"
+"ssaga_dr24a2","Integer","","Recommended","1742 : DRUGS IV : 2. an outpatient drug program?","1;5","1 = NO ; 5 = YES","dr24a2"
+"ssaga_dr24a3","Integer","","Recommended","1743 : DRUGS IV : 3. an outpatient program for something other than drugs?","1;5","1 = NO ; 5 = YES","dr24a3"
+"ssaga_dr24a4","Integer","","Recommended","1744 : DRUGS IV : 4. an inpatient drug-free program?","1;5","1 = NO ; 5 = YES","dr24a4"
+"ssaga_dr24a5","Integer","","Recommended","1745 : DRUGS IV : 5. when you were an inpatient for medical complications due to drug use?.","1;5","1 = NO ; 5 = YES","dr24a5"
+"ssaga_dr24a6","Integer","","Recommended","1746 : DRUGS IV : 6. at any other place or program?","1;5","1 = NO ; 5 = YES","dr24a6"
+"ssaga_dr24a6other","String","50","Recommended","1747 : DRUGS IV : IF YES, SPECIFY","","","dr24a6other"
+"ssaga_dr24b_ageon","Float","","Recommended","1748 : DRUGS IV : AGE ONS:","","","dr24b_ageon"
+"ssaga_dr24b_agerec","Float","","Recommended","1749 : DRUGS IV : AGE REC:","","","dr24b_agerec"
+"ssaga_dr24a_total","Float","","Recommended","1750 : DRUGS IV : Sum of 23A","","sum((if([dr24a1]='5', 1, 0)),
+(if([dr24a2]='5', 1, 0)),
+(if([dr24a3]='5', 1, 0)),
+(if([dr24a4]='5', 1, 0)),
+(if([dr24a5]='5', 1, 0)),
+(if([dr24a6]='5', 1, 0)))","dr24a_total"
+"ssaga_dr24c","Integer","","Recommended","1751 : DRUGS IV : C. Where were you first treated?","1::6","1 = 1 NA or another self-help group ; 2 = 2 an outpatient drug program ; 3 = 3 an outpatient program for something other than drugs ; 4 = 4 an inpatient drug-free program ; 5 = 5 when you were an inpatient for medical complications due to drug use ; 6 = 6 at any other place or program","dr24c"
+"ssaga_dr24d","Integer","","Recommended","1752 : DRUGS IV : D. Did you ever attend a self-help group (like NA) because you had a problem with drugs?","1;5","1 = NO ; 5 = YES","dr24d"
+"ssaga_dr24d1_ageon","Float","","Recommended","1753 : DRUGS IV : AGE ONS:","","","dr24d1_ageon"
+"ssaga_dr24d1_agerec","Float","","Recommended","1754 : DRUGS IV : AGE REC:","","","dr24d1_agerec"
+"ssaga_dr_notes","String","870","Recommended","1755 : DRUGS IV : DRUGS NOTES:","","","dr_notes"
+"ssaga_dr1_8","Integer","","Recommended","Have you ever used combinations?","0;1","0 = No; 1 = Yes","dr1_8"
+"ssaga_dr1_09","Integer","","Recommended","Have you ever used other?","0;1","0 = No; 1 = Yes","dr1_09"
+"ssaga_dr1_1","Integer","","Recommended","Have you ever used cocaine?","0;1","0 = No; 1 = Yes","dr1_1"
+"ssaga_dr1_2","Integer","","Recommended","Have you ever used stimulants?","0;1","0 = No; 1 = Yes","dr1_2"
+"ssaga_dr1_3","Integer","","Recommended","Have you ever used sedatives?","0;1","0 = No; 1 = Yes","dr1_3"
+"ssaga_dr1_4","Integer","","Recommended","Have you ever used opiates?","0;1","0 = No; 1 = Yes","dr1_4"
+"ssaga_dr1_5","Integer","","Recommended","Have you ever used PCP?","0;1","0 = No; 1 = Yes","dr1_5"
+"ssaga_dr1_6","Integer","","Recommended","Have you ever used hallucinogens?","0;1","0 = No; 1 = Yes","dr1_6"
+"ssaga_dr1_7","Integer","","Recommended","Have you ever used solvents?","0;1","0 = No; 1 = Yes","dr1_7"

@@ -1,0 +1,77 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"site","String","101","Recommended","Site","","Study Site",""
+"study","String","100","Recommended","Study; The code for each individual study","","","studyid"
+"daysrz","Integer","","Recommended","days since randomization","","","studyday"
+"visit","String","60","Recommended","Visit name","","","interval"
+"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","b_done"
+"ci_enrolled","Integer","","Recommended","Participant enrolled","0;1","0=No; 1=Yes","enrolled"
+"b_master","Integer","","Recommended","Mastery of Test","1;2","1=Yes, 2=No",""
+"b_usable","Integer","","Recommended","Task Usable","1;2","1=Yes, 2=No",""
+"dotq01","Float","","Recommended","1. Dot Test - No Delay","0.0::99.9","",""
+"dotq02","Float","","Recommended","2. Dot Test - No Delay","0.0::99.9","",""
+"dotq03","Float","","Recommended","3. Dot Test - No Delay","0.0::99.9","",""
+"dotq04","Float","","Recommended","4. Dot Test - No Delay","0.0::99.9","",""
+"dotq05","Float","","Recommended","5. Dot Test - No Delay","0.0::99.9","",""
+"dotq06","Float","","Recommended","6. Dot Test - No Delay","0.0::99.9","",""
+"dotq07","Float","","Recommended","7. Dot Test - No Delay","0.0::99.9","",""
+"dotq08","Float","","Recommended","8. Dot Test - No Delay","0.0::99.9","",""
+"dotq09","Float","","Recommended","9. Dot Test - 10 Second Delay","0.0::99.9","",""
+"dotq10","Float","","Recommended","10. Dot Test - 10 Second Delay","0.0::99.9","",""
+"dotq11","Float","","Recommended","11. Dot Test - 10 Second Delay","0.0::99.9","",""
+"dotq12","Float","","Recommended","12. Dot Test - 10 Second Delay","0.0::99.9","",""
+"dotq13","Float","","Recommended","13. Dot Test - 10 Second Delay","0.0::99.9","",""
+"dotq14","Float","","Recommended","14. Dot Test - 10 Second Delay","0.0::99.9","",""
+"dotq15","Float","","Recommended","15. Dot Test - 10 Second Delay","0.0::99.9","",""
+"dotq16","Float","","Recommended","16. Dot Test - 10 Second Delay","0.0::99.9","",""
+"dotq17","Float","","Recommended","17. Dot Test - 10 Second Delay","0.0::99.9","",""
+"dotq18","Float","","Recommended","18. Dot Test - 10 Second Delay","0.0::99.9","",""
+"dotq19","Float","","Recommended","19. Dot Test - 10 Second Delay","0.0::99.9","",""
+"dotq20","Float","","Recommended","20. Dot Test - 10 Second Delay","0.0::99.9","",""
+"dot_nd","Float","","Recommended","Dot Test - Average No Delay Distance","","In calculating the score Add value only if not null or zero.  Keep track of non- missing values.
+Dim X As Integer DOT_ND = 0
+DOT_Count = 0 'average of No-Delay For X = 1 To 8
+If Me(""DOTQ0"" & X) <> 0 And Not IsNull(Me(""DOTQ0"" & X)) Then DOT_ND = DOT_ND + Me(""DOTQ0"" & X)
+DOT_Count = DOT_Count + 1 End If
+Next X
+If DOT_Count >= 5 Then
+DOT_ND = DOT_ND / DOT_Count DOT_ND = Format(DOT_ND, ""###0.00"")
+Else
+'total not scored of 5 or more were not completed DOT_ND = Null
+End If","dot_nd_raw"
+"dot_d","Float","","Recommended","Dot Test - Avg 10 Second Delay Distance","","In calculating the score Add value only if not null or zero.  Keep track of non- missing values.
+Dim X As Integer DOT_D = 0
+DOT_Count = 0 'Average of delayed recall
+If DOTQ09 <> 0 And Not IsNull(DOTQ09) Then DOT_D = DOT_D + DOTQ09
+DOT_Count = DOT_Count + 1 End If
+For X = 10 To 20
+If Me(""DOTQ"" & X) <> 0 And Not IsNull(Me(""DOTQ"" & X)) Then DOT_D = DOT_D + Me(""DOTQ"" & X)
+DOT_Count = DOT_Count + 1 End If
+Next X
+If DOT_Count >= 8 Then
+DOT_D = DOT_D / DOT_Count DOT_D = Format(DOT_D, ""###0.00"")
+Else
+'total not scored of 8 or more were not completed DOT_D = Null
+End If","dot_10_raw"
+"dot_diff","Float","","Recommended","Dot Test - Difference between Averages","","Average delayed recall distance minus no delay distance
+DOT_Diff = [DOT_D] - [DOT_ND]
+DOT_Diff = Format(DOT_Diff, ""###0.00"")",""
+"alltest_task","Integer","","Recommended","Completed Task","1::3","1 = Yes; 2 = No; 3 = Uncertain","b_task"
+"alltest_vers","Integer","","Recommended","Page Version used","1::3","1 = Standard; 2 = Single Page                                                                                                                                                                                          3 = Velcro Board","b_vers"
+"alltest_qualit","Integer","","Recommended","Quality of test results","1::3","1 = Usable; 2 = Partly Usable; 3 = Unusable","b_qualit"
+"alltest_sit1","Integer","","Recommended","Situation-Did not comprehend instr.","0;1","1=Describes test/occurred; 0=Does not describe test/didn't occur","b_sit1"
+"alltest_sit2","Integer","","Recommended","Situation-Completely distracted","0;1","1=Describes test/occurred; 0=Does not describe test/didn't occur","b_sit2"
+"alltest_sit3","Integer","","Recommended","Situation-Refused to comply","0;1","1=Describes test/occurred; 0=Does not describe test/didn't occur","b_sit3"
+"alltest_sit4","Integer","","Recommended","Situation-Tantrum","0;1","1=Describes test/occurred; 0=Does not describe test/didn't occur","b_sit4"
+"alltest_sit5","Integer","","Recommended","Situation-Unable to draw or use","0;1","1=Describes test/occurred; 0=Does not describe test/didn't occur","b_sit5"
+"alltest_sit6","Integer","","Recommended","Situation-Other","0;1","1=Describes test/occurred; 0=Does not describe test/didn't occur","b_sit6"
+"dot_20_raw","String","50","Recommended","Dot 20 (in mm)","","",""
+"dot_30_raw","String","50","Recommended","Dot 30 (in mm)","","",""
+"dot_difference20","Integer","","Recommended","Dot Difference 20 (in mm)","","Calculation: [dot20_raw]-[dot_nd_raw]",""
+"dot_difference30","Integer","","Recommended","Dot Difference 30 (in mm)","","Calculation: [dot30_raw]-[dot_nd_raw]",""
+"dot_complete","Integer","","Recommended","Complete?","0::2","0 = Incomplete; 1 = Unverified; 2 = Complete",""
+"dot_difference10","Integer","","Recommended","Dot Difference 10 (in mm)","","Calculation: [dot10_raw]-[dot_nd_raw]",""

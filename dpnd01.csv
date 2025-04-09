@@ -1,0 +1,35 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","catieid"
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"visit","String","60","Recommended","Visit name","","",""
+"visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
+"dep02","Integer","","Recommended","Does the patient need reminders or advice to
+manage chores, do shopping, cooking, play
+games, or handle money?","0;1;2","0 = No; 1 = Occasionally at least once a month; 2 = Frequently at least once a week",""
+"dep03","Integer","","Recommended","Does the patient need help to remember
+important things such as appointments,
+recent events, or names of family or friends?","0;1;2","0 = No; 1 = Occasionally at least once a month; 2 = Frequently at least once a week",""
+"dep04","Integer","","Recommended","Does the patient need frequent (at least once a month) help finding misplaced objects,
+keeping appointments, or maintaining health
+or safety (locking doors, taking medication)?","0;1","0=No; 1=Yes",""
+"dep05","Integer","","Recommended","Does the patient need household chore done for them?","0;1","0=No; 1=Yes",""
+"dep06","Integer","","Recommended","Does the patient need to be watched or kept company when awake?","0;1","0=No; 1=Yes",""
+"dep07","Integer","","Recommended","Does the patient need to be escorted when outside","0;1","0=No; 1=Yes",""
+"dep08","Integer","","Recommended","Does the patient need to be accompanied when bathing or eating","0;1","0=No; 1=Yes",""
+"dep09","Integer","","Recommended","Does the patient have to be dressed, washed and groomed?","0;1","0=No; 1=Yes",""
+"dep10","Integer","","Recommended","Does the patient have to be taken to toilet regularly to avoid incontinence","0;1","0=No; 1=Yes",""
+"dep11","Integer","","Recommended","Does the patient have to be fed?","0;1","0=No; 1=Yes",""
+"dep12","Integer","","Recommended","Does the patient need to be turned, moved or transferred?","0;1","0=No; 1=Yes",""
+"dep13","Integer","","Recommended","Does the patient wear a diaper or a catheter?","0;1","0=No; 1=Yes",""
+"dep14","Integer","","Recommended","Does the patient need to be tube fed?","0;1","0=No; 1=Yes",""
+"dep15","Integer","","Recommended","Equivalent Institutional Care","1;2;3","1 = Limited home care; 2 = Adult home; 3 = Health-related facility",""
+"visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
+"dependnce","Integer","","Recommended","Dependence level","0;1;2;3;4;5","0 = Level 0; 1 = Level 1; 2 = Level 2; 3 = Level 3; 4 = Level 4; 5 = Level 5; A patient may meet the criteria for more than one level. If this is the case, we have assigned the highest level the patient meets. For example, if a patient meets the criteria for both Levels 4 and 5, assign DEPNDNCE = 5.",""
+"base1","Integer","","Recommended","Flag Baseline Phase 1/1A Visit","","1=Yes for all records meeting this criteria",""
+"last1","Integer","","Recommended","Flag Last Phase 1/1A Visit","","1=Yes for all records meeting this criteria",""
+"base_dep","Float","","Recommended","Baseline Dependence Level","","Score at Phase 1 baseline",""
+"c_dep","Float","","Recommended","Change from Baseline in Dependence Level","","Change from Phase 1 baseline",""
+"phase_ct","String","20","Recommended","Current Phase. Phase patient was in at the time of the assessment Phase 4 refers to the follow-up phase.","Pre-Rand; Phase 1/1A; Phase 2; Phase 3; Phase 4; Phase 1B; Open-Choice Phase; Screening; Phase 1","",""

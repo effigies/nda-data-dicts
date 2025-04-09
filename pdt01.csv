@@ -1,0 +1,8 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
+"pdt1_internal","Integer","","Recommended","Picture description task, behaviorally coded internal detail count","0 :: 200","Counts of the number of details that a participant provides in their response; Greyed Out  refers to the number of repetitions (i.e. participant repeating the same information more than once) and any non repetition, commentary",""
+"pdt1_external","Integer","","Recommended","Picture description task, behaviorally coded external detail count","0 :: 50","Counts of the number of details that a participant provides in their response; Greyed Out  refers to the number of repetitions (i.e. participant repeating the same information more than once) and any non repetition, commentary",""

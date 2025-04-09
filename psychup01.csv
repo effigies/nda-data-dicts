@@ -1,0 +1,437 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","id"
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","date"
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"type_ass","Integer","","Recommended","Type","1::6","1=Proband/subject; 2=Informant; 3=Consensus; 4=Blind; 5=Other; 6=Consensus II","ass"
+"dsmvers","String","10","Recommended","version/name of assessment","","","frm"
+"version","String","20","Recommended","Version/code of assessment","","","ver"
+"fumonth","Integer","","Recommended","Month in follow-up","","","fuper"
+"reliab_mes","Integer","","Recommended","Reliability measurement","1::4","1=Original; 2=Second; 3=Third; 4=Fourth","rel"
+"relationship","Integer","","Recommended","Relationship of respondent to individual","1::95;-999","1 = Biological mom; 2 = Biological dad; 3 = Grandparent; 4 = Special education (sped) teacher; 5 = General education teacher; 6 = Occupational therapist; 7 = Speech and language therapist; 8 = Behavioral therapist; 9 = Paraprofessional; 10 = Aide; 11 = Principal; 12 = Administrator; 14 = Content teacher; 15 = Parent center director; 16 = Self; 17 = Adoptive mother; 18 = Adoptive father; 19 = Foster mother; 20 = Foster father; 21 = Grandmother; 22 = Grandfather; 23 = Step-mother; 24 = Step-father; 25 = Aunt; 26 = Uncle; 28 = Both parents; 31 = Grandmother from mother side; 32 = Grandfather from mother side; 33 = Grandmother from father side; 34 = Grandfather from father side; 36 = Brother; 37 = Sister; 38 = Cousin; 39 = Female caregiver; 40 = Male caregiver; 41 = Female child; 42 = Male child; 43 = Spouse/Mate; 44 = Friend; 45 = Parent; 46 = Significant other; 47 = Sibling; 48 = Son/Daughter; 49 = Son-in-law/Daughter-in law; 50 = Other Relative; 51 = Paid caregiver; 52 = Friends; 53 = Roommate; 54 = Supervisor; 55 = Mother's boyfriend; 56 = Other parental figure; 57 = Summary; 58 = Counselor; 59 = Other female relative; 60 = Other male relative; 61 = Non-relative ; 62 = Maternal Aunt; 63 = Maternal Uncle; 64 = Maternal Cousin; 65 = Paternal Aunt; 66 = Paternal Uncle; 67 = Paternal Cousin; 68 = Biological/Adoptive Mother and Grandmother; 69 = Biological/Adoptive Mother and Stepmother and Grandmother; 70 = Biological/Adoptive Mother and Grandmother and Foster Father; 71 = Biological/Adoptive Mother and Stepmother and Foster Mother; 72 = Biological/Adoptive Mother and Foster Mother; 73 = Biological/Adoptive Mother and Biological/Adoptive Father; 74 = Biological/Adoptive Mother and Stepmother and Biological/Adoptive Father; 75 = Biological/Adoptive Mother and Other; 76 = Biological/Adoptive Mother and Stepmother and Stepfather; 77 = Biological/Adoptive Mother and Stepfather; 78 = Biological/Adoptive Mother and Grandfather; 79 = Biological/Adoptive Mother and Stepmother and Foster Father; 80 = Biological/Adoptive Mother and Stepmother; 81 = Guardian, female; 82 = Other female; 83 = Guardian, male; 84 = Other male; 85 = Other/Grandparent/Nanny; 86 = Mother, Father, Guardian; 87 = Daughter, son, grandchild; 88 = Professional (e.g., social worker, nurse, therapist, psychiatrist, or group home staff); -999 = Missing; 89 = Biological parent; 90 = Other; 91 = Stepparent; 92 = Adoptive parent; 93 = Foster parent; 94 = Co-worker; 95 = Independent Evaluator","pu3"
+"ca14","Integer","","Recommended","Current psych treatment status","1::5","1=Inpatient; 2=Outpatient; 3=Day treatment; 4=Nonpatient; 5=Outpatient/day tx","pu4"
+"ptdied","Integer","","Recommended","patient died","0;1;-7","0=No; 1=Yes; -7=Refused","pu5"
+"csdeath","String","255","Recommended","Cause of death","","","pu7"
+"psych_p5","Integer","","Recommended","Source of information: Face to face interview with subject","0;1","0=No; 1=Yes","pu8"
+"psych_p6","Integer","","Recommended","Source of information: Phone interview with subject","0;1","0=No; 1=Yes","pu9"
+"psych_p7","Integer","","Recommended","Source of information: Letter from subject","0;1","0=No; 1=Yes","pu10"
+"psych_p8","Integer","","Recommended","Source of information: Face to face interview with relatives or friends","0;1","0=No; 1=Yes","pu11"
+"psych_p9","Integer","","Recommended","Source of information: Phone interview with relatives or friends","0;1","0=No; 1=Yes","pu12"
+"psych_p10","Integer","","Recommended","Source of information: Hospital records","0;1","0=No; 1=Yes","pu13"
+"psych_p11","Integer","","Recommended","Source of information: Research notes","0;1","0=No; 1=Yes","pu14"
+"psych_p12","Integer","","Recommended","Source of information: Records from other institutions or therapists","0;1","0=No; 1=Yes","pu15"
+"psych_p13","Integer","","Recommended","Source of information: Other","0;1","0=No; 1=Yes","pu16"
+"pu_pu17","Integer","","Recommended","Subject employed for at least 1 week in past 6 months?","1::3","1=Yes; 2=No because of psychopathology; 3=No because of another reason","pu17"
+"month_psychup","Integer","","Recommended","Monthly timepoint within this follow-up period.","1::7","1=Month 1; 2=Month 2; 3=Month 3; 4=Month 4; 5=Month 5; 6=Month 6; 7=Month Unknown.",""
+"pu_empl","Integer","","Recommended","Employment code","0::9","0=N/A; 1=No impairment, high level; 2=No impairment, satisfactory level; 3=Mild impairment; 4=Moderate impairment; 5=Severe impairment; 6=Did not work; 9=Unknown",""
+"pu_job_chg","Integer","","Recommended","Job changes","1::6","1=Stayed in same job entire month; 2=Changed jobs; 3=Quit a job; 4=Was fired or laid off; 5=Retired or leave of absence; 6=Unemployed to employed status",""
+"pu_income_src","Integer","","Recommended","Income source code","1::9","1=Subject employment; 2=Spouse/mate employment; 3=Social agency; 4=Employment and social agency; 5=Majority of income provided by parents; 6=Majority of income provided by relatives other than parents; 7=No income; 8=Other; 9=Unknown",""
+"pu_income_mgt","Integer","","Recommended","Income management code","1::9","1=Subject; 2=Spouse/mate; 3=Parents; 4=Relatives other than parents; 5=Legal guardian/executor other than above; 6=Other; 7=Subject with assistance; 8=No income; 9=Unknown",""
+"pu_hshld_dt","Integer","","Recommended","Subject performed household duties for 1 week in past 6 months","1::3","1=Yes; 2=No because of psychopathology; 3=No because of another reason",""
+"pu_hshld_cd","Integer","","Recommended","Household code","0::9","0=N/A; 1=No impairment, high level; 2=No impairment, satisfactory level; 3=Mild impairment; 4=Moderate impairment; 5=Severe impairment; 6=None; 9=Unknown",""
+"pu_school","Integer","","Recommended","Subject in school within the past 6 months","1::3","1=Yes; 2=No because of psychopathology; 3=No because of another reason",""
+"pu_stdnt_cd","Integer","","Recommended","Student code","0::9","0=N/A; 1=No impairment, high level; 2=No impairment, satisfactory level; 3=Mild impairment; 4=Moderate impairment; 5=Severe impairment; 6=None; 9=Unknown",""
+"pu_dwng_cd","Integer","","Recommended","Dwelling code","1::9","1=House/townhouse/mobile home; 2=Apartment/condo; 3=Rooming house; 4=Halfway house; 5=Dormitory; 6=Transient; 7=Institution; 8=Other; 9=Unknown",""
+"pu_livalon","Integer","","Recommended","Living alone","0;1","0=No; 1=Yes",""
+"pu_livmoth","Integer","","Recommended","Living with mother","0;1","0=No; 1=Yes",""
+"pu_livfath","Integer","","Recommended","Living with father","0;1","0=No; 1=Yes",""
+"pu_livspous","Integer","","Recommended","live with spouse","0;1","0=No; 1=Yes",""
+"pu_livchldyng","Integer","","Recommended","Living with own children under 13 yrs","0;1","0=No; 1=Yes",""
+"pu_livchldold","Integer","","Recommended","Living with own children 13 or older","0;1","0=No; 1=Yes",""
+"pu_livsib","Integer","","Recommended","Living with siblings","0;1","0=No; 1=Yes",""
+"pu_livrel","Integer","","Recommended","Living with relatives/step parent","0;1","0=No; 1=Yes",""
+"pu_livfriend","Integer","","Recommended","Living with friends","0;1","0=No; 1=Yes",""
+"pu_livrmate","Integer","","Recommended","Living with assigned roommate","0;1","0=No; 1=Yes",""
+"psycup_intrelmo","Integer","","Recommended","Interpersonal relations - Mother:","0::9","0 - Not applicable because subject did not have relatives in this category.
+1 - Very good; experienced very close emotional relationships with this (these) family member(s). Felt only very minor
+or occasional need to improve quality of relationship, which was usually close and satisfying.
+2 - Good; felt close emotionally to this (these) family member(s). May have occasionally preferred not to have been
+with them because of dissatisfaction or not to have been actively working with them to improve relationship.
+3 - Fair; thought that relationship needed to be closer emotionally even when no conflict was present. May have
+withdrawn from this person (these people) due to dissatisfaction. For those relatives not living with the subject,
+contacts with them by choice were less frequent than feasible or rarely enjoyed very much when made.
+4 - Poor; felt great deficit in emotional closeness. Regularly preferred to avoid contact with them. For
+those family members out of the household, subject avoided seeing as much as possible and derived little pleasure from contact when made.
+5 - Very poor; felt no emotional closeness with this (these) family member(s). Completely avoided those family
+members living out of household or was almost always hostile when in contact.
+6 - Variable; different levels for various members of this group, and would warrant a rating of good or better (2,1) with
+at least one member of this group.
+7 - Variable; different levels for various members of this group, and would not warrant a rating of good or better (2,1)
+with any member of this group.
+9 - Unknown.",""
+"pu_intrelfa","Integer","","Recommended","Interpersonal relations - Father:","0::9","0 - Not applicable because subject did not have relatives in this category.
+1 - Very good; experienced very close emotional relationships with this (these) family member(s). Felt only very minor
+or occasional need to improve quality of relationship, which was usually close and satisfying.
+2 - Good; felt close emotionally to this (these) family member(s). May have occasionally preferred not to have been
+with them because of dissatisfaction or not to have been actively working with them to improve relationship.
+3 - Fair; thought that relationship needed to be closer emotionally even when no conflict was present. May have
+withdrawn from this person (these people) due to dissatisfaction. For those relatives not living with the subject,
+contacts with them by choice were less frequent than feasible or rarely enjoyed very much when made.
+4 - Poor; felt great deficit in emotional closeness. Regularly preferred to avoid contact with them. For
+those family members out of the household, subject avoided seeing as much as possible and derived little pleasure from contact when made.
+5 - Very poor; felt no emotional closeness with this (these) family member(s). Completely avoided those family
+members living out of household or was almost always hostile when in contact.
+6 - Variable; different levels for various members of this group, and would warrant a rating of good or better (2,1) with
+at least one member of this group.
+7 - Variable; different levels for various members of this group, and would not warrant a rating of good or better (2,1)
+with any member of this group.
+9 - Unknown.",""
+"pu_intrelstpmo","Integer","","Recommended","Interpersonal relations - Step mother:","0::9","0 - Not applicable because subject did not have relatives in this category.
+1 - Very good; experienced very close emotional relationships with this (these) family member(s). Felt only very minor
+or occasional need to improve quality of relationship, which was usually close and satisfying.
+2 - Good; felt close emotionally to this (these) family member(s). May have occasionally preferred not to have been
+with them because of dissatisfaction or not to have been actively working with them to improve relationship.
+3 - Fair; thought that relationship needed to be closer emotionally even when no conflict was present. May have
+withdrawn from this person (these people) due to dissatisfaction. For those relatives not living with the subject,
+contacts with them by choice were less frequent than feasible or rarely enjoyed very much when made.
+4 - Poor; felt great deficit in emotional closeness. Regularly preferred to avoid contact with them. For
+those family members out of the household, subject avoided seeing as much as possible and derived little pleasure from contact when made.
+5 - Very poor; felt no emotional closeness with this (these) family member(s). Completely avoided those family
+members living out of household or was almost always hostile when in contact.
+6 - Variable; different levels for various members of this group, and would warrant a rating of good or better (2,1) with
+at least one member of this group.
+7 - Variable; different levels for various members of this group, and would not warrant a rating of good or better (2,1)
+with any member of this group.
+9 - Unknown.",""
+"pu_intrelstpfa","Integer","","Recommended","Interpersonal relations - Step father:","0::9","0 - Not applicable because subject did not have relatives in this category.
+1 - Very good; experienced very close emotional relationships with this (these) family member(s). Felt only very minor
+or occasional need to improve quality of relationship, which was usually close and satisfying.
+2 - Good; felt close emotionally to this (these) family member(s). May have occasionally preferred not to have been
+with them because of dissatisfaction or not to have been actively working with them to improve relationship.
+3 - Fair; thought that relationship needed to be closer emotionally even when no conflict was present. May have
+withdrawn from this person (these people) due to dissatisfaction. For those relatives not living with the subject,
+contacts with them by choice were less frequent than feasible or rarely enjoyed very much when made.
+4 - Poor; felt great deficit in emotional closeness. Regularly preferred to avoid contact with them. For
+those family members out of the household, subject avoided seeing as much as possible and derived little pleasure from contact when made.
+5 - Very poor; felt no emotional closeness with this (these) family member(s). Completely avoided those family
+members living out of household or was almost always hostile when in contact.
+6 - Variable; different levels for various members of this group, and would warrant a rating of good or better (2,1) with
+at least one member of this group.
+7 - Variable; different levels for various members of this group, and would not warrant a rating of good or better (2,1)
+with any member of this group.
+9 - Unknown.",""
+"pu_intrelspous","Integer","","Recommended","Interpersonal relations - Spouse/mate:","0::9","0 - Not applicable because subject did not have relatives in this category.
+1 - Very good; experienced very close emotional relationships with this (these) family member(s). Felt only very minor
+or occasional need to improve quality of relationship, which was usually close and satisfying.
+2 - Good; felt close emotionally to this (these) family member(s). May have occasionally preferred not to have been
+with them because of dissatisfaction or not to have been actively working with them to improve relationship.
+3 - Fair; thought that relationship needed to be closer emotionally even when no conflict was present. May have
+withdrawn from this person (these people) due to dissatisfaction. For those relatives not living with the subject,
+contacts with them by choice were less frequent than feasible or rarely enjoyed very much when made.
+4 - Poor; felt great deficit in emotional closeness. Regularly preferred to avoid contact with them. For
+those family members out of the household, subject avoided seeing as much as possible and derived little pleasure from contact when made.
+5 - Very poor; felt no emotional closeness with this (these) family member(s). Completely avoided those family
+members living out of household or was almost always hostile when in contact.
+6 - Variable; different levels for various members of this group, and would warrant a rating of good or better (2,1) with
+at least one member of this group.
+7 - Variable; different levels for various members of this group, and would not warrant a rating of good or better (2,1)
+with any member of this group.
+9 - Unknown.",""
+"pu_intrelchld","Integer","","Recommended","Interpersonal relations - Children:","0::9","0 - Not applicable because subject did not have relatives in this category.
+1 - Very good; experienced very close emotional relationships with this (these) family member(s). Felt only very minor
+or occasional need to improve quality of relationship, which was usually close and satisfying.
+2 - Good; felt close emotionally to this (these) family member(s). May have occasionally preferred not to have been
+with them because of dissatisfaction or not to have been actively working with them to improve relationship.
+3 - Fair; thought that relationship needed to be closer emotionally even when no conflict was present. May have
+withdrawn from this person (these people) due to dissatisfaction. For those relatives not living with the subject,
+contacts with them by choice were less frequent than feasible or rarely enjoyed very much when made.
+4 - Poor; felt great deficit in emotional closeness. Regularly preferred to avoid contact with them. For
+those family members out of the household, subject avoided seeing as much as possible and derived little pleasure from contact when made.
+5 - Very poor; felt no emotional closeness with this (these) family member(s). Completely avoided those family
+members living out of household or was almost always hostile when in contact.
+6 - Variable; different levels for various members of this group, and would warrant a rating of good or better (2,1) with
+at least one member of this group.
+7 - Variable; different levels for various members of this group, and would not warrant a rating of good or better (2,1)
+with any member of this group.
+9 - Unknown.",""
+"pu_intrelrel","Integer","","Recommended","Interpersonal relations - Relatives:","0::9","0 - Not applicable because subject did not have relatives in this category.
+1 - Very good; experienced very close emotional relationships with this (these) family member(s). Felt only very minor
+or occasional need to improve quality of relationship, which was usually close and satisfying.
+2 - Good; felt close emotionally to this (these) family member(s). May have occasionally preferred not to have been
+with them because of dissatisfaction or not to have been actively working with them to improve relationship.
+3 - Fair; thought that relationship needed to be closer emotionally even when no conflict was present. May have
+withdrawn from this person (these people) due to dissatisfaction. For those relatives not living with the subject,
+contacts with them by choice were less frequent than feasible or rarely enjoyed very much when made.
+4 - Poor; felt great deficit in emotional closeness. Regularly preferred to avoid contact with them. For
+those family members out of the household, subject avoided seeing as much as possible and derived little pleasure from contact when made.
+5 - Very poor; felt no emotional closeness with this (these) family member(s). Completely avoided those family
+members living out of household or was almost always hostile when in contact.
+6 - Variable; different levels for various members of this group, and would warrant a rating of good or better (2,1) with
+at least one member of this group.
+7 - Variable; different levels for various members of this group, and would not warrant a rating of good or better (2,1)
+with any member of this group.
+9 - Unknown.",""
+"pu_intrelfriend","Integer","","Recommended","Interpersonal relations - Friends:","0::9","1 - Very good; had several special friends that he/she saw regularly and frequently and was close to.
+2 - Good; had at least two special friends that he/she saw from time to time and was fairly close to.
+3 - Fair; had only one special friend that he/she saw from time to time and was fairly close to, or contacts limited to
+several friends that he/she was not very close to emotionally.
+4 - Poor; had no special friends he/she saw from time to time and was fairly close to, or contacts limited to one or two
+friends that he/she was not close to.
+5 - Very poor; had no special friends and practically no social contacts.
+9 - Unknown.",""
+"psych_p47","Integer","","Recommended","Current marital status","0::7;9","0= no information; 1=Single; 2=Married; 3=Living/opp; 4=Widowed; 5=Separated; 6=Divorced; 7=Living/same; 9=Other","p203"
+"pu_marchng6mo","Integer","","Recommended","Change in marital status in past 6 months","0;1","0=No; 1=Yes","pu204"
+"pu_marchng","Integer","","Recommended","Marital status change","1::4","1=Married; 2=Separated; 3=Divorced; 4=Widowed",""
+"psych_p52","Integer","","Recommended","Primary sexual orientation","1::13","1=Heterosexual; 2=Homosexual; 3=Bisexual; 4=Mostly heterosexual; 5=Mostly homosexual; 6=Pansexual; 7=Pansexual; 8=Asexual; 9=Other; 10=Demisexual; 11=Queer; 12=Unlabeled; 13=Not sure","pu229"
+"pu_sexcd","Integer","","Recommended","Sexual code","1::5;9","1=Not having sexual activities (satisfied); 2=Not having sexual activities (unsatisfied); 3=Having sexual activities (good) - patient fully enjoyed activities when participating; 4=Having sexual activities (fair) - occasionally did not enjoy activities when participating; 5=Having sexual activities (poor) - frequently did not enjoy activities when participating; 9=Unknown",""
+"pu_sexfrq","Integer","","Recommended","Sexual frequency overall","0::3;9","0=Never; 1=At least once monthly; 2=At least once weekly; 3=At least 3 times weekly; 9=Other","pu236"
+"pu_recrcd","Integer","","Recommended","Recreation code","1::5;9","1=Very good; had at least two activities which he/she enjoyed fully and frequently; 2=Good; participated in several activities and did not always enjoy them fully; or participated in fewer activities, or less frequently than optimal, but enjoyed participation. 3=Fair; occasional participation in recreational activities or hobbies, or limited enjoyment when participation occurred. 4=Poor; some participation in recreational activities or hobbies, but derived very little enjoyment. 5=Very poor; no involvement in recreational activities or hobbies. 9=Unknown",""
+"pu_suicd6mo","Integer","","Recommended","Suicide attempts during past 6 months?","0;1; 888","0=No; 1=Yes; 888 = Not assessed - patient was ineligible","pu243"
+"pu_suicdmo","String","20","Recommended","Number of suicide attempts month","","",""
+"pu_suicdint","String","20","Recommended","Suicidal intent","","",""
+"pu_medthr","String","20","Recommended","Actual medical threat","","",""
+"pu_satcd","String","20","Recommended","Satisfaction code","","",""
+"pu_glblcd","String","20","Recommended","Global code","","",""
+"pu_gascd","String","20","Recommended","GAS code","","",""
+"ss10","Integer","","Recommended","Interview reliability","1::5","1=Very good; 2=Good; 3=Fair; 4=Poor; 5=Very poor","pu283"
+"pu_hosp6mo","Integer","","Recommended","Non psychiatric hospitalizations in the past 6 months?","0;1","0=No; 1=Yes","pu284"
+"pu_hospno","Integer","","Recommended","Number of hospitalizations","","","pu285"
+"pu_hospdays","Integer","","Recommended","Total days hospitalized","","","pu286"
+"puillness1","String","250","Recommended","Hospitalization 1: Specific Illness","","",""
+"pu_hospcat1","Integer","","Recommended","Hospitalization 1: Category","1::26","1=IMMUNE DISEASE, Asthma, Allergy, Other, specify+; 2=COLLAGEN DISEASE, Specify+; 3=JOINT DISEASE, Specify+; 4=NEUROLOGIC, Cerebral vascular disease, Meningitis; 5=RESPIRATORY, Emphysema, Bronchitis, Cold, Other, specify+; 6=CARDIOVASCULAR, Specify+ (Does not include hypertension or coronary artery disease); 7=RENAL, Kidney disease, Prostate disease, Herpes, V.D. (male), Other,   specify+; 8=DIGESTIVE SYSTEM, Peptic Ulcer, Bowel disease, Liver disease, Other, specify+; 9=NUTRITIONAL, Specify+; 10=HEMATOLOGIC, Anemia, Other, specify+; 11=METABOLIC, Specify* (except diabetes); 12=ENDOCRINE, Thyroid, Adrenal, Pituitary, Other, specify+; 13=SKELETAL, Trauma, Other, specify+; 14=DERMATOLOGICAL, Skin disease; 15=HEREDITARY, Specify+; 16=GYNECOLOGIC, Fibroids, Endometriosis, Herpes, V.D. (female), Other, specify+; 17=SENSORY ORGAN, Eye disease, Ear disease, Other sensory losses or disorders, specify+; 18=SPECIFIC SYMPTOMS NOT ASSOCIATED WITH SPECIFIC DIAGNOSIS, Specify* (ie vague complaints); 19=BREAST, Cystic breast, Other, specify+; 20=CORONARY ARTERY DISEASE, Myocardial infarction; 21=HYPERTENSION; 22=MIGRAINE HEADACHES; 23=DIABETES MELLITUS; 24=PREGNANCY, Induced abortion, Miscarriage; 25=HEALTH MAINTENANCE, Specify+ (ie flu shots, eye glasses, pap and pelvic, routine check-up)","pu287"
+"pu_hospdesc1","Integer","","Recommended","Hospitalization 1: Descriptor","1::4","1=Infection (eg bronchitis is an infection of the respiratory system); 2=Malignancy (The illness is a malignancy to the particular system); 3=Trauma (Broken bone, cut, bruise, burn, miscarriage, abortion); 4=Not applicable (The illness is a condition unto itself);","pu288"
+"pu_hosprea1","Integer","","Recommended","Hospitalization 1: Reason","1::3","1=New condition OR flare up of old condition; 2=Receiving treatment (includes any ongoing treatment, ie chemotherapy, allergy shots, antibiotics); 3=Routine followup (includes such items as visit after completion of medication, office visit following surgery);","pu289"
+"dtmstarthosp1","String","100","Recommended","Date 1st hospitalization began","","","pu290"
+"dtmendhosp1","Date","","Recommended","Date 1st hospitalization ended","","","pu291"
+"puillness2","String","250","Recommended","Hospitalization 2: Specific Illness","","",""
+"pu_hospcat2","Integer","","Recommended","Hospitalization 2: Category","1::26","1=IMMUNE DISEASE, Asthma, Allergy, Other, specify+; 2=COLLAGEN DISEASE, Specify+; 3=JOINT DISEASE, Specify+; 4=NEUROLOGIC, Cerebral vascular disease, Meningitis; 5=RESPIRATORY, Emphysema, Bronchitis, Cold, Other, specify+; 6=CARDIOVASCULAR, Specify+ (Does not include hypertension or coronary artery disease); 7=RENAL, Kidney disease, Prostate disease, Herpes, V.D. (male), Other,   specify+; 8=DIGESTIVE SYSTEM, Peptic Ulcer, Bowel disease, Liver disease, Other, specify+; 9=NUTRITIONAL, Specify+; 10=HEMATOLOGIC, Anemia, Other, specify+; 11=METABOLIC, Specify* (except diabetes); 12=ENDOCRINE, Thyroid, Adrenal, Pituitary, Other, specify+; 13=SKELETAL, Trauma, Other, specify+; 14=DERMATOLOGICAL, Skin disease; 15=HEREDITARY, Specify+; 16=GYNECOLOGIC, Fibroids, Endometriosis, Herpes, V.D. (female), Other, specify+; 17=SENSORY ORGAN, Eye disease, Ear disease, Other sensory losses or disorders, specify+; 18=SPECIFIC SYMPTOMS NOT ASSOCIATED WITH SPECIFIC DIAGNOSIS, Specify* (ie vague complaints); 19=BREAST, Cystic breast, Other, specify+; 20=CORONARY ARTERY DISEASE, Myocardial infarction; 21=HYPERTENSION; 22=MIGRAINE HEADACHES; 23=DIABETES MELLITUS; 24=PREGNANCY, Induced abortion, Miscarriage; 25=HEALTH MAINTENANCE, Specify+ (ie flu shots, eye glasses, pap and pelvic, routine check-up)","pu292"
+"pu_hospdesc2","Integer","","Recommended","Hospitalization 2: Descriptor","1::4","1=Infection (eg bronchitis is an infection of the respiratory system); 2=Malignancy (The illness is a malignancy to the particular system); 3=Trauma (Broken bone, cut, bruise, burn, miscarriage, abortion); 4=Not applicable (The illness is a condition unto itself);","pu293"
+"pu_hosprea2","Integer","","Recommended","Hospitalization 2: Reason","1::3","1=New condition OR flare up of old condition; 2=Receiving treatment (includes any ongoing treatment, ie chemotherapy, allergy shots, antibiotics); 3=Routine followup (includes such items as visit after completion of medication, office visit following surgery);","pu294"
+"dtmstarthosp2","String","100","Recommended","Date 2nd hospitalization began","","","pu295"
+"dtmendhosp2","Date","","Recommended","Date 2nd hospitalization ended","","","pu296"
+"puillness3","String","250","Recommended","Hospitalization 3: Specific Illness","","",""
+"pu_hospcat3","Integer","","Recommended","Hospitalization 3: Category","1::26","1=IMMUNE DISEASE, Asthma, Allergy, Other, specify+; 2=COLLAGEN DISEASE, Specify+; 3=JOINT DISEASE, Specify+; 4=NEUROLOGIC, Cerebral vascular disease, Meningitis; 5=RESPIRATORY, Emphysema, Bronchitis, Cold, Other, specify+; 6=CARDIOVASCULAR, Specify+ (Does not include hypertension or coronary artery disease); 7=RENAL, Kidney disease, Prostate disease, Herpes, V.D. (male), Other,   specify+; 8=DIGESTIVE SYSTEM, Peptic Ulcer, Bowel disease, Liver disease, Other, specify+; 9=NUTRITIONAL, Specify+; 10=HEMATOLOGIC, Anemia, Other, specify+; 11=METABOLIC, Specify* (except diabetes); 12=ENDOCRINE, Thyroid, Adrenal, Pituitary, Other, specify+; 13=SKELETAL, Trauma, Other, specify+; 14=DERMATOLOGICAL, Skin disease; 15=HEREDITARY, Specify+; 16=GYNECOLOGIC, Fibroids, Endometriosis, Herpes, V.D. (female), Other, specify+; 17=SENSORY ORGAN, Eye disease, Ear disease, Other sensory losses or disorders, specify+; 18=SPECIFIC SYMPTOMS NOT ASSOCIATED WITH SPECIFIC DIAGNOSIS, Specify* (ie vague complaints); 19=BREAST, Cystic breast, Other, specify+; 20=CORONARY ARTERY DISEASE, Myocardial infarction; 21=HYPERTENSION; 22=MIGRAINE HEADACHES; 23=DIABETES MELLITUS; 24=PREGNANCY, Induced abortion, Miscarriage; 25=HEALTH MAINTENANCE, Specify+ (ie flu shots, eye glasses, pap and pelvic, routine check-up)","pu297"
+"pu_hospdesc3","Integer","","Recommended","Hospitalization 3: Descriptor","1::4","1=Infection (eg bronchitis is an infection of the respiratory system); 2=Malignancy (The illness is a malignancy to the particular system); 3=Trauma (Broken bone, cut, bruise, burn, miscarriage, abortion); 4=Not applicable (The illness is a condition unto itself);","pu298"
+"pu_hosprea3","Integer","","Recommended","Hospitalization 3: Reason","1::3","1=New condition OR flare up of old condition; 2=Receiving treatment (includes any ongoing treatment, ie chemotherapy, allergy shots, antibiotics); 3=Routine followup (includes such items as visit after completion of medication, office visit following surgery);","pu299"
+"dtmstarthosp3","String","100","Recommended","Date 3rd hospitalization began","","","pu300"
+"dtmendhosp3","Date","","Recommended","Date 3rd hospitalization ended","","","pu301"
+"puillness4","String","250","Recommended","Hospitalization 4: Specific Illness","","",""
+"pu_hospcat4","Integer","","Recommended","Hospitalization 4: Category","1::26","1=IMMUNE DISEASE, Asthma, Allergy, Other, specify+; 2=COLLAGEN DISEASE, Specify+; 3=JOINT DISEASE, Specify+; 4=NEUROLOGIC, Cerebral vascular disease, Meningitis; 5=RESPIRATORY, Emphysema, Bronchitis, Cold, Other, specify+; 6=CARDIOVASCULAR, Specify+ (Does not include hypertension or coronary artery disease); 7=RENAL, Kidney disease, Prostate disease, Herpes, V.D. (male), Other,   specify+; 8=DIGESTIVE SYSTEM, Peptic Ulcer, Bowel disease, Liver disease, Other, specify+; 9=NUTRITIONAL, Specify+; 10=HEMATOLOGIC, Anemia, Other, specify+; 11=METABOLIC, Specify* (except diabetes); 12=ENDOCRINE, Thyroid, Adrenal, Pituitary, Other, specify+; 13=SKELETAL, Trauma, Other, specify+; 14=DERMATOLOGICAL, Skin disease; 15=HEREDITARY, Specify+; 16=GYNECOLOGIC, Fibroids, Endometriosis, Herpes, V.D. (female), Other, specify+; 17=SENSORY ORGAN, Eye disease, Ear disease, Other sensory losses or disorders, specify+; 18=SPECIFIC SYMPTOMS NOT ASSOCIATED WITH SPECIFIC DIAGNOSIS, Specify* (ie vague complaints); 19=BREAST, Cystic breast, Other, specify+; 20=CORONARY ARTERY DISEASE, Myocardial infarction; 21=HYPERTENSION; 22=MIGRAINE HEADACHES; 23=DIABETES MELLITUS; 24=PREGNANCY, Induced abortion, Miscarriage; 25=HEALTH MAINTENANCE, Specify+ (ie flu shots, eye glasses, pap and pelvic, routine check-up)","pu302"
+"pu_hospdesc4","Integer","","Recommended","Hospitalization 4: Descriptor","1::4","1=Infection (eg bronchitis is an infection of the respiratory system); 2=Malignancy (The illness is a malignancy to the particular system); 3=Trauma (Broken bone, cut, bruise, burn, miscarriage, abortion); 4=Not applicable (The illness is a condition unto itself);","pu303"
+"pu_hosprea4","Integer","","Recommended","Hospitalization 4: Reason","1::3","1=New condition OR flare up of old condition; 2=Receiving treatment (includes any ongoing treatment, ie chemotherapy, allergy shots, antibiotics); 3=Routine followup (includes such items as visit after completion of medication, office visit following surgery);","pu304"
+"dtmstarthosp4","String","100","Recommended","Date 4th hospitalization began","","","pu305"
+"dtmendhosp4","Date","","Recommended","Date 4th hospitalization ended","","","pu306"
+"puillness5","String","250","Recommended","Hospitalization 5: Specific Illness","","",""
+"pu_hospcat5","Integer","","Recommended","Hospitalization 5: Category","1::26","1=IMMUNE DISEASE, Asthma, Allergy, Other, specify+; 2=COLLAGEN DISEASE, Specify+; 3=JOINT DISEASE, Specify+; 4=NEUROLOGIC, Cerebral vascular disease, Meningitis; 5=RESPIRATORY, Emphysema, Bronchitis, Cold, Other, specify+; 6=CARDIOVASCULAR, Specify+ (Does not include hypertension or coronary artery disease); 7=RENAL, Kidney disease, Prostate disease, Herpes, V.D. (male), Other,   specify+; 8=DIGESTIVE SYSTEM, Peptic Ulcer, Bowel disease, Liver disease, Other, specify+; 9=NUTRITIONAL, Specify+; 10=HEMATOLOGIC, Anemia, Other, specify+; 11=METABOLIC, Specify* (except diabetes); 12=ENDOCRINE, Thyroid, Adrenal, Pituitary, Other, specify+; 13=SKELETAL, Trauma, Other, specify+; 14=DERMATOLOGICAL, Skin disease; 15=HEREDITARY, Specify+; 16=GYNECOLOGIC, Fibroids, Endometriosis, Herpes, V.D. (female), Other, specify+; 17=SENSORY ORGAN, Eye disease, Ear disease, Other sensory losses or disorders, specify+; 18=SPECIFIC SYMPTOMS NOT ASSOCIATED WITH SPECIFIC DIAGNOSIS, Specify* (ie vague complaints); 19=BREAST, Cystic breast, Other, specify+; 20=CORONARY ARTERY DISEASE, Myocardial infarction; 21=HYPERTENSION; 22=MIGRAINE HEADACHES; 23=DIABETES MELLITUS; 24=PREGNANCY, Induced abortion, Miscarriage; 25=HEALTH MAINTENANCE, Specify+ (ie flu shots, eye glasses, pap and pelvic, routine check-up)","pu307"
+"pu_hospdesc5","Integer","","Recommended","Hospitalization 5: Descriptor","1::4","1=Infection (eg bronchitis is an infection of the respiratory system); 2=Malignancy (The illness is a malignancy to the particular system); 3=Trauma (Broken bone, cut, bruise, burn, miscarriage, abortion); 4=Not applicable (The illness is a condition unto itself);","pu308"
+"pu_hosprea5","Integer","","Recommended","Hospitalization 5: Reason","1::3","1=New condition OR flare up of old condition; 2=Receiving treatment (includes any ongoing treatment, ie chemotherapy, allergy shots, antibiotics); 3=Routine followup (includes such items as visit after completion of medication, office visit following surgery);","pu309"
+"dtmstarthosp5","Date","","Recommended","Date 5th hospitalization began","","","pu310"
+"dtmendhosp5","Date","","Recommended","Date 5th hospitalization ended","","","pu311"
+"pu_outpt","Integer","","Recommended","Subject has seen a physician/nurse in an outpatient setting?","0;1","0=No; 1=Yes",""
+"puoutill1","String","250","Recommended","Outpatient visits 1: Specific Illness","","",""
+"pu_outptcat1","Integer","","Recommended","Outpatient visits 1: Category","1::26","1=IMMUNE DISEASE, Asthma, Allergy, Other, specify+; 2=COLLAGEN DISEASE, Specify+; 3=JOINT DISEASE, Specify+; 4=NEUROLOGIC, Cerebral vascular disease, Meningitis; 5=RESPIRATORY, Emphysema, Bronchitis, Cold, Other, specify+; 6=CARDIOVASCULAR, Specify+ (Does not include hypertension or coronary artery disease); 7=RENAL, Kidney disease, Prostate disease, Herpes, V.D. (male), Other,   specify+; 8=DIGESTIVE SYSTEM, Peptic Ulcer, Bowel disease, Liver disease, Other, specify+; 9=NUTRITIONAL, Specify+; 10=HEMATOLOGIC, Anemia, Other, specify+; 11=METABOLIC, Specify* (except diabetes); 12=ENDOCRINE, Thyroid, Adrenal, Pituitary, Other, specify+; 13=SKELETAL, Trauma, Other, specify+; 14=DERMATOLOGICAL, Skin disease; 15=HEREDITARY, Specify+; 16=GYNECOLOGIC, Fibroids, Endometriosis, Herpes, V.D. (female), Other, specify+; 17=SENSORY ORGAN, Eye disease, Ear disease, Other sensory losses or disorders, specify+; 18=SPECIFIC SYMPTOMS NOT ASSOCIATED WITH SPECIFIC DIAGNOSIS, Specify* (ie vague complaints); 19=BREAST, Cystic breast, Other, specify+; 20=CORONARY ARTERY DISEASE, Myocardial infarction; 21=HYPERTENSION; 22=MIGRAINE HEADACHES; 23=DIABETES MELLITUS; 24=PREGNANCY, Induced abortion, Miscarriage; 25=HEALTH MAINTENANCE, Specify+ (ie flu shots, eye glasses, pap and pelvic, routine check-up)","pu313"
+"pu_outptdesc1","Integer","","Recommended","Outpatient visits 1: Descriptor","1::4","1=Infection (eg bronchitis is an infection of the respiratory system); 2=Malignancy (The illness is a malignancy to the particular system); 3=Trauma (Broken bone, cut, bruise, burn, miscarriage, abortion); 4=Not applicable (The illness is a condition unto itself);","pu314"
+"pu_outptdrea1","Integer","","Recommended","Outpatient visits 1: Reason","1::3","1=New condition OR flare up of old condition; 2=Receiving treatment (includes any ongoing treatment, ie chemotherapy, allergy shots, antibiotics); 3=Routine followup (includes such items as visit after completion of medication, office visit following surgery);","pu315"
+"pu_outptvisno1","Integer","","Recommended","Outpatient visits 1: Number of visits in past 6 months","","","pu316"
+"pu_outptmoyr1","String","30","Recommended","Outpatient visits 1: Month/Year of first contact in last 6 months","","","pu317"
+"puoutill2","String","250","Recommended","Outpatient visits 2: Specific Illness","","",""
+"pu_outptcat2","Integer","","Recommended","Outpatient visits 2: Category","1::26","1=IMMUNE DISEASE, Asthma, Allergy, Other, specify+; 2=COLLAGEN DISEASE, Specify+; 3=JOINT DISEASE, Specify+; 4=NEUROLOGIC, Cerebral vascular disease, Meningitis; 5=RESPIRATORY, Emphysema, Bronchitis, Cold, Other, specify+; 6=CARDIOVASCULAR, Specify+ (Does not include hypertension or coronary artery disease); 7=RENAL, Kidney disease, Prostate disease, Herpes, V.D. (male), Other,   specify+; 8=DIGESTIVE SYSTEM, Peptic Ulcer, Bowel disease, Liver disease, Other, specify+; 9=NUTRITIONAL, Specify+; 10=HEMATOLOGIC, Anemia, Other, specify+; 11=METABOLIC, Specify* (except diabetes); 12=ENDOCRINE, Thyroid, Adrenal, Pituitary, Other, specify+; 13=SKELETAL, Trauma, Other, specify+; 14=DERMATOLOGICAL, Skin disease; 15=HEREDITARY, Specify+; 16=GYNECOLOGIC, Fibroids, Endometriosis, Herpes, V.D. (female), Other, specify+; 17=SENSORY ORGAN, Eye disease, Ear disease, Other sensory losses or disorders, specify+; 18=SPECIFIC SYMPTOMS NOT ASSOCIATED WITH SPECIFIC DIAGNOSIS, Specify* (ie vague complaints); 19=BREAST, Cystic breast, Other, specify+; 20=CORONARY ARTERY DISEASE, Myocardial infarction; 21=HYPERTENSION; 22=MIGRAINE HEADACHES; 23=DIABETES MELLITUS; 24=PREGNANCY, Induced abortion, Miscarriage; 25=HEALTH MAINTENANCE, Specify+ (ie flu shots, eye glasses, pap and pelvic, routine check-up)","pu318"
+"pu_outptdesc2","Integer","","Recommended","Outpatient visits 2: Descriptor","1::4","1=Infection (eg bronchitis is an infection of the respiratory system); 2=Malignancy (The illness is a malignancy to the particular system); 3=Trauma (Broken bone, cut, bruise, burn, miscarriage, abortion); 4=Not applicable (The illness is a condition unto itself);","pu319"
+"pu_outptdrea2","Integer","","Recommended","Outpatient visits 2: Reason","1::3","1=New condition OR flare up of old condition; 2=Receiving treatment (includes any ongoing treatment, ie chemotherapy, allergy shots, antibiotics); 3=Routine followup (includes such items as visit after completion of medication, office visit following surgery);","pu320"
+"pu_outptvisno2","Integer","","Recommended","Outpatient visits 2: Number of visits in past 6 months","","","pu321"
+"pu_outptmoyr2","String","30","Recommended","Outpatient visits 2: Month/Year of first contact in last 6 months","","","pu322"
+"puoutill3","String","250","Recommended","Outpatient visits 3: Specific Illness","","",""
+"pu_outptcat3","Integer","","Recommended","Outpatient visits 3: Category","1::26","1=IMMUNE DISEASE, Asthma, Allergy, Other, specify+; 2=COLLAGEN DISEASE, Specify+; 3=JOINT DISEASE, Specify+; 4=NEUROLOGIC, Cerebral vascular disease, Meningitis; 5=RESPIRATORY, Emphysema, Bronchitis, Cold, Other, specify+; 6=CARDIOVASCULAR, Specify+ (Does not include hypertension or coronary artery disease); 7=RENAL, Kidney disease, Prostate disease, Herpes, V.D. (male), Other,   specify+; 8=DIGESTIVE SYSTEM, Peptic Ulcer, Bowel disease, Liver disease, Other, specify+; 9=NUTRITIONAL, Specify+; 10=HEMATOLOGIC, Anemia, Other, specify+; 11=METABOLIC, Specify* (except diabetes); 12=ENDOCRINE, Thyroid, Adrenal, Pituitary, Other, specify+; 13=SKELETAL, Trauma, Other, specify+; 14=DERMATOLOGICAL, Skin disease; 15=HEREDITARY, Specify+; 16=GYNECOLOGIC, Fibroids, Endometriosis, Herpes, V.D. (female), Other, specify+; 17=SENSORY ORGAN, Eye disease, Ear disease, Other sensory losses or disorders, specify+; 18=SPECIFIC SYMPTOMS NOT ASSOCIATED WITH SPECIFIC DIAGNOSIS, Specify* (ie vague complaints); 19=BREAST, Cystic breast, Other, specify+; 20=CORONARY ARTERY DISEASE, Myocardial infarction; 21=HYPERTENSION; 22=MIGRAINE HEADACHES; 23=DIABETES MELLITUS; 24=PREGNANCY, Induced abortion, Miscarriage; 25=HEALTH MAINTENANCE, Specify+ (ie flu shots, eye glasses, pap and pelvic, routine check-up)","pu323"
+"pu_outptdesc3","Integer","","Recommended","Outpatient visits 3: Descriptor","1::4","1=Infection (eg bronchitis is an infection of the respiratory system); 2=Malignancy (The illness is a malignancy to the particular system); 3=Trauma (Broken bone, cut, bruise, burn, miscarriage, abortion); 4=Not applicable (The illness is a condition unto itself);","pu324"
+"pu_outptdrea3","Integer","","Recommended","Outpatient visits 3: Reason","1::3","1=New condition OR flare up of old condition; 2=Receiving treatment (includes any ongoing treatment, ie chemotherapy, allergy shots, antibiotics); 3=Routine followup (includes such items as visit after completion of medication, office visit following surgery);","pu325"
+"pu_outptvisno3","Integer","","Recommended","Outpatient visits 3: Number of visits in past 6 months","","","pu326"
+"pu_outptmoyr3","String","30","Recommended","Outpatient visits 3: Month/Year of first contact in last 6 months","","","pu327"
+"puoutill4","String","250","Recommended","Outpatient visits 4: Specific Illness","","",""
+"pu_outptcat4","Integer","","Recommended","Outpatient visits 4: Category","1::26","1=IMMUNE DISEASE, Asthma, Allergy, Other, specify+; 2=COLLAGEN DISEASE, Specify+; 3=JOINT DISEASE, Specify+; 4=NEUROLOGIC, Cerebral vascular disease, Meningitis; 5=RESPIRATORY, Emphysema, Bronchitis, Cold, Other, specify+; 6=CARDIOVASCULAR, Specify+ (Does not include hypertension or coronary artery disease); 7=RENAL, Kidney disease, Prostate disease, Herpes, V.D. (male), Other,   specify+; 8=DIGESTIVE SYSTEM, Peptic Ulcer, Bowel disease, Liver disease, Other, specify+; 9=NUTRITIONAL, Specify+; 10=HEMATOLOGIC, Anemia, Other, specify+; 11=METABOLIC, Specify* (except diabetes); 12=ENDOCRINE, Thyroid, Adrenal, Pituitary, Other, specify+; 13=SKELETAL, Trauma, Other, specify+; 14=DERMATOLOGICAL, Skin disease; 15=HEREDITARY, Specify+; 16=GYNECOLOGIC, Fibroids, Endometriosis, Herpes, V.D. (female), Other, specify+; 17=SENSORY ORGAN, Eye disease, Ear disease, Other sensory losses or disorders, specify+; 18=SPECIFIC SYMPTOMS NOT ASSOCIATED WITH SPECIFIC DIAGNOSIS, Specify* (ie vague complaints); 19=BREAST, Cystic breast, Other, specify+; 20=CORONARY ARTERY DISEASE, Myocardial infarction; 21=HYPERTENSION; 22=MIGRAINE HEADACHES; 23=DIABETES MELLITUS; 24=PREGNANCY, Induced abortion, Miscarriage; 25=HEALTH MAINTENANCE, Specify+ (ie flu shots, eye glasses, pap and pelvic, routine check-up)","pu328"
+"pu_outptdesc4","Integer","","Recommended","Outpatient visits 4: Descriptor","1::4","1=Infection (eg bronchitis is an infection of the respiratory system); 2=Malignancy (The illness is a malignancy to the particular system); 3=Trauma (Broken bone, cut, bruise, burn, miscarriage, abortion); 4=Not applicable (The illness is a condition unto itself);","pu329"
+"pu_outptdrea4","Integer","","Recommended","Outpatient visits 4: Reason","1::3","1=New condition OR flare up of old condition; 2=Receiving treatment (includes any ongoing treatment, ie chemotherapy, allergy shots, antibiotics); 3=Routine followup (includes such items as visit after completion of medication, office visit following surgery);","pu330"
+"pu_outptvisno4","Integer","","Recommended","Outpatient visits 4: Number of visits in past 6 months","","","pu331"
+"pu_outptmoyr4","String","30","Recommended","Outpatient visits 4: Month/Year of first contact in last 6 months","","","pu332"
+"puoutill5","String","250","Recommended","Outpatient visits 5: Specific Illness","","",""
+"pu_outptcat5","Integer","","Recommended","Outpatient visits 5: Category","1::26","1=IMMUNE DISEASE, Asthma, Allergy, Other, specify+; 2=COLLAGEN DISEASE, Specify+; 3=JOINT DISEASE, Specify+; 4=NEUROLOGIC, Cerebral vascular disease, Meningitis; 5=RESPIRATORY, Emphysema, Bronchitis, Cold, Other, specify+; 6=CARDIOVASCULAR, Specify+ (Does not include hypertension or coronary artery disease); 7=RENAL, Kidney disease, Prostate disease, Herpes, V.D. (male), Other,   specify+; 8=DIGESTIVE SYSTEM, Peptic Ulcer, Bowel disease, Liver disease, Other, specify+; 9=NUTRITIONAL, Specify+; 10=HEMATOLOGIC, Anemia, Other, specify+; 11=METABOLIC, Specify* (except diabetes); 12=ENDOCRINE, Thyroid, Adrenal, Pituitary, Other, specify+; 13=SKELETAL, Trauma, Other, specify+; 14=DERMATOLOGICAL, Skin disease; 15=HEREDITARY, Specify+; 16=GYNECOLOGIC, Fibroids, Endometriosis, Herpes, V.D. (female), Other, specify+; 17=SENSORY ORGAN, Eye disease, Ear disease, Other sensory losses or disorders, specify+; 18=SPECIFIC SYMPTOMS NOT ASSOCIATED WITH SPECIFIC DIAGNOSIS, Specify* (ie vague complaints); 19=BREAST, Cystic breast, Other, specify+; 20=CORONARY ARTERY DISEASE, Myocardial infarction; 21=HYPERTENSION; 22=MIGRAINE HEADACHES; 23=DIABETES MELLITUS; 24=PREGNANCY, Induced abortion, Miscarriage; 25=HEALTH MAINTENANCE, Specify+ (ie flu shots, eye glasses, pap and pelvic, routine check-up)","pu333"
+"pu_outptdesc5","Integer","","Recommended","Outpatient visits 5: Descriptor","1::4","1=Infection (eg bronchitis is an infection of the respiratory system); 2=Malignancy (The illness is a malignancy to the particular system); 3=Trauma (Broken bone, cut, bruise, burn, miscarriage, abortion); 4=Not applicable (The illness is a condition unto itself);","pu334"
+"pu_outptdrea5","Integer","","Recommended","Outpatient visits 5: Reason","1::3","1=New condition OR flare up of old condition; 2=Receiving treatment (includes any ongoing treatment, ie chemotherapy, allergy shots, antibiotics); 3=Routine followup (includes such items as visit after completion of medication, office visit following surgery);","pu335"
+"pu_outptvisno5","Integer","","Recommended","Outpatient visits 5: Number of visits in past 6 months","","","pu336"
+"pu_outptmoyr5","String","30","Recommended","Outpatient visits 5: Month/Year of first contact in last 6 months","","","pu337"
+"puoutill6","String","250","Recommended","Outpatient visits 6: Specific Illness","","",""
+"pu_outptcat6","Integer","","Recommended","Outpatient visits 6: Category","1::26","1=IMMUNE DISEASE, Asthma, Allergy, Other, specify+; 2=COLLAGEN DISEASE, Specify+; 3=JOINT DISEASE, Specify+; 4=NEUROLOGIC, Cerebral vascular disease, Meningitis; 5=RESPIRATORY, Emphysema, Bronchitis, Cold, Other, specify+; 6=CARDIOVASCULAR, Specify+ (Does not include hypertension or coronary artery disease); 7=RENAL, Kidney disease, Prostate disease, Herpes, V.D. (male), Other,   specify+; 8=DIGESTIVE SYSTEM, Peptic Ulcer, Bowel disease, Liver disease, Other, specify+; 9=NUTRITIONAL, Specify+; 10=HEMATOLOGIC, Anemia, Other, specify+; 11=METABOLIC, Specify* (except diabetes); 12=ENDOCRINE, Thyroid, Adrenal, Pituitary, Other, specify+; 13=SKELETAL, Trauma, Other, specify+; 14=DERMATOLOGICAL, Skin disease; 15=HEREDITARY, Specify+; 16=GYNECOLOGIC, Fibroids, Endometriosis, Herpes, V.D. (female), Other, specify+; 17=SENSORY ORGAN, Eye disease, Ear disease, Other sensory losses or disorders, specify+; 18=SPECIFIC SYMPTOMS NOT ASSOCIATED WITH SPECIFIC DIAGNOSIS, Specify* (ie vague complaints); 19=BREAST, Cystic breast, Other, specify+; 20=CORONARY ARTERY DISEASE, Myocardial infarction; 21=HYPERTENSION; 22=MIGRAINE HEADACHES; 23=DIABETES MELLITUS; 24=PREGNANCY, Induced abortion, Miscarriage; 25=HEALTH MAINTENANCE, Specify+ (ie flu shots, eye glasses, pap and pelvic, routine check-up)","pu338"
+"pu_outptdesc6","Integer","","Recommended","Outpatient visits 6: Descriptor","1::4","1=Infection (eg bronchitis is an infection of the respiratory system); 2=Malignancy (The illness is a malignancy to the particular system); 3=Trauma (Broken bone, cut, bruise, burn, miscarriage, abortion); 4=Not applicable (The illness is a condition unto itself);","pu339"
+"pu_outptdrea6","Integer","","Recommended","Outpatient visits 6: Reason","1::3","1=New condition OR flare up of old condition; 2=Receiving treatment (includes any ongoing treatment, ie chemotherapy, allergy shots, antibiotics); 3=Routine followup (includes such items as visit after completion of medication, office visit following surgery);","pu340"
+"pu_outptvisno6","Integer","","Recommended","Outpatient visits 6: Number of visits in past 6 months","","","pu341"
+"pu_outptmoyr6","String","30","Recommended","Outpatient visits 6: Month/Year of first contact in last 6 months","","","pu342"
+"puoutill7","String","250","Recommended","Outpatient visits 7: Specific Illness","","",""
+"pu_outptcat7","Integer","","Recommended","Outpatient visits 7: Category","1::26","1=IMMUNE DISEASE, Asthma, Allergy, Other, specify+; 2=COLLAGEN DISEASE, Specify+; 3=JOINT DISEASE, Specify+; 4=NEUROLOGIC, Cerebral vascular disease, Meningitis; 5=RESPIRATORY, Emphysema, Bronchitis, Cold, Other, specify+; 6=CARDIOVASCULAR, Specify+ (Does not include hypertension or coronary artery disease); 7=RENAL, Kidney disease, Prostate disease, Herpes, V.D. (male), Other,   specify+; 8=DIGESTIVE SYSTEM, Peptic Ulcer, Bowel disease, Liver disease, Other, specify+; 9=NUTRITIONAL, Specify+; 10=HEMATOLOGIC, Anemia, Other, specify+; 11=METABOLIC, Specify* (except diabetes); 12=ENDOCRINE, Thyroid, Adrenal, Pituitary, Other, specify+; 13=SKELETAL, Trauma, Other, specify+; 14=DERMATOLOGICAL, Skin disease; 15=HEREDITARY, Specify+; 16=GYNECOLOGIC, Fibroids, Endometriosis, Herpes, V.D. (female), Other, specify+; 17=SENSORY ORGAN, Eye disease, Ear disease, Other sensory losses or disorders, specify+; 18=SPECIFIC SYMPTOMS NOT ASSOCIATED WITH SPECIFIC DIAGNOSIS, Specify* (ie vague complaints); 19=BREAST, Cystic breast, Other, specify+; 20=CORONARY ARTERY DISEASE, Myocardial infarction; 21=HYPERTENSION; 22=MIGRAINE HEADACHES; 23=DIABETES MELLITUS; 24=PREGNANCY, Induced abortion, Miscarriage; 25=HEALTH MAINTENANCE, Specify+ (ie flu shots, eye glasses, pap and pelvic, routine check-up)","pu343"
+"pu_outptdesc7","Integer","","Recommended","Outpatient visits 7: Descriptor","1::4","1=Infection (eg bronchitis is an infection of the respiratory system); 2=Malignancy (The illness is a malignancy to the particular system); 3=Trauma (Broken bone, cut, bruise, burn, miscarriage, abortion); 4=Not applicable (The illness is a condition unto itself);","pu344"
+"pu_outptdrea7","Integer","","Recommended","Outpatient visits 7: Reason","1::3","1=New condition OR flare up of old condition; 2=Receiving treatment (includes any ongoing treatment, ie chemotherapy, allergy shots, antibiotics); 3=Routine followup (includes such items as visit after completion of medication, office visit following surgery);","pu345"
+"pu_outptvisno7","Integer","","Recommended","Outpatient visits 7: Number of visits in past 6 months","","","pu346"
+"pu_outptmoyr7","String","30","Recommended","Outpatient visits 7: Month/Year of first contact in last 6 months","","","pu347"
+"pu_medtrt","Integer","","Recommended","Medication/Treatment (pills, shots, other meds for any of the conditions or reasons listed in the treatment probe list)?","0;1","0=No; 1=Yes; Probe List=High blood pressure, Cancer, Arthritis, Infections, Asthma, Alcoholism, Liver disease, Thyroid problems, Kidney disease, Heart disease, Skin problems, Birth Control, Keeping awake or purposes of stimulation, Menstrual irregularities, Control of Pain, Dieting.","pu348"
+"pu_female","Integer","","Recommended","Is the subject a female?","0;1","0=No; 1=Yes","pu349"
+"pu_menstrcd","Integer","","Recommended","Menstrual status code","0::14","1= Regular cycle (periods occur regularly); 2= Irregular cycles and/or bleeding (eg periods occur irregularly, spotting, heavy or prolonged bleeding); 3= Menopause; 4= Surgery (hysterectomy); 5= Hormone imbalance (weight loss, anorexia, strenuous physical activity, stress, decreased body fat); 6= Pharmacologic suppression...(eg depo; 7= Pregnancy (includes three months post; 8= Other reason for Amenorrhea (specify by notation); 9= Unknown; 0 = Not applicable, patient is male; 10 = Not applicable; child/adolescent has not started menstration; 11 = Amenorrheic due to bilateral oophorectomy (ovaries surgically removed); 12 = Amenorrheic due to other surgical procedure -- specify surgery; 13 = 0 to 6 weeks post partum; 14 = More than 6 weeks to 8 months post partum","pu350"
+"pu_hadect","Integer","","Recommended","Has the subject had electroconvulsive therapy during this 6 month period?","0;1","0=No; 1=Yes","pu351"
+"pu_ect1_type","Integer","","Recommended","Electroconvulsive Therapy Course 1: Type","1::3;9","1=Unilateral; 2=Bilateral; 3=Both; 9=Unknown","pu352"
+"pu_ect1_began","Date","","Recommended","Electroconvulsive Therapy Course 1:  Date began","","","pu353"
+"pu_ect1_end","Date","","Recommended","Electroconvulsive Therapy Course 1: Date ended","","","pu354"
+"pu_ect1_notrts","Integer","","Recommended","Electroconvulsive Therapy Course 1: Number of treatments","","","pu355"
+"pu_ect2_type","Integer","","Recommended","Electroconvulsive Therapy Course 2: Type","1::3;9","1=Unilateral; 2=Bilateral; 3=Both; 9=Unknown","pu356"
+"pu_ect2_began","Date","","Recommended","Electroconvulsive Therapy Course 2:  Date began","","","pu357"
+"pu_ect2_end","Date","","Recommended","Electroconvulsive Therapy Course 2: Date ended","","","pu358"
+"pu_ect2_notrts","Integer","","Recommended","Electroconvulsive Therapy Course 2: Number of treatments","","","pu359"
+"pu_ect3_type","Integer","","Recommended","Electroconvulsive Therapy Course 3: Type","1::3;9","1=Unilateral; 2=Bilateral; 3=Both; 9=Unknown","pu360"
+"pu_ect3_began","Date","","Recommended","Electroconvulsive Therapy Course 3:  Date began","","","pu361"
+"pu_ect3_end","Date","","Recommended","Electroconvulsive Therapy Course 3: Date ended","","","pu362"
+"pu_ect3_notrts","Integer","","Recommended","Electroconvulsive Therapy Course 3: Number of treatments","","","pu363"
+"pu_ect4_type","Integer","","Recommended","Electroconvulsive Therapy Course 4: Type","1::3;9","1=Unilateral; 2=Bilateral; 3=Both; 9=Unknown","pu364"
+"pu_ect4_began","Date","","Recommended","Electroconvulsive Therapy Course 4:  Date began","","","pu365"
+"pu_ect4_end","Date","","Recommended","Electroconvulsive Therapy Course 4: Date ended","","","pu366"
+"pu_ect4_notrts","Integer","","Recommended","Electroconvulsive Therapy Course 4: Number of treatments","","","pu367"
+"pu_ect5_type","Integer","","Recommended","Electroconvulsive Therapy Course 5: Type","1::3;9","1=Unilateral; 2=Bilateral; 3=Both; 9=Unknown","pu368"
+"pu_ect5_began","Date","","Recommended","Electroconvulsive Therapy Course 5:  Date began","","","pu369"
+"pu_ect5_end","Date","","Recommended","Electroconvulsive Therapy Course 5: Date ended","","","pu370"
+"pu_ect5_notrts","Integer","","Recommended","Electroconvulsive Therapy Course 5: Number of treatments","","","pu371"
+"pu_ect6_type","Integer","","Recommended","Electroconvulsive Therapy Course 6: Type","1::3;9","1=Unilateral; 2=Bilateral; 3=Both; 9=Unknown","pu372"
+"pu_ect6_began","Date","","Recommended","Electroconvulsive Therapy Course 6:  Date began","","","pu373"
+"pu_ect6_end","Date","","Recommended","Electroconvulsive Therapy Course 6: Date ended","","","pu374"
+"pu_ect6_notrts","Integer","","Recommended","Electroconvulsive Therapy Course 6: Number of treatments","","","pu375"
+"pu_ect7_type","Integer","","Recommended","Electroconvulsive Therapy Course 7: Type","1::3;9","1=Unilateral; 2=Bilateral; 3=Both; 9=Unknown","pu376"
+"pu_ect7_began","Date","","Recommended","Electroconvulsive Therapy Course 7:  Date began","","","pu377"
+"pu_ect7_end","Date","","Recommended","Electroconvulsive Therapy Course 7: Date ended","","","pu378"
+"pu_ect7_notrts","Integer","","Recommended","Electroconvulsive Therapy Course 7: Number of treatments","","","pu379"
+"pu_thpy","Integer","","Recommended","Therapy?","0;1","0=No; 1=Yes","pu380"
+"pu_thpy_contacts","Integer","","Recommended","Number of contacts","","",""
+"pu_thpy_len","Integer","","Recommended","Length of session","1::3","1=Less than 15 minutes; 2=15-30 minutes; 3=Greater than 30 minutes",""
+"pu_thpy_indiv","Integer","","Recommended","Individual therapy","0;1","0=No; 1=Yes",""
+"pu_thpy_grp","Integer","","Recommended","Group therapy","0;1","0=No; 1=Yes",""
+"pu_thpy_cpls","Integer","","Recommended","Couples therapy","0;1","0=No; 1=Yes",""
+"pu_thpy_fam","Integer","","Recommended","Family therapy","0;1","0=No; 1=Yes",""
+"pu_thpy_oth","Integer","","Recommended","Other therapy","0;1","0=No; 1=Yes",""
+"pu_thpy_mode1","Integer","","Recommended","Mode 1","1::4;9","1=Somatic (almost completely medication oriented); 2=Talk (supportive counseling, problem solving therapty, etc. where focus is not medication); 3= Behavioral; 4=Other; 9=Unknown",""
+"pu_thpy_mode2","Integer","","Recommended","Mode 2","1::4;9","1=Somatic (almost completely medication oriented); 2=Talk (supportive counseling, problem solving therapty, etc. where focus is not medication); 3= Behavioral; 4=Other; 9=Unknown",""
+"psych_p70","Integer","","Recommended","Subject's judgement of somatic treatment","0::4","0=Not applicable; 1=Very much; 2=Somewhat; 3=Not helpful; 4=Worse","pu445"
+"psych_p71","Integer","","Recommended","Subject's judgement ofelectroconvulsive therapytreatment","0::4","0=Not applicable; 1=Very much; 2=Somewhat; 3=Not helpful; 4=Worse","pu446"
+"psych_p72","Integer","","Recommended","Subject's judgement of non somatic treatment","0::4","0=Not applicable; 1=Very much; 2=Somewhat; 3=Not helpful; 4=Worse","pu447"
+"psych_p73","Integer","","Recommended","Subject's judgement of overall treatment","0::4","0=Not applicable; 1=Very much; 2=Somewhat; 3=Not helpful; 4=Worse","pu448"
+"psych_p74","Integer","","Recommended","Rater's estimate of psychiatric medication compliance","1::6","1=Excellent; 2=Good; 3=Fair; 4=Poor; 5=Non compliant; 6=Mixed","pu449"
+"pu_numdrugs","Integer","","Recommended","Number of drugs this timepoint","","","pu450"
+"medication1_name","String","500","Recommended","Name first medication that the participant has taken","","0 = No medication; 999= Legitimately skipped","pu451"
+"medication1_dosage","String","150","Recommended","First medication dosage","","0 = No medication; 999 = Missing","pu452"
+"medication1_route","Integer","","Recommended","Route medication 1","1::4","1=Oral; 2=IV; 3=IM; 4=Other","pu453"
+"medication_start","Date","","Recommended","Start date of medication","","","pu454"
+"medication_stop","Date","","Recommended","Stop date of medication","","","pu455"
+"medication1_change","Integer","","Recommended","Change medication 1","1::4","1=No change; 2=Changed but no recall; 3=Increased; 4=Decreased","pu456"
+"medication2_name","String","500","Recommended","Name second medication that the participant has taken","","0 = No medication; 999= Legitimately skipped","pu457"
+"medication2_dosage","String","100","Recommended","Second medication dosage","","0 = No medication; 999 = Missing","pu458"
+"medication2_route","Integer","","Recommended","Route medication 2","1::4","1=Oral; 2=IV; 3=IM; 4=Other","pu459"
+"medication2_start","Date","","Recommended","Medication 2 start","","","pu460"
+"medication2_stop","Date","","Recommended","Medication 2 stop","","","pu461"
+"medication2_change","Integer","","Recommended","Change medication 2","1::4","1=No change; 2=Changed but no recall; 3=Increased; 4=Decreased","pu462"
+"medication3_name","String","500","Recommended","Name third medication that the participant has taken","","0 = No medication; 999= Legitimately skipped","pu463"
+"medication3_dosage","String","100","Recommended","Third medication dosage","","0 = No medication; 999 = Missing","pu464"
+"medication3_route","Integer","","Recommended","Route medication 3","1::4","1=Oral; 2=IV; 3=IM; 4=Other","pu465"
+"medication3_start","Date","","Recommended","Medication 3 start","","","pu466"
+"medication3_stop","Date","","Recommended","Medication 3 stop","","","pu467"
+"medication3_change","Integer","","Recommended","Change medication 3","1::4","1=No change; 2=Changed but no recall; 3=Increased; 4=Decreased","pu468"
+"medication4_name","String","500","Recommended","Name fourth medication that the participant has taken","","0 = No medication; 999= Legitimately skipped","pu469"
+"medication4_dosage","String","100","Recommended","Fourth  medication dosage","","0 = No medication; 999 = Missing","pu470"
+"medication4_route","Integer","","Recommended","Route medication 4","1::4","1=Oral; 2=IV; 3=IM; 4=Other","pu471"
+"medication4_start","Date","","Recommended","Medication 4 start","","","pu472"
+"medication4_stop","Date","","Recommended","Medication 4 stop","","","pu473"
+"medication4_change","Integer","","Recommended","Change medication 4","1::4","1=No change; 2=Changed but no recall; 3=Increased; 4=Decreased","pu474"
+"medication5_name","String","500","Recommended","Name fifth medication that the participant has taken","","0 = No medication; 999= Legitimately skipped","pu475"
+"medication5_dosage","String","100","Recommended","Fifth medication dosage","","0 = No medication; 999 = Missing","pu476"
+"medication5_route","Integer","","Recommended","Route medication 5","1::4","1=Oral; 2=IV; 3=IM; 4=Other","pu477"
+"medication5_start","Date","","Recommended","Medication 5 start","","","pu478"
+"medication5_stop","Date","","Recommended","Medication 5 stop","","","pu479"
+"medication5_change","Integer","","Recommended","Change medication 5","1::4","1=No change; 2=Changed but no recall; 3=Increased; 4=Decreased","pu480"
+"medication6_name","String","500","Recommended","Name sixth medication that the participant has taken","","0 = No medication; 999= Legitimately skipped","pu481"
+"medication6_dosage","String","100","Recommended","Sixth medication dosage","","0 = No medication; 999 = Missing","pu482"
+"medication6_route","Integer","","Recommended","Route medication 6","1::4","1=Oral; 2=IV; 3=IM; 4=Other","pu483"
+"medication6_start","Date","","Recommended","Medication 6 start","","","pu484"
+"medication6_stop","Date","","Recommended","Medication 6 stop","","","pu485"
+"medication6_change","Integer","","Recommended","Change medication 6","1::4","1=No change; 2=Changed but no recall; 3=Increased; 4=Decreased","pu486"
+"pu_schzsym","Integer","","Recommended","Schizophrenic symptoms","0;1","0=No; 1=Yes","pu607"
+"pu_mansym","Integer","","Recommended","Manic symptoms","0;1","0=No; 1=Yes","pu608"
+"pu_depsym","Integer","","Recommended","Depressed symptoms","0;1","0=No; 1=Yes","pu609"
+"pu_anxmood","Integer","","Recommended","Anxious mood","0;1","0=No; 1=Yes","pu610"
+"pu_antsocbeh","Integer","","Recommended","Antisocial behavior","0;1","0=No; 1=Yes","pu611"
+"pu_obscomp","Integer","","Recommended","Obsessive/compulsive behaviors","0;1","0=No; 1=Yes","pu612"
+"pu_alchabus","Integer","","Recommended","Alcohol abuse","0;1","0=No; 1=Yes","pu613"
+"pu_drugabus","Integer","","Recommended","Drug abuse","0;1","0=No; 1=Yes","pu614"
+"p579","Float","","Recommended","Positive Psychotic Syndrome - No. of completed episodes","","","pu615"
+"p580","Float","","Recommended","Positive Psychotic Syndrome - Duration of completed episodes (weeks)","","","pu616"
+"p581","Integer","","Recommended","Positive Psychotic Syndrome - Currently in episode?","0;1","0=No; 1=Yes","pu617"
+"p582","Float","","Recommended","Positive Psychotic Syndrome - Duration of current episode (weeks)","","","pu618"
+"p583","Float","","Recommended","Manic Syndrome - No. of completed episodes","","","pu619"
+"p584","Float","","Recommended","Manic Syndrome - Duration of completed episodes (weeks)","","","pu620"
+"p585","Integer","","Recommended","Manic Syndrome - Currently in episode?","0;1","0=No; 1=Yes","pu621"
+"p586","Float","","Recommended","Manic Syndrome - Duration of current episode (weeks)","","","pu622"
+"p587","Float","","Recommended","Depressed Syndrome - No. of completed episodes","","","pu623"
+"p588","Float","","Recommended","Depressed Syndrome - Duration of completed episodes (weeks)","","","pu624"
+"p589","Integer","","Recommended","Depressed Syndrome - Currently in episode?","0;1","0=No; 1=Yes","pu625"
+"p590","Float","","Recommended","Depressed Syndrome - Duration of current episode (weeks)","","","pu626"
+"p591","Float","","Recommended","Alcohol Abuse - No. of completed episodes","","","pu627"
+"p592","Float","","Recommended","Alcohol Abuse - Duration of completed episodes (weeks)","","","pu628"
+"p593","Integer","","Recommended","Alcohol Abuse - Currently in episode?","0;1","0=No; 1=Yes","pu629"
+"p594","Float","","Recommended","Alcohol Abuse - Duration of current episode (weeks)","","","pu630"
+"p595","Float","","Recommended","Drug Abuse - No. of completed episodes","","","pu631"
+"p596","Float","","Recommended","Drug Abuse - Duration of completed episodes (weeks)","","","pu632"
+"p597","Integer","","Recommended","Drug Abuse - Currently in episode?","0;1","0=No; 1=Yes","pu633"
+"p598","Float","","Recommended","Drug Abuse - Duration of current episode (weeks)","","","pu634"
+"pu_fuday1","Date","","Recommended","First day of followup period","","","pu635"
+"pu_fuweek","Date","","Recommended","Date of Follow-up Week","","",""
+"pu_fuweeknum","Integer","","Recommended","Week in Follow-up Period (#1-26).","1::26","",""
+"p_delus","Integer","","Recommended","Positive - delusions","0::5","0=None; 1=Questionable; 2=Mild; 3=Moderate; 4=Marked; 5=Severe","pu714"
+"p_halluc","Integer","","Recommended","Positive - hallucinations","0::5","0=None; 1=Questionable; 2=Mild; 3=Moderate; 4=Marked; 5=Severe",""
+"p_bizbeh","Integer","","Recommended","Positive - bizarre behavior","0::5","0=None; 1=Questionable; 2=Mild; 3=Moderate; 4=Marked; 5=Severe",""
+"p_posthou","Integer","","Recommended","Positive - pos. thought disorder","0::5","0=None; 1=Questionable; 2=Mild; 3=Moderate; 4=Marked; 5=Severe",""
+"p_alog","Integer","","Recommended","Negative - alogia","0::5","0=None; 1=Questionable; 2=Mild; 3=Moderate; 4=Marked; 5=Severe",""
+"p_anhed","Integer","","Recommended","Negative - anhedonia","0::5","0=None; 1=Questionable; 2=Mild; 3=Moderate; 4=Marked; 5=Severe",""
+"p_avoli","Integer","","Recommended","Negative - avolition","0::5","0=None; 1=Questionable; 2=Mild; 3=Moderate; 4=Marked; 5=Severe",""
+"p_afflat","Integer","","Recommended","Negative - affect flattening","0::5","0=None; 1=Questionable; 2=Mild; 3=Moderate; 4=Marked; 5=Severe",""
+"p_atten","Integer","","Recommended","Negative - attention","0::5","0=None; 1=Questionable; 2=Mild; 3=Moderate; 4=Marked; 5=Severe",""
+"p_inapaff","Integer","","Recommended","Negative - inappropriate affect","0::5","0=None; 1=Questionable; 2=Mild; 3=Moderate; 4=Marked; 5=Severe",""
+"p_manmood","Integer","","Recommended","Affective - manic mood","0::5","0=None; 1=Questionable; 2=Mild; 3=Moderate; 4=Marked; 5=Severe",""
+"p_depmood","Integer","","Recommended","Affective - depressed mood","0::5","0=None; 1=Questionable; 2=Mild; 3=Moderate; 4=Marked; 5=Severe",""
+"p_anxmood","Integer","","Recommended","Affective - anxious mood","0::5","0=None; 1=Questionable; 2=Mild; 3=Moderate; 4=Marked; 5=Severe",""
+"p_pospsych","Integer","","Recommended","Syndromes - positive psychotic","0::5","0=None; 1=Questionable; 2=Mild; 3=Moderate; 4=Marked; 5=Severe",""
+"p_negpsych","Integer","","Recommended","Syndromes - negative psychotic","0::5","0=None; 1=Questionable; 2=Mild; 3=Moderate; 4=Marked; 5=Severe",""
+"p_mansynd","Integer","","Recommended","Syndromes - manic syndrome","0::5","0=None; 1=Questionable; 2=Mild; 3=Moderate; 4=Marked; 5=Severe",""
+"p_depsynd","Integer","","Recommended","Syndromes - depressed syndrome","0::5","0=None; 1=Questionable; 2=Mild; 3=Moderate; 4=Marked; 5=Severe",""
+"p_alchuse","Integer","","Recommended","Substance use - alcohol","0::7","0=None; 1=Occasional use; 2=Occasional heavy use; 3=Mild impairment; 4=Moderate impairment; 5=Severe impairment; 6=Outpatient; 7=Inpatient",""
+"p_druguse","Integer","","Recommended","Substance use - drugs","0::7","0=None; 1=Occasional use; 2=Occasional heavy use; 3=Mild impairment; 4=Moderate impairment; 5=Severe impairment; 6=Outpatient; 7=Inpatient",""
+"p_treatstat","Integer","","Recommended","Substance use - treatment status","1::5","1=Inpatient; 2=Outpatient; 3=Day treatment; 4=Nonpatient; 5=Outpatient/day tx",""
+"p_othbehrec","Integer","","Recommended","Are other behaviors recorded below?","0;1","0=No; 1=Yes",""
+"p_antisoc","Integer","","Recommended","Antisocial behavior","0::3","0=None; 1=Mild; 2=Moderate; 3=Severe",""
+"p_obscomp","Integer","","Recommended","Obsessive compulsive behavior","0::3","0=None; 1=Mild; 2=Moderate; 3=Severe",""
+"medication7_name","String","500","Recommended","Name seventh medication that the participant has taken","","0 = No medication; 999= Legitimately skipped",""
+"medication7_dosage","String","100","Recommended","Seventh medication dosage","","0 = No medication; 999 = Missing",""
+"medication7_route","Integer","","Recommended","Route medication 7","1::4","1=Oral; 2=IV; 3=IM; 4=Other",""
+"medication7_start","Date","","Recommended","Medication 7 start","","",""
+"medication7_stop","Date","","Recommended","Medication 7 stop","","",""
+"medication7_change","Integer","","Recommended","Change medication 7","1::4","1=No change; 2=Changed but no recall; 3=Increased; 4=Decreased",""
+"medication8_name","String","500","Recommended","Name eighth medication that the participant has taken","","0 = No medication; 999= Legitimately skipped",""
+"medication8_dosage","String","100","Recommended","Eighth medication dosage","","0 = No medication; 999 = Missing",""
+"medication8_route","Integer","","Recommended","Route medication 8","1::4","1=Oral; 2=IV; 3=IM; 4=Other",""
+"medication8_start","Date","","Recommended","Medication 8 start","","",""
+"medication8_stop","Date","","Recommended","Medication 8 stop","","",""
+"medication8_change","Integer","","Recommended","Change medication 8","1::4","1=No change; 2=Changed but no recall; 3=Increased; 4=Decreased",""
+"medication9_name","String","500","Recommended","Name ninth medication that the participant has taken","","",""
+"medication9_dosage","String","100","Recommended","Ninth medication dosage","","",""
+"medication9_route","Integer","","Recommended","Route medication 9","1::4","1=Oral; 2=IV; 3=IM; 4=Other",""
+"medication9_start","Date","","Recommended","Medication 9 start","","",""
+"medication9_stop","Date","","Recommended","Medication 9 stop","","",""
+"medication9_change","Integer","","Recommended","Change medication 9","1::4","1=No change; 2=Changed but no recall; 3=Increased; 4=Decreased",""
+"medication10_name","String","100","Recommended","Name tenth medication that the participant has taken","","",""
+"medication10_dosage","String","50","Recommended","Tenth medication dosage","","",""
+"medication10_route","Integer","","Recommended","Route medication 10","1::4","1=Oral; 2=IV; 3=IM; 4=Other",""
+"medication10_start","Date","","Recommended","Medication 10 start","","",""
+"medication10_stop","Date","","Recommended","Medication 10 stop","","",""
+"medication10_change","Integer","","Recommended","Change medication 10","1::4","1=No change; 2=Changed but no recall; 3=Increased; 4=Decreased",""
+"medication11_name","String","500","Recommended","Medication 11 name","","",""
+"medication11_dosage","String","100","Recommended","medication 11 dosage","","",""
+"medication11_route","Integer","","Recommended","Route medication 11","1::4","1=Oral; 2=IV; 3=IM; 4=Other",""
+"medication11_start","Date","","Recommended","Medication 11 start","","",""
+"medication11_stop","Date","","Recommended","Medication 11 stop","","",""
+"medication11_change","Integer","","Recommended","Change medication 11","1::4","1=No change; 2=Changed but no recall; 3=Increased; 4=Decreased",""
+"medication12_name","String","500","Recommended","Med name12","","",""
+"medication12_dosage","String","100","Recommended","medication 12 dosage","","",""
+"medication12_route","Integer","","Recommended","Route medication 12","1::4","1=Oral; 2=IV; 3=IM; 4=Other",""
+"medication12_start","Date","","Recommended","Medication 12 start","","",""
+"medication12_stop","Date","","Recommended","Medication 12 stop","","",""
+"medication12_change","Integer","","Recommended","Change medication 12","1::4","1=No change; 2=Changed but no recall; 3=Increased; 4=Decreased",""

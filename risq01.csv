@@ -1,0 +1,573 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"risq_lifetime_1","Integer","","Recommended","How many times TOTAL have you:
+
+Shoplifted things?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_1","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Shoplifted?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_1","Integer","","Recommended","How old were you the first time you:
+
+Shoplifted?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_1","String","5","Recommended","Did shoplifting ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_1","Integer","","Recommended","I shoplift to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_1","Integer","","Recommended","I shoplift to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_2","Integer","","Recommended","How many times TOTAL have you:
+
+Driven 30mph or faster over the speed limit?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_2","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Driven 30mph or faster over the speed limit?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_2","Integer","","Recommended","How old were you the first time you:
+
+Drove 30mph or faster over the speed limit?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_2","String","5","Recommended","Did speeding ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_2","Integer","","Recommended","I speed to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_2","Integer","","Recommended","I speed to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_3","Integer","","Recommended","How many times TOTAL have you:
+
+Bet on sports, horses or other animals?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_3","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Bet on sports, horses or other animals?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_3","Integer","","Recommended","How old were you the first time you:
+
+Bet on sports, horses or other animals?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_3","String","5","Recommended","Did gambling ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_3","Integer","","Recommended","I gamble to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_3","Integer","","Recommended","I gamble to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_4","Integer","","Recommended","How many times TOTAL have you:
+
+Used cocaine or crack?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_4","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Used cocaine or crack?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_4","Integer","","Recommended","How old were you the first time you:
+Used cocaine or crack?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_4","String","5","Recommended","Did cocaine/crack ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_4","Integer","","Recommended","I use cocaine/crack to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_4","Integer","","Recommended","I use cocaine/crack to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_5","Integer","","Recommended","How many times TOTAL have you:
+
+Bought drugs?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_5","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Bought drugs?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_5","Integer","","Recommended","How old were you the first time you:
+Bought drugs?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_5","String","5","Recommended","Did buying drugs ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_5","Integer","","Recommended","I buy drugs to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_5","Integer","","Recommended","I buy drugs to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_6","Integer","","Recommended","How many times TOTAL have you:
+
+Impulsively bought stuff you did not need & won't use?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_6","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Impulsively bought stuff you did not need & won't use?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_6","Integer","","Recommended","How old were you the first time you:
+Impulsively bought stuff you did not need & won't use?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_6","String","5","Recommended","Did impulsive purchases ever cause you any problems, like
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_6","Integer","","Recommended","I buy things impulsively to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_6","Integer","","Recommended","I buy things impulsively to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_7","Integer","","Recommended","How many times TOTAL have you:
+
+Had unprotected sex with someone you just met or didn't know well?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_7","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Had unprotected sex with someone you just met or didn't know well?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_7","Integer","","Recommended","How old were you the first time you:
+Had unprotected sex with someone you just met or didn't know well?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_7","String","5","Recommended","Did unprotected sex ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_7","Integer","","Recommended","I have unprotected sex to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_7","Integer","","Recommended","I have unprotected sex to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_8","Integer","","Recommended","How many times TOTAL have you:
+
+Gotten in a physical fight?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_8","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Gotten in a physical fight?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_8","Integer","","Recommended","How old were you the first time you:
+Got in a physical fight?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_8","String","5","Recommended","Did physical fights ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_8","Integer","","Recommended","I get in physical fights to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_8","Integer","","Recommended","I get in physical fights to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_9","Integer","","Recommended","How many times TOTAL have you:
+
+Thought about killing yourself?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_9","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Thought about killing yourself?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_9","Integer","","Recommended","How old were you the first time you:
+Thought about killing yourself?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_9","String","5","Recommended","Did thoughts about killing yourself ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_9","Integer","","Recommended","I think about killing myself to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_9","Integer","","Recommended","I think about killing myself to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_10","Integer","","Recommended","How many times TOTAL have you:
+
+Had sex for money or drugs?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_10","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Had sex for money or drugs?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_10","Integer","","Recommended","How old were you the first time you:
+Had sex for money or drugs?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_10","String","5","Recommended","Did having sex for money or drugs ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_10","Integer","","Recommended","I have sex for money or drugs to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_10","Integer","","Recommended","I have sex for money or drugs to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_11","Integer","","Recommended","How many times TOTAL have you:
+
+Drank alcohol until you blacked or passed out?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_11","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Drank alcohol until you blacked or passed out?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_11","Integer","","Recommended","How old were you the first time you:
+Drank alcohol until you blacked or passed out?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_11","String","5","Recommended","Did binge drinking ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_11","Integer","","Recommended","I drink until I black or pass out to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_11","Integer","","Recommended","I drink until I black or pass out to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_12","Integer","","Recommended","How many times TOTAL have you:
+
+Used hallucinogens, LSD, or mushrooms?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_12","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Used hallucinogens, LSD, or mushrooms?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_12","Integer","","Recommended","How old were you the first time you:
+Used hallucinogens, LSD, or mushrooms?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_12","String","5","Recommended","Did using hallucinogens ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_12","Integer","","Recommended","I use hallucinogens to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_12","Integer","","Recommended","I use hallucinogens to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_13","Integer","","Recommended","How many times TOTAL have you:
+
+Gone to work intoxicated or high?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_13","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Gone to work intoxicated or high?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_13","Integer","","Recommended","How old were you the first time you:
+Went to work intoxicated or high?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_13","String","5","Recommended","Did going to work intoxicated or high ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_13","Integer","","Recommended","I go to work intoxicated or high to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_13","Integer","","Recommended","I go to work intoxicated or high to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_14","Integer","","Recommended","How many times TOTAL have you:
+
+Attacked someone with a weapon, such as a knife or gun?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_14","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Attacked someone with a weapon?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_14","Integer","","Recommended","How old were you the first time you:
+Attacked someone with a weapon?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_14","String","5","Recommended","Did attacking someone with a weapon ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_14","Integer","","Recommended","I attack people with weapons to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_14","Integer","","Recommended","I attack people with weapons to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_15","Integer","","Recommended","How many times TOTAL have you:
+
+Punched or hit someone with a fist or object?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_15","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Punched or hit someone with a fist or object?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_15","Integer","","Recommended","How old were you the first time you:
+Punched or hit someone?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_15","String","5","Recommended","Did punching or hitting someone ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_15","Integer","","Recommended","I punch or hit people to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_15","Integer","","Recommended","I punch or hit people to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_16","Integer","","Recommended","How many times TOTAL have you:
+
+Cut, burned, or hurt yourself on purpose without trying to die?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_16","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Cut, burned, or hurt yourself on purpose without trying to die?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_16","Integer","","Recommended","How old were you the first time you:
+Cut, burned, or hurt yourself on purpose without trying to die?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_16","String","5","Recommended","Did hurting yourself ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_16","Integer","","Recommended","I hurt myself to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_16","Integer","","Recommended","I hurt myself to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_17","Integer","","Recommended","How many times TOTAL have you:
+
+Lost more money than you could afford gambling?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_17","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Lost more money than you could afford gambling?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_17","Integer","","Recommended","How old were you the first time you:
+Lost more money than you could afford gambling?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_17","String","5","Recommended","Did losing more money than you could afford ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_17","Integer","","Recommended","I gamble more money than I can afford to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_17","Integer","","Recommended","I gamble more money than I can afford to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_18","Integer","","Recommended","How many times TOTAL have you:
+
+Threatened to physically hurt someone?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_18","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Threatened to physically hurt someone?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_18","Integer","","Recommended","How old were you the first time you:
+Threatened to physically hurt someone?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_18","String","5","Recommended","Did threatening to physically hurt someone ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_18","Integer","","Recommended","I threaten to physically hurt people to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_18","Integer","","Recommended","I threaten to physically hurt people to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_19","Integer","","Recommended","How many times TOTAL have you:
+
+Threatened someone with a weapon, like a knife or gun?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_19","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Threatened someone with a weapon, like a knife or gun?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_19","Integer","","Recommended","How old were you the first time you:
+Threatened someone with a weapon?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_19","String","5","Recommended","Did threatening someone with a weapon ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_19","Integer","","Recommended","I threaten people with weapons to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_19","Integer","","Recommended","I threaten people with weapons to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_20","Integer","","Recommended","How many times TOTAL have you:
+
+Used heroin?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_20","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Used heroin?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_20","Integer","","Recommended","How old were you the first time you:
+Used heroin?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_20","String","5","Recommended","Did using heroin ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_20","Integer","","Recommended","I use heroin to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_20","Integer","","Recommended","I use heroin to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_21","Integer","","Recommended","How many times TOTAL have you:
+
+Destroyed or vandalized property?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_21","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Destroyed or vandalized property?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_21","Integer","","Recommended","How old were you the first time you:
+Destroyed or vandalized property?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_21","String","5","Recommended","Did destroying property ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_21","Integer","","Recommended","I destroy property/ vandalize to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_21","Integer","","Recommended","I destroy property/ vandalize to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_22","Integer","","Recommended","How many times TOTAL have you:
+
+Drank 5+ alcoholic drinks in 3 hours or less?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_22","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Drank 5+ alcoholic drinks in 3 hours or less?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_22","Integer","","Recommended","How old were you the first time you:
+Drank 5+ alcoholic drinks in 3 hours or less?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_22","String","5","Recommended","Did binge drinking  ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_22","Integer","","Recommended","I binge drink to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_22","Integer","","Recommended","I binge drink to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_23","Integer","","Recommended","How many times TOTAL have you:
+
+Paid for sex?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_23","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Paid for sex?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_23","Integer","","Recommended","How old were you the first time you:
+Paid for sex?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_23","String","5","Recommended","Did paying for sex ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_23","Integer","","Recommended","I pay for sex to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_23","Integer","","Recommended","I pay for sex to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_24","Integer","","Recommended","How many times TOTAL have you:
+
+Sold drugs?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_24","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Sold drugs?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_24","Integer","","Recommended","How old were you the first time you:
+Sold drugs?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_24","String","5","Recommended","Did selling drugs ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_24","Integer","","Recommended","I sell drugs to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_24","Integer","","Recommended","I sell drugs to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_25","Integer","","Recommended","How many times TOTAL have you:
+
+Robbed someone?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_25","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Robbed someone?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_25","Integer","","Recommended","How old were you the first time you:
+Robbed someone?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_25","String","5","Recommended","Did robbing someone ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_25","Integer","","Recommended","I rob people to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_25","Integer","","Recommended","I rob people to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_26","Integer","","Recommended","How many times TOTAL have you:
+
+Tried to kill yourself?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_26","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Tried to kill yourself?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_26","Integer","","Recommended","How old were you the first time you:
+Tried to kill yourself?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_26","String","5","Recommended","Did trying to kill yourself ever cause you any problems, like
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_26","Integer","","Recommended","I try to kill myself to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_26","Integer","","Recommended","I try to kill myself to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_27","Integer","","Recommended","How many times TOTAL have you:
+
+Used marijuana?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_27","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Used marijuana?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_27","Integer","","Recommended","How old were you the first time you:
+Used marijuana?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_27","String","5","Recommended","Did using marijuana ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_27","Integer","","Recommended","I use marijuana to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_27","Integer","","Recommended","I use marijuana to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_28","Integer","","Recommended","How many times TOTAL have you:
+
+Had difficulty stopping eating?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_28","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Had difficulty stopping eating?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_28","Integer","","Recommended","How old were you the first time you:
+Had difficulty stopping eating?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_28","String","5","Recommended","Did having difficulty stopping eating ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_28","Integer","","Recommended","I overeat to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_28","Integer","","Recommended","I overeat to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_29","Integer","","Recommended","How many times TOTAL have you:
+
+Been in 2+ sexual relationships at the same time?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_29","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Been in 2+ sexual relationships at the same time?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_29","Integer","","Recommended","How old were you the first time you:
+Were in 2+ sexual relationships at the same time?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_29","String","5","Recommended","Did being in 2+ sexual relationships at the same time ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_29","Integer","","Recommended","I have been in multiple sexual relationships at once to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_29","Integer","","Recommended","I have been in multiple sexual relationships at once to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_30","Integer","","Recommended","How many times TOTAL have you:
+
+Bought expensive items you could not afford on the spur of the moment?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_30","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Bought expensive items you could not afford on the spur of the moment?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_30","Integer","","Recommended","How old were you the first time you:
+Impulsively bought expensive items you could not afford?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_30","String","5","Recommended","Did buying things you can't afford ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_30","Integer","","Recommended","I buy things I can't afford to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_30","Integer","","Recommended","I buy things I can't afford to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_31","Integer","","Recommended","How many times TOTAL have you:
+
+Abused multiple drugs at once?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_31","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Abused multiple drugs at once?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_31","Integer","","Recommended","How old were you the first time you:
+Abused multiple drugs at once?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_31","String","5","Recommended","Did abusing multiple drugs at once ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_31","Integer","","Recommended","I abuse multiple drugs at once to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_31","Integer","","Recommended","I abuse multiple drugs at once to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_32","Integer","","Recommended","How many times TOTAL have you:
+
+Played lotteries, card games for money, or went to the casino?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_32","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Played lotteries, card games for money, or went to the casino?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_32","Integer","","Recommended","How old were you the first time you:
+Played lotteries, card games for money, or went to the casino?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_32","String","5","Recommended","Did playing lotteries, card games, or casino games ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_32","Integer","","Recommended","I play lotteries, card games, and go to the casino to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_32","Integer","","Recommended","I play lotteries, card games, and go to the casino to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_33","Integer","","Recommended","How many times TOTAL have you:
+
+Gambled illegally (example: using a bookie)?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_33","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Gambled illegally (example: using a bookie)?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_33","Integer","","Recommended","How old were you the first time you:
+Gambled illegally?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_33","String","5","Recommended","Did gambling illegally ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_33","Integer","","Recommended","I gamble illegally to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_33","Integer","","Recommended","I gamble illegally to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_34","Integer","","Recommended","How many times TOTAL have you:
+
+Abused prescription medication?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_34","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Abused prescription medication?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_34","Integer","","Recommended","How old were you the first time you:
+Abused prescription medication?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_34","String","5","Recommended","Did abusing prescription medication ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_34","Integer","","Recommended","I abuse prescription medication to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_34","Integer","","Recommended","I abuse prescription medication to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_35","Integer","","Recommended","How many times TOTAL have you:
+
+Ate a lot of food when not hungry?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_35","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Ate a lot of food when not hungry?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_35","Integer","","Recommended","How old were you the first time you:
+Ate a lot of food when not hungry?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_35","String","5","Recommended","Did eating a lot of food when not hungry ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_35","Integer","","Recommended","I eat a lot of food when not hungry to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_35","Integer","","Recommended","I eat a lot of food when not hungry to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_36","Integer","","Recommended","How many times TOTAL have you:
+
+Had a plan to kill yourself?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_36","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Had a plan to kill yourself?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_36","Integer","","Recommended","How old were you the first time you:
+Had a plan to kill yourself?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_36","String","5","Recommended","Did having a plan to kill yourself ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_36","Integer","","Recommended","I make plans to kill myself to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_36","Integer","","Recommended","I make plans to kill myself to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_37","Integer","","Recommended","How many times TOTAL have you:
+
+Intentionally ran red lights or ignored stop signs?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_37","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Intentionally ran red lights or ignored stop signs?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_37","Integer","","Recommended","How old were you the first time you:
+Ran red lights or ignored stop signs?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_37","String","5","Recommended","Did driving dangerously ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_37","Integer","","Recommended","I run red lights or ignore stop signs to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_37","Integer","","Recommended","I run red lights or ignore stop signs to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_lifetime_38","Integer","","Recommended","How many times TOTAL have you:
+
+Stole money?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_month_38","Integer","","Recommended","In the past 30 DAYS, how many times have you:
+
+Stole money?","0::5","0=None; 1=One time; 2=2-10 times; 3=11-50 times; 4=51-100 times; 5=More than 100 times",""
+"risq_age_38","Integer","","Recommended","How old were you the first time you:
+Stole money?","0::2","0=a Child (ages 0-12); 1=an Adolescent (ages 13-18); 2=an Adult (ages 19+)",""
+"risq_problems_38","String","5","Recommended","Did stealing money ever cause you any problems, like:
+
+(Select all that apply)","","1=Going to the hospital; 2=Legal trouble; 3=Problems at work=with family or friends",""
+"risq_avoid_38","Integer","","Recommended","I steal money to stop feeling distressed or overwhelmed.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_approach_38","Integer","","Recommended","I steal money to feel excitement, to get a thrill, or to feel pleasure.","0::4","0=Strongly Disagree; 1=Somewhat Disagree; 2=Equally Disagree/ Agree; 3=Somewhat Agree; 4=Strongly Agree",""
+"risq_fm_lt","Integer","","Recommended","Full Measure - Lifetime Total","","",""
+"risq_fm_pmt","Integer","","Recommended","Full Measure - Past Month Total","","",""
+"risq_fm_ao","Float","","Recommended","Full Measure - Age of Onset Mean","","",""
+"risq_fm_pc","Float","","Recommended","Full Measure - Perceived Consequenses Mean","","",""
+"risq_fm_atapp","Float","","Recommended","Full Measure - Affective Triggers Mean Approach","","",""
+"risq_fm_atav","Float","","Recommended","Full Measure - Affective Triggers Mean Avoidance","","",""
+"risq_db_lt","Integer","","Recommended","Drug Behaviors - Lifetime Total","","",""
+"risq_db_pmt","Integer","","Recommended","Drug Behaviors - Past Month Total","","",""
+"risq_db_ao","Float","","Recommended","Drug Behaviors - Age of Onset Mean","","",""
+"risq_db_pc","Float","","Recommended","Drug Behaviors - Perceived Consequenses Mean","","",""
+"risq_db_atapp","Float","","Recommended","Drug Behaviors - Affective Triggers Mean Approach","","",""
+"risq_db_atav","Float","","Recommended","Drug Behaviors - Affective Triggers Mean Avoidance","","",""
+"risq_agg_lt","Integer","","Recommended","Aggression - Lifetime Total","","",""
+"risq_agg_pmt","Integer","","Recommended","Aggression - Past Month Total","","",""
+"risq_agg_ao","Float","","Recommended","Aggression - Age of Onset Mean","","",""
+"risq_agg_pc","Float","","Recommended","Aggression - Perceived Consequenses Mean","","",""
+"risq_agg_atapp","Float","","Recommended","Aggression - Affective Triggers Mean Approach","","",""
+"risq_agg_atav","Float","","Recommended","Aggression - Affective Triggers Mean Avoidance","","",""
+"risq_gl_lt","Integer","","Recommended","Gambling - Lifetime Total","","",""
+"risq_gl_pmt","Integer","","Recommended","Gambling - Past Month Total","","",""
+"risq_gl_ao","Float","","Recommended","Gambling - Age of Onset Mean","","",""
+"risq_gl_pc","Float","","Recommended","Gambling - Perceived Consequenses Mean","","",""
+"risq_gl_atapp","Float","","Recommended","Gambling - Affective Triggers Mean Approach","","",""
+"risq_gl_atav","Float","","Recommended","Gambling - Affective Triggers Mean Avoidance","","",""
+"risq_rsb_lt","Integer","","Recommended","Risky Sexual Behavior - Lifetime Total","","",""
+"risq_rsb_pmt","Integer","","Recommended","Risky Sexual Behavior - Past Month Total","","",""
+"risq_rsb_ao","Float","","Recommended","Risky Sexual Behavior - Age of Onset Mean","","",""
+"risq_rsb_pc","Float","","Recommended","Risky Sexual Behavior - Perceived Consequenses Mean","","",""
+"risq_rsb_atapp","Float","","Recommended","Risky Sexual Behavior - Affective Triggers Mean Approach","","",""
+"risq_rsb_atav","Float","","Recommended","Risky Sexual Behavior - Affective Triggers Mean Avoidance","","",""
+"risq_hau_lt","Integer","","Recommended","Heavy Alcohol Use - Lifetime Total","","",""
+"risq_hau_pmt","Integer","","Recommended","Heavy Alcohol Use - Past Month Total","","",""
+"risq_hau_ao","Float","","Recommended","Heavy Alcohol Use - Age of Onset Mean","","",""
+"risq_hau_pc","Float","","Recommended","Heavy Alcohol Use - Perceived Consequenses Mean","","",""
+"risq_hau_atapp","Float","","Recommended","Heavy Alcohol Use - Affective Triggers Mean Approach","","",""
+"risq_hau_atav","Float","","Recommended","Heavy Alcohol Use - Affective Triggers Mean Avoidance","","",""
+"risq_sh_lt","Integer","","Recommended","Self-Harm - Lifetime Total","","",""
+"risq_sh_pmt","Integer","","Recommended","Self-Harm - Past Month Total","","",""
+"risq_sh_ao","Float","","Recommended","Self-Harm - Age of Onset Mean","","",""
+"risq_sh_pc","Float","","Recommended","Self-Harm - Perceived Consequenses Mean","","",""
+"risq_sh_atapp","Float","","Recommended","Self-Harm - Affective Triggers Mean Approach","","",""
+"risq_sh_atav","Float","","Recommended","Self-Harm - Affective Triggers Mean Avoidance","","",""
+"risq_ie_lt","Integer","","Recommended","Impulsive Eating - Lifetime Total","","",""
+"risq_ie_pmt","Integer","","Recommended","Impulsive Eating - Past Month Total","","",""
+"risq_ie_ao","Float","","Recommended","Impulsive Eating - Age of Onset Mean","","",""
+"risq_ie_pc","Float","","Recommended","Impulsive Eating - Perceived Consequenses Mean","","",""
+"risq_ie_atapp","Float","","Recommended","Impulsive Eating - Affective Triggers Mean Approach","","",""
+"risq_ie_atav","Float","","Recommended","Impulsive Eating - Affective Triggers Mean Avoidance","","",""
+"risq_rb_lt","Integer","","Recommended","Reckless Behaviors - Lifetime Total","","",""
+"risq_rb_pmt","Integer","","Recommended","Reckless Behaviors - Past Month Total","","",""
+"risq_rb_ao","Float","","Recommended","Reckless Behaviors - Age of Onset Mean","","",""
+"risq_rb_pc","Float","","Recommended","Reckless Behaviors - Perceived Consequenses Mean","","",""
+"risq_rb_atapp","Float","","Recommended","Reckless Behaviors - Affective Triggers Mean Approach","","",""
+"risq_rb_atav","Float","","Recommended","Reckless Behaviors - Affective Triggers Mean Avoidance","","",""
+"risq_ib_lt","Integer","","Recommended","Illegal Behaviors - Lifetime Total","","",""
+"risq_ib_pmt","Integer","","Recommended","Illegal Behaviors - Past Month Total","","",""
+"risq_ib_ao","Float","","Recommended","Illegal Behaviors - Age of Onset Mean","","",""
+"risq_ib_pc","Float","","Recommended","Illegal Behaviors - Perceived Consequenses Mean","","",""
+"risq_ib_atapp","Float","","Recommended","Illegal Behaviors - Affective Triggers Mean Approach","","",""
+"risq_ib_atav","Float","","Recommended","Illegal Behaviors - Affective Triggers Mean Avoidance","","",""
+"comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
+"interview_chrono_age","Integer","","Recommended","Interview Chronological Age","0 :: 1200","",""
+"rbs_friend1","Integer","","Recommended","Please rate on the scale how likely you would be to engage in the following behaviors with your friend, [name of friend] - Drink alcohol","0::100","0 = Not at all likely; 100 = Very likely",""
+"rbs_friend2","Integer","","Recommended","Please rate on the scale how likely you would be to engage in the following behaviors with your friend, [name of friend] - Do recreational drugs","0::100","0 = Not at all likely; 100 = Very likely",""
+"rbs_friend3","Integer","","Recommended","Please rate on the scale how likely you would be to engage in the following behaviors with your friend, [name of friend] - Gamble","0::100","0 = Not at all likely; 100 = Very likely",""
+"rbs_friend4","Integer","","Recommended","Please rate on the scale how likely you would be to engage in the following behaviors with your friend, [name of friend] - Make a high-stakes investment","0::100","0 = Not at all likely; 100 = Very likely",""
+"rbs_stranger1","Integer","","Recommended","Please rate on the scale how likely you would be to engage in the following behaviors with [name of stranger], who you met today - Drink alcohol","0::100","0 = Not at all likely; 100 = Very likely",""
+"rbs_stranger2","Integer","","Recommended","Please rate on the scale how likely you would be to engage in the following behaviors with [name of stranger], who you met today - Do recreational drugs","0::100","0 = Not at all likely; 100 = Very likely",""
+"rbs_stranger3","Integer","","Recommended","Please rate on the scale how likely you would be to engage in the following behaviors with [name of stranger], who you met today - Gamble","0::100","0 = Not at all likely; 100 = Very likely",""
+"rbs_stranger4","Integer","","Recommended","Please rate on the scale how likely you would be to engage in the following behaviors with [name of stranger], who you met today - Make a high-stakes investment","0::100","0 = Not at all likely; 100 = Very likely",""

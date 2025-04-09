@@ -1,0 +1,292 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","","guid"
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"moos_1a","Integer","","Recommended","1.  You Moved to a new residence","0;1","0 = No; 1 = Yes",""
+"moos_1b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_1c","Integer","","Recommended","Some Close to You Moved to a  new residence","0;1","0 = No; 1 = Yes",""
+"moos_1d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_2a","Integer","","Recommended","2.  You Graduated from school/trainig","0;1","0 = No; 1 = Yes",""
+"moos_2b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_2c","Integer","","Recommended","Some Close to You Graduated from school/training","0;1","0 = No; 1 = Yes",""
+"moos_2d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_3a","Integer","","Recommended","3.  You -Lost something of sentimental value","0;1","0 = No; 1 = Yes",""
+"moos_3b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_3c","Integer","","Recommended","Some Close to You Lost something of sentimental value","0;1","0 = No; 1 = Yes",""
+"moos_3d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_4a","Integer","","Recommended","4.  You Experienced the death of a close friend","0;1","0 = No; 1 = Yes",""
+"moos_4b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_4c","Integer","","Recommended","Some Close to You Experienced the death of a close friend","0;1","0 = No; 1 = Yes",""
+"moos_4d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_5a","Integer","","Recommended","5.  You experienced Trouble with friends or neighbors","0;1","0 = No; 1 = Yes",""
+"moos_5b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_5c","Integer","","Recommended","Some Close to You experienced Trouble with friends or neighbors","0;1","0 = No; 1 = Yes",""
+"moos_5d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_6a","Integer","","Recommended","6. You got Engaged","0;1","0 = No; 1 = Yes",""
+"moos_6b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_6c","Integer","","Recommended","Some Close to You got Engaged","0;1","0 = No; 1 = Yes",""
+"moos_6d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_7a","Integer","","Recommended","7.  You got Married","0;1","0 = No; 1 = Yes",""
+"moos_7b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_7c","Integer","","Recommended","Some Close to You got Married","0;1","0 = No; 1 = Yes",""
+"moos_7d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_8a","Integer","","Recommended","8.  You Experienced Separation","0;1","0 = No; 1 = Yes",""
+"moos_8b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_8c","Integer","","Recommended","Some Close to You Experienced Separation","0;1","0 = No; 1 = Yes",""
+"moos_8d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_9a","Integer","","Recommended","9. You Experienced Marital reconciliation","0; 1; 888; 999","0=No; 1=Yes; 888=Refused; 999=Missing",""
+"moos_9b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_9c","Integer","","Recommended","Some Close to You Experienced Marital reconciliation","0;1","0 = No; 1 = Yes",""
+"moos_9d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_10a","Integer","","Recommended","10.You experienced Divorce","0;1","0 = No; 1 = Yes",""
+"moos_10b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_10c","Integer","","Recommended","Some Close to You experienced Divorce","0;1","0 = No; 1 = Yes",""
+"moos_10d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_11a","Integer","","Recommended","11.You experienced the  Birth of a child in Your immediate family","0;1","0 = No; 1 = Yes",""
+"moos_11b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_11c","Integer","","Recommended","Some Close to You experienced the  Birth of a child in Your immediate family","0;1","0 = No; 1 = Yes",""
+"moos_11d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_12a","Integer","","Recommended","12. You experienced Trouble with in-laws/partnet's family","0;1","0 = No; 1 = Yes",""
+"moos_12b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_12c","Integer","","Recommended","Some Close to You experienced Trouble with in-laws/partnet's family","0;1","0 = No; 1 = Yes",""
+"moos_12d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_13a","Integer","","Recommended","13. You Experienced a serious illness or injury","0;1","0 = No; 1 = Yes",""
+"moos_13b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_13c","Integer","","Recommended","Some Close to You Experienced a serious illness or injury","0;1","0 = No; 1 = Yes",""
+"moos_13d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_14a","Integer","","Recommended","14. You experienced  Serious illness or injury of family member","0;1","0 = No; 1 = Yes",""
+"moos_14b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_14c","Integer","","Recommended","SOMONE CLOSE TO You experienced  Serious illness or injury of family member","0;1","0 = No; 1 = Yes",""
+"moos_14d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_15a","Integer","","Recommended","15. You experienced  Death of a spouse","0; 1; 888; 999","0=No; 1=Yes; 888=Refused; 999=Missing",""
+"moos_15b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_15c","Integer","","Recommended","Some Close to You experienced  Death of a spouse","0;1","0 = No; 1 = Yes",""
+"moos_15d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_16a","Integer","","Recommended","16. You Experienced the Death of an immediate family member","0;1","0 = No; 1 = Yes",""
+"moos_16b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_16c","Integer","","Recommended","Some Close to You Experienced the Death of an immediate family member","0;1","0 = No; 1 = Yes",""
+"moos_16d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_17a","Integer","","Recommended","17. You Experienced Trouble with superiors at work","0::2","0 = No; 1 = Yes; 2 = Yes, and the event still affects me",""
+"moos_17b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_17c","Integer","","Recommended","Some Close to You Experienced Trouble with superiors at work","0;1","0 = No; 1 = Yes",""
+"moos_17d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_18a","Integer","","Recommended","18. You were Laid off or fired from work","0;1","0 = No; 1 = Yes",""
+"moos_18b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_18c","Integer","","Recommended","Some Close to You was  Laid off or fired from work","0;1","0 = No; 1 = Yes",""
+"moos_18d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_19a","Integer","","Recommended","19. You were Unemployed for a month or more","0;1","0 = No; 1 = Yes",""
+"moos_19b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_19c","Integer","","Recommended","Some Close to You was unemployed for a month or more","0;1","0 = No; 1 = Yes",""
+"moos_19d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_20a","Integer","","Recommended","20. You Had a greatly increased workload","0;1","0 = No; 1 = Yes",""
+"moos_20b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_20c","Integer","","Recommended","Some Close to You Had a greatly increased workload","0;1","0 = No; 1 = Yes",""
+"moos_20d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_21a","Integer","","Recommended","21. You got a Promotion at work","0;1","0 = No; 1 = Yes",""
+"moos_21b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_21c","Integer","","Recommended","Some Close to You got a Promotion at work","0;1","0 = No; 1 = Yes",""
+"moos_21d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_22a","Integer","","Recommended","22. You Took a better (new) job","0;1","0 = No; 1 = Yes",""
+"moos_22b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_22c","Integer","","Recommended","Some Close to You Took a better (new) job","0;1","0 = No; 1 = Yes",""
+"moos_22d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_23a","Integer","","Recommended","23. YouR Income increased substantially (20%)","0;1","0 = No; 1 = Yes",""
+"moos_23b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_23c","Integer","","Recommended","Some Close to You had their Income increased substantially (20%)","0;1","0 = No; 1 = Yes",""
+"moos_23d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_24a","Integer","","Recommended","24. YouR Income decreased substantially (20%)","0;1","0 = No; 1 = Yes",""
+"moos_24b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_24c","Integer","","Recommended","Some Close to You  had their Income decreased substantially (20%)","0;1","0 = No; 1 = Yes",""
+"moos_24d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_25a","Integer","","Recommended","25. You Went deeply into debt","0;1","0 = No; 1 = Yes",""
+"moos_25b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_25c","Integer","","Recommended","Some Close to You Went deeply into debt","0;1","0 = No; 1 = Yes",""
+"moos_25d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_26a","Integer","","Recommended","26. YouR child entered a new school","0;1","0 = No; 1 = Yes",""
+"moos_26b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_26c","Integer","","Recommended","Some Close to You had a child who entered a new school","0;1","0 = No; 1 = Yes",""
+"moos_26d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_27a","Integer","","Recommended","27. YouR child left home (school, military)","0;1","0 = No; 1 = Yes",""
+"moos_27b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_27c","Integer","","Recommended","SOMONE CLOSE TO You had a child left home (school, military)","0;1","0 = No; 1 = Yes",""
+"moos_27d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_28a","Integer","","Recommended","28. Your child came home after a long absence","0;1","0 = No; 1 = Yes",""
+"moos_28b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_28c","Integer","","Recommended","Some Close to You had a child who came home after a long absence","0;1","0 = No; 1 = Yes",""
+"moos_28d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_29a","Integer","","Recommended","29. You had an Other relative move into the household","0;1","0 = No; 1 = Yes",""
+"moos_29b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_29c","Integer","","Recommended","Some Close to You had an Other relative move into the household","0;1","0 = No; 1 = Yes",""
+"moos_29d","Integer","","Recommended","When? Indicate number of months ago","","",""
+"moos_30a","Integer","","Recommended","30.	You experienced Legal problems","0;1","0 = No; 1 = Yes",""
+"moos_30b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_30c","Integer","","Recommended","Some Close to You experienced Legal problems","0;1","0 = No; 1 = Yes",""
+"moos_30d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_31a","Integer","","Recommended","31.	You Quit smoking","0;1","0 = No; 1 = Yes",""
+"moos_31b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_31c","Integer","","Recommended","SOMONE CLOST TO You Quit smoking","0;1","0 = No; 1 = Yes",""
+"moos_31d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_32a","Integer","","Recommended","32.	You Quit caffeine","0;1","0 = No; 1 = Yes",""
+"moos_32b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_32c","Integer","","Recommended","Some Close to You Quit caffeine","0;1","0 = No; 1 = Yes",""
+"moos_32d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_33a","Integer","","Recommended","33. You experienced Alcohol or drug problems","0;1","0 = No; 1 = Yes",""
+"moos_33b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_33c","Integer","","Recommended","Some Close to You experienced Alcohol or drug problems","0;1","0 = No; 1 = Yes",""
+"moos_33d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_34a","Integer","","Recommended","34.	You were Assaulted or robbed","0;1","0 = No; 1 = Yes",""
+"moos_34b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_34c","Integer","","Recommended","Some Close to You was Assaulted or robbed","0;1","0 = No; 1 = Yes",""
+"moos_34d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_35a","Integer","","Recommended","35.	You went into Voluntary retirement","0;1","0 = No; 1 = Yes",""
+"moos_35b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_35c","Integer","","Recommended","Some Close to You went into Voluntary retirement","0;1","0 = No; 1 = Yes",""
+"moos_35d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_36a","Integer","","Recommended","36.	You went into Involuntary retirement","0;1","0 = No; 1 = Yes",""
+"moos_36b","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""
+"moos_36c","Integer","","Recommended","Some Close to You went into Involuntary retirement","0;1","0 = No; 1 = Yes",""
+"moos_36d","Integer","","Recommended","When? 
+
+Indicate number of months ago","","",""

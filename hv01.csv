@@ -1,0 +1,203 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"site","String","101","Recommended","Site","","Study Site",""
+"daysrz","Integer","","Recommended","days since randomization","","",""
+"visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
+"form_completed","Integer","","Recommended","Was the form completed?","1::4","1=Yes; 2=No; 3=Unverified; 4 = N/A-Not in age range",""
+"s1q1","Integer","","Recommended","1. Is the household safety proofed for the child (unsafe materials out of reach, no obvious hazards present)?","0; 1; 2; 9","0=Not observed or not
+present; 1=Somewhat, but not
+consistent; 2=Observed where or
+when appropriate; 9=N/A (Not applicable)",""
+"s1q2","Integer","","Recommended","2. Is the household organized to promote play in certain areas of the home?","0; 1; 2; 9","0=Not observed or not
+present; 1=Somewhat, but not
+consistent; 2=Observed where or
+when appropriate; 9=N/A (Not applicable)",""
+"s1q3","Integer","","Recommended","3. Does the child have easy access to preferred play activities?","0; 1; 2; 9","0=Not observed or not
+present; 1=Somewhat, but not
+consistent; 2=Observed where or
+when appropriate; 9=N/A (Not applicable)",""
+"s1q4","Integer","","Recommended","4. Does the child have developmentally appropriate toys/activities available?","0; 1; 2; 9","0=Not observed or not
+present; 1=Somewhat, but not
+consistent; 2=Observed where or
+when appropriate; 9=N/A (Not applicable)",""
+"s1q5","Integer","","Recommended","5. Does the layout of the home allow for a safe play area?","0; 1; 2; 9","0=Not observed or not
+present; 1=Somewhat, but not
+consistent; 2=Observed where or
+when appropriate; 9=N/A (Not applicable)",""
+"s1q6","Integer","","Recommended","6. Does the layout of the home allow parent supervision of the child while completing other household tasks?","0; 1; 2; 9","0=Not observed or not
+present; 1=Somewhat, but not
+consistent; 2=Observed where or
+when appropriate; 9=N/A (Not applicable)",""
+"s1q7","Integer","","Recommended","7. Are there toys and materials to teach and stimulate learning (i.e. books, computer with learning software, or other learning materials)?","0; 1; 2; 9","0=Not observed or not
+present; 1=Somewhat, but not
+consistent; 2=Observed where or
+when appropriate; 9=N/A (Not applicable)",""
+"s1q8","Integer","","Recommended","8. Are there materials/toys to promote gross motor skills (playground area, bikes, trampoline)?","0; 1; 2; 9","0=Not observed or not
+present; 1=Somewhat, but not
+consistent; 2=Observed where or
+when appropriate; 9=N/A (Not applicable)",""
+"s2q1a","Integer","","Recommended","1.Does the parent spontaneously communicate with the child (excluding making requests or reprimanding)?","0::8;-9","0=Parent behavior not observed; 1 = Parent behavior not observed (Parent used independently); 2 = Parent behavior not observed (Parent was prompted by clinician); 3 = Parent behavior observed, but not consistent;  4= Parent behavior observed, but not consistent (Parent used independently); 5 = Parent behavior observed, but not consistent (Parent was prompted by clincian); 6 = Parent behavior observed when appropriate; 7 = Parent behavior observed when appropriate (Parent used independently); 8= Parent behavior observed when appropriate (Parent was prompted by clinician); -9=N/A-Not applicable to Parent",""
+"s2q2a","Integer","","Recommended","2. Does the parent spontaneously verbally reinforce the child for
+appropriate behavior?","0::8;-9","0=Parent behavior not observed; 1 = Parent behavior not observed (Parent used independently); 2 = Parent behavior not observed (Parent was prompted by clinician); 3 = Parent behavior observed, but not consistent;  4= Parent behavior observed, but not consistent (Parent used independently); 5 = Parent behavior observed, but not consistent (Parent was prompted by clincian); 6 = Parent behavior observed when appropriate; 7 = Parent behavior observed when appropriate (Parent used independently); 8= Parent behavior observed when appropriate (Parent was prompted by clinician); -9=N/A-Not applicable to Parent",""
+"s2q3a","Integer","","Recommended","3. Does the parent attend to and reinforce the child's communication attempts?","0::8;-9","0=Parent behavior not observed; 1 = Parent behavior not observed (Parent used independently); 2 = Parent behavior not observed (Parent was prompted by clinician); 3 = Parent behavior observed, but not consistent;  4= Parent behavior observed, but not consistent (Parent used independently); 5 = Parent behavior observed, but not consistent (Parent was prompted by clincian); 6 = Parent behavior observed when appropriate; 7 = Parent behavior observed when appropriate (Parent used independently); 8= Parent behavior observed when appropriate (Parent was prompted by clinician); -9=N/A-Not applicable to Parent",""
+"s2q4a","Integer","","Recommended","4. Does the parent use antecedent or prevent approaches to
+manage the child?","0::8;-9","0=Parent behavior not observed; 1 = Parent behavior not observed (Parent used independently); 2 = Parent behavior not observed (Parent was prompted by clinician); 3 = Parent behavior observed, but not consistent;  4= Parent behavior observed, but not consistent (Parent used independently); 5 = Parent behavior observed, but not consistent (Parent was prompted by clincian); 6 = Parent behavior observed when appropriate; 7 = Parent behavior observed when appropriate (Parent used independently); 8= Parent behavior observed when appropriate (Parent was prompted by clinician); -9=N/A-Not applicable to Parent",""
+"s2q5a","Integer","","Recommended","5. Does the parent use minimal physical guidance?","0::8;-9","0=Parent behavior not observed; 1 = Parent behavior not observed (Parent used independently); 2 = Parent behavior not observed (Parent was prompted by clinician); 3 = Parent behavior observed, but not consistent;  4= Parent behavior observed, but not consistent (Parent used independently); 5 = Parent behavior observed, but not consistent (Parent was prompted by clincian); 6 = Parent behavior observed when appropriate; 7 = Parent behavior observed when appropriate (Parent used independently); 8= Parent behavior observed when appropriate (Parent was prompted by clinician); -9=N/A-Not applicable to Parent",""
+"s2q6a","Integer","","Recommended","6. Does the parent provide the child with appropriate activities?","0::8;-9","0=Parent behavior not observed; 1 = Parent behavior not observed (Parent used independently); 2 = Parent behavior not observed (Parent was prompted by clinician); 3 = Parent behavior observed, but not consistent;  4= Parent behavior observed, but not consistent (Parent used independently); 5 = Parent behavior observed, but not consistent (Parent was prompted by clincian); 6 = Parent behavior observed when appropriate; 7 = Parent behavior observed when appropriate (Parent used independently); 8= Parent behavior observed when appropriate (Parent was prompted by clinician); -9=N/A-Not applicable to Parent",""
+"s3q1a","Integer","","Recommended","1.Daily Schedule Followed","0::8;-9","0= Not observed or not
+present; 1 = Not observed or not
+present (Parent used independently); 2 = Not observed or not
+present (Parent used, but was prompted by clinician); 3=Observed, but not
+used consistently; 4 = Observed, but not
+used consistently (Parent used independently); 5 = Observed, but not
+used consistently (Parent used, but was prompted by clinician); 6= Observed where or
+when appropriate; 7 = Observed where or
+when appropriate (Parent used independently); 8 = Observed where or
+when appropriate (Parent used, but was prompted by clinician); -9=NA-Not applicable for child",""
+"s3q2a","Integer","","Recommended","2.Visual Schedule for Child Used","0::8;-9","0= Not observed or not
+present; 1 = Not observed or not
+present (Parent used independently); 2 = Not observed or not
+present (Parent used, but was prompted by clinician); 3=Observed, but not
+used consistently; 4 = Observed, but not
+used consistently (Parent used independently); 5 = Observed, but not
+used consistently (Parent used, but was prompted by clinician); 6= Observed where or
+when appropriate; 7 = Observed where or
+when appropriate (Parent used independently); 8 = Observed where or
+when appropriate (Parent used, but was prompted by clinician); -9=NA-Not applicable for child",""
+"s3q3a","Integer","","Recommended","3.Other Visual Prompts/Cues Used","0::8;-9","0= Not observed or not
+present; 1 = Not observed or not
+present (Parent used independently); 2 = Not observed or not
+present (Parent used, but was prompted by clinician); 3=Observed, but not
+used consistently; 4 = Observed, but not
+used consistently (Parent used independently); 5 = Observed, but not
+used consistently (Parent used, but was prompted by clinician); 6= Observed where or
+when appropriate; 7 = Observed where or
+when appropriate (Parent used independently); 8 = Observed where or
+when appropriate (Parent used, but was prompted by clinician); -9=NA-Not applicable for child",""
+"s3q4a","Integer","","Recommended","4.Contingent Verbal Reinforcement Used","0::8;-9","0= Not observed or not
+present; 1 = Not observed or not
+present (Parent used independently); 2 = Not observed or not
+present (Parent used, but was prompted by clinician); 3=Observed, but not
+used consistently; 4 = Observed, but not
+used consistently (Parent used independently); 5 = Observed, but not
+used consistently (Parent used, but was prompted by clinician); 6= Observed where or
+when appropriate; 7 = Observed where or
+when appropriate (Parent used independently); 8 = Observed where or
+when appropriate (Parent used, but was prompted by clinician); -9=NA-Not applicable for child",""
+"s3q5a","Integer","","Recommended","5.Verbal Reinforcement paired with Tangible Reinforcer","0::8;-9","0= Not observed or not
+present; 1 = Not observed or not
+present (Parent used independently); 2 = Not observed or not
+present (Parent used, but was prompted by clinician); 3=Observed, but not
+used consistently; 4 = Observed, but not
+used consistently (Parent used independently); 5 = Observed, but not
+used consistently (Parent used, but was prompted by clinician); 6= Observed where or
+when appropriate; 7 = Observed where or
+when appropriate (Parent used independently); 8 = Observed where or
+when appropriate (Parent used, but was prompted by clinician); -9=NA-Not applicable for child",""
+"s3q6a","Integer","","Recommended","6.Use of Token Economy Used","0::8;-9","0= Not observed or not
+present; 1 = Not observed or not
+present (Parent used independently); 2 = Not observed or not
+present (Parent used, but was prompted by clinician); 3=Observed, but not
+used consistently; 4 = Observed, but not
+used consistently (Parent used independently); 5 = Observed, but not
+used consistently (Parent used, but was prompted by clinician); 6= Observed where or
+when appropriate; 7 = Observed where or
+when appropriate (Parent used independently); 8 = Observed where or
+when appropriate (Parent used, but was prompted by clinician); -9=NA-Not applicable for child",""
+"s3q7a","Integer","","Recommended","7.Parent reinforces compliance","0::8;-9","0= Not observed or not
+present; 1 = Not observed or not
+present (Parent used independently); 2 = Not observed or not
+present (Parent used, but was prompted by clinician); 3=Observed, but not
+used consistently; 4 = Observed, but not
+used consistently (Parent used independently); 5 = Observed, but not
+used consistently (Parent used, but was prompted by clinician); 6= Observed where or
+when appropriate; 7 = Observed where or
+when appropriate (Parent used independently); 8 = Observed where or
+when appropriate (Parent used, but was prompted by clinician); -9=NA-Not applicable for child",""
+"s3q8a","Integer","","Recommended","8.Parent appropriately addresses noncompliance","0::8;-9","0= Not observed or not
+present; 1 = Not observed or not
+present (Parent used independently); 2 = Not observed or not
+present (Parent used, but was prompted by clinician); 3=Observed, but not
+used consistently; 4 = Observed, but not
+used consistently (Parent used independently); 5 = Observed, but not
+used consistently (Parent used, but was prompted by clinician); 6= Observed where or
+when appropriate; 7 = Observed where or
+when appropriate (Parent used independently); 8 = Observed where or
+when appropriate (Parent used, but was prompted by clinician); -9=NA-Not applicable for child",""
+"s3q9a","Integer","","Recommended","9.Parent encourages functional communication behavior and reinforces child for using","0::8;-9","0= Not observed or not
+present; 1 = Not observed or not
+present (Parent used independently); 2 = Not observed or not
+present (Parent used, but was prompted by clinician); 3=Observed, but not
+used consistently; 4 = Observed, but not
+used consistently (Parent used independently); 5 = Observed, but not
+used consistently (Parent used, but was prompted by clinician); 6= Observed where or
+when appropriate; 7 = Observed where or
+when appropriate (Parent used independently); 8 = Observed where or
+when appropriate (Parent used, but was prompted by clinician); -9=NA-Not applicable for child",""
+"s3q10a","Integer","","Recommended","10. Parent uses appropriate teaching skills to promote new skill","0::8;-9","0= Not observed or not
+present; 1 = Not observed or not
+present (Parent used independently); 2 = Not observed or not
+present (Parent used, but was prompted by clinician); 3=Observed, but not
+used consistently; 4 = Observed, but not
+used consistently (Parent used independently); 5 = Observed, but not
+used consistently (Parent used, but was prompted by clinician); 6= Observed where or
+when appropriate; 7 = Observed where or
+when appropriate (Parent used independently); 8 = Observed where or
+when appropriate (Parent used, but was prompted by clinician); -9=NA-Not applicable for child",""
+"s3q11a","Integer","","Recommended","11. Parent uses planned ignoring as intended","0::8;-9","0= Not observed or not
+present; 1 = Not observed or not
+present (Parent used independently); 2 = Not observed or not
+present (Parent used, but was prompted by clinician); 3=Observed, but not
+used consistently; 4 = Observed, but not
+used consistently (Parent used independently); 5 = Observed, but not
+used consistently (Parent used, but was prompted by clinician); 6= Observed where or
+when appropriate; 7 = Observed where or
+when appropriate (Parent used independently); 8 = Observed where or
+when appropriate (Parent used, but was prompted by clinician); -9=NA-Not applicable for child",""
+"s3q12a","Integer","","Recommended","12. Parent uses timeout as intended","0::8;-9","0= Not observed or not
+present; 1 = Not observed or not
+present (Parent used independently); 2 = Not observed or not
+present (Parent used, but was prompted by clinician); 3=Observed, but not
+used consistently; 4 = Observed, but not
+used consistently (Parent used independently); 5 = Observed, but not
+used consistently (Parent used, but was prompted by clinician); 6= Observed where or
+when appropriate; 7 = Observed where or
+when appropriate (Parent used independently); 8 = Observed where or
+when appropriate (Parent used, but was prompted by clinician); -9=NA-Not applicable for child",""
+"s3q13dtl","String","200","Recommended","13. Other parenting strategies observed(1) - specify:","","",""
+"s3q13a","Integer","","Recommended","13. Other strategy in place(1) (specify)","0::8;-9","0= Not observed or not
+present; 1 = Not observed or not
+present (Parent used independently); 2 = Not observed or not
+present (Parent used, but was prompted by clinician); 3=Observed, but not
+used consistently; 4 = Observed, but not
+used consistently (Parent used independently); 5 = Observed, but not
+used consistently (Parent used, but was prompted by clinician); 6= Observed where or
+when appropriate; 7 = Observed where or
+when appropriate (Parent used independently); 8 = Observed where or
+when appropriate (Parent used, but was prompted by clinician); -9=NA-Not applicable for child",""
+"s3q14dtl","String","200","Recommended","14. Other parenting strategies observed(2) - specify:","","",""
+"s3q14a","Integer","","Recommended","14. Other strategy in place(2) (specify)","0::8;-9","0= Not observed or not
+present; 1 = Not observed or not
+present (Parent used independently); 2 = Not observed or not
+present (Parent used, but was prompted by clinician); 3=Observed, but not
+used consistently; 4 = Observed, but not
+used consistently (Parent used independently); 5 = Observed, but not
+used consistently (Parent used, but was prompted by clinician); 6= Observed where or
+when appropriate; 7 = Observed where or
+when appropriate (Parent used independently); 8 = Observed where or
+when appropriate (Parent used, but was prompted by clinician); -9=NA-Not applicable for child",""
+"s4q1","Integer","","Recommended","1. Observations relevant for Prevention Strategies","0; 1; 2; -9","0=No; 1=Partial; 2=Yes; -9=N/A",""
+"s4q2","Integer","","Recommended","2. Observations relevant for Reinforcement Strategies","0; 1; 2; -9","0=No; 1=Partial; 2=Yes; -9=N/A",""
+"s4q3","Integer","","Recommended","3. Observations relevant for Compliance Training","0; 1; 2; -9","0=No; 1=Partial; 2=Yes; -9=N/A",""
+"s4q4","Integer","","Recommended","4. Observations relevant for Use of Planned Ignoring","0; 1; 2; -9","0=No; 1=Partial; 2=Yes; -9=N/A",""
+"s4q5","Integer","","Recommended","5. Observations relevant for Functional Communication Training","0; 1; 2; -9","0=No; 1=Partial; 2=Yes; -9=N/A",""
+"s4q6","Integer","","Recommended","6. Observations relevant for Teaching Skills","0; 1; 2; -9","0=No; 1=Partial; 2=Yes; -9=N/A",""
+"s4q7","Integer","","Recommended","7. Observations relevant for Generalization and Maintenance","0; 1; 2; -9","0=No; 1=Partial; 2=Yes; -9=N/A",""
+"s4q8","Integer","","Recommended","8. Observations relevant for Time Out","0; 1; 2; -9","0=No; 1=Partial; 2=Yes; -9=N/A",""
+"s4q9","Integer","","Recommended","9. Observations relevant for Token Economy or Contingency Contracting","0; 1; 2; -9","0=No; 1=Partial; 2=Yes; -9=N/A",""
+"s4q10dtl","String","200","Recommended","10. Observations relevant for Other (specify):","","",""
+"s4q10","Integer","","Recommended","10. Observations relevant for Other (specify)","0; 1; 2; -9","0=No; 1=Partial; 2=Yes; -9=N/A",""

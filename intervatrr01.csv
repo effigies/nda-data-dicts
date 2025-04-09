@@ -1,0 +1,4 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"intid","Integer","","Recommended","Autism intervention ID number","","",""
+"int_name","String","100","Recommended","Autism intervention name","","",""
+"int_rating","Integer","","Recommended","Autism intervention rating","1::4","",""

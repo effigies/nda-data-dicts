@@ -1,0 +1,36 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"handedness","String","29","Recommended","handedness","R;L;B;999;888;777;555","R = Right; L = Left; B = Both; 999= No Answer; 888= Skipped; 777= Condition Skipped; 555= Missing",""
+"trial_id","Integer","","Recommended","Identifies the distance from the participant's hand with which a simultaneous LED and vibration occur and identifies either a looming, receding, or baseline condition.
+","11::19; 21::29; 31; 110;111; 210;211;311;400;500","The trial number corresponds to the distance and time after the beginning of the trial with which the congruent vibration and LED stimulus occur
+ 21 = looming 105 cm, 250 ms
+ 22 = looming 95 cm, 500 ms
+ 23 = looming 85 cm, 750 ms
+ 24 = looming 75 cm, 1000 ms
+ 25 = looming 65 cm, 1250 ms
+ 26 = looming 55 cm, 1500 ms
+ 27 = looming 45 cm, 1750 ms
+ 28 = looming 35 cm, 2000 ms
+ 29 = looming 25 cm, 2250 ms
+ 210 = looming 15 cm, 2500 ms
+ 211 = looming 5 cm, 2750 ms
+ 11 = receding 5 cm, 2750 ms
+ 12 = receding 15 cm, 2500 ms
+ 13 = receding 25 cm, 2250 ms
+ 14 = receding 35 cm, 2000 ms
+ 15 = receding 45 cm, 1750 ms
+ 16 = receding 55 cm, 1500 ms
+ 17 = receding 65 cm, 1250 ms
+ 18 = receding 75 cm, 1000 ms
+ 19 = receding 85 cm, 750 ms
+ 110 = receding 95 cm, 500 ms
+ 111 = receding 105 cm 250 ms
+ 311 = tactile only, no LEDs, 250 ms
+ 31 = tactile only, no LEDs, 2750 ms
+ 400 = visual only (looming, no vibration
+ 500 = visual only (receding), no vibration",""
+"rt","Float","","Recommended","Reaction Time","","-1 = NaN",""

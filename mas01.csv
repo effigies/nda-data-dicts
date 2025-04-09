@@ -1,0 +1,66 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","subject_id"
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"finger_flexors","Float","","Recommended","Muscles Tested: Finger Flexors","0::4","0 =No increase in muscle tone; 1 =Slight increase in muscle tone, manifested by a catch and release or by minimal resistance at the end of the range of motion when the affected part(s) is moved in flexion or extension; 1.5 =Slight increase in muscle tone, manifested by a catch, followed by minimal
+resistance throughout the remainder (less than half) of the ROM
+2 =More marked increase in muscle tone through most of the ROM, but
+affected part(s) easily moved
+3 =Considerable increase in muscle tone, passive movement difficult
+4 =Affected part(s) rigid in flexion or extension",""
+"finger_extensors","Float","","Recommended","Muscles Tested: Finger Extensors","0::4","0 =No increase in muscle tone; 1 =Slight increase in muscle tone, manifested by a catch and release or by minimal resistance at the end of the range of motion when the affected part(s) is moved in flexion or extension; 1.5 =Slight increase in muscle tone, manifested by a catch, followed by minimal
+resistance throughout the remainder (less than half) of the ROM
+2 =More marked increase in muscle tone through most of the ROM, but
+affected part(s) easily moved
+3 =Considerable increase in muscle tone, passive movement difficult
+4 =Affected part(s) rigid in flexion or extension",""
+"wrist_flexors","Float","","Recommended","Muscles Tested: Wrist Flexors","0::4","0 =No increase in muscle tone; 1 =Slight increase in muscle tone, manifested by a catch and release or by minimal resistance at the end of the range of motion when the affected part(s) is moved in flexion or extension; 1.5 =Slight increase in muscle tone, manifested by a catch, followed by minimal
+resistance throughout the remainder (less than half) of the ROM
+2 =More marked increase in muscle tone through most of the ROM, but
+affected part(s) easily moved
+3 =Considerable increase in muscle tone, passive movement difficult
+4 =Affected part(s) rigid in flexion or extension",""
+"wrist_extensors","Float","","Recommended","Muscles Tested: Wrist Extensors","0::4","0 =No increase in muscle tone; 1 =Slight increase in muscle tone, manifested by a catch and release or by minimal resistance at the end of the range of motion when the affected part(s) is moved in flexion or extension; 1.5 =Slight increase in muscle tone, manifested by a catch, followed by minimal
+resistance throughout the remainder (less than half) of the ROM
+2 =More marked increase in muscle tone through most of the ROM, but
+affected part(s) easily moved
+3 =Considerable increase in muscle tone, passive movement difficult
+4 =Affected part(s) rigid in flexion or extension",""
+"mas_elbow","Float","","Recommended","Elbow","0::4","0 =No increase in muscle tone; 1 =Slight increase in muscle tone, manifested by a catch and release or by minimal resistance at the end of the range of motion when the affected part(s) is moved in flexion or extension; 1.5 =Slight increase in muscle tone, manifested by a catch, followed by minimal
+resistance throughout the remainder (less than half) of the ROM
+2 =More marked increase in muscle tone through most of the ROM, but
+affected part(s) easily moved
+3 =Considerable increase in muscle tone, passive movement difficult
+4 =Affected part(s) rigid in flexion or extension",""
+"mas_thumb","Float","","Recommended","Thumb","0::4","0 =No increase in muscle tone; 1 =Slight increase in muscle tone, manifested by a catch and release or by minimal resistance at the end of the range of motion when the affected part(s) is moved in flexion or extension; 1.5 =Slight increase in muscle tone, manifested by a catch, followed by minimal
+resistance throughout the remainder (less than half) of the ROM
+2 =More marked increase in muscle tone through most of the ROM, but
+affected part(s) easily moved
+3 =Considerable increase in muscle tone, passive movement difficult
+4 =Affected part(s) rigid in flexion or extension",""
+"mas_hamstrings","Float","","Recommended","Hamstrings","0::4","0 =No increase in muscle tone; 1 =Slight increase in muscle tone, manifested by a catch and release or by minimal resistance at the end of the range of motion when the affected part(s) is moved in flexion or extension; 1.5 =Slight increase in muscle tone, manifested by a catch, followed by minimal
+resistance throughout the remainder (less than half) of the ROM
+2 =More marked increase in muscle tone through most of the ROM, but
+affected part(s) easily moved
+3 =Considerable increase in muscle tone, passive movement difficult
+4 =Affected part(s) rigid in flexion or extension",""
+"mas_quadriceps","Float","","Recommended","Quadriceps","0::4","0 =No increase in muscle tone; 1 =Slight increase in muscle tone, manifested by a catch and release or by minimal resistance at the end of the range of motion when the affected part(s) is moved in flexion or extension; 1.5 =Slight increase in muscle tone, manifested by a catch, followed by minimal
+resistance throughout the remainder (less than half) of the ROM
+2 =More marked increase in muscle tone through most of the ROM, but
+affected part(s) easily moved
+3 =Considerable increase in muscle tone, passive movement difficult
+4 =Affected part(s) rigid in flexion or extension",""
+"mas_gastrocnemius","Float","","Recommended","Gastrocnemius","0::4","0 =No increase in muscle tone; 1 =Slight increase in muscle tone, manifested by a catch and release or by minimal resistance at the end of the range of motion when the affected part(s) is moved in flexion or extension; 1.5 =Slight increase in muscle tone, manifested by a catch, followed by minimal
+resistance throughout the remainder (less than half) of the ROM
+2 =More marked increase in muscle tone through most of the ROM, but
+affected part(s) easily moved
+3 =Considerable increase in muscle tone, passive movement difficult
+4 =Affected part(s) rigid in flexion or extension",""
+"mas_soleus","Float","","Recommended","Soleus","0::4","0 =No increase in muscle tone; 1 =Slight increase in muscle tone, manifested by a catch and release or by minimal resistance at the end of the range of motion when the affected part(s) is moved in flexion or extension; 1.5 =Slight increase in muscle tone, manifested by a catch, followed by minimal
+resistance throughout the remainder (less than half) of the ROM
+2 =More marked increase in muscle tone through most of the ROM, but
+affected part(s) easily moved
+3 =Considerable increase in muscle tone, passive movement difficult
+4 =Affected part(s) rigid in flexion or extension",""

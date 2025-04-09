@@ -1,0 +1,107 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"site","String","101","Recommended","Site","","Study Site",""
+"week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
+"rand_num","Integer","","Recommended","Randomization Number","0::2","",""
+"daysrz","Integer","","Recommended","days since randomization","","",""
+"g1a_bike","Integer","","Recommended","GEMS1A: BICYCLING, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g1b_bike","Integer","","Recommended","GEMS1B: BICYCLING, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g2a_exercise","Integer","","Recommended","GEMS2A: EXERCISE, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g2b_exercise","Integer","","Recommended","GEMS2B: EXERCISE, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g3a_climb","Integer","","Recommended","GEMS3A: CLIMB, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g3b_climb","Integer","","Recommended","GEMS3B: CLIMB, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g4a_bball","Integer","","Recommended","GEMS4A: BASKETBALL, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g4b_bball","Integer","","Recommended","GEMS4B: BASKETBALL, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g5a_baseball","Integer","","Recommended","GEMS5A: BASEBALL, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g5b_baseball","Integer","","Recommended","GEMS5B: BASEBALL, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g6a_football","Integer","","Recommended","GEMS6A: FOOTBALL, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g6b_football","Integer","","Recommended","GEMS6B: FOOTBALL, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g7a_soccer","Integer","","Recommended","GEMS7A: SOCCER, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g7b_soccer","Integer","","Recommended","GEMS7B: SOCCER, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g8a_volleyball","Integer","","Recommended","GEMS8A: VOLLEYBALL, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g8b_volleyball","Integer","","Recommended","GEMS8B: VOLLEYBALL, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g9a_racket","Integer","","Recommended","GEMS9A: RACKETBALL, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g9b_racket","Integer","","Recommended","GEMS9B: RACKETBALL, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g10a_ballplay","Integer","","Recommended","GEMS10A: BALLPLAY, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g10b_ballplay","Integer","","Recommended","GEMS10B: BALLPLAY, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g11a_games","Integer","","Recommended","GEMS11A: GAMES, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g11b_games","Integer","","Recommended","GEMS11B: GAMES, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g12a_outdoor","Integer","","Recommended","GEMS12A: OUTDOOR, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g12b_outdoor","Integer","","Recommended","GEMS12B: OUTDOOR, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g13a_waterplay","Integer","","Recommended","GEMS13A: WATERPLAY, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g13b_waterplay","Integer","","Recommended","GEMS13B: WATERPLAY, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g14a_swimming","Integer","","Recommended","GEMS14A: SWIMMING, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g14b_swimming","Integer","","Recommended","GEMS14B: SWIMMING, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g15a_jumprope","Integer","","Recommended","GEMS15A: JUMP ROPE, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g15b_jumprope","Integer","","Recommended","GEMS15B: JUMP ROPE, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g16a_dance","Integer","","Recommended","GEMS16A: DANCE, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g16b_dance","Integer","","Recommended","GEMS16B: DANCE, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g17a_yardwork","Integer","","Recommended","GEMS17A:    OUTDOOR    CHORES,
+yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g17b_yardwork","Integer","","Recommended","GEMS17B:    OUTDOOR    CHORES,
+usually","0::2","0=none; 1=a little; 2=a lot",""
+"g18a_indoorwork","Integer","","Recommended","GEMS18A:      INDOOR      CHORES,
+yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g18b_indoorwork","Integer","","Recommended","GEMS18B:      INDOOR      CHORES,
+usually","0::2","0=none; 1=a little; 2=a lot",""
+"g19a_walkrun","Integer","","Recommended","GEMS19A:    WALKING/RUNNING,
+yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g19b_walkrun","Integer","","Recommended","GEMS19B:     WALKING/RUNNING,
+usually","0::2","0=none; 1=a little; 2=a lot",""
+"g20a_walk","Integer","","Recommended","GEMS20A: WALKING, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g20b_walk","Integer","","Recommended","GEMS20B: WALKING, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g21a_running","Integer","","Recommended","GEMS21A: RUNNING, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g21b_running","Integer","","Recommended","GEMS21B: RUNNING, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g22a_gymnast","Integer","","Recommended","GEMS22A: GYMNASTICS, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g22b_gymnast","Integer","","Recommended","GEMS22B: GYMNASTICS, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g23a_skating","Integer","","Recommended","GEMS23A: SKATING, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g23b_skating","Integer","","Recommended","GEMS23B: SKATING, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g24a_hiking","Integer","","Recommended","GEMS24A: HIKING, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g24b_hiking","Integer","","Recommended","GEMS24B: HIKING, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g25a_weights","Integer","","Recommended","GEMS25A:      WEIGHT      LIFTING,
+yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g25b_weights","Integer","","Recommended","GEMS25B:      WEIGHT      LIFTING,
+usually","0::2","0=none; 1=a little; 2=a lot",""
+"g26a_martial","Integer","","Recommended","GEMS26A:       MARTIAL       ARTS,
+yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g26b_martial","Integer","","Recommended","GEMS26B: MARTIAL ARTS, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g27a_yoga","Integer","","Recommended","GEMS27A: YOGA, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g27b_yoga","Integer","","Recommended","GEMS27B: YOGA, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g28a_cheer","Integer","","Recommended","GEMS28A:            CHEERLEADING,
+yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g28b_cheer","Integer","","Recommended","GEMS28B:            CHEERLEADING,
+usually","0::2","0=none; 1=a little; 2=a lot",""
+"g29a_other","Integer","","Recommended","GEMS29A: OTHER, yesterday","0::2","0=none; 1=less than 15 minutes; 2=15 minutes or more",""
+"g29b_other","Integer","","Recommended","GEMS29B: OTHER, usually","0::2","0=none; 1=a little; 2=a lot",""
+"g29_s_other","String","20","Recommended","GEMS29: SPECIFY OTHER","","",""
+"g30y_watchtv","Integer","","Recommended","GEMS30:  WATCH  TV  or  VIDEOS,
+yesterday","0::4","0=none; 1= less than 30 minutes; 2=30 min - 1 hour; 3=1-3 hours; 4=more than 3 hours",""
+"g31y_videogame","Integer","","Recommended","GEMS31: VIDEO GAMES, yesterday","0::4","0=none; 1= less than 30 minutes; 2=30 min - 1 hour; 3=1-3 hours; 4=more than 3 hours",""
+"g32y_crafts","Integer","","Recommended","GEMS32:      ARTS      &      CRAFTS,
+yesterday","0::4","0=none; 1= less than 30 minutes; 2=30 min - 1 hour; 3=1-3 hours; 4=more than 3 hours",""
+"g33y_boardgames","Integer","","Recommended","GEMS33: BOARD GAMES, yesterday","0::4","0=none; 1= less than 30 minutes; 2=30 min - 1 hour; 3=1-3 hours; 4=more than 3 hours",""
+"g34y_reading","Integer","","Recommended","GEMS34:  HOMEWORK  or  READ,
+yesterday","0::4","0=none; 1= less than 30 minutes; 2=30 min - 1 hour; 3=1-3 hours; 4=more than 3 hours",""
+"g35y_phonefrnds","Integer","","Recommended","GEMS35:      PHONE      or      WITH
+FRIENDS, yesterday","0::4","0=none; 1= less than 30 minutes; 2=30 min - 1 hour; 3=1-3 hours; 4=more than 3 hours",""
+"g36y_music","Integer","","Recommended","GEMS36: PLAY/LISTEN TO MUSIC,
+yesterday","0::4","0=none; 1= less than 30 minutes; 2=30 min - 1 hour; 3=1-3 hours; 4=more than 3 hours",""
+"g37u_watchtv","Integer","","Recommended","GEMS37:  WATCH  TV  or  VIDEOS,
+usually","0::4","0=none; 1= less than 30 minutes; 2=30 min - 1 hour; 3=1-3 hours; 4=more than 3 hours",""
+"g38u_videogame","Integer","","Recommended","GEMS38: VIDEO GAMES, usually","0::4","0=none; 1= less than 30 minutes; 2=30 min - 1 hour; 3=1-3 hours; 4=more than 3 hours",""
+"g39u_crafts","Integer","","Recommended","GEMS39: ARTS & CRAFTS, usually","0::4","0=none; 1= less than 30 minutes; 2=30 min - 1 hour; 3=1-3 hours; 4=more than 3 hours",""
+"g40u_boardgames","Integer","","Recommended","GEMS40: BOARD GAMES, usually","0::4","0=none; 1= less than 30 minutes; 2=30 min - 1 hour; 3=1-3 hours; 4=more than 3 hours",""
+"g41u_reading","Integer","","Recommended","GEMS41:  HOMEWORK  or  READ,
+usually","0::4","0=none; 1= less than 30 minutes; 2=30 min - 1 hour; 3=1-3 hours; 4=more than 3 hours",""
+"g42u_phonefrnds","Integer","","Recommended","GEMS42:      PHONE      or      WITH
+FRIENDS, usually","0::4","0=none; 1= less than 30 minutes; 2=30 min - 1 hour; 3=1-3 hours; 4=more than 3 hours",""
+"g43u_music","Integer","","Recommended","GEMS43: PLAY/LISTEN to MUSIC,
+usually","0::4","0=none; 1= less than 30 minutes; 2=30 min - 1 hour; 3=1-3 hours; 4=more than 3 hours",""
+"gmtot_ay","Integer","","Recommended","GEMS SUM: Activity Yesterday","0::58","",""
+"gmtot_au","Integer","","Recommended","GEMS SUM: Activity Usually","0::58","",""
+"gmtot_sy","Integer","","Recommended","GEMS SUM: Sedentary Yesterday","0::28","",""
+"gmtot_su","Integer","","Recommended","GEMS SUM: Sedentary Usually","0::28","",""

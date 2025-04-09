@@ -1,0 +1,146 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","subjid"
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"uku1","Integer","","Recommended","Psychic Side Effects 1. Concentration difficulties","0::3","0 = No or doubtful; 1 = Mild; 2 = Moderate; 3 = Severe",""
+"uku2","Integer","","Recommended","Psychic Side Effects 2. Asthenia/Lassitude/Increased Fatiguability","0::3","0 = No or doubtful lassitude;1 = The patient tires more easily than usual; however, this does not mean that the patient needs to rest more than usual during the day;2 = Must rest now and then during the day because of lassitude;3= Must rest most of the day because of lassitude;",""
+"uku3","Integer","","Recommended","Psychic Side Effects 3. Sleepiness/Sedation","0::3","0 = No or doubtful sleepiness;1 = Slightly sleepy/drowsy as regards facial expression and speech;2 = More markedly sleepy/drowsy; The patient yawns and tends to fall asleep when there is a pause in the conversation;3 = Difficult to keep the patient awake and to wake the patient, respectively;",""
+"uku4","Integer","","Recommended","Psychic Side Effects 4. Failing Memory","0::3","0 = No or doubtful disturbance of memory;1 = Slight, subjective feeling of reduced memory compared with the patient's usual condition; however, not interfering with functioning;2 = The failing memory hampers the patient and/or slight signs of this are observed during the interview;3 = The patient has shown clear signs of f ailing memory during the interview;",""
+"uku5","Integer","","Recommended","Psychic Side Effects 5. Depression","0::3","0 = Neutral or elated mood;1 = The patient's mood is somewhat more depressed and sad than usual; however, the patient still finds life worth living;2 = The patient's mood is clearly depressed, perhaps including non-verbal expressions of hopelessness and/or wishes of dying, but the patient has no direct plans to commit suicide;3 = The patient's verbal and non-verbal expressions of hopelessness and sadness are great and/or it is considered highly likely that he plans to commit suicide;",""
+"uku6","Integer","","Recommended","Psychic Side Effects 6. Tension/Unrest","0::3","0 = No or doubtful tension/nervous restlessness;1 = The patient states that he is slightly tense and restless; however, this does not interfere with his functioning;2 = Considerable tension and inner unrest; however, without this being so intense or constant that the patient's daily life is influenced to any marked degree;3 = The patient feels tension or restlessness that is so marked that his daily life is clearly affected;",""
+"uku7","Integer","","Recommended","Psychic Side Effects 7. Increased Sleep","0::3","0 = No or doubtful increase of the duration of sleep;1 = Sleeps up to 2 hours longer than usual;2 = Sleeps 2 or 3 hours longer than usual;3 = Sleeps more than 3 hours longer than usual;",""
+"uku8","Integer","","Recommended","Psychic Side Effects 8. Decreased Sleep","0::3","0 = No or doubtful reduction of the duration of sleep;1 = Sleeps up to 2 hours less than usual;2 = Sleeps 2 or 3 hours less than usual;3 = Sleeps more than 3 hours less than usual;",""
+"uku9","Integer","","Recommended","Psychic Side Effects 9. Increased Dream Activity","0::3","0 = No or doubtful change in the dream activity;1 = Slightly increased dream activity, which does not disturb the night's sleep, however;2 = More pronounced increase of dream activity;3 = Very pronounced increase of dream activity;",""
+"uku10","Integer","","Recommended","Psychic Side Effects 10. Emotional Indifference","0::3","0 = No or doubtful emotional indifference;1 = Slight subduing of the patient's empathy;2 = Obvious emotional indifference;3 = Pronunced indifference so that the patient behaves apathetically in relation to his surroundings;",""
+"uku11","Integer","","Recommended","Neurological Side Effects 11. Dystonia","0::3","0 = No or doubtful dystonia;1 = Very slight or short spasms, for instance in the musculature of the jaws or the neck;2 = More pronounced contractions of a longer duration and/or of a wider localization;3 = Marked forms of for instance oculogyric crises or opisthotonos;",""
+"uku12","Integer","","Recommended","Neurological Side Effects 12. Rigidity","0::3","0 = No or doubtful rigidity;1 = Slight rigidity in neck, shoulder, and extremities; It must be possible to observe the rigidity on the basis of resistance to passive movements of the elbow joints;2 = Medium rigidity assessd on the basis of resistance to passive movements of for instance the elbow joints;3 = Very marked rigidity;",""
+"uku13","Integer","","Recommended","Neurological Side Effects 13. Hypokinesia/Akinesia","0::3","0 = No or doubtful hypokinesia;1 = Slightly reduced movement, for instance slightly reduced swinging of an arm when walking or slightly reduced facial expressions;2 = More ciear reduction of mobility, for instance slow walking;3 = Very marked reduction of mobility, bordering on and including akinesia, e;g; Parkinsonian mask and/or very short length of stride;",""
+"uku14","Integer","","Recommended","Neurological Side Effects 14. Hyperkinesia","0::3","0 = No or doubtful hyperkinesia;
+1 = Slight hyperkinesia, only present intermittently;
+2 = Moderate hyperkinesia, present most of the time;
+3 = Severe hyperkinesia, present most of the time, with for instance marked tongue protrusion, opening of the mouth, facial hyperkinesia, with or without involvement of the extremities;",""
+"uku15","Integer","","Recommended","Neurological Side Effects 15. Tremor","0::3","0 = No or doubtful tremor;
+1 = Very slight tremor that does not hamper the patient;
+2 = Clear tremor hampering the patient, the amplitude of finger tremor being less than 3 cm;
+3 = Clear tremor with an amplitude of more than 3 cm and which cannot be controlled by the patient;",""
+"uku16","Integer","","Recommended","Neurological Side Effects 16. Akathisia","0::3","0 = No or doubtful akathisia;
+1 = Slight akathisia; however, the patient can keep still without effort;
+2 = Moderate akathisia; however, the patient can, with an effort, remain sitting during the interview;
+3 = When the patient has to rise to his feet several times during the interview because of akathisia;",""
+"uku17","Integer","","Recommended","Neurological Side Effects 17. Epileptic Seizures","0::3","0 = No seizures within the last 6 months;
+1 = One single seizure within the last 6 months;
+2 = 2 or 3 seizures within the last 6 months;
+3 = More than 3 seizures within the last 6 months;",""
+"uku18","Integer","","Recommended","Neurological Side Effects 18. Paraesthesias","0::3","0 = No or doubtful paraesthesias;
+1 = Mild paraesthesias, scarcely bothering the patient;
+2 = Moderate paraesthesias, clearly bothering the patient;
+3 = Severe paraesthesias, markedly bothering the patient;",""
+"uku19","Integer","","Recommended","Neurological Side Effects 19. Headache","0::3","0 = No or doubtful headache;
+1 = Slight headache;
+2 = Moderate, hampering headache which does not interfere with the patient's daily life;
+3 = Pronounced headache interfering with the patient's daily life;",""
+"uku20","Integer","","Recommended","Autonomic Side Effects 20. Accommodation Disturbances","0::3","0 = No difficulty in reading an ordinary newspaper text;
+1 = Newspaper text can be read, but the patient's eyes tire rapidly and/or he must hold the paper further away;
+2 = The patient cannot read an ordinary newspaper text, but still manages to read texts printed in larger types;
+3 = The patient can read large type, such as a headline, only with aid, such as a magnifying glass;",""
+"uku21","Integer","","Recommended","Autonomic Side Effects 21. Increased Salivation","0::3","0 = No or doubtful increase of salivation;
+1 = Salivation clearly increased, but not bothersome;
+2 = Disturbing increase of salivation; need for spitting or frequent swallowing of saliva; only exceptional dribbling;
+3 = Frequent or constant dribbling, perhaps concomitant speech disturbances;",""
+"uku22","Integer","","Recommended","Autonomic Side Effects 22. Reduced Salivation (Dry Mouth)","0::3","0 = No or doubtful dryness of mouth;
+1 = Slight dryness of mouth, not disturbing to the patient;
+2 = Moderate and slightly disturbing dryness of mouth;
+3 = Marked dryness of mouth which clearly disturbs the patient's daily life;",""
+"uku23","Integer","","Recommended","Autonomic Side Effects 23. Nausea/Vomiting","0::3","0 = No or doubtful nausea;
+1 = Slight nausea;
+2 = Disturbing nausea, but without vomiting;
+3 = Nausea with vomiting;",""
+"uku24","Integer","","Recommended","Autonomic Side Effects 24. Diarrhea","0::3","0 = No or doubtful diarrhoea;
+1 = Clearly present, but does not disturb work or other performance;
+2 = Disturbing, with need for several daily, inconvenient stools;
+3 = Marked, imperative need for defaecation, threatening or actual incon- tinence, results in frequent interruptions of work;",""
+"uku25","Integer","","Recommended","Autonomic Side Effects 25. Constipation","0::3","0 = No or doubtful constipation;
+1 = Slight constipation, but bearable;
+2 = More marked constipation which hampers the patient;
+3 = Very pronunced constipation;",""
+"uku26","Integer","","Recommended","Autonomic Side Effects 26. Micturition Disturbances","0::3","0 = No or doubtful micturition disturbance;
+1 = Clearly present, but bearable;
+2 = Poor stream, considerably increased time of micturition, feeling of incomplete emptying of bladder;
+3 = Retention of urine with high volume residual urine and/or threatened or actual acute retention;",""
+"uku27","Integer","","Recommended","Autonomic Side Effects 27. Polyuria/Polydipsia","0::3","0 = No or doubtful;
+1 = Clearly present, but not hampering; Nocturia: At most once a night (in young people);
+2 = Moderately hampering because of frequent thirst, nocturia two or three times a night, or micturition more frequent than every two hours;
+3 = Very hampering, almost constant thirst, nocturia at least four times a night, or micturition at least every hour;",""
+"uku28","Integer","","Recommended","Autonomic Side Effects 28. Orthostatic Dizziness","0::3","0 = No or doubtful;
+1 = Clearly present, but requires no special countermeasures;
+2 = Hampering, but can be neutralized by slow and/or stagewise change to upright position;
+3 = Threatening fainting or real episodes of fainting, despite careful change of position, with a tendency to this type of dizziness as long as the patient is in an upright position;",""
+"uku29","Integer","","Recommended","Autonomic Side Effects 29. Palpitations/Tachycardia","0::3","0 = No or doubtful;
+1 = Clearly present, but not hampering, only short occasional attacks or more constant, but not marked palpitation;
+2 = Hampering frequent or constant palpitation that worries the patient or disturbs his night's sleep; however, without concomitant symptoms;
+3 = Suspicion of real tachycardia, for instance because of concomitant f eeling of weakness and need to lie down, dyspnoca, tendency to fainting, or precordial pain;",""
+"uku30","Integer","","Recommended","Autonomic Side Effects 30. Increased Tendency to Sweat","0::3","0 = No or doubtful;
+1 = Clearly present, but mild, for example a profuse outburst of sweat only after considerable effort;
+2 = Hampering, requires frequent change of clothes, peofuse sweating after moderate activity, for instance walking up stairs;
+3 = Profuse outbursts of sweat after slight activity or when resting, the patient is constantly wet, must change clothes several times a day and must also change night clothes and/or bedclothes;",""
+"uku31","Integer","","Recommended","Other Side Effects 31. Rash","0::3","0 = No or doubtful rash;
+1 = Localized to less than 5 per cent of the skin surface, for instance to the palms;
+2 = Scattered all over the skin, but covers less than l/3 of the skin surface;
+3 = Universal, i;e; covers more than 1/3 of the skin surface;",""
+"uku32","Integer","","Recommended","Other Side Effects 32. Pruritis","0::3","0 = No or doubtful;
+1 = Slight pruritus;
+2 = Pronounced pruritus, so that the patient is being hampered; There may be scratch marks;
+3 = Severe pruritus that markedly hampers the patient; There are distinct skin changes because of scratching;",""
+"uku33","Integer","","Recommended","Other Side Effects 33. Photosensitivity","0::3","0 = No or doubtful;
+1 = Slight, but not hampering;
+2 = More pronounced and hampering to the patient;
+3 = So pronounced that drug withdrawal is clearly necessary;",""
+"uku34","Integer","","Recommended","Other Side Effects 34. Increased Pigmentation","0::3","0 = No or doubtful increase of pigmentation;
+1 = Slightly increased pigmentation;
+2 = Such marked pigmentation, generally or localized, that it worries the patient but is not conspicuous to others;
+3 = So pronounced that the pigmentation can easily be observed by other people;",""
+"uku35","Integer","","Recommended","Other Side Effects 35. Weight Gain","0::3","0 = No or doubtful weight gain during the preceding month;
+1 = Weight gain amounting to 1-2 kg during the preceding month;
+2 = Weight gain amounting to 3-4 kg during the preceding month;
+3 = Weight gain amounting to more than 4 kg during the preceding month;",""
+"uku36","Integer","","Recommended","Other Side Effects 36. Weight Loss","0::3","0 = No or doubtful weight loss;
+1 = Weight loss amounting to 1-2 kg during the preceding month;
+2 = Weight loss amounting to 3-4 kg during the preceding month;
+3 = Weight loss amounting to more than 4 kg during the preceding month;",""
+"uku37","Integer","","Recommended","Other Side Effects 37. Menorrhagia","0::3; 9","0 = No or doubtful increase in frequency or intensity of menstrual flow; 1 = Hypermenorrhoea, i;e; the menstrual flow is more intense than usual, the intervals being normal; 2 = Polymenorrhoea, i;e; the menstrual flow occurs more frequently and is more intense than normal; 3 = Metrorrhagia, i;e; irregular intervals and intensity, the blood loss being more frequent and intense compared with the usual pattern; 9=NA",""
+"uku38","Integer","","Recommended","Other Side Effects 38. Amenorrhoea","0::3; 9","0 = No or doubtful reduction in frequency or intensity of menstrual flow;1 = Hypomenorrhoea, i;e; uterine bleeding of less than the normal amount, but occurring at normal intervals;2 = Oligomenorrhoea, i;e; prolonged intervals compared with the usual condition; the intensity may also be lower than usual; 3 = Amenorrhoea, i;e; menstruation has been absent f or more than 3 months; 9=NA",""
+"uku39","Integer","","Recommended","Other Side Effects 39. Galactorrhoea","0::3","0 = No galactorrhoca;
+1 = Galactorrhoea present, but to a very slight degree;
+2 = Galactorrhosa is present to a moderate degree and is f elt to be somewhat disturbing;
+3 = Galactorrhoea is very pronounced and clearly disturbing;",""
+"uku40","Integer","","Recommended","Other Side Effects 40. Breast Enlargement","0::3","0 = No gynaecomastia;
+1 = Gynaecomastia present to a very slight degree compared with the usual state;
+2 = Gynaecomastia clearly present; however, only hampering when the patient is undressed;
+3 = Gynaecomastia present to such a severe degree that it affects the patient cosmetically, as it can be observed even if he is dressed;",""
+"uku41","Integer","","Recommended","Other Side Effects 41. Increased Sexual Desire","0::3","0 = No or doubtful;
+1 = Slight increase, which is, however, still felt as natural by the partner;
+2 = Clear increase that has given rise to comments and discussions with the partner;
+3 = When the usual desire has increased to such a severe extent that the patient's life with his partner is considerably disturbed;",""
+"uku42","Integer","","Recommended","Other Side Effects 42. Diminished Sexual Desire","0::3","0 = No or doubtful;
+1 = The desire for sexual activity is slightly diminished, but without hampering the patient;
+2 = A distinct reduction of the patient's desire for and interest in sexual activities so that it becomes a problem for the patient;
+3 = Desire and interest have diminished to such an extent that sexual intercourse occurs extremely seldom or has stopped;",""
+"uku43","Integer","","Recommended","Other Side Effects 43. Erectile Dysfunction","0::3; 9","0 = No or doubtful; 1 = Slightly diminished ability to attain or maintain an erection; 2 = A distinct change in the patient's ability to attain or maintain an erection; 3 = The patient only rarely (or never) can attain or maintain an erection; 9=NA",""
+"uku44","Integer","","Recommended","Other Side Effects 44. Ejaculatory Dysfunction","0::3; 9","0 = No or doubtful; 1 = It is somewhat more difficult than usual for the patient to control ejaculation, but it does not trouble him; 2 = A distinct change in the patient's ability to control ejaculation, so that it becomes a problem for him; 3 = The patient's ability to control ejaculation is influenced to such an extent that it has become a dominating problem in his sexual intercourse and thus to a great extent influences his experience of orgasm; 9=NA",""
+"uku45","Integer","","Recommended","Other Side Effects 45. Orgastic Dysfunction","0::3; 9","0 = No or doubtful; 1 = It is more difficult for the patient than usual to obtain orgasm and/or the experience of orgasm is slightly influenced; 2 = The patient states that there is a clear change in the ability to obtain orgasm and/or in the experience of orgasm; This change has reached such a degree that it troubles the patient; 3 = When the patient rarely or never can obtain orgasm and/or the experience of orgasm is markedly reduced; 9=NA",""
+"uku46","Integer","","Recommended","Other Side Effects 46. Dry Vagina","0::3; 9","0 = No or doubtful; 1 = Slight dryness of vagina with sexual stimulation; 2 = Moderately disturbing dryness of vagina with sexual stimulation; 3 = Severely disturbing, marked dryness of vagina making coitus difficult (or necessitating the use of lubricants); 9=NA",""
+"uku47","Integer","","Recommended","Other Side Effects 47. Other","0::3","0 = No or doubtful; 1 = Mild; 2 = Moderate; 3 = Severe",""
+"uku47a","String","250","Recommended","Other Side Effects Describe","","",""
+"uku48a","Integer","","Recommended","Other Side Effects 48a. Pedal Edema","0::3","0 = No or doubtful; 1 = Mild; 2 = Moderate; 3 = Severe",""
+"uku48b","Integer","","Recommended","Other Side Effects 48b. Ecchymosis","0::3","0 = No or doubtful; 1 = Mild; 2 = Moderate; 3 = Severe",""
+"site","String","101","Recommended","Site","","Study Site",""
+"week","Float","","Recommended","Week in level/study","","99=week 10-week 14","intid"
+"study_id","Integer","","Recommended","Study ID number","","46=Acute Phase; 47=Stabilization Phase",""
+"neuro_gaitdescribe","String","255","Recommended","Gait - Describe","","",""
+"dysm_hair_alop","Integer","","Recommended","Hair - Sparse/Alopecia","0::5","0 = No; 1 = Yes; 2=None or no change; 3=Minimal or questionable change; 4=Moderate; 5=Severe, marked increase",""
+"visit","String","60","Recommended","Visit name","","",""
+"days_baseline","Integer","","Recommended","Days since baseline","","",""
+"visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
+"me2","Integer","","Recommended","Status","0;1","0 = Past [Inactive]; 1 = Active",""

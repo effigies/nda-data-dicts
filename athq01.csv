@@ -1,0 +1,154 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","id,subjectid,subjid"
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","visit_date"
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"visit","String","60","Recommended","Visit name","","","visit_name"
+"site","String","101","Recommended","Site","","Study Site","site_uid,siteid"
+"dsmvers","String","10","Recommended","version/name of assessment","","","form_name"
+"date_updated","Date","","Recommended","Date record updated","","","edit_date"
+"session_id","String","20","Recommended","session ID/screening ID","","","screeningid"
+"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","tstst"
+"atrqtrt","Integer","","Recommended","Treatment during CURRENT depressive episode","1;2","1=Yes; 2=No",""
+"medication_name","String","255","Recommended","Name of medication","","","athf_med_namevb,atrqdrg,name"
+"medication_notes","String","1000","Recommended","notes or observations regarding medication","","","athfmed_commvb,atrq4ao"
+"atrq8wks","Integer","","Recommended","At least 8 weeks","1;2","1=Yes; 2=No",""
+"atrqdos","Integer","","Recommended","Equal to or greater than","1;2","1=Minimum Adequate Dose; 2=Minimum Optimal Dose",""
+"atrqaug","Integer","","Recommended","Added to augment or boost effect","1;2","1=Yes; 2=No",""
+"atrqmax","Integer","","Recommended","Degree of Maximum Improvement","1::4","1=A. Less than 25% improved; 2=B. Between 25% and 49% improved; 3=C. Between 50% and 75% improved; 4=D. More than 75% improved",""
+"atrqhlp","String","100","Recommended","Of medications selected, write the one helped most","","",""
+"atrqect","Integer","","Recommended","Received ECT during current treatment episode","1;2","1=Yes; 2=No",""
+"atrqvns","Integer","","Recommended","Did you ever receive (VNS)","1;2","1=Yes; 2=No",""
+"atrqdbs","Integer","","Recommended","Did you ever receive (DBS)","1;2","1=Yes; 2=No",""
+"week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
+"srcint","Integer","","Recommended","Reliability Source of Interview information","1::5; 999","1 = No confidence;2 = Low confidence;3 =  Moderate confidence;4 =  Strong confidence;5 =  High confidence; 999 = Missing",""
+"srcptrec","Integer","","Recommended","Reliability Source of Patient Record Information","1::5; 999","1 = No confidence;2 = Low confidence;3 =  Moderate confidence;4 =  Strong confidence;5 =  High confidence; 999 = Missing",""
+"srcpharm","Integer","","Recommended","Reliability Source of Pharmacy Information","1::5; 999","1 = No confidence;2 = Low confidence;3 =  Moderate confidence;4 =  Strong confidence;5 =  High confidence; 999 = Missing",""
+"srcfamly","Integer","","Recommended","Reliability Source of Family Information","1::5; 999","1 = No confidence;2 = Low confidence;3 =  Moderate confidence;4 =  Strong confidence;5 =  High confidence; 999 = Missing",""
+"srcphys","Integer","","Recommended","Reliability Source of Prescribing pysician","1::5; 999","1 = No confidence;2 = Low confidence;3 =  Moderate confidence;4 =  Strong confidence;5 =  High confidence; 999 = Missing",""
+"srcthrpt","Integer","","Recommended","Reliability Source of Therapist","1::5; 999","1 = No confidence;2 = Low confidence;3 =  Moderate confidence;4 =  Strong confidence;5 =  High confidence; 999 = Missing",""
+"reliable","Integer","","Recommended","Reliable","1::5; 999","1 = No confidence;2 = Low confidence;3 =  Moderate confidence;4 =  Strong confidence;5 =  High confidence; 999 = Missing",""
+"visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","date"
+"phase","Integer","","Recommended","Phase","","9 =follow up",""
+"epilen","Integer","","Recommended","Length of Episode (weeks)","","999=Skipped",""
+"priorect","Integer","","Recommended","Prior ECT","","999=Skipped",""
+"priortx","Integer","","Recommended","Prior antidepressant treatment","0;1;999","0= Unchecked; 1= Checked",""
+"onset","Integer","","Recommended","Onset Day","","Number of days from study baseline/randomisation to start date of SAE","dtonset"
+"medication_dosage","Float","","Recommended","Dosage/quantity of medication","","","athfmed_dosagevb,dose"
+"stsd1","Float","","Recommended","Prescribed med start date 1","","","stdate"
+"stpdate1","Float","","Recommended","Study med stop date1","","",""
+"medication_weeks","Integer","","Recommended","Total weeks of medication 1","","","totwks"
+"moutcm","Integer","","Recommended","Medication  outcome","","","outcome"
+"bloodlv","Integer","","Recommended","Blood level","","","bloodlvl"
+"athgmainid","Integer","","Recommended","ATHFMainID","","",""
+"cmbtrial","Integer","","Recommended","Combination trial","0;1","0=No; 1=Yes",""
+"rating","Integer","","Recommended","Specific Rating-Trial","1::5","1 = No Confidence Rating: Discrepant or clearly unreliable information regarding dose, duration, compliance, and outcome of a medication trial or number and outcome of ECT trial; 2 = Low Confidence Rating: Information is marginal: Evidence of contradictions in information or significant doubt exists �regarding dose, duration, compliance, and outcome of a medication trial or number of treatments and outcome of ECT trial; 3 = Moderate Confidence Rating: Adequate information is available but based largely on one source that appears reliable.� Areas of doubt not critical in medication or ECT resistance rating; 4 = Strong Confidence Rating: Adequate information is available from more than one reliable source without significant discrepancy regarding dose, duration, compliance, and outcome of a medication trial or number and outcome of ECT trial; 5 = High Confidence Rating: Trial dose, duration, compliance, and outcome or the number of treatments and outcome of �ECT trial confirmed by multiple sources, with excellent documentation (blood levels, medication orders), strong evidence of compliance, and outcome certain.",""
+"crtrial","Integer","","Recommended","Confidence rating-Trial","1::5","1 = No Confidence Rating: Discrepant or clearly unreliable information regarding dose and duration of a medication trial or number of ECT trial; 2 = Low Confidence Rating: Information is marginal: Evidence of contradictions in information or significant doubt exists �regarding dose and duration of a medication trial or number of treatments of ECT trial; 3 = Moderate Confidence Rating: Adequate information is available but based largely on one source that appears reliable.� Areas of doubt not critical in medication or ECT resistance rating; 4 = Strong Confidence Rating: Adequate information is available from more than one reliable source without significant discrepancy regarding dose and duration of a medication trial or number of ECT trial; 5 = High Confidence Rating: Trial dose and duration or the number of treatments of �ECT trial confirmed by multiple sources, with excellent documentation (blood levels, medication orders).",""
+"crcomp","Integer","","Recommended","Confidence rating- Compliance","1::5;7","1 = No Confidence Rating: Discrepant or clearly unreliable information regarding compliance; 2 = Low Confidence Rating: Information is marginal: Evidence of contradictions in information or significant doubt exists �regarding compliance of a medication trial; 3 = Moderate Confidence Rating: Adequate information is available but based largely on one source that appears reliable.� Areas of doubt not critical in ECT resistance rating; 4 = Strong Confidence Rating: Adequate information is available from more than one reliable source without significant discrepancy regarding compliance of a medication trial; 5 = High Confidence Rating: Trial compliance confirmed by multiple sources, with strong evidence of compliance; 7=Refused",""
+"croutcm","Integer","","Recommended","Confidence rating- Outcome","1::5","1 = No Confidence Rating: Discrepant or clearly unreliable information regarding outcome of a medication trial or outcome of ECT trial; 2 = Low Confidence Rating: Information is marginal: Evidence of contradictions in information or significant doubt exists �regarding outcome of a medication trial or outcome of ECT trial; 3 = Moderate Confidence Rating: Adequate information is available but based largely on one source that appears reliable.� Areas of doubt not critical in medication or ECT; 4 = Strong Confidence Rating: Adequate information is available from more than one reliable source without significant discrepancy regarding outcome of a medication trial or outcome of ECT trial; 5 = High Confidence Rating: Trial outcome or outcome of �ECT trial confirmed by multiple sources, with outcome certain.",""
+"athf1a","Integer","","Recommended","Episode: Antidepressant: Number of trials","","",""
+"athf1b","Integer","","Recommended","Episode: Antidepressant: Highest Confidence Rating","1::5","1 = No Confidence Rating - Discrepant or clearly unreliable information regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+2 = Low Confidence Rating - Information is marginal; Evidence of contradictions in information or significant doubt exists regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+3 = Moderate Confidence Rating - Adequate information is available but based largely on one source that appears reliable; Areas of doubt not critical in medication or ECT resistance rating;
+4 = Strong Confidence Rating - Adequate information is available from more than one reliable source without significant discrepancy regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+5 = High Confidence Rating - Trial dose, duration, and compliance and outcome or number and outcome of ECT trial confirmed by multiple sources, with excellent documentation (blood levels, medication orders); strong evidence of compliance and outcome certain",""
+"athf1c","Integer","","Recommended","Episode: Antidepressant: Cumulative Confidence Rating","","Cumulative refers to the cumulative strength of all trials rated 2 or more (Do not leave any blanks, fill in with zeros where applicable)",""
+"athf2a","Integer","","Recommended","Episode: Typical Antipsychotic: Number of trials","","",""
+"athf2b","Integer","","Recommended","Episode: Typical Antipsychotic:  Highest Confidence Rating","1::5","1 = No Confidence Rating - Discrepant or clearly unreliable information regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+2 = Low Confidence Rating - Information is marginal; Evidence of contradictions in information or significant doubt exists regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+3 = Moderate Confidence Rating - Adequate information is available but based largely on one source that appears reliable; Areas of doubt not critical in medication or ECT resistance rating;
+4 = Strong Confidence Rating - Adequate information is available from more than one reliable source without significant discrepancy regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+5 = High Confidence Rating - Trial dose, duration, and compliance and outcome or number and outcome of ECT trial confirmed by multiple sources, with excellent documentation (blood levels, medication orders); strong evidence of compliance and outcome certain",""
+"athf2c","Integer","","Recommended","Episode: Typical Antipsychotic: Cumulative Confidence Rating","","Cumulative refers to the cumulative strength of all trials rated 2 or more (Do not leave any blanks, fill in with zeros where applicable)",""
+"athf3a","Integer","","Recommended","Episode: Atypical Antipsychotic: Number of trials","","",""
+"athf3b","Integer","","Recommended","Episode: Atypical Antipsychotic:  Highest Confidence Rating","1;2","1 = No Confidence Rating - Discrepant or clearly unreliable information regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+2 = Low Confidence Rating - Information is marginal; Evidence of contradictions in information or significant doubt exists regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+3 = Moderate Confidence Rating - Adequate information is available but based largely on one source that appears reliable; Areas of doubt not critical in medication or ECT resistance rating;
+4 = Strong Confidence Rating - Adequate information is available from more than one reliable source without significant discrepancy regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+5 = High Confidence Rating - Trial dose, duration, and compliance and outcome or number and outcome of ECT trial confirmed by multiple sources, with excellent documentation (blood levels, medication orders); strong evidence of compliance and outcome certain",""
+"athf3c","Integer","","Recommended","Episode: Atypical Antipsychotic: Cumulative Confidence Rating","","Cumulative refers to the cumulative strength of all trials rated 2 or more (Do not leave any blanks, fill in with zeros where applicable)",""
+"athf4a","Integer","","Recommended","Episode: Combination: Number of trials","","",""
+"athf4b","Integer","","Recommended","Episode: Combination:  Highest Confidence Rating","1::5","1 = No Confidence Rating - Discrepant or clearly unreliable information regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+2 = Low Confidence Rating - Information is marginal; Evidence of contradictions in information or significant doubt exists regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+3 = Moderate Confidence Rating - Adequate information is available but based largely on one source that appears reliable; Areas of doubt not critical in medication or ECT resistance rating;
+4 = Strong Confidence Rating - Adequate information is available from more than one reliable source without significant discrepancy regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+5 = High Confidence Rating - Trial dose, duration, and compliance and outcome or number and outcome of ECT trial confirmed by multiple sources, with excellent documentation (blood levels, medication orders); strong evidence of compliance and outcome certain;",""
+"athf4c","Integer","","Recommended","Episode: Combination: Cumulative Confidence Rating","","Cumulative refers to the cumulative strength of all trials rated 2 or more (Do not leave any blanks, fill in with zeros where applicable)",""
+"athf5a","Integer","","Recommended","Episode: ECT: Number of trials","","",""
+"athf5b","Integer","","Recommended","Episode: ECT:  Highest Confidence Rating","1::5","1 = No Confidence Rating - Discrepant or clearly unreliable information regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+2 = Low Confidence Rating - Information is marginal; Evidence of contradictions in information or significant doubt exists regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+3 = Moderate Confidence Rating - Adequate information is available but based largely on one source that appears reliable; Areas of doubt not critical in medication or ECT resistance rating;
+4 = Strong Confidence Rating - Adequate information is available from more than one reliable source without significant discrepancy regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+5 = High Confidence Rating - Trial dose, duration, and compliance and outcome or number and outcome of ECT trial confirmed by multiple sources, with excellent documentation (blood levels, medication orders); strong evidence of compliance and outcome certain",""
+"athf5c","Integer","","Recommended","Episode: ECT: Cumulative Confidence Rating","","Cumulative refers to the cumulative strength of all trials rated 2 or more (Do not leave any blanks, fill in with zeros where applicable)",""
+"athf6a","Integer","","Recommended","Past 6 months: Antidepressant:  Number of trials","","",""
+"athf6b","Integer","","Recommended","Past 6 months: Antidepressant:  Highest Confidence Rating","1::5","1 = No Confidence Rating - Discrepant or clearly unreliable information regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+2 = Low Confidence Rating - Information is marginal; Evidence of contradictions in information or significant doubt exists regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+3 = Moderate Confidence Rating - Adequate information is available but based largely on one source that appears reliable; Areas of doubt not critical in medication or ECT resistance rating;
+4 = Strong Confidence Rating - Adequate information is available from more than one reliable source without significant discrepancy regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+5 = High Confidence Rating - Trial dose, duration, and compliance and outcome or number and outcome of ECT trial confirmed by multiple sources, with excellent documentation (blood levels, medication orders); strong evidence of compliance and outcome certain",""
+"athf6c","Integer","","Recommended","Past 6 months: Antidepressant: Cumulative Confidence Rating","","Cumulative refers to the cumulative strength of all trials rated 2 or more (Do not leave any blanks, fill in with zeros where applicable)",""
+"athf7a","Integer","","Recommended","Past 6 months: Typical Antipsychotic:  Number of trials","","",""
+"athf7b","Integer","","Recommended","Past 6 months: Typical Antipsychotic:  Highest Confidence Rating","0::5","0 = Do not leave any blanks, fill in with zeros where applicable
+1 = No Confidence Rating - Discrepant or clearly unreliable information regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+2 = Low Confidence Rating - Information is marginal; Evidence of contradictions in information or significant doubt exists regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+3 = Moderate Confidence Rating - Adequate information is available but based largely on one source that appears reliable; Areas of doubt not critical in medication or ECT resistance rating;
+4 = Strong Confidence Rating - Adequate information is available from more than one reliable source without significant discrepancy regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+5 = High Confidence Rating - Trial dose, duration, and compliance and outcome or number and outcome of ECT trial confirmed by multiple sources, with excellent documentation (blood levels, medication orders); strong evidence of compliance and outcome certain",""
+"athf7c","Integer","","Recommended","Past 6 months: Typical Antipsychotic: Cumulative Confidence Rating","","Cumulative refers to the cumulative strength of all trials rated 2 or more (Do not leave any blanks, fill in with zeros where applicable)",""
+"athf8a","Integer","","Recommended","Past 6 months: Atypical Antipsychotic:  Number of trials","","",""
+"athf8b","Integer","","Recommended","Past 6 months: Atypical Antipsychotic:  Highest Confidence Rating","0::5","0 = Do not leave any blanks, fill in with zeros where applicable
+1 = No Confidence Rating - Discrepant or clearly unreliable information regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+2 = Low Confidence Rating - Information is marginal; Evidence of contradictions in information or significant doubt exists regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+3 = Moderate Confidence Rating - Adequate information is available but based largely on one source that appears reliable; Areas of doubt not critical in medication or ECT resistance rating;
+4 = Strong Confidence Rating - Adequate information is available from more than one reliable source without significant discrepancy regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+5 = High Confidence Rating - Trial dose, duration, and compliance and outcome or number and outcome of ECT trial confirmed by multiple sources, with excellent documentation (blood levels, medication orders); strong evidence of compliance and outcome certain",""
+"athf8c","Integer","","Recommended","Past 6 months: Atypical Antipsychotic: Cumulative Confidence Rating","","Cumulative refers to the cumulative strength of all trials rated 2 or more (Do not leave any blanks, fill in with zeros where applicable)",""
+"athf9a","Integer","","Recommended","Past 6 months: Combination:  Number of trials","","",""
+"athf9b","Integer","","Recommended","Past 6 months: Combination:  Highest Confidence Rating","1::5","1 = No Confidence Rating - Discrepant or clearly unreliable information regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+2 = Low Confidence Rating - Information is marginal; Evidence of contradictions in information or significant doubt exists regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+3 = Moderate Confidence Rating - Adequate information is available but based largely on one source that appears reliable; Areas of doubt not critical in medication or ECT resistance rating;
+4 = Strong Confidence Rating - Adequate information is available from more than one reliable source without significant discrepancy regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+5 = High Confidence Rating - Trial dose, duration, and compliance and outcome or number and outcome of ECT trial confirmed by multiple sources, with excellent documentation (blood levels, medication orders); strong evidence of compliance and outcome certain",""
+"athf9c","Integer","","Recommended","Past 6 months: Combination: Cumulative Confidence Rating","","Cumulative refers to the cumulative strength of all trials rated 2 or more (Do not leave any blanks, fill in with zeros where applicable)",""
+"athf10a","Integer","","Recommended","Past 6 months: ECT:  Number of trials","","",""
+"athf10b","Integer","","Recommended","Past 6 months: ECT:  Highest Confidence Rating","1::5","1 = No Confidence Rating - Discrepant or clearly unreliable information regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+2 = Low Confidence Rating - Information is marginal; Evidence of contradictions in information or significant doubt exists regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+3 = Moderate Confidence Rating - Adequate information is available but based largely on one source that appears reliable; Areas of doubt not critical in medication or ECT resistance rating;
+4 = Strong Confidence Rating - Adequate information is available from more than one reliable source without significant discrepancy regarding dose, duration, or compliance and outcome of a medication trial or number and outcome of ECT trial;
+5 = High Confidence Rating - Trial dose, duration, and compliance and outcome or number and outcome of ECT trial confirmed by multiple sources, with excellent documentation (blood levels, medication orders); strong evidence of compliance and outcome certain",""
+"athf10c","Integer","","Recommended","Past 6 months: ECT: Cumulative Confidence Rating","","Cumulative refers to the cumulative strength of all trials rated 2 or more (Do not leave any blanks, fill in with zeros where applicable)",""
+"onsetepi","Integer","","Recommended","If currently depressed: Date of onset of episode","","","epionsetdays"
+"medication1_unit","String","100","Recommended","Units of medication #1:","","","athfmed_unitsvb"
+"medication1_frequency","String","120","Recommended","First medication frequency","","","athfmed_freqvb"
+"stdate1","String","20","Recommended","Medication start date 1","","mm/dd/yyyy or write out month year","athfmed_date_movb"
+"spdate1","String","20","Recommended","Medication stop date 1","","mm/dd/yyyy or write out month year","athfmed_currentvb"
+"concommeds_1_source","Integer","","Recommended","Source of Information","1::10;99","1=Subject; 2=Health Professional; 3=Chart/Medical Record; 4=Family/friends/associate; ; 5 = Prescribing Physician; 6 = Therapist; 7 = Pharmacy; 9=Other; 99=Unknown; 10 = Research staff","athfmed_sourcevb"
+"cyb_be_reli","Integer","","Recommended","Reliability of Information","0; 1; 2; 3","0 = Excellent; 1 = Good; 2 = Fair; 3 = Poor","athfmed_relvb"
+"pu_ect1_type","Integer","","Recommended","Electroconvulsive Therapy Course 1: Type","1::3;9","1=Unilateral; 2=Bilateral; 3=Both; 9=Unknown","athf_ub"
+"pu_ect1_notrts","Integer","","Recommended","Electroconvulsive Therapy Course 1: Number of treatments","","","athf_tn"
+"athfmed_durationvb","Integer","","Recommended","Duration (in MONTHS) on medication","","",""
+"athfmed_outvb","Integer","","Recommended","Medication Treatment Outcome","1::6","1 = Worse ; 2 = No Change ; 3 = Marginally Improved ; 4 = Markedly Improved ; 5 = Remitted ; 6 = No Information",""
+"athf_dosage","Integer","","Recommended","Electroconvulsive Therapy (ECT) dosage unit","1::3","1 = mC; 2 = J; 3 = V",""
+"athf_com","String","300","Recommended","Electroconvulsive Therapy (ECT) comments","","",""
+"athf_out","Integer","","Recommended","Electroconvulsive Therapy (ECT) Treatment Outcome","1::6","1 = Worse ; 2 = No Change ; 3 = Marginally Improved ; 4 = Markedly Improved ; 5 = Remitted ; 6 = No Information",""
+"ect_age","Integer","","Recommended","Electroconvulsive Shock Therapy Age","","years",""
+"lineno","Integer","","Recommended","Line number (lines per participant)","0::150","",""
+"athf_trial_number","Integer","","Recommended","Trial Number","1::20","",""
+"athf_type","Integer","","Recommended","Trial Type ","1::5","1 = Monotherapy; 2 = Augmentation; 3 = ECT; 4 = rTMS; 5 = Psychotherapy",""
+"athf_med","String","200","Recommended","Trial Medication Name","","",""
+"athf_dur","String","200","Recommended","Trial Duration","","",""
+"athf_ect_num_tx","Integer","","Recommended","Trial Number ECT Treatments","","",""
+"athf_rtms_tx","Integer","","Recommended","Trial rTMS Number Tx","","",""
+"athf_psy_type","Integer","","Recommended","Trial Psychotherapy Type","1::4","1 = Cognitive Behavioral Therapy (CBT); 2 = Interpersonal Psychotherapy (IPT); 3 = Problem Solving Therapy (PST); 4 = Other psychotherapy",""
+"athf_psys_ses","Integer","","Recommended","Trial Psychotherapy Num Sessions","","",""
+"athf_conf_rating","Integer","","Recommended","Trial Confidence Rating","1::3","1 = Low; 2 = Moderate; 3 = Strong",""
+"athf_score","Integer","","Recommended","Trial Score","","",""
+"athf_any_tx","Integer","","Recommended","ATHF - received any treatments for depression","1;2","1 = Yes; 2 = No",""
+"athf_src_intrvw","Integer","","Recommended","ATHF source - Interview","1;2","1 = Yes; 2 = No",""
+"athf_src_pt_rcd","Integer","","Recommended","ATHF source - Patient record","","",""
+"athf_src_phrm","Integer","","Recommended","ATHF source - Pharmacy","","",""
+"athf_src_fam","Integer","","Recommended","ATHF source - Family member","","",""
+"athf_src_rx_phys","Integer","","Recommended","ATHF source - Family physician","","",""
+"athf_src_thrpst","Integer","","Recommended","ATHF source - Therapist","","",""

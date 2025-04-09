@@ -1,0 +1,108 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","catieid"
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
+"adrqla01","Integer","","Recommended","He/She smiles or laughs when around other people","0;1","0=Disagree; 1= Agree",""
+"adrqla02","Integer","","Recommended","He/She does not
+pay attention to the presence of others","0;1","0=Disagree; 1= Agree",""
+"adrqla03","Integer","","Recommended","He/She will stay around other people","0;1","0=Disagree; 1= Agree",""
+"adrqla04","Integer","","Recommended","He/She seeks
+contact with others by greeting peoplee or joining in conversations","0;1","0=Disagree; 1= Agree",""
+"adrqla05","Integer","","Recommended","He/She talks with people.","0;1","0=Disagree; 1= Agree",""
+"adrqla06","Integer","","Recommended","He/She touches or allows touching such as handshakes, hugs, kisses, pats","0;1","0=Disagree; 1= Agree",""
+"adrqla07","Integer","","Recommended","He/She can be
+comforted or reassured by others","0;1","0=Disagree; 1= Agree",""
+"adrqla08","Integer","","Recommended","He/She is not comfortable with strangers or people he/she doesnt recognize.","0;1","0=Disagree; 1= Agree",""
+"adrqla09","Integer","","Recommended","He/She reacts with pleasure to pets or small children","0;1","0=Disagree; 1= Agree",""
+"adrqla10","Integer","","Recommended","He/She talks with people on the telephone","0;1","0=Disagree; 1= Agree",""
+"adrqla11","Integer","","Recommended","He/She becomes
+upset or angry when approached by another person","0;1","0=Disagree; 1= Agree",""
+"adrqla12","Integer","","Recommended","He/She pushes, grabs or hits people","0;1","0=Disagree; 1= Agree",""
+"adrqlb01","Integer","","Recommended","He/She talks about
+or still does things related to his/her previous work or daily activities","0;1","0=Disagree; 1= Agree",""
+"adrqlb02","Integer","","Recommended","He/She is aware of his/her place in the family such as being a husband/wife, parent, grandparent","0;1","0=Disagree; 1= Agree",""
+"adrqlb03","Integer","","Recommended","He/She makes or indicates choices in routine daily activities such as what to wear, what to eat, or where to sit","0;1","0=Disagree; 1= Agree",""
+"adrqlb04","Integer","","Recommended","He/She becomes
+upset by personal limitations such as forgetting, losing things, or getting confused in familiar places","0;1","0=Disagree; 1= Agree",""
+"adrqlb05","Integer","","Recommended","He/She shows interest in events, places or habits from his/her past such as old friends, former residences, church or prayer","0;1","0=Disagree; 1= Agree",""
+"adrqlb06","Integer","","Recommended","He/She does not respond to his/her own name","0;1","0=Disagree; 1= Agree",""
+"adrqlb07","Integer","","Recommended","He/She does not express beliefs or attitudes that he/she always had","0;1","0=Disagree; 1= Agree",""
+"adrqlb08","Integer","","Recommended","He/She indicates yes or no by gesturing, nodding, or talking","0;1","0=Disagree; 1= Agree",""
+"adrqlc01","Integer","","Recommended","He/She smiles or laughs or is cheerful","0;1","0=Disagree; 1= Agree",""
+"adrqlc02","Integer","","Recommended","He/She squeezes, twists or wrings his/her hands","0;1","0=Disagree; 1= Agree",""
+"adrqlc03","Integer","","Recommended","He/She throws, hits, kicks or bangs objects","0;1","0=Disagree; 1= Agree",""
+"adrqlc04","Integer","","Recommended","He/She calls out or yells or curses or makes accusations","0;1","0=Disagree; 1= Agree",""
+"adrqlc05","Integer","","Recommended","He/She locks or barricades himself/herself in his/her room/house/apartment","0;1","0=Disagree; 1= Agree",""
+"adrqlc06","Integer","","Recommended","He/She is irritable or easily angered","0;1","0=Disagree; 1= Agree",""
+"adrqlc07","Integer","","Recommended","He/She says he/she wants to die.","0;1","0=Disagree; 1= Agree",""
+"adrqlc08","Integer","","Recommended","He/She cries, wails, or frowns.","0;1","0=Disagree; 1= Agree",""
+"adrqlc09","Integer","","Recommended","He/She shows delight.","0;1","0=Disagree; 1= Agree",""
+"adrqlc10","Integer","","Recommended","He/She is restless and wound up, or repeats actions such as rocking, pacing, or banging against walls","0;1","0=Disagree; 1= Agree",""
+"adrqlc11","Integer","","Recommended","He/She resists help in different ways such as with dressing, eating or bathing, or by refusing to move","0;1","0=Disagree; 1= Agree",""
+"adrqlc12","Integer","","Recommended","He/She clings to people or follows people around","0;1","0=Disagree; 1= Agree",""
+"adrqlc13","Integer","","Recommended","He/She appears to be content or satisfied","0;1","0=Disagree; 1= Agree",""
+"adrqlc14","Integer","","Recommended","He/She talks of feeling sick, having pain, or being cold","0;1","0=Disagree; 1= Agree",""
+"adrqlc15","Integer","","Recommended","He/She shows a sense of humor.","0;1","0=Disagree; 1= Agree",""
+"adrqld01","Integer","","Recommended","He/She enjoys doing activities alone such as listening to music or watching T.V.","0;1","0=Disagree; 1= Agree",""
+"adrqld02","Integer","","Recommended","He/She does not take part in activies he/she used to enjoy, even when encouraged to take part","0;1","0=Disagree; 1= Agree",""
+"adrqld03","Integer","","Recommended","He/She sits quietly and appears toenjoy the activity of others even though he/she is not actively participating","0;1","0=Disagree; 1= Agree",""
+"adrqld04","Integer","","Recommended","He/She shows no signs of pleasure or enjoyment when taking part in leisure activities or recreation","0;1","0=Disagree; 1= Agree",""
+"adrqld05","Integer","","Recommended","He/She dozes off or does nothing most of the time","0;1","0=Disagree; 1= Agree",""
+"adrqle01","Integer","","Recommended","He/She gets enjoyment from or is calmed by his or her posessions or belongings","0;1","0=Disagree; 1= Agree",""
+"adrqle02","Integer","","Recommended","He/She talks about feeling unsafe or says his/her belongings are not safe","0;1","0=Disagree; 1= Agree",""
+"adrqle03","Integer","","Recommended","He/She is upset or unsettled when in places other than where he/she lives","0;1","0=Disagree; 1= Agree",""
+"adrqle04","Integer","","Recommended","He/She makes repeated attempts to leave","0;1","0=Disagree; 1= Agree",""
+"adrqle05","Integer","","Recommended","He/She is upset or unsettled in his/her living environment","0;1","0=Disagree; 1= Agree",""
+"adrqle06","Integer","","Recommended","He/She is comfortable moving around where he/she lives","0;1","0=Disagree; 1= Agree",""
+"adrqle07","Integer","","Recommended","He/She talks about wanting to leave or go home","0;1","0=Disagree; 1= Agree",""
+"visit","String","60","Recommended","Visit name","","",""
+"visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
+"phase_ct","String","20","Recommended","Current Phase. Phase patient was in at the time of the assessment Phase 4 refers to the follow-up phase.","Pre-Rand; Phase 1/1A; Phase 2; Phase 3; Phase 4; Phase 1B; Open-Choice Phase; Screening; Phase 1","","phase"
+"si_total","Float","","Recommended","Social Interaction Domain Total Score","0::100","Refer to the following document for complete scoring
+mechanism
+Black BS, Rabins, PV and Kasper JD (2000). Alzheimer
+disease related
+Quality of Life User's Manual. Baltimore MD, DEMeasure.",""
+"as_total","Float","","Recommended","Awareness of Self Domain Total Score","0::100","Refer to the following document for complete scoring
+mechanism
+Black BS, Rabins, PV and Kasper JD (2000). Alzheimer
+disease related
+Quality of Life User's Manual. Baltimore MD, DEMeasure.",""
+"fm_total","Float","","Recommended","Feelings and Mood Domain Total Score","0::100","Refer to the following document for complete scoring
+mechanism
+Black BS, Rabins, PV and Kasper JD (2000). Alzheimer
+disease related
+Quality of Life User's Manual. Baltimore MD, DEMeasure.",""
+"ea_total","Float","","Recommended","Enjoyment of Activities Domain Total Score","0::100","Refer to the following document for complete scoring
+mechanism
+Black BS, Rabins, PV and Kasper JD (2000). Alzheimer
+disease related
+Quality of Life User's Manual. Baltimore MD, DEMeasure.",""
+"rs_total","Float","","Recommended","Response to Surroundings Domain Total Sc","0::100","Refer to the following document for complete scoring
+mechanism
+Black BS, Rabins, PV and Kasper JD (2000). Alzheimer
+disease related
+Quality of Life User's Manual. Baltimore MD, DEMeasure.",""
+"totadrql","Float","","Recommended","ADRQL Total Score","0::100","Refer to the following document for complete scoring
+mechanism
+Black BS, Rabins, PV and Kasper JD (2000). Alzheimer
+disease related
+Quality of Life User's Manual. Baltimore MD, DEMeasure.",""
+"last1","Integer","","Recommended","Flag Last Phase 1/1A Visit","","1=Yes for all records meeting this criteria",""
+"base1","Integer","","Recommended","Flag Baseline Phase 1/1A Visit","","1=Yes for all records meeting this criteria",""
+"base_ts","Float","","Recommended","Baseline Total Score","","Scare at Phase 1 baselline",""
+"base_si","Float","","Recommended","Baseline Social Interaction Domain Total","","Scare at Phase 1 baseline",""
+"base_as","Float","","Recommended","Baseline Awareness of
+Self Domain Total","","Scare at Phase 1 baseline",""
+"base_fm","Float","","Recommended","Baseline Feelings and Mood Domain Total","","Scare at Phase 1 baseline",""
+"base_ea","Float","","Recommended","Baseline Enjoyment of Activities Domain","","Scare at Phase 1 baseline",""
+"base_rs","Float","","Recommended","Baseline Response to Surroundings Total","","Scare at Phase 1 baseline",""
+"c_ts","Float","","Recommended","Changed from Baseline ADAS Total Score","","Change from Phase 1 baseline",""
+"c_si","Float","","Recommended","Change from Baseline Social Interaction","","Scare at Phase 1 baseline",""
+"c_as","Float","","Recommended","Change from Baseline Awareness of Self D","","Scare at Phase 1 baseline",""
+"c_fm","Float","","Recommended","Change from Baseline Feelings and Mood D","","Scare at Phase 1 baseline",""
+"c_ea","Float","","Recommended","Change from Baseline Enjoyment of Activi","","Scare at Phase 1 baseline",""
+"c_rs","Float","","Recommended","Change from Baseline Response to Surroun","","Scare at Phase 1 baseline",""

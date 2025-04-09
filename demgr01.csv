@@ -1,0 +1,197 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","id"
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"days_baseline","Integer","","Recommended","Days since baseline","","","dayd,daydemo"
+"assbdic","String","5","Recommended","Assessment Point","D;14;E;24;LB;36;72;96;120; 9; B; 3; 7; 144; 168;192; C","D=MTA baseline assessment; 14=MTA 14 month assessment; E=MTA early termination assessment; B = MTA Pre-Baseline Screening Assessment (579/579); 09 = MTA 9 Month Assessment (530/530); 24=MTA 24 month assessment; LB=LNCG baseline assessment; 36=MTA and LNCG 3 year assessment; 72=MTA and LNCG 6 year assessment; 96=MTA and LNCG 8 year assessment; 03 = MTA 3 Month Assessment (438/687);120=MTA and LNCG 10 year assessment; 7= 7th Grade Assessment (221/276); 144 = MTA & LNCG 12 Month Assessment (578/578); 168 = MTA & LNCG 14 Month Assessment (585/585); 192 = MTA & LNCG 16 Month Assessment (505/505); C = MTA Pre-Baseline Screening Assessment (78/78)","assd,assdemo"
+"relationship","Integer","","Recommended","Relationship of respondent to individual","1::95;-999","1 = Biological mom; 2 = Biological dad; 3 = Grandparent; 4 = Special education (sped) teacher; 5 = General education teacher; 6 = Occupational therapist; 7 = Speech and language therapist; 8 = Behavioral therapist; 9 = Paraprofessional; 10 = Aide; 11 = Principal; 12 = Administrator; 14 = Content teacher; 15 = Parent center director; 16 = Self; 17 = Adoptive mother; 18 = Adoptive father; 19 = Foster mother; 20 = Foster father; 21 = Grandmother; 22 = Grandfather; 23 = Step-mother; 24 = Step-father; 25 = Aunt; 26 = Uncle; 28 = Both parents; 31 = Grandmother from mother side; 32 = Grandfather from mother side; 33 = Grandmother from father side; 34 = Grandfather from father side; 36 = Brother; 37 = Sister; 38 = Cousin; 39 = Female caregiver; 40 = Male caregiver; 41 = Female child; 42 = Male child; 43 = Spouse/Mate; 44 = Friend; 45 = Parent; 46 = Significant other; 47 = Sibling; 48 = Son/Daughter; 49 = Son-in-law/Daughter-in law; 50 = Other Relative; 51 = Paid caregiver; 52 = Friends; 53 = Roommate; 54 = Supervisor; 55 = Mother's boyfriend; 56 = Other parental figure; 57 = Summary; 58 = Counselor; 59 = Other female relative; 60 = Other male relative; 61 = Non-relative ; 62 = Maternal Aunt; 63 = Maternal Uncle; 64 = Maternal Cousin; 65 = Paternal Aunt; 66 = Paternal Uncle; 67 = Paternal Cousin; 68 = Biological/Adoptive Mother and Grandmother; 69 = Biological/Adoptive Mother and Stepmother and Grandmother; 70 = Biological/Adoptive Mother and Grandmother and Foster Father; 71 = Biological/Adoptive Mother and Stepmother and Foster Mother; 72 = Biological/Adoptive Mother and Foster Mother; 73 = Biological/Adoptive Mother and Biological/Adoptive Father; 74 = Biological/Adoptive Mother and Stepmother and Biological/Adoptive Father; 75 = Biological/Adoptive Mother and Other; 76 = Biological/Adoptive Mother and Stepmother and Stepfather; 77 = Biological/Adoptive Mother and Stepfather; 78 = Biological/Adoptive Mother and Grandfather; 79 = Biological/Adoptive Mother and Stepmother and Foster Father; 80 = Biological/Adoptive Mother and Stepmother; 81 = Guardian, female; 82 = Other female; 83 = Guardian, male; 84 = Other male; 85 = Other/Grandparent/Nanny; 86 = Mother, Father, Guardian; 87 = Daughter, son, grandchild; 88 = Professional (e.g., social worker, nurse, therapist, psychiatrist, or group home staff); -999 = Missing; 89 = Biological parent; 90 = Other; 91 = Stepparent; 92 = Adoptive parent; 93 = Foster parent; 94 = Co-worker; 95 = Independent Evaluator","reld,reldemo"
+"actbdic","Integer","","Recommended","Active status","0::5","0=Inactive-Data collected after the 14 month treatment phase/after early termination from treatment phase/prior to treatment phase; 1=Active-Data collected during the 14 month treatment phase while subject received originally assigned treatment regardless of degree of compliance; 2=Active-This is the last active assessment for subjects who were about to violate treatment arm by receiving alternate treatment; 3=Active-This is the last active assessment for subjects who were about to leave the study by moving away;4=Yes, Active; 5=No, Not Active","actd,actdemo"
+"site","String","101","Recommended","Site","","Study Site","sitenum"
+"sjtyp","Integer","","Recommended","Subject type","1;2","1=MTA randomized trial subject; 2=Local normative comparison group (LNCG) subject",""
+"demo1","Integer","","Recommended","Adolescent's usual living arrangement (Not where the adolescent is just visiting)","1::10;12","1=In parental family home (include joint custody); 2=In home of other relative; 3=In home of unrelated friend; 4=College or boarding school dormitory; 5=Shared apartment or residence with friends or roommates; 6=In own home/apartment/residence; 7=Shelter/street/homeless/transient; 8=Jail; 9=Hospital/residential treatment center; 10=Halfway house/group home/supervised living arrangement; 12=Other","d5"
+"demo2","Integer","","Recommended","Adolescent","0::9","0=none in home; 1= one in home; 2= two in home; 9=9 in home",""
+"demo3","Integer","","Recommended","Mother figure","0::9","0=none in home; 1= one in home; 2= two in home; 9=9 in home",""
+"demo4","Integer","","Recommended","Father figure","0::9","0=none in home; 1= one in home; 2= two in home; 9=9 in home",""
+"demo5","Integer","","Recommended","Brothers","0::9","0=none in home; 1= one in home; 2= two in home; 9=9 in home",""
+"demo6","Integer","","Recommended","Sisters","0::9","0=none in home; 1= one in home; 2= two in home; 9=9 in home",""
+"demo7","Integer","","Recommended","Other relatives","0::9","0=none in home; 1= one in home; 2= two in home; 9=9 in home",""
+"demo8","Integer","","Recommended","Non relatives","0::9","0=none in home; 1= one in home; 2= two in home; 9=9 in home",""
+"demo9","Integer","","Recommended","Spouse/significant other","0::9","0=none in home; 1= one in home; 2= two in home; 9=9 in home",""
+"demo10","Integer","","Recommended","Children of adolescent","0::9","0=none in home; 1= one in home; 2= two in home; 9=9 in home",""
+"demo11","Integer","","Recommended","Total number of persons in home","","",""
+"das1ms","String","200","Recommended","Marital status","","","demo12"
+"demo13","Integer","","Recommended","If Adolescent's current marital status is 2 (Currently married/common law) or 3 (Currently not married, living together), number of years","","",""
+"demo14","Integer","","Recommended","Adolescent's current level of physical health","1::5","1=Very poor; 2=Poor; 3=Fair; 4=Good; 5=Excellent",""
+"demo15","Integer","","Recommended","Type of middle school or high school adolescent attends","1::6","1=Past high school age or not in middle or high school; 2=Regular public school; 3=Regular private or parochial school; 4=Special school for persons with emotional/behavioral or learning problems; 5=Home schooling; 6=Other",""
+"demo16","Integer","","Recommended","Adolescent's current grade in school (If between grades, e.g., summer vacation, circle last gradecompleted) (If not currently in school, use Code 19.)","5::19","5=5th grade; 6=6th grade; 7=7th grade; 8=8th grade; 9=9th grade; 10=10th grade; 11=11th grade; 12=12th grade or 1st year CEGEP in Canada; 13=1st year college/university/community college (or 2nd year CEGEP in Canada); 14=2nd year college/university/community college; 15=3rd year college/university/community college; 16=4th year or more college/university/community college; 17=Technical/trade/vocational school (e.g. auto mechanic or computer technician school); 18=Un-graded Special Education classroom; 19=Not in middle school, not in high school, not in college, and not in technical school",""
+"demo17","Integer","","Recommended","Last school grade completed by the adolescent","5::19","5=5th grade; 6=6th grade; 7=7th grade; 8=8th grade; 9=9th grade; 10=10th grade; 11=11th grade; 12=12th grade or 1st year CEGEP in Canada; 13=1st year college/university/community college (or 2nd year CEGEP in Canada); 14=2nd year college/university/community college; 15=3rd year college/university/community college; 16=4th year or more college/university/community college; 17=Technical/trade/vocational school (e.g. auto mechanic or computer technician school); 18=Un-graded Special Education classroom; 19=Not in middle school, not in high school, not in college, and not in technical school",""
+"demo18","Integer","","Recommended","How many years has adolescent attended a technical/trade/vocational school?","1::5","1=Up to 1 year; 2=Up to 2 years; 3=Up to 3 years; 4=Up to 4 years; 5=Never attended a technical/trade/vocational school",""
+"demo19","String","25","Recommended","All schooling degrees earned by adolescent","","1=No degree or certificate; 2=High school diploma or GED; 3=Certificate from technical school or equivalent; 4=Associate degree from 2 year program usually from community college or DEC in Canada; 5=Bachelors degree from 4 year college or university; 6=Post college graduate degree",""
+"demo25","String","25","Recommended","Current employment status adolescent","","1=Working full time; 2=Working part time; 3=Keeping house; 4=Unemployed and looking for work; 5=Unemployed and not looking for work; 6=Disabled; 7=Retired; 8=Full time student; 9=Part time student; 10=Other",""
+"demo35","String","25","Recommended","Current employment status mother","","1=Working full time; 2=Working part time; 3=Keeping house; 4=Unemployed and looking for work; 5=Unemployed and not looking for work; 6=Disabled; 7=Retired; 8=Full time student; 9=Part time student; 10=Other; 88=Not in household",""
+"demo46","String","25","Recommended","Current employment status father","","1=Working full time; 2=Working part time; 3=Keeping house; 4=Unemployed and looking for work; 5=Unemployed and not looking for work; 6=Disabled; 7=Retired; 8=Full time student; 9=Part time student; 10=Other; 88=Not in household",""
+"demo57","Integer","","Recommended","How many times in the past two years has the adolescent experienced job losses by parental figures (include being fired, laid off, resigned because threatened with firing)?","","",""
+"demo58","Integer","","Recommended","How many times in the past two years has the adolescent lost a job due to being fired, laid off, or
+resigned because threatened with firing?","","",""
+"demo59","Integer","","Recommended","How many times in the past two years has the adolescent experienced separations, divorces, or
+deaths of parental figures?","","",""
+"demo60","Integer","","Recommended","Annual household income before taxes, including income from all jobs, child support, public
+assistance, or Social Security payments. (include income from all working members of the
+household in item 2 who contribute financially)","1::10","1=less than $5,000; 2 = Less than $10,000; 3 = $10,001 to $20,000; 4 = $20,001 to $30,000; 5 = $30,001 to $40,000; 6 = $40,001 to $50,000; 7 = $50,001 to $60,000; 8 = $60,001 to $70,000; 9 = $70,001 to $80,000; 10 = $80,001 or more",""
+"demo61","Integer","","Recommended","Does any part of your annual household income come from public assistance?","1;2","1=yes; 2=no",""
+"demo62","Integer","","Recommended","Adolescent's annual income before taxes, including income from all jobs, child support, public
+assistance, or Social Security payments. (Do not include typical weekly allowance from parents
+or other parental financial support.)","1::10","1 = None, does not work; 2 = Less than $10,000; 3 = $10,001 to $20,000; 4 = $20,001 to $30,000; 5 = $30,001 to $40,000; 6 = $40,001 to $50,000; 7 = $50,001 to $60,000; 8 = $60,001 to $70,000; 9 = $70,001 to $80,000; 10 = $80,001 or more","d10"
+"demo63","Integer","","Recommended","Does any part of adolescent's annual income come from public assistance?","1;2","1=yes; 2=no","d11a"
+"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"d1a","Integer","","Recommended","Never made a home with a romantic partner as a couple","1","1=True",""
+"d1b","Integer","","Recommended","Number of times legally married including common law","","",""
+"d1c","Integer","","Recommended","Number of times not married but living together as a couple","","",""
+"d1d","Integer","","Recommended","Number of times separated","","",""
+"d1e","Integer","","Recommended","Number of times divorced or annulled","","",""
+"d1f","Integer","","Recommended","Number of times widowed","","",""
+"d21y","Integer","","Recommended","Years legally married including common law","","",""
+"d21m","Integer","","Recommended","Months legally married including common law","","",""
+"d22y","Integer","","Recommended","Years not married but living together as a couple","","",""
+"d22m","Integer","","Recommended","Months not married but living together as a couple","","",""
+"d3b","Integer","","Recommended","Number of biological children","","",""
+"d3c","Integer","","Recommended","Number of adopted children","","",""
+"d3d","Integer","","Recommended","Number of step children","","",""
+"d3e","Integer","","Recommended","Number of foster children","","",""
+"d4a","Integer","","Recommended","Number of biological children living with you","","",""
+"d4b","Integer","","Recommended","Number of adopted children living with you","","",""
+"d4c","Integer","","Recommended","Number of step children living with you","","",""
+"d4d","Integer","","Recommended","Number of foster children living with you","","",""
+"d6a","Integer","","Recommended","Have no full, half, adopted, or step- brothers or sisters","1","1=True",""
+"d6b1","Integer","","Recommended","Number of full brothers","","",""
+"d6b2","Integer","","Recommended","Number of full brothers diagnosed with ADHD","","",""
+"d6c1","Integer","","Recommended","Number of full sisters","","",""
+"d6c2","Integer","","Recommended","Number of full sisters diagnosed with ADHD","","",""
+"d6d1","Integer","","Recommended","Number of half brothers","","",""
+"d6d2","Integer","","Recommended","Number of half brothers diagnosed with ADHD","","",""
+"d6e1","Integer","","Recommended","Number of half sisters","","",""
+"d6e2","Integer","","Recommended","Number of half sisters diagnosed with ADHD","","",""
+"d6f1","Integer","","Recommended","Number of adopted brothers","","",""
+"d6f2","Integer","","Recommended","Number of adopted brothers diagnosed with ADHD","","",""
+"d6g1","Integer","","Recommended","Number of adopted sisters","","",""
+"d6g2","Integer","","Recommended","Number of adopted sisters diagnosed with ADHD","","",""
+"dembsbro","Integer","","Recommended","Number of step-brothers","","","d6h1"
+"d6h2","Integer","","Recommended","Number of step-brothers diagnosed with ADHD","","",""
+"dembssis","Integer","","Recommended","Number of step-sisters","","","d6i1"
+"d6i2","Integer","","Recommended","Number of step-sisters diagnosed with ADHD","","",""
+"d7a","Integer","","Recommended","Still in high school","1","1=Yes",""
+"d7b","Integer","","Recommended","Enrolled in GED classes","1","1=Yes",""
+"d7c","Integer","","Recommended","Enrolled in adult education classes","1","1=Yes",""
+"d7d1","Integer","","Recommended","Enrolled in a technical, trade, or vocational school full-time","1","1=Yes",""
+"d7d2","Integer","","Recommended","Enrolled in a technical, trade, or vocational school part-time","1","1=Yes",""
+"d7e1","Integer","","Recommended","Enrolled in a college, university, or community college full-time","1","1=Yes",""
+"d7e2","Integer","","Recommended","Enrolled in a college, university, or community college part-time","1","1=Yes",""
+"d7f1","Integer","","Recommended","Enrolled in a post college graduate school full-time","1","1=Yes",""
+"d7f2","Integer","","Recommended","Enrolled in a post college graduate school part-time","1","1=Yes",""
+"d7g","Integer","","Recommended","Not currently in school","1","1=Yes",""
+"d9a","Float","","Recommended","How many months were spent in parents household","","",""
+"d9b","Float","","Recommended","How many months were spent in other relatives household","","",""
+"d9c","Float","","Recommended","How many months were spent in non-relatives household","","",""
+"d9d","Float","","Recommended","How many months were spent in own household alone (or living with partner or spouse or minor children)","","",""
+"d9e","Float","","Recommended","How many months were spent in own household but shared with friends or roommates","","",""
+"d9f","Float","","Recommended","How many months were spent in College or University dormitory, or housing","","",""
+"d9g","Float","","Recommended","How many months were spent in military housing","","",""
+"d9h","Float","","Recommended","How many months were spent in jail or prison","","",""
+"d9i","Float","","Recommended","How many months were spent in homeless, shelter, street, or transient","","",""
+"d9j","Integer","","Recommended","How many months were spent hospitalized","","",""
+"d9k","Integer","","Recommended","How many months were spent in supervised living arrangement (halfway house or group home)","","",""
+"d9l","Integer","","Recommended","How many months were spent in another living arrangement","","",""
+"d9aa","Integer","","Recommended","How many times have you moved","","",""
+"d11b","Integer","","Recommended","Has any part of yearly individual income since leaving high school come from public assistance?","1;2","1=yes; 2=no",""
+"d12a","Integer","","Recommended","Amount received each month from parents","1::4","1 = up to $200 a month
+2 = $201 to $500 a month
+3 = $501 to $1,000 a month
+4 = greater than $1,000 a month",""
+"d12b","Integer","","Recommended","Amount received each month from trust fund income?","1::4","1 = up to $200 a month
+2 = $201 to $500 a month
+3 = $501 to $1,000 a month
+4 = greater than $1,000 a month",""
+"d12c","Integer","","Recommended","Amount received each month from investment income?","1::4","1 = up to $200 a month
+2 = $201 to $500 a month
+3 = $501 to $1,000 a month
+4 = greater than $1,000 a month",""
+"d12d","Integer","","Recommended","Amount received each month from spouse or partner?","1::4","1 = up to $200 a month
+2 = $201 to $500 a month
+3 = $501 to $1,000 a month
+4 = greater than $1,000 a month",""
+"d12e","Integer","","Recommended","Amount received each month from stipends?","1::4","1 = up to $200 a month
+2 = $201 to $500 a month
+3 = $501 to $1,000 a month
+4 = greater than $1,000 a month",""
+"d12x","Integer","","Recommended","Amount received each month from public assistance?","1::4","1 = up to $200 a month
+2 = $201 to $500 a month
+3 = $501 to $1,000 a month
+4 = greater than $1,000 a month",""
+"d12y","Integer","","Recommended","Amount received each month from unemployment compensation?","1::4","1 = up to $200 a month
+2 = $201 to $500 a month
+3 = $501 to $1,000 a month
+4 = greater than $1,000 a month",""
+"d12f","Integer","","Recommended","Amount received each month from other sources?","1::4","1 = up to $200 a month
+2 = $201 to $500 a month
+3 = $501 to $1,000 a month
+4 = greater than $1,000 a month",""
+"d13a","Integer","","Recommended","Amount of debt currently owed on credit cards","1::5","1 = up to $500 owed
+2 = $501 to $1,000 owed
+3 = $1,001 to $5,000 owed
+4 = $5,001 to $10,000 owed
+5 = greater than $10,001 owed",""
+"d13b","Integer","","Recommended","Amount of debt currently owed on car loans","1::5","1 = up to $500 owed
+2 = $501 to $1,000 owed
+3 = $1,001 to $5,000 owed
+4 = $5,001 to $10,000 owed
+5 = greater than $10,001 owed",""
+"d13c","Integer","","Recommended","Amount of debt currently owed on bank loans","1::5","1 = up to $500 owed
+2 = $501 to $1,000 owed
+3 = $1,001 to $5,000 owed
+4 = $5,001 to $10,000 owed
+5 = greater than $10,001 owed",""
+"d13d","Integer","","Recommended","Amount of debt currently owed on school loans","1::5","1 = up to $500 owed
+2 = $501 to $1,000 owed
+3 = $1,001 to $5,000 owed
+4 = $5,001 to $10,000 owed
+5 = greater than $10,001 owed",""
+"d13e","Integer","","Recommended","Amount of debt currently owed on home mortgage","","",""
+"d13f","Integer","","Recommended","Amount of debt currently owed parents","1::5","1 = up to $500 owed
+2 = $501 to $1,000 owed
+3 = $1,001 to $5,000 owed
+4 = $5,001 to $10,000 owed
+5 = greater than $10,001 owed",""
+"d13g","Integer","","Recommended","Amount of debt currently owed friends","1::5","1 = up to $500 owed
+2 = $501 to $1,000 owed
+3 = $1,001 to $5,000 owed
+4 = $5,001 to $10,000 owed
+5 = greater than $10,001 owed",""
+"d13x","Integer","","Recommended","Amount of debt currently owed medical bills","1::5","1 = up to $500 owed
+2 = $501 to $1,000 owed
+3 = $1,001 to $5,000 owed
+4 = $5,001 to $10,000 owed
+5 = greater than $10,001 owed",""
+"d13y","Integer","","Recommended","Amount of debt currently owed phone company","1::5","1 = up to $500 owed
+2 = $501 to $1,000 owed
+3 = $1,001 to $5,000 owed
+4 = $5,001 to $10,000 owed
+5 = greater than $10,001 owed",""
+"d13h","Integer","","Recommended","Amount of debt currently owed others","1::5","1 = up to $500 owed
+2 = $501 to $1,000 owed
+3 = $1,001 to $5,000 owed
+4 = $5,001 to $10,000 owed
+5 = greater than $10,001 owed",""
+"d14a","Integer","","Recommended","Taken out a payday loan or paycheck advance until your next payday","1;2","1=yes; 2=no",""
+"d14b","Integer","","Recommended","Taken out a cash advance on your credit card","1;2","1=yes; 2=no",""
+"d14c","Integer","","Recommended","Been late on one or more of your debts (delinquency)","1;2","1=yes; 2=no",""
+"d14d","Integer","","Recommended","Become unable to pay most of your debts as they fall due","1;2","1=yes; 2=no",""
+"d14e","Integer","","Recommended","Used debt consolidation (pay off all loans with one new loan)","1;2","1=yes; 2=no",""
+"d14f","Integer","","Recommended","Defaulted on a loan or other debt (other than mortgage)","1;2","1=yes; 2=no",""
+"d14g","Integer","","Recommended","Been contacted by a collection agency","1;2","1=yes; 2=no",""
+"d14h","Integer","","Recommended","Lost your home because of inability to pay the mortgage (foreclosure)","1;2","1=yes; 2=no",""
+"d14i","Integer","","Recommended","Declared legal bankruptcy","1;2","1=yes; 2=no",""
+"d14j","Integer","","Recommended","Other","1;2","1=yes; 2=no",""
+"d_8","Float","","Recommended","How many months have you been out of high school (or since the last assessment)?","","0=Still in high school","d8"

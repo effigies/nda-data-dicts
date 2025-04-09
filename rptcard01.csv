@@ -1,0 +1,33 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","id"
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"site","String","101","Recommended","Site","","Study Site","sitenum"
+"sjtyp","Integer","","Recommended","Subject type","1;2","1=MTA randomized trial subject; 2=Local normative comparison group (LNCG) subject",""
+"grade_mta","Float","","Recommended","Grade in school","1::12;20;25;30;99","20=Not participating; 25=Not in school; 30=Report card available but unable to collect; 99=Other",""
+"gradesp_mta","String","100","Recommended","Grade in school other specify","","",""
+"grdtype_mta","Integer","","Recommended","Report card grade type","1;2","1=Final report card; 2=Partial report card",""
+"schtype_mta","Integer","","Recommended","Type of school","1::9","1=Regular school that serves a wide variety of students; 2=School that serves only students with disabilities; 3=Magnet school that specializes in a particular subject area or theme; 4=Vocational/technical school; 5=Alternative school; 6=Charter school; 7=Juvenile justice facility; 8=Hospital school; 9=Another kind of school",""
+"schspe_mta","String","250","Recommended","Type of school other specify","","",""
+"schpub_mta","Integer","","Recommended","Public school","0;1","0=No; 1=Yes",""
+"schpriv_mta","Integer","","Recommended","Private school","0;1","0=No; 1=Yes",""
+"schboard_mta","Integer","","Recommended","Residential/boarding school","0;1","0=No; 1=Yes",""
+"schround_mta","Integer","","Recommended","Year round school","0;1","0=No; 1=Yes",""
+"schgen_mta","Integer","","Recommended","School serving a single gender of students","0;1","0=No; 1=Yes",""
+"cssc1_mta","Integer","","Recommended","Classification of secondary school courses code 1","01::56","01 = agribusiness and agricultural production; 02 = agricultural sciences; 03 = renewable natural resources; 04 = architecture and environmental design; 05 = area and ethnic studies; 06 = business and management; 07 = business and office; 08 = marketing and distribution; 09 = communications; 10 = communication technologies; 11 = computer and information sciences; 12 = consumer, personal, and miscellaneous services; 13 = education; 14 = engineering; 15 = engineering and engineering-related technologies; 16 = foreign languages; 17 = allied health; 18 = health sciences; 19 = home economics; 20 = vocational home economics; 21 = industrial arts; 22 = law; 23 = letters/English; 24 = liberal/general studies; 25 = library and archival sciences; 26 = life sciences; 27 = mathematics; 28 = military sciences; 29 = military technologies; 30 = multi/interdisciplinary studies; 31 = parks and recreation; 32 = basic skills; 33 = citizenship/civic activities; 34 = health related activities; 35 = interpersonal skills; 37 = personal awareness; 38 = philosophy and religion; 39 = theology; 40 = physical sciences; 41 = science technologies; 42 = psychology; 43 = protective services; 44 = public affairs; 45 = social sciences; 
+46 = construction trades; 47 = mechanics and repairers; 48 = precision production; 49 = transportation and material moving; 50 = visual and performing arts; 54 = special education - functional math, language arts, life skills, health, science; 55 = special education - vocational,career preparation, career exploration; 56 = special education - resource curriculum",""
+"cssc2_mta","Integer","","Recommended","Classification of secondary school courses code 2","","coding not provided",""
+"cssc3_mta","Integer","","Recommended","Classification of secondary school courses code 3","","coding not provided",""
+"grad_mta","Integer","","Recommended","Grade received","0::8","0=No grade/withdrawn; 1=A; 2=B; 3=C; 4=D; 5=E or F; 6=Pass; 7=Fail; 8=Incomplete/partial credit",""
+"crdits_mta","Float","","Recommended","Credit value for class","0::5","",""
+"sgrdtype_mta","Integer","","Recommended","School subject grade type","0;1","0=Not final grade; 1=Final grade",""
+"gqp_mta","Float","","Recommended","Grade quality points","","This is calculated by multiplying CRDITS with a 4 (if GRAD = 1)
+3 (if GRAD = 2)
+2 (if GRAD = 3 or 6)
+1 (if GRAD = 4)
+0 (if GRAD = 5 or 7)",""
+"totalgqp_mta","Float","","Recommended","Total grade quality points for the school year","","",""
+"crditsum_mta","Float","","Recommended","Total attempted credits for a school year","","",""
+"gpa_mta","Float","","Recommended","Grade point average for the school year","","",""

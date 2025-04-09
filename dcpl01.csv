@@ -1,0 +1,134 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","","guid"
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"twin_ab","String","2","Required","Twin A or Twin B","A;B","A = Twin A; B = Twin B",""
+"quest_instruct","String","4000","Recommended","Questionnaire Instructions","","Questionnaire Instructions","instructions"
+"dcpl_01","Integer","","Recommended","If you tell your child s/he will get punished if s/he doesn't stop doing something, and s/he keeps doing it, how often will you punish her/him?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_02","Integer","","Recommended","How often do you let your child get away with things that you feel should have been punished?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_03","Integer","","Recommended","How often do you get angry when you punish your child?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_04","Integer","","Recommended","How often do you think that the kind of punishment you give your child depends on YOUR mood?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_05","Integer","","Recommended","How much of the time do you feel confident that you can change or correct your child's misbehavior?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_06","Integer","","Recommended","How often do you feel you are having problems managing your child in general?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_07","Integer","","Recommended","How often do you let your child get out of a punishment when s/he really sets her/his mind to it?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_08","Integer","","Recommended","If there is a discipline problem with your child do the two of you (parents) agree on what to do?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_09","Integer","","Recommended","If there is a discipline problem with your child, how often do you generally go along with what your partner has done?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_10","Integer","","Recommended","How often when you discipline your child, does s/he ignore the punishment?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_11","Integer","","Recommended","How often do you have to discipline your child repeatedly for the same thing?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_12","Integer","","Recommended","How often are you satisfied with your child's behavior?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_13","Integer","","Recommended","In general, how often do you think the discipline you use with your child's behavior is fair?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_14","Integer","","Recommended","In general, how often do you think the discipline you use with your child's behavior is too strict?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_15","Integer","","Recommended","In general, how often do you think the discipline you use with your child's behavior is harsh or mean?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_16","Integer","","Recommended","In general, how often do you think the discipline you use with your child's behavior is appropriate for her/his age?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_17","Integer","","Recommended","Talk to your child?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_18","Integer","","Recommended","Scold or yell at your child?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_19","Integer","","Recommended","Call your child dumb or lazy or some other name like that?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_20","Integer","","Recommended","Take away privileges (TV/toys) from your child?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_21","Integer","","Recommended","Ground your child?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_22","Integer","","Recommended","Give your child something else to do other than what s/he was doing?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_23","Integer","","Recommended","Leave it to the other parent to deal with your child?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_24","Integer","","Recommended","Try to force your child to do what you want?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"dcpl_25","Integer","","Recommended","How often is it hard to be patient with your child?","1::5; 9999","1 = Always or almost always; 2 = Often; 3 = About 1/2 the time; 4 = Occasionally; 5 = Never or almost never; 9999=Don't Know/Missing Data
+Often
+About 1/2 of the time
+Occasionally
+Never or almost never",""
+"comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""

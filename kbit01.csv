@@ -1,0 +1,196 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","","guid"
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"kbit_expvoc_q1","Integer","","Recommended","Question 1 Score: bed","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q2","Integer","","Recommended","Question 2 Score: fork","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q3","Integer","","Recommended","Question 3 Score: frog","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q4","Integer","","Recommended","Question 4 Score: hammer","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q5","Integer","","Recommended","Question 5 Score: bus","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q6","Integer","","Recommended","Question 6 Score: umbrella","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q7","Integer","","Recommended","Question 7 Score: window","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q8","Integer","","Recommended","Question 8 Score: piano","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q9","Integer","","Recommended","Question 9 Score: ladder","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q10","Integer","","Recommended","Question 10 Score: drum","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q11","Integer","","Recommended","Question 11 Score: leaf","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q12","Integer","","Recommended","Question 12 Score: lamp","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q13","Integer","","Recommended","Question 13 Score: flashlight","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q14","Integer","","Recommended","Question 14 Score: owl","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q15","Integer","","Recommended","Question 15 Score: smoke","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q16","Integer","","Recommended","Question 16 Score: feather","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q17","Integer","","Recommended","Question 17 Score: bridge","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q18","Integer","","Recommended","Question 18 Score: water fountain","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q19","Integer","","Recommended","Question 19 Score: pencil sharpener","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q20","Integer","","Recommended","Question 20 Score: calendar","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q21","Integer","","Recommended","Question 21 Score: lock","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q22","Integer","","Recommended","Question 22 Score: doorknob","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q23","Integer","","Recommended","Question 23 Score: penguin","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q24","Integer","","Recommended","Question 24 Score: hook","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q25","Integer","","Recommended","Question 25 Score: ruler","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q26","Integer","","Recommended","Question 26 Score: screw","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q27","Integer","","Recommended","Question 27 Score: saddle","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q28","Integer","","Recommended","Question 28 Score: binoculars","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q29","Integer","","Recommended","Question 29 Score: globe","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q30","Integer","","Recommended","Question 30 Score: cactus","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_expvoc_q31","Integer","","Recommended","Question 31 Score: cash register","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_expvoc_q32","Integer","","Recommended","Question 32 Score: battery","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_expvoc_q33","Integer","","Recommended","Question 33 Score: magnifying glass","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_expvoc_q34","Integer","","Recommended","Question 34 Score: anchor","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_expvoc_q35","Integer","","Recommended","Question 35 Score: antler","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_expvoc_q36","Integer","","Recommended","Question 36 Score: escalator","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_expvoc_q37","Integer","","Recommended","Question 37 Score: tweezers","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_expvoc_q38","Integer","","Recommended","Question 38 Score: fire extinguisher","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_expvoc_q39","Integer","","Recommended","Question 39 Score: life jacket","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_expvoc_q40","Integer","","Recommended","Question 40 Score: fire hydrant","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_expvoc_q41","Integer","","Recommended","Question 41 Score: funnel","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_expvoc_q42","Integer","","Recommended","Question 42 Score: outlet","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_expvoc_q43","Integer","","Recommended","Question 43 Score: compass","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_expvoc_q44","Integer","","Recommended","Question 44 Score: hexagon","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_expvoc_q45","Integer","","Recommended","Question 45 Score: thermostat","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_expvoc_ceiling","Integer","","Recommended","Exp Voc Ceiling Item","0::45;-9","-9=Incomplete",""
+"kbit_expvoc_errors","Integer","","Recommended","Exp Voc Errors","0::45;-9","-9=Incomplete",""
+"kbit_expvoc_score","Integer","","Required","Exp Voc Raw Score = Ceiling-Errors","0::45;-9","-9=Incomplete",""
+"kbit_def_q1","Integer","","Recommended","Question 1 Score: school","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_def_q2","Integer","","Recommended","Question 2 Score: rainbow","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_def_q3","Integer","","Recommended","Question 3 Score: sunshine","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_def_q4","Integer","","Recommended","Question 4 Score: delicious","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_def_q5","Integer","","Recommended","Question 5 Score: plow","0::3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete",""
+"kbit_def_q6","Integer","","Recommended","Question 6 Score: chimney","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q7","Integer","","Recommended","Question 7 Score: daisy","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q8","Integer","","Recommended","Question 8 Score: uncle","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q9","Integer","","Recommended","Question 9 Score: Eskimos","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q10","Integer","","Recommended","Question 10 Score: lie","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q11","Integer","","Recommended","Question 11 Score: gallant","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q12","Integer","","Recommended","Question 12 Score: experiment","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q13","Integer","","Recommended","Question 13 Score: evacuate","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q14","Integer","","Recommended","Question 14 Score: jeopardy","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q15","Integer","","Recommended","Question 15 Score: gratitude","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q16","Integer","","Recommended","Question 16 Score: elevate","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q17","Integer","","Recommended","Question 17 Score: sufficient","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q18","Integer","","Recommended","Question 18 Score: indicate","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q19","Integer","","Recommended","Question 19 Score: vitamin","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q20","Integer","","Recommended","Question 20 Score: relinquish","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q21","Integer","","Recommended","Question 21 Score: confound","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q22","Integer","","Recommended","Question 22 Score: tenacious","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q23","Integer","","Recommended","Question 23 Score: hypochondriac","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q24","Integer","","Recommended","Question 24 Score: chaos","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q25","Integer","","Recommended","Question 25 Score: caricature","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q26","Integer","","Recommended","Question 26 Score: apathetic","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q27","Integer","","Recommended","Question 27 Score: indelible","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q28","Integer","","Recommended","Question 28 Score: enamored","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q29","Integer","","Recommended","Question 29 Score: clandestine","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q30","Integer","","Recommended","Question 30 Score: omnipotent","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q31","Integer","","Recommended","Question 31 Score: lethargic","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q32","Integer","","Recommended","Question 32 Score: contingent","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q33","Integer","","Recommended","Question 33 Score: rancor","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q34","Integer","","Recommended","Question 34 Score: valedictorian","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q35","Integer","","Recommended","Question 35 Score: acquiesce","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q36","Integer","","Recommended","Question 36 Score: enigma","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_q37","Integer","","Recommended","Question 37 Score: serendipity","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_def_ceiling","Integer","","Recommended","Def Ceiling Item","0::37;-9","-9=Incomplete",""
+"kbit_def_errors","Integer","","Recommended","Def Errors","0::37;-9","-9=Incomplete",""
+"kbit_def_score","Integer","","Required","Def Raw Score = Ceiling-Errors","0::37;-9","-9=Incomplete",""
+"kbit_matr_q1","Integer","","Recommended","Question 1 Score","0;1;3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete
+",""
+"kbit_matr_q2","Integer","","Recommended","Question 2 Score","0;1;3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete
+",""
+"kbit_matr_q3","Integer","","Recommended","Question 3 Score","0;1;3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete
+",""
+"kbit_matr_q4","Integer","","Recommended","Question 4 Score","0;1;3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete
+",""
+"kbit_matr_q5","Integer","","Recommended","Question 5 Score","0;1;3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete
+",""
+"kbit_matr_q6","Integer","","Recommended","Question 6 Score","0;1;3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete
+",""
+"kbit_matr_q7","Integer","","Recommended","Question 7 Score","0;1;3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete
+",""
+"kbit_matr_q8","Integer","","Recommended","Question 8 Score","0;1;3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete
+",""
+"kbit_matr_q9","Integer","","Recommended","Question 9 Score","0;1;3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete
+",""
+"kbit_matr_q10","Integer","","Recommended","Question 10 Score","0;1;3;-9","0 = incorrect; 1 = correct; 3 = omitted because of age; -9 = incomplete
+",""
+"kbit_matr_q11","Integer","","Recommended","Question 11 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q12","Integer","","Recommended","Question 12 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q13","Integer","","Recommended","Question 13 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q14","Integer","","Recommended","Question 14 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q15","Integer","","Recommended","Question 15 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q16","Integer","","Recommended","Question 16 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q17","Integer","","Recommended","Question 17 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q18","Integer","","Recommended","Question 18 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q19","Integer","","Recommended","Question 19 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q20","Integer","","Recommended","Question 20 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q21","Integer","","Recommended","Question 21 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q22","Integer","","Recommended","Question 22 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q23","Integer","","Recommended","Question 23 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q24","Integer","","Recommended","Question 24 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q25","Integer","","Recommended","Question 25 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q26","Integer","","Recommended","Question 26 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q27","Integer","","Recommended","Question 27 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q28","Integer","","Recommended","Question 28 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q29","Integer","","Recommended","Question 29 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q30","Integer","","Recommended","Question 30 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q31","Integer","","Recommended","Question 31 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q32","Integer","","Recommended","Question 32 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q33","Integer","","Recommended","Question 33 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q34","Integer","","Recommended","Question 34 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q35","Integer","","Recommended","Question 35 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q36","Integer","","Recommended","Question 36 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q37","Integer","","Recommended","Question 37 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q38","Integer","","Recommended","Question 38 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q39","Integer","","Recommended","Question 39 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q40","Integer","","Recommended","Question 40 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q41","Integer","","Recommended","Question 41 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q42","Integer","","Recommended","Question 42 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q43","Integer","","Recommended","Question 43 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q44","Integer","","Recommended","Question 44 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q45","Integer","","Recommended","Question 45 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q46","Integer","","Recommended","Question 46 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete
+",""
+"kbit_matr_q47","Integer","","Recommended","Question 47 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_matr_q48","Integer","","Recommended","Question 48 Score","0;1;-9","0 = incorrect; 1 = correct; -9 = incomplete",""
+"kbit_matr_ceiling","Integer","","Recommended","Matrices Ceiling Item","0::50;-9","-9=Incomplete",""
+"kbit_matr_errors","Integer","","Recommended","Matrices Errors","0::50;-9","-9=Incomplete",""
+"kbit_matr_score","Integer","","Required","Matrices Raw Score = Ceiling - Errors","0::50; 999; -9","999=NA/missing/NK; -9=Incomplete",""
+"kbit_vocabulary_score","Integer","","Required","Vocabulary = expvoc raw score 'plus' def raw score","0::82;-9","-9=Incomplete",""
+"kbit_matrices_score","Integer","","Required","Matrices raw score","0::48;-9","-9=Incomplete",""
+"kbit_vocsubstand_score","Integer","","Required","Vocab Subtest Standard-table C.1","40::160;-9","-9=Incomplete",""
+"kbit_matrsubstand_score","Integer","","Required","Matrices Subtest Standard-table C.1","40::160;-9","-9=Incomplete",""
+"kbit_iqcomposite_score","Integer","","Required","IQ composite score Table C.2","40::160;-9","-9=Incomplete",""

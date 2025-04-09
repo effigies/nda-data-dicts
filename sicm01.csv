@@ -1,0 +1,40 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","id"
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","adate"
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","age"
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender,sex"
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"religion","String","100","Recommended","Religion","","","sic_religion"
+"sic_importantraceethnic","Integer","","Recommended","How important is it that you are (race ethnic)?","1::5","1 = Definitely not important; 2 = Not very important; 3 = Somewhat Important; 4 = Very important; 5 = Definitely",""
+"sic_importantgender","Integer","","Recommended","How important is it that you are (gender)?","1::5","1 = Definitely not important; 2 = Not very important; 3 = Somewhat Important; 4 = Very important; 5 = Definitely",""
+"sic_importantreligion","Integer","","Recommended","How important is it that you are (religion)?","1::5","1 = Definitely not important; 2 = Not very important; 3 = Somewhat Important; 4 = Very important; 5 = Definitely",""
+"sic_importantschool","Integer","","Recommended","How important is it that you are student at (school)?","1::5","1 = Definitely not important; 2 = Not very important; 3 = Somewhat Important; 4 = Very important; 5 = Definitely",""
+"sic_studentsbasketball","Integer","","Recommended","How many students in the your grade are basketball players?","1::5","1 = Hardly Any; 2 = A few; 3 = Almost half; 4 = Most; 5 = Almost all",""
+"sic_basketballstudents","Integer","","Recommended","How many basketball players are in the your grade?","1::5","1 = Hardly Any; 2 = A few; 3 = Almost half; 4 = Most; 5 = Almost all",""
+"sic_raceethnic_gender","Integer","","Recommended","How many students with (race ethnic) are also have your (gender)?","1::5","1 = Hardly Any; 2 = A few; 3 = Almost half; 4 = Most; 5 = Almost all",""
+"sic_raceethnic_religion","Integer","","Recommended","How many students your (race ethnic)are also have your (religion)?","1::5","1 = Hardly Any; 2 = A few; 3 = Almost half; 4 = Most; 5 = Almost all",""
+"sic_raceethnic_school","Integer","","Recommended","How many people your (race ethnic)are also students at your (school)?","1::5","1 = Hardly Any; 2 = A few; 3 = Almost half; 4 = Most; 5 = Almost all",""
+"sic_gender_raceethnic","Integer","","Recommended","How many people your (gender) are also have your (race ethnic)?","1::5","1 = Hardly Any; 2 = A few; 3 = Almost half; 4 = Most; 5 = Almost all",""
+"sic_gender_religion","Integer","","Recommended","How many people your (gender) are also have your (religion)?","1::5","1 = Hardly Any; 2 = A few; 3 = Almost half; 4 = Most; 5 = Almost all",""
+"sic_gender_school","Integer","","Recommended","How many people your (gender) are also students at your (school)?","1::5","1 = Hardly Any; 2 = A few; 3 = Almost half; 4 = Most; 5 = Almost all",""
+"sic_religion_raceethnic","Integer","","Recommended","How many people your (religion) are also your (race ethnic)?","1::5","1 = Hardly Any; 2 = A few; 3 = Almost half; 4 = Most; 5 = Almost all",""
+"sic_religion_gender","Integer","","Recommended","How many people your (religion) are also your (gender)?","1::5","1 = Hardly Any; 2 = A few; 3 = Almost half; 4 = Most; 5 = Almost all",""
+"sic_religion_school","Integer","","Recommended","How many people your (religion) are also students at your (school)?","1::5","1 = Hardly Any; 2 = A few; 3 = Almost half; 4 = Most; 5 = Almost all",""
+"sic_school_raceethnic","Integer","","Recommended","How many students at your (school) are also your (race ethnic)?","1::5","1 = Hardly Any; 2 = A few; 3 = Almost half; 4 = Most; 5 = Almost all",""
+"sic_school_gender","Integer","","Recommended","How many students at your (school) are also your (gender)?","1::5","1 = Hardly Any; 2 = A few; 3 = Almost half; 4 = Most; 5 = Almost all",""
+"sic_school_religion","Integer","","Recommended","How many students at your (school) are also your (religion)?","1::5","1 = Hardly Any; 2 = A few; 3 = Almost half; 4 = Most; 5 = Almost all",""
+"sic_score","Float","","Recommended","Social Identity Complexity - Overlap Complexity SCORE","1::5","Mean of Items: SIC_RaceEthnic_Gender
+SIC_RaceEthnic_Religion
+SIC_RaceEthnic_School
+SIC_Gender_RaceEthnic
+SIC_Gender_Religion
+SIC_Gender_School
+SIC_Religion_RaceEthnic
+SIC_Religion_Gender
+SIC_Religion_School
+SIC_School_RaceEthnic
+SIC_School_Gender
+SIC_School_Religion",""
+"ethnic_group","String","255","Recommended","Ethnic group","","","sic_raceethnic"
+"ques_gendernotes","String","255","Recommended","Gender -Notes","","","sic_gender"

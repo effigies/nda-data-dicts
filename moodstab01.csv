@@ -1,0 +1,22 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","mood_stability_visit_date"
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"visitnum","Integer","","Recommended","Visit number","","","mood_stab_visit_number"
+"aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","mood_stab_rater"
+"mood_stab_number","Integer","","Recommended","How stable has your mood been since the last visit?","1::10","1= Least stable; 10= Most stable",""
+"mood_stab_depressive_epi","Integer","","Recommended","Did subject meet criteria for a past depressive episode on MINI Mood since last visit?
+
+If Yes complete HamD stability past episode","0;1","0= No; 1= Yes",""
+"mood_stab_dep_percent","Integer","","Recommended","What percentage of days since last visit have you felt depression ?
+
+(Proceed to complete HAM-D percent days form rating the average of how mood has been during percent of days depressed)","","",""
+"mood_stab_mania_episode","Integer","","Recommended","Did subject meet criteria for a past (hypo)manic episode on MINI Mood since last visit?
+
+If Yes complete YMRS stability past episode","0;1","0= No; 1= Yes",""
+"mood_stab_man_percent","Integer","","Recommended","What percentage of days since last visit have you had an elevated mood or been irritable with increased energy ?
+
+(Proceed to complete YMRS percent days form rating the average of how mood has been during days high or irritable with increased energy)","","",""
+"q1_comments","String","200","Recommended","Comments","","","mood_stab_comments"
