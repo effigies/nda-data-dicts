@@ -9,7 +9,7 @@
 # ///
 
 import json
-from functools import cache
+from typing import Any
 
 import httpx
 import stamina
@@ -18,38 +18,35 @@ from rich.progress import track
 
 API = "https://nda.nih.gov/api/datadictionary"
 
-@cache
-def get_client(url: str) -> httpx.Client:
-    return httpx.Client(base_url=url)
+
+def retry_only_on_server_errors(exc: Exception) -> bool:
+    """Retry only on server errors (5xx), not on client errors (4xx)"""
+    if isinstance(exc, httpx.HTTPStatusError):
+        return exc.response.status_code >= 500
+
+    # Retry on connection errors and other httpx errors
+    return isinstance(exc, httpx.HTTPError)
 
 
-@stamina.retry(on=httpx.HTTPError)
-def get(api: str, endpoint: str) -> httpx.Response:
-    response = get_client(api).get(endpoint)
+@stamina.retry(on=retry_only_on_server_errors, attempts=3)
+def get(client: httpx.Client, endpoint: str) -> httpx.Response:
+    response = client.get(endpoint)
     response.raise_for_status()
 
     return response
 
 
-def get_datastructures(api: str) -> dict:
-    response = get(api, "/datastructure")
-    return response.json()
-
-
-def get_dictionary(api: str, shortname: str) -> bytes:
-    response = get(api, f"/datastructure/{shortname}/csv")
-    return response.content
-
-
 if __name__ == "__main__":
-    datastructures = get_datastructures(API)
+    client = httpx.Client(base_url=API, transport=httpx.HTTPTransport(retries=1))
+    with client:
+        datastructures: list[dict[str, Any]] = get(client, "/datastructure").json()
 
-    with open("datastructures.json", "w") as f:
-        json.dump(datastructures, f, indent=2)
+        with open("datastructures.json", "w") as text_file:
+            json.dump(datastructures, text_file, indent=2)
 
-    for structure in track(datastructures):
-        shortname = structure["shortName"]
+        for structure in track(datastructures):
+            shortname: str = structure["shortName"]
+            data = get(client, f"/datastructure/{shortname}/csv").content
 
-        csv_data = get_dictionary(API, shortname)
-        with open(f"{shortname}.csv", "wb") as f:
-            f.write(csv_data)
+            with open(f"csv/{shortname}.csv", "wb") as bin_file:
+                bin_file.write(data)
