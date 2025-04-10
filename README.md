@@ -11,9 +11,9 @@ in order to permit change tracking.
 
 * `<repository-root>/`
     * `code/`: Code used to populate the repository
-    * `datastructures.json`: Summary data retrieved from `https://nda.nih.gov/api/datadictionary/`
-    * `<instrument>.csv`: Data dictionaries, serialized as CSV,
+    * `csv/<instrument>.csv`: Data dictionaries, serialized as CSV,
       retrieved from `https://nda.nih.gov/api/datadictionary/<instrument>/csv`
+    * `datastructures.json`: Summary data retrieved from `https://nda.nih.gov/api/datadictionary/`
 
 ## How to update
 
