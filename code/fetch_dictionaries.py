@@ -48,8 +48,11 @@ async def get(client: httpx.AsyncClient, endpoint: str) -> httpx.Response:
 
 
 async def read_file(fname: str) -> bytes:
-    async with aiofiles.open(fname, "rb") as f:
-        return await f.read()
+    try:
+        async with aiofiles.open(fname, "rb") as f:
+            return await f.read()
+    except FileNotFoundError:
+        return b""
 
 
 async def save_dictionary(
