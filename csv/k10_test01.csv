@@ -53,3 +53,7 @@
 "kpds_5","Integer","","Recommended","Past 4 weeks: About how often did you feel restless or fidgety?","1::5;999","1 = None of the time; 2 = A little of the time; 3 = Some of the time; 4 = Most of the time; 5 = All of the time; 999 = No answer",""
 "kpds_6","Integer","","Recommended","Past 4 weeks: About how often did you feel so restless you could not sit still?","1::5;999","1 = None of the time; 2 = A little of the time; 3 = Some of the time; 4 = Most of the time; 5 = All of the time; 999 = No answer",""
 "kpds_7","Integer","","Recommended","Past 4 weeks: About how often did you feel depressed?","1::5;999","1 = None of the time; 2 = A little of the time; 3 = Some of the time; 4 = Most of the time; 5 = All of the time; 999 = No answer",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"k6_3","Integer","","Recommended","During the past 30 days, how many days were you totally unable to work or carry out your normal activities because of these feelings?","0::30","Number of days",""
+"k6_4","Integer","","Recommended","Not counting the days you reported in the previous question, how many days in the past 30 were you able to do only half or less of what you would normally have been able (but NOT totally unable) to do, because of these feelings?","0::30","Number of days",""
+"k6_5","Integer","","Recommended","During the past 30 days, how many times did you see a doctor or other health professional about these feelings?","","Number of times",""

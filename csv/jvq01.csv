@@ -64,3 +64,4 @@
 "jvq39","Integer","","Recommended","And,?in the past 12 months, how often has someone your age bullied you?","1::5;9998 ","1=Never in the past 12 months; 2=Once or a few times in the past 12 months; 3=Once or a few times a month; 4=Once or a few times a week; 5=Every day or almost every day; 9998=Do not want to answer",""
 "jvq40","Integer","","Recommended","When you were bullied in the past 12 months, was it done repeatedly, so that it happened again and again?","1;2;9998 ","1=No; 2=Yes; 9998=Do not want to answer",""
 "jvq41","Integer","","Recommended","Thinking just about the past 12 months, have you been bullied by someone who had more power or strength than you?  This could be because the person was bigger than you, had more friends, was more popular, or had more power than you in another way.","1;2;9998 ","1=No; 2=Yes; 9998=Do not want to answer",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""

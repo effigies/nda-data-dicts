@@ -136,3 +136,6 @@
 "fagerstrom_ecig_brand","String","100","Recommended","What is your preferred brand of e-cigarettes or vape pens?","","",""
 "fagerstrom_7_ecig","Integer","","Recommended","How soon after you wake up do you have your first e-cigarette or vape session?","0::3","0=After 60 minutes; 1=Within 31-60 minutes; 2=Within 6-30 minutes; 3=Within 5 minutes",""
 "fagerstrom_9_ecig","Integer","","Recommended","Which e-cigarette or vape session hit would you hate the most to give up?","1;2","1=First one in the morning; 2=Any other hit",""
+"ftnd_7_alt","Integer","","Recommended","Do you currently smoke cigarettes?","0;1","0= No; 1= Yes",""
+"sm_2p","Integer","","Recommended","Do you smoke even when you are so ill that you are in bed most of the day?","1;2","1=No; 2=Yes",""
+"coga_ssaga5_ftnd3","Integer","","Recommended","FTND3: Which cigarette would you hate most to give up?","0;1;-8","0=The first one in the morning; 1=Any other;-8=DO NOT KNOW AND REFUSAL",""

@@ -638,3 +638,7 @@
 "t_bldem10","Integer","","Recommended","Did you grow up with one or both of your parents?","1::4","1= Mother; 2= Father; 3= Both parents; 4= Guardian",""
 "t_bdem11","Integer","","Recommended","Have you ever, in your lifetime, received treatment for an alcohol use problem (other than your current participation), including a self-help program?","0;1","0= No; 1= Yes",""
 "t_bdem_a_11","String","50","Recommended","Received treatment for an alcohol use problem (other than your current participation), including a self-help program - When?","","",""
+"yc_partner","Integer","","Recommended","Do you have a romantic partner?","0;1;-99","0 = No; 1 = Yes; -99 = Not Applicable",""
+"childhood_fam_income","Integer","","Recommended","As a child, my family's household income would be best described as:","1::5","1=Poor; 2=Low income; 3=Middle class; 4=Well-to-do; 5=Wealthy",""
+"creditcards_loans_12mo","Integer","","Recommended","In the past 12 months, have you used credit cards or payday loans to cover expenses until your next paycheck?","0;1","0=No;1=Yes",""
+"hc_17","Integer","","Recommended","In the past have you ever had health insurance","0;1","0=No; 1=Yes",""

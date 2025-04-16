@@ -12,7 +12,7 @@
 "stimcorss5","Float","","Recommended","Set size 5 stimuli correct per trial","0::5","","vs_stimcorpertrialss5"
 "stimcorss6","Float","","Recommended","Set size 6 stimuli correct per trial","0::6","","vs_stimcorpertrialss6"
 "isidur","Float","","Recommended","Interstimulus Interval Duration (ms)","","",""
-"total_rs","Integer","","Recommended","Total raw score","","",""
+"total_rs","Float","","Recommended","Total raw score","","",""
 "dtttest_percor","Float","","Recommended","Percent correct","","",""
 "accuracy_ss3","Float","","Recommended","Set size 3 ratio of correct trials","","",""
 "accuracy_ss4","Float","","Recommended","Set size 4 ratio of correct trials","","",""

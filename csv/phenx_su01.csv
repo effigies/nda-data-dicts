@@ -388,3 +388,4 @@
 "pastmonth_sub04","Integer","","Recommended","Have you ever overdosed on medication, pills, or other drugs so that you got really sick and had to go to the hospital?  ","0;1; 9999","0=No; 1=Yes; 9999=Missing value",""
 "pastmonth_sub04a","Integer","","Recommended","Have you ever overdosed on medication, pills, or other drugs so that you got really sick and had to go to the hospital? Have you ever done this on purpose? ","0;1; 9999","0=No; 1=Yes; 9999=Missing value",""
 "timeframe_spec","String","100","Recommended","Specify the timeframe (in the past year, past two weeks, etc.) in which elements/items are assessed","","",""
+"lifetime_use_clubdrug","String","25","Recommended","Have you EVER used any of these medicines or drugs? Club drugs (e.g., MDMA; ecstasy; GHB; Rohypnol; ketamine; Special K; XTC; roofies)","","",""

@@ -31,3 +31,8 @@
 "eas_emottot","Integer","","Recommended","EAS Emotionality Subtotal","","",""
 "eas_soctot","Integer","","Recommended","EAS Sociability Subtotal","","",""
 "eas_acttot","Integer","","Recommended","EAS Activity Subtotal","","",""
+"eas_shy","Float","","Recommended","EAS Shyness Mean Score","1::5","Average of Shyness Items (Buss & Plomin, 1984, p. 102)","h103shyness"
+"eas_emot","Float","","Recommended","EAS Emotionality Mean Score","1::5","Average of Emotionality Items (Buss & Plomin, 1984, p. 102)","h103emot"
+"eas_soc","Float","","Recommended","EAS Sociability Mean Score","1::5","Average of Sociability Items (Buss & Plomin, 1984, p. 102)","h103soc"
+"eas_act","Float","","Recommended","EAS Activity Mean Score","1::5","Average of Activity Items (Buss & Plomin, 1984, p. 102)","h103act"
+"eas_socshy","Float","","Recommended","EAS Sum of Sociability mean score and Shyness mean score","2::10","Sum of eas_shy and eas_soc","h103socshy"
