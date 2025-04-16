@@ -11,6 +11,7 @@
 
 import asyncio
 import json
+from functools import partial
 from typing import Any, Callable
 
 import aiofiles
@@ -61,16 +62,18 @@ async def save_dictionary(
     fname = f"csv/{name}.csv"
 
     async with semaphore:
-        get_callback(name)
+        get_callback(struct=summarize(name, 10))
         response, content = await asyncio.gather(
             get(client, f"/datastructure/{name}/csv"),
             read_file(fname),
         )
+        get_callback(advance=1)
 
     if content != response.content:
+        write_callback(struct=summarize(name, 10))
         async with aiofiles.open(fname, "wb") as f:
             await f.write(response.content)
-    write_callback(name)
+    write_callback(struct="...", advance=1)
 
 
 def summarize(name: str, n: int) -> str:
@@ -102,18 +105,14 @@ async def main() -> None:
             BarColumn(),
             TimeRemainingColumn(),
         ) as progress:
-            g_task = progress.add_task(
-                "Fetching", total=len(datastructures), struct="..."
+            get_callback = partial(
+                progress.update,
+                progress.add_task("Fetching", total=len(datastructures), struct="..."),
             )
-            w_task = progress.add_task(
-                "Writing ", total=len(datastructures), struct="..."
+            write_callback = partial(
+                progress.update,
+                progress.add_task("Writing ", total=len(datastructures), struct="..."),
             )
-
-            def get_callback(struct) -> None:
-                progress.update(g_task, advance=1, struct=summarize(struct, 10))
-
-            def write_callback(struct) -> None:
-                progress.update(w_task, advance=1, struct=summarize(struct, 10))
 
             tasks = [
                 save_dictionary(
