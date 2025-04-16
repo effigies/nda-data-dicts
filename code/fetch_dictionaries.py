@@ -46,6 +46,11 @@ async def get(client: httpx.AsyncClient, endpoint: str) -> httpx.Response:
     return response
 
 
+async def read_file(fname: str) -> bytes:
+    async with aiofiles.open(fname, "rb") as f:
+        return await f.read()
+
+
 async def save_dictionary(
     client: httpx.AsyncClient,
     name: str,
@@ -53,13 +58,19 @@ async def save_dictionary(
     get_callback: Callable[[str], None],
     write_callback: Callable[[str], None],
 ) -> None:
+    fname = f"csv/{name}.csv"
+
     async with semaphore:
         get_callback(name)
-        response = await get(client, f"/datastructure/{name}/csv")
+        response, content = await asyncio.gather(
+            get(client, f"/datastructure/{name}/csv"),
+            read_file(fname),
+        )
 
-    async with aiofiles.open(f"csv/{name}.csv", "wb") as f:
-        await f.write(response.content)
-        write_callback(name)
+    if content != response.content:
+        async with aiofiles.open(fname, "wb") as f:
+            await f.write(response.content)
+    write_callback(name)
 
 
 def summarize(name: str, n: int) -> str:
