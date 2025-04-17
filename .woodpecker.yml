@@ -4,10 +4,9 @@ when:
 
 steps:
   - name: Install uv
+    image: debian
     commands:
       - curl -LsSf https://astral.sh/uv/install.sh | sh
-  - name: Update data structures
-    commands:
       - |
         uvx datalad run -o datastructures.json -o 'csv/*' --expand outputs -- \
         uv run code/fetch_dictionaries.py
