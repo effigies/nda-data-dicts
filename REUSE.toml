@@ -1,0 +1,17 @@
+version = 1
+
+[[annotations]]
+path = [
+  "code/*",
+]
+precedence = "override"
+SPDX-FileCopyrightText = "2025 Christopher J. Markiewicz"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = [
+  "datastructures.json",
+  "csv/*",
+]
+precedence = "override"
+SPDX-License-Identifier = "CC-PDM-1.0"
