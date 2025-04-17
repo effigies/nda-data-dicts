@@ -6,7 +6,13 @@ steps:
   - name: Install uv
     image: debian
     commands:
+      - apt-get update
+      - sudo apt-get install curl git git-annex
       - curl -LsSf https://astral.sh/uv/install.sh | sh
+      - uv --help
+  - name: Update data structures
+    image: debian
+    commands:
       - |
         uvx datalad run -o datastructures.json -o 'csv/*' --expand outputs -- \
         uv run code/fetch_dictionaries.py
