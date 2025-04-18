@@ -3,16 +3,18 @@ when:
   - event: manual
 
 steps:
-  - name: Install uv
-    image: debian
+  - name: Update archive
+    image: ghcr.io/astral-sh/uv:debian
+    environment:
+      TTY_COMPATIBLE: 0
+      TOKEN:
+        from_secret: push_token
     commands:
       - apt-get update
-      - sudo apt-get install curl git git-annex
-      - curl -LsSf https://astral.sh/uv/install.sh | sh
-      - uv --help
-  - name: Update data structures
-    image: debian
-    commands:
-      - |
-        uvx datalad run -o datastructures.json -o 'csv/*' --expand outputs -- \
-        uv run code/fetch_dictionaries.py
+      - apt-get install -y --no-install-recommends git-annex
+      - git config user.email "ci-user@noreply.codeberg.org"
+      - git config user.name "Chris Markiewicz (CI job)"
+      - uv python install
+      - uvx datalad run -o datastructures.json -o 'csv/*' -- uv run code/fetch_dictionaries.py
+      - git remote set-url origin https://$TOKEN@codeberg.org/$CI_REPO.git
+      - git push origin $CI_COMMIT_BRANCH
