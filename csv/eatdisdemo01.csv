@@ -166,7 +166,7 @@
 "qk20ons","Integer","","Recommended","Section K - Anorexia Nervosa/Bulimia. K19. Did the weight you gained from eating binges bother you a lot?  ONS: How old were you the first time you had an eating binge and tried to make up for it?  AGE","","#=AGE","ed14_ageon"
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
 "chrdemo_children","Integer","","Recommended","12. How many children do you have?","0::5;-900;-300","0=0; 1=1; 2=2; 3=3; 4=4; 5=5 or more ;-900=Missing;-300=N/A","c3573_demo_7"
-"children_ages","Integer","","Recommended","What are the ages of your children?","","","c3573_demo_8"
+"children_ages","String","100","Recommended","What are the ages of your children?","","","c3573_demo_8"
 "age_in_years","Float","","Recommended","Age in Years","","","c3573_demo_9"
 "issmoker","Integer","","Recommended","Are you a smoker?","0::2","0 = Never Smoker; 1 = Current Smoker; 2 = Former Smoker","c3573_demo_12"
 "smoke_amt","Integer","","Recommended","If you currently smoke cigarettes, select which option best describes your smoking habits","1::3","1= Less than five cigarettes today; 2= 10 cigarettes or half a pack a day; 3= A pack or more of cigarettes a day","c3573_demo_13"

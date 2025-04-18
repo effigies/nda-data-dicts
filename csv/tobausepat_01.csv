@@ -233,3 +233,7 @@
 "tob_try3","Integer","","Recommended","The next questions ask about other types of tobacco products. Have you ever used heated tobacco (also called heat-not-burn) products, even just one time?","0;1","0= No; 1= Yes","tobacco35"
 "tob_try3freq","Integer","","Recommended","The next questions ask about other types of tobacco products. During the past 30 days, on how many days did you use heated tobacco (heat-not-burn) products?","1::7","1=0 days; 2=1 or 2 days; 3=3 to 5 days; 4=6 to 9 days; 5=10 to 19 days; 6=20 to 29 days; 7=All 30 days","tobacco36"
 "tob_try2freq","Integer","","Recommended","The next questions ask about other types of tobacco products. During the past 30 days, on how many days did you smoke cigars, cigarillos, or little cigars?","1::7","1=0 days; 2=1 or 2 days; 3=3 to 5 days; 4=6 to 9 days; 5=10 to 19 days; 6=20 to 29 days; 7=All 30 days","tobacco34"
+"tuh_1a_2","Integer","","Recommended","Have you ever used an e-cigarette/vape containing nicotine?","0;1","0= No; 1= Yes",""
+"tuh_1b_2","Integer","","Recommended","Have you used an e-cigarette/vape containing nicotine in the past 30 days?","0;1","0= No; 1= Yes",""
+"abuse05","Integer","","Recommended","During the past 30 days, on how many days did you use a vape device or e-cigarette WITH nicotine","0::30;888;999","888 = Don''t Know ; 999 = Refused",""
+"tuh_6b","Integer","","Recommended","Have you used smokeless tobacco in the past 30 days?","0;1","0= No; 1= Yes",""
