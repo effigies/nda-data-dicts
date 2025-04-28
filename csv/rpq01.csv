@@ -32,3 +32,4 @@
 "rpq_react_totscore","Integer","","Required","Sum of reactive items","0::22; 999","sum of reactive items 1, 3, 5, 7, 8, 11, 13, 14, 16, 19, 22","rpq_react_score"
 "rpq_proact_totscore","Integer","","Required","Sum of proactive items","0::24; 999","sum of proactive items 2, 4, 6, 9, 10, 12, 15, 17, 18, 20, 21, 23","rpq_proact_score"
 "rpq_totalaggression","Integer","","Required","Sum of both reactive and proactive items for total aggression score","0::46; 999","","rpq_total_score"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""

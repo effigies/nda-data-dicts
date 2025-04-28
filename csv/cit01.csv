@@ -11,3 +11,8 @@
 "cit5","Integer","","Recommended","Say the months of the year in reverse order","0;2;4","0=Correct (0 points); 2=1 Error (2 points); 4=More than 1 error (4 points)",""
 "cit6","Integer","","Recommended","Repeat address phrase.","0;2;4;6;8;10","0=Correct (0 points); 2=1 Error (2 points); 4=2 Errors (4 points); 6=3 Errors (6 points); 8=4 Errors (8 points); 10=All Wrong (10 points)",""
 "cit_total","Integer","","Recommended","Total number of points","0::28","Sum of all points",""
+"cit3_alt","Integer","","Recommended","About what time is it (within one hour)?","0;1","0= Correct (0 point); 1= Incorrect (1 point)",""
+"cit4_alt","Integer","","Recommended","Count backwards from 20 to 1","0::2","0= Correct (0 point); 1= 1 Error (1 point); 2= More than 1 error (2 points)",""
+"cit5_alt","Integer","","Recommended","Say the months of the year in reverse order","0::2","0= Correct (0 point); 1= 1 Error (1 point); 2= More than 1 error (2 points)",""
+"cit6_alt","Integer","","Recommended","Repeat address phrase","0::5","0= Correct (0 point); 1= 1 Error (1 point); 2= 2 Errors (2 points); 3= 3 Errors (3 points); 4= 4 Errors (4 points); 5= All Wrong (5 points)",""
+"cit_total_alt","Integer","","Recommended","Total number of points","0::17","Sum of points earned based on cit1, cit2, cit3_alt, cit4_alt, cit5_alt, cit6_alt",""

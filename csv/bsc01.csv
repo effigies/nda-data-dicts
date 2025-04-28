@@ -214,3 +214,5 @@
 "ptau217","Float","","Recommended","Human Tau Protein (Phosphorylated Tau 217)","","",""
 "apoe_e4","Integer","","Recommended","Apolipoprotein E (ApoE) Isoform","1::6","1=E2/E2; 2=E2/E3; 3=E3/E3; 4=E2/ E4; 5=E3/E4; 6=E4/E4",""
 "uchl1","Float","","Recommended","Ubiquitin carboxyl-terminal hydrolase L1","0::40000","pg/mL",""
+"vin_level","Float","","Recommended","Vinpocetine (Cavinton) Concentration","0::1000","ng/mL",""
+"ava_level","Float","","Recommended","Apovincaminic Acid (AVA) Concentration","0::1000","ng/mL",""

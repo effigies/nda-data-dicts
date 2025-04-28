@@ -69,7 +69,7 @@
 "h1dem4","Integer","","Recommended","What is your marital status?","1 :: 7","1= Single; 2= Married; 3= Separated; 4=Divorced; 5=In unmarried couple; 6=Widowed; 7=Refused",""
 "h1dem6","Integer","","Recommended","Do you currently have health insurance?","0;1","0= No; 1= Yes",""
 "h1dem7a","Integer","","Recommended","Insurance type","1 :: 4","1= Medicaid; 2=Medicare; 3=Employer/Private Insurance; 4=Other (Specify)",""
-"h1dem6ao","String","20","Recommended","Insurance other (specify)","","",""
+"h1dem6ao","String","100","Recommended","Insurance other (specify)","","",""
 "end_date_bl","Date","","Recommended","End Date (MM/DD/YYYY) for baseline","MM/DD/YYYY","End date for baseline date",""
 "end_time_bl","String","8","Recommended","End Time (24 Hour) for baseline","","End time for baseline data (USA Central Time Zone) HH:MM:SS",""
 "pcm","Integer","","Recommended","Patient care management intervention","0;1","0=No; 1=Yes",""

@@ -99,3 +99,4 @@
 "uclals_week_4","Integer","","Recommended","In the past week, I felt isolated from others ","1::4","4 = Never; 3 = Rarely; 2 = Sometimes; 1 = Often",""
 "uclals_week_5","Integer","","Recommended","In the past week, I was unhappy being so withdrawn ","1::4","4 = Never; 3 = Rarely; 2 = Sometimes; 1 = Often",""
 "uclals_week_6","Integer","","Recommended","In the past week, people were around me but not with me ","1::4","4 = Never; 3 = Rarely; 2 = Sometimes; 1 = Often",""
+"uls_withdrawn","Integer","","Recommended","How often do you feel that you are unhappy being so withdrawn?","0::3;999","0=Never; 1=Rarely; 2=Sometimes; 3=Always; 999=Skipped",""

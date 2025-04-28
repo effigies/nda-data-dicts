@@ -9,3 +9,4 @@
 "brfss_isq3","Integer","","Recommended","Do you snore?","0;1","0=No; 1=Yes",""
 "brfss_isq4","Integer","","Recommended","During the past 30 days, for about how many days did you find yourself unintentionally falling asleep during the day?","0::30","Number of days",""
 "brfss_isq5","Integer","","Recommended","During the past 30 days, have you ever nodded off or fallen asleep even just for a brief moment while driving?","1::4","1=Yes; 2=No; 3=Don't drive; 4=Don't have a drivers license",""
+"brfss_isq2_alt","Integer","","Recommended","On average, how many hours of sleep do you get in a 24-hour period? Think about the time you actually spend sleeping or napping.","0::11","0= 0; 11= 11 or more",""

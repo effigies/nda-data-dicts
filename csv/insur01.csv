@@ -84,3 +84,5 @@
 "healthins7_1","Integer","","Recommended","We are interested in what kinds of health insurance or health care coverage you may have. Do you have... Indian Health Service","0;1;99","0 = No; 1 = Yes; 99 = No Data",""
 "insurance_b","Integer","","Recommended","What is the main way you get health insurance for yourself right now?","0::6;88","0= None; 1= Medicare; 2= Medicaid; 3= Employer-based; 4= Purchased directly or through a marketplace; 5= TRICARE; 6= VA or CHAMPVA; 88= Other",""
 "insurance_b_oth","String","100","Recommended","What is the main way you get health insurance for yourself right now? Other, specify","","",""
+"healthins11_3","Integer","","Recommended","We are interested in what kinds of health insurance or health care coverage you may have. Do you have... Private health insurance purchased through an employer or union","0;1;99","0 = No; 1 = Yes; 99 = No Data",""
+"healthins12_3","Integer","","Recommended","We are interested in what kinds of health insurance or health care coverage you may have. Do you have... Private health insurance purchased through the Marketplace (e.g., Healthcare.gov)","0;1;99","0 = No; 1 = Yes; 99 = No Data",""

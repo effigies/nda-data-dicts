@@ -100,3 +100,7 @@
 "aaasa_session","Integer","","Recommended","Session of trial","0 :: 3","0 = Baseline; 1 = Session one; 2 = Session two; 3 = One-month follow-up",""
 "site","String","101","Recommended","Site","","Study Site",""
 "txgroup","String","50","Recommended","Treatment group","","",""
+"asa_08_10","Integer","","Recommended","If you could be assured that no one would know and that you could in no way be punished for engaging in the following acts, how likely, if at all, would you be to commit such acts? Rape","0::100","Percentage","asadn_5_pct"
+"asa_08_11","Integer","","Recommended","If you could be assured that no one would know and that you could in no way be punished for engaging in the following acts, how likely, if at all, would you be to commit such acts? Forcing a female to do something sexual she did not want to do","0::100","Percentage","asadn_6_pct"
+"asa_09_10","Integer","","Recommended","If a typical college male could be assured that no one would know and that he could in no way be punished for engaging in the following acts, how likely, if at all, would he be to commit such acts? Rape","0::100","Percentage","asadn_7_pct"
+"asa_09_11","Integer","","Recommended","If a typical college male could be assured that no one would know and that he could in no way be punished for engaging in the following acts, how likely, if at all, would he be to commit such acts? Forcing a female to do something sexual she did not want to do","0::100","Percentage","asadn_8_pct"

@@ -93,7 +93,7 @@
 "c_outpt_hrs","String","50","Recommended","Outpatient therapy (individual therapy in an office or virtual), how often?","","","outpt_hrs"
 "c_ihbs_hrs","Integer","","Recommended","In-Home Behavior Health Services (IHBS), Number of hours.","","Number of Hours","ihbs_hrs"
 "c_mci_when","String","50","Recommended","Access Mobile Crisis Intervention (MCI)??When?","","Date","mci_when"
-"c_pa_med","Integer","","Recommended","Ever received Medical Assistance/Medicaid Insurance in (current state).","0;1","0= No; 1= Yes","pa_med"
+"c_pa_med","Integer","","Recommended","Ever received Medical Assistance/Medicaid Insurance in (current state).","0;1;999","0= No; 1= Yes; 999= Missing","pa_med"
 "c_dd","Integer","","Recommended","Has a doctor or other health care provider EVER told you that this child has developmental delay??","0;1","0= No; 1= Yes","dd"
 "c_pa_med_now","Integer","","Recommended","Currently receive Medical Assistance/Medicaid Insurance in (current state).","0;1","0= No; 1= Yes","pa_med_now"
 "c_pa_wrap","Integer","","Recommended","Ever receive Wraparound Services (BSC, TSS, Mobile Therapy) in (current state).","0;1","0= No; 1= Yes","pa_wrap"

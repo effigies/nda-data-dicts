@@ -81,3 +81,4 @@
 "ymft_5","Integer","","Recommended","How do you think your close friends would feel about you taking one or two drinks nearly every day?","0::3","0=Not disapprove; 1=Disapprove; 3=Strongly Disapprove",""
 "ymft_6","Integer","","Recommended","How do you think your close friends would feel about you taking four or five drinks nearly every day?","0::3","0=Not disapprove; 1=Disapprove; 3=Strongly Disapprove",""
 "ymft_7","Integer","","Recommended","Does your mother drink alcohol (more than one or two sips) once a month or more?","1;2","1=Yes; 2=No",""
+"mtf_vape_pastyear","Integer","","Recommended","Have you vaped in the past year?","0;1;99","0= No; 1= Yes; 99= Prefer not to answer",""

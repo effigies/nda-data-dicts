@@ -48,3 +48,4 @@
 "respondents","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Physician","",""
 "respond_detail_oth_spec","String","255","Recommended","Respondent details","","",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"txgroup","String","50","Recommended","Treatment group","","",""

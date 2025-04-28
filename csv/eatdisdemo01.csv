@@ -212,5 +212,5 @@
 "pause_treat","Integer","","Recommended","If the participant is in psychotherapy focused on their Eating Disorder, are they willing to pause treatment with their current therapist for the duration of the study treatment?","0;1","0=No; 1=Yes",""
 "clin_demo2","Integer","","Recommended","Which gender do you most identify with?","1::6","1=Cisgender Woman; 2=Cisgender Man; 3=Transgender Woman; 4=Transgender Man; 5=Gender variant/Non-conforming; 6=Not listed",""
 "clin_demo3","Integer","","Recommended","What is you sexual orientation?","1::6","1=Lesbian or gay; 2=Straight (not lesbian or gay); 3=Bisexual; 4=Something else; 5=Do not know; 6=Prefer not to disclose",""
-"clin_demo4","Integer","","Recommended","What is your marital status?","1::5","1=Single, never married; 2=Married or remarried; 3=Divorced; 4=Separated; 5=Widowed",""
+"clin_demo4","Integer","","Recommended","What is your marital status?","1::6","1=Single, never married; 2=Married or remarried; 3=Divorced; 4=Separated; 5=Widowed; 6= Missing",""
 "clin_demo19","Integer","","Recommended","How many years of schooling have you completed?","1::7","1=Less than high school; 2=High school graduate; 3=Some college; 4=Associate''s degree; 5=Bachelor''s degree; 6=Master''s degree; 7=Doctorate or Professional Degree",""
