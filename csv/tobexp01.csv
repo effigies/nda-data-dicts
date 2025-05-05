@@ -45,3 +45,4 @@
 "past_yr_smoke_days_per_wk","Integer","","Recommended","In the past year, on average, how many days per week did you smoke cigarettes?","","Number of days per week",""
 "past_yr_smoke_cigs_per_day","Integer","","Recommended","In the past year, on average on days that you smoked, how many cigarettes did you smoke per day?","","Number of cigarettes per day",""
 "packs_last_year","Float","","Recommended","Total packs smoked in the past year (packs/day last year X 365)","","",""
+"su_tolife","Integer","","Recommended","Have you ever used tobacco or nicotine in your life?","0;1;99","0=No; 1=Yes; 99=No data","usedtobacco_3"

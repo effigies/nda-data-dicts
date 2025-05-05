@@ -48,3 +48,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "amsq3","Integer","","Recommended","It is definitely worth taking despite its side effects.","0; 1","0=No; 1=Yes",""
 "amsq_ts","Integer","","Recommended","Attitudes toward Mood Stabilizers Questionnaire total score","0 ::19","",""
 "site","String","101","Recommended","Site","","Study Site",""
+"ams_addicted","Integer","","Recommended","Imagine you/your child are diagnosed with depression at this visit and your provider recommends an antidepressant. How worried would you be that... You/your child would become addicted to the antidepressant?","0::6","0= Not at all worried; 3= Somewhat worried; 6= Very worried",""
+"ams_personality","Integer","","Recommended","Imagine you/your child are diagnosed with depression at this visit and your provider recommends an antidepressant. How worried would you be that... The antidepressant would change your/your teen's personality?","0::6","0= Not at all worried; 3= Somewhat worried; 6= Very worried",""
+"ams_side_effects","Integer","","Recommended","Imagine you/your child are diagnosed with depression at this visit and your provider recommends an antidepressant. How worried would you be that... The antidepressant would have bad side effects like making you/your teen fatigued, giving you/them headaches, or reducing your/their sex drive?","0::6","0= Not at all worried; 3= Somewhat worried; 6= Very worried",""
+"respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""

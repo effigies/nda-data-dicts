@@ -11,3 +11,5 @@
 "nas_nbh2b","Integer","","Recommended","This is a close-knit neighborhood.","1::4; 99","1 = Strongly agree; 2 = Agree; 3 = Disagree; 4 = Strongly disagree; 99 = No answer",""
 "nas_nbh2c","Integer","","Recommended","People in this neighborhood can be trusted.","1::4; 99","1 = Strongly agree; 2 = Agree; 3 = Disagree; 4 = Strongly disagree; 99 = No answer",""
 "nas_nbh3","Integer","","Recommended","I feel safe walking in my neighborhood during the evening.","1::4; 99","1 = Strongly agree; 2 = Agree; 3 = Disagree; 4 = Strongly disagree; 99 = No answer",""
+"nbh6","Integer","","Recommended","My neighborhood is safe from crime.","1::4","1 = Strongly agree; 2 = Agree; 3 = Disagree; 4 = Strongly disagree",""
+"nbh18","Integer","","Recommended","I would like to live in my neighborhood a long time.","1::4","1 = Strongly agree; 2 = Agree; 3 = Disagree; 4 = Strongly disagree",""

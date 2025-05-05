@@ -382,3 +382,6 @@
 "visitday","Integer","","Recommended","day of visit","","",""
 "completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","kbit_comments"
+"kbit_verbal_percentile","Float","","Recommended","Kaufman Brief Intelligence Test - Verbal Percentile","0::100","",""
+"kbit_nonverbal_percentile","Float","","Recommended","Kaufman Brief Intelligence Test - Nonverbal Percentile","0::100","",""
+"kbit_iq_percentile","Float","","Recommended","Kaufman Brief Intelligence Test - IQ Percentile","0::100","",""

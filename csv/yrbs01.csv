@@ -383,3 +383,4 @@
 "sex_risk_9","Integer","","Recommended","Has anyone ever given you money, food, gifts, or any favors to have sex with them in the past 12 months?","0;1;666;777","0=No; 1=Yes; 666=Missing; 777=NA",""
 "sex_risk_10","Integer","","Recommended","In the last 30 days, have you been told by a healthcare professional that you have had any sexually transmitted disease (STD), not including HIV?","0;1;666;777","0=No; 1=Yes; 666=Missing; 777=NA",""
 "sex_risk_11","String","100","Recommended","If yes to sex_risk_11, in the last 30 days, which sexually transmitted disease (STD), not including HIV, have you been told by a healthcare professional that you have?","","",""
+"yrbs_hs_8a","Integer","","Recommended","During the past 12 months, how many times were you in a physical fight?","0::5","0 = 0 times; 1 = 1 time; 2 = 2 or 3 times; 3 = 4 or 5 times; 4 = 6 to 9 times; 5 = 10 or more times",""

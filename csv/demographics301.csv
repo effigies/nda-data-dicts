@@ -750,3 +750,8 @@
 "relationship___5","Integer","","Recommended","Which best describes your relationship status: Married","0;1","0= No; 1= Yes",""
 "relationship___6","Integer","","Recommended","Which best describes your relationship status: Married but separated","0;1","0= No; 1= Yes",""
 "relationship___7","Integer","","Recommended","Which best describes your relationship status: Divorced","0;1","0= No; 1= Yes",""
+"parent_race","String","150","Recommended","""Race (American Indian or Alaska Native, African American or Black, Asian, Native Hawaiian or Other Pacific Islander, White, Mixed Race, Other Race, No Answer)""","American Indian or Alaska Native;African American or Black;Asian;Native Hawaiian or Other Pacific Islander;White;Mixed Race;Other Race","",""
+"grandparent_race","Integer","","Recommended","Grandparents Race","1::6;99","1= Black/African American; 2= White/Caucasian; 3= Asian; 4= Native American; 5= Native Hawaiian or other Pacific Islander; 6= Other; 99= Not Reported",""
+"parent_3_ethnicity","Integer","","Recommended","Parent 3 Ethnicity","1;2","1= Hispanic or Latino; 2= Not Hispanic or Latino",""
+"grandparent_ethnicity","Integer","","Recommended","Grandparents Ethnicity","1;2;99","1= Hispanic/Latino; 2= Non-Hispanic/Non-Latino; 99= Not Reported",""
+"parents_race","Integer","","Recommended","Parents Race","1::6;99","1= Black/African American; 2= White/Caucasian; 3= Asian; 4= Native American; 5= Native Hawaiian or other Pacific Islander; 6= Other; 99= Not Reported",""

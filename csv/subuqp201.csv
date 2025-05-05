@@ -595,7 +595,7 @@
 "su_mjuse10","Integer","","Recommended","Please indicate which methods of marijuana use you have experience with (select all that apply): Other (please describe)","0;1","0 = No; 1 = Yes",""
 "su_mjuse11","String","2000","Recommended","Please indicate which methods of marijuana use you have experience with (select all that apply): Other (please describe)","","",""
 "btsu_27","Integer","","Recommended","Have you used marijuana (hash, weed) in the past 30 days?","0;1","0 = No; 1 = Yes","su_mj30day"
-"su_tolife","Integer","","Recommended","Have you ever used tobacco or nicotine in your life?","0;1","0 = No; 1 = Yes",""
+"su_tolife","Integer","","Recommended","Have you ever used tobacco or nicotine in your life?","0;1;99","0=No; 1=Yes; 99=No data",""
 "su_touse1","Integer","","Recommended","Please indicate which methods of tobacco use you have experience with in your lifetime (select all that apply): Traditional cigarettes ","0;1","0 = No; 1 = Yes",""
 "su_touse2","Integer","","Recommended","Please indicate which methods of tobacco use you have experience with in your lifetime (select all that apply): Electronic cigarettes, e-cigarettes, vaping","0;1","0 = No; 1 = Yes",""
 "su_touse3","Integer","","Recommended","Please indicate which methods of tobacco use you have experience with in your lifetime (select all that apply): Cigars","0;1","0 = No; 1 = Yes",""

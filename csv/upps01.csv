@@ -389,3 +389,4 @@
 "aaasa_session","Integer","","Recommended","Session of trial","0 :: 3","0 = Baseline; 1 = Session one; 2 = Session two; 3 = One-month follow-up",""
 "aaasa_supps_negu","Float","","Recommended","Negative urgency score","","",""
 "aaasa_supps_posu","Float","","Recommended","Positive urgency score","","",""
+"phase_options","Integer","","Recommended","Phase","1::3;9","1= Feasibility; 2= Open; 3= Clinical; 9 = Follow up",""

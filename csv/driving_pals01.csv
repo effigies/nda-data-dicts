@@ -124,3 +124,6 @@
 "yadq7","Integer","","Recommended","In the past year, how many times have you ridden with someone who was driving and had consumed 1 drink within 2 hours??","0::99","Number of times",""
 "yadq8","Integer","","Recommended","In the past year, how many times have you ridden with someone who was driving and had consumed 3 drinks within 2 hours??","0::99","Number of times",""
 "yadq9","Integer","","Recommended","In the past year, how many times have you ridden with someone who was driving and had consumed 5 drink or more within 2 hours??","0::99","Number of times",""
+"yadq4","Integer","","Recommended","In the past 3 months, how many times have you driven after consuming 1 drink within 2 hours?","0::99","Number of times",""
+"yadq5","Integer","","Recommended","In the past 3 months, how many times have you driven after consuming 3 drinks within 2 hours?","0::99","Number of times",""
+"yadq6","Integer","","Recommended","In the past 3 months, how many times have you driven after consuming 5 drinks or more within 2 hours?","0::99","Number of times",""

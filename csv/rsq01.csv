@@ -284,3 +284,4 @@
 "rsq_7_yy","Integer","","Recommended","When dealing with the stress of problems with other people (Way yu day du somtin bot di stres way yu day get from oda pipul dem problem): I realize that I just have to live with things the way they are. (Ar kin rili fred way ar get problem for day wit oda pipul dem.)","1::4;998;999","1 = Never/Not at all (Natin-natin); 2 = A little (Smal); 3 = Some (Boku); 4 = A lot (Boku boku); 998 = Don''t know (Ar nor nor); 999 = No answer (Nor ansa)",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
 "trtarm","String","200","Recommended","Treatment arm","","",""
+"rsq_problems","Integer","","Recommended","I just cannot get myself to face the person I am having problems with or the situation","1::4","1= Not at all; 2= A little; 3= Some; 4= A lot",""

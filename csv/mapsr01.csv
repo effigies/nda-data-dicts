@@ -41,3 +41,4 @@
 "map_5","Integer","","Recommended","In the past 24 hours, how often have you experienced pleasure from hobbies, recreation, or from work?","0::4","0= Not at all; 4= Very often",""
 "map_6","Integer","","Recommended","Looking ahead to the next 24 hours, how much pleasure do you expect you will experience from your hobbies, recreation, or work?","0::4","0= No pleasure; 4= Extreme pleasure",""
 "map_7","Integer","","Recommended","When it comes to close relationships with your family members, how important have these relationships been to you over the past 24 hours?","0::4","0= Not at all important to me; 4= Extremely important to me",""
+"map_sr_total","Integer","","Recommended","Sum of map_sr1-map_sr18","0::72","",""

@@ -28,3 +28,5 @@
 "site","String","101","Recommended","Site","","Study Site",""
 "study","String","100","Recommended","Study; The code for each individual study","","",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
+"aaq_4a","Integer","","Recommended","Have you had ''anger attacks'', episodes where you would become angry and enraged with other people in a way that you thought was excessive: If yes, how many times has this happened in the past 3 months?","","",""
+"aaq_5n","Integer","","Recommended","Verbally attacked someone","0;1","0=No; 1=Yes",""

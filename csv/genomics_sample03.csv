@@ -59,3 +59,5 @@
 "fetal_age","Integer","","Recommended","Age of the fetus (i.e., gestational age) in days","0::322","",""
 "fetal_age_type","Integer","","Recommended","Type of gestational age used for fetal_age","1;2","1 = Postovulatory gestational age, defined as days since the last ovulation, expected term of 266 days; 2 = Postmenstrual gestational age, days since the last menstrual period, expected term of 280 days",""
 "genotyping_chip_type","String","4000","Recommended","Chip type used for genotyping","","",""
+"dna_genotype","String","20","Recommended","Genotype Results","A/A;A/C;C/C;NR","NR = Not Reported",""
+"dna_concentration","Float","","Recommended","Concentration of DNA present in sample, measured at 260 nm absorbance","0;1::400","",""

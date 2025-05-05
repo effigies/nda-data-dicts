@@ -59,3 +59,6 @@
 "whoqol_relationships","Float","","Recommended","Transformed subscale score for social relationships (Domain 3)","0::100","The transformation converts the lowest and highest possible raw scores on each subscale to zero and 100, respectively.",""
 "whoqol_environment","Float","","Recommended","Transformed subscale score for environment (Domain 4)","0::100","The transformation converts the lowest and highest possible raw scores on each subscale to zero and 100, respectively.",""
 "whoqol15a","Integer","","Recommended","How well are you able to get around?","1::5","1=Not at all; 2=Slightly; 3=Moderately; 4=Very; 5=Extremely",""
+"question_visit","Integer","","Recommended","Was the questionnaire administered during this visit?","0;1","0 = No; 1 = Yes",""
+"supp","Integer","","Recommended","Do you get the kind of support from others that you need?","1::5","1 = Not at all; 2 = Slightly; 3 = Moderate; 4 = Very; 5 = Completely",""
+"how_well_are_you_able_to_g","Integer","","Recommended","How well are you able to get around physically?","1::5","1 = Not at all; 2 = Slightly; 3 = Somewhat; 4 = To a great extent; 5 = Completely",""
