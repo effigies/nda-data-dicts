@@ -281,6 +281,6 @@
 "sleep2_pn","Integer","","Recommended","During the past night, how long (in minutes) did it take you to fall asleep?","","In minutes",""
 "wakeup_mon","Integer","","Recommended","In the past month, how many times during the night do you typically wake up and fall back asleep again?","","Number of awakenings",""
 "awaketime_mon","Integer","","Recommended","Past month - If you add all those times you wake up and fall back asleep again together, about how long do they last (in minutes)?","","In minutes",""
-"sleephours_mon","Integer","","Recommended","During the past month, how many hours of actual sleep did you get at night? [This may be different from the number of hours you spend in bed.]","","Number of hours",""
+"sleephours_mon","Float","","Recommended","During the past month, how many hours of actual sleep did you get at night? [This may be different from the number of hours you spend in bed.]","","Number of hours",""
 "psqi_06_pn","Integer","","Recommended","During the past night, how would you rate your sleep quality overall?","0::3","0= Very good; 1= Fairly good; 2= Fairly bad; 3= Very bad",""
 "wakeup_pn","Integer","","Recommended","In the past night, how many times during the night did you wake up and fall back asleep again?","","Number of awakenings",""

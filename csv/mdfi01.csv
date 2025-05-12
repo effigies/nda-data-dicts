@@ -24,4 +24,4 @@
 "mdfi_18","Integer","","Recommended","I don't feel like doing anything","1::5","1=yes, that is true; 5=no, that is no true",""
 "mdfi_19","Integer","","Recommended","My thoughts easily wander","1::5","1=yes, that is true; 5=no, that is no true",""
 "mdfi_20","Integer","","Recommended","Physically I feel I am in an excellent condition","1::5","1=yes, that is true; 5=no, that is no true",""
-"mdfi_total","Integer","","Required","Multi-Dimentional Fatigue Inventory Total","1::100","",""
+"mdfi_total","Integer","","Required","Multi-Dimentional Fatigue Inventory Total","1::100;999","999=Missing",""

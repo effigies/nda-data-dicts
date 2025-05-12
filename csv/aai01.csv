@@ -17,3 +17,7 @@
 "aai_total_score","Float","","Recommended","Total Raw Score","","sums: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10",""
 "aai_avoidance_score","Float","","Recommended","Avoidance Score","","sums: 1, 3, 4, 7, 9, 10",""
 "aai_threat_monitoring_score","Float","","Recommended","Threat Monitoring Score","","sums: 2, 4, 6, 8",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"aai_2_n","Integer","","Recommended","I check my appearance (e.g., in mirrors, by touching with my fingers, or by taking photos of myself).","1::5","1=Not at all; 2=Rarely; 3=Sometimes; 4=Most of the time; 5=All of the time",""
+"aai_7_n","Integer","","Recommended","I avoid reflective surfaces, photos, or videos of myself.","1::5","1=Not at all; 2=Rarely; 3=Sometimes; 4=Most of the time; 5=All of the time",""
+"aai_5_n","Integer","","Recommended","I think about how to camouflage or alter my appearance.","1::5","1=Not at all; 2=Rarely; 3=Sometimes; 4=Most of the time; 5=All of the time",""

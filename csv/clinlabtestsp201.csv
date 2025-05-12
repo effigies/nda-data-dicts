@@ -715,3 +715,5 @@
 "il2_pgml","Float","","Recommended","Interleukin-2 pg/ml","","",""
 "leptin","Float","","Recommended","Leptin blood test result","","""leptin_unit"" specifies unit",""
 "leptin_unit","String","10","Recommended","Unit for the leptin blood test result","","",""
+"urine_nicotine","Integer","","Recommended","Nicotine level in urine (ng/dL)","","",""
+"creat_delta","Float","","Recommended","Change in blood creatinine since last result (mg/dL)","","",""

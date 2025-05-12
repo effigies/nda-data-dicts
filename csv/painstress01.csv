@@ -14,3 +14,4 @@
 "stimuli_detail","String","100","Recommended","stimuli description","","",""
 "taskdescription","String","50","Recommended","Longer description of the task.","","",""
 "painstress_fail","Integer","","Recommended","Subject unable to complete task","0;1","0=No; 1= Yes",""
+"facespain","Integer","","Recommended","Faces Pain Scale - Pain Rating","0;2;4;6;8;10","0=No pain; 10=Very much pain",""

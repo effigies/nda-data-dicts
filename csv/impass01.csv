@@ -79,3 +79,7 @@
 "subjectid","Integer","","Recommended","Assigned study ID","","",""
 "groupid","String","20","Recommended","Assigned group ID number","","",""
 "session_id","String","20","Recommended","session ID/screening ID","","",""
+"correct_tec","Integer","","Recommended","Therapeutic Evaluative Conditioning (TEC) match correctness","0;1","0= Incorrect; 1= Correct",""
+"streak","Integer","","Recommended","Greatest number of pairings that the participant selected correctly in a row","0::60","",""
+"iat_words","String","10","Recommended","Word Shown To Participant","Living; Breathing; Thrive; Alive; Deceased; Suicide; Dead; Die; I; Myself; Mine; Self; Their; They; Them; Other","",""
+"categories_task","String","10","Recommended","Categories for task","Life; Death; Me; Not Me","",""

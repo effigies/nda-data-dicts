@@ -755,3 +755,4 @@
 "parent_3_ethnicity","Integer","","Recommended","Parent 3 Ethnicity","1;2","1= Hispanic or Latino; 2= Not Hispanic or Latino",""
 "grandparent_ethnicity","Integer","","Recommended","Grandparents Ethnicity","1;2;99","1= Hispanic/Latino; 2= Non-Hispanic/Non-Latino; 99= Not Reported",""
 "parents_race","Integer","","Recommended","Parents Race","1::6;99","1= Black/African American; 2= White/Caucasian; 3= Asian; 4= Native American; 5= Native Hawaiian or other Pacific Islander; 6= Other; 99= Not Reported",""
+"dm1_house","Integer","","Recommended","Where do you live during the school year?","1::4","1= On-Campus Housing; 2= Off-Campus University/College Sponsored Housing; 3= Off-Campus (alone, with friends, roommates, etc.); 4= Off-Campus (with family)",""
