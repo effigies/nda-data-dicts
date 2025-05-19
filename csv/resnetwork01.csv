@@ -1,5 +1,5 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","",""
 "resource_type","Integer","","Recommended","Type of resource","1::14","",""
 "wave","Integer","","Recommended","wave 1= September to December, wave 2= April to June, wave 3=summer months","1::3","wave 1= September to December, wave 2= April to June, wave 3=summer months",""

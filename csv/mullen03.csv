@@ -1,6 +1,6 @@
 "ElementName","DataType","Size","Required","Condition","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","","CandidateGUID,GUID,GUIDID,NDAR_guid,ProbandGUID,subject_key"
-"src_subject_id","String","20","Required","","Subject ID how it's defined in lab/project","","","IBISID,Mullen_SEL_SRC_Subject_ID,NDAR_SUBJECT_NUMBER,SubjectID,individual,participantid,randid,sub_id"
+"src_subject_id","String","45","Required","","Subject ID how it's defined in lab/project","","","IBISID,Mullen_SEL_SRC_Subject_ID,NDAR_SUBJECT_NUMBER,SubjectID,individual,participantid,randid,sub_id"
 "interview_date","Date","","Required","","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","Date_taken,MH_Tdate,Mullen_DOI,Mullen_SEL_interview_date,VISITDT,mldate,msel_interview_date,mslchronage,msldate,mu_date"
 "interview_age","Integer","","Required","","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","Candidate_Age_in_Months,INTERVIEW_AGE_MONTHS,MH_ChronlgcalA1,Mullen_SEL_interview_age,Subject_Age_in_Months,age_mos,msel_interview_age"
 "interview_chrono_age","Integer","","Recommended","","Interview Chronological Age","0 :: 1200","","Mullen_SEL_interview_chrono_age,msel_interview_chrono_age"

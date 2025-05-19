@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","","GUID,SubjectKey_GUID"
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","Candidate_Age_in_Months"
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","Charge_physicalexam_SRC_Subject_ID,IBISID,physicalexam_SubjectID"
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Charge_physicalexam_SRC_Subject_ID,IBISID,physicalexam_SubjectID"
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","Charge_physicalexam_interview_date,Date_taken,physicalexam_interview_date"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","Charge_physicalexam_comments_misc,measurement_method,physicalexam_misc_comments"
 "head_occiput","String","50","Recommended","Occiput","Flat;Normal;Prominent;NE","NE = Not examined","Charge_physicalexam_head_occiput,physicalexam_head_occiput"

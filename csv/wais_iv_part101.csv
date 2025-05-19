@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","","nimhid"
 "assess_join_var","Integer","","Recommended","Variable used to combine assessments with multiple parts due to the technical limitation of 1000 elements per data structure. Enter the row number of each distinct record.","","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","WAIS_IV_SRC_Subject_ID,id,ptid,subject"
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","WAIS_IV_SRC_Subject_ID,id,ptid,subject"
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","WAIS_IV_interview_date,chriq_interview_date,digit_date,test_date_session_matrix,testdate,wais_date"
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","WAIS_IV_interview_age,age"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","WAIS_IV_comments_misc,digit_comments,ds_notes"

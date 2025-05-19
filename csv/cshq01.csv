@@ -73,7 +73,7 @@
 "tiredduringday_problem","String","6","Recommended","""Is """"tired during the day"""" a problem?""","TRUE;FALSE","",""
 "sleepwatchtv","Integer","","Recommended","Has the Child appeared very sleepy or fallen asleep during watching TV?","1;2;3;4","1 = Not sleepy; 2 = Very sleepy; 3 = Falls asleep; 4 = Not applicable",""
 "sleepincar","Integer","","Recommended","Has the Child appeared very sleepy or fallen asleep during riding in car?","1;2;3;4","1 = Not sleepy; 2 = Very sleepy; 3 = Falls asleep; 4 = Not applicable",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "childtired","Integer","","Recommended","Child seems tired","1;2;3","1 = Rarely (0-1 days per week); 2 = Sometimes (2-4 days per week); 3 = Usually (5-7 days per week)",""
 "childtired_problem","String","6","Recommended","Is ""Child seems tired"" a problem?","TRUE;FALSE","",""

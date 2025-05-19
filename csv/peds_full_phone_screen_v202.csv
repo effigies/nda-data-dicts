@@ -1,6 +1,6 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
 "admin_status","String","20","Recommended","Instrument administration status","Complete;Partial;Not Administered;Not Applicable","","FullScreen_V2_Administration_Status"
 "fs_v2_respondent","String","10","Recommended","Full Screener (Visit 2): Respondent completing interview","MOM;DAD;FB1;FS1;HB1;HS1;CID1;CIS1;MA1;MU1;PA1;PU1;MGM;MGF;PGM;PGF;Other","FB1 = Full brother 1; FS1 = Full sister 1; HB1 = Half brother 1; HS1 = Half sister 1; CID1 = Child of interest's daughter 1; CIS1 = Child of interest's son 1; MA1 = Maternal aunt 1; MU1 = Maternal uncle 1; PA1 = Paternal aunt 1; PU1 = Paternal uncle 1; MGM = Maternal grandmother; MGF = Maternal grandfather; PGM = Paternal grandmother; PGF = Paternal grandfather","FullScreen_V2_Respondent"

@@ -73,7 +73,7 @@
 "jol_formh_test_29_correct","String","5","Recommended","was test 29 correct?","Y;N","",""
 "jol_formh_test_30","Integer","","Recommended","test 30","1 :: 11","",""
 "jol_formh_test_30_correct","String","5","Recommended","was test 30 correct?","Y;N","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"

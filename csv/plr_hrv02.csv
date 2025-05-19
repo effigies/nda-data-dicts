@@ -78,7 +78,7 @@
 "hrv_ratio_da","Float","","Recommended","The Ratio of LF/HF during the dark-adaptation","","",""
 "hrv_ratio_dtest","Float","","Recommended","The Ratio of LF/HF during the dark-adapted PLR tests","","",""
 "hrv_ratio_after","Float","","Recommended","The Ratio of LF/HF after the PLR tests","","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "hrv_ahr_before","Float","","Recommended","average heart rate before PLR tests","","",""
 "hrv_ahr_ltest","Float","","Recommended","average heart rate during light-adapted PLR tests","","",""

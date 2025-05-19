@@ -10,7 +10,7 @@
 "wppsi_psd_pr","Float","","Recommended","Percentile Rank Percentile - Processing Speed","","",""
 "wppsi_fiq_composite","Integer","","Recommended","Full Scale IQ Composite Score","","",""
 "wppsi_fiq_pr","Float","","Recommended","Percentile Rank","","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "wppsi_bld_ae","Integer","","Recommended","Age Equivalent Block Design","","",""
 "wppsi_bld_rawscre","Integer","","Recommended","Raw score Raw - Block Design","0 :: 40","",""

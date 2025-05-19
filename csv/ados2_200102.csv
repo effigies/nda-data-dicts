@@ -1,6 +1,6 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","","GUID"
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","Ados2_2001_SRC_Subject_ID,ID,NDAR_SUBJECT_NUMBER,ind_id,individual,measure_individual"
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Ados2_2001_SRC_Subject_ID,ID,NDAR_SUBJECT_NUMBER,ind_id,individual,measure_individual"
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","Ados2_2001_interview_date,Date,ad2date,ados_mod2_alg_date,measure_date_of_evaluation"
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","Ados2_2001_interview_age,CA,INTERVIEW_AGE_MONTHS,measure_eval_age_months"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","ADOS_Comm,Ados2_2001_comments_misc,Comm,DataEntryNotes,Version"

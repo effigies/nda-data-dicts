@@ -97,6 +97,6 @@
 "regress_from_fever","String","6","Recommended","""Has the Child ever regressed or loss language, social or other skills related to a fever?""","TRUE;FALSE","",""
 "control_impr_lang_fever","String","6","Recommended","""Have any of your other children, who dont have autism, had improved language with fever?""","TRUE;FALSE","",""
 "control_fever_change_det","String","255","Recommended","Details of other non-autism kid improved language with fever","","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"

@@ -1,6 +1,6 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
 "age_in_days_dot_to_edc","Integer","","Recommended","Age in days obtained by subtracting the Expected Date of Confinement (EDC/Due Date) from the date of test","","","Exclusion_Age_in_Days_DOT_to_EDC"
 "admin_status","String","20","Recommended","Instrument administration status","Complete;Partial;Not Administered;Not Applicable","","Exclusion_Administration_Status"

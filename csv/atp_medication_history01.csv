@@ -1,6 +1,6 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","",""
 "medication_name","String","255","Recommended","Name of medication","","",""
 "medication_frequency","String","100","Required","Frequency of medication administration","","CPEA STAART: # times per day",""
 "medication_dosage","Float","","Required","Dosage/quantity of medication","","",""

@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
 "experiment_id","Integer","","Required","ID for the Experiment/settings/run","","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sample_id_original","String","100","Required","Original, user-defined Sample ID","","",""
 "sample_description","String","3500","Required","Sample description: tissue type, i.e. blood, saliva, brain etc.","whole blood; saliva; brain; urine; serum; plasma; CSF; IPS; Fibroblast; Neuronal Progenitor; skin biopsy; temporal cortex; lymphoblastoid cell line; unknown; semen; frontal cortex; parietal cortex; basal ganglia; Placenta; hair; occipital visual cortex; cerebellum; spleen; stool; muscle; kidney; liver; heart; cord blood; nasal swab; DNA; RNA; breastmilk; buccal; oral cells; rectal swab; cervicovaginal swab; red blood cells; cord blood plasma; cord blood serum; dried blood spot; pharyngeal swab","",""

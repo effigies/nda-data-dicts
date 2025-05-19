@@ -29,6 +29,6 @@
 "clocktest_number_completed","Integer","","Required","Clock Test - Total Number  of Items Completed","0 :: 24","",""
 "clocktest_number_correct","Integer","","Required","Clock Test - Number of Correct Items","0 :: 24","",""
 "clocktest_number_incorrect","Integer","","Required","Clock Test - Number of Incorrect Items","0 :: 24","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""

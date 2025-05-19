@@ -11,6 +11,6 @@
 "waterjar_item_8","Integer","","Recommended","Difference in degrees from correct answer","0 :: 180","",""
 "waterjar_item_9","Integer","","Recommended","Difference in degrees from correct answer","0 :: 180","",""
 "waterjar_item_10","Integer","","Recommended","Difference in degrees from correct answer","0 :: 180","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""

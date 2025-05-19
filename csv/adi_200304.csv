@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","Condition","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","","GUID,ProbandGUID"
 "interview_age","Integer","","Required","","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","ADI_2003_interview_age,ADI_2003_intro_age,INTERVIEW_AGE_MONTHS,Proband_Age_in_Months,adir_interview_age,age_years_at_visit,ca_in_months"
-"src_subject_id","String","20","Required","","Subject ID how it's defined in lab/project","","","ADI_2003_SRC_Subject_ID,IBISID,NDAR_SUBJECT_NUMBER,SubjectID,adir_src_subject_id,autism_id,ind_id,individual,randid"
+"src_subject_id","String","45","Required","","Subject ID how it's defined in lab/project","","","ADI_2003_SRC_Subject_ID,IBISID,NDAR_SUBJECT_NUMBER,SubjectID,adir_src_subject_id,autism_id,ind_id,individual,randid"
 "interview_date","Date","","Required","","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","ADI_2003_interview_date,ADI_2003_intro_dateinterview,Date_taken,adi_age_months,adir_interview_date,test_date/adi_date,visit_date"
 "comments_misc","String","4000","Recommended","","Miscellaneous comments on study, interview, methodology relevant to this form data","","","ADIRend_notes,ADI_2003_comments_misc,Cohort,additional_notes"
 "method_adi","Integer","","Required","","Method of ADI-R","1::4;-9","1=Diagnostic; 2=Current Behavior; 3=Both; 4=Short; -9 = Missing",""

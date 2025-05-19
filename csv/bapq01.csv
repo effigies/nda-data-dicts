@@ -1,6 +1,6 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","","BAPQ_SubjectKey,subject_key_father,subject_key_mother"
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","BAPQ_src_subject_id,bapq_m_src_mother_id ,individual,measure_individual,src_subject_id_father,src_subject_id_mother"
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","BAPQ_src_subject_id,bapq_m_src_mother_id ,individual,measure_individual,src_subject_id_father,src_subject_id_mother"
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","BAPQ_DOE,bapq_interview_date_f,bapq_interview_date_i,bapq_interview_date_i_m,bapq_interview_date_m,measure_date_of_evaluation"
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","BAPQ_Age,age_father,age_mother,dad_age,measure_eval_age_months,mom_age"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender,gender_f,gender_m"

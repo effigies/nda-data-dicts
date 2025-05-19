@@ -1,6 +1,6 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
 "age_days_date_of_visit_to_dob","Integer","","Recommended","Age in days at Visit (DoV-DoB), same as age of scan if obtained","","",""
 "age_days_date_of_visit_to_edc","Integer","","Recommended","Age in days at Visit (DoV-EDC)","","",""
 "objective","String","1","Recommended","Study objective","1;2","1 = Objective 1 (4 years, 6 months to 18 years); 2 =  Objective 2 (birth to 4 years, 5 months)",""

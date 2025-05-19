@@ -1,6 +1,6 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
 "brief_adult_inf_q1","String","2","Recommended","BRIEF Adult Version - Informant Report: Q1 (N=Never; S=Sometimes; O=Often; NA=Not Answered)","N;S;O;NA","N = Never; S = Sometimes; O = Often; NA = Not answered","BRIEF_Adult_Informant_Q1"
 "brief_adult_inf_q2","String","2","Recommended","BRIEF Adult Version - Informant Report: Q2 (N=Never; S=Sometimes; O=Often; NA=Not Answered)","N;S;O;NA","N = Never; S = Sometimes; O = Often; NA = Not answered","BRIEF_Adult_Informant_Q2"

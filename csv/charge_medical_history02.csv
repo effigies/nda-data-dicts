@@ -1,6 +1,6 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","","CandidateGUID,GUID,SubjectKey_GUID"
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","Charge_medicalhist_SRC_Subject_ID,IBISID,MedicalHx_SubjectID"
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Charge_medicalhist_SRC_Subject_ID,IBISID,MedicalHx_SubjectID"
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","Charge_medicalhist_interview_date,Date_taken,Med_Psych_Hist_Date_Taken,MedicalHx_interview_date"
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","Candidate_Age_in_Months,Charge_medicalhist_interview_age,Med_Psych_Hist_Candidate_Age"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","Charge_medicalhist_comments_misc,MedicalHx_misc_comments,med_psych_hist_q17_birth_defects,q17_birth_defects"

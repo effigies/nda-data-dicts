@@ -5,5 +5,5 @@
 "medical_disorder","String","1000","Required","Medical disorder of individual","","",""
 "diagnosis_notes","String","1000","Required","Notes regarding diagnosis","","",""
 "date_updated","Date","","Required","Date record updated","","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"

@@ -1,6 +1,6 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","",""
 "timepoint_label","String","50","Required","Timepoint/visit label","","",""
 "dti_age_days_dob","Integer","","Required","Age in days to date of birth from DTI scan date.  This may differ from the T1 date due to an offset in scan date between structural and DTI data.","","",""
 "dti_time_days_arbitrary_date","Integer","","Recommended","Time in days calculated by subtracting an arbitrary date from the DTI scan date.  Allows the user to identify ACR or Living Phantom scans from the same time in an anonymized way.","","",""

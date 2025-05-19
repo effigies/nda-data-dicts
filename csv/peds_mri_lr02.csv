@@ -1,6 +1,6 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
 "lr_timepoint_label","String","5","Required","User-defined timepoint/visit label - a label selected by the site at the time of registration of a new timepoint into the database. This label is used to group all the instruments administered to a subject at a given timepoint","","",""
 "age_days_date_of_visit_to_dob","Integer","","Required","Age in days at Visit (DoV-DoB), same as age of scan if obtained","","",""
 "lr_brainstem_volume","String","255","Recommended","MRI Variables: Brainstem Volume (Longitudinally Registered) (mm3)","","",""

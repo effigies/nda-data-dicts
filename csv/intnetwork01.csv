@@ -1,6 +1,6 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","",""
 "childid","Integer","","Recommended","Child ID number","0::40000","",""
 "intid","Integer","","Recommended","Autism intervention ID number","","",""
 "int_weight","Integer","","Recommended","number of times during the past three months","0::3; 4; 6; 7; 10; 12; 24; 60; 120; 180","",""

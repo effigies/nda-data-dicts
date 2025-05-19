@@ -5,7 +5,7 @@
 "ianraceaian","Integer","","Recommended","race_ai_an, see IAN CodeBook for details.","","http://dashboard.ianexchange.org/DataExplorer.aspx?FDID=100#race_ai_an",""
 "ianraceasian","Integer","","Recommended","race_asian, see IAN CodeBook for details.","","http://dashboard.ianexchange.org/DataExplorer.aspx?FDID=100#race_asian",""
 "ianraceblackaa","Integer","","Recommended","race_black_aa, see IAN CodeBook for details.","","http://dashboard.ianexchange.org/DataExplorer.aspx?FDID=100#race_black_aa",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","",""
 "ianracenhpi","Integer","","Recommended","race_nh_pi, see IAN CodeBook for details.","","http://dashboard.ianexchange.org/DataExplorer.aspx?FDID=100#race_nh_pi",""
 "ianraceother","Integer","","Recommended","race_other, see IAN CodeBook for details.","","http://dashboard.ianexchange.org/DataExplorer.aspx?FDID=100#race_other",""
 "ianraceunknown","Integer","","Recommended","race_unknown, see IAN CodeBook for details.","","http://dashboard.ianexchange.org/DataExplorer.aspx?FDID=100#race_unknown",""

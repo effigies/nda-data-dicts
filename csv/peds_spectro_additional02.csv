@@ -1,6 +1,6 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
-"src_subject_id","String","20","Required","Subject ID how it's defined in lab/project","","",""
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","",""
 "timepoint_label","String","50","Required","Timepoint/visit label","","",""
 "age_days_date_of_visit_to_dob","Integer","","Required","Age in days at Visit (DoV-DoB), same as age of scan if obtained","","",""
 "f_mrs_raw_data_file_l_fwm_us","File","","Recommended","This is the raw MRS data file (Left frontal white matter), unsuppressed.","","",""
