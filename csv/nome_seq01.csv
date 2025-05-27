@@ -21,3 +21,5 @@
 "readlength","Float","","Recommended","The length of the read","","",""
 "readlength_max","Float","","Recommended","The maximum length of the read","","",""
 "readlength_min","Float","","Recommended","The minimum length of the read","","",""
+"data_file1","File","255","Recommended","Data file 1","","",""
+"data_file1_type","String","300","Recommended","type of data file 1","","",""

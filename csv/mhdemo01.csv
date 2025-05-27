@@ -13,7 +13,7 @@
 "dem_12_rel_stat","Integer","","Recommended","respondent' relationship status","1::6","1=Married; 2=divorced/separated; 3=widowed; 4= remarried; 5=single; 6 = In relationship, not living together","dem_marstat"
 "eo4","Integer","","Recommended","Are you currently working at a job or business for pay","0;1;9","0=No; 1=Yes; 9 = Missing","eco_paidwork"
 "ca27","Float","","Recommended","How long have you been unemployed? Months","","","eco_durnowork"
-"demog_empl","Integer","","Recommended","What is your employment status?","1::7","1=Working full-time; 2=Working part-time; 3=Unemployed; 4=Student; 5=Retired; 6=Self-employed; 7 = Other","eco_fullpart"
+"demog_empl","Integer","","Recommended","What is your employment status?","1::10","1=Working full-time; 2=Working part-time; 3=Unemployed; 4=Student; 5=Retired; 6=Self-employed; 7 = Other; 8= On leave from work and/or school;  9 = Student and employed; 10 = Do not need to work","eco_fullpart"
 "eco_durempl","Integer","","Recommended","How long have you worked in this job?","1;2","1= Less than a year; 2= One year or more",""
 "eco_worktype","Integer","","Recommended","Do you usually work throughout the year, or do you work seasonally, or only once in a while?","1;2","1= Piece jobs; 2= Throughout the year",""
 "mempl","String","40","Recommended","Monthly employment income","","0=No, 1=Yes; -4=Refused; -3=DK","eco_salary"

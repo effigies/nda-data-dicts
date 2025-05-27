@@ -119,7 +119,7 @@
 "biodad_druguse_desc2","String","50","Recommended","Index Child Biological Dad have a history of drug use 2 - specify","","11111=Not Administered at site; 99999 = Not Applicable",""
 "biodad_druguse_desc3","String","50","Recommended","Index Child Biological Dad have a history of drug use 3 - specify","","11111=Not Administered at site; 99999 = Not Applicable",""
 "biodad_druguse_desc4","String","50","Recommended","Index Child Biological Dad have a history of drug use 4 - specify","","11111=Not Administered at site; 99999 = Not Applicable",""
-"collat_marstatus","Integer","","Recommended","Respondent: What is your current marital status?","1::6","1 = Married; 2 = Unmarried/living with partner; 3 = Widowed; 4 = Divorced; 5 = Separated; 6 = Single/never married",""
+"collat_marstatus","Integer","","Recommended","Respondent: What is your current marital status?","1::7","1 = Married; 2 = Unmarried/living with partner; 3 = Widowed; 4 = Divorced; 5 = Separated; 6 = Single/never married; 7 = Prefer not to answer",""
 "collat_ethnicity","Integer","","Recommended","Respondent: Are you Hispanic or Latina?","1;2","1 = Yes; 2 = No",""
 "collat_race","Integer","","Recommended","Respondent: How do you describe your racial background?","1::6;44444","1 = White; 2 = Black or African American; 3 = Asian or Pacific Islander; 4 = American Indian or Alaskan Native; 5 = Other; 6 = Multiracial; 44444 = Unknown/Missing",""
 "collat_race_multi_desc","String","50","Recommended","Respondent: How do you describe your racial background? - specify","","44444 = Unknown/Missing; 99999 = Not Applicable",""

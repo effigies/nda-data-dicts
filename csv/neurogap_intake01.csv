@@ -101,7 +101,7 @@
 "hub_site","Integer","","Recommended","Hub site coordinating the participant’'s recruitment","1;2;4::7","1=Cape Town; 2=Walter Sisulu; 4=Moi; 5=KEMRI; 6=Makerere; 7=Addis Ababa",""
 "ctl_visit_dept","String","200","Recommended","If you were at the clinic for a doctors appointment, which department were you visiting? ","","Field shown ONLY if:  [ctl_visit_reason] = '4'",""
 "consent_lang","Integer","","Recommended","Language of Consent","1;4;8;31;56;64;65;82;87;116;101","1=Acholi-Luo; 4=Afrikaans; 8=Amharic; 31=English; 56=Kiswahili; 64=Luganda; 65=Lugbara; 82=Afaan Oromoo; 87=Runyankole; 116=Xhosa; 101=Swahili","consent_language"
-"ra_name","Integer","","Recommended","Rater name(anonymous ID)","1::73;999","",""
+"ra_name","Integer","","Recommended","Rater name(anonymous ID)","1::82;999","",""
 "organic_cause_specific_1","Integer","","Recommended","If yes, what was the general medical condition? HIV","0;1","0=No; 1=Yes",""
 "organic_cause_specific_2","Integer","","Recommended","If yes, what was the general medical condition? Cerebral Malaria","0;1","0=No; 1=Yes",""
 "organic_cause_specific_5","Integer","","Recommended","If yes, what was the general medical condition? Thyroid Disorder","0;1","0=No; 1=Yes",""

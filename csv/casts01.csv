@@ -33,3 +33,8 @@
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14","week1"
 "vis_type","Integer","","Recommended","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","phone"
 "days_baseline","Integer","","Recommended","Days since baseline","","","date"
+"castirr6","Integer","","Recommended","I often feel irritable.","0::4;99","0=Strongly disagree; 1=Disagree; 2=Neither agree nor disagree; 3=Agree; 4=Strongly agree; 99=Missing",""
+"castirr7","Integer","","Recommended","I often overreact with anger or rage over minor things.","0::4;99","0=Strongly disagree; 1=Disagree; 2=Neither agree nor disagree; 3=Agree; 4=Strongly agree; 99=Missing",""
+"castirr8","Integer","","Recommended","I am grouchy or grumpy most of the time.","0::4;99","0=Strongly disagree; 1=Disagree; 2=Neither agree nor disagree; 3=Agree; 4=Strongly agree; 99=Missing",""
+"castirr9","Integer","","Recommended","I lose my temper if I feel threatened.","0::4;99","0=Strongly disagree; 1=Disagree; 2=Neither agree nor disagree; 3=Agree; 4=Strongly agree; 99=Missing",""
+"castirr10","Integer","","Recommended","I get terribly angry if I do not get something that I was expecting.","0::4;99","0=Strongly disagree; 1=Disagree; 2=Neither agree nor disagree; 3=Agree; 4=Strongly agree; 99=Missing",""

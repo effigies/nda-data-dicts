@@ -33,7 +33,7 @@
 "days_baseline","Integer","","Recommended","Days since baseline","","","vdahrsd"
 "level","String","10","Recommended","Treatment level","","",""
 "month","Integer","","Recommended","Month in Follow-Up","","",""
-"time_point","Integer","","Recommended","Assessment time point","","1=Baseline (STARD); 2=Level exit (STARD); 3= Quarterly follow up (STARD);5= Screening; 10= Baseline; 21, 22, 23 = Mid-point 1, 2, 3; 30= End-of-treatment;  41, 42, 43= Follow-up1, 2, 3 etc.; 601 = 6 Month Reassessment ; 602 = 12 Month Reassessment ; 603 = 18 Month Reassessment",""
+"time_point","Integer","","Recommended","Assessment time point","","1=Baseline (STARD); 2=Level exit (STARD); 3= Quarterly follow up (STARD);5= Screening; 10= Baseline; 21, 22, 23 = Mid-point 1, 2, 3; 30= End-of-treatment; 41, 42, 43= Follow-up1, 2, 3 etc.; 601 = 6 Month Reassessment ; 602 = 12 Month Reassessment ; 603 = 18 Month Reassessment; 604 = 5 mins before infusion; 605 = 40 mins after infusion; 606 = 100 mins after infusion; 607 = the 5th or 15th visit",""
 "hrsd_total","Integer","","Recommended","HRS total score","","","hrsd_r,hrsd_tot"
 "hamd_02","Integer","","Recommended","Hopelessness","0::4;-9","0=Absent; 1=Mild; 2=Moderate; 3=Moderately severe; 4=Severe; -9 = Not answered","ham23,ham27,ham_hopeless,hopeless,hopelessness"
 "hamd_04","Integer","","Recommended","Helplessness","0::4;-9","0=Absent; 1=Mild; 2=Moderate; 3=Moderately severe; 4=Severe; -9 = Not answered","ham22,ham26,ham_helpless,helpless,helplessness"

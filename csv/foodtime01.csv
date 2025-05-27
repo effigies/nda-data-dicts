@@ -42,3 +42,5 @@
 "fbm1","String","50","Recommended","Free day bowel movement time 1","","Time (24 hour clock)",""
 "fbm2","String","50","Recommended","Free day bowel movement time 2","","Time (24 hour clock)",""
 "fbm3","String","50","Recommended","Free day bowel movement time 3","","Time (24 hour clock)",""
+"wasleep","String","50","Recommended","About what time do you usually fall alseep on free days?","","Time (24 hour clock)",""
+"fasleep","String","50","Recommended","About what time do you usually fall alseep on school/works days?","","Time (24 hour clock)",""

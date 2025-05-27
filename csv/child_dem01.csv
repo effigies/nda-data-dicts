@@ -21,7 +21,7 @@
 "m12_d_livewith07","Integer","","Recommended","Who do you live with? Other Relative(s)","0;1","0= No; 1= Yes","d_livewith07"
 "m12_d_livewith08","Integer","","Recommended","Who do you live with? Other","0;1","0= No; 1= Yes","d_livewith08"
 "m12_d_livewith_specify","String","100","Recommended","If you live with Other, please specify:","","","d_livewith_specify"
-"m12_d_grade","Integer","","Recommended","What grade are you in?","3 :: 12","3= 3rd Grade; 4= 4th Grade; 5= 5th Grade; 6= 6th Grade; 7= 7th Grade; 8= 8th Grade; 9= 9th Grade; 10= 10th Grade; 11= 11th Grade; 12= 12th Grade","d_grade,demo_childs_edu"
+"m12_d_grade","Integer","","Recommended","What grade are you in?","2::13","2=2nd grade; 3= 3rd Grade; 4= 4th Grade; 5= 5th Grade; 6= 6th Grade; 7= 7th Grade; 8= 8th Grade; 9= 9th Grade; 10= 10th Grade; 11= 11th Grade; 12= 12th Grade; 13=Ungraded or Other","d_grade,demo_childs_edu"
 "m12_d_ladderc","Float","","Recommended","Where would you place yourself on this ladder? Fill in the circle that best represents where you would be on this ladder.","0 :: 9;999","9= 9; 8.5= 8.5; 8= 8; 7.5= 7.5; 7= 7; 6.5= 6.5; 6= 6; 5.5= 5.5; 5= 5; 4.5= 4.5; 4= 4; 3.5= 3.5; 3= 3; 2.5= 2.5; 2= 2; 1.5= 1.5; 1= 1; 0.5= 0.5; 0= 0; 999= NA or Prefer Not to Answer","d_ladderc"
 "d_race01","Integer","","Recommended","What is your racial background? White, Caucasian","0;1","0= No; 1= Yes",""
 "d_race02","Integer","","Recommended","What is your racial background? Black, African American","0;1","0= No; 1= Yes",""
@@ -207,3 +207,6 @@
 "sbf_14_parent","Integer","","Recommended","Does your child have hearing problems that prevent him/her from listening to audio from a computer?","1;2","1 = Yes; 2 = No",""
 "et2a","Integer","","Recommended","Highest Level of Education Achieved. Biological mother","1::12; 99; 77","99=Don't know; 77=Refused;  1=8th grade or less;  2=9th grade or above, not a high school graduate; 3= high school graduate or GED; 4= post high school education, no college degree; 5=vocational-technical = degree or certificate; 6=2-year college degree/associate degree; 7= 4-year college degree/BA, BS degree; 8= some BA/BS work, no degree; 9=master degree, e.g.  MSW, MA, MFA, MPH, MBA; 10=PHD, MD, JD, LLB, or other professional graduate degree; 11=other; 12=Less than high school diploma/GED ",""
 "dem_08a","Integer","","Recommended","Mother current employment","1::11;99","1=Working full time(35hrs or more a week at one or more jobs); 2=Working part time; 3=Keeping house; 4=Unemployed, looking for work; 5=Unemployed, not looking for work; 6=Disabled; 7=Retired; 8=Student, full time; 9=Student, part time; 10=Other; 11 =Unemployed; 99=Not in household",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"pronouns_spec","String","50","Recommended","If Other, please specify pronouns:","","",""
+"child_race07","Integer","","Recommended","(Child Info): How would you describe your child? Multiracial","0;1","0= No; 1= Yes",""

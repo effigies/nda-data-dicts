@@ -35,7 +35,7 @@
 "scoring_conv_sum_full_scale","Float","","Recommended","Full Scale Sum of Scaled Scores","","","co52"
 "scoring_profilefsiq","Float","","Recommended","Composite Score Profile - FSIQ","1+","","co53"
 "study_condition","Integer","","Recommended","Study condition to which participant was assigned","1::7","1 = Cognitive remediation; 2 = Comparison condition; 3 = Other; 4= treatment as usual; 5= Computers first; 6= CRT first; 7=SCIT",""
-"time_point","Integer","","Recommended","Assessment time point","","1=Baseline (STARD); 2=Level exit (STARD); 3= Quarterly follow up (STARD);5= Screening; 10= Baseline; 21, 22, 23 = Mid-point 1, 2, 3; 30= End-of-treatment;  41, 42, 43= Follow-up1, 2, 3 etc.; 601 = 6 Month Reassessment ; 602 = 12 Month Reassessment ; 603 = 18 Month Reassessment",""
+"time_point","Integer","","Recommended","Assessment time point","","1=Baseline (STARD); 2=Level exit (STARD); 3= Quarterly follow up (STARD);5= Screening; 10= Baseline; 21, 22, 23 = Mid-point 1, 2, 3; 30= End-of-treatment; 41, 42, 43= Follow-up1, 2, 3 etc.; 601 = 6 Month Reassessment ; 602 = 12 Month Reassessment ; 603 = 18 Month Reassessment; 604 = 5 mins before infusion; 605 = 40 mins after infusion; 606 = 100 mins after infusion; 607 = the 5th or 15th visit",""
 "days_baseline","Integer","","Recommended","Days since baseline","","",""
 "digag","Integer","","Recommended","Digit span - age-scaled score ","0::40","",""
 "vocag","Integer","","Recommended","Vocabulary - age-scaled score","0::40","",""

@@ -148,5 +148,5 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "fspgod","String","70","Recommended","Subject's gender OTHER describe","","",""
 "state_res","String","14","Recommended","State of residence","","","state"
 "er6_visits","Integer","","Recommended","Emergency department visit for psychiatric reasons in past 6 months?","0;1","1=Yes; 0 = No","er_visits"
-"time_point","Integer","","Recommended","Assessment time point","","1=Baseline (STARD); 2=Level exit (STARD); 3= Quarterly follow up (STARD);5= Screening; 10= Baseline; 21, 22, 23 = Mid-point 1, 2, 3; 30= End-of-treatment;  41, 42, 43= Follow-up1, 2, 3 etc.; 601 = 6 Month Reassessment ; 602 = 12 Month Reassessment ; 603 = 18 Month Reassessment","assessment"
+"time_point","Integer","","Recommended","Assessment time point","","1=Baseline (STARD); 2=Level exit (STARD); 3= Quarterly follow up (STARD);5= Screening; 10= Baseline; 21, 22, 23 = Mid-point 1, 2, 3; 30= End-of-treatment; 41, 42, 43= Follow-up1, 2, 3 etc.; 601 = 6 Month Reassessment ; 602 = 12 Month Reassessment ; 603 = 18 Month Reassessment; 604 = 5 mins before infusion; 605 = 40 mins after infusion; 606 = 100 mins after infusion; 607 = the 5th or 15th visit","assessment"
 "homeless","Integer","","Recommended","Homeless in past 6 months","0;1","0 = No; 1 = Yes",""
