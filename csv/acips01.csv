@@ -22,3 +22,4 @@
 "asp_16","Integer","","Recommended","I don't look forward to spending a lot of time with friends.","1::5","1 = Disagree strongly; 2 = Disagree a little; 3 = Neutral, no opinion; 4 = Agree a little; 5 = Agree strongly",""
 "asp_17","Integer","","Recommended","I like making plans to see my family.","1::5","1 = Disagree strongly; 2 = Disagree a little; 3 = Neutral, no opinion; 4 = Agree a little; 5 = Agree strongly",""
 "asp_18","Integer","","Recommended","I don't get excited about upcoming social events with lots of new people.","1::5","1 = Disagree strongly; 2 = Disagree a little; 3 = Neutral, no opinion; 4 = Agree a little; 5 = Agree strongly",""
+"acips_score","Integer","","Recommended","ACIPS Score (Anticipatory and Consummatory Interpersonal Pleasure Scale)","17::68","Sum of acips 1 to acips17; Higher scores indicate more anhedonia",""

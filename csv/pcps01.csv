@@ -299,3 +299,8 @@
 "wcst_ni","Integer","","Recommended","Number of Items","","","itmcnt"
 "comqother","String","255","Recommended","Respondent - Other (text)","","",""
 "fneproc","String","20","Recommended","name of trial procedure being run","","",""
+"nih_patterncomp_css","Float","","Recommended","Pattern Comparison - Change-Sensitive Score","","",""
+"nih_patterncomp_ts","Float","","Recommended","Pattern Comparison - Age-Gender-Corrected T-score","","",""
+"nih_patterncomp_med","Float","","Recommended","Pattern Comparison - Median Response time per item","","",""
+"nih_patterncomp_commerr","Integer","","Recommended","Pattern Comparison - Commission errors","","",""
+"nih_patterncomp_omerr","Integer","","Recommended","Pattern Comparison - Omission errors","","",""

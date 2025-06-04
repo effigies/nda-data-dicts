@@ -428,3 +428,5 @@
 "comqother","String","255","Recommended","Respondent - Other (text)","","","respondent"
 "fneproc","String","20","Recommended","name of trial procedure being run","","",""
 "nihtbx_picvocabrs","Integer","","Recommended","NIH Toolbox Picture Vocabulary Test RawScore","","","tcb_vocb_raw"
+"tpvt_css","Float","","Recommended","Change-Sensitive Score","","",""
+"tpvt_ts","Float","","Recommended","Age-Gender-Corrected T-score","","",""

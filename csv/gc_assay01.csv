@@ -28,3 +28,7 @@
 "cellsuspensionmethod","String","4000","Recommended","Method used to generate cell suspensions","","",""
 "samplemoleculeextracted","Integer","","Recommended","Molecule extracted from biological material","1::6; -99","1=Total RNA; 2=polyA RNA; 3=cytoplasmic RNA; 4=nuclear RNA; 5=genomic DNA; 6=protein; -99=Other",""
 "othersamplemoleculeextracted","String","4000","Recommended","Other molecule extracted from biological material","","",""
+"csf_neurofilament_light_chain","Float","","Recommended","Neurofilament Light Chain Quanterix Simoa NFL Assay in Cerebrospinal Fluid (CSF)","0::2000","pg/mL",""
+"csf_n_terminal_tau","Float","","Recommended","Total Tau utilizing an N terminal Tau Quanterix Simoa Assay in Cerebrospinal Fluid (CSF)","","pg/mL",""
+"csf_atxn3","Float","","Recommended","Quanterix Simoa ATXN3 assay in Cerebrospinal Fluid (CSF)","","pg/mL",""
+"plasma_neurofilamentlightchain","Float","","Recommended","Neurofilament Light Chain Quanterix Simoa NFL Assay in plasma","0::2000","pg/mL",""

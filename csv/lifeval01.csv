@@ -252,7 +252,7 @@
 "pla5","Integer","","Recommended","Major Depressive Episode - Psychomotor agitation","1;2","1=No;2=Yes","slife_mdd005a"
 "psyret","Integer","","Recommended","Psychomotor retardation","0;1","0=Unchecked;1=Checked","slife_mdd005b"
 "pu_mansym","Integer","","Recommended","Manic symptoms","0;1","0=No; 1=Yes","slife_man01"
-"s33b","Integer","","Recommended","Meets symptomatic dx criteria in the past 6 months for Specific Phobia","1;3","1 = absent; 3 =present ","slife_sphob007"
+"s33b","Integer","","Recommended","Meets symptomatic dx criteria in the past 6 months for Specific Phobia","1;3;999","1= Absent; 3= Present; 999 = Missing","slife_sphob007"
 "scid5_dis1_type_anorexia","Integer","","Recommended","Anorexia Nervosa Subtype","1;2","1=Bingeeating/purging type; 2=Restricting type","slife_an004"
 "scidv_f123","Integer","","Recommended","disturbance is not better explained by another mental disorder","1::3; -7; -9; -1","1= absent or false; 2= subthreshold; 3= threshold or true; -7= N/A; -9= missing or not reported; -1= Inadequate Information/Unknown","slife_pd005"
 "scidv_f57","Integer","","Recommended","the fear, anxiety, or avoidance is not better explained by the symptoms of another mental disorder","1::3; -7; -9; -1","1= absent or false; 2= subthreshold; 3= threshold or true; -7= N/A; -9= missing or not reported; -1= Inadequate Information/Unknown","slife_soca009"

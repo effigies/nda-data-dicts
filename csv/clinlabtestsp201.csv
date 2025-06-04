@@ -717,3 +717,4 @@
 "leptin_unit","String","10","Recommended","Unit for the leptin blood test result","","",""
 "urine_nicotine","Integer","","Recommended","Nicotine level in urine (ng/dL)","","",""
 "creat_delta","Float","","Recommended","Change in blood creatinine since last result (mg/dL)","","",""
+"assay_date","Date","","Recommended","Date Assay Completed","","MM/DD/YYYY",""

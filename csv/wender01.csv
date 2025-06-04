@@ -73,3 +73,5 @@
 "wn61a","String","20","Recommended","In which grades were you 'Suspended or Expelled'?","","",""
 "wen25tox","Float","","Recommended","Wender 25 Item (as specified in 1993 article) Total (mean score)","","Includes Items: 3-7,9-12,15-17,20,21,24-29,40,41,51,56,59",""
 "wen25tot","Float","","Recommended","Wender 25 Item (as specified in 1993 article) Total (total score)","","Includes Items: 3-7,9-12,15-17,20,21,24-29,40,41,51,56,59",""
+"wn60","Integer","","Recommended","Repeating grades","1::5","1=Not at all or very slightly; 2=Mildly; 3=Moderately; 4=Quite a bit; 5=Very much",""
+"wn61","Integer","","Recommended","Suspended or expelled","1::5","1=Not at all or very slightly; 2=Mildly; 3=Moderately; 4=Quite a bit; 5=Very much",""

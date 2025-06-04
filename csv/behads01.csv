@@ -65,3 +65,4 @@
 "bads_24hr_5","Integer","","Recommended","In the past 24 hours I was an active person and accomplished the goals I set out to do.","0::6","0= Not at all; 1; 2= A little; 3; 4= A lot; 5; 6= Completely",""
 "bads_24hr_6","Integer","","Recommended","In the past 24 hours I tried not to think about certain things.","0::6","0= Not at all; 1; 2= A little; 3; 4= A lot; 5; 6= Completely",""
 "bads_24hr_7","Integer","","Recommended","In the past 24 hours I engaged in a wide and diverse array of activities.","0::6","0= Not at all; 1; 2= A little; 3; 4= A lot; 5; 6= Completely",""
+"instance_date","String","30","Recommended","Date and Time EMA survey was completed","","",""

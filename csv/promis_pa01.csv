@@ -70,3 +70,7 @@
 "swb_p_pp_001","Integer","","Recommended","In the past 7 days, My child felt calm.","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always",""
 "swb_p_pp_004","Integer","","Recommended","In the past 7 days, My child felt peaceful.","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always",""
 "promis_pa_pp_rs","Integer","","Recommended","PROMIS Parent Proxy Positive Affect Raw Score","","",""
+"promis_p01","Integer","","Recommended","In the past two weeks, I felt happy.","1::5","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Always",""
+"promis_p02","Integer","","Recommended","In the past two weeks, I felt great.","1::5","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Always",""
+"promis_p03","Integer","","Recommended","In the past two weeks, I felt cheerful.","1::5","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Always",""
+"promis_p04","Integer","","Recommended","In the past two weeks, I felt joy.","1::5","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Always",""

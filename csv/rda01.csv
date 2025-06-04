@@ -97,3 +97,5 @@
 "m_reasons5","Integer","","Recommended","Yesterday, did you not drink because: I had no desire to drink","0;1","0=No; 1=Yes",""
 "m_reasons6","Integer","","Recommended","Yesterday, did you not drink because: I usually do not drink on this night of the week","0;1","0=No; 1=Yes",""
 "m_reasons7","Integer","","Recommended","Yesterday, did you not drink because: I experienced an alcohol blackout last night","0;1","0=No; 1=Yes",""
+"fs_starttime","String","20","Recommended","Survey Start Time in HH:MM:SS","","00:00:00 to 23:59:59",""
+"submit_time","String","200","Recommended","Time at which participant submitted survey. ","","",""

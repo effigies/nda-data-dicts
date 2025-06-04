@@ -588,3 +588,5 @@
 "d_negcon8_1","String","500","Recommended","Please specify what other consequence(s) of drinking you experienced in the last hour.","","",""
 "att_aib6","Integer","","Recommended","Being unable to remember hours at a time: How positive or negative would experiencing this be as a result of drinking today/in the next few months?","1::5","1=Extremely negative; 2=Moderately negative; 3=Neither negative nor positive; 4=Moderately negative; 5=Extremely positive",""
 "att_aib7","Integer","","Recommended","Suddenly realizing you have no memory of how you got somewhere while you were still in a drinking situation: How positive or negative would experiencing this be as a result of drinking today/in the next few months?","1::5","1=Extremely negative; 2=Moderately negative; 3=Neither negative nor positive; 4=Moderately negative; 5=Extremely positive",""
+"started_ts","String","20","Recommended","Survey started timestamp","","",""
+"submit_time","String","200","Recommended","Time at which participant submitted survey. ","","",""

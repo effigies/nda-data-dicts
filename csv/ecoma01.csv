@@ -972,3 +972,5 @@
 "ema_stress6pt","Integer","","Recommended","How stressed are you feeling right now?","0::5","0=Not at all; 5=A lot",""
 "ema_anx6pt","Integer","","Recommended","How anxious are you feeling right now?","0::5","0=Not at all; 5=A lot",""
 "ema_dep6pt","Integer","","Recommended","How depressed are you feeling right now?","0::5","0=Not at all; 5=A lot",""
+"survey_submitted_time","String","12","Recommended","Time participant submitted survey","","HH:MM",""
+"started_ts","String","20","Recommended","Survey started timestamp","","",""

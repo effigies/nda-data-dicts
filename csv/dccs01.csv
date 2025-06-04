@@ -175,3 +175,8 @@
 "interview_language","String","255","Recommended","Language Used in the Interview","","","language,nihtbx_cardsort_language"
 "comqother","String","255","Recommended","Respondent - Other (text)","","",""
 "fneproc","String","20","Recommended","name of trial procedure being run","","",""
+"nih_dccs_css","Float","","Recommended","Dimensional Change Card Sort Test (DCCS) - Change-Sensitive Score","","",""
+"nih_dccs_ts","Float","","Recommended","Dimensional Change Card Sort Test (DCCS) - Age-Gender-Corrected T-score","","",""
+"nih_dccs_med","Float","","Recommended","Dimensional Change Card Sort Test (DCCS) - Median Response time per item","","",""
+"nih_dccs_commerr","Integer","","Recommended","Dimensional Change Card Sort Test (DCCS) - Commission errors","","",""
+"nih_dccs_omerr","Integer","","Recommended","Dimensional Change Card Sort Test (DCCS) - Omission errors","","",""

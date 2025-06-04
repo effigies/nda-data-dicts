@@ -164,3 +164,4 @@
 "comqother","String","255","Recommended","Respondent - Other (text)","","",""
 "fneproc","String","20","Recommended","name of trial procedure being run","","",""
 "nihtlsts","Float","","Recommended","Fully-corrected T Score","","",""
+"lswmt_css","Float","","Recommended","List Sort Working Memory Test (LSWMT) - Change-Sensitive Score","","",""

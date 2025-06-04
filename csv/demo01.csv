@@ -200,3 +200,6 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "wifi_device","Integer","","Recommended","Do you own and have a smartphone or other Wi-Fi enabled device with app capabilities?","0;1","0=No; 1=Yes",""
 "dema6a","Integer","","Recommended","Which Best describes your current living situation prior to treatment?","1::9","1=Living alone in your own house, apartment, condo, trailer, etc.; 2=Living in a household with other people; 3=Temporarily staying with a relative or a friend; 4=A halfway house, 3/4 house, or group home; 5=A hospital, inpatient, or residential treatment facility; 6=In jail or prison; 7=A shelter; 8=Homeless (on the street, park, or car); 9=Something else",""
 "dema6a_text","String","500","Recommended","Which best describes your current living situation prior to treatment? If ''Something else'', please specify","","",""
+"proximity","Integer","","Recommended","Do you live, work, or go to school in or around the X area?","0;1","0=No; 1=Yes",""
+"ema_now","Integer","","Recommended","Are you currently participating in another study with mobile phone surveys?","0;1","0=No; 1=Yes",""
+"ema_30","Integer","","Recommended","Will you be participating in another study with mobile phone surveys in the next 30 days?","0;1","0=No; 1=Yes",""

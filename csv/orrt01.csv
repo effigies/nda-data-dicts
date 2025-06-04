@@ -330,3 +330,5 @@
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "comqother","String","255","Recommended","Respondent - Other (text)","","",""
 "fneproc","String","20","Recommended","name of trial procedure being run","","",""
+"read_css","Float","","Recommended","Oral Reading - Change-Sensitive Score","","",""
+"read_ts","Float","","Recommended","Oral Reading - Age-Gender-Corrected T-score","","",""

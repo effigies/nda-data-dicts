@@ -12,4 +12,3 @@
 "correct_accuracy","Float","","Recommended","Proportion correct responses across all trials","","",""
 "meanrtc","Float","","Recommended","Mean reaction time for all correct trials (in milliseconds)","","",""
 "sdrtc","Float","","Recommended","Standard deviation of reaction times across all correct trials","","",""
-"mwt_rum_worry","Float","","Recommended","Mind Wandering Task: % of probes (''What was just going through your mind?'') endorsed for rumination or worry, relative to total number of valid trials.","0::100;-999","-999= Missing",""

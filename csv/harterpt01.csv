@@ -35,3 +35,4 @@
 "hapax","Float","","Recommended","Physical appearance mean score","","Mean Score; -99= Missing Value","htpax"
 "hapat","Float","","Recommended","Physical appearance total score","","","htpat"
 "version_form","String","121","Recommended","Form used/assessment name","","",""
+"hp_trust","Integer","","Recommended","My child doesn't have a close friend he/she can really trust.  OR  My child does have a close friend he/she can really trust.","1::4","1=Really True - My child doesn't have a close friend he/she can really trust; 2=Sort of True - My child doesn't have a close friend he/she can really trust; 3=Sort of True - My child does have close friend he/she can sort of trust; 4=Really True - My child does have close friend he/she can really trust",""

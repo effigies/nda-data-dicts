@@ -213,7 +213,7 @@ or the active phase of Schizophrenia; 6=Situations in which the clinician has co
 "moothbpm","Integer","","Recommended","Present in last month","0;1","0=No; 1=Yes",""
 "q012_bpii_season","Integer","","Recommended","Bipolar II Season Pattern","0;1","0 = Without Seasonal Pattern;1 = With Seasonal Pattern",""
 "q022_mdd_ep","Integer","","Recommended","Major Depressive Disorder Episode Pattern","1;2","1 = Single Episode;2 = Recurrent",""
-"q060_sipd_life","Integer","","Recommended","Substance-Induced Psychotic Disorder Lifetime Prevalence","0::4;999","0 = Inadequate Information;1 = Absent;2 = Sub-Threshold;3 = Threshold;4 = Present",""
+"q060_sipd_life","Integer","","Recommended","Substance-Induced Psychotic Disorder Lifetime Prevalence","0::4;999","0 = Inadequate Information; 1 = Absent; 2 = Sub-Threshold; 3 = Threshold; 4 = Present; 999 = Missing",""
 "scid_all_a_3","Integer","","Recommended","All A criteria coded 3","1;3","1=False;3=True",""
 "mochk2","Integer","","Recommended","Never Manic OR Unequivocal Hypomanic Episode","1;2","1=Yes; 2=No",""
 "scid_d15","Integer","","Recommended","2 MDEs with temporal relationship in last 2 years and no non-seasonal MDEs during same period","1; 3","1=False; 3=True",""

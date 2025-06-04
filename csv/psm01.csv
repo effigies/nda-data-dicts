@@ -150,3 +150,5 @@
 "natl_percentile__age_adjusted_","Integer","","Recommended","National Percentile (age adjusted)","1::100;999","",""
 "comqother","String","255","Recommended","Respondent - Other (text)","","","respondent"
 "fneproc","String","20","Recommended","name of trial procedure being run","","",""
+"nih_picseq_css","Float","","Recommended","Picture Sequence - Change-Sensitive Score","","",""
+"nih_picseq_ts","Float","","Recommended","Picture Sequence - Age-Gender-Corrected T-score","","",""

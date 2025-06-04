@@ -916,3 +916,5 @@
 "curr_chronic_pain","Integer","","Recommended","Do you currently have any of the following health conditions: Chronic pain","0;1","0=No; 1=Yes",""
 "chronic_pain_specify","String","500","Recommended","Chronic pain - specify (e.g., diagnoses, location, severity, etc.)","","",""
 "cancer_status","String","200","Recommended","Status of cancer - active, remission, partial remission, etc.","","",""
+"cm1_start_date","Date","","Recommended","Medication Start Date","","MM/DD/YYYY",""
+"cm1_stop_date","Date","","Recommended","Medication Stop Date","","MM/DD/YYYY",""
