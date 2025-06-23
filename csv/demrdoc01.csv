@@ -70,7 +70,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "abdompan","Integer","","Recommended","abdominal pain","0;1;-7","0=No; 1=Yes; -7=Refused","mxha21"
 "mxha22","String","20","Recommended","Extremities/Joints","A;N","A=Abnormal; N=Normal",""
 "allergies","String","300","Recommended","allergies","","",""
-"smoker","Integer","","Recommended","Smoker?","0 :: 4; 9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing",""
+"smoker","Integer","","Recommended","Smoker?","0::4;9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing",""
 "start_smoke","String","50","Recommended","Start date of smoking (MM/YY)","","If unknown, describe briefly",""
 "cig_smoke","String","200","Recommended","The amount of cigarettes you smoke and ages you have smoked","","",""
 "otherrace","String","200","Recommended","specify other race","","The following questions are about you or the child's family.",""

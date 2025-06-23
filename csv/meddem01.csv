@@ -310,7 +310,7 @@
 "nonpsyc_hosp","String","3","Recommended","If participant has stayed in a hospital overnight for physical complaints","","N/No = No, Y/Yes = Yes","psych_hospital"
 "therapist","Integer","","Recommended","Have you seen a therapist in the past month?","0;1","0= No; 1= Yes",""
 "therapistdatesreason","String","250","Recommended","Reason for seeking a mental health professional","","",""
-"smoker","Integer","","Recommended","Smoker?","0 :: 4; 9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing",""
+"smoker","Integer","","Recommended","Smoker?","0::4;9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing",""
 "cig_smoking","Integer","","Recommended","Have you ever smoked part or all of a cigarette? PX030601_Cigarette_Smoking","1;2;97","1=Yes; 2=No; 97=Don't Know/Refused","cigarettes"
 "cigars","String","3","Recommended","Tobacco product(s) used","","Y/Yes = smokes cigars, Off = does not smoke cigars",""
 "first_nicotine_3","Integer","","Recommended","Have you ever used smokeless tobacco like chew, dip, or snus?","1 ; 2 ; 0","1 = Yes; 2 = No; 0 = No","chewtobacco"

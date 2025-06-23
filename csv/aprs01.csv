@@ -46,3 +46,4 @@
 "t_c_aprs_la","Integer","","Recommended","Learning Ability Score","","",""
 "t_c_aprs_ic","Integer","","Recommended","Impulse Control Score","","",""
 "t_c_aprs_tot","Integer","","Recommended","Total Score","","",""
+"src_teacher_id","String","45","Recommended","Subject ID for Teacher how it's defined in lab/project","","",""

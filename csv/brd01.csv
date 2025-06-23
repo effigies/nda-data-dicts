@@ -27,3 +27,7 @@
 "data_file2","File","255","Recommended","data file 2","","","text_file"
 "data_file2_type","String","100","Recommended","data file 2 type/description","","",""
 "data_file1_type","String","300","Recommended","type of data file 1","","",""
+"condition_stimulus","String","50","Recommended","Stimulus condition","","",""
+"post_vas_rat","Integer","","Recommended","Visual analogue rating of unconditioned stimulus pre conditioning","","",""
+"pre_vas_rat","Integer","","Recommended","Visual analogue rating of unconditioned stimulus post conditioning","","",""
+"dis_mem","Integer","","Recommended","Memory discrimination calculation based on hit rate (HR)","","",""

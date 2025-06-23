@@ -127,3 +127,8 @@
 "aafim08","Integer","","Recommended","(INSERT INTERVENTION) seems apt","1::5;99;999","1= Completely disagree; 2= Disagree; 3= Neither agree nor disagree; 4= Agree; 5= Completely agree; 99= Missing; 999= Prefer not to respond",""
 "aafim10","Integer","","Recommended","(INSERT INTERVENTION) seems well aligned","1::5;99;999","1= Completely disagree; 2= Disagree; 3= Neither agree nor disagree; 4= Agree; 5= Completely agree; 99= Missing; 999= Prefer not to respond",""
 "aafim11","Integer","","Recommended","(INSERT INTERVENTION) seems practical","1::5;99;999","1= Completely disagree; 2= Disagree; 3= Neither agree nor disagree; 4= Agree; 5= Completely agree; 99= Missing; 999= Prefer not to respond",""
+"scale_work","Integer","","Recommended","How confident are you in working with parents and teens with ADHD?","1::10","1=Not at all; 10= Very much",""
+"scale_del","Integer","","Recommended","How confident do you feel delivering Motivational Interviewing?","1::10","1=Not at all; 10= Very much",""
+"describe_supports","String","100","Recommended","Can you describe for me what you perceived these supports to involve?","","",""
+"different_supports","String","100","Recommended","What do you know about the supports that the other group received?","","",""
+"support_level","Integer","","Recommended","Do you believe you were in the group that received a higher level of support or a lower level of support?","1::3","1=Higher Level; 2=Lower Level; 3=I do not know",""

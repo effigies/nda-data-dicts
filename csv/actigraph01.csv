@@ -153,3 +153,4 @@
 "sol_d_m","Float","","Recommended","Diary - Sleep onset latency, in minutes","","",""
 "waso_d_m","Float","","Recommended","Diary - Wake after sleep onset, in minutes","","",""
 "wt_ct_d","String","10","Recommended","Diary - Wake time, clock time","","",""
+"morning_act","Float","","Recommended","Actigraphy measured morning activity levels (8-10 AM)","0::1000000","Total of the hourly activity counts between 8 and 10 AM ",""

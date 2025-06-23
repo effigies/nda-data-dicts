@@ -56,7 +56,7 @@
 "medname_mta","String","200","Recommended","What is the psychiatric medication name?","","","meds_details,s2meds_details"
 "tlfb_cal_scr_alc_lud","String","30","Recommended","Alcohol drinks last use day","","","drank_standard,s2drank_standard"
 "nl_lastalc","Float","","Recommended","Last time had drinks containing alcohol (i.e. beer, wine, mixed drinks) did you have?","","In hours, before testing","drank_last,s2drank_last"
-"smoker","Integer","","Recommended","Smoker?","0 :: 4; 9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing","s2smoker"
+"smoker","Integer","","Recommended","Smoker?","0::4;9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing","s2smoker"
 "pni001d","String","1000","Recommended","When did [he/she] last smoke a cigarette?","","","s2smoke_last,smoke_last"
 "s2current_high","Integer","","Recommended","Are you currently under the influence of any drugs, feel high or are getting down from a high?","0;1","0 = No; 1 = Yes","current_high"
 "s2drank_48hrs","Integer","","Recommended","In the last 48 hours, have you drank any alcohol?","0;1","0 = No; 1 = Yes","drank_48hrs"

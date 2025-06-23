@@ -546,7 +546,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "comments","String","4000","Recommended","Comments about assessment","","","co_notes,med_compliance_comments,medical_history"
 "labsample29","String","10","Recommended","Date of last menstrual period","","NA=if male or pre-puberty","lmp_date"
 "reason_irregular_period","Integer","","Recommended","Reason for irregular period","0::3","0= Surgical Menopause;1= Natural Menopause;2= Non-Menopausal;3= Birth Control",""
-"smoker","Integer","","Recommended","Smoker?","0 :: 4; 9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing","co_current_smoke_yn,smoking,smoking_status"
+"smoker","Integer","","Recommended","Smoker?","0::4;9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing","co_current_smoke_yn,smoking,smoking_status"
 "quantity_currentuse","Float","","Recommended","Number of cigarettes smoked per day","0 :: 500","","cigs_per_day"
 "cr3c","Float","","Recommended","Tobacco Use: If yes, smoked: Number of pack-years","","","co_pack_years,pack_years"
 "current_medication","String","300","Recommended","subject's current medications","","","meds"

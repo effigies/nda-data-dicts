@@ -53,7 +53,7 @@
 "cig_smoke","String","200","Recommended","The amount of cigarettes you smoke and ages you have smoked","","","hh_066"
 "grade_highed","String","50","Recommended","Grade/Highest education","","1= Less than 6th grade; 2= Some high school; 3= High school diploma or GED; 4= Some college, no degree; 5= Associates degree; 6= Bachelors degree; 7= Some graduate school; 8= Masters degree and above; 9= Some post-graduate training, no degree; 10= Completed 8th grade, no high school; 11= High school; 12= College or University; 13= Graduate school; 14= Other; 15= Less than high school; 99= Information not available","hh_005"
 "ccc2english","Integer","","Recommended","Does the subject speak English as a primary language?","0;1;-9","0 = No; 1 = Yes; -9 = Missing value","hh_012"
-"smoker","Integer","","Recommended","Smoker?","0 :: 4; 9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing","hh_062"
+"smoker","Integer","","Recommended","Smoker?","0::4;9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing","hh_062"
 "demo_caregiver_edu","Integer","","Recommended","Caregiver's highest education","1::8;97","1= Less than 7th grade ; 2= Junior High ; 3= Some High School ; 4= High School graduate ; 5= Special training after high school ; 6= Some college ; 7= College graduate ; 8= Graduate/professional training or above ; 97= Don't Know","hh_036"
 "yrbs_es","Integer","","Recommended","Have you ever smoked a cigarette, even a puff?","0;1","0 = No; 1 = Yes","hh_065"
 "age_parentdiv","Integer","","Recommended","Age parents separated/ divorced","","","hh_027"

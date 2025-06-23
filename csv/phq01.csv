@@ -377,3 +377,5 @@
 "phq_q7_lifetime","Integer","","Recommended","Over your lifetime, how often have you been bothered by trouble concentrating on things, such as reading the newspaper or watching television (or daily chores)?","0::3","0= Not at all; 1= Several days; 2= More than half of the days; 3= Nearly every day",""
 "days_since_admit","Integer","","Recommended","Days since admission","","",""
 "phq15_rs","Integer","","Recommended","Level 2 - Adult - Somatic PHQ15 Total raw score","0::30","",""
+"yc_sex","Integer","20","Recommended","Sex of subject at birth","1::5","1=female; 2=male; 3=intersex; 4=none of these describe me; 5= Unknown",""
+"phq_dep","Integer","","Recommended","Does the participant have clinically significant depressive symptoms (PHQ)?","0;1","0= No; 1= Yes",""

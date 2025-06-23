@@ -391,3 +391,8 @@ and 25% or more increase in PANSS score post-baseline 2) For participants with P
 "panss_nepal07","Integer","","Recommended","In the specified time, have you (or your relative) felt happy and energetic for no reason?","0 :: 4","0= Not At All; 1= Once; 2= Few Times; 3= Often; 4= Continuously",""
 "panss_six_total","Integer","","Recommended","PANSS-6 Total Score","0::42;-9; -2; -5; -8","Sum of pos_p1, pos_p2, pos_p3, neg_n1, neg_n4, neg_n6; -9 = Missing; -2 = Not collected at this time point; -5 = Item/Instrument not collected; -8 = Unknown",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"abstract1_panss","String","500","Recommended","Assessing Similarities: How are an apple and a banana alike?","","",""
+"abstract2_panss","String","500","Recommended","Assessing Similarities: How are a table and a chair alike?","","",""
+"abstract3_panss","String","500","Recommended","Assessing Similarities: How are an arm and a leg alike?","","",""
+"abstract4_panss","String","500","Recommended","Assessing Similarities: How are air and water alike?","","",""
+"composite_panss","Float","","Recommended","Positive and Negative Syndrome Scale COMPOSITE SCORE (P-N)","","[Sum of positive items]-[Sum of negative items]",""

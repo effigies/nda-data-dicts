@@ -27,3 +27,4 @@
 "cellsuspensionmethod","String","4000","Recommended","Method used to generate cell suspensions","","",""
 "samplemoleculeextracted","Integer","","Recommended","Molecule extracted from biological material","1::6; -99","1=Total RNA; 2=polyA RNA; 3=cytoplasmic RNA; 4=nuclear RNA; 5=genomic DNA; 6=protein; -99=Other",""
 "othersamplemoleculeextracted","String","4000","Recommended","Other molecule extracted from biological material","","",""
+"experiment_id","Integer","","Required","ID for the Experiment/settings/run","","",""

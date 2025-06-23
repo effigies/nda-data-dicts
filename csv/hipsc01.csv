@@ -51,3 +51,4 @@
 "reprogpluripotentcelldbname","Integer","","Recommended","Name of database with pluripotent reprogrammed cells","1::9; -99","1=Allen cell; 2=Biosamples; 3=Cellosaurus; 4=CLO; 5=EBISC; 6=ECACC; 7=HIPSCI; 8=HPSCREG; 9=NIHHESC; -99=Other","reprogrammedpluripotentcelldatabasename"
 "oreprogpluripotentcelldbname","String","4000","Recommended","Name of other cell database","","","otherreprogrammedpluripotentcelldatabasename"
 "reprogpluripotentcelldbid","String","4000","Recommended","ID of pluripotent reprogrammed cells in database","","","reprogrammedpluripotentcelldatabaseid"
+"experiment_id","Integer","","Required","ID for the Experiment/settings/run","","",""

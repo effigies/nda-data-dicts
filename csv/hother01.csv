@@ -51,3 +51,4 @@
 "transformedcelldatabasename","Integer","","Recommended","Name of database with cells","1::9; -99","1=Allen cell; 2=Biosamples; 3=Cellosaurus; 4=CLO; 5=EBISC; 6=ECACC; 7=HIPSCI; 8=HPSCREG; 9=NIHHESC; -99=Other",""
 "othertfrmcelldatabasename","String","4000","Recommended","Name of other cell database","","","othertransformedcelldatabasename"
 "transformedcelldatabaseid","String","4000","Recommended","ID of cell line in database","","",""
+"experiment_id","Integer","","Required","ID for the Experiment/settings/run","","",""

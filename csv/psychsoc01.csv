@@ -57,7 +57,7 @@
 "pastmedproblem1","String","255","Recommended","Past Medical Problems 1","","",""
 "pastmedproblem2","String","255","Recommended","Past Medical Problems 2","","",""
 "pastmedproblem3","String","255","Recommended","Past Medical Problems 3","","",""
-"smoker","Integer","","Recommended","Smoker?","0 :: 4; 9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing",""
+"smoker","Integer","","Recommended","Smoker?","0::4;9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing",""
 "numcigar","Float","","Recommended","Average numberof cigarets Per day","0.0::99.9","",""
 "yearssmoking","Float","","Recommended","Years smoking","0.0::99.9","",""
 "dmg_q54","Integer","","Recommended","total number of full siblings","0::99","0 - 99","numsibs"

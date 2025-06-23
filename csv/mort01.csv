@@ -24,7 +24,7 @@
 "cause_of_death","String","255","Recommended","Cause of death of the subject","","",""
 "brain_weight","Float","","Recommended","Mass of brain in grams","","-9 = Missing",""
 "marital_status","Integer","","Recommended","Marital status of adult subject","1::9","1 = Married; 2 = Divorced; 3 = Single or never married; 4 = Widow or widower; 5=Remarried; 6=Separated; 7=Not married but living together with partner; 8=Other; 9 = Unknown",""
-"smoker","Integer","","Recommended","Smoker?","0 :: 4; 9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing",""
+"smoker","Integer","","Recommended","Smoker?","0::4;9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing",""
 "race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
 "sexual_orientation","Integer","","Recommended","Sexual Orientation- Do you identify as:","1::13","1 = Asexual; 2 = Bisexual; 3 = Gay; 4 = Lesbian; 5 = Pansexual; 6 = Queer; 7 = Questioning; 8 = Straight or heterosexual; 9 = Other; 10 = Homosexual; 11 = I am not sure yet; 12 = Multiple Orientations Listed; 13 = Decline to answer",""

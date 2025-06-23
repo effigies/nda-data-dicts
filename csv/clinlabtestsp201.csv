@@ -718,3 +718,7 @@
 "urine_nicotine","Integer","","Recommended","Nicotine level in urine (ng/dL)","","",""
 "creat_delta","Float","","Recommended","Change in blood creatinine since last result (mg/dL)","","",""
 "assay_date","Date","","Recommended","Date Assay Completed","","MM/DD/YYYY",""
+"cd4pct","Float","","Recommended","CD4 Percentage (%)","0::100","",""
+"cd8cnt","Integer","","Recommended","CD8 Count (cells/mm3)","","",""
+"cd8pct","Float","","Recommended","CD8 Percentage (%)","0::100","",""
+"cd4cd8ratio","Float","","Recommended","CD4/CD8 Ratio","","",""

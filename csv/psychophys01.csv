@@ -48,3 +48,8 @@
 "event_window_time_start","String","50","Recommended","Start time of event window","","",""
 "event_window_time_end","String","50","Recommended","End time of event window","","",""
 "event_window_duration_mins","Float","","Recommended","Duration of event window in minutes","","",""
+"alltrials200_1","Integer","","Recommended","Trial number","","",""
+"conditiontrial","Integer","","Recommended","Trial number within condition","","",""
+"condition_stimulus","String","50","Recommended","Stimulus condition","","",""
+"ant_ibi","Float","","Recommended","Interbeat interval during anticipation of stimulus","","",""
+"stim_ibi","Float","","Recommended","Interbeat interval during stimulus presentation","","",""

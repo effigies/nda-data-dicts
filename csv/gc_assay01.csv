@@ -32,3 +32,4 @@
 "csf_n_terminal_tau","Float","","Recommended","Total Tau utilizing an N terminal Tau Quanterix Simoa Assay in Cerebrospinal Fluid (CSF)","","pg/mL",""
 "csf_atxn3","Float","","Recommended","Quanterix Simoa ATXN3 assay in Cerebrospinal Fluid (CSF)","","pg/mL",""
 "plasma_neurofilamentlightchain","Float","","Recommended","Neurofilament Light Chain Quanterix Simoa NFL Assay in plasma","0::2000","pg/mL",""
+"experiment_id","Integer","","Required","ID for the Experiment/settings/run","","",""

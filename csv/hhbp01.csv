@@ -221,7 +221,7 @@
 "alcohol_consume_status","Integer","","Recommended","What is your alcohol consumption status?","1::6","1 = Non-user; 2 = Rare user; 3 = Occasional user; 4 =  > 1 drink per week; 5 = > 1 drink per day; 6 = Alcohol dependent","alcohol"
 "sqalcoholamt","String","50","Recommended","Amount of alcohol (drinks per week)","","","alcohol_per_week"
 "how_long_drinking","String","50","Recommended","How long have you been drinking?","","",""
-"smoking","Integer","","Recommended","What is your smoking status? ","1::3","1 = Current smoker; 2 = Former smoker; 3 = Never smoked",""
+"smoking","Integer","","Recommended","What is your smoking status? ","1::4","1 = Current smoker; 2 = Former smoker; 3 = Never smoked; 4=Current but not regular",""
 "current_smoker","Integer","","Recommended","If you are a current smoker, how many packs per day do you smoke?","","Number of Packs",""
 "former_smoker","Date","","Recommended","If you are a former smoker, when did you quit smoking?","","MM/DD/YYYY",""
 "smoke_former2","Integer","","Recommended","If you are a former smoker, how many packs per day did you smoke when you were an active smoker?","","Number of packs",""

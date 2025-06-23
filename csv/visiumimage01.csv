@@ -48,3 +48,4 @@
 "excitation_wavelength","Integer","","Recommended","excitation wavelength in nanometers","100::1200","",""
 "manifest","Manifest","","Recommended","","","",""
 "emission_wavelength","String","100","Recommended","emission wavelength in nanometers","","100-1200",""
+"experiment_id","Integer","","Required","ID for the Experiment/settings/run","","",""

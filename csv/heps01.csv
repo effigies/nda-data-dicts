@@ -117,7 +117,7 @@
 "edi3_63","Integer","","Recommended","I have extremely high goals.","1::6","1=Always; 2=Usually; 3=Often; 4=Sometimes; 5=Rarely; 6=Never",""
 "weight_lb","Integer","","Recommended","How much do you weigh? If uncertain, please give your best estimate.","","Pounds/lbs",""
 "height_in","Float","","Recommended","How tall are you?","","Inches",""
-"wght_preg","Integer","","Recommended","Are you currently pregnant?","0;1","0= No; 1= Yes",""
+"wght_preg","Integer","","Recommended","Are you currently pregnant?","0;1;999;1000","0= No. Hapana; 1= Yes. Ndio; 999= No response. Hakuna Jibu; 1000= Not sure. Sina uhakika.",""
 "wght_prepreg","Integer","","Recommended","If yes, what was your weight before pregnancy?","","Pounds/lbs",""
 "freq_diet","Integer","","Recommended","How often are you dieting?","1 :: 5","1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always",""
 "freq_splurge","Integer","","Recommended","Do you eat sensibly in front of others and splurge alone?","1 :: 5","1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always",""

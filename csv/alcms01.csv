@@ -24,3 +24,5 @@
 "d_dysreg4","Integer","","Recommended","Please check all items that you agree with right now: I am having trouble controlling my impulses","0;1","0= No; 1= Yes",""
 "d_dysreg5","Integer","","Recommended","Please check all items that you agree with right now: I am keeping my feelings under control","0;1","0= No; 1= Yes",""
 "d_dysreg6","Integer","","Recommended","Please check all items that you agree with right now: I  am thinking carefully before doing anything","0;1","0= No; 1= Yes",""
+"fs_starttime","String","20","Recommended","Survey Start Time in HH:MM:SS","","00:00:00 to 23:59:59",""
+"submit_time","String","200","Recommended","Time at which participant submitted survey. ","","",""

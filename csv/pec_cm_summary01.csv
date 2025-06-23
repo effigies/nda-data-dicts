@@ -41,7 +41,7 @@
 "primary_diagnosis","String","200","Recommended","Primary diagnosis of subject","","",""
 "race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
 "seizures","Integer","","Recommended","Does (did) the subject have Seizures?","0;1;2;999","0 = No; 1 = Yes; 2 = Unknown; 999 =NA/missing",""
-"smoker","Integer","","Recommended","Smoker?","0 :: 4; 9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing",""
+"smoker","Integer","","Recommended","Smoker?","0::4;9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing",""
 "brain_weight","Float","","Recommended","Mass of brain in grams","","-9 = Missing",""
 "weight_met","Float","","Recommended","Weight - Metric Unit","","999 = Missing; -999 = No Data",""
 "test_11_hydroxy_delta_9","Integer","","Recommended","Test for 11-hydroxy delta-9 THC (active)","0::2; 999","0=Negative; 1=Positive; 2=Not Tested; 999=Missing",""

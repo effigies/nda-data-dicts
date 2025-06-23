@@ -13,7 +13,7 @@
 "adequate_sleep","Integer","","Recommended","Is the usual amount of sleep adequate for you?","0;1","0 = No; 1 = Yes","adequate"
 "pattern_changes","String","50","Recommended","Have you had any recent forced changes in your sleep pattern? (e.g., shift work)","","","changes_txt"
 "caffeine_last_24_hours","Integer","","Recommended","Have you had any caffeine in the last 24 hours?","0;1","0= No; 1= Yes","caffeine"
-"smoker","Integer","","Recommended","Smoker?","0 :: 4; 9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing",""
+"smoker","Integer","","Recommended","Smoker?","0::4;9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing",""
 "smoking_last_2_hours","String","50","Recommended","Have you smoked any cigarettes in the last 2 hours? Quantity?","","",""
 "recency","String","50","Recommended","How long ago did you smoke cigarettes?","","",""
 "alcohol_last_four_hours","String","50","Recommended","Have you consumed any alchohol in the past four hours? Quantity?","","",""
