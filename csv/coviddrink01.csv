@@ -21,7 +21,7 @@
 "covid_3f","Integer","","Recommended","You drink alone or with fewer people than usual","0;1","0=No; 1=Yes",""
 "covid_3g","Integer","","Recommended","It hasn't affected how often I drink","0;1","0=No; 1=Yes",""
 "covid_4","Integer","","Recommended","Has COVID-19 changed how much you drink when you do drink alcohol?","0::5","1=I drink a lot less; 2=I drink a little less; 3=I drink the same amount; 4=I drink a little more; 5=I drink a lot more",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "alc_beforevsduring_pandemic","Integer","","Recommended","Personal alcohol use before versus during the pandemic","1::3;9998","1 = I have been drinking alcohol more now than I did before the pandemic; 2 = I have been drinking alcohol less now than I did before the pandemic; 3 = I have been drinking alcohol the same amount now as I did before the pandemic; 9998 = Do not what to answer. Asked to study subjects who answered 1 to ''First drink of alcohol during pandemic''",""
 "alcohol_use_30days1","Integer","","Recommended","Days had one or more drinks of alcohol in the past 30 days","0::30;-99","Asked to those who drink",""
 "alcohol_use_30days2","Integer","","Recommended","Largest number of drinks in a single day in the past 30 days","0::6;9998","0 = I haven''t had a drink in the past 30 days; 1 = 1-2 drinks; 2 = 3-4 drinks; 3 = 5-7 drinks; 4 = 8-11 drinks; 5 = 12-23 drinks; 6 = 24 or more drinks; 9998 = Do not to answer. Asked to those who drank 1 day or more or do not want to answer",""

@@ -23,7 +23,7 @@
 "bear_score","Integer","","Recommended","Bear score: total bear commands obeyed","","",""
 "dragon_score","Integer","","Recommended","Dragon score: total dragon commands disobeyed","","",""
 "beardragon_total","Integer","","Recommended","Bear/Dragon Total Score: sum of correct responses (bear commands obeyed plus dragon commands disobeyed)","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "perc_tot_correct","Float","","Recommended","Percent of all trials correct","","",""
 "perc_obey_correct","Float","","Recommended","Percent of obey trials correct","","",""
 "perc_disobey_correct","Float","","Recommended","Percent of disobey trials correct","","",""

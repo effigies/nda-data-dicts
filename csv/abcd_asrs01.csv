@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"eventname","String","60","Required","The event name for which the data was collected","","",""
+"eventname","String","60","Required","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
 "asr_scr_perstr_r","Integer","","Recommended","Personal Strength ASR Adaptive Functioning Scale (raw score)","0 :: 22","",""
 "asr_scr_perstr_t","Integer","","Recommended","Personal Strength ASR Adaptive Functioning Scale (t-score)","20 :: 60"," T-scores in relation to norms for each gender at ages 18-35 and 36-59, based on national probability samples.",""
 "asr_scr_perstr_total","Integer","","Recommended","Personal Strength ASR Adaptive Functioning Scale (number of dependent raw scores)","0 :: 11","",""

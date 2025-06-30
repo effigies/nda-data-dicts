@@ -16,5 +16,5 @@
 "cams_r10","Integer","","Recommended","I am able to accept the thoughts and feelings I have.","1::4","1=Rarely/Not at all; 2=Sometimes; 3=Often; 4=Almost always","accthflgs"
 "cams_r11","Integer","","Recommended","I am able to focus on the present moment.","1::4","1=Rarely/Not at all; 2=Sometimes; 3=Often; 4=Almost always","prsmmnt"
 "cams_r12","Integer","","Recommended","I am able to pay close attention to one thing for a long period of time.","1::4","1=Rarely/Not at all; 2=Sometimes; 3=Often; 4=Almost always","clsattn"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "camsrtotalscore","Integer","","Recommended","Calculated total score for CAMS-R Mindfulness (Cognitive and Affective Mindfulness Scale- Revised)","","",""

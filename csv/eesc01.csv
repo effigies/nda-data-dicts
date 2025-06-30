@@ -4,7 +4,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","scsdate,testdate"
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","age"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "eesc01","Integer","","Recommended","When I feel this way... Resentful.","0::4; 9999","0=I have no desire to eat; 1=I have a small desire to eat; 2=I have a moderae desire to eat; 3=I have a strong desire to eat; 4=I have a very strong desire to eat; 9999=missing",""
 "eesc01a","Integer","","Recommended","Resentful. On average, how many days a week do you feel this way? (0-7)","0::7;9998; 9999","0=no days a week; 1=one day a week; 2=two days a week; 3=three days a week; 4=four days a week; 5=five days a week; 6=six days a week; 7=every day of the week; 9998=N/A; 9999=Missing",""
 "eesc02","Integer","","Recommended","When I feel this way... Discouraged.","0::4; 9999","0=I have no desire to eat; 1=I have a small desire to eat; 2=I have a moderae desire to eat; 3=I have a strong desire to eat; 4=I have a very strong desire to eat; 9999=missing",""

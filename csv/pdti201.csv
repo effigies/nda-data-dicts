@@ -995,5 +995,5 @@
 "dti_no_wm_lh_latoccipital_md","Float","","Recommended","Left Lateral occipital White Matter, DTI Tensor Norm -- Median","","mm^2 s^-1","id_4598"
 "dti_no_wm_lh_latoccipital_sd","Float","","Recommended","Left Lateral occipital White Matter, DTI Tensor Norm -- Standard Deviation","","mm^2 s^-1","id_4597"
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""

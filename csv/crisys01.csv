@@ -89,6 +89,6 @@
 "crysis_domain8","Integer","","Recommended","CRISYS Home issues Number Reported","","",""
 "crysis_domain9","Integer","","Recommended","CRISYS Authority Number Reported","","",""
 "crysis_domain10","Integer","","Recommended","CRISYS Prejudice Number Reported","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "crisys_total","Integer","","Recommended","Crisys Events Reported","","total",""

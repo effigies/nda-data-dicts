@@ -174,7 +174,7 @@
 "elder_mis15b","Integer","","Recommended","What is the relationship  of the person who forced you to have sexual intercourse to you?","0::10","0= There is no one to help me; 1= Spouse/Partner; 2= Adult child ; 3= Son/Daughter-in-law; 4= Minor child; 5= Grandchild; 6= Other relative; 7= Neighbor; 8= Friend; 9= Other non-relative; 10= Paid home care worker",""
 "elder_mis15c","Integer","","Recommended","If more than one person forced you to have sexual intercourse, code 2nd person's relationship here","0::10","0= There is no one to help me; 1= Spouse/Partner; 2= Adult child ; 3= Son/Daughter-in-law; 4= Minor child; 5= Grandchild; 6= Other relative; 7= Neighbor; 8= Friend; 9= Other non-relative; 10= Paid home care worker",""
 "elder_mis15d","Integer","","Recommended","How serious was the incident where someone forced you to have sexual intercourse?","0::3","0= Not applicable; 1= Not at all; 2, Somewhat serious; 3= Very serious",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "int_abuse05___2","Integer","","Recommended","What is the relationship to the abuser?: Adult Child","0;1","0= Unchecked; 1= Checked",""
 "int_abuse05___3","Integer","","Recommended","What is the relationship to the abuser?: Son/Daughter in Law","0;1","0= Unchecked; 1= Checked",""
 "int_abuse05___4","Integer","","Recommended","What is the relationship to the abuser?: Minor Child/Grandchild","0;1","0= Unchecked; 1= Checked",""

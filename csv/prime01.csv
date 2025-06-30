@@ -31,4 +31,4 @@
 "prm_sum6","Integer","","Recommended","Sum of Participant's ""6"" responses","0::24","",""
 "prum_sum3_4","Integer","","Recommended","Sum of Participant's ""3"" or ""4"" responses","0::12","",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

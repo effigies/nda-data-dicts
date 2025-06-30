@@ -30,7 +30,7 @@
 "ers_persistence","Integer","","Recommended","Persistence Subscale","0::16","","persistence"
 "ers_total","Integer","","Required","ERS Total","0::84;888;999","888= Not Applicable; 999= Missing","total_score,totalers"
 "teen_timepoint","Integer","","Recommended","Time point","1::3","1 = Teen's approximately 13 years old; 2 = Teen's approximately 14 years old; 3 = Teen's approximately 15 years old",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "ersbrief_total","Integer","","Recommended","Total BRIEF Emotional Reactivity Scale (ERS)","0::24;888;999","Sum of items ers5, ers8, ers9, ers11, ers19, ers20; 888= Not Applicable; 999= Missing",""
 "er1","Integer","","Recommended","When I think about the idea of continuing my mental health treatment, it makes me nervous","0::4","0 = Strongly Disagree; 1 = Moderately Disagree; 2 = Neither; 3 = Moderately Agree; 4 = Strongly Agree",""
 "er2","Integer","","Recommended","When I think about the idea of continuing my mental health treatment, it makes me anxious","0::4","0 = Strongly Disagree; 1 = Moderately Disagree; 2 = Neither; 3 = Moderately Agree; 4 = Strongly Agree",""

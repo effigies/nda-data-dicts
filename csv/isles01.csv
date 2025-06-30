@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "isles1","Integer","","Recommended","Since this event, the world seems like a confusing and scary place","1::5","1 = Strongly agree; 2 = Agree; 3 = Neither agree or disagree; 4 = Disagree; 5 = Strongly disagree",""
 "isles2","Integer","","Recommended","I have made sense of this event (reverse scored)","1::5","5 = Strongly agree; 4 = Agree; 3 = Neither agree or disagree; 2 = Disagree; 1 = Strongly disagree",""
 "isles3","Integer","","Recommended","If or when I talk about this event, I believe people see me differently","1::5","1 = Strongly agree; 2 = Agree; 3 = Neither agree or disagree; 4 = Disagree; 5 = Strongly disagree",""

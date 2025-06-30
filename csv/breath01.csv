@@ -16,4 +16,4 @@
 "attempt_number","Integer","","Recommended","Overall number of attempt for breath_datetime_n and breath_result_n","1::112","",""
 "breath_datetime_n","String","50","Recommended","Nth Attempt; Today's Date and Time","","",""
 "breath_result_n","Float","","Recommended","Nth Attempt, Breathalyzer Result","","(concentration in g/100mL)",""
-"eventname","String","60","Recommended","The event name for which the data was collected","","",""
+"eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""

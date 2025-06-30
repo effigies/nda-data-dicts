@@ -23,4 +23,4 @@
 "sixmo_meddiff___2","Integer","","Recommended","As far as your ability to access health care for your son or daughter, do you...Schedule appointments on an 'as-needed' basis","0;1","0=No; 1=Yes",""
 "sixmo_meddiff___3","Integer","","Recommended","As far as your ability to access health care for your son or daughter, do you...Experience difficulties due to lack of available local medical resources","0;1","0=No; 1=Yes",""
 "sixmo_meddiff___4","Integer","","Recommended","As far as your ability to access health care for your son or daughter, do you...Experience difficulties due to other reasons","0;1","0=No; 1=Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

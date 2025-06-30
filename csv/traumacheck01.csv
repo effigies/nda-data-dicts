@@ -66,7 +66,7 @@
 "thc22","Integer","","Recommended","Event 2: How upsetting was the event at the time","1::3","1=Not at all; 2=Moderately; 3=Extremely","thc22_r03"
 "thc23","Integer","","Recommended","Event 2: How much has it affected your life with <your child>","1::3","1=Not at all; 2=Moderately; 3=Extremely","thc23_r03"
 "daysbaseline","Integer","","Recommended","","","","ptsddays"
-"visit","String","60","Recommended","Visit name","","","timept"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timept"
 "site","String","101","Recommended","Site","","Study Site",""
 "pts1age","Integer","","Recommended","Involved in a motor vehicle accident for which you received medical attention or that badly injured or killed someone-Age","","",""
 "baseline_n_004","Integer","","Recommended","Have you ever served in a combat or war zone?","0::4; -888; -999","0=No; 1=Yes; 3=DontKnow; 4=Refused; -888=Not Applicable; -999=Missing;","pts3"

@@ -20,4 +20,4 @@
 "vr12phystot_t1","Float","","Recommended","Physical health composite score","","-999=Missing",""
 "vr12_8","Integer","","Recommended","Since your last visit, how would you rate your physical health in general now?","1::5;-999","1=Much Better; 2=Slightly better; 3=About the same; 4=Slightly worse; 5=Much worse; -999=Missing",""
 "vr12_9","Integer","","Recommended","Since your last visit, how would you rate your emotional problems (such as feeling anxious, depressed or irritable) now?","1::5;-999","1=Much Better; 2=Slightly better; 3=About the same; 4=Slightly worse; 5=Much worse; -999=Missing",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

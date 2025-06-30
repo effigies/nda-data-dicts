@@ -25,4 +25,4 @@
 "feit_18","String","3","Recommended","FEIT item 18, angry","HAP;ANG;AFR;SAD;SUR;ASH","HAP=happy; ANG=angry; AFR=afraid; SAD=sad; SUR=surprised; ASH=ashamed",""
 "feit_19","String","3","Recommended","FEIT item 19, sad","HAP;ANG;AFR;SAD;SUR;ASH","HAP=happy; ANG=angry; AFR=afraid; SAD=sad; SUR=surprised; ASH=ashamed",""
 "feit_total","Integer","","Required","Facial Emotion Identification Task (FEIT), total","0::19","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

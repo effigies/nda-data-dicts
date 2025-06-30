@@ -12,7 +12,7 @@
 "ssfd_acc","Float","","Recommended","Spatial Span Forward  Response consistency (# of items correct/number of items attempted)","","",""
 "ssfd_span","Integer","","Recommended","Spatial Span Forward  Number of Items correct (total accuracy)","","",""
 "behavioralobservations_hand","String","255","Recommended","Handedness","","",""
-"txgroup","String","50","Recommended","Treatment group","","",""
+"txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""
 "simplecorsi_num_complete","Integer","","Recommended","Simple Corsi - Total Number of Items Attempted","","Number of items",""
 "simplecorsi_num_correct","Integer","","Recommended","Simple Corsi - Number of correct responses","0::1000;999","999= Missing",""
 "simplecorsi_acc","Float","","Recommended","Simple Corsi - Response consistency (# of items correct/number of items attempted)","0::100;999","Percentage of correct responses; 999= Missing",""

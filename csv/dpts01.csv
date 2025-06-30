@@ -43,3 +43,6 @@
 "dpts_s_strscore","Integer","","Recommended","Self: Strategies Score","","",""
 "dpts_o_cogscore","Integer","","Recommended","Other: Cognizance Score","","",""
 "dpts_o_strscore","Integer","","Recommended","Other: Strategies Score","","",""
+"smy_guardian_sup","Integer","","Recommended","My parent/guardian is determined to support me in making healthy behavior change","1::4","1= Strongly agree; 2= Agree; 3= Disagree; 4= Strongly disagree",""
+"smy_household_sup","Integer","","Recommended","People I live with are determined to support me in making healthy behavior change","1::4","1= Strongly agree; 2= Agree; 3= Disagree; 4= Strongly disagree",""
+"smy_num_housmates","Integer","","Recommended","How many people do you live with?","","",""

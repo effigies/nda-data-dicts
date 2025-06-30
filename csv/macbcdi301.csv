@@ -341,6 +341,6 @@
 "mac_voc_24m_95","Integer","","Recommended","all","0; 1; 999","0 = No (Does not say), 1 = Yes (Says), 999 = Missing",""
 "mac_voc_24m_96","Integer","","Recommended","much","0; 1; 999","0 = No (Does not say), 1 = Yes (Says), 999 = Missing",""
 "mac_voc_24m_97","Integer","","Recommended","could","0; 1; 999","0 = No (Does not say), 1 = Yes (Says), 999 = Missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "mac_voc_36m_tot","Integer","","Recommended","Child Expressive Vocabulary Total Count of 36m Items (CDI Short Form)","0::100","",""
 "mac_voc_24m_tot","Integer","","Recommended","Child Expressive Vocabulary Total Count of 24m Items (CDI Short Form)","0::100","",""

@@ -94,7 +94,7 @@
 "apgar_score","Integer","","Recommended","What was your child's APGAR score?","","",""
 "congenital_anom","Integer","","Recommended","Were you told there were any congenital (genetic) anomalies during the pregnancy or at birth?","0;1","0 = No; 1 = Yes",""
 "congenital_describe","String","200","Recommended","Please describe any congenital (genetic) anomalies during the pregnancy or at birth","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "bth_halfsib","Integer","","Recommended","Does your baby have any paternal half siblings?","0;1;-77;-88;-99","0= No; 1= Yes; -77= Do not know; -88= Do not wish to answer; -99= Missing",""
 "bth_arm_2_asd_halfsib","Integer","","Recommended","To your knowledge, does your baby have any paternal half siblings that had Autism, Asperger disorder, pervasive developmental disorder, or other Autism spectrum disorder (ASD), even if they don't have the condition now?","0;1;-66;-77;-88;-99","0= No; 1= Yes; -66= Not applicable; -77= Do not know; -88= Do not wish to answer; -99= Missing",""
 "bth_m_pcp","Integer","","Recommended","Do you (biological mother) have someone who you consider to be your primary care provider?","0;1;-77;-88;-99","0= No; 1= Yes; -77= Do not know; -88= Do not wish to answer; -99= Missing",""

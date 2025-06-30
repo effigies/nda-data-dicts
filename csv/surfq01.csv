@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","dema1"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","dema2,gender"
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "truncvis","Integer","","Recommended","Truncated Visit Number","","""Created variable: provides a numeric visit number for all visits, including unscheduled and end of phase""",""
 "phase_ct","String","20","Recommended","Current Phase. Phase patient was in at the time of the assessment Phase 4 refers to the follow-up phase.","Pre-Rand; Phase 1/1A; Phase 2; Phase 3; Phase 4; Phase 1B; Open-Choice Phase; Screening; Phase 1","",""
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","sfqa0b"
@@ -90,7 +90,7 @@ For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' c
 being '002', and FSEQNO of '3' can be thought of as being '003'.
 The first digit of FSEQNO relates to the corresponding ENF sequence number at that visit and the third
 digit relates to the specific adjudicator who completed the adjudication form.",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "sfq15","Integer","","Recommended","Did [patient] work for pay, at a temporary or day job, or as a volunteer in the past month?","0;1","0=No; 1=Yes",""
 "sfq16","Integer","","Recommended","If [patient] did not work in the past month, was he/she looking for work?","0;1;2","0=No; 1=Yes; 2=Working",""
 "sfq29b","Integer","","Recommended","Type of medicare","1;2;3","1 = Traditional medicare; 2 = Traditional Medicare plus supplemental i; 3 = Medicare HMO",""

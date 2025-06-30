@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "socs_1","Integer","","Recommended","When you talk to people, do you have the feeling that they don't understand you?","1::7","1= Never have this feeling; 7= Always have this feeling","mea1"
 "socs_2","Integer","","Recommended","In the past, when you had to do something which depended upon cooperation with others, did you have the feeling that it:","1::7","1= Surely wouldn't get done; 7= Surely would get done","mea2"
 "socs_3","Integer","","Recommended","Think of the people with whom you come into contact daily, aside from the ones to whom you feel closest. How well do you know most of them?","1::7","1= You feel that they are strangers; 7= You feel that you know them very well","mea3"

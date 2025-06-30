@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "nas_recall","String","100","Recommended","Recall context for survey","","e.g., ''Thinking of your entire lifetime'' or ''Since April 1, 2020''","recall"
 "nas_l2cc","Integer","","Recommended","[nas_recall] - How often do you drink at bars, taverns, or cocktail lounges? Would you say...","1::5;97;99;888","1 = Every day or nearly every day; 2 = At least once a week; 3 = At least once a month (but less than 1/week); 4 = At least once within [nas_recall] (but less than 1/month); 5 = Never within [nas_recall]; 97 = Do not know; 99 = Refused; 888=No response","l2cc"
 "nas_l8cc","Integer","","Recommended","[nas_recall] - When you drink at a bar, tavern, or cocktail lounge, how many drinks do you typically have?","0::97;99","Number of drinks; 97=Do Not Know; 99=Refused","l8cc"

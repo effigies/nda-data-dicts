@@ -666,7 +666,7 @@
 "bdr_ce","Integer","","Recommended","Backward Digit Recall. CE","","",""
 "bdr_percent_rank","Float","","Recommended","Backward Digit Recall. Percentile Rank","","",""
 "bdr_percent_pop","Integer","","Recommended","Backward Digit Recall. Percentage of Population Scoring at Same Level","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "stimcorss3","Float","","Recommended","Set size 3 stimuli correct per trial","0::3","","cs_ss3stimcortrial"
 "stimcorss4","Float","","Recommended","Set size 4 stimuli correct per trial","0::4","","cs_ss4stimcortrial"
 "stimcorss5","Float","","Recommended","Set size 5 stimuli correct per trial","0::5","","cs_ss5stimcortrial"

@@ -38,4 +38,4 @@
 "dare_8b","Integer","","Recommended","over the past two weeks, how bothered with stiffness or soreness in joints, neck, or shoulders","1::4","1=A lot; 2= Moderately; 3= Very little; 4= Not at all",""
 "dare_9b","Integer","","Recommended","over the past two weeks, how bothered with irritability or grouchiness","1::4","1=A lot; 2= Moderately; 3= Very little; 4= Not at all",""
 "dare_10b","Integer","","Recommended","over the past two weeks, how bothered with tension or nervousness","1::4","1=A lot; 2= Moderately; 3= Very little; 4= Not at all",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

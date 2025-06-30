@@ -180,4 +180,4 @@
 "dcs_verag_part","Integer","","Recommended","Dimensions of Conflict Strategies: Verbal Aggression: Partner","0::24;999","999=NA/NK/missing",""
 "dcs_physag_part","Integer","","Recommended","Dimensions of Conflict Strategies: Physical Aggression: Partner","0::21;999","999=NA/NK/missing",""
 "dcs_chilv_part","Integer","","Recommended","Dimensions of Conflict Strategies: Child Involvement: Partner","0::18;999","999=NA/NK/missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

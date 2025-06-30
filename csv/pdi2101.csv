@@ -99,7 +99,7 @@
 "pdi_mtf","Integer","","Recommended","Magic thinking factor","","Items 3,9,12, 17",""
 "pdi_reff","Integer","","Recommended","Referential factor","","Items 1, 15, 16",""
 "pdi_df","Integer","","Recommended","Depressive factor","","Items 13,14, 20,21",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "pdi40_1","Integer","","Recommended","Do you ever feel as if you are under the control of some force or power other than yourself? ","0;1","0=No;1=Yes",""
 "pdi40_2","Integer","","Recommended","Do you ever feel as if you are under the control of some force or power other than yourself?  How distressing is it","1::5","1=Not at all distressing; 5=Very distressing",""
 "pdi40_3","Integer","","Recommended","Do you ever feel as if you are under the control of some force or power other than yourself? How often you think about it","1::5","1=Hardly ever think about; 5=Think about it all the time",""

@@ -22,5 +22,5 @@
 "beadsj_sd_e90","Float","","Recommended","Standard deviation probability estimate 90 probability majority bead color","0::1","",""
 "beadsj_sd_e75","Float","","Recommended","Standard deviation probability estimate 75 probability majority bead color","0::1","",""
 "beadsj_sd_e60","Float","","Recommended","Standard deviation probability estimate 60 probability majority bead color","0::1","",""
-"data_file1","File","255","Recommended","Data file 1","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "taskdescription","String","50","Recommended","Longer description of the task.","","",""

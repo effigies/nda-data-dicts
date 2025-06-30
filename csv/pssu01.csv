@@ -21,4 +21,4 @@
 "pssu_01o","Integer","","Recommended","How much does he or she:  Criticize you?","1::5","",""
 "pssu_01p","Integer","","Recommended","How much does he or she:  Make you feel you can rely on him/her?","1::5","",""
 "pssu_01q","Integer","","Recommended","How much does he or she:  Insult you even if he or she did not mean to?","1::5","",""
-"visit","String","60","Recommended","Visit name","","","pssu_date"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","pssu_date"

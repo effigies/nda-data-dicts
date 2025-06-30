@@ -7,7 +7,7 @@
 "expsample_user_def_id","String","50","Recommended","Experiment Sample User-Defined ID","","","session"
 "stimuli_type","String","50","Recommended","type of stimuli","","i.e. visual, sound, etc.","stimulation,stimulus_type"
 "comment","String","500","Recommended","Miscellaneous comments about assessment","","",""
-"data_file1","File","255","Required","Data file 1","","",""
+"data_file1","File","255","Required","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "data_file1_type","String","300","Required","type of data file 1","","",""
 "experiment_id","Integer","","Required","ID for the Experiment/settings/run","","",""
 "oxyhb_1","Float","","Recommended","OxyHemoglobin reading at the 1st time point","","","hbo-min1"

@@ -243,7 +243,7 @@
 "dp_podp_mostconfusing","String","2500","Recommended","Aspects of Session Most Confusing to Patient","","",""
 "dp_podp_repeatinstruc","Integer","","Recommended","Instructions Repeated to Patient","0;1","0= No; 1= Yes",""
 "dp_podp_repeatwhich","String","2500","Recommended","Which Instructions Repeated. Specify","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "dp_marijuana","Integer","","Recommended","Marijuana used last twenty four hours","0; 1; -5","0=No; 1=Yes; -5=Presented, not answered",""
 "dp_marijuanatime","String","100","Recommended","Time of Marijuana Use","","",""
 "dp_cocaine","Integer","","Recommended","Cocaine used last twenty four hours","0; 1; -5","0=No; 1=Yes; -5=Presented, not answered",""

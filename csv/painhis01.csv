@@ -49,7 +49,7 @@
 "smoking_hx","Integer","","Recommended","Smoking History","0::2","0=No; 1=Yes, current; 2=Yes, past",""
 "drug_use_hx","Integer","","Recommended","Recreational Drug Use History","0::2","0=No; 1=Yes, current; 2=Yes, past",""
 "prq_3","Integer","","Recommended","Have you ever had pain bothering you for longer than three months? ","0;1;9","0=No; 1=Yes; 9=Missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "prq_1feelgood","Integer","","Recommended","Why did you try opioids for the first time: Feel good/get high?","0;1;9","0 = No; 1 = Yes; 9 = Missing",""
 "prq_1sleep","Integer","","Recommended","Why did you try opioids for the first time: Get to sleep?","0;1;9","0 = No; 1 = Yes; 9 = Missing",""
 "prq_1pain","Integer","","Recommended","Why did you try opioids for the first time: Relieve physical pain?","0;1;9","0 = No; 1 = Yes; 9 = Missing",""

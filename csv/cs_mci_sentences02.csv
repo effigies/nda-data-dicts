@@ -5,7 +5,7 @@
 "patid","String","20","Recommended","A Participant ID","","",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "mcg_vc10_house","Integer","","Recommended","MacArthur Words and Gestures: Vocabulary Checklist: House","","0 = Does not understand; 1 = Understands; 2 = Understands and says",""
 "mcg_vc2_do","Integer","","Recommended","MacArthur Words and Gestures: Vocabulary Checklist: Dog","","",""
 "mcs_cx_ageeq","Integer","","Recommended","MacArthur Words and Sentences: Total Complexity Score: Age Equivalent","","",""

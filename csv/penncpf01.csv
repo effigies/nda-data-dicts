@@ -20,4 +20,4 @@
 "cpf_cpf_dn","Integer","","Recommended","CPF Number of Probably Yes","","",""
 "cpf_cpf_py","Integer","","Recommended","CPF Number of Probably No","","",""
 "cpf_cpf_pn","Integer","","Recommended","CPF Number of Definitely No","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

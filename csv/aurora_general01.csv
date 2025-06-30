@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "wndin","Integer","","Recommended","Indicator whether Follow up survey happened within stipulated open window","0 :: 1","0 = False; 1 = True",""
 "delay","Integer","","Recommended","Delays in number of days outside the window the survey completed","-385::385","Negative delay indicate for some reason, the survey was presented and completed earlier than the stipulated window. Positive delay indicate how many days after the stipulated window the survey completed",""
 "pandemic","Integer","","Recommended","Indicator identifies whether the follow up survey taken within COVID 19 pandemic time","0 :: 1","0 = False; 1 = True",""

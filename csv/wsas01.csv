@@ -16,5 +16,5 @@
 "wsastot","Integer","","Recommended","IVR totalled WSAS","0::40","",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
 "vis_type","Integer","","Recommended","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","phone"
-"version_form","String","121","Recommended","Form used/assessment name","","","response_type"
-"visit","String","60","Recommended","Visit name","","","timepoint"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","response_type"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timepoint"

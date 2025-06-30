@@ -47,4 +47,4 @@
 "fne17","Integer","","Recommended","When I am talking to someone, I worry about what they may be thinking about me","1::5","1= Not at all characteristic of me; 2= Slightly characteristic of me; 3= Moderately characteristic of me; 4= Very characteristic of me; 5= Extremely characteristic of me",""
 "fne19","Integer","","Recommended","I am usually worried about what kind of impression I make.","1::5","1= Not at all characteristic of me; 2= Slightly characteristic of me; 3= Moderately characteristic of me; 4= Very characteristic of me; 5= Extremely characteristic of me",""
 "fne2","Integer","","Recommended","I worry about what people will think of me even when I know it does not make any difference.","1::5","1= Not at all characteristic of me; 2= Slightly characteristic of me; 3= Moderately characteristic of me; 4= Very characteristic of me; 5= Extremely characteristic of me",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

@@ -19,5 +19,5 @@
 "tas11_neg","Integer","","Recommended","T. The child would rather not work on problems/issues in therapy. C. I would rather not work on my problems with my therapist.","1::5","1 = Not like my patient/me/you; 2 = A little like my patient/me/you; 3 = Mostly like my patient/me/you; 4 = Very much like my patient/me/you; 5 = Not applicable","TASC_CHILD11"
 "tas12_pos","Integer","","Recommended","T. The child is able to work well with you on dealing with his/her problems/issues. C. I think my therapist and I work well together on dealing with my problems","1::5","1 = Not like my patient/me/you; 2 = A little like my patient/me/you; 3 = Mostly like my patient/me/you; 4 = Very much like my patient/me/you; 5 = Not applicable","TASC_CHILD12"
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","pi_staff"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

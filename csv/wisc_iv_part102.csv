@@ -969,6 +969,6 @@
 "wordreason_mind","Integer","","Recommended","Score","0;1","0 = Fail; 1 = Correct","Wisc_iv_Wordreason_Mind"
 "wordreason_score","Integer","","Recommended","WR Total Raw Score","0 :: 24","","Wisc_iv_Wordreason_Score"
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "days_baseline","Integer","","Recommended","Days since baseline","","",""
 "visit_year","Integer","","Recommended","Year of visit","","",""

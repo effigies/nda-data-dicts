@@ -426,7 +426,7 @@
 "painin47","Integer","","Recommended","How often did pain prevent you from standing for more than 30 minutes?","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""
 "painin50","Integer","","Recommended","How often did pain prevent you from sitting for more than 30 minutes?","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""
 "painin51","Integer","","Recommended","How often did pain prevent you from sitting for more than 10  minutes?","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""
-"version_form","String","121","Recommended","Form used/assessment name","","","assessment_name,inst"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","assessment_name,inst"
 "painin52","Integer","","Recommended","How often was it hard to plan social activities because you didn't know if you would be in pain?","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""
 "painin54","Integer","","Recommended","How often did pain keep you from getting into a standing position?","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""
 "painin55","Integer","","Recommended","How often did pain prevent you from sitting for more than one hour?","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""

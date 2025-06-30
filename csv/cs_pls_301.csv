@@ -5,7 +5,7 @@
 "patid","String","20","Recommended","A Participant ID","","",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "pls_ac11_ae","Integer","","Recommended","PLS: Auditory Comprehension 6-11 Months - Anticipates an event or signal","","0 = Fail; 1 = Pass",""
 "pls_ac11_fl","Integer","","Recommended","PLS: Auditory Comprehension 6-11 Months  Follows line of regard","","0 = Fail; 1 = Pass",""
 "pls_ac11_uw","Integer","","Recommended","PLS: Auditory Comprehension 6-11 Months - Understands a specific word or phrase","","0 = Fail; 1 = Pass",""

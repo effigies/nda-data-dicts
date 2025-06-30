@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
 "src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "age_in_days_dot_to_edc","Integer","","Recommended","Age in days obtained by subtracting the Expected Date of Confinement (EDC/Due Date) from the date of test","","","Exclusion_Age_in_Days_DOT_to_EDC"
 "admin_status","String","20","Recommended","Instrument administration status","Complete;Partial;Not Administered;Not Applicable","","Exclusion_Administration_Status"
 "ex_ia_demo_parents_uncom_engl","String","2","Recommended","Screening and Exclusion Form (0:0 to 4:5 y:m) Question IA Both biological mother and father of the Child of Interest (COI) are uncomfortable reading English documents (One parent uncomfortable with reading English is not exclusionary)","Y;N;NA","Y = Yes; N = No; NA = Not available","Exclusion_IA_Demographic_COI_Parents_Uncomfortable_English"

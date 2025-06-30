@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"eventname","String","60","Required","","The event name for which the data was collected","","",""
+"eventname","String","60","Required","","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
 "cybb_phenx_harm","Integer","","Recommended","","Have you ever been cyberbullied, where someone was trying on purpose to harm you or be mean to you online, in texts, or group texts, or on social media (like Instagram or Snapchat)?","1;0;777","1=Yes; 0=No; 777=Refuse To Answer","cyberbully_harm"
 "cybb_phenx_harm_12mo","Integer","","Recommended","cybb_phenx_harm == 1","Has this happened to you in the past 12 months?","1;0","1=Yes; 0=No","cyberbully_harm_12mo"
 "cybb_phenx_harm_often","Integer","","Recommended","cybb_phenx_harm_12mo == 1","How often in the past 12 months?","1::8","1=1 time; 2=2 times; 3=3 times; 4=4-9 times; 5=10-19 times; 6=20-39 times; 7=40-49 times; 8=50+ times","cyberbully_harm_often"

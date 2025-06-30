@@ -17,4 +17,4 @@
 "aaasa_phase","Integer","","Recommended","Trial of study","1 :: 3","1 = Feasibility; 2 = Open; 3 = Clinical",""
 "aaasa_session","Integer","","Recommended","Session of trial","0 :: 3","0 = Baseline; 1 = Session one; 2 = Session two; 3 = One-month follow-up",""
 "site","String","101","Recommended","Site","","Study Site",""
-"txgroup","String","50","Recommended","Treatment group","","",""
+"txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""

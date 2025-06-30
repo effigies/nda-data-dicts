@@ -4,7 +4,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "vf_animal_word_cred_1to15_sec","Integer","","Recommended","Verbal Fluency: Animals number of correct words produced in the 1 to 15 seconds time period","","",""
 "vf_animal_word_cred_16to30_sec","Integer","","Recommended","Verbal Fluency: Animals number of correct words produced in the 16 to 30 seconds time period","","",""
 "vf_animal_word_cred_31to45_sec","Integer","","Recommended","Verbal Fluency: Animals number of correct words produced in the 31 to 45 seconds time period","","",""

@@ -118,6 +118,6 @@
 "beadsb_lns_90_rt_6","Float","","Recommended","Mean Response Time (in ms) to make probability estimate after seeing the 6th bead during the 90% condition (In Scanner Data)","0::100000","",""
 "beadsb_lns_90_rt_7","Float","","Recommended","Mean Response Time (in ms) to make probability estimate after seeing the 7th bead during the 90% condition (In Scanner Data)","0::100000","",""
 "beadsb_lns_90_rt_8","Float","","Recommended","Mean Response Time (in ms) to make probability estimate after seeing the 8th bead during the 90% condition (In Scanner Data)","0::100000","",""
-"data_file1","File","255","Recommended","Data file 1","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "taskdescription","String","50","Recommended","Longer description of the task.","","",""
 "experiment_id","Integer","","Recommended","ID for the Experiment/settings/run","","",""

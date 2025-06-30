@@ -93,7 +93,7 @@
 "barriers2_other","Integer","","Recommended","Thinking about the past year, have any of the following been a problem in getting or dealing with services? (Choose all that apply) Other","0;1;999","0= No; 1= Yes; 999= Missing",""
 "barriers2_other_sp","String","200","Recommended","Thinking about the past year, have any of the following been a problem in getting or dealing with services? (Choose all that apply) Other, please provide details","","",""
 "barriers2_none","Integer","","Recommended","Thinking about the past year, have any of the following been a problem in getting or dealing with services? (Choose all that apply) N/A. Have not experienced any of the above","0;1;999","0= No; 1= Yes; 999= Missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "barriers1","Integer","","Recommended","Overall, do you think that your son/daughter is getting enough services?","0::2;999","0= No; 1= Yes; 2= Not getting services and does not need them at this time; 999= Missing",""
 "barriers2_cost","Integer","","Recommended","Thinking about the past year, have any of the following been a problem in getting or dealing with services? (Choose all that apply) Cost of services","0;1;999","0= No; 1= Yes; 999= Missing",""
 "barriers2_where","Integer","","Recommended","Thinking about the past year, have any of the following been a problem in getting or dealing with services? (Choose all that apply) Where services are provided","0;1;999","0= No; 1= Yes; 999= Missing",""

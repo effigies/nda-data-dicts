@@ -4,7 +4,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"visit","String","60","Required","Visit name","","","ess_date"
+"visit","String","60","Required","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","ess_date"
 "ess_1","Integer","","Recommended","How likely are you to doze off or fall asleep in the situations described below, in contrast to feeling just tired? Sitting and Reading","0::3","0=Would  never doze; 1 =Slight  change of dozing; 2 =Moderate  chance of dozing; 3 =High chance of dozing",""
 "ess_2","Integer","","Recommended","How likely are you to doze off or fall asleep in the situations described below, in contrast to feeling just tired? Watching TV","0::3","0=Would  never doze; 1 =Slight  change of dozing; 2 =Moderate  chance of dozing; 3 =High chance of dozing",""
 "ess_3","Integer","","Recommended","How likely are you to doze off or fall asleep in the situations described below, in contrast to feeling just tired? Sitting, inactive in a public place (e.g. a theatre or a meeting)","0::3","0=Would  never doze; 1 =Slight  change of dozing; 2 =Moderate  chance of dozing; 3 =High chance of dozing",""

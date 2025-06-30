@@ -30,4 +30,4 @@
 "mbs_raci_mean","Float","","Recommended","Regimen adaptaion/ cognitive issues mean","1::5","",""
 "mbs_ii_mean","Float","","Recommended","Ingestion issues mean","1::5","",""
 "mbs_pr_mean","Float","","Recommended","Parent reminder mean","1::5","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

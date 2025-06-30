@@ -13,7 +13,7 @@
 "csi_sf4","String","50","Recommended","Frequency of service","","",""
 "csi_sf5","Integer","","Recommended","Did insurance pay for the service?","0::2","0= No; 1= Some of it; 2= All of it",""
 "csi_sf6","String","25","Recommended","How much did you have to pay for this service","","",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "c_oth","Integer","","Recommended","Indicator of whether patient used other services during the stage.","1","1 = Yes",""
 "redcap_repeat_instance","Integer","","Recommended","Number of Services Used","","",""
 "csi_12a","Integer","","Recommended","Have you used the following service in the past four months: 12a. Treatment for alcohol or substance abuse?","0;1","0 = No; 1 = Yes",""

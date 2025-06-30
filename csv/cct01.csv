@@ -5,4 +5,4 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "cash_choice_task","Integer","","Recommended","Let's pretend a kind person wanted to give you some money.  Would you rather have $75 in three days or $115 in 3 months?","1::3","1 = $75 in three days; 2 = $115 in 3 months; 3 = Don't Know","neurocog_cash_choice_task"
-"eventname","String","60","Recommended","The event name for which the data was collected","","",""
+"eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""

@@ -5,7 +5,7 @@
 "patid","String","20","Recommended","A Participant ID","","",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "ados_alg_cmsit","Integer","","Recommended","Communication  Social Interaction Total","0 :: 24","MODULE 1: 7 = Autism spectrum cut-off; 12 = Autism cut-off. MODULE 2: 8 = Autism spectrum cut-off; 12 = Autism cut-off. MODULES 3 AND 4: 7 = Autism spectrum cut-off; 10 = Autism cut-off","q24_tot3"
 "ados_alg_cmsits","Integer","","Recommended","ADOS: Social-Communication Severity Score","","",""
 "ados_alg_commt","Integer","","Recommended","Communication Total","0 :: 10","MODULE 1: 2 = Autism spectrum cut-off; 4 = Autism cut-off. MODULE 2: 3 = Autism spectrum cut-off; 5 = Autism cut-off. MODULES 3 AND 4: 2 = Autism spectrum cut-off; 3 = Autism cut-off","q24_tot1"

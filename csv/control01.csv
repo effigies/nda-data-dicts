@@ -11,7 +11,7 @@
 "image_modality","String","30","Recommended","Image modality","MRI; PET; CT; SPECT; ultrasound; FA; X-Ray; spectroscopy; microscopy; DEXA; fNIRS; External Camera Photography","Computed Radiography; Computed Tomography; External Camera Photography; FA; General Microscopy; MRI; Magnetic Resonance; Magnetic Resonance Spectroscopy; Nuclear Medicine; Single Photon Emission Computed Tomography; Ultrasound",""
 "groups","Integer","","Recommended","Group","0;1","0=Control; 1=Case",""
 "experiment_description","String","4000","Recommended","Description of experiment/sequence/event","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "run","Integer","","Required","Run number in the session","1 :: 4","",""
 "is_trained","Integer","","Required","Has subject been trained on this trauma","0 :: 1","0 = untrained; 1 = trained",""
 "symptom_provocation","Float","","Required","Extracted amygdala activity from contrast (Symptom Provocation - Rest)","","",""

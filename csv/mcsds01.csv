@@ -38,6 +38,6 @@
 "mcsds_32","Integer","","Recommended","I sometimes think when people have a misfortune they only got what they deserved","0;1","1=False; 0=True",""
 "mcsds_33","Integer","","Recommended","I have never deliberately said something that hurt someone's feelings","0;1;999","0= False; 1= True; 999= Not applicable/No answer",""
 "mcsds_score","Integer","","Recommended","Social Desirability score","0::33","",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "sv_mcsds_total","Integer","","Recommended","Shortened Version MCSDS Total Score","0::20","Sum of only questions 2,4,6,11,12,14,15,16,17,19,20,21,22,23,24,25,26,28,30 and 33 of the full version of the full MCSDS",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

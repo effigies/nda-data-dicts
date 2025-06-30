@@ -16,7 +16,7 @@
 "cigarette_30day_smoking","Integer","","Recommended","Now think about the past 30 days, including today. During the past 30 days, have you smoked part or all of a roll-your-own tobacco cigarette? PX030801_30Day_Cigarette_Smoking","1;2;99","1=Yes; 2=No; 99=DK/refused","cg14"
 "cig_smoking_evryday_1mon","Integer","","Recommended","Has there ever been a period in your life when you smoked cigarettes every day for at least 30 days? PX030601_Cigarette_Smoking_Everyday_1Month","1;2;97; 999","1=Yes; 2=No; 97=Don't Know/Refused; 999 = Legitimate Skip","cg15"
 "first_cig_smoke_evryday_age2","Integer","","Recommended","How old were you when you first started smoking cigarettes every day? PX030702_First_Cigarette_Smoking_Everyday_Age","1::99","Age in years","cg16"
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "tob_consume08a","Integer","","Recommended","Have you used any of these tobacco products in the past 12-months? Hookah","0;1","0= No; 1= Yes",""
 "ecig_consume20h","Integer","","Recommended","Would you say that you used e-cigarettes for any of the following reasons the first time you used? My parents/family use it","0;1","0= No; 1= Yes",""
 "ecig_consume20i","Integer","","Recommended","Would you say that you used e-cigarettes for any of the following reasons the first time you used? Can use it anywhere","0;1","0= No; 1= Yes",""

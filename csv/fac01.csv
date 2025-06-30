@@ -96,4 +96,4 @@
 "validity","String","13","Recommended","Validity rating","Yes;No;Questionnable","",""
 "site","String","101","Recommended","Site","","Study Site",""
 "resp_source","Integer","","Recommended","Respondent Source","1::6","1= subject; 2= parent; 3= clinician; 4= teacher; 5= trainer; 6= fidelity reviewer","source"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

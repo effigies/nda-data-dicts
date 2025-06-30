@@ -5,7 +5,7 @@
 "patid","String","20","Recommended","A Participant ID","","",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "ppvt_01_bus","Integer","","Recommended","bus","0; 1; 999","0 = No error; 1 = Error; 999 = Missing value","q30_1"
 "ppvt_01_climb","Integer","","Recommended","climbing","0; 1; 999","0 = No error; 1 = Error; 999 = Missing value","q30_4"
 "ppvt_01_clost","Integer","","Recommended","closet","0; 1; 999","0 = No error; 1 = Error; 999 = Missing value","q30_7"

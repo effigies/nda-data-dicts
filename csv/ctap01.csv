@@ -14,4 +14,4 @@
 "trial","Integer","","Recommended","Trial number","0::9999; -777; -999","1 = first; 2= second; 3=third; 4=fourth; 5=fifth; 6=sixth; etc; -777=NA, -999=missing",""
 "ctap_stim_tone","String","100","Recommended","Computerized Finger Tapping Test - Returns the stimulus tone that is displayed on the screen throughout the experiment","","",""
 "tap_type","String","100","Recommended","Denotes if response is concurrent with a tone or self-paced without the tone, as well as if slow or fast responses required","","Negative values reflect practice block",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

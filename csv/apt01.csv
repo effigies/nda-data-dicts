@@ -20,4 +20,4 @@
 "apt14","Integer","","Recommended","Scared (2) face: How does he/she feel? Score","0::2","0 = incorrect; 1 = incorrect but correct valence; 2 = correct",""
 "apt15","Integer","","Recommended","Mad (2) face: How does he/she feel? Response","1::4","1 = happy; 2 = sad; 3 = angry; 4 = scared",""
 "apt16","Integer","","Recommended","Mad (2) face: How does he/she feel? Score","0::2","0 = incorrect; 1 = incorrect but correct valence; 2 = correct",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

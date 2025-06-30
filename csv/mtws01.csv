@@ -25,6 +25,6 @@
 "mtws_gs","Float","","Recommended","Total Score of withdrawal symptoms","","Sum total of all items",""
 "mtws_con","Integer","","Recommended","How confident are you that this rating is accurate?","0::3","0 = not at all; 1 = somewhat confident; 2 = moderately confident; 3 = very confident",""
 "stime","String","20","Recommended","Session time","","",""
-"visit","String","60","Recommended","Visit name","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""

@@ -60,7 +60,7 @@
 "pdsa11","Integer","","Recommended","How many of your friends have Used a weapon or force to get money or things from people?","0::4","0=None of them; 1=Few of them; 2=Half of them; 3=Most of them; 4=All of them",""
 "pdsa12","Integer","","Recommended","How many of your friends have Sold hard drugs like heroin, cocaine, or LSD?","0::4","0=None of them; 1=Few of them; 2=Half of them; 3=Most of them; 4=All of them","pdq_03"
 "pdsa_f","Integer","","Recommended","Do you have any friends?","1;2","1=Yes; 2=No","friends"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
 "phi1","Integer","","Recommended","Type of interview","1::5","1 = In person; 2 = Phone; 3 = Mail; 4 = SIG-O only; 5 = Carp only","in_person"
 "pdq_01","Integer","","Recommended","how many of your friends have purposely damaged or destroyed property that did not belong to them?","0::4","0=None of them; 1=Few of them; 2=Half of them; 3=Most of them; 4=All of them",""

@@ -19,7 +19,7 @@
 "nih_tlbx_se","Float","","Required","Standard Error","","999=NA/NK/missing","nihtbx_selfeff_par_se,nihtbx_selfeff_se,se"
 "nih_tlbx_theta","Float","","Recommended","Theta","","999=NA/NK/missing","nihtbx_selfeff_par_theta,nihtbx_selfeff_theta,selfefficacy13_17,selfefficacy18_85,selfefficacy8_12,selfefficacyprox8_12,theta"
 "nih_pin","String","25","Recommended","PIN number assigned by the NIH Toolbox","","","pin"
-"version_form","String","121","Required","Form used/assessment name","","","assessment_name"
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","assessment_name"
 "wcst_ni","Integer","","Recommended","Number of Items","","","itmcnt"
 "interview_language","String","255","Recommended","Language Used in the Interview","","","language"
 "nih_tlbx_fctsc","Float","","Recommended","Fully-Corrected T-Score","0::120","","fully_corrected_t_score"

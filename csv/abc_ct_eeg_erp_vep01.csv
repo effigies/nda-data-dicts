@@ -10,7 +10,7 @@
 "veeg_art","Integer","","Recommended","VEP Trials Artifact","0::200; -999","-999= Invalid",""
 "veeg_complete","Integer","","Recommended","VEP Completed","0;1;2","0= NO DATA; 1= INCOMPLETE;  2= COMPLETE",""
 "veeg_data_whyno","Integer","","Recommended","VEP Data Why No","1::10","1= did not run, withdrawn; 2= did not run, eeg; 3= did not run, experiment; 4= child noncompliance; 5= equipment error; 6= experimenter error; 7= failed pipeline; 8= no dv trial count; 9= no data morphology; 10 = ok",""
-"version_form","String","121","Recommended","Form used/assessment name","","","veeg_derived_results_version"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","veeg_derived_results_version"
 "veeg_dropped","Integer","","Recommended","VEP Subject Dropped","0;1","0= False; 1= True",""
 "veeg_good","Integer","","Recommended","VEP Trials Good","0 :: 200; -999","-999= Invalid",""
 "veeg_include","Integer","","Recommended","VEP Included?","0;1","0= NO; 1= YES",""

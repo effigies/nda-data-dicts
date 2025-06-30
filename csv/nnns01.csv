@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "visitnum","Integer","","Recommended","Visit number","","","visit"
 "initial_obs","Integer","","Recommended","Initial state observation","1::6","1 = quiet sleep; 2 = active sleep; 3 = drowsy; 4 = quiet awake; 5 = active awake; 6 = crying",""
 "nnhalit","Integer","","Recommended","Response decrement to light","1::9","1 = No decrement in response over 10 stimuli; 2 = No response decrement, but there is some delay in the responses over the 10 trials; 3 = Some response decrement over the 10 trials, but shut down is not complete; 4 = Some response decrement and delay in the responses over 10 trials, but shut down is not complete; 5 = Shut down of responses after 9 stimuli; 6 = Shut down of responses after 7-8 stimuli; 7 = Shut down of responses after 5-6 stimuli; 8 = Shut down of responses after 3-4 stimuli; 9 = Shut down of responses after 1-2 stimuli",""

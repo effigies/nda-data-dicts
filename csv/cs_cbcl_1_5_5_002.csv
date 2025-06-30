@@ -5,7 +5,7 @@
 "patid","String","20","Recommended","A Participant ID","","",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "cbcl_ab5_per","Integer","","Recommended","Percentile","0 :: 100","",""
 "cbcl_ab5_total","Integer","","Recommended","Total Score","0 :: 38","",""
 "cbcl_ab5_tscr","Integer","","Recommended","T Score","0 :: 100","",""

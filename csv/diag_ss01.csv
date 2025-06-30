@@ -47,4 +47,4 @@
 "diag_learn_notes","String","1000","Recommended","Notes about the Learning Disability","","",""
 "diag_iep","Integer","","Recommended","Did the family indicate current IEP?","0;1","0 = No; 1 = Yes",""
 "diag_cgi","Integer","","Recommended","Clinical Global Impressions Severity Score","","",""
-"txgroup","String","50","Recommended","Treatment group","","",""
+"txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""

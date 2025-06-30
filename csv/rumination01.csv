@@ -27,4 +27,4 @@
 "rumination21","Integer","","Recommended","How often do you go someplace alone to think about your feelings?","1::4","1 = Almost never; 2 = Sometimes; 3 = Often; 4 = Almost always",""
 "rumination22","Integer","","Recommended","How often do you think about how angry you are with yourself?","1::4","1 = Almost never; 2 = Sometimes; 3 = Often; 4 = Almost always",""
 "rumination_total","Integer","","Recommended","Rumination Scale Total Score","0::88","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

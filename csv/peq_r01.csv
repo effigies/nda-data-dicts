@@ -41,7 +41,7 @@
 "to_you_17","Integer","","Recommended","A teen teased me in a mean way by saying rude things or call me bad names","1;2;3;4;5","1 = Never; 2 = Once or twice; 3 = A few times; 4 = About once a week; 5 = A few times a week","PEQR_CHILD17B"
 "by_you_18","Integer","","Recommended","I spent time with a teen when they had no one else to hang out with","1;2;3;4;5","1 = Never; 2 = Once or twice; 3 = A few times; 4 = About once a week; 5 = A few times a week","PEQR_CHILD18"
 "to_you_18","Integer","","Recommended","A teen spent time with me when I had not one else to hang out with","1;2;3;4;5","1 = Never; 2 = Once or twice; 3 = A few times; 4 = About once a week; 5 = A few times a week","PEQR_CHILD18B"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
 "pvq_8","Integer","","Recommended","Please rate how often these things have happened to you in the past month: A peer gossiped about me so that others would not like me.","1::5","1 = Never; 2 = Once or twice; 3 = A few times; 4 = About once a week; 5 = A few times a week",""
 "pvq_1","Integer","","Recommended","Please rate how often these things have happened to you in the past month: Some peers left me out of an activity or conversation that I really wanted to be included in.","1::5","1 = Never; 2 = Once or twice; 3 = A few times; 4 = About once a week; 5 = A few times a week",""

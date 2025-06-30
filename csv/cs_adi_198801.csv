@@ -5,7 +5,7 @@
 "patid","String","20","Recommended","A Participant ID","","",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "adi_da_afp","Integer","","Recommended","ADI: Age at first phrases","","993 = Had some phrases, then lost. Not yet regained; 994 = Milestone not reached; 996 = N/K, but apparently normal; 997 = N/K, but apparently delayed; 999 = N/K or not asked",""
 "adi_al_agfpu","Float","","Recommended","Age of first phrases","0 :: 800;  993; 994; 996; 997; 999","993 = Had some phrases, then lost. Not yet regained; 994 = Milestone not reached; 996 = N/K, but apparently normal; 997 = N/K, but apparently delayed; 999 = N/K or not asked",""
 "adi_al_agfsw","Float","","Recommended","Age of first single words","0 :: 800;  993; 994; 996; 997; 999","993 = Had some words, then lost and not yet regained; 994 = Milestone not reached; 996 = N/K, but apparently normal; 997 = N/K, but apparently delayed; 999 = N/K or not asked",""

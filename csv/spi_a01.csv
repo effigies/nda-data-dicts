@@ -79,7 +79,7 @@
 "cogdis_3","Integer","","Recommended","COGDIS: Yes to 1 and 2? COGDIS criteria met.","0;1","0=No; 1=Yes",""
 "site","String","101","Recommended","Site","","Study Site","sitenumber"
 "visit_name","String","20","Recommended","session ID/screening ID","","","visitnumber"
-"visit","String","60","Recommended","Visit name","","","visitlabel"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visitlabel"
 "subjecttype","String","20","Recommended","Subject Type","Control;Prodromal; Enhanced; Non-Enhanced","",""
 "dataquality","Integer","","Recommended","Data quality","0::5","0=No data (cancelled); 1=Data entered but only once, has missing data; 2=Data entered but only once, no missing data; 3=Double entered; 4=Data frozen for cleaning; 5=Data clean/locked",""
 "elig_inclusion_check","Integer","","Recommended","Checks for a pass/fail on Elig for Inclusion","0::3","0=Failed (Ineligible); 1=Passed (Eligible); 2=In screening; 3=NA",""

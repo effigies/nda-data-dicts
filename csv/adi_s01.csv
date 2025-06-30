@@ -105,4 +105,4 @@
 "cbe_concern_any_nontd","Integer","","Recommended","In your opinion based on today, how likely is it that this child will meet criteria for ANY developmental delay or diagnosis?","0::2","0=No concerns/Very unlikely; 1=Possibly/I have some concerns; 2=Likely/I have clear concerns",""
 "cbe_confidence_nontd","Integer","","Recommended","Overall Confidence in Any-Delay Likelihood Rating","1::5","1=Completely uncertain; 2=Fairly uncertain; 3=Neutral; 4=Fairly certain; 5=Completely certain",""
 "cbe_referral","Integer","","Recommended","Referral Recommendation - Would refer for further evaluation?","0;1","0=No; 1=Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

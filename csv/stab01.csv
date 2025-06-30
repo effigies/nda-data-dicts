@@ -39,7 +39,7 @@
 "stab_pa","Integer","","Recommended","Physical aggression score","","",""
 "stab_sa","Integer","","Recommended","Social aggression score","","",""
 "stab_rb","Integer","","Recommended","Rule breaking score","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "antsoc_01","Integer","","Recommended","Been suspended or expelled from school.","1::4","1 = Never; 2 = Once or twice; 3 = Several times; 4 = Many times",""
 "antsoc_02","Integer","","Recommended","Stolen things from school, work, stores, or other people, including relatives.","1::4","1 = Never; 2 = Once or twice; 3 = Several times; 4 = Many times",""
 "antsoc_03","Integer","","Recommended","Told lies to get out of trouble or out of having to do things.","1::4","1 = Never; 2 = Once or twice; 3 = Several times; 4 = Many times",""

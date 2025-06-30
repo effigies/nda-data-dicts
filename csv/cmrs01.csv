@@ -29,5 +29,5 @@
 "cmrs_21","Integer","","Recommended","21. See things that nobody else can see","0::3; 999","0=never/rarely; 1=sometimes; 2=often; 3=very often",""
 "cmrs_totalscore","Integer","","Required","CMRS total score","0::63; 999","sum of items 1-21",""
 "cmrs_problem","Integer","","Recommended","You have reported FOUR or more of problems above , have those above problems ever happened during the same period of time?","0;1;-99;77;88","0=no; 1=yes; -99= N/A; 77= Refused; 88= Missing",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "time_frame_","String","200","Recommended","What was the question time frame?","","","timeframe"

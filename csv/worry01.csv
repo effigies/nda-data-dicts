@@ -13,7 +13,7 @@
 "wor7","Integer","","Recommended","7. How worried are you about how your child gets along with other children (not including brother/sister)?","0;1;2;3;-999","0= Not at all worried;1= A little worried;2= Worried;3= Very worried;-999= Prefer not to answer",""
 "itsea_f_2","Integer","","Recommended","How worried are you about your child's language development?","0::3; -999; 888","0=Not at all worried; 1=A little worried; 2=Worried; 3=Very worried; -999=Prefer not to answer; 888=Missing/Decline to answer","wor8"
 "f5wortsx","Float","","Recommended","Worry Mean Score","","","wormn"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "cw08","Integer","","Recommended","Has your child's childcare provider, teacher or babysitter expressed concern about his or her behavior? ","0 :: 2;99","0= No; 1= Yes, a few times; 2= Yes, many times; 99= Not applicable, child not in school and rarely or never uses childcare or a babysitter",""
 "cw01","Integer","","Recommended","How worried are you about, his/her temper tantrums?","0 :: 3","0= Not at all worried; 1= A little worried; 2= Worried; 3= Very Worried",""
 "cw02","Integer","","Recommended","How worried are you about, his/her grouchy or angry moods?","0 :: 3","0= Not at all worried; 1= A little worried; 2= Worried; 3= Very Worried",""

@@ -20,4 +20,4 @@
 "defeat14","Integer","","Recommended","I feel down and out.","0::4","1=Never; 2=Rarely; 3=Sometimes; 4=Mostly (A Lot); 5=Always",""
 "defeat15","Integer","","Recommended","I feel that I have lost important battles in life.","0::4","1=Never; 2=Rarely; 3=Sometimes; 4=Mostly (A Lot); 5=Always",""
 "defeat16","Integer","","Recommended","I feel that there is no fight left in me.","0::4","1=Never; 2=Rarely; 3=Sometimes; 4=Mostly (A Lot); 5=Always",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

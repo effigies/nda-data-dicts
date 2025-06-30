@@ -57,6 +57,6 @@
 "stdor5_s","String","40","Recommended","Stage V: Dropout-adverse event, spec.","","",""
 "stdor6_s","String","40","Recommended","Stage V: Dropout-death, spec.","","",""
 "stdor7_s","String","255","Recommended","Stage V: Dropout-other reason, spec.","","",""
-"visit","String","60","Recommended","Visit name","","","enr_vis"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","enr_vis"
 "enr_ast","Integer","","Recommended","SOFTAD enrollment assessment type","14::20","",""
 "ste_m","Float","","Recommended","SOFTAD enrollment: mos. from TADS Time0","","",""

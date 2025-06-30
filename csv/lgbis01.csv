@@ -39,7 +39,7 @@
 "lgbtiqis_isscore","Integer","","Recommended","Identity Superiority Subscale - Average of Items: 17, 18, 19","","",""
 "lgbtiqic_icscore","Integer","","Recommended","Identity Centrality Subscale - Average of Items: 20, 21, 22, 23, 24","","",""
 "lgbtiqic_iascore","Integer","","Recommended","Identity Affirmation Subscale - Average of Items: 25, 26, 27","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "soi_iho01","Integer","","Recommended","I feel ashamed of my sexual orientation.","1::6; 888; 999","1= Disagree Strongly; 2= Disagree; 3= Disagree Somewhat; 4= Agree Somewhat; 5= Agree; 6= Agree Strongly; 888 = n/a: condition skipped; 999 = missing/no answer",""
 "soi_iho02","Integer","","Recommended","When I think of my sexual orientation, I feel depressed.","1::6; 888; 999","1= Disagree Strongly; 2= Disagree; 3= Disagree Somewhat; 4= Agree Somewhat; 5= Agree; 6= Agree Strongly; 888 = n/a: condition skipped; 999 = missing/no answer",""
 "soi_iho03","Integer","","Recommended","Sometimes I feel that I might be better off dead than [sexual orientation].","1::6; 888; 999","1= Disagree Strongly; 2= Disagree; 3= Disagree Somewhat; 4= Agree Somewhat; 5= Agree; 6= Agree Strongly; 888 = n/a: condition skipped; 999 = missing/no answer",""

@@ -127,6 +127,6 @@
 "strf_15","Date","","Recommended","Initial pregnancy test date","","","pregnant_test_date"
 "sample_group_mri","Integer","","Recommended","selects sample group","1;2","1=Clinical; 2=Healthy Control",""
 "vat_test","Integer","","Recommended","MRI VAT pass/fail","0;1;9","0=fail;1=pass; 9=not collected",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

@@ -41,7 +41,7 @@
 "pci_ncaw","Integer","","Recommended","Negative Cognitions About the World","","",""
 "pci_sb","Integer","","Recommended","Self-Blame","","",""
 "pci_tot","Integer","","Recommended","PTCI Total score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "pci13","Integer","","Recommended","13. I will not be able to control my emotions, and something terrible will happen.","1::7","1= Totally disagree; 2= Disagree very much; 3= Disagree slightly; 4= Neutral; 5= Agree slightly; 6= Agree very much; 7= Totally agree",""
 "pci32","Integer","","Recommended","32. I will not be able to tolerate my thoughts about the event, and I will fall apart.","1::7","1= Totally disagree; 2= Disagree very much; 3= Disagree slightly; 4= Neutral; 5= Agree slightly; 6= Agree very much; 7= Totally agree",""
 "pci34","Integer","","Recommended","34. You never know when something terrible will happen.","1::7","1= Totally disagree; 2= Disagree very much; 3= Disagree slightly; 4= Neutral; 5= Agree slightly; 6= Agree very much; 7= Totally agree",""

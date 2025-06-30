@@ -70,4 +70,4 @@
 "disc_p_hi","Integer","","Recommended","Endorsed: Check all hyperactivity-impulsivity symptoms listed in report","1::9","1= often fidgets; 2= often leaves seat; 3= often runs about; 4= often has difficulty playing quietly; 5= is often 'on the go'; 6= often talks excessively; 7= often blurts out answers; 8= often has difficulty waiting turn; 9= often interrupts","disc_y_hi,disc_ya_hi"
 "disc_p_before7","Integer","","Recommended","Some hyperactive-impulsive or inattentive symptoms that caused impairment were present before age 7 years","1;2","1= Positive; 2= Negative","disc_y_before7,disc_ya_before7"
 "disc_p_2impair","Integer","","Recommended","Some impairment from the symptoms is present in two or more settings (e.g., at school or work and at home).","1;2","1= Positive; 2= Negative","disc_y_2impair,disc_ya_2impair"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

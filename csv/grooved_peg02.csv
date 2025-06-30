@@ -14,7 +14,7 @@
 "hal_reit_peg_both_sec","Integer","","Recommended","time for both hands, seconds","","","gp_time"
 "hal_reit_peg_dom_t","Integer","","Recommended","t-score for dominant hand pegboard","","",""
 "hal_reit_peg_non_t","Integer","","Recommended","t-score for non-dominant hand pegboard","","",""
-"version","String","20","Recommended","Version/code of assessment","","",""
+"version","String","20","Recommended","Version/code of assessment","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "nc_grv_dnp","Integer","","Recommended","Number of pegs successfully inserted by dominant hand","0::25","","gp_totalscoredomhand"
 "nc_grv_ndnp","Integer","","Recommended","Number of pegs successfully inserted by non-dominant hand","0::25","",""
 "nc_disabil","Integer","","Recommended","Other Type of Disability (1=yes)","0;1","0=no; 1=yes",""

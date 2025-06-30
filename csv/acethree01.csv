@@ -64,7 +64,7 @@
 "rc_setting","Integer","","Recommended","Respite Care: Setting over time period","1::8","1= In home; 2= Public early childhood; 3= Private early childhood; 4= School; regular classroom; 5= School; special education classroom; 6= Clinic/hospital; 7= Center/agency; 8= Other","rc_setting_1218,rc_setting_1824,rc_setting_2430,rc_setting_3036,rc_setting_3642,rc_setting_4248,rc_setting_4854,rc_setting_5460"
 "progress","Integer","","Recommended","During each period, please select whether your child's progress over time period:","1;2;3","1=Improved; 2=Stayed the same; 3=Regressed/Worsened","progress_1218,progress_1824,progress_2430,progress_3036,progress_3642,progress_4248,progress_4854,progress_5460"
 "age3service","Integer","","Recommended","Upon transition into the school system at age 3, please select whether your child's services:","1;2;3","1=Increased; 2=Stayed the same; 3=Decreased",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "caps_hrs","Float","","Recommended","","0::100","",""
 "caps_setting","Integer","","Recommended","","1::8","",""
 "caps_provider","Integer","","Recommended","","1::8","",""

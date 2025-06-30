@@ -67,7 +67,7 @@
 "satisfaction8b","Integer","","Recommended","Do you like the giftcards and/or prizes you got?","1::3","1 = They were great ; 2 = They were ok ; 3 = They could have been better",""
 "satisfaction5a","Integer","","Recommended","How taxing do you think these visits were for your child?","1::3","1 = My child probably found these visits to be very long and difficult ; 2 = My child was probably doing ok on these visits ; 3 = My child had no problems whatsoever on these visits",""
 "satisfaction10a","Integer","","Recommended","Do you think the compensation for your child was enough for what they were asked to do?","1;2","1 = I think it was enough ; 2 = I think it could have been more",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "satisfaction7a","Integer","","Recommended","Do you think you would like to come back in a year to do everything again?","1::5","1 = I wouldn't want to do it again ; 2 = It would be alright ; 3 = I would probably like to come back ; 4 = I would like to come back ; 5 = I would be really excited to come back",""
 "satisfaction57_1","Integer","","Recommended","Was it fun getting your brain picture taken?","0::4","0 = Not at all fun ; 1 = Sort of fun ;2 =  A little fun ; 3 = Very fun ; 4 = Super fun",""
 "satisfaction57_10","Integer","","Recommended","Did you have enough time for breaks and snacks?","1::3","1 = I didn't really need breaks ; 2 = There was enough time for all the breaks and snacks ; 3 = I could have used more time for breaks and snacks",""

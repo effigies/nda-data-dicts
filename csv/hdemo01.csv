@@ -5,8 +5,8 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "visitday","Integer","","Recommended","day of visit","","","dmg_visitdat_x,interval,studyday"
-"study","String","100","Recommended","Study; The code for each individual study","","","dmg_birthdat_x,studyid"
-"visit","String","60","Recommended","Visit name","","","dmg_studyid"
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections","dmg_birthdat_x,studyid"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","dmg_studyid"
 "completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","dmg_interval,frmcomp"
 "dmg_referral","Integer","","Recommended","referral source","1::11;99","1=School; 2=Hospital - Pediatric Psychiatry; 3=Hospital - Emergency Room; 4=Hospital - Other Clinic; 5=Other Treatment Center; 6=Friend; 7=Radio; 8=Ad in Paper; 9=Other;10= poster/flyer; 11=Internet; 99=DK",""
 "refothers","String","50","Recommended","Referral source: specify","","","dmg_otherref"
@@ -175,8 +175,8 @@ household in item 2 who contribute financially)","1::10","1=less than $5,000; 2 
 "hi_20_c","Integer","","Recommended","Does anyone, other than yourself, provide support and care for your children? (Eni bodi, apat from yu, kin provid en kiya for yu pikin dem?)","0::2; 998;999","0 = No; 1 = Yes; 2=N/A; 998 = Do not know (Ar nor no); 999 = Refused (Nor ansa)",""
 "se_12_y","Integer","","Recommended","Does your household have: A refrigerator? (Una geh eni wan pan den tin ya: Fridge?)","0;1;998;999","0 = No; 1 = Yes; 998 = Do not know (Ar nor no); 999 = Refused (Nor ansa)",""
 "se_15_y","Integer","","Recommended","Does your household have: A motorcycle or scooter? (Una geh eni wan pan den tin ya: Motobike?)","0;1;998;999","0 = No; 1 = Yes; 998 = Do not know (Ar nor no); 999 = Refused (Nor ansa)",""
-"trtarm","String","200","Recommended","Treatment arm","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "treatment","Integer","","Recommended","Any persons living at home who have been treated by a mental health professional?","0::4;-99;77;88","0=No; 1=Yes; -99=N/A; 88=Missing; 77=Refused",""
 "ses7","Integer","","Recommended","What is the main material used for the walls of your house?","1::6;98;99","1= Mud wall; 2= Cement; 3= Mud bricks; 4= Mud bricks and cement; 5= Corrugated metal sheets; 6= Other; 98= Do not know; 99= Refused",""
 "expend27_val","String","200","Recommended","How much, roughly, did you spend on barber and beauty salon services?","","",""

@@ -348,7 +348,7 @@
 "cvlt3_95","Float","","Recommended","Score: List B/Shared False Positives Base rate","","","cvlt_tb_sharedfp_base"
 "cvlt3_96","Float","","Recommended","Score: List B/Nonshared False Positives Raw score","","","cvlt_tb_nsharedfp_raw"
 "cvlt3_97","Float","","Recommended","Score: List B/Nonshared False Positives Base rate","","","cvlt_tb_nsharedfp_base"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "cvirt15rdss","Integer","","Recommended","Immediate Recall: Trials 1-5 Recall Discriminability Scaled Score","","",""
 "cvirt15scss","Integer","","Recommended","Immediate Recall: Trials 1-5 Semantic Clustering (Chance Adjusted) Scaled Score:","","","cvlt_tr1t5_sem_clus_scaled"
 "cvirt15rpss","Integer","","Recommended","Immediate Recall: Trials 1-5 % Recall Primary Scaled Score","","",""

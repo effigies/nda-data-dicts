@@ -38,7 +38,7 @@
 "pav102g","Integer","","Recommended","G. Did [he/she] [FEEL MORE NERVOUS AROUND/KEEP AWAY FROM] people for longer than 6 months?","0::2","0=No; 1= Somectimes/ Somewhat; 2= Yes",""
 "pav102h","String","100","Recommended","IF NO, H. How soon after [STRESSFUL EVENT] did [he/she] begin to [FEEL NERVOUS AROUND/KEEP AWAY FROM] people??","","",""
 "pav102i","Integer","","Recommended","I. Did [he/she] [FEEL NERVOUS AROUND/KEEP AWAY FROM] people for longer than 6 months?","0::2","0=No; 1= Somectimes/ Somewhat; 2= Yes",""
-"version_form","String","121","Recommended","Form used/assessment name","","","discpver"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","discpver"
 "ppa033","Integer","","Recommended","In the past 6 months, have there been times when you felt very frightened or panicked and didnt know why?","0::2","0= No; 1= Sometimes/ Somewhat; 2= Yes",""
 "ppa034","Integer","","Recommended","In the past 6 months, have there been times when your heart started to beat very quickly, or you got short of breath and you became very scared?","0::2","0= No; 1= Sometimes/ Somewhat; 2= Yes",""
 "ppa035","Integer","","Recommended","Did you feel that way because something happened that scared you?","0::2","0= No; 1= Sometimes/ Somewhat; 2= Yes",""

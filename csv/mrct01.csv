@@ -15,5 +15,5 @@
 "mmconsumed","Integer","","Recommended","total number of M&Ms consumed","","",""
 "mmnotconsumed","Integer","","Recommended","total number of M&Ms NOT consumed","","",""
 "froyodiff","Float","","Recommended","total difference in frozen yogurt during the ab lib test meal in grams","","",""
-"visit","String","60","Recommended","Visit name","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

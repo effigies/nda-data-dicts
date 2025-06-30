@@ -64,5 +64,5 @@
 "fad58","Integer","","Recommended","We don't have reasonable transport","1::4","1= Strongly Agree; 2= Agree; 3= Disagree; 4= Strongly Disagree","fad_58"
 "fad59","Integer","","Recommended","When we don't like what someone has done, we tell them","1::4","1= Strongly Agree; 2= Agree; 3= Disagree; 4= Strongly Disagree","fad_59"
 "fad60","Integer","","Recommended","We try to think of different ways to solve problems","1::4","1= Strongly Agree; 2= Agree; 3= Disagree; 4= Strongly Disagree","fad_60"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","","timepoint"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","timepoint"
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""

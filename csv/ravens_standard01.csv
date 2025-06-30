@@ -137,7 +137,7 @@
 "rv_iq","Integer","","Recommended","IQ","","","rv_s_iq"
 "rv_ravens_age","String","50","Recommended","Ravens calculated age","","","rv_s_ravens_age"
 "ss_percentile","Float","","Recommended","Percentile","","-1=<.01","rv_s_percentile,rvn2_pr"
-"version_form","String","121","Recommended","Form used/assessment name","","","rv_s_version_form"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","rv_s_version_form"
 "raven2_form","Integer","","Recommended","Raven's form type","1::3","1= Paper form; 2= Digital Long form; 3= Digital Short form",""
 "rvn2_as","Integer","","Recommended","Raven's Ability Score","","",""
 "rvn2_ss","Integer","","Recommended","Raven's Standard Score","","",""

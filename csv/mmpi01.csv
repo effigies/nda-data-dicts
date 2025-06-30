@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
 "fi84","Integer","","Recommended","84. Is your daily life full of things that keep you interested?","0;1;97::99","0 = No; 1 = Yes; 97 = Refused;  98 = Don't know; 99 = NA","mmpi_1"
 "mmpi_2","Integer","","Recommended","Once in a while I think of things too bad to talk about.","0;1;999","1= TRUE; 0= FALSE; 999= DO NOT WISH TO ANSWER",""

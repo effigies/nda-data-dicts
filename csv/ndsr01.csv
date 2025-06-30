@@ -80,7 +80,7 @@
 "totaln3pufa_g","Integer","","Recommended","Total n-3 PUFA (g)","","",""
 "totaln6pufa_g","Integer","","Recommended","Total n-6 PUFA (g)","","",""
 "totalfat_g","Integer","","Recommended","Total Fat (g)","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "dii","Integer","","Recommended","Dietary Inflammation Index","","",""
 "vitd_mcg","Integer","","Recommended","Vitamin D (calciferol) (mcg)","","",""
 "vite_mg","Integer","","Recommended","Vitamin E (Total Alpha-Tocopherol) (mg)","","",""

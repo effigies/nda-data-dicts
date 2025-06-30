@@ -50,7 +50,7 @@
 "ecog_scoreplanning","Integer","","Recommended","Sum of Planning Items","","","_scoreplanning"
 "ecog_scoreorganization","Integer","","Recommended","Sum of Organization Items","","","_scoreorganization"
 "ecog_scoredivattention","Integer","","Recommended","Sum of Divided Attention Items","","","_scoredivattention"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "understandpoint","Integer","","Recommended","Understanding the point of what other people are trying to say","1::4; 9","1= better or no change; 2= questionable/occasionally worse; 3= consistently a little worse; 4= consistently much worse;9= Don't know",""
 "followmap","Integer","","Recommended","Following a map to find a new location","1::4;9","1= better or no change; 2= questionable/occasionally worse; 3= consistently a little worse; 4= consistently much worse;9= Don't know",""
 "organfinance","Integer","","Recommended","Keeping financial records organized","1::4;9","1= better or no change; 2= questionable/occasionally worse; 3= consistently a little worse; 4= consistently much worse;9= Don't know",""

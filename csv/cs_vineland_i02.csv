@@ -5,7 +5,7 @@
 "patid","String","20","Recommended","A Participant ID","","",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "vine_abc_ae","Float","","Recommended","Adaptive Behavior Composite Age Equivalent","1 :: 250","",""
 "vine_abc_al","String","15","Recommended","Adaptive Behavior Composite Adaptive Level","","Nulled value range of [High; Moderately high; Adequate; Moderately low; Low] to accept outlier data",""
 "vine_abc_err","Integer","","Recommended","Band of Error","","",""

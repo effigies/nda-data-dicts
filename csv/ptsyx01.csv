@@ -115,5 +115,5 @@
 "tscyc_ptsart","Integer","","Recommended","TSCYC T-score posttraumatic stress-arousal","39 :: 109","t-score by sex provided by publisher for raw scores",""
 "tscyc_ptstt","Integer","","Recommended","TSCYC T-score posttraumatic stress - total","40 :: 110","t-score by sex provided by publisher for raw scores",""
 "tscyc_dist","Integer","","Recommended","TSCYC T-score dissociation","43 :: 108","t-score by sex provided by publisher for raw scores",""
-"version_form","String","121","Required","Form used/assessment name","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

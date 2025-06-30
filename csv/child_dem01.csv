@@ -207,6 +207,6 @@
 "sbf_14_parent","Integer","","Recommended","Does your child have hearing problems that prevent him/her from listening to audio from a computer?","1;2","1 = Yes; 2 = No",""
 "et2a","Integer","","Recommended","Highest Level of Education Achieved. Biological mother","1::12; 99; 77","99=Don't know; 77=Refused;  1=8th grade or less;  2=9th grade or above, not a high school graduate; 3= high school graduate or GED; 4= post high school education, no college degree; 5=vocational-technical = degree or certificate; 6=2-year college degree/associate degree; 7= 4-year college degree/BA, BS degree; 8= some BA/BS work, no degree; 9=master degree, e.g.  MSW, MA, MFA, MPH, MBA; 10=PHD, MD, JD, LLB, or other professional graduate degree; 11=other; 12=Less than high school diploma/GED ",""
 "dem_08a","Integer","","Recommended","Mother current employment","1::11;99","1=Working full time(35hrs or more a week at one or more jobs); 2=Working part time; 3=Keeping house; 4=Unemployed, looking for work; 5=Unemployed, not looking for work; 6=Disabled; 7=Retired; 8=Student, full time; 9=Student, part time; 10=Other; 11 =Unemployed; 99=Not in household",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "pronouns_spec","String","50","Recommended","If Other, please specify pronouns:","","",""
 "child_race07","Integer","","Recommended","(Child Info): How would you describe your child? Multiracial","0;1","0= No; 1= Yes",""

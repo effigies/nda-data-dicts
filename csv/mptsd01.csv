@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "mptsd1","Integer","","Recommended","Before I entered the military/In the past, I had more close friends than I have now.","1::5","1 = Not at all true; 2 = Slightly true; 3 = Somewhat true; 4 = Very true; 5 = Extremely true",""
 "mptsd2","Integer","","Recommended","I do not feel guilt over things that I did in the military/in the past.","1::5","5 = Never true; 4 = Rarely true; 3 = Sometimes true; 2 = Usually true; 1 = Always true",""
 "mptsd3","Integer","","Recommended","If someone pushes me too far, I am likely to become violent.","1::5","1 = Very unlikely; 2 = Unlikely; 3 = Somewhat unlikely; 4 = Very likely; 5 = Extremely likely",""

@@ -5,7 +5,7 @@
 "patid","String","20","Recommended","A Participant ID","","",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "ppvt_age","Integer","","Recommended","PPVT Age","","",""
 "ppvt_date","Integer","","Recommended","PPVT Date","","",""
 "ppvt_lb_confd","Integer","","Recommended","Lower Band","40::160; -1;9;13;15;16;24;27;28;29;31;32;35;36;37;39","-1 = Not available",""

@@ -13,4 +13,4 @@
 "bp_short_7","Integer","","Recommended","Much of the time, I just sit around and do nothing.","0::4","0 = Strongly Disagree; 1 = Disagree; 2 = Neither Agree nor Disagree; 3 = Agree; 4 = Strongly Agree",""
 "bp_short_8","Integer","","Recommended","Unless I am doing something exciting, even dangerous, I feel half-dead and dull.","0::4","0 = Strongly Disagree; 1 = Disagree; 2 = Neither Agree nor Disagree; 3 = Agree; 4 = Strongly Agree",""
 "bp_short_total","Integer","","Recommended","Boredom Total Score","0::32","Sum of items bp_short_1 - bp_short_8 on a 5-point scale( 0 points for items marked 0; 1 point for items marked 1; 4 points for items marked 4)",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

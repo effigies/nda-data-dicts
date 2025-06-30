@@ -21,4 +21,4 @@
 "bds15","Integer","","Recommended","Criticism Score","","",""
 "bds16","Integer","","Recommended","Warmth Score","","",""
 "bds17","Integer","","Recommended","Emotional Overinvolvement Score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","","timepoint"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","timepoint"

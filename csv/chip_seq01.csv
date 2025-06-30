@@ -35,7 +35,7 @@
 "antibodyamountunits","String","4000","Recommended","Units of measure for the amount of antibody used for an assay","","",""
 "chromatinamount","Float","","Recommended","Amount of chromatin used for an assay","","",""
 "chromatinamountunits","String","4000","Recommended","Units of measure for the amount of chromatin used for an assay","","",""
-"data_file1","File","255","Recommended","Data file 1","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "data_file1_type","String","300","Recommended","type of data file 1","","",""
 "rnabatch","String","4000","Recommended","Batch in which RNA sample was isolated","","",""
 "sample_id_biorepository","String","100","Recommended","Biorepository Sample ID","","",""

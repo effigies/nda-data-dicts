@@ -87,5 +87,5 @@
 "rv_iq","Integer","","Recommended","IQ","","","csest_nonverbal_iq"
 "rv_ravens_age","String","50","Recommended","Ravens calculated age","","","nviq_age_category"
 "ss_percentile","Float","","Recommended","Percentile","","-1=<.01","percentile"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "rv_attempted","Integer","","Recommended","Ravens colored attempted but could not be completed","0;1","0 = No; 1 = Yes",""

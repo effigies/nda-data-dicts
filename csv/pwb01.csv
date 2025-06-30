@@ -99,4 +99,4 @@
 "wbtotx","Float","","Recommended","1 Full-Scale 18-Item MeanTotal Score","","",""
 "monthsbl","Float","","Recommended","Actual number of months from Baseline","","",""
 "days_baseline","Integer","","Recommended","Days since baseline","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

@@ -528,7 +528,7 @@
 "mcg_tg_ageeq","Integer","","Recommended","MacArthur Words and Gestures: Total Gestures - Age Equivalent","","","cdi_totalgestures_ageequiv"
 "mcg_vc_cageeq","Integer","","Recommended","Total number of words understood: Age Equivalent","","","cdi_wordsunderstood_ageequiv,mcg_vc_under_ageeq"
 "mcg_vc_pageeq","Integer","","Recommended","Total number of words produced: Age Equivalent","","","cdi_wordsproduced_ageequiv,mcg_vc_und_said_ageeq"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "fu_pretend_example","String","500","Recommended","Please give me an example of his/her pretend play","","","cdi_pretend_examples"
 "ques_pretend","String","50","Recommended","""Does your child ever pretend, for example, to talk on the phone or take care of a doll, or pretend other things?""","Yes;No; not_answered","","cdi_pretend"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","cdi_comments,cdi_wg_notes"

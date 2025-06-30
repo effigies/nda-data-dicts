@@ -5,7 +5,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","eosdt,intvdate,subsum_doa"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
-"visit","String","60","Recommended","Visit name","","","vtypdhs"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","vtypdhs"
 "truncvis","Integer","","Recommended","Truncated Visit Number","","""Created variable: provides a numeric visit number for all visits, including unscheduled and end of phase""",""
 "phase_ct","String","20","Recommended","Current Phase. Phase patient was in at the time of the assessment Phase 4 refers to the follow-up phase.","Pre-Rand; Phase 1/1A; Phase 2; Phase 3; Phase 4; Phase 1B; Open-Choice Phase; Screening; Phase 1","",""
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","date"
@@ -84,7 +84,7 @@ or RTDA3 value of '01=positive symptoms', '02= Negative symptoms', '03 = mood sy
 "itt","Integer","","Recommended","Intent-To-Treat Population","0;1","0=Not in Intent-to-treat population; 1=In intent-to-treat population",""
 "ee","Integer","","Recommended","Efficacy Evaluable Population","0;1","0=Not in Efficacy Evaluable population; 1=In Efficacy Evaluable population",""
 "pp","Integer","","Recommended","Per Protocol Population","0;1","0=Not in Per Protocol population; 1=In Per Protocol population",""
-"version_form","String","121","Recommended","Form used/assessment name","","","vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","vers"
 "daysrz","Integer","","Recommended","days since randomization","","","days"
 "fseqno","Integer","","Recommended","Sequence Number","0::999","The FSEQNO variable in the ADJ form has a special interpretation compared to other forms.
 For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' can be thought of as

@@ -19,7 +19,7 @@
 "etam_valid_over","Integer","","Recommended","Number of valid trials based on all requirements","","","et_valid_over,etam_trials_with_valid_overall,etbm_trials_with_valid_overall,etsi_trials_with_valid_overall,etss_trials_with_valid_overall"
 "etam_valid","Integer","","Recommended","Validity of sample at timepoint","0;1","0 =Invalid; 1 =Valid","et_valid,etbm_valid,etplr_valid,etsi_valid,etss_valid"
 "et_heads_amsiss","Float","","Recommended","Oculomotor Index of Gaze to Human Faces (OMI) computed as average over AM/SI/SS tasks","0::1;999","999= NA",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "etbm_human_aff_perct","Float","","Recommended","Gaze percentage at biological motion relative to gaze at biological motion or control motions from trials depicting affective content","0::1;999","999= NA",""
 "etbm_hum_obj_rot_perc","Float","","Recommended","Gaze percentage at biological motion relative to gaze at biological motion or control motions from trials depicting object directed actions with rotational movement controls","0::1;999","999= NA","etbm_human_obj_rotation_perct"
 "etbm_human_perct","Float","","Recommended","Gaze percentage at biological motion relative to gaze at biological motion or control motions from all trials","0::1;999","999= NA",""

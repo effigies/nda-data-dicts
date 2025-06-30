@@ -100,7 +100,7 @@
 "thq19_spec","String","300","Recommended","Specify: relationship with person who touched private parts of your body, or made you touch theirs, under force or threat","","",""
 "thq24_spec","String","300","Recommended","Specify: other extraordinarily stressful situation or event","","",""
 "thq_total","Float","","Recommended","THQ Total Score","","999= Missing Data",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "ths_1h","Integer","","Recommended","When this happened, did you feel unreal, spaced out, disoriented, or strange?","0::1; 999","0 = No; 1 = Yes; 999 = Missing",""
 "ths_10h","Integer","","Recommended","When this happened, did you feel unreal, spaced out, disoriented, or strange?","0::1; 999","0 = No; 1 = Yes; 999 = Missing",""
 "ths_10i","Integer","","Recommended","After this happened, how long were you bothered by it?","0::3; 999","0 = not at all; 1 = 1 week; 2 = 2-3 weeks; 3 = a month or more; 999 = Missing",""

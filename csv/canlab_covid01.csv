@@ -15,7 +15,7 @@
 "session","Integer","","Recommended","Session","","",""
 "survey_duration","Integer","","Recommended","Duration of survey completion, in seconds.","","",""
 "race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "vignette_subversion","Integer","","Recommended","Vignette subversion type.","0::3","0=Full version; 1=No treatment; 2=Alternative treatment; 3Main treatment",""
 "vignette_text","String","100","Recommended","Text of vignette presented to participant.","","",""
 "vignette_question1","String","100","Recommended","First question presented to participant following the vignette.","","",""

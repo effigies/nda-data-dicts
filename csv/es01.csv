@@ -20,4 +20,4 @@
 "entrap14","Integer","","Recommended","I feel trapped inside myself","0::4","0=Not at all like me; 1=A little bit like me; 2=Moderately like me; 3=Quite a bit like me; 4=Extremely like me",""
 "entrap15","Integer","","Recommended","I would like to get away from who I am and start again","0::4","0=Not at all like me; 1=A little bit like me; 2=Moderately like me; 3=Quite a bit like me; 4=Extremely like me",""
 "entrap16","Integer","","Recommended","I feel I'm in a deep hole I can't get out of","0::4","0=Not at all like me; 1=A little bit like me; 2=Moderately like me; 3=Quite a bit like me; 4=Extremely like me",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

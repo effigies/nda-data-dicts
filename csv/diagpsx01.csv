@@ -962,7 +962,7 @@ TOOK CARE OF R THE LONGEST.","1::6","1=foster; 2=adoptive; 3=grand; 4=relative; 
 "qo20","Integer","","Recommended","Section O - Conduct Disorder. O20. IF O18 REC MONTH CODED 66, GO TO B. Have you wanted to talk to a doctor or health professional about any of these behaviors in the last 12 months?","1;5","1=no; 5=yes",""
 "qo20a","Integer","","Recommended","Section O - Conduct Disorder. O20. IF O18 REC MONTH CODED 66, GO TO B. Have you wanted to talk to a doctor or health professional about any of these behaviors in the last 12 months?  A. Did you do it?","1;5","1=no; 5=yes",""
 "qo20b","Integer","","Recommended","Section O - Conduct Disorder. O20. IF O18 REC MONTH CODED 66, GO TO B. Have you wanted to talk to a doctor or health professional about any of these behaviors in the last 12 months?  B. Have you ever talked to a doctor or other health professional about any of these behaviors?","1;5","1=no; 5=yes",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "padima6","Integer","","Recommended","Module E: Disruptive Behavior Disorders - Attention-deficit/Hyperactivity Disorder (ADHD)","","One intermediate rating of impairment or distress - How bad did it seem to make patient feel""","yadima6"
 "padimc6","Integer","","Recommended","Module E: Disruptive Behavior Disorders - Attention-deficit/Hyperactivity Disorder (ADHD)","","One severe rating of impairment or distress - How bad did it seem to make patient feel""","yadimc6"
 "behavior","String","250","Recommended","Behavior Observations","","","oc_notes"

@@ -25,7 +25,7 @@
 "file_source2","String","1000","Recommended","","File name/location, 2","","",""
 "session_det","String","250","Recommended","","session details","","",""
 "image_history","String","1024","Recommended","","Image history,f.e. transformations steps and other modifications.","","",""
-"manifest","Manifest","","Conditional","isNull(derived_files)","","","",""
+"manifest","Manifest","","Conditional","isNull(derived_files)","Manifest file","","Path to manifest file, e.g., Users/username/SubjectABC_Manifest.json",""
 "image_description","String","512","Recommended","","Image description, i.e. DTI, fMRI, Fast SPGR, phantom, EEG, dynamic PET","","",""
 "fetal_age","Integer","","Recommended","","Age of the fetus (i.e., gestational age) in days","0::322","",""
 "fetal_age_type","Integer","","Recommended","","Type of gestational age used for fetal_age","1;2","1 = Postovulatory gestational age, defined as days since the last ovulation, expected term of 266 days; 2 = Postmenstrual gestational age, days since the last menstrual period, expected term of 280 days",""

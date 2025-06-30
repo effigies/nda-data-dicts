@@ -13,7 +13,7 @@
 "bfnes_7","Integer","","Recommended","Sometimes I think I am too concerned with what other people think of me","1::5","1=Not at all characteristic of me; 2=A little characteristic of me; 3=Somewhat characteristic of me; 4=Very characteristic of me; 5=Entirely characteristic of me","bfnes11"
 "bfnes_8","Integer","","Recommended","I often worry that I will say or do wrong things","1::5","1=Not at all characteristic of me; 2=A little characteristic of me; 3=Somewhat characteristic of me; 4=Very characteristic of me; 5=Entirely characteristic of me","bfnes12,bfpnes_12"
 "bfnes_score","Integer","","Required","BFNES score","","999= N/A","bfne_total"
-"visit","String","60","Recommended","Visit name","","","assessment_number"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment_number"
 "study_condition","Integer","","Recommended","Study condition to which participant was assigned","1::7","1 = Cognitive remediation; 2 = Comparison condition; 3 = Other; 4= treatment as usual; 5= Computers first; 6= CRT first; 7=SCIT","condition"
 "bfpnes_2","Integer","","Recommended","I don't worry if people are forming a bad idea about me.","1 :: 5","1 = Not at all; 2 = Slightly; 3 = Moderately; 4 = Very; 5 = Extremely","bfnes2"
 "bfpnes_3","Integer","","Recommended","I am always afraid that others will find out my flaws.","1 :: 5","1 = Not at all; 2 = Slightly; 3 = Moderately; 4 = Very; 5 = Extremely",""

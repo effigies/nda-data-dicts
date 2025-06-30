@@ -29,7 +29,7 @@
 "cbfspedplace","Integer","","Recommended","""Is this a special educational placement?""","0;1; 888; 999","0 = no; 1 = yes; 888 = not applicable; 999 = missing",""
 "cbfspedservices","Float","","Recommended","""How long has the child received special educational services?"" (years)","","888 = not applicable; 999 = missing",""
 "cbfrepeatheldback","Integer","","Recommended","Has the child/subject ever repeated a grade or been held back?","0;1; 888; 999","0 = no; 1 = yes; 888 = not applicable; 999 = missing",""
-"version_form","String","121","Required","Form used/assessment name","","",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","","bltbfrace"
 "bltbfposition","Integer","","Recommended","Current Position","1::6; 888; 999","1 = Special Ed. Teacher; 2 = Primary Resource Teacher; 3 = Other; 4 = Spe. Ed. and Resource; 5 = Preschool Teacher; 6 = Not Specified/just wrote ""Teacher""; 888 = not applicable; 999 = missing",""
 "bltbfposttime","String","25","Recommended","How long have you been working in this position?","","888 = not applicable; 999 = missing",""

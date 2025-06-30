@@ -596,6 +596,6 @@
 "glaladtn","Integer","","Recommended","All therapies combined: number of therapies received for ADHD during this year","","",""
 "glalldtn","Integer","","Recommended","All therapies combined: number of therapies received for Learning during this year","","",""
 "glalbetn","Integer","","Recommended","All therapies combined: number of therapies received for Other Behavior/Emotional reasons during this year","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "asssca","String","5","Recommended","Assessment point","","D = Baseline SNAP; 14 =  End-of-treatment SNAP; 24 = 10 month interval after 14M end-of-treatment SNAP; 36 =  1-year interval after the 24M SNAP; 48 = 1-year interval after the 36M SNAP; 60 = 2-year interval after the 36M SNAP; 72 = 3-year interval after the 36M SNAP; 84 = 1-year interval after the 72M SNAP; 96 = 2-year interval after the 72M SNAP or CAARS; 108 =  1-year interval after the 96M SNAP or CAARS; 120 =2-year interval after the 96M SNAP or CAARS
 ",""

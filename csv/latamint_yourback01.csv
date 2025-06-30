@@ -15,5 +15,5 @@
 "ba9_livingarrang","Integer","","Recommended","Where do you live during the school year?","1 ::4","1= With parents or other relatives; 2= In your own home or apartment (owned or rented); 3= In a shared house, apartment, or flat; 4= Other","livingarrang"
 "ba9_livingarrang_4_text","String","50","Recommended","If 'other' for your living arrangement, please specify:","","","livingarrang_4_text"
 "ba10_permresidence","Integer","","Recommended","Are you from the same city/town as the university you are attending?","0;1","0= No; 1= Yes","permresidence"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

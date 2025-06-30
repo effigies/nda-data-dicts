@@ -230,4 +230,4 @@
 "chrpps_ea_sum","Float","","Recommended","Emotional Abuse (based on 25 items)","5::25;-900;-300","sum(''chrpps_hurt'', ''chrpps_hate'', ''chrpps_emoab'',''chrpps_lazy'', ''chrpps_born''); -900 = Missing; -300 = N/A",""
 "chrpps_en_sum","Float","","Recommended","Emotional Neglect (based on 25 items)","5::25;-900;-300","sum(''chrpps_special'', ''chrpps_loved'', ''chrpps_care'',''chrpps_closefam'', ''chrpps_support''); -900 = Missing; -300 = N/A",""
 "chrpps_pn_sum","Float","","Recommended","Physical Neglect (based on 25 items)","5::25;-900;-300","sum(''chrpps_hunger'', ''chrpps_pardrunk'', ''chrpps_dirty'',''chrpps_docr'', ''chrpps_protect''); -900 = Missing; -300 = N/A",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

@@ -123,7 +123,7 @@
 "atqavoid","Float","","Recommended","Total of Approach Avoidance Temperament Avoid Items","","",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "timepoint","Integer","","Recommended","Timepoint","0::8","0=Screening; 1=Intake; 2=3 months; 3=6 months; 4=9 months; 5=12 months; 6=24 months; 7 = pre-intervention; 8 = post-intervention",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "atq78","Float","","Recommended","Scoring: inhibitory control","","","29250"
 "atq79","Float","","Recommended","Scoring: activation control","","","29251"
 "atq80","Float","","Recommended","Scoring: attentional control","","","29252"

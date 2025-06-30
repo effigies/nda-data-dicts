@@ -48,7 +48,7 @@
 "pa_wscore","Integer","","Recommended","Physical Aggression Weighted Score","0::40","Weighting applies a multiplier of 4",""
 "twscore","Integer","","Recommended","Total Weighted Score (sum of weighted aggression scores)","0::100","",""
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","rater"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "va","String","15","Recommended","Verbal Aggression Behaviors (select all that apply)","","0 = No verbal Aggression ; 1 = Shouts angrily, curses mildly, or makes personal insults ; 2 = Curses viciously, is severely insulting, has temper outbursts ; 3 = Impulsively threatens violence toward others or self ; 4 = Threatens violence toward others or self repeatedly or deliberately","va0,va1,va2,va3,va4"
 "aap","String","15","Recommended","Aggression Against Property Behaviors (select all that apply)","","0 = No aggression against property ; 1 = Slams door, rips clothing, urinates on floor ; 2 = Throws objects down, kicks furniture, defaces walls ; 3 = Breaks objects, smashes windows ; 4 = Sets fires, throws objects dangerously","aap0,aap1,aap2,aap3,aap4"
 "auto","String","15","Recommended","Autoaggression Behaviors (select all that apply)","","0 = No autoaggression ; 1 = Picks or scratches skin, pulls hair out, hits self (without injury) ; 2 = Bangs head, hits fists into walls, throws self onto floor ; 3 = Inflicts minor cuts, bruises, burns, or welts on self ; 4 = Inflicts major injury on self or makes a suicide attempt","auto0,auto1,auto2,auto3,auto4"

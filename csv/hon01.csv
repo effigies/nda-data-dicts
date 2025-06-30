@@ -38,5 +38,5 @@
 "hontot","Integer","","Recommended","HoNOSCA Total Score using imputed values","0::52","Items included in score: HON1RT through HON13RT",""
 "bsimo","Float","","Recommended","Months from Time 0 to assessment","","","honmo"
 "bsistm","Float","","Recommended","Months from SOFTAD enrollment date to assessment","","","honstm"
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "hon13ref","Integer","","Recommended","School/work reference","1;2","1=School; 2=work",""

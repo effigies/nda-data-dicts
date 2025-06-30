@@ -13,7 +13,7 @@
 "disorg_score","Integer","","Recommended","Calculated Disorganization Score","0::60","",""
 "realdis_score","Integer","","Recommended","Calculated Reality Distortion Score","0::60","",""
 "povsymp_score","Integer","","Recommended","Calculated Poverty Symptoms Score","0::60","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "medication_number","Integer","","Recommended","Medication number","1::60","1 = Medication 1; 60 = Medication 60",""
 "cpz_eq","Integer","","Recommended","CPZ Equivalent","","A CPZ-equivalent dose is typically defined as a dose of antipsychotic that is comparable to 100 mg of CPZ.",""
 "medication_name","String","255","Recommended","Name of medication","","",""

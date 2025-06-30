@@ -155,7 +155,7 @@
 "fhx09c","Integer","","Recommended","Other Anxiety Disorder: Father","0;1 ","1=Yes; 0=No",""
 "fhx09d","Integer","","Recommended","Other Anxiety Disorder: Siblings","0::99","",""
 "fhx09e","Integer","","Recommended","Other Anxiety Disorder: Child/Children","0::99","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
 "total_relatives","Integer","","Recommended","Total number of first-degree biological relatives, affected and unaffected, living and nonliving","","",""
 "psy_sib","Integer","","Recommended","Psychosis Sibling","0;1;2;-7","0=No; 1=Yes (Definite); 2= Probable; -7=Refused",""

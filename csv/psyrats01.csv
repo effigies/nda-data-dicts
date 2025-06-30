@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "psyrats_1","Integer","","Recommended","Auditory Hallucinations: Frequency","0::4","0= Not Present; 1= Voices occur for at least once a week; 2= Voices occur at least once a day; 3= Voices occur at least once a hour; 4= Voices occur continuously or almost continuously",""
 "psyrats_2","Integer","","Recommended","Auditory Hallucinations: Duration","0::4","0= Not Present; 1= Voices last for a few seconds, fleeting voices; 2= Voices last for several minutes; 3= Voices last for at least one hour; 4= Voices last for hours at a time",""
 "psyrats_3","Integer","","Recommended","Auditory Hallucinations: Location","0::4","0= Not Present; 1= Voices sound like they are inside head only; 2= Voices outside the head, but close to ears or head. Voices inside the head may also be present; 3= Voices sound like they are inside or close to ears and outside head away from ears; 4= Voices sound like they are from outside the head only",""

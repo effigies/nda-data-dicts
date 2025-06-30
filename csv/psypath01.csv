@@ -21,4 +21,4 @@
 "q17_b4_s2","String","30","Recommended","Other mood problem Specify 2","","Complete only if symptom  equals  1",""
 "demo_health_condsp","String","100","Recommended","Physical health conditions: specify","","",""
 "drugab_treatment","String","100","Recommended","Drug Abuse: treatment","","",""
-"treatment_name","String","200","Recommended","treatment name","","",""
+"treatment_name","String","200","Recommended","treatment name","","e.g., Control, Intervention, Experimental, Placebo",""

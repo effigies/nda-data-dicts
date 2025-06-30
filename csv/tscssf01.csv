@@ -25,6 +25,6 @@
 "tscs19","Integer","","Recommended","I'm an honest person.","1::5; 666; 777","1=Always False; 2=Usually False; 3=Sometimes True or Sometimes False; 4=Usually true; 5=Always True; 666=Missing; 777=Not applicable",""
 "tscs20","Integer","","Recommended","I feel good most of the time.","1::5; 666; 777","1=Always False; 2=Usually False; 3=Sometimes True or Sometimes False; 4=Usually true; 5=Always True; 666=Missing; 777=Not applicable",""
 "site","String","101","Recommended","Site","","Study Site",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "beh_health_screening","Integer","","Recommended","Behavioral health screening","0;1;777","0=Negative; 1=Positive; 777=Not applicable",""

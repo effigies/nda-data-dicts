@@ -49,7 +49,7 @@
 "energyoften","Integer","","Recommended","Energy drink amount per day, week or month?","1::3","1 = Days; 2 = Weeks; 3 = Months",""
 "medication_avg","Float","","Recommended","Average number of times taking sleep medication","","",""
 "medicationoften","Integer","","Recommended","Sleep medication amount per day, week or month?","1::3","1 = Days; 2 = Weeks; 3 = Months",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "coffee_avg","Float","","Recommended","Average number cups of coffee","","",""
 "coffeeoften","Integer","","Recommended","Coffee amount per day, week or month?","1::3","1 = Days; 2 = Weeks; 3 = Months",""
 "tea_avg","Float","","Recommended","Average number cups of tea","","",""

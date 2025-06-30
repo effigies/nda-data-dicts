@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "site","String","101","Recommended","Site","","Study Site","sitenumber"
 "visit_name","String","20","Recommended","session ID/screening ID","","","visitnumber"
-"visit","String","60","Recommended","Visit name","","","lec_date,visitlabel"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","lec_date,visitlabel"
 "subjecttype","String","20","Recommended","Subject Type","Control;Prodromal; Enhanced; Non-Enhanced","",""
 "life_1","Integer","","Recommended","1. Started school or a training program after not going to school for a long time","0;1","0=No; 1=Yes","life_events_1"
 "life_2","Integer","","Recommended","2. Changed schools or training programs","0;1","0=No; 1=Yes","life_events_2"

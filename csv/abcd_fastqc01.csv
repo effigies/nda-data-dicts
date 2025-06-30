@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "img03_id","Integer","","Recommended","Corresponds to row_id in image03 data structure, mapping derivative to source record in image03","","","image03_id"
 "origin_dataset_id","Integer","","Recommended","Origin dataset Id","","","dataset_id"
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "file_source","String","1024","Required","File name/location","","","image_file"
 "ftq_series_id","String","130","Recommended","Series identifier (subject_event_type_date_time)","","",""
 "abcd_compliant","Integer","","Recommended","Sequence parameters compliant with the ABCD imaging protocol","0 :: 1","0=Non ABCD Compliant; 1= ABCD Compliant","ftq_compliant"

@@ -10,4 +10,4 @@
 "scram_24hr_time","String","5","Recommended","24 Hour Time","","HH:MM","24hourtime"
 "scram_date","Date","","Recommended","Date from SCRAM","","MM/DD/YYYY","date"
 "scram_time","String","10","Recommended","Time from SCRAM","","HH:MM AM/PM","timefromscram"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

@@ -19,5 +19,5 @@
 "slope_nm_se","Float","","Recommended","Slope standard error in the NM stimulus condition, also output from 'robustfit'","0::3","",""
 "slope_ns","Float","","Recommended","Slope in the Narrow Short (NS) stimulus condition - regression slope of estimated duration via presented duration. we used the Matlab function 'robustfit'","-5::5","",""
 "slope_ns_se","Float","","Recommended","Slope standard error in the NM stimulus condition, also output from 'robustfit'","0::3","",""
-"data_file1","File","255","Recommended","Data file 1","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "taskdescription","String","50","Recommended","Longer description of the task.","","",""

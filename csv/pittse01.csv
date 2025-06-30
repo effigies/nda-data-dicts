@@ -20,4 +20,4 @@
 "pitt11","Integer","","Recommended","Hallucinations (see or hear things that aren't there)","0::3","0= None; 1= Mild; 2= Moderate; 3= Severe",""
 "pitt12","Integer","","Recommended","Loss of appetite","0::3","0= None; 1= Mild; 2= Moderate; 3= Severe",""
 "pitt13","Integer","","Recommended","Trouble sleeping (time went to sleep)","0::3","0= None; 1= Mild; 2= Moderate; 3= Severe",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

@@ -57,7 +57,7 @@
 "subu7b13_used_otherdrug_mo","Integer","","Recommended","Used OTHER DRUG, in past month","0;1;-8;-9","0= No; 1= Yes; -8= NA; -9= Missing",""
 "mtf_su_c_other_desc","String","1000","Recommended","If you indicated above that you have used any other drug(s) in the past 30 days, please list them here:","","",""
 "grad_freq_dec","Integer","","Recommended","Which drugs did you use in the past month? - Decline to answer","0;1","0 = No; 1 = Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "cahalan_4_2","String","50","Recommended","How often do you have X (maximum drinks in one sitting) number of drinks? Free response","","",""
 "drinking_group","Integer","","Recommended","Drinking Group score","1::5","1=Heavy Drinker; 2=Moderate Drinker; 3=Light Drinker; 4=Infrequent Drinker; 5=Abstainer",""
 "drinking_frequency","String","50","Recommended","Drinking Frequency score","","",""

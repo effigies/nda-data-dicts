@@ -17,7 +17,7 @@
 "adja5c","Integer","","Recommended","Admission to intensive outpatient treatment program, partial hospitilization program, or equivalent","0;1","1=Yes; 0=No Indicate all criteria defining the study endpoint (select all that apply):",""
 "adja5d","Integer","","Recommended","A substantial increase in frequency of outpatient visits","0;1","1=Yes; 0=No Indicate all criteria defining the study endpoint (select all that apply):",""
 "adja6","Integer","","Recommended","Date of endpoint review/adjudication","0::999","",""
-"version_form","String","121","Recommended","Form used/assessment name","","","vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","vers"
 "fseqno","Integer","","Recommended","Sequence Number","0::999","The FSEQNO variable in the ADJ form has a special interpretation compared to other forms.
 For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' can be thought of as
 being '002', and FSEQNO of '3' can be thought of as being '003'.

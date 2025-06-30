@@ -21,7 +21,7 @@
 "csqa9","Integer","","Recommended","Question 9: How happy are you with how much  treatment helped you/your child?","1::7","1 = Very Unhappy 2 = Unhappy 3 = Slightly Unhappy 4 = Neutral 5 = Slightly Happy 6 = Happy 7 = Very Happy","csqp11"
 "csqa10","Integer","","Recommended","Question 10: Before starting treatment, the way I thought about my future/my child future was:","1::7","1 = Very Negative 2 = Negative 3 = Slightly Negative 4 = Neutral 5 = Slightly Positive 6 = Positive 7 = Very Positive","csqp12"
 "csqa11","Integer","","Recommended","Question 11: Now, the way I think about my future/my child future is:","1::7","1 = Very Negative 2 = Negative 3 = Slightly Negative 4 = Neutral 5 = Slightly Positive 6 = Positive 7 = Very Positive","csqp13"
-"visit","String","60","Recommended","Visit name","","","timept"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timept"
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","csdays,daypsq"
 "truncvis","Integer","","Recommended","Truncated Visit Number","","""Created variable: provides a numeric visit number for all visits, including unscheduled and end of phase""",""
 "psq1","Integer","","Recommended","C: How would you rate the quality of care you have received? P: How would you rate the quality of care your child has received?","1::4","1 = Poor; 2 = Fair; 3 = Good; 4 = Excellent","csq8_01,end_6,eos_1"

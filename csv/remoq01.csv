@@ -13,6 +13,6 @@
 "remoq6","Integer","","Recommended","I was interested in getting drawn into the task really experiencing it","0::9","0 = Not at all; 2 = Rarely; 4/5 = Occasionally; 7 = Often; 8 = All the time",""
 "remoq7","Integer","","Recommended","I focused on the less emotional details of the task or shifted my gaze when I thougth I might see something upsetting","0::9","0 = Not at all; 2 = Rarely; 4/5 = Occasionally; 7 = Often; 8 = All the time",""
 "remoq8","Integer","","Recommended","I reocgnized what I was feeling during the task but didn't try to change what I was feeling","0::9","0 = Not at all; 2 = Rarely; 4/5 = Occasionally; 7 = Often; 8 = All the time",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "session_time","Integer","","Recommended","Pretreatment, mid-treatment, post-treatment","1::4","1 = pre-treatment; 2 = mid-treatment; 3 = post-treatment; 4 = follow-up",""
 "session_timepoint","Integer","","Recommended","timepoint during lab session","1::4","1 = baseline; 2 = after neutral prompt; 3 = after first unpleaseant prompt; 4 = after second unpleasant prompt",""

@@ -15,7 +15,7 @@
 "meanrc1","Float","","Recommended","MHSIP-Recovery and Stigma","","meanRC1=6-((RC1A+RC1B+RC1C+RC1D+RC1E)/5)",""
 "meanrc2","Float","","Recommended","MARS-Recovery and Stigma","","meanRC2=(RC2A+RC2B+RC2C)/3",""
 "meanrc","Float","","Recommended","Combined-Recovery and Stigma","","meanRC=(meanRC2+meanRC1)/2",""
-"visit","String","60","Recommended","Visit name","","","timept"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timept"
 "site","String","101","Recommended","Site","","Study Site",""
 "days_baseline","Integer","","Recommended","Days since baseline","","","qlrdidays,srrdays"
 "srr1","Integer","","Recommended","As a direct result of services I received, I deal more effectively with daily problems","1::5","1 = Strongly Agree;2 = Agree;3 = Neutral;4 = Disagree;5 = Strongly Disagree",""

@@ -5,7 +5,7 @@
 "patid","String","20","Recommended","A Participant ID","","",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "abc_date","Integer","","Recommended","ABC Date","","","q12_date,q35_date"
 "abc_hy_active","Integer","","Recommended","Excessively active at home, school, work or elsewhere","0; 1; 2; 3; 999","0 = Not at all a problem; 1 = The behavior is a problem but slight in degree; 2 = The problem is moderately serious; 3 = The problem is severe in degree; 999 = Missing value","q12_1,q35_1"
 "abc_hy_attn","Integer","","Recommended","Does not pay attention to instructions","0; 1; 2; 3","0 = Not at all a problem; 1 = The behavior is a problem but slight in degree; 2 = The problem is moderately serious; 3 = The problem is severe in degree","q12_28,q35_28"

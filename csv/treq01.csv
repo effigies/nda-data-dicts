@@ -28,5 +28,5 @@
 "trtend","Integer","","Recommended","The treatment ended","1::3","1=Well; 2=Adequately; 3=Poorly",""
 "trtfdbck","String","250","Recommended","Treatment feedback - TEXT","","",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "days_baseline","Integer","","Recommended","Days since baseline","","",""

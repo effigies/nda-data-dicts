@@ -146,7 +146,7 @@
 "epiminn_edu_hours","Integer","","Recommended","What is the average number of hours per week you were employed or in school in the previous 6 months?","1::5;-997;-998","1=None; 2=1-7 hours; 3=8-20 hours; 4=21-31 hours; 5=32 or more hours; -997=Missing; -998=Not collected at this time point",""
 "epiminn_edu_drop","Integer","","Recommended","Have you dropped any classes in the past six months?","1::3;-997;-998","1=Yes; 2=No; 3=Unknown; -997=Missing; -998=Not collected at this time point",""
 "epiminn_edu_back","Integer","","Recommended","Do you want to go back to school?","1::3;-997;-998","1=Yes; 2=Somewhat; 3=No; -997=Missing; -998=Not collected at this time point",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "months_btwn_psyonset_meds","Integer","","Recommended","Months between onset of symptoms and first antipsychotic medication","-2::840;-9","Duration in months; -1=Properly skipped; -2=Not collected at this time point; -9=Missing",""
 "months_btwn_meds_csc","Integer","","Recommended","Months between first antipsychotic medication and admission to the program","-2::840;-9","Duration in months; -1=Properly skipped; -2=Not collected at this time point; -9=Missing",""
 "months_btwn_mh_tx_csc","Integer","","Recommended","Months between mental health treatment after onset of symptoms and admission to the program","-2::840;-9","Duration in months; -1=Properly skipped; -2=Not collected at this time point; -9=Missing",""

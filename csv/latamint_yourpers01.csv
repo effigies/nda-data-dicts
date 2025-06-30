@@ -43,5 +43,5 @@
 "persk_1","Integer","","Recommended","I love to tackle new projects even if they are risky.","0::4","0 = Not at all like you; 1 = A little; 2 = Somewhat; 3 = A lot; 4 = Exactly like you",""
 "persk_2","Integer","","Recommended","I often get many great ideas.","0::4","0 = Not at all like you; 1 = A little; 2 = Somewhat; 3 = A lot; 4 = Exactly like you",""
 "persk_3","Integer","","Recommended","I have abilities and expertise in many fields.","0::4","0 = Not at all like you; 1 = A little; 2 = Somewhat; 3 = A lot; 4 = Exactly like you",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

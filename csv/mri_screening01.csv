@@ -64,7 +64,7 @@
 "scan_rason","Integer","","Recommended","If scan not scheduled, please specify reason","1::3","1=Not interested; 2=Screen failure; 3=Other",""
 "scan_othersp","String","30","Recommended","Scan no scheduled, if other please specify","","","other_s"
 "mri_mock","Integer","","Recommended","MRI MOCK-Pass?","0;1","0=No; 1=Yes",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "mri_problem","Integer","","Recommended","Have you experienced any problem related to a previous MRI examination or MR procedure","0;1","0=No; 1=Yes",""
 "mri_medication","Integer","","Recommended","Are you currently taking or have you recently taken any medication or drug?","0;1","0=No; 1=Yes","medications"

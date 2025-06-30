@@ -14,6 +14,6 @@
 "teacher","Integer","","Recommended","Are you taught by more than one teacher every day?","0;1;-99","0=No; 1= Yes; -99= Missing",""
 "teachyes","Integer","","Recommended","If yes, how many teachers do you have each day?","","Number of Teachers; -99= Missing",""
 "long","String","50","Recommended","How long have you attended your school?","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "many_describe","String","200","Recommended","Please describe, the number of kids that go to your school?","","",""
 "teachyes_describe","String","200","Recommended","Please describe, the number of teachers you have each day?","","",""

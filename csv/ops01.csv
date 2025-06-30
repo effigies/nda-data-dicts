@@ -17,4 +17,4 @@
 "pcoleary9","Integer","","Recommended","9. How often do you and/or your spouse display verbal hostility in front of this child?","-999;0::4","0 = Never; 1 = Rarely; 2 = Occasionally; 3 = often; 4 = Very Often; -999 = Missing/NA",""
 "pcoleary10","Integer","","Recommended","10. How often do you and your spouse display affection for each other in front of this child?","-999;0::4","0 = Never; 1 = Rarely; 2 = Occasionally; 3 = often; 4 = Very Often; -999 = Missing/NA",""
 "pcoleary11","Integer","","Recommended","Total Overt Hostility Score (min=0, max=40)","0::40","Sum of items with #10 reverse-scored",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

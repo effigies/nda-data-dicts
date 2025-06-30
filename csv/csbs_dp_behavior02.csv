@@ -307,7 +307,7 @@
 "total_perc","Float","","Recommended","Total percentile rank","","","total_percentile"
 "total_concern","String","20","Required","Total concern","Yes; No; 999","999 = Missing value",""
 "validity_of_data","Integer","","Recommended","Validity of data","0::4; 999","0= raw; 1 = Valid or clean; 2 = Question validity; 3 = Invalid data; 4 = Not answered; 999= missing",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "bonuwic","Integer","","Recommended","Unweighted frequency of intentional communication","0::999","999 = Missing value","csnuwic"
 "bownic","Integer","","Recommended","Weighted frequency of intentional communication","0::999","999 = Missing value","cswnic"
 "csplay","Integer","","Required","Play scaled score","","999 = Missing value",""

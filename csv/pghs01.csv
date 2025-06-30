@@ -30,7 +30,7 @@ average?","0::10; -999","0=No pain; 10=Worst imaginable pain; -999 = Missing","p
 "promis6","Integer","","Recommended","How often have you been bothered by feeling depressed?","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always",""
 "promis7","Integer","","Recommended","How often have you been bothered by feeling irritable?","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always",""
 "promis8","Integer","","Recommended","How would you rate your fatigue on average?","1::5","1=None; 2=Mild; 3=Moderate; 4= Severe; 5=Very Severe",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "promis_global10ra","Integer","","Recommended","How often have you been bothered by emotional problems such as feeling anxious, depressed, or irritable?","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""
 "global03","Integer","","Recommended","In general, how would you rate your physical health?","1::5","5=Excellent; 4=Very good; 3=Good; 2=Fair; 1=Poor","qol_3"
 "global04","Integer","","Recommended","In general, how would you rate your mental health, including your mood and your ability to think?","1::5","5=Excellent; 4=Very good; 3=Good; 2=Fair; 1=Poor","qol_4"

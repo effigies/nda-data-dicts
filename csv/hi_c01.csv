@@ -25,7 +25,7 @@
 "numbercells","Integer","","Recommended","Number of cells or nuclei sequenced","","",""
 "pcrcycles","Integer","","Recommended","Number of PCR cycles to amplify transposased DNA fragments","","",""
 "validhiccontacts","Float","","Recommended","Percentage of reads as valid Hi-C interactions (QC metric)","","",""
-"data_file1","File","255","Recommended","Data file 1","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "data_file1_type","String","300","Recommended","type of data file 1","","",""
 "readlength_max","Float","","Recommended","The maximum length of the read","","",""
 "readlength_min","Float","","Recommended","The minimum length of the read","","",""

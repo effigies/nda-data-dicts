@@ -104,4 +104,4 @@
 "fpb_rt23","Float","","Recommended","FPA, task23, reaction time","","Millisecond",""
 "fpb_rt24","Float","","Recommended","FPA, task24, reaction time","","Millisecond",""
 "fpb_rt25","Float","","Recommended","FPA, task25, reaction time","","Millisecond",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

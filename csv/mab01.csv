@@ -382,7 +382,7 @@
 "devhis_8_other3_tmswk","Integer","","Recommended","Before the biological mother found out she was pregnant, but while she might have been pregnant with this child: Specify: Drug use? Name of drug 3: How many times per week?","","","devhx_8_other3_tmswk"
 "devhis_8_other4_name","String","100","Recommended","Before the biological mother found out she was pregnant, but while she might have been pregnant with this child: Specify: Drug use? Name of drug 4: ","","","devhx_8_other4_name"
 "comqother","String","255","Recommended","Respondent - Other (text)","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "devhis_8_med1_prn","Integer","","Recommended","Before the biological mother found out she was pregnant, but while she might have been pregnant with this child: Medication 1: Were the prescription medications used PRN (as needed)?","0;1; 999","0=No; 1=Yes; 999=Don't know",""
 "devhis_19b_p_dk","Integer","","Recommended","At approximately what age (number of months) was he/she FIRST able to sit without assistance? Don't know.","999","999=Don't know",""
 "devhis_19c_p_dk","Integer","","Recommended","At approximately what age (number of months) was he/she FIRST able to walk without assistance? Don't know.","999","999=Don't know",""

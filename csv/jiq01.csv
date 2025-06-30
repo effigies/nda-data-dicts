@@ -633,7 +633,7 @@
 "j2q25h","Integer","","Recommended","Other 12: days on probation and/or being monitored","","",""
 "j2q25i","Integer","","Recommended","Other 12: days of boot camp and/or similar residential confinement","","",""
 "j2q25j","Integer","","Recommended","Other 12: days of juvenile detention and/or prison/jail","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "days_probation","Integer","","Recommended","During the past [version_form], on how many days have you been on probation?","","Number of days",""
 "days_parole","Integer","","Recommended","During the past [version_form], on how many days have you been on parole?","","Number of days",""
 "days_detention","Integer","","Recommended","During the past [version_form], on how many days have you been in juvenile detention?","","Number of days",""

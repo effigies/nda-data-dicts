@@ -10,7 +10,7 @@
 "color_trinum","Integer","","Recommended","Tritan Section: Numertor","0::99","",""
 "color_triden","Integer","","Recommended","Tritan Section: Denominator","0::99","",""
 "color_tripas","Integer","","Recommended","Tritan Section: Pass? (Pass criteria=10/12)","1;2","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "color_d15","Integer","","Recommended","Main test: D15?","1;2","1=Yes; 2=No",""
 "color_gennum_2","Integer","","Recommended","RE-Test 2: General Section: Numertor","0::99","",""
 "color_enden_2","Integer","","Recommended","RE-Test 2: General Section: Denominator","0::99","",""

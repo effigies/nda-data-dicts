@@ -249,7 +249,7 @@
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","family_history,ssfhnt00,sssfnot06,sssfnot09,sssfnotxx"
 "ssgerd00","Integer","","Recommended","Has your child been diagnosed with pyloric stenosis or Gastroesophageal Reflux (GERD)?  ","0;1","0= No; 1= Yes",""
 "ethnic_group","String","255","Recommended","Ethnic group","","","ssfheth00"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "sspredch","Integer","","Recommended","Change in parent education (y/n)","0;1","0= No; 1= Yes","sspred06,sspred09"
 "ssmeduch","String","20","Recommended","Mother education change","","","ssmedu06,ssmedu09"
 "ssfeduch","String","20","Recommended","Father education change","","","ssfedu06,ssfedu09"

@@ -95,7 +95,7 @@
 "ae14_outcome","Integer","","Recommended","Adverse Event 14 Outcome","1::19; -9; 999","1 = Resolved without effects; 2 = Resolved with effects; 3 = Ongoing; 4 = Death; 5 = Unknown; 6=AE Still Present-No Treatment; 7=AE Still Present-Being Treated; 8=Residual Effect(s) Present-No Treatment; 9=Residual Effect(s) Present-Being Treated; 10=Change in severity, status, or characteristic ; 11=Lost to follow up; 12=Other; -9=unknown;13= not recovered/not resolved; 14= recovered/resolved with sequelae; 15 = recovered/resolving; 16 = returned to baseline; 17 = Recovered/Resolved; 18 = Recovering/Resolving; 19 = Worsened",""
 "ae14_action","Integer","","Recommended","Adverse Event 14 Action Taken","1 :: 4","1 = drug interrupted; 2 = drug withdrawn; 3 = not applicable; 4 = unknown",""
 "ae14_serious","Integer","","Recommended","Adverse Event 14 Serious (yes/no)","0 :: 1","0 = no; 1 = yes",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "ae8_name","String","500","Recommended","Adverse Event 8 Name","","",""
 "ae8_startdate","Date","","Recommended","Adverse Event 8 Start Date","","",""
 "ae8_stopdate","Date","","Recommended","Adverse Event 8 Stop Date","","",""

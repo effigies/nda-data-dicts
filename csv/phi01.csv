@@ -521,7 +521,7 @@
 "phi_q48","Integer","","Recommended","How many times per week did you participate in any physical activities or exercises such as running, calisthenics, golf, gardening, or walking for exercise?","","Number of times per week",""
 "phi_q49","Integer","","Recommended","During the past month, did you do physical activities or exercises to strengthen your muscles?","0;1","0=No; 1=Yes",""
 "phi_q50","Integer","","Recommended","How many times per week did you do physical activities or exercises to strengthen your muscles?","","Number of times per week",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "responseid","Integer","","Recommended","Randomly generated response ID number","","",""
 "startdatetime","String","20","Recommended","Date & time participant started survey for a given timepoint","","MM/DD/YYYY 24:00",""
 "enddatetime","String","20","Recommended","Date & time participant ended survey for a given timepoint","","MM/DD/YYYY 24:00",""

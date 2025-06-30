@@ -411,6 +411,6 @@
 "saftee_meds4","Date","50","Recommended","If you are currently taking any other medications (prescription or over the counter)... Date stopped:","","MM/DD/YYYY Specify date stopped:",""
 "saftee_medsnotes","String","200","Recommended","Notes for ... Are you currently taking any other medications (prescription or over the counter)?","","Specify notes",""
 "stime","String","20","Recommended","Session time","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""

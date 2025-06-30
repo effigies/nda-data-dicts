@@ -115,7 +115,7 @@
 "rrsa39","Float","","Recommended","30 seconds of Respiratory Sinus Arrhythmia (RSA) during recovery task; 19:00-19:30 (minutes:seconds) of task.","0 :: 20","Measured in change in beats per minute (BPM)",""
 "rrsa40","Float","","Recommended","30 seconds of Respiratory Sinus Arrhythmia (RSA) during recovery task; 19:30-20:00 (minutes:seconds) of task.","0 :: 20","Measured in change in beats per minute (BPM)",""
 "rrsa41","Float","","Recommended","30 seconds of Respiratory Sinus Arrhythmia (RSA) during recovery task; 20:00-20:30 (minutes:seconds) of task.","0 :: 20","Measured in change in beats per minute (BPM)",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "rrsa42","Float","","Recommended","30 seconds of Respiratory Sinus Arrhythmia (RSA) during recovery task; 20:30-21:00 (minutes:seconds) of task.","0 :: 20","Measured in change in beats per minute (BPM)",""
 "rrsa43","Float","","Recommended","30 seconds of Respiratory Sinus Arrhythmia (RSA) during recovery task; 21:00-21:30 (minutes:seconds) of task.","0 :: 20","Measured in change in beats per minute (BPM)",""
 "rrsa44","Float","","Recommended","30 seconds of Respiratory Sinus Arrhythmia (RSA) during recovery task; 21:30-22:00 (minutes:seconds) of task.","0 :: 20","Measured in change in beats per minute (BPM)",""

@@ -100,4 +100,4 @@
 "aleq5","Integer","","Recommended","Please answer how often the following events have happened to you in the past 3 months: You and your family moved to a new town, but you didn't want to move","0::4","0= Never ; 1= Rarely ; 2= Sometimes ; 3= Frequently ; 4= Always",""
 "aleq6","Integer","","Recommended","Please answer how often the following events have happened to you in the past 3 months: You had an argument with a close family member (parent, brother, sister)","0::4","0= Never ; 1= Rarely ; 2= Sometimes ; 3= Frequently ; 4= Always",""
 "aleq7","Integer","","Recommended","Please answer how often the following events have happened to you in the past 3 months: A close family member (parent, brother, sister) lost their job","0::4","0= Never ; 1= Rarely ; 2= Sometimes ; 3= Frequently ; 4= Always",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

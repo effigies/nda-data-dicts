@@ -52,5 +52,5 @@
 "days_baseline","Integer","","Recommended","Days since baseline","","",""
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
 "me2","Integer","","Recommended","Status","0;1","0 = Past [Inactive]; 1 = Active",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

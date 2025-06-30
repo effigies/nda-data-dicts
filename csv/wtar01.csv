@@ -219,7 +219,7 @@
 "assessment_complete","Integer","","Recommended","Complete?","0::2","0=Incomplete; 1=Unverified; 2=Complete","wtar_complete,wtar_summary_sheet_complete"
 "ccc2english","Integer","","Recommended","Does the subject speak English as a primary language?","0;1;-9","0 = No; 1 = Yes; -9 = Missing value","wtar_english_first,wtarsum_eng_first_lang"
 "comments","String","4000","Recommended","Comments about assessment","","","wtar_note,wtar_notes,wtarsum_notes"
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "bkgrnd_education","String","1020","Recommended","Subject's education (school and preschool)","","","edu_year"
 "education_comp","Integer","","Recommended","How much education have you completed?","1::7","1=4th-5th grade; 2=6th-8th grade; 3=9th - 12th grade; 4=HS diploma; 5=Earned GED; 6=Some college; 7=College degree",""
 "wtartscore","Integer","","Recommended","WTAR T Score","","",""

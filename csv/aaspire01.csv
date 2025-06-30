@@ -107,7 +107,7 @@
 "suppre_suptype5","String","255","Recommended","Which of the following describes your relationship to the patient you are supporting? (Other)","0;1","0=no; 1=yes",""
 "sup_preconf_included","Integer","","Recommended","How confident are you that the patient is being included in healthcare decisions as much as possible?","1::10","1= Not at all confident; 10= Totally confident","sup_postconf_included"
 "sup_pronoun","Integer","","Recommended","The personalized report for the patient's doctor will need to refer to the patient using a pronoun. The options available right now are ""he"" and ""she"" We apologize that we cannot offer additional options at this time. Which pronoun does the patient wish to use?","0; 1","0= she/her/hers; 1= he/him/his",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "aut_prebarrier_receive1","Integer","","Recommended","Which of the following barriers keep you from receiving good healthcare? (Select all that apply) 
 (I do not have a way to get to my doctor's office.)","0;1","0= no; 1= yes","faut_prebarrier_receive1"
 "aut_prebarrier_receive2","Integer","","Recommended","Which of the following barriers keep you from receiving good healthcare? (Select all that apply) (It is too difficult to make appointments / I find it too hard to seek primary care or follow-up with primary care.)","0;1","0= no; 1= yes","faut_prebarrier_receive2"
@@ -220,7 +220,7 @@
 "ohc_know___8","Integer","","Recommended","How do you know this information? (Check all that apply.) None of the above","0;1","0 = No; 1 = Yes",""
 "ohc_know_other","String","200","Recommended","How do you know this information? (Check all that apply.) Other: please write in","","",""
 "ohc_confident","Float","","Recommended","On a scale of 0  to 10, how confident are you about your responses?","0::10","0 = Not at all confident; 10 = Totally confident",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "oh_qol","Integer","","Recommended","In general, how (Direct Report: would you / Caregiver Report: do you think they would) rate (your/their): Quality of life","1::5","1 = Poor; 2=Fair; 3=Good; 4=Very Good; 5 = Excellent",""
 "oh_physical_health","Integer","","Recommended","In general, how (Direct Report: would you / Caregiver Report: do you think they would) rate (your/their): Physical health","1::5","1 = Poor; 2=Fair; 3=Good; 4=Very Good; 5 = Excellent",""
 "oh_mental_health","Integer","","Recommended","In general, how (Direct Report: would you / Caregiver Report: do you think they would) rate (your/their): Mental health","1::5","1 = Poor; 2=Fair; 3=Good; 4=Very Good; 5 = Excellent",""

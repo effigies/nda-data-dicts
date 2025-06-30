@@ -21,7 +21,7 @@
 "beeg_bio_ua","Integer","","Recommended","Biomotion BIO Trials Unattended","0::56; -999","-999= Invalid",""
 "beeg_complete","Integer","","Recommended","Biomotion Completed","0;1;2","0= NO DATA; 1= INCOMPLETE; 2= COMPLETE",""
 "beeg_data_whyno","Integer","","Recommended","Biomotion Data Why No","1::10","1= did not run withdrawn; 2= did not run eeg; 3= did not run experiment; 4= child noncompliance; 5= equipment error; 6= experimenter error; 7= failed pipeline; 8= no dv t",""
-"version_form","String","121","Recommended","Form used/assessment name","","","beeg_derived_results_version"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","beeg_derived_results_version"
 "beeg_dropped","Integer","","Recommended","Biomotion Experiment Dropped","0;1","0= False; 1= True",""
 "beeg_include","Integer","","Recommended","Biomotion Included?","0;1","0= No; 1= Yes
 ",""

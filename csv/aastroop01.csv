@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "aast_negap_hit","Integer","","Recommended","Reaction time (milliseconds) for Negative (non-threat)-valenced approach trials, hits only","150::10000","",""
-"version_form","String","121","Recommended","Form used/assessment name","","","aast_cb"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","aast_cb"
 "aast_negav_hit","Integer","","Recommended","Reaction time (milliseconds) for Negative  (non-threat)-valenced avoid trials, hits only","150::10000","",""
 "aast_neutap_hit","Integer","","Recommended","Reaction time (milliseconds) for Neutral-valenced approach trials, hits only","150::10000","",""
 "aast_neutav_hit","Integer","","Recommended","Reaction time (milliseconds) for Neutral-valenced avoid trials, hits only","150::10000","",""

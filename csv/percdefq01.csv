@@ -25,7 +25,7 @@
 "percdefq_19","Integer","","Recommended","Forget what you did last weekend?","0::4","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Almost Always","v10_pdq_19forget_meds,v2_pdq_19forget_meds,v4_pdq_19forget_meds"
 "percdefq_20","Integer","","Recommended","Have trouble making decisions?","0::4","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Almost Always","v10_pdq_20trouble_decisions,v2_pdq_20trouble_decisions,v4_pdq_20trouble_decisions"
 "percdefq_ts","Integer","","Required","Perceived Deficits Questionnaire Total Score","0::80","","v10_pdq_totalscore,v2_pdq_totalscore,v4_pdq_totalscore"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "b_pdqex","Integer","","Recommended","Peceived Deficit Executive Function ","","",""
 "b_pdqmem","Integer","","Recommended","Perceived Deficit Memory ","","",""
 "percdefq_acs","Integer","","Recommended","Attention/Concentration Subscale","0::20","Raw scores on Items 1,5,9,13,17",""

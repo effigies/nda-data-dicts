@@ -5,7 +5,7 @@
 "patid","String","20","Recommended","A Participant ID","","",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "sens_ap_ears","Integer","","Recommended","Holds hands over ears to protect ears from sound","1; 2; 3; 4; 5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""
 "sens_ap_func","Integer","","Recommended","Is distracted or has trouble functioning if there is a lot of noise around","0;1; 2; 3; 4; 5","0=Does not apply; 1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""
 "sens_ap_negrs","Integer","","Recommended","Responds negatively to unexpected or loud noises (for example, cries or hides at noise from vacuum cleaner, dog barking, hair dryer)","1; 2; 3; 4; 5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""

@@ -8,4 +8,4 @@
 "dysreg_emo01","Integer","","Recommended","Emotional Dysregulation Scale: This scale is intended to capture emotion dysregulation.","0 :: 4","0= None Present; 1= Low Rating; 2= Moderate Rating; 3= Moderate to High Degree; 4= Very High Degree",""
 "dysreg_beh01","Integer","","Recommended","Behavior Dysregulation Scale: This scale is intended to capture behavior dysregulation. Both active and passive count but active is held much more regularly","0 :: 4","0= None Present; 1= Low Rating; 2= Moderate Rating; 3= Moderate to High Degree; 4= Very High Degree",""
 "dysreg_over01","Float","","Recommended","Overall Dysregulation Score:","","sum= average of emotional and behavior",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

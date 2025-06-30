@@ -8,5 +8,5 @@
 "nycfu01a","Integer","","Recommended","Enter the Day the intervention was provided:","","Number of days between study baseline and date intervention was provided",""
 "nyc01","Integer","","Recommended","Was intervention provided to the care","0;1","0=No; 1=Yes",""
 "nyc01a","Integer","","Recommended","Enter the Day the intervention was provided:","","Number of days between study baseline and date intervention was provided",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""

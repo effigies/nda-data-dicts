@@ -346,7 +346,7 @@
 "treathx10_othtx_s2","String","100","Recommended","Specify:","","",""
 "treathx10_othtx_hr2","Integer","","Recommended","Hours per week","0::168","",""
 "treathx10_othtx_wk2","Integer","","Recommended","# of weeks per year","0::52","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "fdh_respondent_relation","String","30","Recommended","relationship of the respondent to the participant","","","interviewee"
 "psintv_pt","Integer","","Recommended","Which of the following interventions did your child receive? (choice=Physical Therapy)","0;1","0=Unchecked; 1=Checked","treathx3_phy_rcvtherapy24"
 "treathx_slsch_rcvtherapy0","Integer","","Recommended","Speech/Language Therapy School Therapist: Has your child received this type of therapy","0;1","1=Yes, 0=No",""

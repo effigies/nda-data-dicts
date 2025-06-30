@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
 "src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "age_days_dot_to_dob","Integer","","Recommended","Age in days obtained by subtracting the date of birth from the date of test","","","Pubertal_Status_Age_Days_DOT_to_DOB"
 "admin_status","String","20","Recommended","Instrument administration status","Complete;Partial;Not Administered;Not Applicable","","Pubertal_Status_Administration_Status"
 "ps_boys_q1_height_growth_spurt","String","2","Recommended","Pubertal Status Questionnaire (Boys): Q1 height growth spurt (1=Not Started; 2=Barely Started; 3=Definitely Under Way; 4=Completed)","1;2;3;4","1 = Not started; 2 = Barely started; 3 = Definitely under way; 4 = Completed","Pubertal_Status_BOYS_Q1_Height_Growth_Spurt"

@@ -7,4 +7,4 @@
 "sam_valence","Integer","","Recommended","SAM Valence/Pleasure rating","1::9","1 = Negative (Unpleasant/Unhappy); 9 = Positive (Pleasant/Happy)",""
 "sam_arousal","Integer","","Recommended","SAM Arousal rating","1::9","1 = Low (Calm); 9 = High (Excited)",""
 "sam_dominance","Integer","","Recommended","SAM Dominance rating","1::9","1 = Low (No Control/Controlled); 9 = High (Full Control/Controlling)",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

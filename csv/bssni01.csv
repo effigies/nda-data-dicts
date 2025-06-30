@@ -20,4 +20,4 @@
 "bssni7bs","Integer","","Recommended","How many people can you count on to listen to you when you need to talk?","0::4","0 = None; 1 = 1 or 2; 2 = 3 to 5; 3 = 6 to 9; 4 = 10 or more",""
 "bssni9bs","Integer","","Recommended","How many people show you love and affection?","0::4","0 = None; 1 = 1 or 2; 2 = 3 to 5; 3 = 6 to 9; 4 = 10 or more",""
 "bssni11bs","Integer","","Recommended","How many people do you feel close to and can have as much contact as you would like to with them (e.g., someone whom you can trust and confide)?","0::4","0 = None; 1 = 1 or 2; 2 = 3 to 5; 3 = 6 to 9; 4 = 10 or more",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

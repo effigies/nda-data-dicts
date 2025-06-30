@@ -25,4 +25,4 @@
 "ambi_ls","Integer","","Recommended","AMBI Low sociability scale","","12, 14, 15.",""
 "ambi_ra","Integer","","Recommended","AMBI Risk avoidance scale","","7, 13, 16.",""
 "ambi_total","Integer","","Recommended","AMBI Total score","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

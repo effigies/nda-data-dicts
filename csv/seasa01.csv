@@ -16,7 +16,7 @@
 "asrrm2","Integer","","Recommended","If you have thoughts of killing yourself in the future, how confident are you that you will be able to keep yourself from attempting suicide?","0::10","0=Not at all confident; 5=Somewhat confident; 10=Completely confident",""
 "asrrm3","Integer","","Recommended","If you have thoughts of killing yourself in the future, how confident are you that you will tell someone?","0::10","0=Not at all confident; 5=Somewhat confident; 10=Completely confident",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "opt1","Integer","","Recommended","How hopeful and optimistic are you about the future?","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Quite a bit; 5= Very much",""
 "und1","Integer","","Recommended","How much do people in your family understand you?","1::5","1= Not at all; 2= Just a little; 3= Somewhat; 4= Quite a bit; 5= Very much",""
 "attn1","Integer","","Recommended","How much does your family pay attention to you?","1::5","1= Not at all; 2= Just a little; 3= Somewhat; 4= Quite a bit; 5= Very much",""

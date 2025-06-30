@@ -63,4 +63,4 @@
 "upps_57","Integer","","Recommended","When I am very happy, I feel like it is ok to give in to cravings or overindulge.","1::4;98","1=Agree Strongly; 2=Agree Somewhat; 3=Disagree Somewhat; 4=Disagree Strongly; 98=No answer",""
 "upps_58","Integer","","Recommended","Sometimes I do impulsive things that I later regret.","1::4;98","1=Agree Strongly; 2=Agree Somewhat; 3=Disagree Somewhat; 4=Disagree Strongly; 98=No answer",""
 "upps_59","Integer","","Recommended","I am surprised at the things I do while in a great mood.","1::4;98","1=Agree Strongly; 2=Agree Somewhat; 3=Disagree Somewhat; 4=Disagree Strongly; 98=No answer",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

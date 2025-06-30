@@ -35,7 +35,7 @@
 "observation_b_8","String","255","Recommended","Description of a Picture","","","pubertyg_20pic"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "visit_num","Integer","","Recommended","Visit number","1::3","1=Baseline, 2=12 Month, 3=24 Month",""
-"visit","String","60","Recommended","Visit name","","","stais_visit"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","stais_visit"
 "pb_height","Integer","","Recommended","How happy are you with your height?","1::5","1=very unhappy; 2=somewhat unhappy; 3=neither unhappy nor happy; 4=somewhat happy; 5=very happy","pg_height"
 "pb_weight","Integer","","Recommended","How happy are you with your weight?","1::5","1=very unhappy; 2=somewhat unhappy; 3=neither unhappy nor happy; 4=somewhat happy; 5=very happy","pg_weight"
 "pb_build","Integer","","Recommended","How happy are you with your overall body build?","1::5","1=skinny; 2=somewhat skinny; 3=average; 4=somewhat fat; 5=fat","pg_build"

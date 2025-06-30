@@ -231,7 +231,7 @@
 "demo_partner_occupation","String","100","Recommended","Spouse/partner Occupation","","","spouse_type_work"
 "resp_occupation","String","255","Recommended","Respondent's occupation","","","subject_type_work"
 "q056_d_eyes_describe","String","100","Recommended","56d. Problems with eyes (not if corrected by glasses) (describe):","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "ysr_63","Integer","","Recommended","56h. Physical problems without known medical cause: Other physical problems without known medical cause","0::2;999","0=Not True; 1 = Somewhat or Sometimes True; 2=Very True or Often True; 999=Missing value","abcl056,abcl_84"
 "swears_spouse","Integer","","Recommended","II-I. Insults or swears at spouse or partner.","0::2","0 = Not True (as far as you know), 1 = Somewhat or Sometimes True, 2 = Very True or Often True","abcl_23,abcl_9,swears_you"
 "yells_spouse","Integer","","Recommended","II-J. Yells or shouts at spouse or partner.","0::2","0 = Not True (as far as you know), 1 = Somewhat or Sometimes True, 2 = Very True or Often True","abcl_10,abcl_24,yells_you"

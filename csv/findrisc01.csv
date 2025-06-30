@@ -14,6 +14,6 @@
 "findrisc_8","Integer","","Recommended","Have any members of your patient's immediate family or other relatives (only blood relatives) been diagnosed with diabetes (type 1 or type 2)?","0;3;5","0=No; 3=Yes; grandparent, aunt, uncle, or first cousin; 5=Yes: parent, brother, sister, or own child",""
 "findrisc_9","Integer","","Recommended","Diet","0;1","0 = eat vegetables, fruit, berries, or dark/whole wheat bread daily; 1 = no vegetables, fruit, berries, or dark/whole wheat bread daily",""
 "findrisc_total","Integer","","Required","FINDRISC Total score","0::30","",""
-"visit","String","60","Recommended","Visit name","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "site","String","101","Recommended","Site","","Study Site",""

@@ -82,4 +82,4 @@
 "attt","Float","","Recommended","Attachment T-Score","","",""
 "fullraw","Integer","","Recommended","Full Scale Raw Score","","",""
 "fullt","Float","","Recommended","Full Scale T-score","","",""
-"txgroup","String","50","Recommended","Treatment group","","",""
+"txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""

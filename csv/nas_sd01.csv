@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "nas_recall","String","100","Recommended","Recall context for survey","","e.g., ''Thinking of your entire lifetime'' or ''Since April 1, 2020''",""
 "nas_sd2","Integer","","Recommended","Since April 1, 2020, have you practiced social distancing? (i.e., reduced your physical contact with people outside of your home in social, work, or school settings by avoiding large groups and staying 3-6 feet away from other people when out in public)","1;2;99","1 = Yes; 2 = No; 99 = No answer",""
 "nas_sd2a","Integer","","Recommended","Since April 1, 2020, how often have you practiced social distancing?","1::4; 99","1 = All the time; 2 = Most of the time; 3 = Half the time; 4 = Less than half the time; 99 = No answer",""

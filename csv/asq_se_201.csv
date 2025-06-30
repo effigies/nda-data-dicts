@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "asq_se_1","Integer","","Recommended","Does your child look at you when you talk to him?","0;5;10","0 = Often or Always; 5 = Sometimes; 10 = Rarely or Never","asq_se_18m_1_24m_1_30m_1_36m_1_48m_1"
 "asq_se_1_concern","Integer","","Recommended","Does your child look at you when you talk to him (concern checked)?","0;5","0 = No concern; 5 = Concern","asq_se_concern_18m_1_24m_1_30m_1_36m_1_48m_1"
 "asq_se_2","Integer","","Recommended","When you leave, does your child stay upset and cry for more than an hour?","0;5;10","0 = Often or Always; 5 = Sometimes; 10 = Rarely or Never","asq_se_18m_2_24m_5"

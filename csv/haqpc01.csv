@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "pathway","Integer","","Recommended","step pathway","1::9","1=SCP; 2=AD-Acute Depression; 3=REFD-Refractory Dep; 4=RELP-Relapse Prevent; 5=Psy-AD-Psychosocial; 6=Psy-REL-Psychosocial; 7=Omega 3; 8=LiMRS; 9=PAD-Psychosocial",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "daysrz","Integer","","Recommended","days since randomization","","","dayscons"
 "haqpc_1","Integer","","Recommended","psychiatrist in past 3 mos","0;1;-7","0=No; 1=Yes; -7=Refused","psych3mo,ther3mo"
 "haqpc_2","Integer","","Recommended","I feel I can depend upon the psychiatrist.","1::6;-7","1=Strongly Disagree; 2=Disagree; 3=Slightly Disagree; 4=Slightly Agree; 5=Agree; 6=Strongly Agree; -7=Refused","depend"

@@ -150,7 +150,7 @@
 "alc96e","Integer","","Recommended","Has your [CARETAKER] ever thought you should see a doctor or some other professional like that because of this?","0; 2","0= No; 2= Yes",""
 "alc96f","Integer","","Recommended","Has your [school/job] or anyone else ever suggested that you see someone like that for this?","0; 2","0= No; 2= Yes",""
 "alc96g","Integer","","Recommended","Did you ever ask to see someone special, like a doctor or counselor for this?","0; 2","0= No; 2= Yes",""
-"version_form","String","121","Recommended","Form used/assessment name","","","discpver"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","discpver"
 "pal001","Integer","","Recommended","Not including sips from another persons drink, has ______ ever, in [his/her] whole life, even once, had a drink?","0; 2","0= No; 2= Yes","yal001"
 "alcage","Integer","","Recommended","Age during first use of alcohol?
 (specify age in years)","","specify age in years","pal001ay,yal001ay"

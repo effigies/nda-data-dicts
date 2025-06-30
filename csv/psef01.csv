@@ -22,4 +22,4 @@
 "response_number","Integer","","Recommended","Response number","","",""
 "experiment_condition","String","50","Recommended","The type of experiment condition","","",""
 "filename","String","100","Recommended","File name","","",""
-"data_file1","File","255","Recommended","Data file 1","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""

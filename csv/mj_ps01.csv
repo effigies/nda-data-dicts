@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "timeframe_spec","String","100","Recommended","Specify the timeframe (in the past year, past two weeks, etc.) in which elements/items are assessed","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "mj_prob1","Integer","","Recommended","In the past month, has marijuana or other drug use caused you: Problems between you and your partner","0::2","0= No problem; 1= Minor problem; 2= Serious problem",""
 "mj_prob2","Integer","","Recommended","In the past month, has marijuana or other drug use caused you: Problems in your family","0::2","0= No problem; 1= Minor problem; 2= Serious problem",""
 "mj_prob3","Integer","","Recommended","In the past month, has marijuana or other drug use caused you: To neglect your family","0::2","0= No problem; 1= Minor problem; 2= Serious problem",""

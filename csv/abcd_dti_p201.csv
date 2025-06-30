@@ -430,4 +430,4 @@
 "dmri_dtitdgwc_cdsn_meanlh","Float","","Recommended","Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-hemisphere","","","dmri_dti.td.gwc_cort.desikan_mean.lh,dmri_dtitdgwc_cortdesikan_meanlh"
 "dmri_dtitdgwc_cdsn_meanrh","Float","","Recommended","Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-hemisphere","","","dmri_dti.td.gwc_cort.desikan_mean.rh,dmri_dtitdgwc_cortdesikan_meanrh"
 "dmri_dtitdgwc_cortdesikan_mean","Float","","Recommended","Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI whole brain","","","dmri_dti.td.gwc_cort.desikan_mean"
-"eventname","String","60","Recommended","The event name for which the data was collected","","",""
+"eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""

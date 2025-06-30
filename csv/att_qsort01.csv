@@ -97,4 +97,4 @@
 "att_total","Integer","","Recommended","Attachment Q-sort Total Score","","",""
 "att_sec","Integer","","Recommended","Attachment Q-Sort Security Subscore","","",""
 "att_dep","Integer","","Recommended","Attachment Q-Sort Dependency Subscore","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"eventname","String","60","Required","The event name for which the data was collected","","",""
+"eventname","String","60","Required","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
 "wps_q1_y","Integer","","Recommended","I get as much information as I can.","1 :: 5;444;555;777;888;999","1= Never; 2= A little; 3= Sometimes; 4= Pretty often; 5= Usually; 444= Do not wish to respond ;999= No Answer; 888= Skipped; 777= Condition Skipped; 555= Missing","wps_q1"
 "wps_q2_y","Integer","","Recommended","I think hard about what steps to take.","1 :: 5;444;555;777;888;999","1= Never; 2= A little; 3= Sometimes; 4= Pretty often; 5= Usually; 444= Do not wish to respond ;999= No Answer; 888= Skipped; 777= Condition Skipped; 555= Missing","wps_q2"
 "wps_q3_y","Integer","","Recommended","I think about the choices before I do anything.","1 :: 5;444;555;777;888;999","1= Never; 2= A little; 3= Sometimes; 4= Pretty often; 5= Usually; 444= Do not wish to respond ;999= No Answer; 888= Skipped; 777= Condition Skipped; 555= Missing","wps_q3"

@@ -65,7 +65,7 @@
 "frsbe_disinhibition_tscore","Float","","Recommended","Score for Disinhibition Subscale T-Score","","",""
 "frsbe_execdys_tscore","Float","","Recommended","Score for Executive Dysfunction T-Score","","",""
 "frsbe_total_tscore","Float","","Recommended","Total Score for FRSBE T-Score","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "frsbe_8bef","Integer","","Recommended","Before illness or injury: Has difficulty starting an activity, lacks initiative, motivation.","1::5;9","1=Almost never;2=Seldom;3=Sometimes;4=Frequently;5=Almost always;9=Missing",""
 "frsbe_9bef","Integer","","Recommended","Before illness or injury: Makes inappropriate sexual comments and advances, is too flirtatious.","1::5;9","1=Almost never;2=Seldom;3=Sometimes;4=Frequently;5=Almost always;9=Missing",""
 "frsbe_10bef","Integer","","Recommended","Before illness or injury: Does or says embarrassing things.","1::5;9","1=Almost never;2=Seldom;3=Sometimes;4=Frequently;5=Almost always;9=Missing",""

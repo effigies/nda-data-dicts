@@ -77,4 +77,4 @@
 "a_comp_ps_d","Integer","","Recommended","Other complications","0;1","1 = Checked; 0 = Unchecked",""
 "a_comp_oth","String","100","Recommended","A. Complicating factors(if other above, please specify):","","",""
 "q1_qual","Integer","","Recommended","Q1. Quality of available information:","","4 = Excellent; 3 = Minor inadequacies; 2 = Major inadequacies/reduced confidence; 1 = Very limited",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

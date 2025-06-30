@@ -36,6 +36,6 @@
 "hh_spinechoap","Integer","","Recommended","Spin Echo Anterior to Posterior","0;1;-999","1 = No Issues; 0 = Not completed; -999 = Missing",""
 "hh_spinechopa","Integer","","Recommended","Spin Echo Posterior to Anterior","0;1;-999","1 = No Issues; 0 = Not completed; -999 = Missing",""
 "comment","String","500","Recommended","Miscellaneous comments about assessment","","","hh_notes"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "confederate","Integer","","Recommended","Affiliative Confederate ID - act's as participant's partner during visit to build affiliation by completing tasks together.","","",""
 "saps_ad10","Integer","","Recommended","Rater number","","","visitra"

@@ -158,7 +158,7 @@
 "attending_an_aa_or_na_meet","Integer","","Recommended","Prosocial: How often you have participated in Attending an AA or NA meeting in the past 3 months?","0::3 ","0=Never; 1=Rarely; 2=Sometimes; 3=Often",""
 "sfs_current_living_1","Integer","","Recommended","Current living in:","1::7","1= Correction Facility; 2= Homeless; 3= Treatment Institution; 4= Supervised Facility; 5= Supervised Non-Facility; 6= Assissted/Supported; 7= Independent",""
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","rater"
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "ip8_sfs_surv","Integer","","Recommended","Please choose the response which best describes how often you have done the following over the past 3 months: Leaving the house alone","0::3","0=Never; 1=Rarely; 2=Sometimes; 3=Often",""
 "ip9_sfs_surv","Integer","","Recommended","Please choose the response which best describes how often you have done the following over the past 3 months: Using buses, trains etc.","0::3","0=Never; 1=Rarely; 2=Sometimes; 3=Often",""
 "ip10_sfs_surv","Integer","","Recommended","Please choose the response which best describes how often you have done the following over the past 3 months: Using money","0::3","0=Never; 1=Rarely; 2=Sometimes; 3=Often",""

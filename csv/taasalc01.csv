@@ -11,7 +11,7 @@
 "taas_05","Integer","","Recommended","How motivated you are to quit drinking at this time. Please circle the rating for your level of motivation.","1::10","1 = Not motivated; 10 = Extremely motivated",""
 "taas_06","Integer","","Recommended","What is the GOAL you have chosen for yourself about drinking at this time. Please read the goals listed on this page and check the box next to the one goal that best represents your own goal at this time. Be sure to read each goal before you select one that best describes your goal. Pick only one of the following goals. Which best describes your current goal for your alcohol use?","1::6","1 =  Controlled use of alcohol (i.e., cut down but not stop completely); 2 = Temporary abstinence from alcohol; 3 = Occasional use of alcohol when urges strongly felt; 4 =  Total abstinence, but realize a slip is possible; 5 = Total abstinence - never use alcohol again; 6 = No goal","goal_alcohol"
 "stime","String","20","Recommended","Session time","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "taas_sub1","Float","","Recommended","Expected difficulty of remaining abstinent subscale-Craving, General Well-Being and Negative Affect items","","",""
 "taas_sub2","Float","","Recommended","Expected difficulty of remaining abstinent subscale-General Well-Being","","",""
 "taas_sub3","Float","","Recommended","Expected difficulty of remaining abstinent subscale-Negative Affect","","",""

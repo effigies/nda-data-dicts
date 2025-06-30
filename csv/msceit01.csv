@@ -348,7 +348,7 @@
 "msceit_percentile_ea","Float","","Recommended","Experiential Area percentile","","","perc_exp"
 "msceit_percentile_sa","Float","","Recommended","Strategic Area percentile","","","perc_rea"
 "msceit_percentile_total","Float","","Recommended","MSCEIT Overall Emotional Intelligence. Total percentile","","","perc_tot"
-"version_form","String","121","Recommended","Form used/assessment name","","","scoreid"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","scoreid"
 "site","String","101","Recommended","Site","","Study Site",""
 "msceit1_choice","Integer","","Recommended","MSCEIT 1 correct (""Mara enjoyed the feeling, and decided to think about and appreciate all the things that were going well for her."") or incorrect (""She decided that it was best to ignore the feelingsince it wouldn't last anyway."")?","0;1","0= incorrect; 1= correct",""
 "msceit2_choice","Integer","","Recommended","MSCEIT 2 correct (""Andrew felt terrible that he felt that way, and he told himself that it wasn't right to be so upset over an event not under his control."") or incorrect (""Andrew decided to tell people just what a poor job his colleague had done, and that he did not deserve the merit award. Andrew gathered memos and notes to prove his point, so it wasn't just his word."")?","0;1","0= incorrect; 1= correct",""

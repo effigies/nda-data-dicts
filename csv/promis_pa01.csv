@@ -21,7 +21,7 @@
 "pa044","Integer","","Recommended","In the past 7 days; I felt content","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much","pa15,promis_pa044"
 "pa002","Integer","","Recommended","Self-report: In the past 7 days; I felt attentive / Parent report: In the past 7 days, my child was attentive","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much","pa2,promis_pa002"
 "pa025","Integer","","Recommended","In the past 7 days; I was thinking creatively","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much","pa9,promis_pa025"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "pa006","Integer","","Recommended","Self-report: In the past 7 days; I felt delighted / Parent report: In the past 7 days, my child was delighted","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much","pa3,promis_pa006"
 "pa019","Integer","","Recommended","Self-report: In the past 7 days; I felt enthusiastic / Parent report: In the past 7 days, my child was enthusiastic","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much","pa6,promis_pa019"
 "pa020","Integer","","Recommended","Self-report: In the past 7 days; I felt determined / Parent report: In the past 7 days, my child was determined","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much","pa7,promis_pa020"

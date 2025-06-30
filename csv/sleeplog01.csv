@@ -185,7 +185,7 @@
 "watch_off_14","Integer","","Recommended","Day 14: Took watch off?","0;1","0= No; 1= Yes",""
 "time_off_14","String","10","Recommended","Day 14: Time watch off:","","",""
 "time_on_14","String","10","Recommended","Day 14: Time watch on:","","",""
-"eventname","String","60","Required","The event name for which the data was collected","","",""
+"eventname","String","60","Required","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
 "watch_where_14","String","25","Recommended","Day 14: Wherewas watch?","","",""
 "went_to_bed_14","String","10","Recommended","Day 14: Went to bed at...","","",""
 "time_to_sleep_14","Integer","","Recommended","Day 14: Time it took to fall asleep after lights out (in mins):","","",""

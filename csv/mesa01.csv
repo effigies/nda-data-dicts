@@ -97,4 +97,4 @@
 "mesa_ehasl","Integer","","Recommended","MESA Economic Stress Total Subcale (items 7, 27, 28, 38, 39, 50, 65, 73, 79)","0::9;888;999","MESA7 + MESA27 + MESA28 + MESA38 + MESA39 + MESA50 + MESA65 + MESA73 + MESA79; 888= Not Applicable; 999= Missing",""
 "mesa_discrim","Integer","","Recommended","MESA Perceived Discrimination Total Subcale (items 24, 32, 37, 48, 58, 68)","0::6;888;999","MESA24 + MESA32 + MESA37 + MESA48 + MESA58 + MESA68; 888= Not Applicable; 999= Missing",""
 "mesa_viol","Integer","","Recommended","MESA Violence/Personal Discrimination Total Subcale (items 20, 22, 26, 34, 36, 41, 49, 64, 74, 80)","0::10;888;999","MESA20 + MESA22 + MESA26 + MESA34 + MESA36 + MESA41 + MESA49 + MESA64 + MESA74 + MESA80; 888= Not Applicable; 999= Missing",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

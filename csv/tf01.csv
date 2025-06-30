@@ -29,4 +29,4 @@
 "tf_rc","Float","","Recommended","Treatment Fidelity about Recovery Coach","","Mean of TF1A,TF1B",""
 "site","String","101","Recommended","Site","","Study Site",""
 "days_baseline","Integer","","Recommended","Days since baseline","","","tfdays"
-"visit","String","60","Recommended","Visit name","","","timept"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timept"

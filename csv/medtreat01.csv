@@ -89,7 +89,7 @@
 "tau_transaction","Integer","","Recommended","Rank order up to 3 of the following approaches that you used during treatment with this client: Transactional Analytic","1::3","1= 1st; 2= 2nd; 3= 3rd",""
 "tau3_other","Integer","","Recommended","Rank order up to 3 of the following approaches that you used during treatment with this client: Other","1::3","1= 1st; 2= 2nd; 3= 3rd",""
 "tau_other_specify","String","100","Recommended","Rank order up to 3 of the following approaches that you used during treatment with this client: Other. Specify other approach","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "tau_strategies","String","500","Recommended","What specific strategies did you use in your treatment with this client?  ","","",""
 "tau_accept","Integer","","Recommended","Rank order up to 3 of the following approaches that you used during treatment with this client: Acceptance and Commitment Therapy (ACT)","1::3","1= 1st; 2= 2nd; 3= 3rd",""
 "tau_adlerian","Integer","","Recommended","Rank order up to 3 of the following approaches that you used during treatment with this client: Adlerian/Individual","1::3","1= 1st; 2= 2nd; 3= 3rd",""

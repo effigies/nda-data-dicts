@@ -30,7 +30,7 @@
 "income_self_ref","Integer","","Recommended","What is your personal income per month (tanzanian shillings) - Refused/Don''t know?","0;1","0 = Answered Personal Income; 1 = Refused/Don''t know",""
 "income_house","Integer","","Recommended","What is your TOTAL HOUSEHOLD income per month (tanzanian shillings)?","","",""
 "income_house_ref","Integer","","Recommended","Refused/Don''t know?","0;1","0 = Answered Household Income; 1 = Refused/Don''t know",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "ptcon","Integer","","Recommended","Patient consented","0;1","0=No; 1=Yes",""
 "death029","String","30","Recommended","Date of injury","","",""
 "death031","String","50","Recommended","Time of injury","","",""

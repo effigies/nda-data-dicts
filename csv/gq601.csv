@@ -12,5 +12,5 @@
 "gq6_q06","Integer","","Recommended","Long amounts of time and go by before I feel grateful to something or someone.","1::7; 888; 999","7 = Strongly disagree; 6 = Disagree; 5 = Somewhat disagree; 4 = Neither agree nor disagree; 3 = Somewhat agree; 2 = Agree; 1 = Strongly agree; 888 = N/A; 999 = NK/missing/refused",""
 "gq6_score","Integer","","Recommended","Gratitude Questionnaire-Six Item Form (GQ-6) score","6::42","Score calculated as sum of all responses (reverse scoring for questions three and six)",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
-"visit","String","60","Recommended","Visit name","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

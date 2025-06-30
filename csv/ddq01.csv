@@ -82,7 +82,7 @@
 "equip_alc04","Integer","","Recommended","Were you alone the entire time you were drinking?","0;1;-5;-9;-999","0=No; 1=Yes; -5=Item seen but not answered; -9=Item hidden by show-if logic; -999=Data not submitted (not seen incomplete)",""
 "equip_alc05","Integer","","Recommended","How familiar are you with the locations you were at yesterday while drinking alcohol?","0::4;-5;-9;-999","0=Not at all familiar; 1=Slightly familiar; 2=Somewhat familiar; 3=Moderately familiar; 4=Very familiar; -5=Item seen but not answered; -9=Item hidden by show-if logic; -999=Data not submitted (not seen incomplete)",""
 "equip_alc06","Integer","","Recommended","How familiar are you with the people you were with yesterday while drinking alcohol?","0::4;-5;-9;-999","0=Not at all familiar; 1=Slightly familiar; 2=Somewhat familiar; 3=Moderately familiar; 4=Very familiar; -5=Item seen but not answered; -9=Item hidden by show-if logic; -999=Data not submitted (not seen incomplete)",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "maxsingledrink","Integer","","Recommended","Today, what is the maximum amount of money you would pay for a single standard drink?","0::30","Amount of money",""
 "dd_k","Float","","Recommended","Primary Outcome = k value","","",""
 "ed50","Float","","Recommended","The delay that is effective in discounting the subjective value of the delayed reinforcer by 50%","0::10000","",""

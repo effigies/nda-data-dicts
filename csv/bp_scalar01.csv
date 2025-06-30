@@ -7,7 +7,7 @@
 "experiment_id","Integer","","Recommended","ID for the Experiment/settings/run","","",""
 "site","String","101","Recommended","Site","","Study Site",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "anotb_corr_neg_rt_sd","Float","","Recommended","AnotB Task: Standard deviation of the reaction time for correct responses of negation items","","","id_1828"
 "anotb_corr_nonneg_rt_sd","Float","","Recommended","AnotB Task: Standard deviation of the reaction time for correct responses of non-negation items","","","id_1832"
 "anotb_corr_total_rt_sd","Float","","Recommended","AnotB Task: Standard deviation of the reaction time for correct responses","","","id_1824"

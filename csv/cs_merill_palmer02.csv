@@ -4,7 +4,7 @@
 "patid","String","20","Recommended","A Participant ID","","",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "mp_fb_err1","Float","","Recommended","# of errors Trial 1","","",""
 "mp_fb_err2","Integer","","Recommended","# of errors Trial 2","","",""
 "mp_fb_err3","Integer","","Recommended","# of errors Trial 3","","",""

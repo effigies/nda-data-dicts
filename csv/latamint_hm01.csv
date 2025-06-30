@@ -26,5 +26,5 @@
 "bip_numyrs","Integer","","Recommended","About how many different years in your life did you have an episode of this sort lasting 2 days or longer?","","Total number of years in lifetime",""
 "bip_num12m","Integer","","Recommended","About how many months in the past 12 did you have an episode of this sort?","","Total number of months within the last year",""
 "bip_30day","Integer","","Recommended","Did you have an episode of this sort at any time in the past 30 days?","0;1","0= No; 1= Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

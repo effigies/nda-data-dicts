@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "primary_language","String","255","Recommended","Subject's Primary Language","","",""
 "nih_pin","String","25","Recommended","PIN number assigned by the NIH Toolbox","","","pin"
-"version_form","String","121","Recommended","Form used/assessment name","","","assessment_name"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","assessment_name"
 "nih_tlbx_se","Float","","Required","Standard Error","","999=NA/NK/missing","nihtbx_perchostil_se,se"
 "nih_tlbx_tscore","Float","","Required","T-score","0::200; 999","999=NA/NK/missing","nihtbx_perchostil_tscore,tscore"
 "nih_tlbx_theta","Float","","Required","Theta","","999=NA/NK/missing","nihtbx_perchostil_theta,perchostility18_85,perchostility8_17,theta"

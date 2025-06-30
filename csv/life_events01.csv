@@ -242,7 +242,7 @@
 "les_40","Integer","","Recommended","Vacation","0;1; 888; 999","0 = No; 1 = Yes; 888 = Refused; 999 = Missing","les40"
 "les_41","Integer","","Recommended","Christmas season","0;1; 888; 999","0 = No; 1 = Yes; 888 = Refused; 999 = Missing","les41"
 "ples5_u","Integer","","Recommended","Question 5. I changed schools","0;1; -99; 77;88","0 = No; 1 = Yes; -99= NA; 77= Refused ; 88= Missing","les32,les_32,par_ales_dn8"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "ales_dn1_past12","Integer","","Recommended","Death of a close family member, experienced in the past 12 months?","0;1","0=No;1=Yes",""
 "ales_dn2_past12","Integer","","Recommended","If Jail term/Juvenile Detention, experienced in the past 12 months?","1","1=checked",""
 "ales_dn3_past12","Integer","","Recommended","If Fired at work, experienced in the past 12 months?","1","1=checked",""

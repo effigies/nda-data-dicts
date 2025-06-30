@@ -395,3 +395,6 @@
 "nsch_c12b","Integer","","Recommended","Was it recommended that this child see an eye doctor or other eye care provider for an eye examination or additional vision services as a result of the vision screening? An eye doctor may be referred to as an optometrist or an ophthalmologist.","0;1","0=No; 1=Yes",""
 "nsch_c12c","Integer","","Recommended","Has this child EVER seen an eye doctor? An eye doctor may be referred to as an optometrist or an ophthalmologist.","0;1","0=No; 1=Yes",""
 "nsch_c12d_1","Integer","","Recommended","What care has this child received from the eye doctor? Received eye examination","0;1","0=No; 1=Yes",""
+"smy_maturity","Integer","","Recommended","In terms of kindness, cooperation, and dependability, are you growing up faster, slower, or at same rate as other people your age?","1::3","1= Slower; 2= At the same rate; 3= Faster",""
+"smy_responsibility","Integer","","Recommended","In terms of your responsibilities at home, are you growing up faster, slower, or at the same rate as other people your age?","1::3","1= Slower; 2= At the same rate; 3= Faster",""
+"smy_adv_class","Integer","","Recommended","Are you taking advanced classes in school?","0;1","0= No; 1=Yes",""

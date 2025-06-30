@@ -593,7 +593,7 @@
 "spouse_education","Integer","","Recommended","Spouse's highest completed grade/degree","1 :: 9","1= 7th grade or less; 2= Between 7th and 9th grade; 3= Between 10th and 12th grade; 4= High school graduate (includes GED);  5= Partial college (includes business school, vocational/technical, RN); 6=  4 year college/university graduate;  7= Graduate degree (M.A., Ph.D., M.D., J.D., etc.); 9= Unknown",""
 "treatment_counsel","Integer","","Recommended","Has your child ever received counseling or psychiatric treatment?","0;1","0= No; 1= Yes",""
 "tmt_explan","String","2000","Recommended","Explanation of child's counseling or psychiatric treatment","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "move","Integer","","Recommended","Do you plan to move in the next 2 months?","0;1","0= No; 1= Yes",""
 "med_prov","Integer","","Recommended","Has your child been seen by a medical provider since your last study visit?","0;1","0= No; 1= Yes",""
 "med_appt","String","2000","Recommended","If your child has not been seen by a medical provider since your last study visit, do you have an appointment scheduled?","","",""

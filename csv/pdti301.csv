@@ -491,5 +491,5 @@
 "dti_rd_wm_rh_tvsetmp_md","Float","","Recommended","Right Transverse temporal White Matter, DTI Radial Diffusivity -- Median","","mm^2 s^-1","id_8681"
 "dti_rd_wm_rh_tvsetmp_std","Float","","Recommended","Right Transverse temporal White Matter, DTI Radial Diffusivity -- Standard Deviation","","mm^2 s^-1","id_8680"
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""

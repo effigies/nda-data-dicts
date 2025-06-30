@@ -33,4 +33,4 @@
 "hyp_sub","Float","","Recommended","Mean of items 4, 10, 15, 18, 19, and 21","0::4; -9","-9=Missing",""
 "ies_total","Integer","","Recommended","Sum total of all items","0::88; -9","-9=Missing",""
 "ies_mean","Float","","Recommended","Mean of all items","0::4; -9","-9=Missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

@@ -11,4 +11,4 @@
 "acs_1e","Integer","","Recommended","If I were depressed, I would be concerned that others may: Judge me","1::4","1= Strongly Disagree; 2= Disagree; 3= Agree; 4= Strongly Agree",""
 "acs_1f","Integer","","Recommended","If I were depressed, I would be concerned that others may: Distrust me","1::4","1= Strongly Disagree; 2= Disagree; 3= Agree; 4= Strongly Agree",""
 "acs_1g","Integer","","Recommended","If I were depressed, I would be concerned that others may: Think I was weak","1::4","1= Strongly Disagree; 2= Disagree; 3= Agree; 4= Strongly Agree",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""

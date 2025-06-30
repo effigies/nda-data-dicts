@@ -115,7 +115,7 @@
 "pn_csri_7a","Integer","","Recommended","In the last 6 months, has your child had any X-rays, Blood Tests, ECG, ultrasound, scans or any other tests?","0;1","0 = No; 1 = Yes",""
 "pn_csri_7b","Integer","","Recommended","If in the last 6 months, your child has had any X-rays, Blood Tests, ECG, ultrasound, scans or any other test, how many tests have they had?","","",""
 "pn_csri_8a","Integer","","Recommended","In the last 6 months, has your child taken tablets, medicines or injections?","0;1","0 = No; 1 = Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "pn_csri_1a","Integer","","Recommended","Have you had any contact with out-patient health care services?","0;1","0 = No; 1 = Yes",""
 "pn_csri_1_1","Integer","","Recommended","Have you had contact with a lady health worker?","0;1","0 = No; 1 = Yes",""
 "pn_csri_1_2","Integer","","Recommended","Have you had contact with a Primary Health Care provider?","0;1","0 = No; 1 = Yes",""

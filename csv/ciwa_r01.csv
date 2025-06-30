@@ -16,7 +16,7 @@
 "orientation_ciwa","Integer","","Recommended","Orientation and Clouding of Sensorium: Ask the following; (What day is this?) (Where are you?) (Who am I?)","0::4;-99","0=oriented; 1=uncertain of date; 2=disoriented for date no more than 2 days; 3= disoriented for date more than 2 days; 4= disoriented for place/person; -99=missing",""
 "ciwa_score","Integer","","Required","CIWA Total score","","998=Not calculable because of remote procedures",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "bp","String","25","Recommended","Blood Pressure","","",""
 "heart_rate","Integer","","Recommended","heart rate","","",""
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""

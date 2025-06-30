@@ -89,4 +89,4 @@
 "aihq_ain","Float","","Recommended","Index score: Aggression Intentional","","",""
 "aihq_aac","Float","","Recommended","Index score: Aggression Accidental","","",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

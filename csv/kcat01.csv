@@ -860,7 +860,7 @@
 "pmania89","Integer","","Recommended","My child didn't take unnecessary risks.","1;2","1= True; 2= False",""
 "pmania136","Integer","","Recommended","My child's self-confidence ranged from great self-doubt to equally great confidence.","1::5","1=Not at all; 2=Just a little; 3=Somewhat; 4=Quite a bit; 5=Very much",""
 "kcatmania_score","Float","","Recommended","KCAT Mania Hypomania Score","","2 decimal points","mania_score,pmania_score"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "pmdd56","Integer","","Recommended","My child enjoyed being with our family.","1::5","5=Not at all; 4=Just a little; 3=Somewhat; 2=Quite a bit; 1=Very much",""
 "pmdd86","Integer","","Recommended","My child felt loved and accepted by his/her close friends","1::5","5=Not at all; 4=Just a little; 3=Somewhat; 2=Quite a bit; 1=Very much",""
 "pmania135","Integer","","Recommended","My child thought that people came to him/her when they needed a clever idea.","1::5","1=Not at all; 2=Just a little; 3=Somewhat; 4=Quite a bit; 5=Very much",""

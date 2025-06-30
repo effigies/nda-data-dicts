@@ -132,7 +132,7 @@
 "tpb_drink_5","Integer","","Recommended","How much would your closest friend approve of you drinking until you got drunk at least once in the next 30 days?","1::5","1=Highly disapprove; 2=Somewhat disapprove; 3=Neither approve nor disapprove; 4=Somewhat approve; 5=Highly approve",""
 "tpb_drink_6","Integer","","Recommended","How much would your closest family member approve of you drinking until you got drunk at least once in the next 30 days?","1::5","1=Highly disapprove; 2=Somewhat disapprove; 3=Neither approve nor disapprove; 4=Somewhat approve; 5=Highly approve",""
 "tpb_drink_7","Integer","","Recommended","How much would the person whose opinion you value the most approve of you drinking until you got drunk at least once in the next 30 days?","1::5","1=Highly disapprove; 2=Somewhat disapprove; 3=Neither approve nor disapprove; 4=Somewhat approve; 5=Highly approve",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "attitudes1","Integer","","Recommended","Drinking alcohol over the next 30 days would be:","1::5","1= Unenjoyable; 5= Enjoyable",""
 "attitudes2","Integer","","Recommended","Drinking alcohol over the next 30 days would be:","1::5","1= Bad; 5= Good",""
 "attitudes3","Integer","","Recommended","Drinking alcohol over the next 30 days would be:","1::5","1= Harmful; 5= Beneficial",""

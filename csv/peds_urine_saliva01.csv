@@ -3,7 +3,7 @@
 "admin_status","String","20","Recommended","Instrument administration status","Complete;Partial;Not Administered;Not Applicable","","Urine_saliva_Administration_Status"
 "src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
 "age_days_dot_to_dob","Integer","","Recommended","Age in days obtained by subtracting the date of birth from the date of test","","","Urine_Saliva_Age_Days_DOT_to_DOB"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "saliva_dhea_collection1_samp1","Float","","Recommended","Saliva Measures: DHEA level first saliva collection value for the first analysis sample (pg/ml)","","","Saliva_DHEA_Collection1_Sample1"
 "saliva_dhea_collection1_samp2","Float","","Recommended","Saliva Measures: DHEA level first saliva collection value for the second analysis sample (pg/ml)","","","Saliva_DHEA_Collection1_Sample2"
 "saliva_dhea_collection1_sd","Float","","Recommended","Saliva Measures: DHEA level standard deviation value for the first saliva collection","","","Saliva_DHEA_Collection1_Standard_Deviation"

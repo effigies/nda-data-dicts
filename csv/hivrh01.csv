@@ -28,7 +28,7 @@ Include all opportunistic infection prophylaxis subject was or should have been 
 "hivtm6","Integer","","Recommended","If your most recent HIV test was negative and you have heard of PrEP, are you currently using PrEP to prevent HIV?","0::2","0 = No; 1 = Yes; 2 = I don''t know/can''t remember",""
 "yc_timesincehivtest","Integer","","Recommended","Time since HIV test (in years)","","",""
 "yc_hiv4","Integer","","Recommended","Which of these best describes the most important reason you have not been tested for HIV in the past 12 months?","1::5;7;9","1 = You think you are at low risk for HIV infection; 2 = You were afraid of finding out that you had HIV; 3 = You didn''t have time; 4 = Some other reason; 5 = No particular reason; 7 = Decline to answer; 9 = Don''t know",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "hiv_testdate","Date","","Recommended","HIV Test Date","","MM/DD/YYYY",""
 "hiv_testtype","Integer","","Recommended","HIV Test Type","1::4","1 = Antibody-Lab; 2 =  Antibody-Rapid; 3 = RNA; 4 = Unsure",""
 "hiv_testresult","Integer","","Recommended","HIV Test Results","1::3","1 = Negative; 2 = Positive; 3 = Inconclusive",""

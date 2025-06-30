@@ -15,7 +15,7 @@
 "paymentverificationdocument","Integer","","Recommended","Payment given to participant","0 :: 1","0=No; 1=Yes",""
 "incentiveprovided","Integer","","Recommended","Incentive provided to participant","0 :: 1","0=No; 1=Yes",""
 "instrumentreleasedate","Date","","Recommended","Release date of survey","","MM/DD/YYYY",""
-"version_form","String","121","Recommended","Form used/assessment name","","","instrumentversion"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","instrumentversion"
 "verilyproblem","Integer","","Recommended","Any Problems With Study Watch [1=Yes]","0 :: 1","0=No; 1=Yes","studywatchproblem"
 "verilyproblem_other","String","1000","Recommended","Any Problems With Study Watch [Specify]","","","studywatchproblem_other"
 "ecgrecordingverily","String","3","Recommended","Heart Rate Collected By Watch [1=Yes]","","",""

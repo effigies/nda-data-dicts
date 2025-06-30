@@ -133,7 +133,7 @@
 "month_12_other4","Integer","","Recommended","Took Other medication #4 for month 12","0;1;-7","0= no; 1= yes; -7=  N/A",""
 "month_12_lifeevent","String","50","Recommended","Life Event 12","","",""
 "month_12_date_lifeevent","Date","","Recommended","Date of Life Event 12","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "ques_gradalbm","String","255","Recommended","Last grade completed -Biological Mother","","","slife_mother_edu"
 "ques_gradalbf","String","255","Recommended","Last grade completed -Biological Father","","","slife_father_edu"
 "txinpastmonth","Integer","","Recommended","Have you been on any kind of treatment in the past month","1::4","1= Current inpatient (including residential treatment); 2= Current outpatient; 3=Other (e.g., 12-step program); 4= No current treatment","slife_treatmentstatus"

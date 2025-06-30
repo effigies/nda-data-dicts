@@ -97,7 +97,7 @@
 "pedproxdep24_theta","Float","","Recommended","pedproxdep24 Theta","","",""
 "pedproxdep24_tscore","Float","","Recommended","pedproxdep24 T Score","","",""
 "pedproxdep24_se","Float","","Recommended","pedproxdep24 SE","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","","assessment_name,sad_version"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","assessment_name,sad_version"
 "visit_num","Integer","","Recommended","Visit number","1::3","1=Baseline, 2=12 Month, 3=24 Month",""
 "wcst_ni","Integer","","Recommended","Number of Items","","","itmcnt"
 "interview_language","String","255","Recommended","Language Used in the Interview","","","language"

@@ -23,7 +23,7 @@
 "lshsr_ght","Integer","","Recommended","General hallucination tendency","","",""
 "lshsr_set","Integer","","Recommended","Subjective externality of thought","","",""
 "lshsr_vd","Integer","","Recommended","Vividness of daydreams","","",""
-"version_form","String","121","Required","Form used/assessment name","","",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "lshs_1","Integer","","Recommended","Sometimes a passing thought will seem so real that it frightens me.","0;1","0=False; 1=True","lshs4"
 "lshs_2","Integer","","Recommended","Sometimes my thoughts seem as real as actual events in my life","0;1","0=False; 1=True","lshs3"
 "lshs_3","Integer","","Recommended","No matter how hard I try to concentrate on my work unrelated thoughts always creep into my mind","0;1","0=False; 1=True","lshs1"

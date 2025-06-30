@@ -338,7 +338,7 @@
 "adhd76","Integer","","Recommended","Have you ever taken any medicine for hyperactivity?","0; 2","0= No; 2= Yes",""
 "adhd76a","Integer","","Recommended","Have you taken any medicine for this in the past 6 months?","0; 2","0= No; 2= Yes",""
 "adhd76b","String","250","Recommended","What is the name of the medicine?","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","","discpver"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","discpver"
 "pcd001","String","30","Recommended","Module E: Disruptive Behavior Disorders - Conduct Disorder (CD). Ever stolen money or other things from people living with them","","","ycd001"
 "pcd002","String","30","Recommended","Module E: Disruptive Behavior Disorders - Conduct Disorder (CD). Ever shoplifted","","","ycd002"
 "pcd003","String","30","Recommended","Module E: Disruptive Behavior Disorders - Conduct Disorder (CD). Ever stolen from someone when they werent there/no one was watching","","","ycd003"

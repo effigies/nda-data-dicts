@@ -131,5 +131,5 @@
 "smd10smsp1_v2_v3","Integer","","Recommended","Evidence of Selective Mutism. Summary MSP: # of criteria met.","0::5","If participant meets all criteria, value will be 5.",""
 "smd10smsp2_v2_v3","Integer","","Recommended","Evidence of Selective Mutism. Considering all clinical information available, does this participant meet criteria for the MSP?","0::2","0 = No information; 1 = No; 2 = Yes",""
 "smd10smsp_v2_v3","Integer","","Recommended","Evidence of Selective Mutism. Summary MSP - Final.","0::2","Calculation: if (([smd10smsp1_v2_v3] = 5 and [smd10smsp2_v2_v3] = 2) or ([smd10smsp1_v2_v3] < 5 and [smd10smsp2_v2_v3] = 2), 2, if (([smd10smsp1_v2_v3] = 5 and [smd10smsp2_v2_v3] = 1) or ([smd10smsp1_v2_v3] < 5 and [smd10smsp2_v2_v3] = 1), 1, if ([smd10smsp2_v2_v3]=0, 0, ""NaN""))). If value=2, selective mutism diagnosis met.",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "ageonset_social_v2","String","50","Recommended","Social Anxiety Disorder and/or Selective Mutism: Age of onset that episodes first started","","",""

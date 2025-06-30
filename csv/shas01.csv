@@ -28,4 +28,4 @@
 "shas13_10","Integer","","Recommended","Extreme feelings of floating","1::10","1 = No alcohol effect; 10=Maximal alcohol effect",""
 "shas14_10","Integer","","Recommended","The worst I have ever felt","1::10","1 = No alcohol effect; 10=Maximal alcohol effect",""
 "shas15_10","Integer","","Recommended","The best I have ever felt","1::10","1 = No alcohol effect; 10=Maximal alcohol effect",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

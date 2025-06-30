@@ -119,7 +119,7 @@
 "aaasa_phase","Integer","","Recommended","Trial of study","1 :: 3","1 = Feasibility; 2 = Open; 3 = Clinical",""
 "aaasa_session","Integer","","Recommended","Session of trial","0 :: 3","0 = Baseline; 1 = Session one; 2 = Session two; 3 = One-month follow-up",""
 "site","String","101","Recommended","Site","","Study Site",""
-"txgroup","String","50","Recommended","Treatment group","","",""
+"txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""
 "riskysex_8","Float","","Recommended","Please indicate how often you have engaged in each of the following behaviors during the past year. 8. Had ongoing sexual relationships with more than one person.","","",""
 "riskysex_mean","Float","","Recommended","Mean score all items (RiskySex_1 to RiskySex_8)","","",""
 "riskysex_1","Float","","Recommended","Please indicate how often you have engaged in each of the following behaviors during the past year. 1. Had sex without protection against pregnancy (i.e., no birth control).","","",""

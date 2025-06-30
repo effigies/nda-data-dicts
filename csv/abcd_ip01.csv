@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"eventname","String","60","Required","","The event name for which the data was collected","","",""
+"eventname","String","60","Required","","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
 "irmasubirmaparent_select_lg_1","Integer","","Recommended","","¿Español? (1, Sí)","0 ; 1","0 = No; 1 = Yes","irma_substudy_irma_parent_select_language___1"
 "irma_gatea_p","Integer","","Recommended","","Were you and your child living in Florida at the time that Hurricane Irma hit the United States (September 2017)? ¿Estaban usted y su hijo(a)  viviendo en Florida  en el momento en que el huracán Irma llegA a los Estados Unidos (Septiembre de 2017)?","1 ; 0","1 = Yes  Si; 0 = No No",""
 "irma_gateb_p","Integer","","Recommended","","Were you and your child living in South Carolina at the time that Hurricane Irma hit the United States (September 2017)?  ¿Estaban usted y su hijo(a)  viviendo en la Carolina del Sur  en el momento en que el huracán Irma llegA a los Estados Unidos (Septiembre de 2017)?","1 ; 0","1 = Yes  Si; 0 = No No",""

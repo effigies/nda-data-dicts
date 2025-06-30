@@ -12,7 +12,7 @@
 "sdes6","Integer","","Recommended","During the past seven days, I feel that there is no fight left in me","0::4","0 = Not at all; 1 = A little bit; 2 = Moderately; 3 = Quite a bit; 4 = Extremely like me",""
 "sdes7","Integer","","Recommended","During the past seven days, I would like to get away from who I am and start again","0::4","0 = Not at all; 1 = A little bit; 2 = Moderately; 3 = Quite a bit; 4 = Extremely like me",""
 "sdes8","Integer","","Recommended","During the past seven days, I feel that I am one of life's losers","0::4","0 = Not at all; 1 = A little bit; 2 = Moderately; 3 = Quite a bit; 4 = Extremely like me",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "sdes8_ext","Integer","","Recommended","During the past 30 days, I feel that I am one of life's losers","0::4","0 = Not at all; 1 = A little bit; 2 = Moderately; 3 = Quite a bit; 4 = Extremely like me",""
 "sdes1_ext","Integer","","Recommended","During the past 30 days, I can see no way out of my current situation","0::4","0 = Not at all; 1 = A little bit; 2 = Moderately; 3 = Quite a bit; 4 = Extremely like me",""
 "sdes2_ext","Integer","","Recommended","During the past 30 days, I feel defeated by life","0::4","0 = Not at all; 1 = A little bit; 2 = Moderately; 3 = Quite a bit; 4 = Extremely like me",""

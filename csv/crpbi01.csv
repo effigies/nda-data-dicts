@@ -16,6 +16,6 @@
 "crpbi_caregiver14_y","Integer","","Recommended"," crpbi_caregiver1_y   == 1","Second caregiver. Is able to make me feel better when I am upset.","1::3","1=Not like them ; 2=Somewhat like them ; 3=A lot like them","crpbi_acceptance_caregiver14"
 "crpbi_caregiver15_y","Integer","","Recommended"," crpbi_caregiver1_y   == 1","Believes in showing their love for me.","1::3","1=Not like them ; 2=Somewhat like them ; 3=A lot like them","crpbi_acceptance_caregiver15"
 "crpbi_caregiver16_y","Integer","","Recommended"," crpbi_caregiver1_y   == 1","Second caregiver. Is easy to talk to.","1::3","1=Not like them ; 2=Somewhat like them ; 3=A lot like them","crpbi_acceptance_caregiver16"
-"eventname","String","60","Recommended","","The event name for which the data was collected","","",""
+"eventname","String","60","Recommended","","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
 "crpbi_studycaregiver_id","Integer","","Recommended","","Who is the caregiver that is participating in the study with you today?","1 ; 2 ; 3 ; 4 ; 5 ; 6 ; 7","1 = mother; 2 = father; 3 = grandmother; 4 = grandfather; 5 = aunt; 6 = uncle; 7 = other",""
 "timept","Integer","","Recommended","","Time Point","","888 = not applicable; 999 = missing",""

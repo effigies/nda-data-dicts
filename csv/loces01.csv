@@ -32,4 +32,4 @@
 "loces_bs","Integer","","Recommended","LOCES behavioral score","","",""
 "loces_cds","Integer","","Recommended","LOCES cognitive/dissociative score","","",""
 "loces_pes","Integer","","Recommended","LOCES positive/euphoric score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

@@ -153,7 +153,7 @@
 "psctot_pwk","Integer","","Recommended","Sum Total of Physical Symptom Checklist Items MALES  PSC1 to PSC44, PSC47, PSC48","","",""
 "pscave_pwk","Float","","Recommended","Average Physical Symptom Checklist Score MALES  PSC1 to PSC44, PSC47, PSC48","","",""
 "imputation","Integer","","Recommended","Indicator noting imputed data set number ","1::20","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "migq_c1","Integer","","Recommended","Nausea and/or Vomitting. During these headache attacks, do you experience nausea or vomitting? (How often?)","0 :: 2; -9","0=No; 1=Yes; 2=Unsure; -9=N/A",""
 "migq_c2","Integer","","Recommended","Photophobia or Phonophobia. Do bright lights or loud sounds make the headache worse?","0 :: 2; -9","0=No; 1=Yes; 2=Unsure; -9=N/A",""
 "migq_c3","Integer","","Recommended","At least one C criterion endorsed?","0;1; -9","0=No; 1=Yes; -9=N/A",""

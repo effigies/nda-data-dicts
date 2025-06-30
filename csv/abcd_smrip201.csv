@@ -451,4 +451,4 @@
 "smri_t2w_scs_ccct","Float","","Recommended","Average intensity of the normalized T2-weighted image within ASEG ROI CC-Central","","","smri_t2w_subcort.aseg_cc.central,smri_t2w_subcortaseg_cccentral"
 "smri_t2w_scs_ccmidat","Float","","Recommended","Average intensity of the normalized T2-weighted image within ASEG ROI CC-Mid-Anterior","","","smri_t2w_subcort.aseg_cc.mid.anterior,smri_t2w_subcortaseg_ccmidanterior"
 "smri_t2w_scs_ccat","Float","","Recommended","Average intensity of the normalized T2-weighted image within ASEG ROI CC-Anterior","","","smri_t2w_subcort.aseg_cc.anterior,smri_t2w_subcortaseg_ccanterior"
-"eventname","String","60","Recommended","The event name for which the data was collected","","",""
+"eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""

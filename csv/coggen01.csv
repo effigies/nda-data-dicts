@@ -25,4 +25,4 @@
 "prctlsrhr","Float","","Recommended","Recall of treatment points hard rating","0::100","","proctlsrhr"
 "prctlsrer","Float","","Recommended","Cummulative recall of treatment points easy rating","0::100","","proctlsrer"
 "prctresp","String","100","Recommended","List of treatment points remembered by partcipant from the beginning of study","","> = treatment point touched in most recent session","proctresp"
-"version_form","String","121","Required","Form used/assessment name","","",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

@@ -31,4 +31,4 @@
 "ptdyad_c10","Integer","","Recommended","Provided praise to the parent/teacher","0;1","0=No; 1=Yes",""
 "ptdyadtot_c","Integer","","Recommended","C. Total Score on Psychological Engagement Components","","",""
 "ptdyadtotal","Integer","","Recommended","Total Score on Dyad Observation","","SUM(A,B,C)",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "tti_a_sex_ed_1","Integer","","Recommended","Have you/your child ever had education or training about puberty/friendship/intimacy/sexuality?","0::2;99","0= No, I have NEVER been taught about intimacy/sexuality; 1= Yes; 2= I do not know/I prefer not to answer; 99= Missing data",""
 "tti_a_sex_ed_1b_1","Integer","","Recommended","Where or from whom did you/your child receive sexual education or training? (Select all that apply) Parents/caregivers","0;1","0= No/Unchecked; 1= Yes/Checked",""
 "tti_a_sex_ed_1b_2","Integer","","Recommended","Where or from whom did you/your child receive sexual education or training? (Select all that apply) Teacher at school","0;1","0= No/Unchecked; 1= Yes/Checked",""

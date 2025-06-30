@@ -29,7 +29,7 @@
 "satisfaction_12","Integer","","Recommended","How helpful was the group facilitator in giving advice and troubleshooting problems?","1::4","1=Did not help at all; 2=No difference; 3=Helped a little; 4=Helped a lot",""
 "satisfaction_13","Integer","","Recommended","I found support and a sense of community with the other parents in group","1::4","1=Strongly disagree; 2=Disagree; 3=Agree; 4=Strongly agree",""
 "satisfaction_14","Integer","","Recommended","I found the group sessions to be helpful in making the parenting strategies work for my child","1::4","1=Strongly disagree; 2=Disagree; 3=Agree; 4=Strongly agree",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "satisfaction_01","Integer","","Recommended","The concerns that I had about my child's behavior when I first started the program are now","1::4","1=Worse than before; 2=The same as before; 3=Better than before; 4=Much better than before",""
 "satisfaction_02","Integer","","Recommended","At this point, I feel that my child's behavior is","1::4","1=Worse than before; 2=The same as before; 3=Better than before; 4=Much better than before",""
 "satisfaction_03","Integer","","Recommended","Has the program helped you with concerns not directly related to your child (such as with other family members or co-workers)?","1::4","1=Did not help at all; 2=No difference; 3=Helped a little; 4=Helped a lot",""

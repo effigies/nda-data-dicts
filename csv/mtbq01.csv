@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "epinet_site_id","String","50","Recommended","Unique identifier for Site or Clinic","","-2= Not collected at this time point; -3= Historical missing",""
 "mtbq1","Integer","","Recommended","How much difficulty do you have with the following? Taking lots of medications","0::4;7777;8888","0= Not difficult; 1= A little difficult; 2= Quite difficult; 3= Very difficult; 4= Extremely difficult; 7777= Does not apply; 8888= Item/instrument not collected",""
 "mtbq2","Integer","","Recommended","How much difficulty do you have with the following? Remembering how and when to take medication","0::4;7777;8888","0= Not difficult; 1= A little difficult; 2= Quite difficult; 3= Very difficult; 4= Extremely difficult; 7777= Does not apply; 8888= Item/instrument not collected",""

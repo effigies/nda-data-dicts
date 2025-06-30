@@ -29,4 +29,4 @@
 "twsss_ris","Integer","","Recommended","Receiving Intrumental Support Subscale","","",""
 "twsss_ges","Integer","","Recommended","Giving Emotional Support Subscale","","",""
 "twsss_gis","Integer","","Recommended","Giving Instrumental Support Subscale","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

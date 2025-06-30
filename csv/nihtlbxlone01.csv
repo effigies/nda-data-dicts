@@ -4,7 +4,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","lone_visit"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "soc253","Integer","","Recommended","In the past month, please describe how often: I feel alone and apart from others.","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always","lone1"
 "ucla11x2","Integer","","Recommended","I feel left out","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always","lone2,soc254"
 "ucla7x2","Integer","","Recommended","I feel that I am no longer close to anyone","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always","lone3,soc255"

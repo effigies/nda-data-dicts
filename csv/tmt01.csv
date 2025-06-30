@@ -7,6 +7,6 @@
 "condition_name","String","250","Recommended","Experimental condition name","","","condition"
 "correct_mntmt","Integer","","Recommended","# correct in specified condition","0::130","","10_0correct_mntmt,20_0correct_mntmt,2_5correct_mntmt,50_0correct_mntmt,5_0correct_mntmt,totalcorrect_mntmt"
 "percent_mntmt","Float","","Recommended","% correct in specified condition","0::100","","10_0percent_mntmt,20_0percent_mntmt,2_5percent_mntmt,50_0percent_mntmt,5_0percent_mntmt,tmt10,tmt20,tmt2_5,tmt5,tmt50,tmtperc,totalpercent_mntmt"
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "tmt_group","Integer","","Recommended","Impaired or Intact","0;1","0 = Impaired (performance below 70%); 1 = Intact (performance above 70%)",""
 "site","String","101","Recommended","Site","","Study Site",""

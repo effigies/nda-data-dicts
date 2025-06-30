@@ -33,4 +33,4 @@
 "hope_s_5","Integer","","Recommended","Even when others get discouraged, I know I can find a way to solve the problem.","1::4","1 = Definitely True; 2 = Mostly True; 3 = Mostly False; 4 = Definitely False",""
 "hope_s_6","Integer","","Recommended","My past experiences have prepared me well for my future.","1::4","1 = Definitely True; 2 = Mostly True; 3 = Mostly False; 4 = Definitely False",""
 "hope_s_7","Integer","","Recommended","I''ve been pretty successful in life.","1::4","1 = Definitely True; 2 = Mostly True; 3 = Mostly False; 4 = Definitely False",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

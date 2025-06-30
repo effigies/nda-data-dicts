@@ -30,7 +30,7 @@
 "mbideperson","Integer","","Recommended","MBI Depersonalization","","888=not applicable; 999=missing",""
 "mbiperaccom","Integer","","Recommended","MBI Personal Accomplishments","","888=not applicable; 999=missing",""
 "mbitotal","Integer","","Required","MBI Total","","888=not applicable; 999=missing","mbig_total"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "mbig_7","Integer","","Recommended","I feel I am making an effective contribution to what this organization does","0::6;888;999","0=never; 1=a few times a year or less; 2=once a month or less; 3=a few times a month; 4=once a week; 5=a few times a week; 6=everyday; 888=not applicable; 999=missing",""
 "mbig_8","Integer","","Recommended","I have become less interested in my work since I started this job","0::6;888;999","0=never; 1=a few times a year or less; 2=once a month or less; 3=a few times a month; 4=once a week; 5=a few times a week; 6=everyday; 888=not applicable; 999=missing",""
 "mbig_9","Integer","","Recommended","I have become less enthusiastic about my work","0::6;888;999","0=never; 1=a few times a year or less; 2=once a month or less; 3=a few times a month; 4=once a week; 5=a few times a week; 6=everyday; 888=not applicable; 999=missing",""

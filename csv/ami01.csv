@@ -25,4 +25,4 @@
 "ami_beh","Integer","","Recommended","AMI Behavioral Mean Score","","",""
 "ami_soc","Integer","","Recommended","AMI Social Mean Score","","",""
 "ami_emo","Integer","","Recommended","AMI Emotional Mean Score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

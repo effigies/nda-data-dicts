@@ -11,4 +11,4 @@
 "result_2og","String","50","Recommended","2-OG Result","","",""
 "result_oea","String","50","Recommended","OEA Result","","",""
 "result_pea","String","50","Recommended","PEA Result","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

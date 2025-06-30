@@ -37,4 +37,4 @@
 "ques_mathdifa","String","50","Recommended","Had or has difficulty learning arithmetic or math -Child with Autism/Study Participant","Y;N;NA","Y = Yes; N = No; NA = Not answered","diflearn_math"
 "npread","Integer","","Recommended","Can participant read written material?","0;1","1 = Yes; 0 = No",""
 "medhx_colorblind","Integer","","Recommended","Color blind?","0;1","0 = No, 1 = Yes","npcolor"
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

@@ -214,4 +214,4 @@
 "mct_numbercomp198","Integer","","Recommended","Number Comparison: Item 198","0;1","0 = Incorrect ; 1 = Correct",""
 "mct_numbercomp199","Integer","","Recommended","Number Comparison: Item 199","0;1","0 = Incorrect ; 1 = Correct",""
 "mct_numbercomp200","Integer","","Recommended","Number Comparison: Item 200","0;1","0 = Incorrect ; 1 = Correct",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

@@ -622,5 +622,5 @@ the Internet, or play outside).","0;1;2;999","0=Never;1=Sometimes;2=Usually","ad
 "motorskills_lower_confint","Integer","","Recommended","Motor skills lower confidence interval ","","999",""
 "dls_rank","Float","","Recommended","Daily living skills percentile rank ","","999","vi3_dls_pr"
 "abc_upper_confint","Integer","","Recommended","Adaptive behavior composite score upper confidence interval ","","999",""
-"version_form","String","121","Required","Form used/assessment name","","","vi3_form"
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","vi3_form"
 "vin3_abc_sum","Float","","Recommended","Vineland 3 Adaptive Behavior Composite Sum","","",""

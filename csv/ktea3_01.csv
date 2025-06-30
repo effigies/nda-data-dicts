@@ -277,4 +277,4 @@
 "spelling_equiv","Integer","","Recommended","Spelling equivalent","","999=N/A, Missing",""
 "ktea_briefachieve_sum","Integer","","Recommended","KTEA-3 Brief Achievement Sum of Letter and Word Recognition, Math Computation, and Spelling standard scores","","999=N/A, Missing",""
 "ktea_briefachieve_comp","Integer","","Recommended","KTEA-3 Brief Achievement Composite Score","","999=N/A, Missing","ktea_briefachievement"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

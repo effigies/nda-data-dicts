@@ -37,7 +37,7 @@
 "uls19","Integer","","Recommended","How often do you feel there are people you can talk to?","0::3;999","0=Never; 1=Rarely; 2=Sometimes; 3=Always; 999=Skipped","loneliness19,loneliness_q19,talkto,uclalsv3_19"
 "uls20","Integer","","Recommended","How often do you feel that there are people you can turn to?","0::3;999","0=Never; 1=Rarely; 2=Sometimes; 3=Always; 999=Skipped","loneliness20,loneliness_q20,uclalsv3_20"
 "uls_total","Integer","","Recommended","UCLA Loneliness Scale Total Score","","","uclalsv3_total"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "alone","Integer","","Recommended","Could go it alone","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
 ",""
 "outgoing","Integer","","Recommended","I am an outgoing person","0::3","0=Never; 1=Rarely; 2=Sometimes; 3=Often",""
@@ -88,7 +88,7 @@
 "loneliness_5","Integer","","Recommended","How often do you feel like you are part of a group of friends?","1::4;9999","4 = Never; 3 = Rarely; 2 = Sometimes; 1 = Always; 9999 = Unknown (not answered)",""
 "loneliness_6","Integer","","Recommended","How often do you feel that you have a lot in common with the people around you?","1::4;9999","4 = Never; 3 = Rarely; 2 = Sometimes; 1 = Always; 9999 = Unknown (not answered)",""
 "loneliness_7","Integer","","Recommended","How often do you feel that you are no longer close to anyone?","1::4;9999","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Always; 9999 = Unknown (not answered)",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "uls1_r","Integer","","Recommended","I  felt in tune with the people around me.","1::4","1=Extremely true; 2 = Somewhat true; 3 = A little bit true; 4 = Not at all true",""
 "uls15_r","Integer","","Recommended","I could find companionship when I wanted it.","1::4","1=Extremely true; 2 = Somewhat true; 3 = A little bit true; 4 = Not at all true",""
 "x74ne_b_4","Integer","","Recommended","How often do you feel alone?","0::2; 94::98; -97; -98","0 = Hardly ever; 1 = Some of the time; 2 = Often; 94=Refused to answer; 95=Do not know; 96=Missing; 97=Accidentally skipped; 98=Purposely skipped; -97=Missing online; -98=Purposely skipped online",""

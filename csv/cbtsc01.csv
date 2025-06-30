@@ -5,7 +5,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "session_id","String","20","Recommended","session ID/screening ID","","","session"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","daycbt,daycbtp,daycbts,dayreview"
 "cbtc1","Integer","","Recommended","Effectively structures session (i.e. sets agenda and uses redirection appropriately when client is off task).","0::3;6;999","0 = Failed to attempt;1 = Needs improvement;2 = Satisfactory;3 = Superior;-6 = Not applicable;999 = Missing",""
 "cbtc2","Integer","","Recommended","Demonstrates knowledge of CBT model.","0::3;6;999","0 = Failed to attempt;1 = Needs improvement;2 = Satisfactory;3 = Superior;-6 = Not applicable;999 = Missing",""

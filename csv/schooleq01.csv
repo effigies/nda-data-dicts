@@ -71,7 +71,7 @@
 "tlfb_hsq24","Integer","","Recommended","How many times were you suspended in the past [version_form]?","","Number of days",""
 "tlfb_hsq25","Integer","","Recommended","Have you been expelled from school in the past [version_form]?","0;1;-9","0= No; 1= Yes; -9= Do not know or refuse",""
 "tlfb_hsq26","Integer","","Recommended","How many times were you expelled in the past [version_form]?","","Number of times",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "tlfb_hsq1","Integer","","Recommended","Are you currently attending school? (Note: This includes college).","0;1;-9","0= No; 1= Yes; -9= Do not know or refuse",""
 "tlfb_hsq2","Integer","","Recommended","What grade are you in? ","1::13;-9","1= 1st grade; 2= 2nd grade; 3= 3rd grade; 4= 4th grade; 5= 5th grade; 6= 6th grade; 7= 7th grade; 8= 8th grade; 9= 9th grade; 10= 10th grade; 11= 11th grade; 12= 12th grade; 13= College; -9= Do not know or refuse",""
 "tlfb_hsq3","Integer","","Recommended","What grade were you last in, the last time you attended school?","1::13;-9","1= 1st grade; 2= 2nd grade; 3= 3rd grade; 4= 4th grade; 5= 5th grade; 6= 6th grade; 7= 7th grade; 8= 8th grade; 9= 9th grade; 10= 10th grade; 11= 11th grade; 12= 12th grade; 13= College; -9= Do not know or refuse",""

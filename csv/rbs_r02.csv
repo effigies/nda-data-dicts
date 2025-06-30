@@ -93,4 +93,4 @@
 "calc_status","String","20","Recommended","Calculation Status","complete;missing-values","","status"
 "rbsr_same_ritual_total","Integer","","Recommended","Ritualistic/Sameness Behavior (Total subscale score)","0::50;-9","-9=Don't know",""
 "rbsr_same_ritual_endorsed","Integer","","Recommended","Ritualistic/Sameness Behavior (Number of subscale items endorsed)","0::50;-9","-9=Dont know",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

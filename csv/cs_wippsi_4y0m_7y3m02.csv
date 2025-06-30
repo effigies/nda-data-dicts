@@ -5,7 +5,7 @@
 "patid","String","20","Recommended","A Participant ID","","",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "wppsi_bld_ae","Integer","","Recommended","Age Equivalent Block Design","","",""
 "wppsi_bld_rawscre","Integer","","Recommended","Raw score Raw - Block Design","0 :: 40","",""
 "wppsi_bld_scldscre","Integer","","Recommended","Scaled score SS - Block Design","0 :: 20","",""

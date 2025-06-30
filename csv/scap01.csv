@@ -36,4 +36,4 @@
 "noresp","String","20","Recommended","No Response","","",""
 "trial","Integer","","Recommended","Trial number","0::9999; -777; -999","1 = first; 2= second; 3=third; 4=fourth; 5=fifth; 6=sixth; etc; -777=NA, -999=missing",""
 "suj_type","Integer","","Recommended","Subject type","1;2;9","1= patient; 2 =control; 9= pilot",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

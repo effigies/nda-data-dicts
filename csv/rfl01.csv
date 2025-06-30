@@ -85,7 +85,7 @@
 "rfl_fosd","Integer","","Recommended","RFL Fear of Social Disapproval Subscale","","",""
 "rfl_mo","Integer","","Recommended","RFL Moral Objections Subscale","","",""
 "rfl_6","Integer","","Recommended","I am afraid of death","1::6; 999","1= Not at all important; 2= Quite unimportant; 3= Somewhat unimportant; 4= Somewhat important; 5= Quite important; 6= Extremely important; 999= DO NOT WISH TO ANSWER","brfla_13"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "brfla_fsd","Integer","","Recommended","Brief Reasons for Living - Fear of Social Disapproval (FSD) Subscale","","Sum of items brfla_1-3 (rfl_31, 40, 42)",""
 "brfla_mo","Integer","","Recommended","Brief Reasons for Living - Moral Objections (MO) Subscale","","Sum of items brfla_4-6 (rfl_5, 27, 34)",""
 "brfla_scb","Integer","","Recommended","Brief Reasons for Living - Survival and Coping Beliefs (SCB) Subscale","","Sum of items brfla_7-9 (rfl_22, 32, 36)",""

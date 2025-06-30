@@ -17,4 +17,4 @@
 "outcome_data_11","Integer","","Recommended","At follow-up visit: Tics completely gone for any period lasting 3 months since last visit?","0;1;3","0 = no ; 1 = yes ; 3 = Not recorded - there is no way now to know",""
 "outcome_data_12","Integer","","Recommended","Would you, [expert rater], be confident the child had tics before the Tic Suppression Paradigm?","0;1;3","0 = no ; 1 = yes ; 3 = Not recorded - there is no way now to know",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","outcome_data_comments"
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

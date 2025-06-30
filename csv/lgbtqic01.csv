@@ -8,7 +8,7 @@
 "lgbtqic02","Integer","","Recommended","Being LGBTQ has very little to do with how I feel about myself","1::7; 9999","1=Strongly Disagree; 2=Somewhat Disagree; 3=Disagree; 4=Neither Agree or Disagree; 5=Agree; 6=Somewhat Agree; 7= Strongly Agree; 9999=Missing Value","cses_2"
 "lgbtqic03","Integer","","Recommended","Being LGBTQ is unimportant to my sense of what kind of a person I am","1::7; 9999","1=Strongly Disagree; 2=Somewhat Disagree; 3=Disagree; 4=Neither Agree or Disagree; 5=Agree; 6=Somewhat Agree; 7= Strongly Agree; 9999=Missing Value","cses_3"
 "lgbtqic04","Integer","","Recommended","In general, being LGBTQ is an important part of my self-image","1::7; 9999","1=Strongly Disagree; 2=Somewhat Disagree; 3=Disagree; 4=Neither Agree or Disagree; 5=Agree; 6=Somewhat Agree; 7= Strongly Agree; 9999=Missing Value","cses_4"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","","assessment.c"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","assessment.c"
 "cses_mean","Float","","Recommended","LGBTQ Identity Centrality Scale Score (mean)","","",""
 "condition_c","Integer","","Recommended","Patient Condition","0::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing","condition.c"
 "proximal_minority_stress42","Integer","","Recommended","Being LGBT+ makes me feel special ","1::7; 9998; 9999","1=Strongly Disagree; 2=Disagree; 3=Somewhat Disagree; 4=Somewhat Agree; 5=Agree; 6=Strongly Agree; 7=Neither Agree nor Disagree; 9998=Do not want to answer; 9999 = Missing Value",""

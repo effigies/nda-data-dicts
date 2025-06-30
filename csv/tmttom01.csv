@@ -16,5 +16,5 @@
 "rt_physical","Float","","Recommended","Reaction time for trials that require understanding physical causality but not theory of mind","","milliseconds",""
 "rt_cognitive","Float","","Recommended","Reaction time for trials that require cognitive theory of mind","","milliseconds",""
 "rt_affective","Float","","Recommended","Reaction time for trials that require affective theory of mind","","milliseconds",""
-"data_file1","File","255","Required","Data file 1","","",""
+"data_file1","File","255","Required","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "experiment_description","String","4000","Recommended","Description of experiment/sequence/event","","",""

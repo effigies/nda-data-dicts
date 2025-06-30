@@ -685,4 +685,4 @@
 "tfmri_mr1_alvsl_bcdk_tppolerh","Float","","Recommended","Beta weight for MID run1 anticipation of large versus small loss contrast in APARC ROI rh-temporalpole","","","tfmri_mid_run1_antic.large.vs.small.loss_beta_cort.desikan_temporalpole.rh,tfmri_mid_run1_anticlargevssmallloss_beta_cortdesikan_temporalpolerh"
 "tfmri_mr1_alvsl_bcdk_tvtprh","Float","","Recommended","Beta weight for MID run1 anticipation of large versus small loss contrast in APARC ROI rh-transversetemporal","","","tfmri_mid_run1_antic.large.vs.small.loss_beta_cort.desikan_transversetemporal.rh,tfmri_mid_run1_anticlargevssmallloss_beta_cortdesikan_transversetemporalrh"
 "tfmri_mr1_alvsl_bcdk_ilarh","Float","","Recommended","Beta weight for MID run1 anticipation of large versus small loss contrast in APARC ROI rh-insula","","","tfmri_mid_run1_antic.large.vs.small.loss_beta_cort.desikan_insula.rh,tfmri_mid_run1_anticlargevssmallloss_beta_cortdesikan_insularh"
-"eventname","String","60","Recommended","The event name for which the data was collected","","",""
+"eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""

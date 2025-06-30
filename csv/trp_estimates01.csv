@@ -10,4 +10,4 @@
 "roadtype3_nox","String","20","Recommended","NOx estimated for secondary state or county highways","","Estimated in parts per billion (ppb)",""
 "roadtype4_nox","String","20","Recommended","NOx estimated for local, neighborhood, rural road, or city street","","Estimated in parts per billion (ppb)",""
 "total_nox_allroads","String","20","Recommended","NOx estimated from all road types","","Estimated in parts per billion (ppb)",""
-"phenotype","String","400","Recommended","Phenotype/diagnosis for the subject","","",""
+"phenotype","String","400","Recommended","Phenotype/diagnosis for the subject","","e.g., Healthy, Control, Suicidal",""

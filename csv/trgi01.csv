@@ -36,4 +36,4 @@
 "trgi_30","Integer","","Recommended","I should have done something that I did not do.","0::4","0= Not at all true; 1= Slightly true; 2= Somewhat true; 3= Very true; 4= Extremely true",""
 "trgi_31","Integer","","Recommended","What I did was unforgivable.","0::4","0= Not at all true; 1= Slightly true; 2= Somewhat true; 3= Very true; 4= Extremely true",""
 "trgi_32","Integer","","Recommended","I did not do anything wrong.","0::4","0= Not at all true; 1= Slightly true; 2= Somewhat true; 3= Very true; 4= Extremely true",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

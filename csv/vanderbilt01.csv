@@ -65,7 +65,7 @@
 "sympscore01","Integer","","Recommended","Total Symptom Score for questions 1?18","","",""
 "totscor03","Integer","","Recommended","Total number of questions scored 4 or 5 in questions 48?55","","",""
 "averagprescor01","Float","","Recommended","Average Performance Score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "nic_pf26","Integer","","Recommended","Participation in organized activities (eg, teams)","1::5","1= Excellent; 2= Above average; 3= Average; 4= Somewhat of a problem; 5= Problematic","pcvndrblt_par"
 "nic_pf19","Integer","","Recommended","Overall school performance","1::5","1= Excellent; 2= Above average; 3= Average; 4= Somewhat of a problem; 5= Problematic","pcvndrblt_pfm"
 "nic_pf20","Integer","","Recommended","Reading","1::5","1= Excellent; 2= Above average; 3= Average; 4= Somewhat of a problem; 5= Problematic","pcvndrblt_rd"

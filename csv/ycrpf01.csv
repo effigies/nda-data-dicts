@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"eventname","String","60","Required","The event name for which the data was collected","","",""
+"eventname","String","60","Required","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
 "su_crpf_avail_1","Integer","","Recommended","If you wanted to get some beer, wine, or hard liquor (for example vodka, whiskey, or gin), how easy would it be for you to get some?","1 ; 2 ; 3 ; 4; 999","1=Very Hard; 2=Sort of hard; 3=Sort of easy; 4=Very easy; 999=Don't know","neighborhood_crime_1_c,su_risk_1"
 "su_crpf_avail_2","Integer","","Recommended","If you wanted to get some cigarettes, how easy would it be for you to get some?","1 ; 2 ; 3 ; 4; 999","1=Very Hard; 2=Sort of hard; 3=Sort of easy; 4=Very easy; 999=Don't know","neighborhood_crime_2_c,su_risk_2"
 "su_crpf_avail_3","Integer","","Recommended","If you wanted to get some electronic nicotine or vaping products, such as e-cigarettes, vape pens, or Juuls,  how easy would it be for you to get some?","1 ; 2 ; 3 ; 4; 999","1=Very Hard; 2=Sort of hard; 3=Sort of easy; 4=Very easy; 999=Don't know","su_risk_3"

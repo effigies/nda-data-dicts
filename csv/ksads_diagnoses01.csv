@@ -619,7 +619,7 @@
 "kssp_q19_p","Integer","","Recommended","past diagnosis of Substance Abuser","0::4","0 = No information; 1 = Not present; 2 = Probable; 4 = Partial remission; 3 = Definite",""
 "kssp_q20_p","Integer","","Recommended","past diagnosis of Post-truamatic stress disorder (Past","0::4","0 = No information; 1 = Not present; 2 = Probable; 4 = Partial remission; 3 = Definite",""
 "visitday","Integer","","Recommended","day of visit","","","kssp_visitdat_x"
-"visit","String","60","Recommended","Visit name","","","kssp_interval"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","kssp_interval"
 "completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","kssp_frmcomp"
 "sadsd1","Integer","","Recommended","Since current episode (or exacerbation) began, when were things the worst for you? At that time, how convinced were you that (delusion) was really true? What did you do about it?
 Severity of non-organic delusion at height of current episode or exacerbation. Consider conviction and effect on behavior.","1::7","1 = Absent; 2 = Delusion(s) suspected or likely; 3 = Delusion(s) present but at times the individual questions belief; 4 = Full delusional conviction, but little or no influence on behavior; 5 = Full delusional conviction, but only minimal impact on behavior; 6 = Delusion(s) ha(s/ve) significant effect on behavior, e.g., neglects responsibilities because of preoccupation with belief that he or she is God; 7 = Delusion(s) ha(s/ve) major impact on behavior, e.g., stops eating because of belief that food is poisoned",""
@@ -711,7 +711,7 @@ A sensory perception without external stimulation of the relevant sensory organ.
 "h12pce","Integer","","Recommended","Evidence of a Precipitant","0::2","0=No Information; 1=Not Present; 2=Present",""
 "pt15pce","Integer","","Recommended","Duration of symptoms (in weeks)","","",""
 "h8pce","Integer","","Recommended","One or combination of hallucinations lasted throughout the day for several days or several times a week for several weeks","1::2","1=No; 2= Yes",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "aesa16","Integer","","Recommended","Weight Gain: Have you had any problems with weight gain? (Severe = new clothes required)","0;1;2;3","0=Absent; 1=Mild; 2=Moderate; 3=Severe",""
 "corn10","Integer","","Recommended","Weight Loss","0::2","0 = Absent; 1 = Mild or Intermittent;  2 = Severe",""
 "diurvar","Integer","","Recommended","Diurnal variation: mood/energy","0::3","0=No variation or not currently present; 1=Mild intensity; 2=Moderate intensity;3=Severe intensity",""

@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","demo_1,gender"
 "daysrz","Integer","","Recommended","days since randomization","","",""
 "pathway","Integer","","Recommended","step pathway","1::9","1=SCP; 2=AD-Acute Depression; 3=REFD-Refractory Dep; 4=RELP-Relapse Prevent; 5=Psy-AD-Psychosocial; 6=Psy-REL-Psychosocial; 7=Omega 3; 8=LiMRS; 9=PAD-Psychosocial",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "certcode","Integer","","Recommended","stepbd certification code","","",""
 "employim","Integer","","Recommended","q1a employment impaired","0::6;-7;999","0=Not applicable; 1=No impairment-high level; 2=No impairment-satisfactory level; 3=Mild impairment; 4=Moderate impairment; 5=Severe impairment; 6=No information; -7=Refused; 999=Missing","emp4m1,lr_1a"
 "houseim","Integer","","Recommended","q1b household impairment","0::6;-7;999","0=Not applicable; 1=No impairment-high level; 2=No impairment-satisfactory level; 3=Mild impairment; 4=Moderate impairment; 5=Severe impairment; 6=No information; -7=Refused; 999=Missing","house3m1,lr_1b"

@@ -39,7 +39,7 @@
 "log035","String","50","Recommended","Was the patient enrolled into the study?","0;1;-888;-999","0=No; 1=Yes; -888=Not Applicable; -999=Missing;",""
 "log036","Integer","","Recommended","Record the Subject ID #","","",""
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "english_yn","Integer","","Recommended","Is this person able to speak, read and understand English?","0;1; -888","0 = No; 1 = Yes; -888 = Not Applicable",""
 "eligen1","Integer","","Recommended","Eligibility Criteria: Being evaluated for suicidal thoughts or actions","0;1","0 = No; 1 = Yes",""
 "eligen2","Integer","","Recommended","Eligibility Criteria: Age >=18 years","0;1; -888","0 = No; 1 = Yes; -888 = Not Applicable",""

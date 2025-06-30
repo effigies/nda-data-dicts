@@ -23,4 +23,4 @@
 "relational_rt","String","20","Recommended","Response time for relational","","",""
 "trial","Integer","","Recommended","Trial number","0::9999; -777; -999","1 = first; 2= second; 3=third; 4=fourth; 5=fifth; 6=sixth; etc; -777=NA, -999=missing",""
 "suj_type","Integer","","Recommended","Subject type","1;2;9","1= patient; 2 =control; 9= pilot",""
-"version_form","String","121","Required","Form used/assessment name","","",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

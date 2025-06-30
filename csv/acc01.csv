@@ -7,7 +7,7 @@
 "site","String","101","Recommended","","Site","","Study Site","asite"
 "clinicid","Integer","","Recommended","","Clinic ID","","","aclinic"
 "interv","Integer","","Recommended","","Intervention Status","0;1","1=ITV, intervention; 0=TAU, treatment as usual",""
-"visit","String","60","Recommended","","Visit name","","","eventname,wave"
+"visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","eventname,wave"
 "days_baseline","Integer","","Recommended","","Days since baseline","","","lof"
 "ustime_coded","Integer","","Recommended","","About how long have you been in the United States? PX011201_Years_living_in_US_Coded","0::95;97;99","0=less than 1 year; 95= 95+ years; 97=Refused; 99=Don't Know","acc2_yrs"
 "acc3_age","Integer","","Recommended","","Age when immigrated to United States","","",""

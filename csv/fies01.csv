@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
 "timeframe_spec","String","100","Recommended","Specify the timeframe (in the past year, past two weeks, etc.) in which elements/items are assessed","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "fies1_12mo","Integer","","Recommended","During the last 12 months, was there a time when, because of lack of money or other resources: You were worried you would not have enough food to eat?","0;1;98;99","0= No; 1= Yes; 98= Do not know; 99= Refused",""
 "fies2_12mo","Integer","","Recommended","During the last 12 months, was there a time when, because of lack of money or other resources: You were unable to eat healthy and nutritious food?","0;1;98;99","0= No; 1= Yes; 98= Do not know; 99= Refused",""
 "fies3_12mo","Integer","","Recommended","During the last 12 months, was there a time when, because of lack of money or other resources: You ate only a few kinds of foods?","0;1;98;99","0= No; 1= Yes; 98= Do not know; 99= Refused",""

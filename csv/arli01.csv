@@ -43,5 +43,5 @@
 "arli_sa","Integer","","Recommended","Self-Acceptance: Items 3, 9, 14, 18, 29, 31","","",""
 "arli_totl","Integer","","Recommended","ARLI Total Score","","ARLI_FO + ARLI_SRC + ARLI_FA + ARLI_PAS + ARLI_SA",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "days_baseline","Integer","","Recommended","Days since baseline","","",""

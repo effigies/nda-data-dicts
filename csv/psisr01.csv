@@ -371,5 +371,5 @@
 "week_num","Integer","","Recommended","Week number since last visit","","",""
 "week_sdate","Date","","Recommended","Start Date of this time frame (MM/DD/YYYY)","","","startdate"
 "week_edate","Date","","Recommended","End Date of this time frame (MM/DD/YYYY)","","","enddate"
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "suicidalideation","Integer","","Recommended","Suicidal Ideation","0::6","0 = Missing; 1 = Not at all; 2 = Slight; 3 = Mild; 4 = Moderate; 5 = Severe; 6 = Extreme",""

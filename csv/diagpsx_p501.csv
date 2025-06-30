@@ -996,4 +996,4 @@
 "pendmimc","String","30","Recommended","Module B: Miscellaneous Disorders - Elimination Disorders (ELIM DIS). Month: One or more severe rating of impairment or distress","","","yendmimc"
 "pendyimd","String","30","Recommended","Module B: Miscellaneous Disorders - Elimination Disorders (ELIM DIS). Year: Impairment D present when impairment B or C are satisified","","","yendyimd"
 "pendmimd","String","30","Recommended","Module B: Miscellaneous Disorders - Elimination Disorders (ELIM DIS). Month: Impairment D present when impairment B or C are satisified","","","yendmimd"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

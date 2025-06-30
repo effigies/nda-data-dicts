@@ -148,7 +148,7 @@
 "pn_ipv8","Integer","","Recommended","2a. Say or do something to humiliate you in front of others?","0::2","0=No; 1=Yes; 2=No Response",""
 "pn_ipv9","Integer","","Recommended","2b. Threaten to hurt or harm you or someone close to you?","0::2","0=No; 1=Yes; 2=No Response",""
 "pn_ipv10","Integer","","Recommended","2c. Insulted you or made you feel bad about yourself?","0::2","0=No; 1=Yes; 2=No Response",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "ev4_p","Integer","","Recommended","Have you done this to your partner? ( Threaten to hurt or harm your partner or someone close to them)","1::3; 88","1= Never; 2= Sometimes; 3= Frequently; 88= Refuse to Answer",""
 "pv1","Integer","","Recommended","Has your partner ever pushed you, shaken you, or thrown something at you?","1::3; 88","1= Never; 2= Sometimes; 3= Frequently; 88= Refuse to Answer",""
 "pv1_p","Integer","","Recommended","Have you done this to your partner? (Pushed, shaken, or thrown something at your partner)","1::3; 88","1= Never; 2= Sometimes; 3= Frequently; 88= Refuse to Answer",""

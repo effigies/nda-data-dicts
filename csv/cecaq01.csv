@@ -132,7 +132,7 @@
 "pts14","Integer","","Recommended","After your 16th birthday, did anyone touch your sexual parts or make you touch their sexual parts against your will","0;1","0=No; 1=Yes",""
 "asatbknw","String","100","Recommended","16+ Years old and Sexually assaulted or raped:  Who was the person that did this to you? Other describe","","",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "days_baseline","Integer","","Recommended","Days since baseline","","",""
 "par2b","Integer","","Recommended","How long did you live in a children's home or institution? (In years)","","",""
 "mfigselecta","String","50","Recommended","Other mother figure being described; Either the one spent most time with, or most difficult to live with","","",""

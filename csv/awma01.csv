@@ -36,4 +36,4 @@
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","pi_staff"
 "awma_dmt_raw","Integer","","Recommended","Dot Matrix Test: Total Raw Score","","",""
 "awma_wrt_raw","Integer","","Recommended","Word Recall Test: Total Raw Score","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

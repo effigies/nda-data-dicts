@@ -4,7 +4,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "piaspe_q1","Integer","","Recommended","Use of the Body Project has clear advantages over other body acceptance/eating disorder prevention interventions for college students.","1::5; 999","1 = strongly disagree; 2 = disagree; 3 = neither agree nor disagree; 4 = agree; 5 = strongly agree; 999 = missing","piass_q1"
 "piaspe_q2","Integer","","Recommended","Use of the Body Project will help to improve body image/eating disorder outcomes of college students.","1::5; 999","1 = strongly disagree; 2 = disagree; 3 = neither agree nor disagree; 4 = agree; 5 = strongly agree; 999 = missing","piass_q2"
 "piaspe_q3","Integer","","Recommended","If I/Peer Educators use all the steps in the Body Project, my/our group members will have improved body image and be less likely develop an eating disorder.","1::5; 999","1 = strongly disagree; 2 = disagree; 3 = neither agree nor disagree; 4 = agree; 5 = strongly agree; 999 = missing","piass_q3"

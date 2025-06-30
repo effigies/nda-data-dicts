@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
 "src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "age_in_days_dot_to_edc","Integer","","Recommended","Age in days obtained by subtracting the Expected Date of Confinement (EDC/Due Date) from the date of test","","","BSID_II_Mental_Scale_Age_in_Days_DOT_to_EDC"
 "admin_status","String","20","Recommended","Instrument administration status","Complete;Partial;Not Administered;Not Applicable","","BSID_II_Mental_Scale_Administration_Status"
 "bsid_ii_mental_scale_age_group","Integer","","Recommended","Bayley Scales of Infant Development II Mental Scale: Age Group - Indicator of age approprate item set","","",""

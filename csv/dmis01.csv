@@ -43,6 +43,6 @@
 "dmis_f4","Float","","Recommended","DMIS Child express mean","1::4","mean",""
 "dmis_f5","Float","","Recommended","DMIS Parent seek mean","1::4","mean",""
 "dmis_mean","Float","","Recommended","DMIS All items mean","1::4","mean",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "diagnosis_notes","String","1000","Recommended","Notes regarding diagnosis","","",""

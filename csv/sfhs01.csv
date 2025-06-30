@@ -30,8 +30,8 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","sf12days,sfea0b"
 "sfea5","Integer","","Recommended","During the past 4 weeks, how much did pain interfere with your normal work (including both work outside the home and housework)?","1::5; -999","1=Not at all; 2=A little bit; 3=Moderately; 4=Quite a bit; 5=Extremely; -999=Missing","pain_interfere_with_work,sf12_5,sf8,vr12_5"
 "sfea7","Integer","","Recommended","During the past 4 weeks, how much of the time has your physical health or emotional problems interfered with your social activities (like visiting friends, relatives, etc.)?","1;2;3;4;5","1=All of the time; 2=Most of the time; 3=Some of the time; 4=A little of the time; 5=None of the time","physical_health_or_emotional_problems_interfere,sf12,sf12_7,vr12_7"
-"version","String","20","Recommended","Version/code of assessment","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","","formid,vers"
+"version","String","20","Recommended","Version/code of assessment","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","formid,vers"
 "sfea4a","Integer","","Recommended","During the past 4 weeks, how much of the time have you had any of the following problems with your
 work or other regular daily activities as a result of any emotional problems (such as feeling depressed or
 anxious)?: Accomplished less than you would like","1::5","1= All of the Time; 2=Most of the time; 3= Some of the time; 4 = A little of the time; 5= None of the time","vr12_4a,vr12_4a_t1,vr12_4a_t2,vr12_4a_t3,vr12_4a_t4"
@@ -42,7 +42,7 @@ anxious)? Did work or other activities less carefully than usual","1::5","1= All
 work or other regular daily activities as a result of your physical health?","1::5","1= All of the Time; 2=Most of the time; 3= Some of the time; 4 = A little of the time; 5= None of the time",""
 "sfea3b","Integer","","Recommended","During the past 4 weeks, how much of the time have you had any of the following problems with your
 work or other regular daily activities as a result of your physical health?","1::5","1= All of the Time; 2=Most of the time; 3= Some of the time; 4 = A little of the time; 5= None of the time",""
-"visit","String","60","Recommended","Visit name","","","tpid,wave"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","tpid,wave"
 "bsln_mcs","Float","","Recommended","Baseline SF12 mental health score","","",""
 "mcs","Float","","Recommended","Computed SF12 Mental Health Score","","",""
 "chng_mcs","Float","","Recommended","Change from Baseline in SF12 Mental Health Score","","",""

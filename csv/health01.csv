@@ -605,7 +605,7 @@
 "lhq_hosp2","String","100","Recommended","If yes, what was the reason for hospitalization","","",""
 "lhq_hosp3","Integer","","Recommended","Have you been told that it may be necessary to be admitted to the hospital or have surgery in the future","0;1","0=No; 1=Yes","la2khealth21"
 "lhq_hosp4","String","100","Recommended","If yes, for what reason (future hospital/surgery)","","",""
-"visit","String","60","Recommended","Visit name","","","visitnum"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visitnum"
 "la2khealth_score","Integer","","Recommended","Total Health score","","Sum of lhq elements (minus lhq_lbs, lhq_hosp2, lhq_hosp4), pregnant, chmedhx38, medhis_othermed, ftnd_7",""
 "primary_diagnosis","String","200","Recommended","Primary diagnosis of subject","","",""
 "whoqol2","Integer","","Recommended","How satisfied are you with your health?","1::5;998;999","1=Very dissatisfied; 2=Dissatisfied/Fairly dissatisfied; 3=Neither satisfied nor dissatisfied; 4=Satisfied; 5=Very satisfied; 998=Don't know; 999=No answer",""

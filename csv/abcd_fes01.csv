@@ -13,5 +13,5 @@
 "fes_youth_q7","Integer","","Recommended","If there's a disagreement in our family, we try hard to smooth things over and keep the peace.","0 ; 1","0 = True; 1 = False","fes_q7"
 "fes_youth_q8","Integer","","Recommended","Family members often try to one-up or outdo each other.","1 ; 0","1 = True; 0 = False","fes_q8"
 "fes_youth_q9","Integer","","Recommended","In our family, we believe you don't ever get anywhere by raising your voice.","0 ; 1","0 = True; 1 = False","fes_q9"
-"eventname","String","60","Recommended","The event name for which the data was collected","","",""
+"eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
 "fes_admin","Integer","","Recommended","Please indicate how instrument was administered:","1::3","1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination [event_name_number] > '21' AND [sched_delay] = '7'",""

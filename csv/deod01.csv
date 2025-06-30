@@ -50,6 +50,6 @@
 "deod_sub9","Integer","","Recommended","Mental effects subscale","","Items: 2, 11, 20, 29",""
 "deod_subts","Integer","","Recommended","Total Score","","",""
 "stime","String","20","Recommended","Session time","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""

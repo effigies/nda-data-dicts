@@ -10,7 +10,7 @@
 "hours_nbs","Float","","Recommended","Time after delivery (hours from birth to blood draw)","","",""
 "total_nbs_vitamin_d","Float","","Recommended","Total vitamin D from newborn bloodspot screening (nmol/L)","","",""
 "total_pns_vitamin_d","Float","","Recommended","Total vitamin D from prenatal (maternal serum) screening (nmol/L)","","",""
-"phenotype","String","400","Recommended","Phenotype/diagnosis for the subject","","","final_case_status"
+"phenotype","String","400","Recommended","Phenotype/diagnosis for the subject","","e.g., Healthy, Control, Suicidal","final_case_status"
 "season_of_birth","Integer","","Recommended","Four seasons assigned based on birth month of child","1 :: 4","1 = Winter; 2 = Spring; 3 = Summer; 4 = Fall",""
 "season_of_blood_draw","Integer","","Recommended","Four seasons assigned based on month of blood draw for prenatal screening","1 :: 4","1 = Winter; 2 = Spring; 3 = Summer; 4 = Fall",""
 "mret_cat","Integer","","Recommended","Mother's race/ethnicity combined category (5 groups)","1 :: 5","1 = White non-Hispanic; 2 = White Hispanic: US Born; 3 = White Hispanic: Not US Born; 4 = Black, Other, Unknown, Refused; 5 = Asian","maternal_race_ethnicity"

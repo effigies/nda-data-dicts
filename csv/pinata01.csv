@@ -16,5 +16,5 @@
 "hits_4_star","Float","","Recommended","Proportion of trials where the participant responded quickly enough to earn the reward when the reward was 4 stars","0::1","0=False, 1=True",""
 "misses_4_star","Float","","Recommended","Proportion of trials where the participant did not respond quickly enough (or responded before the response period began) to earn the reward when the reward was 4 stars","0::1","0=False, 1=True",""
 "rt_hits_4_star","Float","","Recommended","Reaction time for trials where the reward was 4 stars","","milliseconds",""
-"data_file1","File","255","Required","Data file 1","","",""
+"data_file1","File","255","Required","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "experiment_description","String","4000","Recommended","Description of experiment/sequence/event","","",""

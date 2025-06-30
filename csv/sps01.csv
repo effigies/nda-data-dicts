@@ -61,6 +61,6 @@
 "vas_c","String","50","Recommended","Visual/Auditory Sensitivity (Classification)","","",""
 "tot_rs","Float","","Required","Total (Raw Score)","38::190;-9","-9 = Missing value","total"
 "tot_c","String","50","Recommended","Total (Classification)","","",""
-"phenotype","String","400","Required","Phenotype/diagnosis for the subject","","",""
+"phenotype","String","400","Required","Phenotype/diagnosis for the subject","","e.g., Healthy, Control, Suicidal",""
 "respond_detail_oth_spec","String","255","Recommended","Respondent details","","","whoother"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""

@@ -315,7 +315,7 @@
 "basc_sadj_t","Integer","","Recommended","School Adjustment - T Score","","",""
 "basc_sadj_percentile","Integer","","Recommended","School Adjustment - Percentile Rank","","",""
 "basc_sadj_90ci","String","25","Recommended","School Adjustment - 90 % Confidence Interval","","",""
-"version_form","String","121","Required","Form used/assessment name","","",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "afars_20","Integer","","Recommended","I have trouble breathing","0::3","0=Never true; 1=Sometimes true; 2=Most time true; 3=Always true",""
 "basc_a84","Integer","","Recommended","I feel uncomfortable around others","1::4;9","1 = Never; 2 = Sometimes; 3 = Often; 4 = Almost Always; 9 = Missing","basc3_srp_a_084,basc3_srpa_84"
 "basc_a99","Integer","","Recommended","I'm happy with who I am","1::4;9","1 = Never; 2 = Sometimes; 3 = Often; 4 = Almost Always; 9 = Missing","basc3_srp_a_099,basc3_srpa_99"

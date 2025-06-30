@@ -940,7 +940,7 @@
 "padw","String","30","Recommended","Module L: Whole Life (Attention-deficit/Hyperactivity Disorder). Hyperactivity or inattention lifetime","","","yadw"
 "podw","String","30","Recommended","Module L: Whole Life (Oppositional Defiant Disorder). Oppositional Defiant lifetime","","","yodw"
 "dx25","String","30","Recommended","Module L: Whole Life. pwl","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "phmb2m","Integer","","Recommended","Module C: Mood Disorders - Mania/Hypomania (MAN/HYPOMAN)","","Month: Decreased need for sleep","yhmb2m"
 "phmb5m","Integer","","Recommended","Module C: Mood Disorders - Mania/Hypomania (MAN/HYPOMAN)","","Month: Distractibility","yhmb5m"
 "phmb4m","Integer","","Recommended","Module C: Mood Disorders - Mania/Hypomania (MAN/HYPOMAN)","","Month: Flight of ideas or racing thoughts","yhmb4m"

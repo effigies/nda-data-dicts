@@ -86,4 +86,4 @@
 "casegb38","Integer","","Recommended","How good or bad was the event? Subject went on a special holiday (e.ge., overseas, around Australia)","1::6","1= Really good; 2= Quite good; 3= A little good; 4= A little bad; 5= Quite bad; 6= Really bad","pcasegb38"
 "casegb39","Integer","","Recommended","How good or bad was the event? Other upsetting or good event 1","1::6","1= Really good; 2= Quite good; 3= A little good; 4= A little bad; 5= Quite bad; 6= Really bad",""
 "casegb40","Integer","","Recommended","How good or bad was the event? Other upsetting or good event 2","1::6","1= Really good; 2= Quite good; 3= A little good; 4= A little bad; 5= Quite bad; 6= Really bad",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

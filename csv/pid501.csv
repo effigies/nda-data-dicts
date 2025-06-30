@@ -307,4 +307,4 @@
 "abs_037","Integer","","Recommended","Sometimes I feel as if my mind could envelop the whole world.","0::3","0= Very False or Often False; 1= Sometimes or Somewhat False; 2= Sometimes or Somewhat True; 3= Very True or Often True",""
 "abs_045","Integer","","Recommended","I like to watch cloud shapes change in the sky.","0::3","0= Very False or Often False; 1= Sometimes or Somewhat False; 2= Sometimes or Somewhat True; 3= Very True or Often True",""
 "abs_053","Integer","","Recommended","If I wish I can imagine some things so vividly that it s like watching a good movie or hearing a good story.","0::3","0= Very False or Often False; 1= Sometimes or Somewhat False; 2= Sometimes or Somewhat True; 3= Very True or Often True",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

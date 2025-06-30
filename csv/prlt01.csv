@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "site","String","101","Recommended","Site","","Study Site",""
 "handedness","String","29","Recommended","handedness","R;L;B;999;888;777;555","R = Right; L = Left; B = Both; 999= No Answer; 888= Skipped; 777= Condition Skipped; 555= Missing",""
 "prlt_key_press","Integer","","Recommended","ASCII Key Value of response","49::51","49=Left deck; 50=Middle deck; 51=Right deck","key_press"

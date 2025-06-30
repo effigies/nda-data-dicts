@@ -10,5 +10,5 @@
 "percent_strategy","Integer","","Recommended","Percentage of decrease trials participant used distancing strategy (self-report)","1 :: 4","1 = 0-25% ; 2 = 26-50% ; 3 = 51-75% ; 4 = 76-100%",""
 "num_trials","Integer","","Recommended","Number of trials completed","","-999=NA or Missing",""
 "task_version","String","5","Recommended","Task version","MR;B","MR = MRI version; B = behavioral-only (non-MRI) version",""
-"data_file1","File","255","Recommended","Data file 1","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""

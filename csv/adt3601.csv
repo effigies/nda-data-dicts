@@ -39,4 +39,4 @@
 "adt36_a_male_cr","Integer","","Recommended","ADT36 Correct Responses for Males Trials","","",""
 "adt36_a_male_rtcr","Float","","Recommended","Response Time for Correct Males Trials (ms)","","",""
 "adt36_adt36_t","Float","","Recommended","ADT36 Median Response Time for All Correct Responses (ms)","","","adt36.adt36_t"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

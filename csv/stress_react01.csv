@@ -25,7 +25,7 @@
 "heart_rate","Integer","","Recommended","heart rate","","","stress_physio2"
 "blood_ps","Integer","","Recommended","systolic blood pressure","","-99=Missing","stress_physio3"
 "blood_pd","Integer","","Recommended","diastolic blood pressure","","-99=Missing","stress_physio4"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "delay_dis1","Float","","Recommended","Indifference point ranging from 0 to 1 for each delay: 1 day","0::1","",""
 "delay_dis2","Float","","Recommended","Indifference point ranging from 0 to 1 for each delay: 1 week","0::1","",""
 "delay_dis3","Float","","Recommended","Indifference point ranging from 0 to 1 for each delay: 1 month","0::1","",""

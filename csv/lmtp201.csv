@@ -54,4 +54,4 @@
 "lmt_scr_tout_num_stimtype6","Integer","","Recommended","Count Number Timed Out Per Stimulus Type (Forward Down Right)","","",""
 "lmt_scr_tout_num_stimtype7","Integer","","Recommended","Count Number Timed Out Per Stimulus Type (Forward Up Left)","","",""
 "lmt_scr_tout_num_stimtype8","Integer","","Recommended","Count Number Timed Out Per Stimulus Type (Forward Up Right)","","",""
-"eventname","String","60","Recommended","The event name for which the data was collected","","",""
+"eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""

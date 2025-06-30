@@ -339,7 +339,7 @@
 "wais_inf_wrldpop","Integer","","Recommended","World Population","0; 1","",""
 "wais_sml_ylwgrn","Integer","","Recommended","Yellow-Green","0 :: 2","",""
 "wais_vcb_ystrdy","Integer","","Recommended","Yesterday","0; 1; 2","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "visit_year","Integer","","Recommended","Year of visit","","",""
 "fi4t2","Integer","","Recommended","Forward, Item 4, Trial 2","1;2;9","1=Correct; 2=Wrong; 9=Missing",""
 "fi5t1","Integer","","Recommended","Forward, Item 5, Trial 1","1;2;9","1=Correct; 2=Wrong; 9=Missing",""

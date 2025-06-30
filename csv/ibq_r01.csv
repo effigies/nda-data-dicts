@@ -209,7 +209,7 @@
 "ibqsad","Float","","Recommended","IBQ-R: Sadness, mean","","-999 = Missing value","ibq_sadness,ibqsadns,sadness"
 "ibqappr","Float","","Recommended","IBQ-R: Approach, mean","","-999 = Missing value","approach,ibq_approach,ibqaprch"
 "ibqvocrea","Float","","Recommended","IBQ-R: Vocal Reactivity, mean","","-999 = Missing value","ibq_vocal_react,ibqvocal,vocal_reactivity"
-"version_form","String","121","Recommended","Form used/assessment name","","","old_new,ssibqversion_form"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","old_new,ssibqversion_form"
 "bq098","Integer","","Recommended","98. cry or show distress when approached by an   unfamiliar animal?","0::7; -9","0 = Does not apply; 1 = Never; 2 = Very rarely; 3 = Less than half the time; 4 = About half the time; 5 = More than half the time; 6 = Almost always; 7 = Always; -9 = Missing value","ibq81_12,ibqmat81"
 "ibq1_12","Integer","","Recommended","When having to wait for food or liquids how often did your baby seem not bothered?","1::7; 999","1 = Never ; 2 = Very rarely ; 3 = Less than half the time ; 4 = About half the time ; 5 = More than half the time ; 6 = Almost Always ; 7 = Always ; 999 = Not Applicable","ibq1_2,ibqmat1"
 "ibq2_12","Integer","","Recommended","When having to wait for food or liquids how often did your baby show mild fussing?","1::7; 999","1 = Never ; 2 = Very rarely ; 3 = Less than half the time ; 4 = About half the time ; 5 = More than half the time ; 6 = Almost Always ; 7 = Always ; 999 = Not Applicable","ibq1_3,ibqmat2"

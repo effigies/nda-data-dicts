@@ -35,5 +35,5 @@
 "food_selfeff_soc_score","Integer","","Recommended","Food Self-Efficacy - Social Situations","3 :: 12","Total sum of responses to questions 23a, 23b, and 23c",""
 "food_selfeff_emo_score","Integer","","Recommended","Food Self-Efficacy - Emotional Situations","3 :: 12","Total sum of responses to questions 23d, 23e, and 23f",""
 "food_selfeff_nor_score","Integer","","Recommended","Food Self-Efficacy - Normal Situations","3 :: 12","Total sum of responses to questions 23g, 23h, and 23i",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""

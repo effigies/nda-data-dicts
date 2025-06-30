@@ -9,4 +9,4 @@
 "paas3","Integer","","Recommended","Were you an active person and accomplished the goals you set out to do?","0::4","0=Not at all; 1=Yes, a little; 2=Neither little nor much; 3=Yes, a lot; 4=Yes, completely",""
 "paas4","Integer","","Recommended","Did you spend long periods thinking over and over about your problems?","0::4","0=Not at all; 1=Yes, a little; 2=Neither little nor much; 3=Yes, a lot; 4=Yes, completely",""
 "paas5","Integer","","Recommended","Did you do things that were enjoyable?","0::4","0=Not at all; 1=Yes, a little; 2=Neither little nor much; 3=Yes, a lot; 4=Yes, completely",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

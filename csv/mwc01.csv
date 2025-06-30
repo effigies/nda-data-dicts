@@ -23,5 +23,5 @@
 "mwc17","String","100","Recommended","Please indicate whether or not you have experienced these symptoms and rate their severity the last time you stopped smoking marijuana: Other (Describe)","","",""
 "mwc18","Integer","","Recommended","Marijuana Withdrawal Checklist Total Score","0::48","",""
 "mwc19","Integer","","Recommended","Withdrawal Discomfort Score (WDS)","0::36","Higher scores indicate more severe symptoms associated with marijuana withdrawal. Sum of 12 items 1-3, 5-7, 9-11, and 13-15",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "timeframe_spec","String","100","Recommended","Specify the timeframe (in the past year, past two weeks, etc.) in which elements/items are assessed","","",""

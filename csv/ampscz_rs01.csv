@@ -33,4 +33,4 @@
 "ampscz_missing","Integer","","Recommended","Please click if this form is missing all of its data","0;1","0 = Not clicked; 1 = Clicked","chrrecruit_missing"
 "ampscz_missing_spec","Integer","","Recommended","Please specify the reason for missing data on this form","0::6","0 = Evaluation not necessary because the screening visit was less than 21 days from baseline visit; 1 = Measure refusal (no reason provided); 2 = No show; 3 = Research assistant forgot; 4 = Uncontrollable circumstance; 5 = Participant dropped out; 6 = Evaluation not necessary because the screening visit was less than 21 days from baseline visit","chrrecruit_missing_spec"
 "ampscz_entry_date","Date","","Recommended","Date of Data Entry","","MM/DD/YYYY","chrrecruit_entry_date"
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

@@ -929,4 +929,4 @@
 "bu4tny","Integer","","Recommended","BULIMIA NERVOSA DISORDER. BULIMIA NERVOSA DISORDER: Treatment received in the past year","0;1","0=no; 1=yes",""
 "bu4tnw","Integer","","Recommended","BULIMIA NERVOSA DISORDER. BULIMIA NERVOSA DISORDER: Treatment wanted in the past year","0;1","0=no; 1=yes",""
 "diag_agora","Integer","","Recommended","The DSM-IV diagnosis for AGORAPHOBIA","","","ag4"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

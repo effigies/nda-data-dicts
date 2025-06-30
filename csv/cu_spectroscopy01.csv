@@ -12,7 +12,7 @@
 "mrs_raw_water_sdat","File","","Recommended","KKI MEGA-PRESS water-reference data file: Philips SDAT file format containing the raw digitalization of the FID data for the water reference data","","",""
 "mrs_raw_water_spar","File","","Recommended","KKI MEGA-PRESS water-reference header file: Philips SPAR file format containing the scan-acquisition parameter header information.","","",""
 "comment","String","500","Recommended","Miscellaneous comments about assessment","","",""
-"data_file1","File","255","Required","Data file 1","","",""
+"data_file1","File","255","Required","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "data_file1_type","String","300","Required","type of data file 1","","",""
 "scanner_manufacturer_pd","String","30","Required","Equipment Manufacturer","","",""
 "scanner_type_pd","String","50","Required","Equipment Type/name","","",""

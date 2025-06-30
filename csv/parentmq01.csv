@@ -53,7 +53,7 @@
 "pmq_5","Integer","","Recommended","Do you usually know when your child has exams and tests at school?","1 :: 5","1= Almost always; 2= Most of the time; 3= It varies; 4= Seldom; 5= Never",""
 "pmq_6","Integer","","Recommended","Do you know how the child is doing at different subjects at school?","1 :: 5","1= Yes, completely; 2= Yes, rather well; 3= Yes, pretty good; 4= No, very little; 5= No, not at all",""
 "pmq_7","Integer","","Recommended","Do you know what places the child visits when he/she is out with friends in the evening?","1 :: 5","1= Yes, completely; 2= Yes, rather well; 3= Yes, pretty good; 4= No, very little; 5= No, not at all",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "pmq_13_youth","Integer","","Recommended","How often do you keep secrets from your parents about what you do during your free time?","1::5","1=Almost Always; 2=Often; 3=About half of the time; 4=Occasionally; 5=Never",""
 "pmq_14_youth","Integer","","Recommended","How often do you hide from your parents about what you do during nights and weekends?","1::5","1=Almost Always; 2=Often; 3=About half of the time; 4=Occasionally; 5=Never",""
 "pmq_15_youth","Integer","","Recommended","If you are out at night, when you get home, how often do you tell your parents what you have done that evening?","1::5","1=Almost Always; 2=Often; 3=About half of the time; 4=Occasionally; 5=Never",""

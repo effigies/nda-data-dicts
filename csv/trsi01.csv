@@ -30,4 +30,4 @@
 "trsi_24","Integer","","Recommended","Over the past week... I am so ashamed of what happened to me that I sometimes want to become invisible to others.","0 :: 3","0= Not True of Me; 1= Somewhat True of Me; 2= Mostly True of Me; 3= Completely True of Me",""
 "trsi_internal","Float","","Recommended","Total Score of Internal Shame","0::36","Sum of items trsi_01, 03, 05, 08, 09, 10, 11, 13, 15, 20, 21, 23",""
 "trsi_external","Float","","Recommended","Total Score of External Shame","0::36","Sum of items trsi_02, 04, 06, 07, 12, 14, 16, 17, 18, 19, 22, 24",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

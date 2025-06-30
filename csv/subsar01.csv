@@ -33,4 +33,4 @@
 "suds3_p_5_c","Integer","","Recommended","SET 3: How much do you feel: Irritable/ Annoyed/ Frustrated?","0::100","0=Not at all; 100=Extremely",""
 "suds3_p_6_c","Integer","","Recommended","SET 3: When I was feeling negative emotions, I was careful not to express them.","0::100","0=Not at all; 100=Extremely",""
 "suds3_p_7_c","Integer","","Recommended","SET 3: When I was feeling positive emotions, I was careful not to express them.","0::100","0=Not at all; 100=Extremely",""
-"version_form","String","121","Recommended","Form used/assessment name","","","sudscform"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","sudscform"

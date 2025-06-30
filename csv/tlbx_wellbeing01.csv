@@ -100,7 +100,7 @@
 "pa110","Integer","","Recommended","Indicate how much you agree or disagree; I am satisfied with my size and appearance.","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much",""
 "pa112","Integer","","Recommended","Indicate how much you agree or disagree; I am satisfied with my skills and talents.","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much",""
 "pa113","Integer","","Recommended","Indicate how much you agree or disagree; I am satisfied with the neighborhood and community in which I live.","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much",""
-"version_form","String","121","Recommended","Form used/assessment name","","","assessment_name,gls_version,inst"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","assessment_name,gls_version,inst"
 "visit_num","Integer","","Recommended","Visit number","1::3","1=Baseline, 2=12 Month, 3=24 Month",""
 "pa049m","Integer","","Recommended","My life situation is excellent.","1::7","1= Strongly disagree, 2= Disagree, 3= Slightly disagree, 4= Neither agree nor disagree, 5= Slightly agree, 6= Agree, 7= Strongly agree",""
 "pa049m_theta","Float","","Recommended","PA049m Theta","","",""

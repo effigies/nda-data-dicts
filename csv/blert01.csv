@@ -28,7 +28,7 @@
 "q21_fear","Integer","","Recommended","21. Fear","0;1","0 = Incorrect;1 = Correct",""
 "blert_tr","Integer","","Recommended","Total right","","",""
 "blert_tw","Integer","","Recommended","Total Wrong","","",""
-"visit","String","60","Recommended","Visit name","","","assessment_number"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment_number"
 "blert_01","String","3","Recommended","BLERT, item 1","HAP; SAD; SUR; DIS; ANG; FEA; NOE","HAP=happiness; SAD=sadness; SUR=surprise; DIS=disgust; ANG=anger; FEA=fear; NOE=no emotion",""
 "blert_02","String","3","Recommended","BLERT, item 2","HAP; SAD; SUR; DIS; ANG; FEA; NOE","HAP=happiness; SAD=sadness; SUR=surprise; DIS=disgust; ANG=anger; FEA=fear; NOE=no emotion",""
 "blert_03","String","3","Recommended","BLERT, item 3","HAP; SAD; SUR; DIS; ANG; FEA; NOE","HAP=happiness; SAD=sadness; SUR=surprise; DIS=disgust; ANG=anger; FEA=fear; NOE=no emotion",""

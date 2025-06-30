@@ -48,4 +48,4 @@
 "acipsfactor4","Integer","","Recommended","Family-related interactions","","",""
 "acips_mean","Float","","Recommended","ACIPS Mean","","",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

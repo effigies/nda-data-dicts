@@ -20,4 +20,4 @@
 "daytoday_14","Integer","","Recommended","I find myself doing things without  paying attention.","1::7","1 = Almost Always ; 2 = Very Frequently ; 3 = Somewhat Frequently ; 4 = Somewhat Infrequently ; 5 = Very Infrequently ; 6 = Almost Never; 7 = I prefer not to answer",""
 "daytoday_15","Integer","","Recommended","I snack without being aware that I'm eating.","1::7","1 = Almost Always ; 2 = Very Frequently ; 3 = Somewhat Frequently ; 4 = Somewhat Infrequently ; 5 = Very Infrequently ; 6 = Almost Never; 7 = I prefer not to answer",""
 "maas_score","Float","","Recommended","Mindful Attention Awareness Scale: Score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

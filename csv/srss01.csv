@@ -14,4 +14,4 @@
 "srf070","Integer","","Recommended","I do not feel embarrassed because of my mental health problems","1::7","1=Strongly disagree;2=Moderately disagree;3=Slightly disagree;4=Neutral;5=Slightly agree;6=Moderately agree;7=Strongly agree",""
 "stigmax","Float","","Recommended","Full-Scale 7-Item Mean Total Score","0::7","",""
 "srf071","Integer","","Recommended","I feel the need to hide my mental health problems from my friends ","1::7","1=Strongly disagree;2=Moderately disagree;3=Slightly disagree;4=Neutral;5=Slightly agree;6=Moderately agree;7=Strongly agree",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

@@ -135,7 +135,7 @@
 "psoc_36m_asq5","Integer","","Recommended","Using these exact words, ask your child, 'Are you a girl or a boy?' Does your child answer correctly? (optional)","1::3","1=Not yet; 2=Sometimes; 3=Yes",""
 "psoc_36m_asq6","Integer","","Recommended","Does your child take turns by waiting while another child or adult takes a turn?","1::3","1=Not yet; 2=Sometimes; 3=Yes",""
 "asq_36m_persocial_total","Integer","","Recommended","Sum of all 36m personal-social items","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "com_36m_asq1","Integer","","Recommended","When you ask your child to point to her/his nose, eyes, hair, feet, ears, and so forth, does s/he correctly point to at least seven body parts? (s/he can point to parts of her/himself, you, or a doll. Select 'Sometimes' if s/he correctly points to at least 3 different body parts).","1::3","1=Not yet; 2=Sometimes; 3=Yes",""
 "com_36m_asq2","Integer","","Recommended","Does your child make sentences that are three or four words long?","1::3","1=Not yet; 2=Sometimes; 3=Yes",""
 "com_36m_asq3","Integer","","Recommended","Without giving your child help by pointing or using gestures, ask her/him to 'put the book on the table' and 'put the shoe under the chair.' Does your child carry out both of these directions correctly?","1::3","1=Not yet; 2=Sometimes; 3=Yes",""

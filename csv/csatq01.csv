@@ -4,7 +4,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"version_form","String","121","Required","Form used/assessment name","","",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "csq_p_1","Integer","","Recommended","I felt involved during the consultation and able to express my views.","1::4; 888; 999","1 = Strongly disagree; 4 = Strongly agree; 888 = not applicable; 999 = missing","csq_s_1,csq_t_1"
 "csq_p_2","Integer","","Recommended","The consultant's communication skills were effective.","1::4; 888; 999","1 = Strongly disagree; 4 = Strongly agree; 888 = not applicable; 999 = missing","csq_s_2,csq_t_2"
 "csq_p_3","Integer","","Recommended","The consultant listened to what I had to say.","1::4; 888; 999","1 = Strongly disagree; 4 = Strongly agree; 888 = not applicable; 999 = missing","csq_s_3,csq_t_3"

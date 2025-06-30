@@ -35,6 +35,6 @@
 "plot_novel_pointing3_acc","Float","","Recommended","Novel Word Pointing Task: Total Comprehension Accuracy for SET 3 (Percent Correct out of 8)","0::100;9999","9999 = Missing value",""
 "plot_novel_labeling3_acc","Float","","Recommended","Novel Word Labeling Task: WORD Total Production Accuracy for SET 3 (Percent Correct out of 8)","0::100;9999","9999 = Missing value","plot_novel_labeling3_acc_w"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "p_nonword_total","Float","","Recommended","TOTAL POINTING SUMMARY FOR SETS 1, 2, 3 - Comprehension Accuracy Total (Out of 24 Words)","0::100;9999","9999 = Missing value",""
 "l_123_total_acc_words","Float","","Recommended","TOTAL LABELING SUMMARY FOR SETS 1, 2, 3 - Production Accuracy Total (Out of 24 Words)","0::100;9999","9999 = Missing value",""

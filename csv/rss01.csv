@@ -29,6 +29,6 @@
 "rss_ag","Integer","","Recommended","Alienation from God Subscale","","","rss_alien"
 "rss_fg","Integer","","Recommended","Fear and Guilt Subscale","","","rss_fear.guilt"
 "rss_rr","Integer","","Recommended","Religious Rifts Subscale","","","rss_rifts"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","","assessment.c"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","assessment.c"
 "rss_total","Integer","","Recommended","Religious Strain Scale Total Score","","",""
 "condition_c","Integer","","Recommended","Patient Condition","0::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing","condition.c"

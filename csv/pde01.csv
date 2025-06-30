@@ -158,7 +158,7 @@
 "sum_81","Integer","","Recommended","Points Assigned: Sadistic","","","10200"
 "sum_82","Integer","","Recommended","Points Assigned: Depressive","","","10201"
 "sum_83","String","25","Recommended","Criteria Endorsed","","","10202"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "pde_101","Integer","","Recommended","Paranoid Personality Disorder Diagnosis from SO reports","","",""
 "respond","Integer","","Recommended","Respondent","1::7;999","1 = Parent; 2 = Teacher; 3=Self; 4= Other; 5= Significant other; 6 = Parent 1; 7 = Parent 2; 999 = Not available",""
 "pde_102","Integer","","Recommended","Schizoid Personality Disorder Diagnosis from SO reports","","",""

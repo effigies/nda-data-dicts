@@ -29,4 +29,4 @@
 "edfq_personalfears","Float","","Recommended","Fear of personal consequences (scale score)","1::7","Average of (edfq_11, edfq_14, edfq_15, edfq_16, edfq_17)",""
 "edfq_physicalfears","Float","","Recommended","Fear of physical sensations (scale score)","1::7","Average of (edfq_13, edfq_18, edfq_19)",""
 "edfq_socialeatingfears","Float","","Recommended","Fear of social eating (scale score)","1::7","Average of (edfq_12, edfq_20)",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

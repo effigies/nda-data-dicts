@@ -5,7 +5,7 @@
 "patid","String","20","Recommended","A Participant ID","","",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "pddbi","Integer","","Recommended","PDDBI","","",""
 "pddbi_version","String","35","Recommended","PDDBI Version","","",""
 "pddbiaggatobiteself","Integer","","Recommended","Bites self","0; 1; 2; 3; 4; -7; -8; -9","0 = Does not show this behavior; 1 = Rarely; 2 = Sometimes/partially; 3 = Often/typically; 4 = Used to show this behavior; -7 = Don't know; -8 =  Refused to answer; -9 = Does not apply",""

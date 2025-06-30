@@ -14,14 +14,14 @@ words and then asked to recall as many as possible. This is done 5 times.","vm_v
 "baca5","Integer","","Recommended","Trial 3","0::15","Record the number of words the participant recalls (1-15) during each of the five trials. Word repetitions do not receive credit. Addition or omission of simple suffixes (�s� or �ed�) that do not change the meaning of the word, DO receive credit.","bacs_verb_mem_t3,bacs_vm_trial_3"
 "baca6","Integer","","Recommended","Trial 4","0::15","Record the number of words the participant recalls (1-15) during each of the five trials. Word repetitions do not receive credit. Addition or omission of simple suffixes (�s� or �ed�) that do not change the meaning of the word, DO receive credit.","bacs_verb_mem_t4,bacs_vm_trial_4"
 "baca7","Integer","","Recommended","Trial 5","0::15","Record the number of words the participant recalls (1-15) during each of the five trials. Word repetitions do not receive credit. Addition or omission of simple suffixes (�s� or �ed�) that do not change the meaning of the word, DO receive credit.","bacs_verb_mem_t5,bacs_vm_trial_5"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","",""
 "fseqno","Integer","","Recommended","Sequence Number","0::999","The FSEQNO variable in the ADJ form has a special interpretation compared to other forms.
 For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' can be thought of as
 being '002', and FSEQNO of '3' can be thought of as being '003'.
 The first digit of FSEQNO relates to the corresponding ENF sequence number at that visit and the third
 digit relates to the specific adjudicator who completed the adjudication form.",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "site","String","101","Recommended","Site","","Study Site",""
 "medhx_colorblind","Integer","","Recommended","Color blind?","0;1","0 = No, 1 = Yes","colorblind"
 "left_hand","Integer","","Recommended","Is the patient Left-Handed?","0;1","0=No; 1=Yes","lefthanded"
@@ -187,7 +187,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "bacfluf","Integer","","Recommended","Animal Naming Letter F","","","bacslf"
 "bacflus","Integer","","Recommended","Animal Naming Letter S","","","bacsls"
 "edutot","Float","","Recommended","Total years of education","","",""
-"treatment_name","String","200","Recommended","treatment name","","",""
+"treatment_name","String","200","Recommended","treatment name","","e.g., Control, Intervention, Experimental, Placebo",""
 "bacs_vm_agt","Integer","","Recommended","BACS Verbal Memory (corrected T-score)","","","bacs_tm_tscore,bacs_vm_tscore,vmtscore"
 "bacs_sc_tscore","Integer","","Recommended","Brief Assessment of Cognition in Schizophrenia: Symbol-Coding subtest* (# correct; T-score)","","","sctscore"
 "ds_normed","Integer","","Recommended","Digit Sequencing: t score","","","bacs_ds_tscore,dstscore"
@@ -211,8 +211,8 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "total_perseverations","Integer","","Recommended","Number of perseverations for numbered interval","","",""
 "lineno","Integer","","Recommended","Line number (lines per participant)","0::150","",""
 "total_words","Integer","","Recommended","Total words produced","","",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "bacspc","Float","","Recommended","BAC Percentile","","",""
 "groups","Integer","","Recommended","Group","0;1","0=Control; 1=Case",""
 "bacs_normed_4item","Integer","","Recommended","4 Item Composite BAC Score (T Score)","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

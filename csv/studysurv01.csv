@@ -49,7 +49,7 @@
 "basics10","Integer","","Recommended","Would you be interested in continuing with for an additional year?","0; 1","0=No; 1=Yes",""
 "basics10exp","String","300","Recommended","If not interested in continuing, please explain why not.","","",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "nimhrv_satisfaction_01","Integer","","Recommended","Did you have difficulty enrolling in the study?","0 :: 1","0=No; 1=Yes",""
 "nimhrv_satisfaction_01a","String","200","Recommended","Did you have difficulty enrolling in the study? Description","","",""
 "nimhrv_satisfaction_02","Integer","","Recommended","How would you rate the professionalism of the research staff?","0 :: 4","0=Poor; 1=Fair; 2=Good; 3=Very Good; 4=Excellent",""

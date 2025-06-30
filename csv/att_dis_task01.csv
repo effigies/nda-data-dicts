@@ -32,4 +32,4 @@
 "adts1_deprel_intf","Float","","Recommended","Interference for depression-related word trials","","MEAN depression-related RT - MEAN neutral RT; 7777=Not applicable; 9999=Refuse","adts1_depressionrelated_interference"
 "adts1_pos_intf","Float","","Recommended","Interference for positive-valanced word trials","","MEAN positive-valenced RT - MEAN neutral RT; 7777=Not applicable; 9999=Refuse","adts1_positive_interference"
 "adts1_posintp_intf","Float","","Recommended","Interference for positive-valanced interpersonal word trials","","MEAN positive-valenced interpersonal RT - MEAN neutral RT; 7777=Not applicable; 9999=Refuse","adts1_positiveinterpersonal_interference"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

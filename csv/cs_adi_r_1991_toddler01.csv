@@ -4,7 +4,7 @@
 "cycle","Integer","","Recommended","Timepoint information","","-1 = Screener; 0 = Baseline; 97 = Taper; 98 = Withdrawal; 99 = Interim contact; Otherwise: weeks since baseline",""
 "patid","String","20","Recommended","A Participant ID","","",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "adi_al_acvos_a","Integer","","Recommended","Preacademic, academic or vocational skills:  Before age 5.0","0::2; 8; 9; 888; 999","0 = None; 1 = Possible loss; 2 = Definite loss; 8 = N/A; 9 = N/K or not asked; 888=Blank, but applicable response; 999=Missing",""
 "adi_al_acvos_b","Integer","","Recommended","Preacademic, academic or vocational skills:  After age 5.0","0::2; 8; 9; 888; 999","0 = None; 1 = Possible loss; 2 = Definite loss; 8 = N/A; 9 = N/K or not asked; 888=Blank, but applicable response; 999=Missing",""

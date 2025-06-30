@@ -19,7 +19,7 @@
 "moderate_activity_score","Float","","Recommended","Moderate Exercise Score","","",""
 "mild_activity_score","Float","","Recommended","Mild Exercise Score","","",""
 "total_activity_score","Float","","Recommended","Total Activity Score","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "visit_year","Integer","","Recommended","Year of visit","","",""
 "lteq_8","Integer","","Recommended","During a typical 7-day period (a week), in your leisure time, how often do you engage in any regular activity long enough to work up a sweat (heart beats rapidly)?","1::3","1 = Often; 2 = Sometimes; 3 = Never/Rarely",""

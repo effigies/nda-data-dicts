@@ -18,7 +18,7 @@
 "rbsr_restricted_total","Integer","","Recommended","Restricted Behavior (Total subscale score)","0 :: 32;-9","-9=NK","Restricted_Total"
 "rbsr_overall_endorsed","Integer","","Recommended","Overall number of items endorsed","","","Overall_Endorsed"
 "rbsr_overall_total","Integer","","Recommended","Overall score","","","Overall_Total"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "site","String","101","Recommended","Site","","Study Site",""
 "respond_detail_oth_spec","String","255","Recommended","Respondent details","","","completed_by_other"
 "comments1","String","1000","Recommended","Comments 1","","","page_2_comments"

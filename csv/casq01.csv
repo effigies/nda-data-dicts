@@ -75,4 +75,4 @@
 "casqr22","Integer","","Recommended","You fail a test.","0;1;9999","1 = All tests are hard; 0 = Only some tests are hard; 9999 = NA/missing",""
 "casqr23","Integer","","Recommended","You hit a home run in a ball game.","0;1;9999","1 = I swung the bat just right; 0 = The pitcher threw an easy pitch; 9999 = NA/missing",""
 "casqr24","Integer","","Recommended","You do the best in your class on a paper.","0;1;9999","1 = The other kids in my class did not work hard on their papers; 0 = I worked hard on my paper; 9999 = NA/missing",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

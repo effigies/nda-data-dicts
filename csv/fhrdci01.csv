@@ -82,7 +82,7 @@
 "father_1_dd_som","Integer","","Recommended","Parent/Parent figure: Depressive Disorder: Somatic Treatment","0::1","0 = No; 1 = Yes","mother_1_dd_som"
 "father_1_dd_psych","Integer","","Recommended","Parent/Parent figure: Depressive Disorder: Psychosocial Treatment","0::1","0 = No; 1 = Yes","mother_1_dd_psych"
 "age_at_death_months","Integer","","Recommended","Age at death in months","","","father_1_d,mother_1_d"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "lt_mania_aoo","Integer","","Recommended","Mania Age of Onset","0::100","",""
 "lt_mania_yrs","Integer","","Recommended","Number of Years with Mania","0::100","",""
 "lt_panic","Integer","","Recommended","LT History of Panic indicator","0; 1","0=False; 1=True",""

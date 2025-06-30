@@ -13,7 +13,7 @@
 "desire_score","Float","","Recommended","CSUS Desire Score","","",""
 "intention_score","Float","","Recommended","CSUS Intention Score","","",""
 "emotion_score","Float","","Recommended","CSUS Emotion Score","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "site","String","101","Recommended","Site","","Study Site",""
 "q1_talks_diffs_wants","Integer","","Recommended","My child: Talks about differences in what people like or want (e.g., ""You like coffee but I like juice"").","1::4; 97","1 = Definitely untrue; 2 = Somewhat untrue; 3 = Somewhat true; 4 = Definitely true; 97 = Don't Know",""
 "q2_tries_understand_emotions","Integer","","Recommended","My child: Tries to understand the emotions of other people    (e.g., wants to know why you are crying).","1::4; 97","1 = Definitely untrue; 2 = Somewhat untrue; 3 = Somewhat true; 4 = Definitely true; 97 = Don't Know",""

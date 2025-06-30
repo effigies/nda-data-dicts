@@ -31,5 +31,5 @@
 "weather_block7","Float","","Recommended","Percent correct for Weather Prediction Task Block 7","","",""
 "weather_block8","Float","","Recommended","Percent correct for Weather Prediction Task Block 8","","",""
 "weather_block9","Float","","Recommended","Percent correct for Weather Prediction Task Block 9","","",""
-"data_file1","File","255","Recommended","Data file 1","","","weather_data_file"
-"visit","String","60","Recommended","Visit name","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv","weather_data_file"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

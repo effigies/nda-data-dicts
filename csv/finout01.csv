@@ -7,7 +7,7 @@
 "site","String","101","Recommended","Site","","Study Site",""
 "risk_cs","Integer","","Recommended","Clinical status risk level","1;2","1 = Low (Asymptomatic recovery), 2 = High (Symptomatic recovery, Recovering, Prodromal, Continued Symptomatic)",""
 "risk_p","Integer","","Recommended","Pregnancy risk level","0;1","0 = Low (Not pregnant), 1 = High (Pregnant)",""
-"trtarm","String","200","Recommended","Treatment arm","","","arm"
+"trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","arm"
 "enr_status","Integer","","Recommended","Final enrollment status","1::3","1 = Completed study, 2 = Voluntarily withdrew, 3 =  Lost to follow up",""
 "r_wks","Integer","","Recommended","Weeks to relapse","-3::47","Total number of weeks to mood episode; - 1 = Baseline only, -2 = Never relapsed final assessment prior to week 48, -3 = Never relapsed",""
 "r_cs","Integer","","Recommended","Clinical status code at time of relapse"," -2::8","'-2 = Never relapsed final assessment prior to week 48 , -1 = Baseline assessment only, 0 = Never Relapsed, 5 = Hypomania, 6 = Mania, 7 = Depression, 8 = Mixed",""

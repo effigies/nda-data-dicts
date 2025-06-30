@@ -41,4 +41,4 @@
 "ecmspspec_v2_v3","Integer","","Recommended","Evidence of Encopresis. Specify type.","1;2","1 = With constipation and overflow incontinence; 2 = Without constipation and overflow incontinence",""
 "ksecdis1_v2","Integer","","Recommended","Encopresis: Distress","0;1","0 = No; 1 = Yes",""
 "ageonset_encopresis_v2","String","50","Recommended","Encopresis: Age of onset that episodes first started","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

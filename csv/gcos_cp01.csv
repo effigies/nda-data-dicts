@@ -28,4 +28,4 @@
 "gcos_cp_08a","Integer","","Recommended","You feel that your friend or roommate is being inconsiderate. You would probably: Find an opportunity to explain why it bothers you; your friend or roommate may not even realize how much it is bothering you.","1::7","1= Very Unlikely; 4= Moderately Likely; 7= Very Likely",""
 "gcos_cp_08b","Integer","","Recommended","You feel that your friend or roommate is being inconsiderate. You would probably: Say nothing; if your friend or roommate cared about you she would understand how you felt.","1::7","1= Very Unlikely; 4= Moderately Likely; 7= Very Likely",""
 "gcos_cp_08c","Integer","","Recommended","You feel that your friend or roommate is being inconsiderate. You would probably: Demand that your friend or roommate start being more considerate; otherwise you will respond similarly.","1::7","1= Very Unlikely; 4= Moderately Likely; 7= Very Likely",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

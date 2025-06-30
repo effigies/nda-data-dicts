@@ -46,7 +46,7 @@
 "intelint_score","Integer","","Required","""Intellectual intimacy: items: 4, 10, 16, 22, 28, 34""","","-99= Missing",""
 "recrint_score","Integer","","Required","""Recreational Intimacy: items: 5, 11, 17, 23, 29, 35""","","-99= Missing",""
 "convint_score","Integer","","Required","""Conventional Intimacy: items: 6, 12, 18, 24, 30, 36""","","-99= Missing",""
-"version_form","String","121","Required","Form used/assessment name","","",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "rrq_pals08","Integer","","Recommended","My partner knows when I'm upset.","0 :: 8","0= Never; 1= Almost Never; 2= Rarely; 3= Almost Rarely; 4= Once in a While; 5= Almost Fairly Often; 6= Fairly Often; 7= Almost Always; 8= Always",""
 "rrq_pals09","Integer","","Recommended","My partner helps me do things.","0 :: 8","0= Never; 1= Almost Never; 2= Rarely; 3= Almost Rarely; 4= Once in a While; 5= Almost Fairly Often; 6= Fairly Often; 7= Almost Always; 8= Always",""
 "rrq_pals10","Integer","","Recommended","My partner points out things that I am good at.","0 :: 8","0= Never; 1= Almost Never; 2= Rarely; 3= Almost Rarely; 4= Once in a While; 5= Almost Fairly Often; 6= Fairly Often; 7= Almost Always; 8= Always",""

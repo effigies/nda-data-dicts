@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"eventname","String","60","Required","","The event name for which the data was collected","","",""
+"eventname","String","60","Required","","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
 "ra_scan_cl_prescr_order","String","60","Recommended","","Prescribed task/trial order","","This field references the task and trial order values displayed in ""Special Instrument Participation"".","scan_check_prescr_order"
 "ra_scan_cl_non_rand","Integer","","Recommended","","A non-prescribed task and/or trial order was used for this scan.","0 ; 1","1 = Yes; 0 = No","scan_check_non_rand"
 "ra_scan_cl_task_ord_used","Integer","","Recommended"," ra_scan_cl_non_rand   == 1","fMRI task order used instead","1 ; 2 ; 3 ; 4 ; 5 ; 6","1 = 1 (SST -> MID -> NBACK); 2 = 2 (SST ->NBACK -> MID); 3 = 3 (MID -> SST  -> NBACK); 4 = 4 (MID -> NBACK -> SST); 5 = 5 (NBACK -> MID -> SST); 6 = 6 (NBACK -> SST -> MID)","scan_check_task_ord_used"

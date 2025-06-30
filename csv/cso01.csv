@@ -7,7 +7,7 @@
 "site","String","101","Recommended","Site","","Study Site","asite"
 "clinicid","Integer","","Recommended","Clinic ID","","","aclinic"
 "interv","Integer","","Recommended","Intervention Status","0;1","1=ITV, intervention; 0=TAU, treatment as usual",""
-"visit","String","60","Recommended","Visit name","","","wave"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","wave"
 "days_baseline","Integer","","Recommended","Days since baseline","","","lof"
 "cso1","Integer","","Recommended","People differ a lot in their feelings about professional help for emotional problems. If you had a serious emotional problem, would you definitely go for professional help, probably go, probably not go, or definitely not go for professional help?","1::4","1 = definitely go; 2 = probably go; 3 = probably not go; 4 = definitely not go;",""
 "cso2","Integer","","Recommended","How comfortable would you feel talking about personal problems with a professional?","1::4","1 = very; 2 = somewhat; 3 = not very; 4 = not at all;",""

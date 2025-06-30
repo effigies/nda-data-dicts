@@ -65,7 +65,7 @@
 "sdnight_crave_i2","String","25","Recommended","At what time did you experience the highest urges for tobacco?","","",""
 "sdnight_physdisc","Integer","","Recommended","Did you experience any physical discomfort that you expect might affect your sleep tonight?","1::4","1 = No; 2 = Yes, pain; 3 = Yes, sick; 4 = Yes, other",""
 "sdnight_physdis_oth","String","100","Recommended","If Other, please specify the physical discomfort that you expect might affect your sleep tonight","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "am_ydsleep12","String","50","Recommended","In total, how long did you sleep? This should just be your best estimate, based on when you went to bed and woke up, how long it took you to fall asleep, and how long you were awake. You do not need to calculate this by adding and subtracting; just give your best estimate.","","",""
 "alcohol_tlfb","Integer","","Recommended","How many drinks containing alcohol did you have? Please make your best guess if you cannot remember exactly.","0::50","",""
 "sleepdiary_11b","String","50","Recommended","What time was your last drink?","","",""

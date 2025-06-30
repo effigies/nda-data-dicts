@@ -55,5 +55,5 @@
 "aq_tscore","Integer","","Required","AQ T score","","999 = Missing","aqtsc"
 "site","String","101","Recommended","Site","","Study Site",""
 "days_baseline","Integer","","Recommended","Days since baseline","","",""
-"visit","String","60","Recommended","Visit name","","","tpoint"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","tpoint"
 "fspgod","String","70","Recommended","Subject's gender OTHER describe","","",""

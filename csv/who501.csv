@@ -19,5 +19,5 @@
 "session_id","String","20","Recommended","session ID/screening ID","","","sessionid"
 "elapsedtime","Float","","Recommended","Time it took to run script (in ms); measured from onset to offset of script","","",""
 "script_completed","Integer","","Recommended","Whether script was completed","0;1","0 = Script was not completed (prematurely aborted); 1 = Script was completed (all conditions run)","completed"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
-"trtarm","String","200","Recommended","Treatment arm","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo",""

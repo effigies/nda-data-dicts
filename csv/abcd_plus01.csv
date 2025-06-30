@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"eventname","String","60","Required","","The event name for which the data was collected","","",""
+"eventname","String","60","Required","","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
 "pls1_sess","Integer","","Recommended","","Have participant complete right before the final NP or MRI session. Which session was this given at?","0::4","0 = NP Session 1; 1 = NP Session 2; 2 = MRI Session 1; 3 = MRI Session 2; 4 = Other","su_pls1_sess"
 "pls1_sess_date_time","Date","","Recommended","","Enter current date and time","","","su_pls1_sess_date_time"
 "pls1_otc_rx_y","Integer","","Recommended","","Have you used any over-the-counter or prescription medications in the last 24 hours?","0 ; 1","1 = Yes; 0 = No","su_pls1_otc_rx"

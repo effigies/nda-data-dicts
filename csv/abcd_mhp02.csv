@@ -4,7 +4,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"eventname","String","60","Recommended","The event name for which the data was collected","","",""
+"eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
 "pgbi_p_ss_score","Integer","","Recommended","Parent General Behavior Inventory SUM:  gen_child_behav_1 + gen_child_behav_2 + gen_child_behav_3 + gen_child_behav_4 + gen_child_behav_5 + gen_child_behav_6 + gen_child_behav_7 + gen_child_behav_8 + gen_child_behav_9 +  gen_child_behav_10;  Validation: All items must be answered","","Youngstrom, E. A.,  Frazier, T. W., et al. (2008) Developing a 10-item mania scale from the Parent General Behavior Inventory for children and adolescents. æJ Clin Psychiatry 9(5): 831-839.","pgbi_ss_score_p"
 "pgbi_p_ss_score_nm","Integer","","Recommended","Parent General Behavior Inventory, Sum:  Number Missing Answers","","","pgbi_ss_score_nm_p"
 "pgbi_p_ss_score_nt","Integer","","Recommended","Parent General Behavior Inventory, Sum:  Number Total Questions","","","pgbi_ss_score_nt_p"

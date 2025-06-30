@@ -28,7 +28,7 @@
 "tas_factor1_score","Integer","","Recommended","Factor 1 - Difficulty Identifying Emotions","","",""
 "tas_factor2_score","Integer","","Recommended","Factor 2 - Difficulty Describing Feelings","","",""
 "tas_factor3_score","Integer","","Recommended","Factor 3 - Externally-Oriented Thinking","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","","assessment_type,timepoint"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","assessment_type,timepoint"
 "studynumber","Integer","","Recommended","IRB protocol number","","",""
 "tas20_5r","Integer","","Recommended","I prefer to analyze problems rather than just describe them. (Reverse Scored)","1::5","1= Strongly agree; 2= Agree; 3= Neutral; 4= Disagree; 5= Strongly Disagree","tas_eo1"
 "tas20_10r","Integer","","Recommended","Being in touch with emotions is essential. (Reverse Scored)","1::5","1= Strongly agree; 2= Agree; 3= Neutral; 4= Disagree; 5= Strongly Disagree","tas_eo3"

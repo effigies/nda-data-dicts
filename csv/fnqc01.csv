@@ -23,7 +23,7 @@
 "fnq_mh_9_other","Float","","Recommended","How much money do you get from other sources per month?","","dollars","fnq_c_9_other"
 "fnq_mh_9_other_specified","String","50","Recommended","How much money do you get from other sources per month? Specify ""Other""","","","fnq_c_9_other_specified"
 "fnq_mh_10","Integer","","Recommended","10. How would you describe your level of financial need? How much do you need money?","0::10","10=being ""Extreme financial need"";  0=being ""None"",","fnq_c_16"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "if08","Integer","","Recommended","Do you own a home?","0;1","0= No; 1= Yes",""
 "if09","Integer","","Recommended","Do you own any investment properties (e.g., rental property)?","0;1","0= No; 1= Yes",""
 "if10","Integer","","Recommended","Do you regularly receive money from your parents or other family members?","0;1","0= No; 1= Yes",""

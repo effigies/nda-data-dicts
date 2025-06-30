@@ -30,4 +30,4 @@
 "prd_24","Float","","Recommended","How much alcohol/drugs have you used since your previous visit?","","",""
 "prd_score","Integer","","Recommended","PRD-III score","","",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

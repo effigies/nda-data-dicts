@@ -19,7 +19,7 @@
 "hpq_ra","Float","","Recommended","Relative absenteeism- score","","Absenteeism: the practice of regularly staying away from work or school without good reason.","hpqtot_1b_t2,hpqtot_1b_t3,hpqtot_1b_t4"
 "hpq_rhrs","Float","","Recommended","Relative hours of work- score","","","hpqtot_1c_t2,hpqtot_1c_t3,hpqtot_1c_t4"
 "comments","String","4000","Recommended","Comments about assessment","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "hpqtot_2a_t2","Float","","Recommended","Absolute 7-day absenteeism, how many hours someone is expected to work in a 7-day period minus number of hours worked","","","hpqtot_2a_t3,hpqtot_2a_t4"
 "hpqtot_2b_t2","Float","","Recommended","Relative 7-day absenteeism, percentage of expected hours worked, ranges from negative # (worked more than expected) to 1 (always absent)","","","hpqtot_2b_t3,hpqtot_2b_t4"
 "hpqtot_2c_t2","Float","","Recommended","Relative hours of work in past 7 days, ratio of number of hours worked : hours expected","","","hpqtot_2c_t3,hpqtot_2c_t4"

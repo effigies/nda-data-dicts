@@ -59,7 +59,7 @@
 "iepedu","Integer","","Recommended","IEP Workplace readiness training to develop social skills and independent living skills?","0;1","0 = No; 1 = Yes",""
 "iep_13_grp","Integer","","Recommended","Group Assignment","1; 2","1 = Placebo Control; 2 = COMPASS","13_grp"
 "iep_13_psg","Integer","","Recommended","How many postsecondary goals are on the IEP?","","","13_psg"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "iep_13_etq8b","Integer","","Recommended","Education Training - are there annual iep goals related to the student's transition services needs?","0; 1; 2","0 = Not evident; 1 = Somewhat evident; 2 = Clearly evident","13_etq8b"
 "iep_13_etq8","Integer","","Recommended","Education Training - are there any transition services needs identified?","0; 1; 2","0 = Not evident; 1 = Somewhat evident; 2 = Clearly evident","13_etq8"
 "iep_13_etq9","Integer","","Recommended","Education Training - are there postsecondary goals related to the student's IEP goals?","0; 1; 2","0 = Not evident; 1 = Somewhat evident; 2 = Clearly evident","13_etq9"

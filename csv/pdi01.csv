@@ -147,7 +147,7 @@ shaking, and pounding heart","0::4","0= Not at all true; 1= Slightly true; 2 = S
 "pdi_guilty","Integer","","Recommended","Peritraumatic Distress Inventory: Feel Guilty","1 :: 5; -7; -8","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All or almost all of the time; -8=DON'T KNOW; -7=REFUSED",""
 "pdi_ashamed","Integer","","Recommended","Peritraumatic Distress Inventory: Feel Ashamed","1 :: 5; -7; -8","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All or almost all of the time; -8=DON'T KNOW; -7=REFUSED",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "ed_pdi_rs_imputed_f1b","Integer","","Recommended","PDI: Sum of all items on scale; fully imputed using Freeze 1B cohort","0 :: 42","0 = No symptoms; 42 = Most severe symptoms",""
 "pdi_might_die","Integer","","Recommended","PDI: Might Die","0 :: 4; -5; -7; -8","0=None of the time; 1=A little of the time; 2=Some of the time; 3=Most of the time; 4=All or almost all of the time; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "pdi_feel_guilty_2wks","Integer","","Recommended","PDI: Feel Guilty (2 weeks)","1 :: 5; -5; -7; -8","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All or almost all of the time; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""

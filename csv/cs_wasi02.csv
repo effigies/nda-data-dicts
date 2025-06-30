@@ -5,7 +5,7 @@
 "patid","String","20","Recommended","A Participant ID","","",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "wasi_age","Integer","","Recommended","WASI Age","","",""
 "wasi_bd_1_30","Integer","","Recommended","Design 1","0; 1; 2","0 = Fail; 1 = Correct in trial 2; 2 = Correct in trial 1","q32_b1"
 "wasi_bd_10_120","Integer","","Recommended","Design 10","0; 4; 5; 6; 7","0 = Fail; 4 = Correct in 66-120 seconds; 5 = Correct in 46-65 seconds; 6 = Correct in 31-45 seconds; 7 = Correct in 1-30 seconds","q32_b10"

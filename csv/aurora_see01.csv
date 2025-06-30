@@ -35,7 +35,7 @@
 "prom_selfeffemo_t","Float","","Recommended","PROMIS Self-Efficacy for Managing Emotions T SCORE","","",""
 "prom_selfeffemo_se","Float","","Recommended","PROMIS Self-Efficacy for Managing Emotions STD ERROR ON T","","",""
 "siteid","Integer","","Recommended","Site ID","10::100","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "prom_selfeffemo4a_rs","Integer","","Recommended","PROMIS - SEE: Raw score","4 :: 20","Sum of all scores when all SEE items are available",""
 "prom_selfeffemo4a_t","Float","","Recommended","PROMIS - SEE: T score","24.8 :: 63.5","The T score rescales the raw score into a standardized score with mean 50 and a standard deviation of 10.54. ",""
 "prom_selfeffemo4a_se","Float","","Recommended","PROMIS - SEE: SE","2.4 :: 5.31","Standard Error on T-score",""

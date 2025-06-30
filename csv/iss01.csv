@@ -30,7 +30,7 @@
 "iss_13","Integer","","Recommended","I feel overactive.","1::5","1=Very Slightly Or Not At All; 2=A Little; 3=Moderately; 4=Quite A Bit; 5=Extremely",""
 "iss_14","Integer","","Recommended","I feel restless.","1::5","1=Very Slightly Or Not At All; 2=A Little; 3=Moderately; 4=Quite A Bit; 5=Extremely",""
 "iss_15","Integer","","Recommended","It seems like nothing will ever work out for me.","1::5","1=Very Slightly Or Not At All; 2=A Little; 3=Moderately; 4=Quite A Bit; 5=Extremely",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "iss_1","Integer","","Recommended","I feel energized.","1::5","1=Very Slightly Or Not At All; 2=A Little; 3=Moderately; 4=Quite A Bit; 5=Extremely",""
 "iss_2","Integer","","Recommended","I feel argumentative.","1::5","1=Very Slightly Or Not At All; 2=A Little; 3=Moderately; 4=Quite A Bit; 5=Extremely",""
 "iss_3","Integer","","Recommended","I feel like a capable person.","1::5","1=Very Slightly Or Not At All; 2=A Little; 3=Moderately; 4=Quite A Bit; 5=Extremely",""

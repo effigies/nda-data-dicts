@@ -197,4 +197,4 @@
 "btq_5a","Integer","","Recommended","Before age 18, were you ever physically punished or beaten by a parent, caretaker, or teacher so that:  you were very frightened; or you thought you would be injured; or you received bruises, cuts, welts, lumps or other injuries: If the event happened, did you think your life was in danger or you might be seriously injured?","0;1","0= No; 1= Yes",""
 "btq_9","Integer","","Recommended","Has a close family member or friend died violently, for example, in a serious car crash, mugging, or attack: Has this ever happened to you?","0;1","0= No; 1= Yes",""
 "btq_10","Integer","","Recommended","Have you ever witnessed a situation in which someone was seriously injured or killed, or have you ever witnessed a situation in which you feared someone would be seriously injured or killed?","0;1","0= No; 1= Yes",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

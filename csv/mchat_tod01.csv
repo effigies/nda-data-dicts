@@ -243,7 +243,7 @@
 "fu_q9_toy_score","String","5","Recommended","FU Score for question of Does your child ever bring objects over to you (parent)","Pass; Fail","","fu_9_score"
 "m_chat_r_f_totalscore","Integer","","Recommended","M-CHAT-R total score","0::20","Low risk: 0-2; Medium risk: 3-7; High risk: 8-20","follow_up_score"
 "fu_pretend_example","String","500","Recommended","Please give me an example of his/her pretend play","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "fu_1_8","String","25","Recommended","Which one does he/she do most often? asked as follow-up to: ""If you point at something does your child . . .""","Pass;Fail","Pass = look at the object, point to the object, look and comment on the object, OR look if you point and say ""look""!; Fail = ignore you, look around the room randomly, look at your finger, OR parent did not answer (blank)",""
 "fu_3_7","String","25","Recommended","Does your child ever put a toy pot on a pretend stove?","Yes;No","",""
 "fu_3_8","String","25","Recommended","Does your child ever stir imaginary food?","Yes;No","",""

@@ -28,4 +28,4 @@
 "delayed_rtfalse_sd","Float","","Recommended","ModBent Delayed Recognition: Standard Deviation of Reaction Times for False Alarms","","",""
 "delayed_rtcorrreg","Float","","Recommended","ModBent Delayed Recognition: Mean Reaction Time for Correct Rejections","","",""
 "delayed_rtcorrreg_sd","Float","","Recommended","ModBent Delayed Recognition: Standard Deviation of Reaction Times for Correct Rejections","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","","version"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","version"

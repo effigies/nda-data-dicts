@@ -10,7 +10,7 @@
 "fibser_score_total","Float","","Recommended","FIBSER Total Score - sums values from the 3 questions","","",""
 "subject_description","String","4000","Recommended","Subject related information (e.g the affection, phenotype, disease information, etc.).","","",""
 "site","String","101","Recommended","Site","","Study Site","siteid"
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14","week1"
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","date"
 "phase","Integer","","Recommended","Phase","","9 =follow up",""

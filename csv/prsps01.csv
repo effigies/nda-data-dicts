@@ -43,7 +43,7 @@
 "sv_perp_18","Integer","","Recommended","Since the age of 14, how many times have you used any of the tactics on the list below to have sexual contact (genital touching, oral sex, or intercourse) with someone after they indicated ''no'' to your sexual advance? Physically harmed them (e.g., hit, slapped, or bit)","0::4","0= Never; 1= 1 time; 2= 2-5 times; 3= 6-9 times; 4= 10 or more times",""
 "sv_perp_19","Integer","","Recommended","Since the age of 14, how many times have you used any of the tactics on the list below to have sexual contact (genital touching, oral sex, or intercourse) with someone after they indicated ''no'' to your sexual advance? Threatened them with a weapon","0::4","0= Never; 1= 1 time; 2= 2-5 times; 3= 6-9 times; 4= 10 or more times",""
 "sv_perp_20","Integer","","Recommended","Has this (sv_perp_1 through sv_perp_19 coded at least 1= 1 time) happened in the past 4 months?","0;1","0= No; 1= Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "sv_perp_4m1","Integer","","Recommended","You shared that you continued to kiss and touch someone to arouse them into having sexual contact. Have you done this in the past 4 months?","0;1","0= No; 1= Yes",""
 "sv_perp_4m2","Integer","","Recommended","You shared that you removed a person''s clothing to arouse them into having sexual contact. Have you done this in the past 4 months?","0;1","0= No; 1= Yes",""
 "sv_perp_4m3","Integer","","Recommended","You shared that you removed some of your clothing to arouse someone into having sexual contact. Have you done this in the past 4 months?","0;1","0= No; 1= Yes",""

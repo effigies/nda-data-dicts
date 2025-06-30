@@ -14,4 +14,4 @@
 "flosc_08","Integer","","Recommended","People respect me","1::7","1 = strongly disagree; 2 = disagree; 3 = slightly disagree; 4 = neither agree nor disagree; 5 = slightly agree; 6 = agree; 7 = strongly agree","flourishing8,pwb8"
 "flosc_09","Integer","","Recommended","Range of scores for lowest possible to highest psychological well-being possible","8::56","","flourishing_sum,pwb_total"
 "fspgod","String","70","Recommended","Subject's gender OTHER describe","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

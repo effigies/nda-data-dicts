@@ -991,5 +991,5 @@
 "dti_fa_rventraldc_md","Float","","Recommended","VentralDC, DTI Fractional Anisotropy -- Median","","dimensionless","id_101"
 "dti_fa_rventraldc_sd","Float","","Recommended","VentralDC, DTI Fractional Anisotropy -- Standard Deviation","","dimensionless","id_100"
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""

@@ -28,7 +28,7 @@
 "maaq_family","Float","","Recommended","MAAQ - Family constraints subscore","0::4","Average of items equip_maaq12-15",""
 "maaq_religious","Float","","Recommended","MAAQ - Religious constraints subscore","0::4","Average of items equip_maaq16-17",""
 "maaq_indifference","Float","","Recommended","MAAQ - Indifference subscore","0::4","Average of items equip_maaq18-19",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "maaq_8","Integer","","Recommended","Please indicate how important each statement is to you personally as a reason for not drinking. I have or used to have a drinking problem","1::4","1 = Not at all important; 2= 2; 3= 3; 4= Extremely important",""
 "maaq_9","Integer","","Recommended","Please indicate how important each statement is to you personally as a reason for not drinking. I have a genetic condition which makes it hard for my body to handle alcohol","1::4","1 = Not at all important; 2= 2; 3= 3; 4= Extremely important",""
 "maaq_10","Integer","","Recommended","Please indicate how important each statement is to you personally as a reason for not drinking. My doctor told me not to drink alcohol","1::4","1 = Not at all important; 2= 2; 3= 3; 4= Extremely important",""

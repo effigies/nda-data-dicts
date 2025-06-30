@@ -98,7 +98,7 @@
 "cbq_92","Integer","","Recommended","Looks forward to family outings","1::7;-9","1 = Extremely untrue; 2 = Quite untrue; 3 = Slightly untrue; 4 = Neither true nor false; 5 = Slightly true; 6 = Quite true; 7 = Extremely true; -9 = Not applicable",""
 "cbq95","Integer","","Recommended","Likes to sit quietly and watch people do things","1::7; -9","1 = Extremely untrue; 2 = Quite untrue; 3 = Slightly untrue; 4 = Neither true nor false; 5 = Slightly true; 6 = Quite true; 7 = Extremely true; -9 = Not applicable","cbq_93"
 "cbq_94","Integer","","Recommended","Enjoys gentle rhythmic activities","1::7;-9","1 = Extremely untrue; 2 = Quite untrue; 3 = Slightly untrue; 4 = Neither true nor false; 5 = Slightly true; 6 = Quite true; 7 = Extremely true; -9 = Not applicable",""
-"phenotype","String","400","Required","Phenotype/diagnosis for the subject","","",""
+"phenotype","String","400","Required","Phenotype/diagnosis for the subject","","e.g., Healthy, Control, Suicidal",""
 "cbq52","Integer","","Recommended","Rarely cries when s/he hears a sad story","1::7; -9","1 = Extremely untrue; 2 = Quite untrue; 3 = Slightly untrue; 4 = Neither true nor false; 5 = Slightly true; 6 = Quite true; 7 = Extremely true; -9 = Not applicable",""
 "cbq21","Integer","","Recommended","""If upset, cheers up quickly when s/he thinks about something else""","1::7; -9","1 = Extremely untrue; 2 = Quite untrue; 3 = Slightly untrue; 4 = Neither true nor false; 5 = Slightly true; 6 = Quite true; 7 = Extremely true; -9 = Not applicable",""
 "cbq163","Integer","","Recommended","Is easy to soothe when s/he is upset","1::7; -9","1 = Extremely untrue; 2 = Quite untrue; 3 = Slightly untrue; 4 = Neither true nor false; 5 = Slightly true; 6 = Quite true; 7 = Extremely true; -9 = Not applicable",""

@@ -24,6 +24,6 @@
 "q15_2_submissive","Integer","","Recommended","Scene II. Submissive-Persistent","1::5","1 = Very Submissive;2 = Somewhat Submissive;3 = Neither Submissive nor Persistent;4 = Somewhat Persistent;5 = Very Persistent",""
 "q16_2_argument","Integer","","Recommended","Scene II. Overall Argument","1::5","1 = Very Poor;2 = Somewhat Poor;3 = Neither Poor nor Good;4 = Somewhat Good;5 = Very Good",""
 "q17_2_approp","Integer","","Recommended","Scene II. Social Appropriateness","1::5","1 = Very Inapproriate;2 = Somewhat Innaproriate;3 = Neither Inappropriate nor Appropriate;4 = Somewhat Appropriate;5 = Very Appropriate",""
-"visit","String","60","Recommended","Visit name","","","assessment_number"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment_number"
 "site","String","101","Recommended","Site","","Study Site",""
 "completed_by","String","100","Recommended","Who completed the form?","","RA; Self-Report; Informant",""

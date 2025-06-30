@@ -26,4 +26,4 @@
 "rpac_d","Integer","","Recommended","Dampening score","8::32","sum(6, 9, 10, 11, 12, 14, 15, 17)",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","quest_instruct"
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

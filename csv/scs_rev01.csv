@@ -36,7 +36,7 @@
 "scsnr_unlov","Integer","","Recommended","SCS Subscale: Unlovability","6::30","Sum of SCSNR items 1, 4, 6, 9, 14, 18",""
 "scsnr_unsolv","Integer","","Recommended","SCS Subscale: Unsolvability","6::30","Sum of SCSNR items 2, 7, 10, 15, 16, 17",""
 "scsnr_unbear","Integer","","Recommended","SCS Subscale: Unbearability","6::30","Sum of SCSNR items 3, 5, 8, 11, 12, 13",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "scsnr_1","Integer","","Recommended","The world would be better off without me.","1::5","1 = Strongly Disagree; 5 = Strongly Agree",""
 "scsnr_2","Integer","","Recommended","Suicide is the only way to solve my problems.","1::5","1 = Strongly Disagree; 5 = Strongly Agree",""
 "scsnr_3","Integer","","Recommended","I can''t stand this pain anymore.","1::5","1 = Strongly Disagree; 5 = Strongly Agree",""

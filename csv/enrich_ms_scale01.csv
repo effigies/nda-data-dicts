@@ -24,4 +24,4 @@
 "enrich_id_per","Float","","Recommended","Idealistic Distortion Scale (percentile score)","","(found in appendix C)",""
 "enrich_ms_per","Float","","Recommended","Marital Satisfaction Scale (percentile score)","","(found in appendix C)",""
 "enrich_ems","Float","","Recommended","ENRICH Marital Satisfaction (EMS) Score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

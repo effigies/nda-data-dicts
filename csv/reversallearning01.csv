@@ -279,7 +279,7 @@
 "visual_feedback_time","Float","","Recommended","Selection visual feedback time: a box appears to highlight the selection (variable interval starts)","","",""
 "reward_start_time","Float","","Recommended","Reward presentation start time (fixed interval)","","",""
 "block_end_time","Float","","Recommended","Block end time","","",""
-"txgroup","String","50","Recommended","Treatment group","","",""
+"txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""
 "randomize","Integer","","Recommended","Trial randomization","0;1","0= Not randomized; 1= Randomized",""
 "trial","Integer","","Recommended","Trial number","0::9999; -777; -999","1 = first; 2= second; 3=third; 4=fourth; 5=fifth; 6=sixth; etc; -777=NA, -999=missing",""
 "button_press","Integer","","Recommended","Button pressed ","1::3","1=Left; 2=Center; 3=Right",""

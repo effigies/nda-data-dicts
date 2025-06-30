@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
 "src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "age_in_days_dot_to_edc","Integer","","Recommended","Age in days obtained by subtracting the Expected Date of Confinement (EDC/Due Date) from the date of test","","","Handedness_1y_0m_to_2y_11m_Age_in_Days_DOT_to_EDC"
 "admin_status","String","20","Recommended","Instrument administration status","Complete;Partial;Not Administered;Not Applicable","","Handedness_1y_0m_to_2y_11m_Administration_Status"
 "hand_caregiver_report_hand_use","String","2","Recommended","Handedness: Caregiver report as to what is the child preferred hand (R=Right; L=Left; NP=No Preference; NA=Not Available)","R;L;NP;NA","R = Right; L = Left; NP = No preference; NA = Not available","Hand_1y_0m_to_2y_11m_Caregiver_Report_Hand_Used"

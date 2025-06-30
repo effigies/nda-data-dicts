@@ -17,4 +17,4 @@
 "num_anti_trials","Integer","","Recommended","Number of antisaccade trials","","",""
 "num_pro_trials","Integer","","Recommended","Number of prosaccade trials","","",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"data_file1","File","255","Recommended","Data file 1","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""

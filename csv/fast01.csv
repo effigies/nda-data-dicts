@@ -29,4 +29,4 @@
 "fastq23","Integer","","Recommended","Doing exercise or participating in sports","0::3","0=No difficulty; 1=Mild difficulty; 2=Moderate difficulty;3=Severe difficulty",""
 "fastq24","Integer","","Recommended","Having hobbies or personal interests","0::3","0=No difficulty; 1=Mild difficulty; 2=Moderate difficulty;3=Severe difficulty",""
 "interv","Integer","","Recommended","Intervention Status","0;1","1=ITV, intervention; 0=TAU, treatment as usual",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

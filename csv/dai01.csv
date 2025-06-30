@@ -5,7 +5,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "truncvis","Integer","","Recommended","Truncated Visit Number","","""Created variable: provides a numeric visit number for all visits, including unscheduled and end of phase""",""
 "phase_ct","String","20","Recommended","Current Phase. Phase patient was in at the time of the assessment Phase 4 refers to the follow-up phase.","Pre-Rand; Phase 1/1A; Phase 2; Phase 3; Phase 4; Phase 1B; Open-Choice Phase; Screening; Phase 1","",""
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","daia0b"
@@ -25,7 +25,7 @@ For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' c
 being '002', and FSEQNO of '3' can be thought of as being '003'.
 The first digit of FSEQNO relates to the corresponding ENF sequence number at that visit and the third
 digit relates to the specific adjudicator who completed the adjudication form.",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "amsq11","Integer","","Recommended","People often have to remind me to take my medication tablets. ","0;1","0=No; 1=Yes",""
 "amsq12","Integer","","Recommended","Medications are just as acceptable to me when I consider the need for repeated blood tests and check-ups.","0;1","0=No; 1=Yes",""
 "amsq13","Integer","","Recommended","I often think that since medication is an artificial way to keep stable I should be able to do without it.","0;1","0=No; 1=Yes",""

@@ -852,7 +852,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender,sex"
 "race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "utilization018","String","100","Recommended","Please list the dates of each ED visit resulting in a medical hospital admission and discharge","","","utilization019,utilization020,utilization021,utilization022,utilization023,utilization024,utilization025,utilization026,utilization026a"
 "e7c1","Integer","","Recommended","1. Did you go to the Emergency Room during this hospital visit?","1;2; 98; -888; -999","1=Yes; 2=No; 98=Refused; -888=Not Applicable; -999=Missing;",""
 "e7d1","Integer","","Recommended","1. Did you stay overnight in the hospital?","1;2; 98; -888; -999","1=Yes; 2=No; 98=Refused; -888=Not Applicable; -999=Missing;",""

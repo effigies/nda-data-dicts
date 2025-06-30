@@ -46,7 +46,7 @@
 "interview_number","Integer","","Recommended","Session number in series","","-900 = Missing; -300 = N/A",""
 "chrspeech_english","Integer","","Recommended","Was session conducted in English?","0;1;-900;-300","0 = No; 1 = Yes; -900 = Missing; -300 = N/A","chrpsychs_av_english"
 "chrspeech_other_lang","String","50","Recommended","Session Language (if not English)","","","chrpsychs_av_other_lang"
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "n_false_starts","Integer","","Recommended","Number of false starts assigned to speaker in transcript","","-900 = Missing; -300 = N/A; Example of false starts: ''I was going to call-- phone him later''; ''Can you dri-- run to the mall?''",""
 "prp_poss_pos","Integer","","Recommended","Frequency of Possessive form of preposition","","Frequency of Penn Treebank tagset part-of-speech ''PRP$'', e.g., ''This is my book.'' ''my'' is a word having the part-of-speech of possessive pronoun in that it is in the category of words indicating ownership by the speaker. Other words with the possessive pronoun part-of-speech include ''my,'' ''your,'' ''his,'' ''her,'' ''its,'' ''our,'' and ''their.''",""
 "rb_pos","Integer","","Recommended","Frequency of Adverb (Penn Treebank)","","Frequency of Penn Treebank tagset part-of-speech ''RB'', e.g., ''He runs very fast.'' ''very'' instantiates the part-of-speech of adverb modifying another adverb ''fast'' to intensify the manner of the verb ''runs.'' Other words that can serve as adverbs include ''quickly,'' ''slowly,'' ''very,'' ''quite,'' ''too,'' and ''well.''",""

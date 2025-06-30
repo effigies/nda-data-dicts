@@ -856,4 +856,4 @@
 "dmri_rsints2gwc_cdk_meanlh","Float","","Recommended","Volume fraction (FT divided by T) with hindered volume fraction within gray matter-white matter boundaries associated with cortical ROI left hemisphere","","","dmri_rsi.nts2.gwc_cort.desikan_mean.lh,dmri_rsints2gwc_cortdesikan_meanlh"
 "dmri_rsints2gwc_cdk_meanrh","Float","","Recommended","Volume fraction (FT divided by T) with hindered volume fraction within gray matter-white matter boundaries associated with cortical ROI right hemisphere","","","dmri_rsi.nts2.gwc_cort.desikan_mean.rh,dmri_rsints2gwc_cortdesikan_meanrh"
 "dmri_rsints2gwc_cdk_mean","Float","","Recommended","Volume fraction (FT divided by T) with hindered volume fraction within gray matter-white matter boundaries associated with cortical ROI whole brain","","","dmri_rsi.nts2.gwc_cort.desikan_mean,dmri_rsints2gwc_cortdesikan_mean"
-"eventname","String","60","Recommended","The event name for which the data was collected","","",""
+"eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""

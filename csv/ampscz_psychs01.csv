@@ -151,4 +151,4 @@
 "chrpsychs_fu_15c1_on3","Date","","Recommended","Date when severity/intensity of disorganized communication expression first entered the 3-5 range (Moderate to Severe but not Psychotic) since the previous visit","","MM/DD/YYYY","hcpsychs_fu_15c1_on3"
 "chrpsychs_scr_e1","Integer","","Recommended","DSM-5 Schizotypal Personality Disorder in lifetime","0;1;-300;-900","0=No; 1=Yes; -300=N/A; -900=Missing",""
 "chrpsychs_scr_e2","Integer","","Recommended","Family history of psychotic disorder in a first degree relative","0;1;-300;-900","0=No; 1=Yes; -300=N/A; -900=Missing",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

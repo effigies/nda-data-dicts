@@ -72,5 +72,5 @@
 "fs15","Integer","","Recommended","Shopping (selection of items, choice of stores, payment at register)","1::5; 7; -999","5 = Totally self-sufficient; 4 = Needs verbal advice or guidance; 3 = Needs some physical help or assistance; 2 = Needs substantial help; 1 = Totally dependent; 7 = No opportunity to perform; -999 = Missing",""
 "fs15a","String","200","Recommended","What relation(s) is/are the person(s) to you (who you are currently living with)?","","",""
 "demooo_1","Integer","","Recommended","What is your gender?","1::10; 99","1= Male; 2= Female; 3= Trans male; 4= Trans female; 5= Genderqueer/Gender non-conforming; 6= Do not identify as any of these options; 7= Gender non-conforming; 8= Genderqueer or Gender Fluid; 9= Questioning or unsure; 10= Other; 99= Unknown or not reported",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "tx_assign","String","100","Recommended","Description of the randomized treatment the patient is assigned","","Present Text = description; Missing Text = no description",""

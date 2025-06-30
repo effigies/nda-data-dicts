@@ -10,5 +10,5 @@
 "vb_pc5","Float","","Recommended","Rate of Verbal Behavior during Parent-Child Interaction for Manding","","",""
 "in_pc2","Float","","Recommended","Rate of Inappropriate Behavior during Parent-Child Scenario Drums and Puzzles","","",""
 "in_pc5","Float","","Recommended","Rate of Inappropriate Behavior during Parent-Child Interaction for Manding","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "condition","Integer","","Recommended","Condition of the experiment","1::3","1=ABA/VB; 2= RDI; 3 = TAU",""

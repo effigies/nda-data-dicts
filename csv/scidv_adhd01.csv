@@ -36,7 +36,7 @@
 "scidv_k29","Integer","","Recommended","criteria A,B,C,D, and E are coded ""3""","1;3;-7; -9","1= absent or false; 3 = threshold or true; -7 = N/A; -9 = missing or not reported","sciddv_k29"
 "scidv_k30","Integer","","Recommended","type of ADHD presentation","1::3; -7; -9","1= predominantly inattentive presentation; 2 = predominantly hyperactive-impulsive presentation; 3 = combined presentation; -7 = N/A; -9 = missing or not reported","sciddv_k30"
 "scidv_k31","Integer","","Recommended","ADHD; current severity","1::3; -7; -9","1= mild; 2 = moderate; 3 = severe; -7 = N/A; -9 = missing or not reported",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "sciddv_aadhd_a1b_cb02___k5b","Integer","","Recommended","Adult ADHD: A1 Inattention (b) Check each that are present Conversation/lecture","0;1","0= Unchecked; 1= Checked/Present  ",""
 "sciddv_aadhd_a1b_cb02___k5c","Integer","","Recommended","Adult ADHD: A1 Inattention (b) Check each that are present household chores","0;1","0= Unchecked; 1= Checked/Present  ",""
 "sciddv_k5n","String","4000","Recommended","Adult ADHD: A1 Inattention (b) Notes","","",""

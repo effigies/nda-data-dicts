@@ -83,5 +83,5 @@
 "sugar_bev_2a","Integer","","Recommended","How often were your fruit drinks diet or sugar-free drinks?","1::5","1 = Almost never or never; 2 = About 1/4  of the time; 3 = About  1/2 of the time; 4 = About 3/4 of the time; 5 = Almost always or always",""
 "sugar_bev_3","Integer","","Recommended","Over the past 30 days, how often did you drink sports drinks (such as Propel, PowerAde, or Gatorade)? ","1::10","1 = Never; 2 = 1 time per month or less; 3 = 2-3 times per month; 4 = 1-2 times per week; 5 = 3-4 times per week; 6 = 5-6 times per week; 7 = 1 time per day; 8 = 2-3 times per day; 9 = 4-5 times per day; 10 = 6 or more times per day",""
 "sugar_bev_4","Integer","","Recommended","Over the past 30 days, how often did you drink energy drinks (such as Red Bull or Jolt)? ","1::10","1 = Never; 2 = 1 time per month or less; 3 = 2-3 times per month; 4 = 1-2 times per week; 5 = 3-4 times per week; 6 = 5-6 times per week; 7 = 1 time per day; 8 = 2-3 times per day; 9 = 4-5 times per day; 10 = 6 or more times per day",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""

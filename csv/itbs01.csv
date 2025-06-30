@@ -8,7 +8,7 @@
 "itsource","Integer","","Recommended","File storage method","1;2","1 = electronic; 2 = microfiche/microfilm",""
 "itgrade","Integer","","Recommended","Participant's grade in school at time of test","0::12","",""
 "itlevel","Integer","","Recommended","Test level","1::98","",""
-"version_form","String","121","Recommended","Form used/assessment name","","","itform"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","itform"
 "ittestyr","Integer","","Recommended","Year of testing","","",""
 "it_ige_rvv","Float","","Recommended","Iowa Test: Vocabulary: Iowa Grade Equivalent","-1::19","",""
 "it_ipr_rvv","Integer","","Recommended","Iowa Test: Vocabulary: Iowa Percentile Rank","1::99","",""

@@ -479,7 +479,7 @@
 "gen_anx_curr","Integer","","Recommended","Generalized Anxiety Disorder (current - past 6 months)","0;1","0=No;1=Yes",""
 "jlo_notes","String","2000","Recommended","Notes:","","",""
 "bpdpsychosis_yes01","Integer","","Recommended","Bipolar Disorder with Psychotic Features is Present","0;1","0=No; 1=Yes",""
-"eventname","String","60","Recommended","The event name for which the data was collected","","",""
+"eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
 "mini_sud_coc_moderate","Integer","","Recommended","Moderate Substance Use Disorder (SUD) - Cocaine Past 12 Months","0;1","0=No; 1=Yes",""
 "mini_sud_coc_severe","Integer","","Recommended","Severe Substance Use Disorder (SUD) - Cocaine Past 12 Months","0;1","0=No; 1=Yes",""
 "mini_sud_opiate_j1","Integer","","Recommended","In the past 12 months, did you use opiates more than once, to get high, to feel elated, to get ''a buzz'' or to change your mood?","0;1","0=No; 1=Yes",""

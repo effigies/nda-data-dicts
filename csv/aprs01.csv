@@ -24,7 +24,7 @@
 "aprs18","Integer","","Recommended","18. How often does the child appear to be staring excessively or ""spaced out""?","1::5","1= never; 2= rarely; 3= sometimes; 4= often; 5= very often",""
 "aprs19","Integer","","Recommended","19. How often does the child appear withdrawn or tend to lack an emotional response in a social situation?","1::5","1= never; 2= rarely; 3= sometimes; 4= often; 5= very often",""
 "session","Integer","","Recommended","Session","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "totalacad_tscore","Float","","Recommended","APRS Total Score Teacher T-score","0::200","",""
 "acadsuccess_tscore","Float","","Recommended","APRS Academic Success Teacher T-score","0::200","",""
 "impulsecontrol_tscore","Float","","Recommended","APRS Impulse Control Teacher T-score","0::200","",""

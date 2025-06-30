@@ -15,4 +15,4 @@
 "cs_4f","Integer","","Recommended","How much progress - Participating in recreational or leisure skills?","1::5; 888;999","1 = none at all; 2 = little; 3 = somewhat; 4 = much; 5 = a great deal; 888 = not applicable; 999 = missing","ts_4f"
 "cs_4g","Integer","","Recommended","How much progress - Making friends?","1::5; 888;999","1 = none at all; 2 = little; 3 = somewhat; 4 = much; 5 = a great deal; 888 = not applicable; 999 = missing","ts_4g"
 "cs_total","Integer","","Required","Survey total score","","888 = not applicable; 999 = missing","ts_total"
-"version_form","String","121","Required","Form used/assessment name","","",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

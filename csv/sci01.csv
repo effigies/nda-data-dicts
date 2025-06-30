@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "sci01","Integer","","Recommended","Thinking aboout a typical night in the last month... How long does it take you to fall asleep?","0::4;99","0= Greater than or equal to 61 minutes; 1= 46-60 minutes; 2= 31-45 minutes; 3= 16-30 minutes; 4= 0-15 minutes; 99= Chose not to respond",""
 "sci02","Integer","","Recommended","Thinking aboout a typical night in the last month... If you then wake up during the night how long are you awake for in total?","0::4;99","0= Greater than or equal to 61 minutes; 1= 46-60 minutes; 2= 31-45 minutes; 3= 16-30 minutes; 4= 0-15 minutes; 99= Chose not to respond",""
 "sci03","Integer","","Recommended","Thinking aboout a typical night in the last month... How many nights a week do you have a problem with your sleep?","0::4;99","0= 5-7; 1= 4; 2= 3; 3= 2; 4= 0-1; 99= Chose not to respond","sci02_1"

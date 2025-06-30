@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "viral_load_fail","Integer","","Recommended","Has your healthcare provider ever told you that your viral load was not suppressed? (The diagnosis of treatment failure)","0;1;666;888;999","0=No; 1=Yes; 666=Missing; 888=Do not know; 999=No response",""
 "int_adh_coun","Integer","","Recommended","If your healthcare provider ever told you that your viral load was not suppressed, have you ever undergone intensive adherence counseling?","0;1;666;888;999","0=No; 1=Yes; 666=Missing; 888=Do not know; 999=No response",""
 "int_adh_dur","Integer","","Recommended","How long did you take in this intensive adherence counseling?","1::3;666;777","1=3 months; 2=Less than 6 months; 3=6-12 months; 666=Missing; 777=NA",""

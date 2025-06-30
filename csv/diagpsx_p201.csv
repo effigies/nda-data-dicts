@@ -989,4 +989,4 @@ full-time? FULL-TIME = 35 HOURS OR MORE PER WEEK.  A. During the last 12 months 
 "dis28","Integer","","Recommended","DIS IV section. UK","","",""
 "screen","Integer","","Recommended","DIS IV section. UK","","0=no",""
 "temp","Integer","","Recommended","DIS IV section. UK","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

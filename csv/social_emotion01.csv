@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "social_emotion1a","Integer","","Recommended","If I lost some prized possession and reacted with tears, my caretaker would: Get upset with me for being so careless and crying.","1::7","1 = Very Unlikely; 4 = Medium; 7 = Very Likely",""
 "social_emotion1b","Integer","","Recommended","If I lost some prized possession and reacted with tears, my caretaker would: Tell me that I was over-reacting.","1::7","1 = Very Unlikely; 4 = Medium; 7 = Very Likely",""
 "social_emotion1c","Integer","","Recommended","If I lost some prized possession and reacted with tears, my caretaker would: Help me think of places I hadn't looked yet.","1::7","1 = Very Unlikely; 4 = Medium; 7 = Very Likely",""

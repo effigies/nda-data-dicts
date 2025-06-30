@@ -70,7 +70,7 @@
 "cov_6","Integer","","Recommended","Have you served in the military?","","",""
 "cov_7","Integer","","Recommended","Which best describes the area in which you live?","0::4","0= Large city; 1= Suburbs of a large city; 2= Small city; 3= Town or village; 4= Rural area",""
 "acq_demo3","Integer","","Recommended","What is the highest level of education/highest degree or level of school you have completed?","1::10","1= NO FORMAL EDUCATION; 2= SOME GRADE SCHOOL; 3= COMPLETED GRADE SCHOOL; 4= SOME HIGH SCHOOL; 5= COMPLETED HIGH SCHOOL; 6= SOME COLLEGE; 7= COMPLETED COLLEGE; 8= SOME GRADUATE WORK; 9= A GRADUATE DEGREE; 10= SOME SCHOOL BEYOND COLLEGE",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "liveno","Integer","","Recommended","Besides self, how many other people live in household","","",""
 "cov_11","Integer","","Recommended","How many rooms (total) are in your home?","","",""
 "cov_12","Integer","","Recommended","Are you covered by health insurance?","0::6","0= Yes, military; 1= Yes, employer-sponsored; 2= Yes, individual; 3= Yes, Medicare; 4= Yes, Medicaid or CHIP; 5= Yes, other; 6= No",""

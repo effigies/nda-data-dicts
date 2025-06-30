@@ -36,7 +36,7 @@
 "pirs9","Integer","","Recommended","How your son's or daughter's problems affect his or her relationship with his or her spouse or significant other","0::6","0=No problem definitely does not need treatment or special services; 6=Extreme problem definitely needs treatement or special services",""
 "pirs10","Integer","","Recommended","The overall severity of your son's or daughter's problem in functioning and overall need for treatment","0::6","0=No problem definitely does not need treatment or special services; 6=Extreme problem definitely needs treatement or special services",""
 "pirs11","Integer","","Recommended","Overall, how accurately do you feel that you can answer questions about your sons or daughters life and functioning during the past two years?","1::4","1=Not at all; 2=Just a little; 3=Pretty much; 4=Very much",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "comments","String","4000","Recommended","Comments about assessment","","",""
 "pirs_12","Integer","","Recommended","How your child?s problems affect his/her classroom behavior at school","0 :: 6","0=No problem definitely does not need treatment or special services; 6=Extreme problem definitely needs treatement or special services",""
 "irsemployed","Integer","","Recommended","Have you been employed in the past 12 months?","0;1;-99","0= No; 1= Yes; -99= NA or Refused",""

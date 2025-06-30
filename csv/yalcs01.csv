@@ -13,4 +13,4 @@
 "bal21_dot_y","Date","","Recommended"," bal2_test1_result_y   == 1 ||  bal2_test1_result_y   == 2 &&  bal2_need   == 1","Breathalyzer Test1 Day 2 Date Completed:","","","biospec_alc21_date"
 "bal2_test2_result_y","Integer","","Recommended"," bal2_test1_result_y   == 2 &&  bal2_need   == 1 &&  bal2_need   == 1","Breathalyzer Test 2 Day 2 Result:","1::6","1 = Negative (.000); 2 = Positive (.001 or above); 4 = Participant unable to complete (tried 3 times); 5 = Participant refused; 6 = Not collected (other)","biospec_alc2_test2_result"
 "bal22_dot_y","Date","","Recommended"," bal2_test2_result_y   == 1 ||  bal2_test2_result_y   == 2 &&  bal2_need   == 1","Breathalyzer Test 2 Day 2 Date Completed:","","","biospec_alc22_date"
-"eventname","String","60","Recommended","","The event name for which the data was collected","","",""
+"eventname","String","60","Recommended","","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""

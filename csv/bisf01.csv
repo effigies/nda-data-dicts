@@ -80,6 +80,6 @@
 "rbisf11a_5","Integer","","Recommended","MEN ONLY: During the past month, how frequently have you experienced the following? - Bleeding or irritation after intercourse","0::4","0 = Not at all; 1 = Seldom; 2 = Sometimes; 3 = Usually; 4 = Always",""
 "rbisf11a_6","Integer","","Recommended","MEN ONLY: During the past month, how frequently have you experienced the following? - Taking medication to prolong or enhance erections","0::4","0 = Not at all; 1 = Seldom; 2 = Sometimes; 3 = Usually; 4 = Always",""
 "rbisf12a","Integer","","Recommended","Indicate the frequency with which the following factors have influenced your level of sexual activity during the past month - My or my partner's eating disorder","0::4","0 = Not at all; 1 = Seldom; 2 = Sometimes; 3 = Usually; 4 = Always",""
-"visit","String","60","Recommended","Visit name","","",""
-"trtarm","String","200","Recommended","Treatment arm","","","treatment"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","treatment"
 "ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2","1=Patient; 2=Partner",""

@@ -10,5 +10,5 @@
 "psd_rt_speech","Float","","Recommended","Mean Reaction Time (in ms) for speech trials","0::100000","",""
 "psd_rt_nonspeech","Float","","Recommended","Mean Reaction Time (in ms) for nonspeech trials","0::100000","",""
 "psd_rt_blank","Float","","Recommended","Mean Reaction Time (in ms) for blank trials","0::100000","",""
-"data_file1","File","255","Recommended","Data file 1","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "taskdescription","String","50","Recommended","Longer description of the task.","","",""

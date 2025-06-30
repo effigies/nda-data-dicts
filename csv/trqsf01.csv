@@ -21,4 +21,4 @@
 "trqsf_12_al","Integer","","Recommended","Total TRQ distress score","0::12","",""
 "trqsf_13_al","Integer","","Recommended","Total TRQ hope score","0::8","",""
 "trqsf_14_al","Integer","","Recommended","Total TRQ score","0::40","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

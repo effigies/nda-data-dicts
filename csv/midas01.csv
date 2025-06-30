@@ -13,4 +13,4 @@
 "midas_a","Integer","","Recommended","A) On how many days in the last 3 months did you have any headache? (If a headache lasted more than one day count each day.)","","",""
 "midas_b","Integer","","Recommended","B) On a scale of 0 - 10 on average how painful were these headaches?","","",""
 "midas_score","Integer","","Recommended","MIDAS score","","([midas_1]+[midas_2]+[midas_3]+[midas_4]+[midas_5])",""
-"visit","String","60","Recommended","Visit name","","","midas_date"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","midas_date"

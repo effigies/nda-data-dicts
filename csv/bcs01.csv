@@ -62,7 +62,7 @@
 "bsc1_prescription_stimulants","Integer","","Recommended","How much of the time in the past [version_form] did you experience significant cravings for prescription stimulants (Adderall, Ritalin)?","1::6","1= Never; 2= Rarely; 3= Occasionally; 4= Regularly; 5= Almost constantly; 6= Constantly",""
 "bsc1_stimulants","Integer","","Recommended","How much of the time in past [version_form] did you experience significant cravings for cocaine, amphetamine, or methamphetamine?","1::6","1= Never; 2= Rarely; 3= Occasionally; 4= Regularly; 5= Almost constantly; 6= Constantly",""
 "bsc1_other","Integer","","Recommended","How much time in past [version_form] did you experience significant cravings for [bsc1_specify_other]?","1::6","1= Never; 2= Rarely; 3= Occasionally; 4= Regularly; 5= Almost constantly; 6= Constantly",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "bsc1_1","Integer","","Recommended","Select the top three drugs you have had cravings for in the past [version_form]: None","0;1","0= Not selected; 1= Selected",""
 "bsc1_2","Integer","","Recommended","Select the top three drugs you have had cravings for in the past [version_form]: Marijuana","0;1","0= Not selected; 1= Selected",""
 "bsc1_3","Integer","","Recommended","Select the top three drugs you have had cravings for in the past [version_form]: Alcohol","0;1","0= Not selected; 1= Selected",""

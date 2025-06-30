@@ -81,7 +81,7 @@
 "total_raw_score","Integer","","Required","Total raw score","0::300;999","999=NA/NK/missing","p7902srspreschooltotalrawscore"
 "srsprs_invalid","String","50","Recommended","Is form invalid (more than 6 responses missing)?","Yes;No","",""
 "srsprs_missing_responses","Integer","","Recommended","Number of missing responses","","",""
-"phenotype","String","400","Required","Phenotype/diagnosis for the subject","","",""
+"phenotype","String","400","Required","Phenotype/diagnosis for the subject","","e.g., Healthy, Control, Suicidal",""
 "aware_t_score","Integer","","Recommended","T Score: Social Awareness","","","p7902srspreschooltscoresa"
 "cog_t_score","Integer","","Recommended","T Score: Social Cognition","","","p7902srspreschooltscorescog"
 "comm_t_score","Integer","","Recommended","T Score: Social Communitcation","","","p7902srspreschooltscorescomm"

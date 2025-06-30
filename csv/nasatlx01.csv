@@ -11,4 +11,4 @@
 "nasatlx_eff","Integer","","Recommended","Effort - How hard did you have to work to accomplish your level of performance?","1::100","1= Low; 100= High",""
 "nasatlx_fl","Integer","","Recommended","Frustration Level - How insecure, discouraged, irritated, stressed, and annoyed were you?","1::100","1= Low; 100= High",""
 "nasatlx_mean","Float","","Recommended","Overall Workload - Mean of other scales","1::100","1= Low; 100= High",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

@@ -14,7 +14,7 @@
 "gambleomega","Float","","Recommended","loss aversion softmax temperature parameter","0.15::15","",""
 "foodrt","Float","","Recommended","food task average response time","0::2500","in milliseconds",""
 "foodselfcontrol","Float","","Recommended","food task percentage healthy choices","0::1","1 = all healthy choices; 0 = no healthy choices",""
-"data_file1","File","255","Recommended","Data file 1","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "data_file1_type","String","300","Recommended","type of data file 1","","",""
 "exp_responses","Integer","","Recommended","Number of responses possible on a given trial, based on experimental group","2 :: 100","",""
 "total_responses","Integer","","Recommended","Number of all possible responses throghout study","2 :: 100","",""

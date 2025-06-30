@@ -17,7 +17,7 @@
 "fneexamresp_resptime","Float","","Recommended","subject response time to example/practice response task","","in milliseconds; -7 = N/A as example/practice cue was not run","emocompanger_rt,emocomphappiness_rt"
 "emocompanger_state","String","15","Recommended","Event Received at Response Termination","","","emocomphappiness_state"
 "saps_ad9","Float","","Recommended","Version number","","","emocompanger_version,emocomphappiness_version"
-"version_form","String","121","Recommended","Form used/assessment name","","","emocompanger_version,emocomphappiness_version"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","emocompanger_version,emocomphappiness_version"
 "verbal_etotal","Integer","","Recommended","Total correct","","",""
 "exp_block_nubmer","Integer","","Recommended","number of experimental blocks","","",""
 "wcst_nt","Integer","","Recommended","Number of Trials","","",""

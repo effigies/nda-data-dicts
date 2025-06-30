@@ -315,4 +315,4 @@
 "tfmri_mr2_alvsl_bscs_hpusrh","Float","","Recommended","Beta weight for MID run2 anticipation of large versus small loss contrast in ASEG ROI right-hippocampus","","","tfmri_mid_run2_antic.large.vs.small.loss_beta_subcort.aseg_hippocampus.rh,tfmri_mid_run2_anticlargevssmallloss_beta_subcortaseg_hippocampusrh"
 "tfmri_mr2_alvsl_bscs_agrh","Float","","Recommended","Beta weight for MID run2 anticipation of large versus small loss contrast in ASEG ROI right-amygdala","","","tfmri_mid_run2_antic.large.vs.small.loss_beta_subcort.aseg_amygdala.rh,tfmri_mid_run2_anticlargevssmallloss_beta_subcortaseg_amygdalarh"
 "tfmri_mr2_alvsl_bscs_aarh","Float","","Recommended","Beta weight for MID run2 anticipation of large versus small loss contrast in ASEG ROI right-accumbens-area","","","tfmri_mid_run2_antic.large.vs.small.loss_beta_subcort.aseg_accumbens.area.rh,tfmri_mid_run2_anticlargevssmallloss_beta_subcortaseg_accumbensarearh"
-"eventname","String","60","Recommended","The event name for which the data was collected","","",""
+"eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""

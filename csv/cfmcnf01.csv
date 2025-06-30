@@ -79,4 +79,4 @@
 "famconfhb23","Integer","","Recommended","How bad was/ were the disagreement(s)? After-school activities","1::5","1= Extremely bad; 2= Very bad; 3= Somewhat bad; 4= A little bad; 5= Not at all bad",""
 "famconfhb24","Integer","","Recommended","How bad was/ were the disagreement(s)? Where to go for school breaks","1::5","1= Extremely bad; 2= Very bad; 3= Somewhat bad; 4= A little bad; 5= Not at all bad",""
 "famconfhb25","Integer","","Recommended","How bad was/ were the disagreement(s)? Taking care of pet(s)","1::5","1= Extremely bad; 2= Very bad; 3= Somewhat bad; 4= A little bad; 5= Not at all bad",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

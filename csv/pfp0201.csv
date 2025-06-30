@@ -10,7 +10,7 @@
 "peth_gml","Float","","Recommended","Phosphatidylethanol (Peth) quantity in g/mL","","",""
 "peth_popeth_ngml","Float","","Recommended","Phosphatidylethanol (PEth) homologue: POPEth (1-palmitoyl-2-oleoyl-sn-glycero-3-phosphoethanol) quantity in ng/mL","","In ng/mL",""
 "peth_plpeth_ngml","Float","","Recommended","Phosphatidylethanol (PEth) homologue: PLPEth (1-palmitoyl-2-linoleoyl-sn-glycero-3-phosphoethanol) quantity in ng/mL","","In ng/mL",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "nopeth","String","100","Recommended","PEth test not conducted - explain","","",""
 "labdate","Date","","Recommended","Date PEth test sent to lab","","MM/DD/YYY",""
 "pethdetect","Integer","","Recommended","PEth test: ''> 8'' level detected","0;1;9","0= No; 1= Yes; 9= Result not available",""

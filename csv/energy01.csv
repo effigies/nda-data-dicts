@@ -7,7 +7,7 @@
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
 "monthsbl","Float","","Recommended","Actual number of months from Baseline","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","","racep,racey"
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","","ethnicityy"
 "weight_std","Float","","Recommended","Weight - Standard Unit","","-1 = Not known; 999 = Missing","t1weighty,t1wghty,t2weighty,t2wghty,t3weighty,t3wghty"

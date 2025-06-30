@@ -19,4 +19,4 @@
 "crs3","Integer","","Recommended","The conversation flowed smoothly.","1::7","1 = Strongly disagree; 2 = Disagree; 3 = Disagree somewhat; 4 = Neutral/unsure; 5 = Agree somewhat; 6 = Agree; 7 = Strongly Agree",""
 "crs4","Integer","","Recommended","The other person acted bored by our conversation.","1::7","1 = Strongly disagree; 2 = Disagree; 3 = Disagree somewhat; 4 = Neutral/unsure; 5 = Agree somewhat; 6 = Agree; 7 = Strongly Agree",""
 "crs5","Integer","","Recommended","The other person created a sense of distance between us.","1::7","1 = Strongly disagree; 2 = Disagree; 3 = Disagree somewhat; 4 = Neutral/unsure; 5 = Agree somewhat; 6 = Agree; 7 = Strongly Agree",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

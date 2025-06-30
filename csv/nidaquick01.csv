@@ -101,7 +101,7 @@
 "nida_ma_1g","Integer","","Recommended","In your lifetime, have you ever used the following substances: Hallucinogens (LSD, acid, mushrooms, PCP, Special K, ecstasy, etc.)?","0;1","0 = No; 1 = Yes",""
 "nida_ma_si_j","Integer","","Recommended","Substance Involvement Score (SI Score): Other?","","0-3 = Lower Risk; 4-26 = Moderate Risk; 27 or more = High Risk",""
 "nida_ma_si_jspec","String","100","Recommended","Substance Involvement Score (SI Score): Other, specify.","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "nidaqsv1_ma","Integer","","Recommended","In the past year, how often have you used marijuana?","0::4","0= Never; 1= Once or twice; 2= Monthly; 3= Weekly; 4= Daily or almost daily","nidaqsv1_ma_initial"
 "nidaqsv1_medma","Integer","","Recommended","In the past year, how often have you used medical marijuana?","0::4","0= Never; 1= Once or twice; 2= Monthly; 3= Weekly; 4= Daily or almost daily","nidaqsv1_medma_initial"
 "nidaqsv1_alc","Integer","","Recommended","In the past year, how often have you used alcohol?","0::4","0= Never; 1= Once or twice; 2= Monthly; 3= Weekly; 4= Daily or almost daily",""

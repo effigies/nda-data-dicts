@@ -17,4 +17,4 @@
 "stresslifeoverall","Integer","","Recommended","Chronic Stress: Life Overall","0 :: 10; -7; -8","0=No stress; 1=1; 2=2; 3=3; 4=4; 5=5; 6=6; 7=7; 8=8; 9=9; 10=Very severe stress; -8=DON'T KNOW; -7=REFUSED",""
 "stress_max","Integer","","Recommended","Chronic Stress MAX SCORE","","",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

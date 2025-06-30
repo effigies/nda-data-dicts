@@ -38,7 +38,7 @@
 "taqt18","Integer","","Recommended","From time to time, we both talk about the same important events from his/her/their past.","1::6; 999","1 = Strongly disagree; 2 = Disagree; 3 = Slightly disagree; 4 = Slightly agree; 5 = Agree; 6 = Strongly agree; 999= Prefer not to respond",""
 "taqt19","Integer","","Recommended","The patient believes I like him/her/them as a person.","1::6; 999","1 = Strongly disagree; 2 = Disagree; 3 = Slightly disagree; 4 = Slightly agree; 5 = Agree; 6 = Strongly agree; 999= Prefer not to respond",""
 "taqt20","Integer","","Recommended","At times the patient sees me as distant.","1::6; 999","1 = Strongly disagree; 2 = Disagree; 3 = Slightly disagree; 4 = Slightly agree; 5 = Agree; 6 = Strongly agree; 999= Prefer not to respond",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "respondents","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Physician","",""
 "respond_detail_oth_spec","String","255","Recommended","Respondent details","","",""
 "haqpc_8","Integer","","Recommended","I generally respect the psychiatrist/therapists views about me.","1::6;-7;999","1=Strongly Disagree; 2=Disagree; 3=Slightly Disagree; 4=Slightly Agree; 5=Agree; 6=Strongly Agree; -7=Refused; 999=Prefer not to respond","tap7"

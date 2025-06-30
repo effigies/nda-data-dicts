@@ -20,7 +20,7 @@
 "pm_007","Integer","","Recommended","I knew of the plans Twin A/B had with her/his friends.","1::5","1 = Almost never or never; 2 = Occasionally; 3 = About 1/2 the time; 4 = Often; 5 = Almost always or always",""
 "pm_008","Integer","","Recommended","Before Twin A/B went out, I asked her/him where s/he was going.","1::5","1 = Almost never or never; 2 = Occasionally; 3 = About 1/2 the time; 4 = Often; 5 = Almost always or always",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "pm_07osys","Integer","","Recommended","Do you know where Child (Older/Younger) goes when he/she goes out with friends?","1::5","1 = Almost never; 2 = Rarely; 3 = Sometimes; 4 = Frequently; 5 = Almost always ",""
 "pm_08osys","Integer","","Recommended","Do you know what Child (Older/Younger) does after school?","1::5","1 = Almost never; 2 = Rarely; 3 = Sometimes; 4 = Frequently; 5 = Almost always ",""
 "pm_09osys","Integer","","Recommended","Are you unsure where Child (Older/Younger) is at night?","1::5","1 = Almost never; 2 = Rarely; 3 = Sometimes; 4 = Frequently; 5 = Almost always ",""

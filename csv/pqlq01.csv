@@ -67,7 +67,7 @@
 "qol_friends_hr_day","Integer","","Recommended","Hours per day with friends in their free time (e.g. playing games, joining a club, doing other activities, hanging out)","0::24;99","Number of hours; 99=Missing","qlp16"
 "qol_alone_hr_day","Integer","","Recommended","Hours per day alone (e.g. sitting alone in room playing, listening to music, using the computer, watching TV, reading, doing hobbies).","0::24;99","Number of hours; 99=Missing","qlp17"
 "qol_asleep_hr_day","Integer","","Recommended","Hours per day asleep","0::24;99","Number of hours; 99=Missing","qlp18"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
 "isya_formsubj","Integer","","Recommended","Target/Subject of this form","0::4","0=Proband; 1=Sibling of proband; 2=Other relative of proband; 3=Offspring of proband; 4=Control",""
 "qol_independent","Integer","","Recommended","How independently can you act (at play, on a hobby, in other activities)? / How independently can your child act (at play, on a hobby, in other activities)?","0::5;9","0=Not applicable; 1=Very well; 2=Fairly well; 3=Average; 4=Rather poorly; 5=Very poorly; 9=Missing","qlp9"

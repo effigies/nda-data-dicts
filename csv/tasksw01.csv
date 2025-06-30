@@ -78,7 +78,7 @@
 "ts_switch_rt_mean","Float","","Recommended","Task Switching - Switch Trials - Mean Reaction Time","","In milliseconds",""
 "ts_repeat_rt_sd","Float","","Recommended","Task Switching - Repeat Trials - Standard Deviation Reaction Time","","In milliseconds",""
 "ts_switch_rt_sd","Float","","Recommended","Task Switching - Switch Trials - Standard Deviation Reaction Time","","In milliseconds",""
-"txgroup","String","50","Recommended","Treatment group","","",""
+"txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""
 "ts_cost","Float","","Recommended","Switch Cost. Derived variable. Cost is measured for switch trials minus repeat trials of task (either respond to color or shape). Primary indicator of task switching.","","",""
 "ts_combined_score","Float","","Recommended","Task Switching - NIH examiner combined score (accuracy plus RT)","0::1000;999","Computed score provided by NIH (equal to accuracy plus RT); 999= Missing",""
 "ts_color_acc","Float","","Recommended","Task Switching - Color Block - Response Accuracy (Percentage of correct responses)","0::100;999","999= Missing",""

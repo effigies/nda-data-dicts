@@ -4,7 +4,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"version_form","String","121","Required","Form used/assessment name","","",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing","qol_p_time,qol_s_time"
 "qol_p_q1","Integer","","Recommended","P: Your child's life in general?/ S: Your life in general?","1::3; 888; 999","1 = Bad; 2 = OK; 3 = Good; 888 = not applicable; 999 = missing","qol_s_q1"
 "qol_p_q2","Integer","","Recommended","P: How your child gets along with other people in general?/ S: How you get along with other people in general?","1::3; 888; 999","1 = Bad; 2 = OK; 3 = Good; 888 = not applicable; 999 = missing","qol_s_q2"

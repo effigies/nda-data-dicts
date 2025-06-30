@@ -613,7 +613,7 @@
 "comp_gsv_6","Float","","Recommended","Comparison of PPVT-II and PPVT-4 Scores Over Time: GSV  (6)","","","PPVT4_FormA_Comp_GSV_6"
 "test_type","String","50","Recommended","Type of event (Pre-Test or Post-Test)","Pre-Test;Post-Test","",""
 "ageequivalentyears","Integer","","Recommended","PPVT age equivalent in years","","","age_equivalent_year"
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "percentile_rank_eq_lt_gt","Integer","","Recommended","Percentile Rank EQ/LT/GT","0;1;2","0 = EQ (Equal to); 1 = LT (Less than); 2 = GT (Greater than)",""
 "percentile_rank_comb","Float","","Recommended","A calculated field  that combines the values for all Percentile Rank related fields for this record into a single field. If the related LT_GT field has a value of 0 (meaning equal to) , then the = is not shown but is implied","1::100","",""
 "nce_eq_lt_gt","Integer","","Recommended","Normal Curve Equivalent (NCE) EQ/LT/GT","0;1;2","0 = EQ (Equal to); 1 = LT (Less than); 2 = GT (Greater than)","normal_curve_equivalent_eq_lt_gt"

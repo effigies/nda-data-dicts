@@ -47,5 +47,5 @@
 "textdisplay1_onsetdelay_1","Integer","","Recommended","Onset delay of text slide","","",""
 "textdisplay1_onsettime_1","Integer","","Recommended","Onset time of text slide","","",""
 "textdisplay1_onsettoonsettime","Integer","","Recommended","Onset time interval of text slide","","",""
-"data_file1","File","255","Recommended","Data file 1","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""

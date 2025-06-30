@@ -5,7 +5,7 @@
 "patid","String","20","Recommended","A Participant ID","","",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "wais_age","Integer","","Recommended","WAIS Age","","",""
 "wais_arm_prblm1","Integer","","Recommended","Problem 1","0; 1","",""
 "wais_arm_prblm10","Integer","","Recommended","Problem 10","0; 1","",""

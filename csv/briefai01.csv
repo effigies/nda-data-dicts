@@ -37,7 +37,7 @@
 "wai_srt01","Integer","","Recommended","My client and I agree about the steps to be taken to improve his/her situation.","1::5","1= Seldom; 2= Sometimes; 3= Fairly Often; 4= Very Often; 5= Always","wait1"
 "wai_srt02","Integer","","Recommended","I am genuinely concerned for my client's welfare","1::5","1= Seldom; 2= Sometimes; 3= Fairly Often; 4= Very Often; 5= Always","wait2"
 "wai_srt03","Integer","","Recommended","We are working towards mutually agreed upon goals.","1::5","1= Seldom; 2= Sometimes; 3= Fairly Often; 4= Very Often; 5= Always","wait3"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "sample","Integer","","Recommended","Training or randomized case","1::5","1 = randomized; 2 = training; 3=randomized-control; 4=randomized-intervention; 5=concurrent cohort-intervention",""
 "waic_2","Integer","","Recommended","What I am doing in therapy give me new ways of looking at my problem.","1::7","1 = Never;2 = Rarely;3 = Occasionally;4 =  Sometimes;5 = Often;6 = Very often;7 = Always",""
 "waic3","Integer","","Recommended","I believe    likes me.","1::5","1= Seldom; 2= Sometimes; 3= Fairly Often; 4= Very Often; 5= Always",""

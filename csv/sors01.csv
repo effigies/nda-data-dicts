@@ -103,7 +103,7 @@
 "sorc76","Integer","","Recommended","Do these ASPECTS OF MOVEMENT bother your child: going on amusement park rides","0;1; 9998;9999","0 = No; 1 = Yes; 9998 = subject skipped; 9999 = NA/missing",""
 "sorc77","Integer","","Recommended","Do these ASPECTS OF MOVEMENT bother your child: going up and down escalators","0;1; 9998;9999","0 = No; 1 = Yes; 9998 = subject skipped; 9999 = NA/missing",""
 "sorc3_c","Integer","","Recommended","Do these GARMENTS bother your child: socks","0;1; 9998;9999","0 = No; 1 = Yes; 9998 = subject skipped; 9999 = NA/missing",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "sorc4_c","Integer","","Recommended","Do these GARMENTS bother your child: changing from long to short pants","0;1; 9998;9999","0 = No; 1 = Yes; 9998 = subject skipped; 9999 = NA/missing",""
 "sorc5_c","Integer","","Recommended","Do these GARMENTS bother your child: accessories (e. g. hat, watch, jewelry, scarf)","0;1; 9998;9999","0 = No; 1 = Yes; 9998 = subject skipped; 9999 = NA/missing",""
 "sorc6_c","Integer","","Recommended","Do these GARMENTS bother your child: fuzzy textures","0;1; 9998;9999","0 = No; 1 = Yes; 9998 = subject skipped; 9999 = NA/missing",""

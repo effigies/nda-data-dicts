@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "site","String","101","Recommended","Site","","Study Site",""
-"txgroup","String","50","Recommended","Treatment group","","",""
+"txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""
 "session","Integer","","Recommended","Session","","",""
 "weight_met","Float","","Recommended","Weight - Metric Unit","","999 = Missing; -999 = No Data",""
 "videotape","Integer","","Recommended","Was the session videotaped?","0;1","0= No; 1= Yes",""

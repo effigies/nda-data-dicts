@@ -16,4 +16,4 @@
 "eltpart2_rec2","Integer","","Recommended","Show me the Sad face.","1;2","1 = correct; 2 = incorrect",""
 "eltpart2_rec3","Integer","","Recommended","Show me the Angry face.","1;2","1 = correct; 2 = incorrect",""
 "eltpart2_rec4","Integer","","Recommended","Show me the Afraid face.","1;2","1 = correct; 2 = incorrect",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

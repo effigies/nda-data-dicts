@@ -28,4 +28,4 @@
 "dcq_arc","Integer","","Recommended","Accident-related concerns score","0::28","sum(dcq01, dcq04, dcq07, dcq09, dcq11, dcq13, dcq19)",""
 "dcq_sc","Integer","","Recommended","Social concerns score","0::24","sum(dcq02, dcq05, dcq08, dcq15, dcq17, dcq20)",""
 "dcq_total","Integer","","Recommended","Driving Cognitions Total Score","0::80","sum(dcq_pac, dcq_arc, dcq_sc)",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

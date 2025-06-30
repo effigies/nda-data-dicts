@@ -39,4 +39,4 @@
 "frs_money","Integer","","Recommended","FRS money subscale","","",""
 "frs_time_for_self","Integer","","Recommended","FRS time for self subscale","","",""
 "frs_time_for_fam","Integer","","Recommended","FRS time for fam subscale","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

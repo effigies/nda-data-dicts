@@ -68,4 +68,4 @@
 "c_spai26d","Integer","","Recommended","When I am someplace (a party, school, soccer game, or anyplace where I will be with others): My heart beats fast","0::2;-9","0 = Never or hardly ever; 1 = Sometimes; 2 = Most of the time or always; -9 = Incomplete","spai26d"
 "c_spai26e","Integer","","Recommended","When I am someplace (a party, school, soccer game, or anyplace where I will be with others): I have a headache or stomachache","0::2;-9","0 = Never or hardly ever; 1 = Sometimes; 2 = Most of the time or always; -9 = Incomplete","spai26e"
 "c_spaitot","Integer","","Recommended","SPAI_C Total","0::126; -9","-9 = Incomplete","spaitot"
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

@@ -25,6 +25,6 @@
 "financialhome_coding","Integer","","Recommended","Number of events that meet coding criteria for ""financial/home"" category","","",""
 "other_coding","Integer","","Recommended","Number of events that meet coding criteria for ""others"" category","","",""
 "event_effortless_elaboration","Integer","","Recommended","Participants have 30 seconds to elaborate on how their event might be achieved - Degree of idealizing an effortless process to attain the desired outcome","-5::5","-5 = Low idealization; 5 = High idealization",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "event_occurrence","Integer","","Recommended","Did this event happen?","1;2","1 = Yes; 2 = No",""
 "event_achievement","Integer","","Recommended","How much do you feel you achieved the desired outcome?","1::7","1 =  Not at all; 7 = Very much",""

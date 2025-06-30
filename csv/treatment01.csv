@@ -159,4 +159,4 @@
 "atx02_ratx_8","Integer","","Recommended","Other","0;1;555","0= No; 1= Yes; 555= Missing",""
 "stx02_ratx_1","Integer","","Recommended","Individual therapy","0;1;555","0= No; 1= Yes; 555= Missing",""
 "stx02_ratx_2","Integer","","Recommended","Group therapy","0;1;555","0= No; 1= Yes; 555= Missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

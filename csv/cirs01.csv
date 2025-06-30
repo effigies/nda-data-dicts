@@ -22,4 +22,4 @@
 "t_irs5","Integer","","Recommended","How this child's problems affect your classroom in general","0::6","0 = No problem, definitely does not need treatment; 6 = Extreme problem, definitely needs treatment",""
 "t_irs6","Integer","","Recommended","How this child's problems affect his or her self-esteem","0::6","0 = No problem, definitely does not need treatment; 6 = Extreme problem, definitely needs treatment",""
 "t_irs7","Integer","","Recommended","Overall severity of this child's problem in the functioning and overall need for treatment","0::6","0 = No problem, definitely does not need treatment; 6 = Extreme problem, definitely needs treatment",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

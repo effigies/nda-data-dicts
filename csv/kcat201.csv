@@ -162,7 +162,7 @@
 "podd146","Integer","","Recommended","My child blamed others if he/she got in trouble at school or work.","1::5","1=Not at all; 2=Just a little; 3=Somewhat; 4=Quite a bit; 5=Very much",""
 "podd156","Integer","","Recommended","It took a lot to make my child lose his/her temper.","1;2","1= True; 2= False",""
 "kcatodd_score","Float","","Recommended","KCAT Oppositional Defiant Disorder Score","","2 decimal points","odd_score,podd_score"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "sud8","Integer","","Recommended","During the past year, have you experienced problems caused by drinking alcohol and/or using other drugs or prescription medications and you kept using?","1; 2","1=No; 2=Yes",""
 "sud98","Integer","","Recommended","In the last 30 days, how much were you bothered by blaming yourself or someone else for a very stressful experience or what happened after it?","1::5","1=Not at all; 2=A little bit; 3=Moderately; 4=Quite a bit; 5=Extremely",""
 "sud99","Integer","","Recommended","In the last 30 days, how much were you bothered by having strong negative feelings such as fear, horror, anger, guilt, or shame?","1::5","1=Not at all; 2=A little bit; 3=Moderately; 4=Quite a bit; 5=Extremely",""

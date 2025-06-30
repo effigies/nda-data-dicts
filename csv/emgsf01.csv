@@ -10,7 +10,7 @@
 "system_manufacturer_pd","String","30","Recommended","Physiology data collection system manufacturer name","","",""
 "system_type_pd","String","50","Recommended","Physiology data collection model number / type / version","","","systemid"
 "system_software_versions_pd","String","100","Recommended","Physiology data collection software manufacturer, name, model / type / version","","",""
-"data_file1","File","255","Required","Data file 1","","",""
+"data_file1","File","255","Required","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "data_file1_type","String","300","Recommended","type of data file 1","","",""
 "data_file1_samprate","Float","","Recommended","Sampling rate of majority of data channels in file, in samples / second","","",""
 "chan1_type","String","50","Recommended","Type of physiology data (or Time, Digital Input, Computed Channel, etc.) collected on channel 1 of data file","","",""

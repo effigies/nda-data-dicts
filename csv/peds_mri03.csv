@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
 "src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","",""
-"timepoint_label","String","50","Required","Timepoint/visit label","","",""
+"timepoint_label","String","50","Required","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "age_days_date_of_visit_to_dob","Integer","","Recommended","Age in days at Visit (DoV-DoB), same as age of scan if obtained","","",""
 "acr_age_days_arbitrary_of_t1","Integer","","Recommended","""This variable provides an anonymized way to link individual subject data to data from ACR phantom scans. The """"ACR age"""" is calculated for all the subjects by subtracting the date of the T1 scan from an arbitrarily selected date.""","","",""
 "brainstem_volume","Float","","Recommended","MRI Variables: Brainstem volume (mm3)","","",""

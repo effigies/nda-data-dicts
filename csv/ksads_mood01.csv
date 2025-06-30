@@ -139,7 +139,7 @@
 "ksads_dx_agora5_current","Integer","","Recommended","Agoraphobia Diagnosis DSM 5 Criteria Met Current (now)","0;1;-99;77;88","0= No; 1=  Yes ; -99=N/A ; 88=  Missing ; 77= Refused","k2sads_agora5_total_1p,k2sads_agora_totaldsm5_1c,k2sads_dx_agora5_current,ksads_agora5_total_1p,ksads_agora_totaldsm5_1c
 ,sce_agora9"
 "ksads_dx_phonos_6mo","Integer","","Recommended","Phobia NOS Diagnosis Criteria Met Current (last 6 months)","0;1;-99;77;88","0= No; 1=  Yes ; -99=N/A ; 88=  Missing ; 77= Refused","k2sads_dx_phonos_6mo"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "ksads2_socialp_type_1p","String","100","Recommended","Social Phobia List Fear Current","","Example: Public Speaking, Eating in front of others, Writing in front of others, Generalized, Performance only, or Other","k2sads_socialp_type_1b,k2sads_socialp_type_1c,k2sads_socialp_type_1p,ksads_socialp_type_1b,ksads_socialp_type_1c"
 "ksads2_socialp_type_2p","String","100","Recommended","Social Phobia List Fear Past","","Example: Public Speaking, Eating in front of others, Writing in front of others, Generalized, Performance only, or Other","k2sads_socialp_type_2b,k2sads_socialp_type_2c,k2sads_socialp_type_2p,ksads_socialp_type_2b,ksads_socialp_type_2c"
 "ksads2_socialp_always_1p","Integer","","Recommended","Social Phobia Almost Always Provokes Fear/Anxiety Current Parent","1::3;-99;88;77","1=Not present; 2=Sub-threshold; 3=Present; -99=N/A ; 88=  Missing ; 77= Refused","cce_agora3,k2sads_socialp_always_1b,k2sads_socialp_always_1c,k2sads_socialp_always_1p,ksads_socialp_always_1b,ksads_socialp_always_1c,pce_agora3,sce_agora3"
@@ -154,7 +154,7 @@
 "ksads2_phobia_always_2p","Integer","","Recommended","Phobia Almost Always Provokes Fear/Anxiety Past Parent","1::3;-99;88;77","1=Not present; 2=Sub-threshold; 3=Present; -99=N/A ; 88=  Missing ; 77= Refused","k2sads_phobia_always_2b,k2sads_phobia_always_2c,k2sads_phobia_always_2p,ksads_phobia_always_2b,ksads_phobia_always_2c"
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","","tpoint"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","tpoint"
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
 "ksapho","String","20","Recommended","Specify most intense phobia ","","",""
 "ksas1s","Integer","","Recommended","Distress ","1::3","1=Not present; 2=Sub-threshold; 3=Present",""

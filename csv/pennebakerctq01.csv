@@ -53,7 +53,7 @@
 "rtes7b","Integer","","Recommended","If within the last 3 years, you experienced any other major upheaval that you think may have shaped your life or personality significantly, how much did you confide in others about the experience at the time?","1 :: 7","1=Not at all; 7=A great deal","q7_confide_in_others_rt"
 "site","String","101","Recommended","Site","","Study Site","siteid"
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
-"visit","String","60","Recommended","Visit name","","","visitnum,vtypbima,vtypbprs"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visitnum,vtypbima,vtypbprs"
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits","visit_childhood_trauma,visit_number_rtevents"
 "er40_d_status","Integer","","Recommended","Test Status Code","","",""
 "er40_d_valid_code","Integer","","Recommended","Autovalidation Valid Code","","",""

@@ -8,4 +8,4 @@
 "outcome_infracs_desc","String","250","Recommended","Description of infractions received post-intervention","","",""
 "outcome_adseg","Integer","","Recommended","Number of days spent in administrative segregation post-intervention","","",""
 "outcome_adseg_desc","String","250","Recommended","Description of days spent in administrative segregation post-intervention","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

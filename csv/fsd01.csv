@@ -78,7 +78,7 @@
 "ifyes_old_tx","String","100","Recommended","If you have EVER sought counseling or therapy, then how old were you?","","Age in months",""
 "ifyes_old_rx","String","110","Recommended","If you have EVER taken psychiatric medications, then how old were you?","","",""
 "experienced_any","String","250","Recommended","Have you experienced any of these experiences over the previous year? Check all that apply: Separation or divorce, marriage, change in individuals in household, financial changes (significant increase or decrease in income), moved, started a new job or changed position at job, death of family member, death of close friend.","","",""
-"phenotype","String","400","Recommended","Phenotype/diagnosis for the subject","","","group"
+"phenotype","String","400","Recommended","Phenotype/diagnosis for the subject","","e.g., Healthy, Control, Suicidal","group"
 "edutot","Float","","Recommended","Total years of education","","","lgrad"
 "ethnic_group","String","255","Recommended","Ethnic group","","",""
 "occustat","Integer","","Recommended","current employment status","1::9","1=A worker for pay;2=Disabled 3=A housewife/househusband; 4=A student; 5=Unemployed; 6=Retired; 7=employed/student; 8 = Does not apply (lives in institution, etc.); 9 = Not known","actualoccup"

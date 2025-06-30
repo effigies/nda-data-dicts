@@ -32,4 +32,4 @@
 "cains_social_sum","Integer","","Recommended","Sum of Social domain","0::16","",""
 "cains_vocational_sum","Integer","","Recommended","Sum of Work and School domain","0::8","",""
 "cains_recreation_sum","Integer","","Recommended","Sum of Motivation for Recreational Activities domain","0::12","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

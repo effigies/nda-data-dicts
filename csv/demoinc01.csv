@@ -30,6 +30,6 @@
 "homeless","Integer","","Recommended","Homeless in past 6 months","0;1","0 = No; 1 = Yes",""
 "shelter","Integer","","Recommended","ever stay in shelter","0;1;77","0 = No; 1 = Yes; 77 = Do not know",""
 "caresetting","Integer","","Recommended","Participant's 'Current Care Setting,' At Time of Screening Visit","1::4","1=Inpatient (=inpatient hospitalization); 2=Outpatient (=rehabilitation program or PRP); 3=Day Hospital (=day hospital); 4=Other (=less level of care, i.e. an outpatient doctor)",""
-"txgroup","String","50","Recommended","Treatment group","","",""
+"txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""
 "dembschl","Integer","","Recommended","Is teen currently enrolled in school? (alternatively, does teen plan to return to school when it resumes)","0::3","0= No; 1= Yes; 2= Yes, college; 3= Yes, high school",""
 "visitnum","Integer","","Recommended","Visit number","","",""

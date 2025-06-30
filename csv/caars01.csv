@@ -251,5 +251,5 @@
 "adhd_sym_nonimput","Integer","","Recommended","DSM-IV ADHD Symptoms Total (nonimputed)","","",""
 "adhdind1_nonimput","Integer","","Recommended","ADHD Index (nonimputed)","","",""
 "inc_ind_nonimput","Integer","","Recommended","Inconsistency Index (nonimputed)","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "data_6","Integer","","Recommended","Select the answer that says very frequently to show you are reading this.","0 :: 3","0 = Not at all, never; 1 = Just a little, once in a while; 2 = Pretty much, often; 3 = Very much, very frequently    ",""

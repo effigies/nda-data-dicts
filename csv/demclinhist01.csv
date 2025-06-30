@@ -11,7 +11,7 @@
 "race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","","ethnic_group"
 "site","String","101","Recommended","Site","","Study Site",""
-"trtarm","String","200","Recommended","Treatment arm","","","arm"
+"trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","arm"
 "risk_ps","Integer","","Recommended","Pregnancy risk strata at baseline week 0","0;1","0 = Low risk strata (Pregnant false), 1 = High risk strata (Pregnant true)",""
 "risk_css","Integer","","Recommended","Clinical status risk strata at baseline week 0","1;2","1 = Low risk strata (Asymptomatic recovery), 2 = High risk strata (Symptomatic recovery, Prodromal, Recovering, Continued Symptomatic)",""
 "risk_cst","Integer","","Recommended","Clinical status risk type at baseline week 0","0::4","Low risk strata: 0 = Asymptomatic recovery; High risk strata: 1 = Symptomatic Recovery,  2 = Recovering, 3 = Prodromal, 4 = Continued Symptomatic",""

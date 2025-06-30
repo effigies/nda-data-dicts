@@ -13,4 +13,4 @@
 "wolf_trait_07","Integer","","Recommended","In general, how do you think you would feel after: Making an acquaintance scowl angrily?","0 :: 6","0= Would Not Care; 6= Extremely Bad",""
 "wolf_trait_08","Integer","","Recommended","In general, how do you think you would feel after: Winning $5.00?","0 :: 6","0= Would Not Care; 6= Extremely Good",""
 "wolf_trait_09","Integer","","Recommended","In general, how do you think you would feel after: Losing $5.00?","0 :: 6","0= Would Not Care; 6= Extremely Bad",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

@@ -45,7 +45,7 @@
 "scidv_d56","Integer","","Recommended","BP, most recent episode is hypomanic or ""unspecified"": age at onset of first manic, mixed, hypomanic, or major depressive episode","","","d56"
 "scidv_d57","Integer","","Recommended","BP, most recent episode is hypomanic or ""unspecified"":  check if, with panic attacks","1;3; -7; -9","1= absent or false; 3 = threshold or true; -7 = N/A; -9 = missing or not reported","d57,sciddv_bipolar_curr_hypo_2_cb01___d57"
 "study_id","Integer","","Recommended","Study ID number","","46=Acute Phase; 47=Stabilization Phase","p1"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "d12","Integer","","Recommended","At least two major depressive episodes (including current)","1;3","1 = Absent or false; 3 = Present or true",""
 "d13","Integer","","Recommended","At least two manic/hypomanic episodes (including current)","1;3","1 = Absent or false; 3 = Present or true",""
 "d18","String","10","Recommended","If full remissions  of seasonal pattern mania/hypomania, or a change from mania/hypomania to depression (or the reverse) occur at a characteristic time of year, then indicate month of regular remission of episode","","","sciddv_d18"

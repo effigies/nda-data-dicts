@@ -95,7 +95,7 @@
 "assv_q11_4","Integer","","Recommended","Social media gives me information about others.","1::5;999","1=Strongly Disagree; 2=Disagree; 3=Neither agree nor disagree; 4=Agree; 5=Strongly Agree; 999 = NA or Did not respond",""
 "assv_q12_1","Integer","","Recommended","Using social media is one of the routine things I do when I am online.","1::5;999","1=Strongly Disagree; 2=Disagree; 3=Neither agree nor disagree; 4=Agree; 5=Strongly Agree; 999 = NA or Did not respond",""
 "assv_q12_2","Integer","","Recommended","Social media helps me to express my emotions to others easily.","1::5;999","1=Strongly Disagree; 2=Disagree; 3=Neither agree nor disagree; 4=Agree; 5=Strongly Agree; 999 = NA or Did not respond",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "assv_q12_3","Integer","","Recommended","Social media allows me to develop a romantic relationship.","1::5;999","1=Strongly Disagree; 2=Disagree; 3=Neither agree nor disagree; 4=Agree; 5=Strongly Agree; 999 = NA or Did not respond",""
 "assv_q12_4","Integer","","Recommended","I use social media to talk about my problems and get advice.","1::5;999","1=Strongly Disagree; 2=Disagree; 3=Neither agree nor disagree; 4=Agree; 5=Strongly Agree; 999 = NA or Did not respond",""
 "assv_q13_1","Integer","","Recommended","Social media is part of my self-image.","1::5;999","1=Strongly Disagree; 2=Disagree; 3=Neither agree nor disagree; 4=Agree; 5=Strongly Agree; 999 = NA or Did not respond",""

@@ -19,4 +19,4 @@
 "csms_inhibition","Integer","","Recommended","Inhibition Score","","",""
 "csms_erc","Integer","","Recommended","Emotion Regulation Coping Score","","",""
 "csms_de","Integer","","Recommended","Dysregulated Expression Score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

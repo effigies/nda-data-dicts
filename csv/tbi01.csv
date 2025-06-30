@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","chrtbi_interview_date,testdate"
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","age"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender,sex"
-"visit","String","60","Recommended","Visit name","","","visitnum"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visitnum"
 "tbi1","Integer","","Recommended","Have you ever had a head injury or concussion?","0; 1; -5; -7; -8; -9","0=No; 1=Yes; -9=Not applicable or missing; -8=DON'T KNOW; -7=REFUSED; -5=Presented, not answered","tb_hithead"
 "tbi2","Integer","","Recommended","Did you ever get knocked out or lose consciousness as a result of a head injury?","0; 1; -5; -7; -8","0=No; 1=Yes;  -8=DON'T KNOW; -7=REFUSED; -5=Presented, not answered","tb_knockedout"
 "tbi3","Integer","","Recommended","Did you ever experience any symptoms immediately after a head injury?","0;1","1=Yes; 0=No",""

@@ -44,7 +44,7 @@
 "cj","Float","","Recommended","Correct Rejection","","","tn"
 "falsealarm","Float","","Recommended","False Alarm","","","fn"
 "mp_sb_ntc","Float","","Recommended","# trials completed","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "subject_response","String","10","Recommended","Subject's response","","","proberesp"
 "acc_item","Float","","Recommended","Response Accuracy for item recognition","","","probeacc"
 "item_rt","Float","","Recommended","Response time for item","","","probert"

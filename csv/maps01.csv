@@ -48,4 +48,4 @@
 "maps_bpscore","Integer","","Recommended","Broadband Positive Parenting Score","","Mean of items: Proactive Parenting Score, Positive Reinforcement Score, Warmth Score, and Supportiveness Score",""
 "maps_bnscore","Integer","","Recommended","Broadband Negative Parenting Score","","Mean of items: Hostility Score, Lax Control Score, and Physical Control Score",""
 "time__point01","Integer","","Recommended","Timepoint","1::6","1 = Screening; 2 = Baseline; 3 = Mid-way; 4 = One Month; 5 = Three Months; 6 = Final",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

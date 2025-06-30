@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","assessment_date"
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","age_months"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender,sex,sex_at_birth,sex_at_birth,sex_at_brith"
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "comqother","String","255","Recommended","Respondent - Other (text)","","","respondent"
 "sleep_bestfunction","Integer","","Recommended","In general, what time of day do you function best (e.g., to study)?","0 :: 2400","Military time (e.g., 0 = 12:00 AM, 415=4:15 AM, 1830 = 6:30 PM, 2345 = 11:45 PM)",""
 "sleep_today_wake","Integer","","Recommended","What time did you wake up this morning (e.g., 7:30 AM)?","0 :: 2400","Military time (e.g., 0 = 12:00 AM, 415=4:15 AM, 1830 = 6:30 PM, 2345 = 11:45 PM)",""

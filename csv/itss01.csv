@@ -13,7 +13,7 @@
 "itss_07","Integer","","Recommended","Since your injury: Have you felt more restless, tense or jumpy than usual?","0;1","0=No; Yes=1","itss7"
 "itss_08","Integer","","Recommended","Since your injury: Have you found yourself unable to stop worrying?","0;1","0=No; Yes=1","itss8"
 "itss_09","Integer","","Recommended","Since your injury: Do you find yourself thinking that the world is unsafe and that people are not to trusted?","0;1","0=No; Yes=1","itss9"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "ptsd_total","String","10","Recommended","PTSD Total Score","","",""
 "depression_total","Integer","","Recommended","DSM-5 DEPRESSION SCORE","0 ::27","",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""

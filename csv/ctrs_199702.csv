@@ -135,7 +135,7 @@
 "ctiowat","Float","","Recommended","IOWA Inattentive/overactivity total score","","Includes Items: 1, 2, 6, 7, 8",""
 "cttotalx","Float","","Recommended","CTRS total score mean score","","Includes All Items 1 to 39",""
 "cttotalt","Float","","Recommended","CTRS total score total score","","Includes All Items 1 to 39",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "resp_sex","Integer","","Recommended","gender of respondent","1;2","1=Male; 2=Female",""
 "clmp_c1","String","500","Recommended","In your own words, describe 3 noteworthy (favorable or unfavorable) events which
 occurred during this rating period. If there were no noteworthy events, describe 3
@@ -146,5 +146,5 @@ things which happened even if they were unremarkable� Event 2","","",""
 "clmp_c3","String","500","Recommended","In your own words, describe 3 noteworthy (favorable or unfavorable) events which
 occurred during this rating period. If there were no noteworthy events, describe 3
 things which happened even if they were unremarkable� Event 3","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "year_mta","Integer","","Recommended","Year in study","","","visit_year,visit_year�"

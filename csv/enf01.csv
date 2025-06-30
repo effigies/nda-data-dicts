@@ -18,7 +18,7 @@
 "enfa5b","Integer","","Recommended","admission summary or notes","0;1","1=Yes; 0=No",""
 "enfa5c","Integer","","Recommended","discharge summary","0;1","1=Yes; 0=No",""
 "enfa5d","Integer","","Recommended","summary of phone conversation(s) w/ providers, and/or family members","0;1","1=Yes; 0=No",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","",""
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
 "fseqno","Integer","","Recommended","Sequence Number","0::999","The FSEQNO variable in the ADJ form has a special interpretation compared to other forms.

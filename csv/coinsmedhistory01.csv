@@ -95,7 +95,7 @@
 "trtgrp_p","Integer","","Recommended","Treatment Group","1;2","1=Long-Acting Injectable Risperidone Microspheres; 2=Second Generation Oral Antipsychotic Medication",""
 "days_visit1","Integer","","Recommended","Days from Visit 1","","","dav1pmc"
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
-"visit","String","60","Recommended","Visit name","","","vtyppmc"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","vtyppmc"
 "site","String","101","Recommended","Site","","Study Site",""
 "mhx002a","Integer","","Recommended","History of:Sensitivity to study medication(s)","1;2;9","1=No; 2=Yes;9=not evaluated",""
 "mhxa1e","Integer","","Recommended","Heart attack/ myocardial infarction","0;1;9;-9","0=No; 1=Yes; 9=not evaluated; -9=unknown",""

@@ -74,4 +74,4 @@
 "fisb_f","Float","","Recommended","Standardized Family Interaction Measure: Standardize OQOL_FC and FI_3 first, FISB_F=(OQOL_FC+FI_3)/2","","",""
 "fisb_s","Float","","Recommended","Standardized Social Interaction Measure: Standardize OQOL_SC and SB_5 first, FISB_S=(OQOL_SC+SB_5)/2.","","",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

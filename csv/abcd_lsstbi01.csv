@@ -4,7 +4,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"eventname","String","60","Recommended","The event name for which the data was collected","","",""
+"eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
 "tbi_ss_ntbiloc_l","Integer","","Recommended","Number of TBI-LOC (number of TBIs with loss consciousness): SUM(AND([tbi_1]=1,[tbi_1b]>0), AND([tbi_2]=1,[tbi_2b]>0,AND([tbi_3]=1,[tbi_3b]>0),AND([tbi_4]=1,[tbi_4b]>0),AND([tbi_5]=1,[tbi_5b]>0),[tbi_6p], AND([tbi_7a]=1,[tbi_7c1]>0)); Validation: No minimum","","","brain_injury_ss_ntbiloc_p_l"
 "tbi_ss_ntbiloc_nm_l","Integer","","Recommended","Number of TBI-LOC : Number missing","","","brain_injury_ss_ntbiloc_nm_p__l"
 "tbi_ss_ntbiloc30_l","Integer","","Recommended"," Number of TBI-LOC >= 30 (number of TBIs with loss of conscioiusness >= 30 minutes): SUM(AND([tbi_1]=1,[tbi_1b]>1), AND([tbi_2]=1,[tbi_2b]>1)AND(tbi_3]=1,[tbi_3b]>1), AND([tbi_4]=1,[tbi_4b]>1),AND([tbi_5]=1,[tbi_5b]>1),[tbi_6r], AND([tbi_7a]=1,[7c1]>1)); Validation: No minimum","","","brain_injury_ss_ntbiloc30_p_l"

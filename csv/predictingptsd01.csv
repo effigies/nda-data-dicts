@@ -11,7 +11,7 @@
 "predictingptsd_5","Integer","","Recommended","Did you have a rough childhood or any bad experiences as a child, worse than what you think most people experience? (e.g., neglect, emotional or physical or sexual abuse/assault, witnessing trauma?","0::1","0=No; 1=Yes",""
 "predictingptsd_6","Integer","","Recommended","Do any of your first degree relatives (parents, siblings) have problems with their nerves, anxiety or depression, drinking or drugs?","0::1","0=No; 1=Yes",""
 "predictingptsd_7","Integer","","Recommended","SUM CALCULATION- Prior trauma?","0::1","0=No; 1=Yes",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "predictingptsd_8","Integer","","Recommended","SUM CALCULATION- Current trauma severity 3 or higher?","0::1","0=No; 1=Yes",""
 "predictingptsd_9","Integer","","Recommended","SUM CALCULATION- Dissociation during current trauma 2 or higher?","0::1","0=No; 1=Yes",""
 "predictingptsd_10","Integer","","Recommended","SUM CALCULATION- Childhood trauma exposure?","0::1","0=No; 1=Yes",""

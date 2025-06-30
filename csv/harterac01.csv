@@ -10,7 +10,7 @@
 "actbdic","Integer","","Recommended","Active status","0::5","0=Inactive-Data collected after the 14 month treatment phase/after early termination from treatment phase/prior to treatment phase; 1=Active-Data collected during the 14 month treatment phase while subject received originally assigned treatment regardless of degree of compliance; 2=Active-This is the last active assessment for subjects who were about to violate treatment arm by receiving alternate treatment; 3=Active-This is the last active assessment for subjects who were about to leave the study by moving away;4=Yes, Active; 5=No, Not Active","actha,acthc"
 "site","String","101","Recommended","Site","","Study Site","sitenum"
 "sjtyp","Integer","","Recommended","Subject type","1;2","1=MTA randomized trial subject; 2=Local normative comparison group (LNCG) subject",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "ha1","Integer","","Recommended","Smart","1::4","1=Aren't so sure and wonder if you are smart; 4=Feel you are just as smart as others your age","hc7"
 "ha2","Integer","","Recommended","Making friends","1::4","1=Find it hard to make friends; 4=Pretty easy to make friends","hc2"
 "ha3","Integer","","Recommended","Sports","1::4","1=Not very good when it comes to sports; 4=Do well at all kinds of sports","hc3"

@@ -49,7 +49,7 @@
 "asq_26b","Integer","","Recommended","What is the maximum number of drinks you could consume without feeling less inhibited?","1::99","range 1-99",""
 "asq_28b","Integer","","Recommended","What is the maximum number of drinks you could consume without feeling that your driving would be affected?","1::99","range 1-99",""
 "asq_30b","Integer","","Recommended","What is the maximum number of drinks you could consume without feeling sedated or sleepy?","1::99","range 1-99",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "es_asqtotalscore","Float","","Recommended","ASQ Total Score","","(( sum([asq1b],[asq2b],[asq3b],[asq4b],[asq5b],[asq6b],[asq7b],[asq8b],[asq9b],[asq10b],[asq11b],[asq12b],[asq13b],[asq14b],[asq15b]) ) / (15))",""
 "es_asqheavyscore","Float","","Recommended","ASQ Heavy Score","","(( sum([asq10b],[asq11b],[asq12b],[asq13b],[asq14b],[asq15b]) ) / (6))",""
 "es_asqlightscore","Float","","Recommended","ASQ Light Score","","(( sum([asq1b],[asq2b],[asq3b],[asq4b],[asq5b],[asq6b],[asq7b],[asq8b],[asq9b]) ) / (9))",""

@@ -18,5 +18,5 @@
 "norm_jerk","Float","","Recommended","Normalized jerk for a given segment","0.000::12000.000","",""
 "avg_norm_jerk","Float","","Recommended","Average normalized jerk for a given segment","0.000::12000.000","",""
 "num_strokes","Float","","Recommended","Number of strokes in a condition","1::100","",""
-"data_file1","File","255","Recommended","Data file 1","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "data_file1_type","String","300","Recommended","type of data file 1","","",""

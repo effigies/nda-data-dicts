@@ -42,7 +42,7 @@
 "berlin_rs","Float","","Recommended","BERLIN - Total Raw Score, range 0-3","0 :: 3","",""
 "berlin","Float","","Recommended","BERLIN - Sleep apnea indicator","1; 2","1=low risk for sleep apnea; 2=high risk for sleep apnea",""
 "siteid","Integer","","Recommended","Site ID","10::100","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "bas_highbp","Integer","","Recommended","BERLIN: High Blood Pressure","0;1; -5; -7; -8","0=No; 1=Yes; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "bas_tiredafterslp","Integer","","Recommended","BERLIN: How Often Tired After Sleep","0 :: 4; -5; -7; -8","0=Never or almost never; 1=1-2 times per month; 2=1-2 times per week; 3=3-4 times per week; 4=Almost every day; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "bas_waketired","Integer","","Recommended","BERLIN: How Often Tired During Wake Time","0 :: 4; -5; -7; -8","0=Never or almost never; 1=1-2 times per month; 2=1-2 times per week; 3=3-4 times per week; 4=Almost every day; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""

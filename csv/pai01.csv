@@ -374,7 +374,7 @@
 "rxr_t_score","Integer","","Recommended","T score. Treatment Rejection","","",""
 "dom_t_score","Integer","","Recommended","T score. Dominance","","",""
 "wrm_t_score","Integer","","Recommended","T score. Warmth","","",""
-"version_form","String","121","Required","Form used/assessment name","","",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "pai_a_265","Integer","","Recommended","My mood can shift quite suddenly.","1 :: 4; 88","1 = False, Not at All True; 2 = Slightly True; 3 = Mainly True; 4 = Very True",""
 "pai_a_266","Integer","","Recommended","I often wonder what I should do with my life.","1 :: 4; 88","1 = False, Not at All True; 2 = Slightly True; 3 = Mainly True; 4 = Very True",""
 "pai_a_267","Integer","","Recommended","Once someone is my friend, we stay friends.","1 :: 4; 88","1 = False, Not at All True; 2 = Slightly True; 3 = Mainly True; 4 = Very True",""

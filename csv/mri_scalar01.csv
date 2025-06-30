@@ -270,7 +270,7 @@
 "dti_fa_wm_lh_suptemp_median","Float","","Recommended","DTI: dti_fa_wm-lh-superiortemporal_median","","","id_425"
 "dti_fa_wm_lh_suptemp_sd","Float","","Recommended","DTI: dti_fa_wm-lh-superiortemporal_std","","","id_424"
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
 "rb_anat_ringout","String","25","Recommended","ringing outside brain","None; Mild; Moderate; Severe","","id_4137"
 "mris_cabnp_aud_thick","Float","","Recommended","Cortical thickness in mm for the auditory network from the Cole-Anticevic Brain Network Parcellation (CAB-NP)","","Unit: mm",""

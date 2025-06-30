@@ -66,4 +66,4 @@
 "cfq_faltrig_score","Integer","","Recommended","Cognitive Failures Questionnaire (CFQ) False triggering subscale score","0::32","",""
 "qc_cfq_faltrig_num_items","Integer","","Recommended","Quality Control (QC) Cognitive Failures Questionnaire (CFQ) False triggering subscale total number of items","","",""
 "qc_cfq_faltrig_num_nonresp","Integer","","Recommended","Quality Control (QC) Cognitive Failures Questionnaire (CFQ) False triggering subscale total number of non-response items","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

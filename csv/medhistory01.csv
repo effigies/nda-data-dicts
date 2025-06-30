@@ -241,14 +241,14 @@
 "mhx021","String","250","Recommended","Specify Other History 2","","","mhx16,mhxs_q16b"
 "mhx021b","String","250","Recommended","If YES, Enter onset/resolved date indicate ongoing with treatment or not. If NOT EVALUATED, explain or describe below: Other","","","mhx16b"
 "site","String","101","Recommended","Site","","Study Site","asite,mhxs_site_x,site_uid,siteid"
-"visit","String","60","Recommended","Visit name","","","int1,interval,mhxs_interval,visit_name,wave"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","int1,interval,mhxs_interval,visit_name,wave"
 "daysrz","Integer","","Recommended","days since randomization","","","mdga0b,mhxa0b,visitdt"
 "fseqno","Integer","","Recommended","Sequence Number","0::999","The FSEQNO variable in the ADJ form has a special interpretation compared to other forms.
 For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' can be thought of as
 being '002', and FSEQNO of '3' can be thought of as being '003'.
 The first digit of FSEQNO relates to the corresponding ENF sequence number at that visit and the third
 digit relates to the specific adjudicator who completed the adjudication form.",""
-"version_form","String","121","Recommended","Form used/assessment name","","","form_name,vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_name,vers"
 "baseline_k_006","Integer","","Recommended","Stroke","0;1; -888; -999","0=No; 1=Yes; -888=Not Applicable; -999=Missing;","mdga1,med_006,mhxa1a,neuro_psych_stroke,stroke_tia,stroke_yn"
 "mhxa1b","Integer","","Recommended","Date crisis resolved (physician determination):","","","mdga2_a"
 "mhxa1c","Integer","","Recommended","Coronary artery disease","0;1; -9;-900;-300","0=No; 1=Yes; -9 =NK; -900 = Missing; -300 = N/A","mdga3,med_010"
@@ -292,7 +292,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "mdga20e","String","150","Recommended","Medical Illness 5","","",""
 "mdga20f","String","150","Recommended","Medical Illness 6","","",""
 "ch20prob","Float","","Recommended","10 Year Probability Of CHD","","",""
-"study","String","100","Recommended","Study; The code for each individual study","","","mhxs_studyid,studyid"
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections","mhxs_studyid,studyid"
 "completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","formcomp,frmcomp"
 "subtrial_name","Integer","","Recommended","Name of subtrial","1::3","1=Crossover; 2=Guanfacine; 3= Open Label MPH",""
 "mhalldre","Integer","","Recommended","Allergies  Drugs","1::3; -9; 9","1=No history 2=Yes, excludes;3=Yes, does not exclude; -9 =unknown; 9=not evaluated",""
@@ -982,7 +982,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "height_met","String","50","Recommended","Height - Metric Unit","","999 = Missing; -999 = No Data","med_109"
 "med_129","Integer","","Recommended","Nourishment/Hydration normal?","0;1","1 = Well nourished, normal skin turgor and hydration;0 = No",""
 "med_130","Integer","","Recommended","Gait/ambulation normal?","0;1","1 = no ataxia, normal gait and station; 0 = abnormal",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","","timepoint"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","timepoint"
 "baseline_k_007","Integer","","Recommended","Chronic pain, like headaches, joint pain, neck pain, or back pain that you experience frequently","0;1; -888; -999","0=No; 1=Yes; -888=Not Applicable; -999=Missing;","dukemed_pain"
 "medhx_autodisorder","Integer","","Recommended","Autoimmune Disorders","0::2","0 = No, 1 = Yes, 2 = Not sure","dukemed_autoim"
 "dukemed_cpd_notes","String","500","Recommended","Neurological disorders - Notes","","",""

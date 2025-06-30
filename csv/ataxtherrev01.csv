@@ -24,4 +24,4 @@
 "therrv18","Integer","","Recommended","Hospitalized: Month of last Hospitalization","1::12","1=January; 2=February; 3=March; 4=April; 5=May; 6=June; 7=July; 8=August; 9=September; 10=October; 11=November; 12=December",""
 "therrv19","Integer","","Recommended","Hospitalized: If yes; was this related to Spinocerebellar ataxia(SCA)","","",""
 "therrv20","String","500","Recommended","Cause of hospitalization","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

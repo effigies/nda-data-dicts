@@ -8,5 +8,5 @@
 "smra_other","Float","","Recommended","If participant checked ''other'' for [smra], then specify amount in dollars.","","",""
 "smrc","Integer","","Recommended","How much money would you pay for a cigarette to smoke right now? (please check one)","0::9","0 = 1 cent; 1 = 5 cents; 2 = 10 cents; 3 = 25 cents; 4 = 1 dollar; 5 = 3 dollars; 6 = 5 dollars; 7 = 7 dollars; 8 = 10 dollars; 9 = other",""
 "smrc_other","Float","","Recommended","If participant checked ''other'' for [smrc], then specify amount in dollars.","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "session","Integer","","Recommended","Session","","",""

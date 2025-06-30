@@ -15,7 +15,7 @@
 "myts_sub1","Integer","","Recommended","MYTS-Youth Problem Recognition Subscale Score","","",""
 "myts_sub2","Integer","","Recommended","MYTS-Youth Treatment Readiness Subscale Score","","",""
 "myts_total","Integer","","Recommended","MYTS-Youth Total Score","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "myts_8c","Integer","","Recommended","It is my decision to get counseling for this youth. ","1::5","1=Strongly Disagree; 2=Disagree; 3=Neither agree nor disagree; 4=Agree; 5=Strongly agree",""
 "myts_1c","Integer","","Recommended","This youth''s behavior is causing problems at home, school, with friends, or in other places.","1::5","1=Strongly Disagree; 2=Disagree; 3=Neither agree nor disagree; 4=Agree; 5=Strongly agree",""
 "myts_2c","Integer","","Recommended","This youth''s behavior is making my life worse.","1::5","1=Strongly Disagree; 2=Disagree; 3=Neither agree nor disagree; 4=Agree; 5=Strongly agree",""

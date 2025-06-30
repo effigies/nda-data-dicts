@@ -171,7 +171,7 @@
 "bfas_07","Integer","","Recommended","Reveal little about myself.","1::5","1=Strongly Disagree; 3=Neither agree nor disagree; 5=Strongly agree",""
 "bfas_08","Integer","","Recommended","Know how to captivate people.","1::5","1=Strongly Disagree; 3=Neither agree nor disagree; 5=Strongly agree",""
 "bfas_10","Integer","","Recommended","Wait for others to lead the way.","1::5","1=Strongly Disagree; 3=Neither agree nor disagree; 5=Strongly agree",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "ipip_comfortable_self","Integer","","Recommended","Describe how accurately each statement describes you: Feel comfortable with myself","1::5;-555","1= Very inaccurate; 2= Moderately inaccurate; 3= Neither inaccurate nor accurate; 4= Moderately accurate; 5= Very accurate; -555= Prefer not to answer",""
 "ipip_bothered","Integer","","Recommended","Describe how accurately each statement describes you: Am not easily bothered by things","1::5;-555","1= Very inaccurate; 2= Moderately inaccurate; 3= Neither inaccurate nor accurate; 4= Moderately accurate; 5= Very accurate; -555= Prefer not to answer",""
 "ipip_pleased","Integer","","Recommended","Describe how accurately each statement describes you: Am very pleased with myself","1::5;-555","1= Very inaccurate; 2= Moderately inaccurate; 3= Neither inaccurate nor accurate; 4= Moderately accurate; 5= Very accurate; -555= Prefer not to answer",""

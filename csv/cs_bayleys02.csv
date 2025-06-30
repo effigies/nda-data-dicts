@@ -5,7 +5,7 @@
 "patid","String","20","Recommended","A Participant ID","","",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "bay_ca","Integer","","Recommended","Chronological Age","","",""
 "bay_dage","Integer","","Recommended","Developmental Age/Level","","",""
 "bay_mdi","Integer","","Recommended","Mental MDI","","",""

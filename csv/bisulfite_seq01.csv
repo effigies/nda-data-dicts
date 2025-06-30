@@ -30,7 +30,7 @@
 "directionalbsseqlibrary","Integer","","Recommended","Indicates whether or not the bisulfiteSeq library is directional","0; 1","0=No; 1=Yes",""
 "gdnaconc","Float","","Recommended","gDNA Concentration in ng","","",""
 "lambdadnaconc","Float","","Recommended","Lambda DNA spike-in concentration in ng","","",""
-"data_file1","File","255","Recommended","Data file 1","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "data_file1_type","String","300","Recommended","type of data file 1","","",""
 "dnabatch","String","4000","Recommended","DNA isolation batch","","",""
 "library_prep_batch","String","255","Recommended","Sequencing library batch","","",""

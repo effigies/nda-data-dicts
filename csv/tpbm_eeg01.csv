@@ -72,4 +72,4 @@
 "elec_po8","Float","","Recommended","normalized power  at electrode PO8","","",""
 "elec_po4","Float","","Recommended","normalized power  at electrode PO4","","",""
 "elec_o2","Float","","Recommended","normalized power  at electrode O2","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

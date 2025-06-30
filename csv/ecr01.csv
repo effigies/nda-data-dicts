@@ -97,7 +97,7 @@
 "ecrr_anxiety_score","Float","","Recommended","ECR: Mean Anxiety Score","1::7","","10250"
 "ecrr_avoidance_score","Float","","Recommended","ECR: Mean Avoidance Score","1::7","","10251"
 "timepoint","Integer","","Recommended","Timepoint","0::8","0=Screening; 1=Intake; 2=3 months; 3=6 months; 4=9 months; 5=12 months; 6=24 months; 7 = pre-intervention; 8 = post-intervention",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "ecr_totalscore","Float","","Recommended","ECR Sum Score","","","10252"
 "ecr_reassurance","Integer","","Recommended","I need a lot of reassurance that I am loved by my partner","1::7","1= Strongly Disagree; 2= Disagree; 3= Slightly Disagree; 4= Neutral; 5= Slightly Agree; 6= Agree; 7= Strongly Agree",""
 "ecr_pullback","Integer","","Recommended","I want to get close to my partner, but I keep pulling back","1::7","1= Strongly Disagree; 2= Disagree; 3= Slightly Disagree; 4= Neutral; 5= Slightly Agree; 6= Agree; 7= Strongly Agree",""

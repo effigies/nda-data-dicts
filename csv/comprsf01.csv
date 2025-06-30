@@ -4,7 +4,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"version_form","String","121","Required","Form used/assessment name","","",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "gas_time","Integer","","Recommended","Time point of completion","1::6; 888; 999","1 = Time 1; 2 = coaching 1; 3 = coaching 2; 4 = coaching 3; 5 = coaching 4; 6 = Time 2; 888 = not applicable; 999 = missing","psrs_time,ssrs_time,ters_time,tsrs_time"
 "psrs_1","Float","","Recommended","P/T: Relationship / S: Listening","","888 = Not applicable; 999 = missing","ssrs_1,tsrs_1"
 "psrs_2","Float","","Recommended","P/T: Goals and Topics / S: How important","","888 = Not applicable; 999 = missing","ssrs_2,tsrs_2"

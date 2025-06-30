@@ -27,4 +27,4 @@
 "bpkspe_total","Integer","","Required","BPKS total","","999 = missing","bpkss_total"
 "who_raised_explain","String","50","Recommended","If other primary caregiver who raised you, explain","","",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

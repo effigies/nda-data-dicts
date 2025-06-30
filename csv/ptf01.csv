@@ -87,7 +87,7 @@
 "cann_recreat","Integer","","Recommended","I use cannabis recreationally.","0;1","0= No; 1= Yes",""
 "cann_med","Integer","","Recommended","I use cannabis medically. ","0;1","0= No; 1= Yes",""
 "ptfact_47","Integer","","Recommended","Please indicate how much you have spoken to your teen about the following topics in the past 3 months/1 month - The academic consequences that could happen because of drinking ","0::4","0= Not at all; 1= A little bit; 2= Some; 3= Quite a bit; 4= A great deal",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "ptfact_48","Integer","","Recommended","Please indicate how much you have spoken to your teen about the following topics in the past 3 months/1 month - How getting in trouble because of drinking could result in not getting internships or jobs in his/her area ","0::4","0= Not at all; 1= A little bit; 2= Some; 3= Quite a bit; 4= A great deal",""
 "ptfact_49","Integer","","Recommended","Please indicate how much you have spoken to your teen about the following topics in the past 3 months/1 month - The risks of binge drinking","0::4","0= Not at all; 1= A little bit; 2= Some; 3= Quite a bit; 4= A great deal",""
 "ptfact_50","Integer","","Recommended","Please indicate how much you have spoken to your teen about the following topics in the past 3 months/1 month - The impact of drinking on special occasions","0::4","0= Not at all; 1= A little bit; 2= Some; 3= Quite a bit; 4= A great deal",""

@@ -20,7 +20,7 @@
 "acc_happy_incon","Float","","Recommended","Accuracy for trials in which the facial expression is happy and the word matches the facial expression","0::1","0=False, 1=True",""
 "rt_happy_con","Float","","Recommended","Accuracy for trials in which the facial expression is happy and the word does not match the facial expression","","milliseconds",""
 "rt_happy_incon","Float","","Recommended","Reaction time for trials in which the facial expression is happy and the word matches the facial expression","","milliseconds",""
-"data_file1","File","255","Recommended","Data file 1","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "experiment_description","String","4000","Recommended","Description of experiment/sequence/event","","",""
 "values_keyassign","String","30","Recommended","values.keyAssignment","","","keyassignment"
 "val_acc_prac1","Float","","Recommended","Proportion correct in final practice1 run","","","acc_practice1"

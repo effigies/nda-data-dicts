@@ -13,4 +13,4 @@
 "asq_07","Integer","","Recommended","Are you having of killing yourself right now?","0;1;6","0 = No; 1= Yes; 6= No response",""
 "asq_08","String","350","Recommended","If you are having thougts of killing yourself right now, please describe.","","",""
 "asq_03pm","Integer","","Recommended","In the past month, have you been having thoughts about killing yourself?","0;1;6","0 = No; 1= Yes; 6= No response",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

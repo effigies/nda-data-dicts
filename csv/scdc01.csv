@@ -18,4 +18,4 @@
 "scdc_12","Integer","","Recommended","Cannot follow a command unless it is carefully worded","0::2","0 = Not true; 1 = Quite or sometimes true; 2 = Very or often true",""
 "scdc_total","Integer","","Recommended","Sum of Social and Communication Disorders Checklist items 1 - 12","0::24","",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

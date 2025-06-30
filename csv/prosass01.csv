@@ -14,4 +14,4 @@
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","notes"
 "proid_proid_cr","Integer","","Recommended","Prosody Identification Test- Total Correct Responses","0::80","","proid.proid_cr"
 "proid_proid_crt","Float","","Recommended","Prosody Identification Test- Median Response Time for Correct Responses (ms)","","","proid.proid_crt"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

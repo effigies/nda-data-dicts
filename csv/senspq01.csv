@@ -102,5 +102,5 @@
 "spq_ss","Integer","","Recommended","Smell score","","",""
 "spq_tas","Integer","","Recommended","Taste score","","",""
 "spq_tot","Integer","","Required","SPQ total score","","",""
-"version_form","String","121","Required","Form used/assessment name","","",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "spq75alt","Integer","","Recommended","I would detect a new smell in my house instantly before anyone else.","0::3","0=strongly agree; 1=agree; 2=disagree; 3=strongly disagree",""

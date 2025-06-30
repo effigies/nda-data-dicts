@@ -28,4 +28,4 @@
 "t1ppqmon","Float","","Recommended","Positive Parenting - Monitoring Score","","",""
 "t1ppqinv","Float","","Recommended","Positive Parenting - Involvement Score","","",""
 "t1ppqsaf","Float","","Recommended","Positive Parenting - Safety Score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

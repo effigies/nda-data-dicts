@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","cai_rpt_date"
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "comqother","String","255","Recommended","Respondent - Other (text)","","",""
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data",""
 "cai_1","Float","","Recommended","Separation/Loss of Primary Caretakers Severity Rating (lasting 6 months or longer)","1::5","1 = No separation; 1.5 = Mild separation; 2 = Moderate separation; 3 = Loss/severe separation; 4 = Severe loss; 5 = Extreme loss - Scores increase by 0.50 if: child has no communication/contact with absent caregiver (in non-death cases), new caregiver is unfamiliar, child witnesses the dead of caregiver or if caregiver committed suicide, or child abused by new caregiver. Score increases by 0.25 if new caregiver is familiar but not primary (e.g., grandmother but not father)","cai_2,cai_3"

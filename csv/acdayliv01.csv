@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
 "adl01","Integer","","Recommended","Regarding eating, which best describes (S) usual performance?","0;1;2;3","0 = Usually or always was fed by someone else; 1 = Used fingers to eat; 2 = Used a fork or spoon, but not a knife, to eat; 3 = Ate without physical help, and used a knife",""
 "adl02","Integer","","Recommended","Regarding walking (or getting around in a wheelchair), which best describes his/her usual performance?","0;1;2;3","0 = Required physical help to walk or transfer; 1 = Transferred from bed to chair without help; 2 = Mobile across a room without physica help; 3 = Mobile outside of home without physical help",""

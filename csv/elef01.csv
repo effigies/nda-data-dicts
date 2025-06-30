@@ -18,7 +18,7 @@
 "epi2_subj_rating","Integer","","Recommended","Episodic Life Event 2 - Subjective rating of negative impact","1::5","1= none; 2= mild; 3= moderate; 4= marked; 5= severe","v1_ls_epi2_subj_rating"
 "epi2_team_obj_rating","Integer","","Recommended","Episodic Life Event 2 - Team objective rating of negative impact","1::5","1= none; 2= mild; 3= moderate; 4= marked; 5= severe","v1_ls_epi2_team_obj_rating"
 "epi2_team_indep_rating","Integer","","Recommended","Episodic Life Event 2 - Rating of independence","1::5","1= almost completely independent; 2= 2; 3= mixed, uncertain; 4= 4; 5= almost completely dependent","v1_ls_epi2_team_indep_rating"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "epi3_ec","Integer","","Recommended","Episodic Life Event 3 Code","","",""
 "epi3_date","Date","","Recommended","Episodic Life Event 3 Date of Occurrence","","MM/DD/YYYY",""
 "epi3_description","String","20","Recommended","Episodic Life Event 3 Description","","",""

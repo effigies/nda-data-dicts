@@ -16,4 +16,4 @@
 "elec_victim_1","Integer","","Recommended","Has anyone ever used the Internet to bother or harass you or to spread mean words or pictures about you?","0;1","0=No; 1=Yes",""
 "elec_victim_2","Integer","","Recommended","Has anyone ever used a cell phone or texting to bother or harass you or to spread mean words or pictures about you?","0;1","0=No; 1=Yes",""
 "elec_victim_3","Integer","","Recommended","Did anyone on the Internet ever ask you sexual questions about yourself or try to get you to talk online about sex when you did not want to talk about those things?","0;1","0=No; 1=Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

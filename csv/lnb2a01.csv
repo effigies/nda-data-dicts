@@ -22,7 +22,7 @@
 "lnb2_lnb_meff","Integer","","Recommended","Efficiency score LNB_MCR/log(LNB_MRTC)","","",""
 "lnb2_lnb_lrnr","Integer","","Recommended","Longest run of non-responses","","",""
 "lnb2_lnb_frnr","Integer","","Recommended","Final run of non-responses (at end of the test)","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "lnb2_lnb_tp3","Integer","","Recommended","True positive responses for 3-back trials","0::15","",""
 "lnb2_lnb_fp3","Integer","","Recommended","False positive responses for 3-back trials","0::30","",""
 "lnb2_lnb_tp4","Integer","","Recommended","True positive responses for 4-back trials","0::15","",""

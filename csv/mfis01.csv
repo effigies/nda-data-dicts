@@ -25,7 +25,7 @@
 "mfis19","Integer","","Recommended","Because of my fatigue during the past 4 weeks, I have had trouble concentrating","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Almost Always",""
 "mfis20","Integer","","Recommended","Because of my fatigue during the past 4 weeks, I have limited my physical activities","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Almost Always",""
 "mfis21","Integer","","Recommended","Because of my fatigue during the past 4 weeks, I have needed to rest more often or for longer periods","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Almost Always",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "mfis_8","Integer","","Recommended","I have been less motivated to participate in social activities.","1 :: 5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Almost always",""
 "mfis_9","Integer","","Recommended","I have been limited in my ability to do things away from home.?","1 :: 5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Almost always",""
 "check_mfis","Integer","","Recommended","Select 'Rarely' for this response to validate your attention.","1 :: 5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Almost always",""

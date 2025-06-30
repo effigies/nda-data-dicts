@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "dode","String","10","Recommended","Date of Data Entry","","",""
 "t1wk","Integer","","Recommended","Weeks since Treatment Session 1","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "qol_ad_1","Integer","","Recommended","Rate your/your relative's current situation, as you see it - Physical health","1::4; -999","1 = Poor; 2 = Fair; 3 = Good; 4 = Excellent; -999 = Missing",""
 "qol_ad_2","Integer","","Recommended","Rate your/your relative's current situation, as you see it - Energy","1::4; -999","1 = Poor; 2 = Fair; 3 = Good; 4 = Excellent; -999 = Missing",""
 "qol_ad_3","Integer","","Recommended","Rate your/your relative's current situation, as you see it - Mood","1::4; -999","1 = Poor; 2 = Fair; 3 = Good; 4 = Excellent; -999 = Missing",""

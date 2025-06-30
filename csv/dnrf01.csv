@@ -66,7 +66,7 @@
 "dntypical1_5","Integer","","Recommended","Consider a typical week during the last month. How much alcohol, on average (measured in number of drinks), does a typical young adult of your same age and gender drink on each day of a typical week? Friday","","",""
 "dntypical1_6","Integer","","Recommended","Consider a typical week during the last month. How much alcohol, on average (measured in number of drinks), does a typical young adult of your same age and gender drink on each day of a typical week? Saturday","","",""
 "dntypical1_7","Integer","","Recommended","Consider a typical week during the last month. How much alcohol, on average (measured in number of drinks), does a typical young adult of your same age and gender drink on each day of a typical week? Sunday","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "nrms01","Float","","Recommended","Overall, what percentage of people in your age group (age 18-25) do you think have ever used alcohol?","0::100","",""
 "nrms02","Float","","Recommended","Overall, what percentage of people in your age group (age 18-25) do you think use alcohol regularly (i.e., drank alcohol in the past month)?","0::100","",""
 "nrms03","Float","","Recommended","Overall, what percentage of people in your age group (age 18-25) do you think have engaged in binge drinking in the past month (i.e., drank 4 or more drinks in a single drinking occasion (for women) or drank 5 or more drinks in a single drinking occasion (for men))?","0::100","",""

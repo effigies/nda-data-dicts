@@ -27,7 +27,7 @@
 "drinkcontext_21","Integer","","Recommended","Based on your personal experience, how would you rate the chances that you might find yourself drinking excessively in the following circumstances: When I'm angry with myself or someone else?","1::5","1 = Extremely high; 2 = High; 3 = Moderate; 4 = Low; 5 = Extremely low",""
 "drinkcontext_22","Integer","","Recommended","Based on your personal experience, how would you rate the chances that you might find yourself drinking excessively in the following circumstances: When others around me are partying?","1::5","1 = Extremely high; 2 = High; 3 = Moderate; 4 = Low; 5 = Extremely low",""
 "drinkcontext_23","Integer","","Recommended","Based on your personal experience, how would you rate the chances that you might find yourself drinking excessively in the following circumstances: When I'm finished with my work/schoolwork?","1::5","1 = Extremely high; 2 = High; 3 = Moderate; 4 = Low; 5 = Extremely low",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "ema_survey","String","100","Recommended","Which survey collected the EMA data?","","e.g., Morning report; Random; First Drink; Bedtime; Drinking Follow-up; Drinking Follow-up 2; Drinking Follow-up 3; Breathalyzer Test",""
 "ema_studyday","Integer","","Recommended","Day of the EMA collection","1::14","",""
 "ema_weekday","Integer","","Recommended","Day of the week for the EMA collection","1::7","1= Sunday; 2= Monday; 3= Tuesday; 4= Wednesday; 5= Thursday; 6= Friday; 7= Saturday",""

@@ -4,7 +4,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"eventname","String","60","Recommended","The event name for which the data was collected","","",""
+"eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
 "pds_y_ss_male_category","Integer","","Recommended","Pubertal Developmental Scale Youth,  Male Category:  pds_y_ss_m_cat_sum (sum_y_m) = pds_bdyhair_y + pds_m4_y + pds_m5_y;   1 - prepuberty  -  sum_y_m = 3,  2 - early puberty  -  sum_y_m >= 4 and <= 5,  3 - mid puberty  -   sum_y_m >= 6 and <= 8,  4 - late puberty  -   sum_y_m >= 9 and <=11,  5 - post puberty  -  sum_y_m = 12; Validation: All items must be answered","","Petersen, A. C., Crockett, L., et al. (1988)  A self-report measure of pubertal status: Reliability, validity, and initial norms. J Youth Adolesc 17(2): 117-133.","pubertdev_ss_male_category"
 "pds_y_ss_male_cat_nm","Integer","","Recommended","Pubertal Developmental Scale Youth, Male Category:  Number Missing Answers","","","pubertdev_ss_male_cat_nm"
 "pds_y_ss_male_cat_nt","Integer","","Recommended","Pubertal Developmental Scale Youth, Male Category:  Number Total Questions","","","pubertdev_ss_male_cat_nt"

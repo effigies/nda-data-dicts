@@ -104,6 +104,6 @@
 "scoresumm_rangeofconcern","String","255","Required","ADOS-2 Range of Concern","Little-to-No Concern; Mild-to-Moderate Concern; Moderate-to-Severe Concern","Moderate-to-Severe Concern = All younger/older with few to no words overall total is 14 or higher, OR Older with some words overall total is 12 or higher; Mild-to-Moderate Concern = All younger/older with few to no words overall total is 10 to 13, OR Older with some words overall total is 8 to 11; Little-to-No Concern = All younger/older with few to no words overall total is 0 to 9, OR Older with some words overall total is 0 to 7","admtconcern1,ados_t_comparison,ados_t_rangeofconcern,risk_range"
 "scoresumm_clinicalimpress","String","255","Required","ADOS-2 Clinical Impression","","","admtclinimp,ados_t_clinicalimpress,cpjasd4"
 "algorithm","String","50","Recommended","algorithm used for scoring","","","admtalg,ados_t_algorithm"
-"phenotype","String","400","Recommended","Phenotype/diagnosis for the subject","","","admtdxoutcome,ados_t_phenotype"
+"phenotype","String","400","Recommended","Phenotype/diagnosis for the subject","","e.g., Healthy, Control, Suicidal","admtdxoutcome,ados_t_phenotype"
 "year_mta","Integer","","Recommended","Year in study","","","visit_year"
 "severscore_cal","Integer","","Recommended","Calibrated Severity Score","1::10; 999","999 = missing value",""

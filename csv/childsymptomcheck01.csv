@@ -69,3 +69,4 @@
 "badsleep_yn","Integer","","Recommended","Got up during the night or woke up too early.","0;1;9","0=No; 1=Yes; 9=Missing",""
 "blamed_yn","Integer","","Recommended","Blamed self for things not his/her fault.","0;1;9","0=No; 1=Yes; 9=Missing",""
 "upsleep_yn","Integer","","Recommended","Slept more than usual or took extra naps.","0;1;9","0=No; 1=Yes; 9=Missing",""
+"sad_yn","Integer","","Recommended","Looked sad, unhappy, down in the dumps.","0;1;9","0=No; 1=Yes; 9=Missing",""

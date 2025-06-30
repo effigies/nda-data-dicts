@@ -14,4 +14,4 @@
 "conte8","Integer","","Recommended","Having friends is important to me","1::5","1=Strongly Disagree; 2= Disagree; 3=Neither Agree nor Disagree; 4=Agree; 5=Strongly Agree",""
 "conte9","Integer","","Recommended","I find myself drawn more strongly to people than to things?","1::5","1=Strongly Disagree; 2= Disagree; 3=Neither Agree nor Disagree; 4=Agree; 5=Strongly Agree",""
 "conte_score","Integer","","Required","Total score","1::40","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

@@ -40,4 +40,4 @@
 "cross_xii","Integer","","Recommended","Cross Cutting Personality Functioning Subscore","","","dsm5_domain12"
 "cross_xiii","Integer","","Recommended","Cross Cutting Substance Use Subscore","","","dsm5_domain13"
 "broad_psychpath_d5","Integer","","Recommended","Highest Domain Score (clinician). Somatic Symptoms","","","dsm5_domain5"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","","timepoint"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","timepoint"

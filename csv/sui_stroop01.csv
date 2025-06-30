@@ -20,4 +20,4 @@
 "sss1_accuracy_zscore","Float","","Recommended","Accuracy z-score","","7777=Not applicable; 9999=Refuse",""
 "sss1_suicide_interference","Float","","Recommended","Interference for suicide-related word trials","","MEAN suicide-related RT - MEAN neutral RT; 7777=Not applicable; 9999=Refuse",""
 "sss1_negative_interference","Float","","Recommended","Interference for negative-valanced word trials","","MEAN negative-valanced RT - MEAN neutral RT; 7777=Not applicable; 9999=Refuse",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

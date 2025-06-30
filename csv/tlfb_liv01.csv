@@ -7,7 +7,7 @@
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
 "phi1","Integer","","Recommended","Type of interview","1::5","1 = In person; 2 = Phone; 3 = Mail; 4 = SIG-O only; 5 = Carp only","in_person"
 "tlfbl_2","Integer","","Recommended","Have you lived anywhere else since previous interview date?","0;1","1= Yes; 0= No",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "tlfbl_4","Integer","","Recommended","Living situation:","1::17;99","1= No usual sleeping place/homeless/on the streets/no stable place; 2= In your own home; 3= In your parent's home (birth=step or adoptive parents); 4= In the home of another family member or relative (grandparents= aunt or uncle= sibling= etc.); 5= In your foster family's home; 6= In a therapeutic foster home; 7= In your girlfriend's or boyfriend's or spouse's home; 8= In another friend's home; 9= In a motel or hotel; 10= In a group home/supervised living in the community; 11= In a residential treatment center (centralized staff= institutional setting); 12= In a medical hospital; 13= In a psychiatric hospital; 14= In a homeless shelter; 15= In a boot camp= detention center= prison= or jail for juveniles; 16= In a prison or jail for adults; 17= In a college dorm; 99= Other",""
 "tlfbl_8","Integer","","Recommended","Number of days with No usual sleeping place/homeless/on the streets/no stable place since previous interview date?","","",""
 "tlfbl_9","Integer","","Recommended","How long have you lived there since previous interview date?","","months",""

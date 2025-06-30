@@ -4,7 +4,7 @@
 "interview_age","Integer","","Required","","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "interview_date","Date","","Required","","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"eventname","String","60","Recommended","","The event name for which the data was collected","","",""
+"eventname","String","60","Recommended","","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
 "demo_l_p_select_language___1","Integer","","Recommended","","¿Espanol? (1, Sí)","0 ; 1","0 = No; 1 = Yes","demo_select_language_p_l"
 "demo_prim_l","Integer","","Recommended","","You are the: Usted es:","1 ; 2 ; 3 ; 4 ; 5","1 = Child's Biological Mother La madre biologica del niño / de la niña; 2 = Child's Biological Father El padre biologico del niño / de la niña; 3 = Adoptive Parent Padre o madre adoptivo(a); 4 = Child's Custodial Parent El padre o la madre que tiene la custodia del niño / de la niña; 5 = Other Otro","demo_prim_p_l"
 "demo_brthdat_v2_l","Float","","Recommended"," demo_prim_l   == '1' ||  demo_prim_l   == '2' ||  demo_prim_l   == '3' ||  demo_prim_l  == '4' ||  demo_prim_l  == '5'","How old is the child? ¿Qué edad tiene el/la nino(a)?","","years old años de edad","demo_brthdat_p_l"

@@ -68,7 +68,7 @@
 "als_glob","Float","","Recommended","Global score of mood variation","","",""
 "bsimo","Float","","Recommended","Months from Time 0 to assessment","","","monfol"
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "als_sf_total","Integer","","Recommended","ALS-SF Total Score","","sum of the response to all elements",""
 "als_sf_a","Integer","","Recommended","ALS-SF Anger sum","","sum of ALS_SF_4, ALS_SF_8, ALS_SF_9, ALS_SF_11, ALS_SF_14",""
 "als_sf_de","Integer","","Recommended","ALS-SF Depression/Elation sum","","sum of ALS_SF_2, ALS_SF_10, ALS_SF_12, ALS_SF_13, ALS_SF_15, ALS_SF_16, ALS_SF_17, ALS_SF_18",""

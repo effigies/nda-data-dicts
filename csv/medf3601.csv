@@ -50,5 +50,5 @@
 "medf36_a_lrsr","Integer","","Recommended","Longest Run of Same Responses","0::36","",""
 "medf36_a_male_cr","Integer","","Recommended","Correct Responses for Males Trials","","",""
 "medf36_a_male_rtcr","Float","","Recommended","Response Time for Correct Males Trials (ms)","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "medf36_medf36_t","Float","","Recommended","Measured Emotion Differentiation Test- Median Response Time for All Measured Emodiff Trials (ms)","","","medf36.medf36_t"

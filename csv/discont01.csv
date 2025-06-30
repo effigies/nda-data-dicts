@@ -16,13 +16,13 @@
 "rtda1","Integer","","Recommended","What date was the assigned study treatment stopped?","0::999","","rtda2_1"
 "rtda2","Integer","","Recommended","Did patient successfully complete the protocol on the assigned treatment?","0;1","1=Yes; 0=No","rtda1_1"
 "rtda3","Integer","","Recommended","Was study treatment discontinued for administrative reasons?","0;1","1=Yes; 0=No;Note: This implies that both the patient and the clinical staff judge the assigned antipsychotic treatment to be a success (i.e. adequately effective, with tolerable or no side effects), and that treatment would have continued if not for the administrative reason independent of the study procedures.",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "fseqno","Integer","","Recommended","Sequence Number","0::999","The FSEQNO variable in the ADJ form has a special interpretation compared to other forms.
 For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' can be thought of as
 being '002', and FSEQNO of '3' can be thought of as being '003'.
 The first digit of FSEQNO relates to the corresponding ENF sequence number at that visit and the third
 digit relates to the specific adjudicator who completed the adjudication form.",""
-"version_form","String","121","Recommended","Form used/assessment name","","","vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","vers"
 "daysrz","Integer","","Recommended","days since randomization","","","rtda0b"
 "rtda1a","Integer","","Recommended","Did patient complete 24 weeks on the assigned anti-psychotic? (Y/N)","0;1","0=No; 1=Yes",""
 "rtda2a","Integer","","Recommended","What date was the study anti-psychotic stopped? [days since randomization]","0::365","",""

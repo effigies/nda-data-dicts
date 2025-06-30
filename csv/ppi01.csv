@@ -41,7 +41,7 @@
 "ppq_a_24","Integer","","Recommended","In the past six months, when you have done something that your primary caregiver likes or approves of, how often does your primary caregiver ask you why you are not always good like this?","0::4;-7","0 = Never; 1 = Hardly ever; 2 = Sometimes; 3 = Most of the time; 4 = Always; -7 = Refuse to answer",""
 "ppq_a_25","Integer","","Recommended","In the past six months, is there something else that your primary caregiver does when you do something they like?","0;1;-7","0 = No; 1 = Yes; -7 = Refuse to answer",""
 "ppq_a_26","String","1000","Recommended","In the past six months, explain in a few words what else your primary caregiver does","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "ppq_p_1","Integer","","Recommended","In the past six months, when was the last time that you discussed with your child his/her plans for the coming day?","0::3;-7","0 = More than 1 month ago; 1 = Within last month; 2 = Within last week; 3 = Yesterday/today; -7 = Refuse to answer",""
 "ppq_p_2","Integer","","Recommended","In the past six months, about how often have you discussed with your child his/her plans for the coming day?","0::3;-7","0 = Less than once a month; 1 = At least once a month; 2 = A least once a week; 3 = Almost every day; -7 = Refuse to answer",""
 "ppq_p_3","Integer","","Recommended","In the past six months, when was the last time you talked with your child about what he/she had actually done during the day?","0::3;-7","0 = More than 1 month ago; 1 = Within last month; 2 = Within last week; 3 = Yesterday/today; -7 = Refuse to answer",""

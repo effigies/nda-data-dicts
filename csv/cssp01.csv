@@ -55,7 +55,7 @@
 "sidefx","Integer","","Recommended","Intolerable side-effects","0;1","0 = No;1 = Yes",""
 "otherrsn","Integer","","Recommended","Premature termination. Other reason","0;1","0 = No;1 = Yes",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "trtgroup","String","2","Recommended","Treatment Group","N1;N2;R1;R2;R3","N1=Non-Responder Entering Fluvoxamine; N2=Non-Responder Entering Fluoxetine; R1=Maintenance; R2=Responder Entering Fluvoxamine; R3=Responder Entering Fluoxetine",""
 "q18_8d","Integer","","Recommended","Result of contact: Blind broken","0; 1; -7; -8; -9","Complete only if q18_8 = 1",""
 "medication1_name","String","500","Recommended","Name first medication that the participant has taken","","0 = No medication; 999= Legitimately skipped",""

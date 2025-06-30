@@ -17,5 +17,5 @@
 "phq9b3m_1","Integer","","Recommended","In the past 2 weeks, how often were you bothered by each of these other problems? Trouble falling asleep, staying asleep, or sleeping too much","0 :: 3","0= Not At All; 1= Several Days; 2= More Than Half the Days; 3= Nearly Everyday","phq9b12m_1"
 "phq9b3m_2","Integer","","Recommended","In the past 2 weeks, how often were you bothered by each of these other problems? Feeling tired or having little energy","0 :: 3","0= Not At All; 1= Several Days; 2= More Than Half the Days; 3= Nearly Everyday","phq9b12m_2"
 "phq9b3m_3","Integer","","Recommended","In the past 2 weeks, how often were you bothered by each of these other problems? Poor appetite or overeating","0 :: 3","0= Not At All; 1= Several Days; 2= More Than Half the Days; 3= Nearly Everyday","phq9b12m_3"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

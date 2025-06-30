@@ -45,5 +45,5 @@
 "tinmml","Integer","","Recommended","Minimum Masking Level (MML) for 5 kHz BPN15 sound","","",""
 "tinnprop","Integer","","Recommended","Tinnitus Temporal Properties","1; 2","1=Steady; 2= Pulsing",""
 "tinnloudness","Integer","","Recommended","Tinnitus Loudness Rating","0::100","0= extremely weak; 30= moderate; 50= strong; 70= very strong; 100= extremely strong",""
-"data_file1","File","255","Recommended","Data file 1","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "data_file1_type","String","300","Recommended","type of data file 1","","",""

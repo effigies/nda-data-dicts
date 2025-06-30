@@ -35,4 +35,4 @@
 "traq_29","Integer","","Recommended","Do you use community support services (eg, afterschool programs) or advocacy services (eg, legal services) when you need them?","1 :: 5","1= No, I do not know how; 2= No, but I want to learn; 3= No, but I am learning to do this; 4= Yes, I have started doing this; 5= Yes, I always do this when I need to",""
 "traq_30","Integer","","Recommended","Do you keep your refill appointment dates?","1::5","1= No, I do not know how; 2= No, but I want to learn; 3= No, but I am learning to do this; 4= Yes, I have started doing this; 5= Yes, I always do this when I need to",""
 "traq_32","Integer","","Recommended","Do you use local clinics or drug shops?","1::5","1= No, I do not know how; 2= No, but I want to learn; 3= No, but I am learning to do this; 4= Yes, I have started doing this; 5= Yes, I always do this when I need to",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

@@ -6,4 +6,4 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "periodname","String","10","Recommended","Time Period for Exposure","","",""
 "pm25","Float","","Recommended","Average PM 2.5 in ug/m^3","","",""
-"phenotype","String","400","Recommended","Phenotype/diagnosis for the subject","","",""
+"phenotype","String","400","Recommended","Phenotype/diagnosis for the subject","","e.g., Healthy, Control, Suicidal",""

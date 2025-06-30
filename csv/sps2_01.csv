@@ -121,6 +121,6 @@
 "sens_find_obj","Integer","","Recommended","need help to find objects that are obvious to others","0::5","0=Does not apply; 1=Almost never; 2=Occasionally; 3=Half the time; 4=Frequently; 5=Almost always",""
 "sens_both_ligh","Integer","","Recommended","is more bothered by bright lights than other same-aged children","0::5","0=Does not apply; 1=Almost never; 2=Occasionally; 3=Half the time; 4=Frequently; 5=Almost always",""
 "sens_bri_light","Integer","","Recommended","is bothered by bright lights","0::5","0=Does not apply; 1=Almost never; 2=Occasionally; 3=Half the time; 4=Frequently; 5=Almost always",""
-"version_form","String","121","Required","Form used/assessment name","","",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "respond","Integer","","Required","Respondent","1::7;999","1 = Parent; 2 = Teacher; 3=Self; 4= Other; 5= Significant other; 6 = Parent 1; 7 = Parent 2; 999 = Not available",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""

@@ -36,7 +36,7 @@
 "hrs_9","Integer","","Recommended","How well did the assignment match your therapy goals?","0::4","0=Not at all; 1=Somewhat; 2=Moderately; 3=Very; 4=Completely",""
 "hrs_11","Integer","","Recommended","How much did the assignment help you to gain control over your problems?","0::4","0=Not at all; 1=Somewhat; 2=Moderately; 3=Very; 4=Completely",""
 "hrs_12","Integer","","Recommended","Did the assignment help with your progresss in therapy?","0::4","0=Not at all; 1=Somewhat; 2=Moderately; 3=Very; 4=Completely",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "hrs_1","Integer","","Recommended","How much of the assignment were you able to do?","0::4","0=Not at all; 1=Somewhat; 2=Moderately; 3=Very; 4=Completely",""
 "hrs_2","Integer","","Recommended","How well did you do the assignment?","0::4","0=Not at all; 1=Somewhat; 2=Moderately; 3=Very; 4=Completely",""
 "hrs_3","Integer","","Recommended","How difficult was the assignment?","0::4","0=Not at all; 1=Somewhat; 2=Moderately; 3=Very; 4=Completely",""

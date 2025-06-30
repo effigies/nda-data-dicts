@@ -30,6 +30,6 @@
 "cortpostfear","Float","","Recommended","Cortisol Post-Fear (mcg/dL)","","",""
 "cortabschg","Float","","Recommended","Cortisol Absolute Change","","",""
 "cortpercchg","Float","","Recommended","Cortisol % Change","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "oxtpostfear","Float","","Recommended","Oxytocin Post-Fear","","",""
 "pyypostfear","Float","","Recommended","PYY Post-Fear","","",""

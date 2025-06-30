@@ -96,7 +96,7 @@
 "stressful","Integer","","Recommended","Overall using the computerized tablet was a stressful experience.","1::5; -99","1=Not at all;2=Less likely;3=Likely;4=More likely;5=Very much;-99=Missing N/A",""
 "futurestudies","Integer","","Recommended","I would be interested to participate in similar studies in the future.","1::5; -99","1=Not at all;2=Less likely;3=Likely;4=More likely;5=Very much;-99=Missing N/A",""
 "recommendothers","Integer","","Recommended","I would recommend to others to participate in a similar study.","1::5; -99","1=Not at all;2=Less likely;3=Likely;4=More likely;5=Very much;-99=Missing N/A",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "visitnum","Integer","","Recommended","Visit number","","",""
 "tabletown","Integer","","Recommended","I have previously owned or currently own a computerized tablet:","0;1; -99","0=No;1=Yes;-99=Missing N/A;",""
 "tabletyears","Integer","","Recommended","If yes how long? ","","Years",""

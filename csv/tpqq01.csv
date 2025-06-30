@@ -4,7 +4,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"version_form","String","121","Required","Form used/assessment name","","",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing","tpqq_time"
 "tpqq_q1","Float","","Recommended","What year did the school start the transition planning process for your child? (At what age)","1::100; 888; 999","888 = not applicable; 999 = missing",""
 "tpqq_q2_casemanager","Integer","","Recommended","Who was present in the IEP/ transition meeting of your child? Case manager","0;1; 888; 999","0 = no; 1 = yes; 888 = not applicable; 999 = missing",""

@@ -34,4 +34,4 @@
 "bi_aaq_28","Integer","","Recommended","When I start thinking about the size and shape of my body, it's hard to do anything else.","1::7","1=never true; 2=very seldom true; 3=seldom true; 4=sometimes true; 5=frequently true; 6=almost always true; 7=always true",""
 "bi_aaq_29","Integer","","Recommended","My relationships would be better if my body weight and/or shape did not bother me.","1::7","1=never true; 2=very seldom true; 3=seldom true; 4=sometimes true; 5=frequently true; 6=almost always true; 7=always true",""
 "bi_aaq_5_score","Integer","","Recommended","Body Image Acceptance and Action Questionnaire-5 (BI-AAQ-5) Score","5::35; 999","Sum of [bi_aaq_2], [bi_aaq_11], [bi_aaq_15], [bi_aaq_22], [bi_aaq_26] Higher scores = greater body image flexibility; 999 = Missing",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

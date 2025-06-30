@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"eventname","String","60","Required","The event name for which the data was collected","","",""
+"eventname","String","60","Required","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
 "iqc_mid_2_fm_qc_score","Integer","","Recommended","MID FM #2: QC score of 1 (pass) or 0 (fail)","0;1","0=Fail; 1=Pass",""
 "iqc_mid_2_fm_pc_score","Integer","","Recommended","MID FM #2: Protocol compliance score of 1 (pass) or 0 (fail)","0;1","0=Fail; 1=Pass",""
 "iqc_mid_2_fm_complete","Integer","","Recommended","MID FM #2: DAIC received correct number of files for this series (1=pass, 0=fail)","0;1","0=Fail; 1=Pass",""

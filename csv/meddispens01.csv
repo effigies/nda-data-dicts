@@ -423,13 +423,13 @@
 "smd005","Date","","Recommended","Date of first dose of study medication (mm/dd/yyyy)","","",""
 "smd006","String","20","Recommended","Time of last dose of study medication (hh:mm, 24-hour clock)","","",""
 "smd007","String","500","Recommended","Comments regarding medication dispensation (optional)","","","cmnt,mpd004"
-"visit","String","60","Recommended","Visit name","","","visit_name"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visit_name"
 "daysrz","Integer","","Recommended","days since randomization","","","date,sad0b"
 "medication1_name","String","500","Recommended","Name first medication that the participant has taken","","0 = No medication; 999= Legitimately skipped","sad6a"
 "medication2_name","String","500","Recommended","Name second medication that the participant has taken","","0 = No medication; 999= Legitimately skipped","sad6b"
 "medication3_name","String","500","Recommended","Name third medication that the participant has taken","","0 = No medication; 999= Legitimately skipped","sad6c"
 "medication4_name","String","500","Recommended","Name fourth medication that the participant has taken","","0 = No medication; 999= Legitimately skipped","sad6d"
-"version_form","String","121","Recommended","Form used/assessment name","","","form_name,vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_name,vers"
 "fseqno","Integer","","Recommended","Sequence Number","0::999","The FSEQNO variable in the ADJ form has a special interpretation compared to other forms.
 For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' can be thought of as
 being '002', and FSEQNO of '3' can be thought of as being '003'.

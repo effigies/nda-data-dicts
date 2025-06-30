@@ -64,7 +64,7 @@
 "sum_pos_sf","Integer","","Recommended","PANAS 10-item Short-form Positive Affect Score","5::25;-99;77;88","-99= N/A; 77= Refused; 88= Missing",""
 "sum_neg_sf","Integer","","Recommended","PANAS 10-item Short-form Negative Affect Score","5::25;-99;77;88","-99= N/A; 77= Refused; 88= Missing",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "sum_pos_12item","Integer","","Recommended","Sum of positive items","5::60; 9999; -9","9999 = NA/Missing; -9 = Incomplete; Excludes alert, fearless, and daring as suggested by Laurent et al, Psychological Assessment, 1999",""
 "affect_sad","Integer","","Recommended","Please rate the extent to which you have felt each of the following emotions at any point yesterday, including all day yesterday and last night - Sad","0::10; -99","0=Not at all; 10=Extremely; -99=Decline to Answer",""
 "affect_excited","Integer","","Recommended","Please rate the extent to which you have felt each of the following emotions at any point yesterday, including all day yesterday and last night - Excited","0::10; -99","0=Not at all; 10=Extremely; -99=Decline to Answer",""

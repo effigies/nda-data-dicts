@@ -22,7 +22,7 @@
 "map_sr16","Integer","","Recommended","16. In the past week how much effort have you made to do things at work or school? (If you are not working or going to school, how much effort have you made to look for a job or go to school.)","0::4","0= No effort; 4= Very much effort",""
 "map_sr17","Integer","","Recommended","17. In the past week how motivated have you been to do hobbies or other recreational activities?","0::4","0= Not at all motivated; 4= Very motivated",""
 "map_sr18","Integer","","Recommended","18. In the past week how much effort have you made to actually do any hobbies or recreational activities?","0::4","0= No effort; 4= Very much effort",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
 "map_8","Integer","","Recommended","In the past 24 hours, I have chosen not to spend time with my family and would just as soon be alone.","0::4","0= Not at all true of me; 4= Very true of me",""
 "map_9","Integer","","Recommended","When it comes to having a close relationship with a romantic partner, how important has this type of relationship been to you over the past 24 hours?","0::4","0= Not at all important to me; 4= Extremely important to me",""
 "map_10","Integer","","Recommended","In the past 24 hours, I have chosen not to spend time with a romantic partner (or find a partner) and would just as soon be alone.","0::4","0= Not at all true of me; 4= Very true of me",""

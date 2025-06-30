@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"visit","String","60","Recommended","","Visit name","","","eventname"
+"visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","eventname"
 "prodromal_1_y","Integer","","Recommended","","Did places that you know well, such as your bedroom, or other rooms in your home, your classroom or school yard, suddenly seem weird, strange or confusing to you; like not the real world?","1 ; 0","1 = Yes; 0 = No","prodrom_psych_1"
 "pps_1_bother_yn","Integer","","Recommended"," prodromal_1_y   == 1","Well known places. Did it bother you?","0 ; 1","1 = Yes; 0 = No","prodrom_psych_1_bother_yn"
 "prodromal_1b_y","Integer","","Recommended"," pps_1_bother_yn   == 1","Well known places. Please CHOOSE THE NUMBER below the appropriate picture that shows us how much that bothered you when it happened.","1::5","1=Not very bothered ; 2=Slightly bothered ; 3=Moderately bothered ; 4=Very much bothered ; 5=Extremely bothered","prodrom_psych_1b"

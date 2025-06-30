@@ -113,4 +113,4 @@
 "social_scale","Integer","","Recommended","Social Scale for EDQ","","",""
 "ethnicity","String","30","Required","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
 "respondent","String","20","Required","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
-"phenotype","String","400","Required","Phenotype/diagnosis for the subject","","",""
+"phenotype","String","400","Required","Phenotype/diagnosis for the subject","","e.g., Healthy, Control, Suicidal",""

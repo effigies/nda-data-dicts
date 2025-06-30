@@ -38,5 +38,5 @@
 "compact_factor2","Integer","","Recommended","CompACT Factor 2: Behavioral Awareness","0::30","total",""
 "compact_factor3","Integer","","Recommended","CompACT Factor 3: Valued Action","0::66","total",""
 "compact_total","Integer","","Recommended","CompACT Total","0::180","total",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""

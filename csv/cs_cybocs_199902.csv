@@ -5,7 +5,7 @@
 "patid","String","20","Recommended","A Participant ID","","",""
 "network","String","20","Recommended","Network","","CPEA or STAART Network",""
 "site","String","101","Recommended","Site","","Study Site",""
-"study","String","100","Recommended","Study; The code for each individual study","","",""
+"study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "adi_da_afsw","Integer","","Recommended","ADI: Age at first single words - Interim step to calculate summary scores","","993 = Had some words, then lost and not yet regained; 994 = Milestone not reached; 996 = N/K, but apparently normal; 997 = N/K, but apparently delayed; 999 = N/K or not asked",""
 "cyb_be_cfri","Integer","","Recommended","Compulsion - Free Interval","0; 1; 2; 3; 4","0 = None; 1 = Mild; 2 = Moderate; 3 = Severe; 4 = Extreme","q6_1b"
 "cyb_be_dacb","Integer","","Recommended","Distress associated with compulsive behavior","0; 1; 2; 3; 4","0 = None; 1 = Mild; 2 = Moderate; 3 = Severe; 4 = Extreme","q6_3"

@@ -12,4 +12,4 @@
 "worried","Integer","","Recommended","How worried did/do you feel?","1::6","1 = Not at all to 6 = A great deal",""
 "motivated","Integer","","Recommended","How motivated were/are you to perform well on the tasks?","1::6","1 = Not at all to 6 = A great deal",""
 "stressed_","Integer","","Recommended","How stressed did/do you feel?","1::6","1 = Not at all to 6 = A great deal",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","","admin_num"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","admin_num"

@@ -5,7 +5,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","date"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "group_tr","Integer","","Recommended","treatment or control group","1::3","1=neurocognitive rehab; 2=Control therapy; 3=control no treatment group",""
-"visit","String","60","Recommended","Visit name","","","assessment_number"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment_number"
 "fas_n_responses","Integer","","Recommended","Verbal fluency (FAS): Total number of correct responses","","","verbal_lettot"
 "fas_adj_score","Integer","","Recommended","Verbal fluency (FAS): Age- and education-adjusted score","","",""
 "fasper","Integer","","Recommended","fas percentile score","0::7","0=96 and over; 1=77-89; 2=25-75; 3=11-22; 4=5-8; 5=1-3; 6=<1;7=<1",""

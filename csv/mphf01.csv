@@ -32,7 +32,7 @@
 "migraine","Integer","","Recommended","migraine headaches","0;1;-7","0=No; 1=Yes; -7=Refused",""
 "elv_bp","Integer","","Recommended","Elevated Blood Pressure at the visit: systolic blood pressure >= 130 mmHg or diastolic blood pressure >= 85 mmHg","0;1","0=No; 1=Yes","raised_bp"
 "cr2","Integer","","Recommended","Diabetes Mellitus","0;1","0 = No current diabetes or random BS < 220;1 = Diagnosis of diabetes or random BS >220","diabetes"
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "central_obesity","Integer","","Recommended","Central obesity (ethnicity-specific waist circumference)","0 :: 1 ","0 = no; 1 = yes",""
 "bmi_obesity","Integer","","Recommended","BMI >= 30","0 :: 1","0 = no; 1 = yes",""
 "raised_triglycerides","Integer","","Recommended","Raised triglycerides (greater than 1.7 mmol/L for males,  greater than 1.29 mmol/L for females, or treatment for lipid abnormality)","0 :: 1","0 = no; 1 = yes",""

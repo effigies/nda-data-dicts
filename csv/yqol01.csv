@@ -47,4 +47,4 @@
 "yqol_014","Integer","","Recommended","I enjoy learning new things","1::3","1 = Not At All/ Very Little ; 2 = Somewhat ; 3 = Very Much",""
 "yqol_015","Integer","","Recommended","I feel safe when I am at school","1::3","1 = Not At All/ Very Little ; 2 = Somewhat ; 3 = Completely",""
 "yqol_016","Integer","","Recommended","I feel life is worthwhile","1::3","1 = Not At All/ Very Little ; 2 = Somewhat ; 3 = Very Much",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

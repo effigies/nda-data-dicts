@@ -11,5 +11,5 @@
 "mean_forceapplied","Float","","Recommended","Mean force applied during trial","0::20","",""
 "sd_forceapplied","Float","","Recommended","Standard deviation of force applied during trial","0::9","",""
 "cv_forceapplied","Float","","Recommended","Coefficient of Variation; variability of force applied during trial","0::1","",""
-"data_file1","File","255","Recommended","Data file 1","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "data_file1_type","String","300","Recommended","type of data file 1","","",""

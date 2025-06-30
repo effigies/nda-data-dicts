@@ -7,7 +7,7 @@
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
 "copyid","Integer","","Recommended","Copy ID for multi-copy forms","","""The case report form used to create this file is a multi- copy form, meaning more than one copy of it can be completed at any one visit. For example, a patient with three adverse events to report at a single visit would have 3 copies of the form at that visit, one for each adverse event. The data file will have three unique records for this patient at this visit. COPYID identifies the order in which the forms were completed at a visit.""",""
 "prf_term","String","100","Recommended","Preferred Term","","""Coded variable: MedDRA dictionary, version 4.0: Preferred Term This file contains the MedDRA coded terms for any AEs/side effects that were reported spontaneously by the patient at a visit""",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "truncvis","Integer","","Recommended","Truncated Visit Number","","""Created variable: provides a numeric visit number for all visits, including unscheduled and end of phase""",""
 "phase_ct","String","20","Recommended","Current Phase. Phase patient was in at the time of the assessment Phase 4 refers to the follow-up phase.","Pre-Rand; Phase 1/1A; Phase 2; Phase 3; Phase 4; Phase 1B; Open-Choice Phase; Screening; Phase 1","",""
 "ae","String","4000","Recommended","Adverse event Description","","",""

@@ -8,7 +8,7 @@
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
 "rand_num","Integer","","Recommended","Randomization Number","0::2","",""
 "daysrz","Integer","","Recommended","days since randomization","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "pgr_overall","Integer","","Recommended","Overall Functionality","1::7","7 = very much worse; 4 = no change; 1 = very much improved",""
 "pgr_sevill","Integer","","Recommended","Severity of Illness","1::7","7 = worst possible; 4 = average; 1 = Not Ill at All",""
 "pgr_comply","Integer","","Recommended","Prescription Compliance","1::4","1= Almost always; 4=Almost never",""

@@ -14,4 +14,4 @@
 "nih_tlbx_natperc","Float","","Recommended","National Percentile","0::100","","percentile_national"
 "airstott","Float","","Recommended","Total score (total score)","","","total_score"
 "totaltime","String","20","Recommended","Total time taken for testing","","","test_time"
-"version_form","String","121","Recommended","Form used/assessment name","","","form_completed"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_completed"

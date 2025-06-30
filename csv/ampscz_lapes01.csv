@@ -357,4 +357,4 @@
 "chrap_zpddosecourse3","Float","","Recommended","Dose/Course for Lifetime Course 3 (mg)","","",""
 "chrap_zpddoseeq3","Float","","Recommended","Dose/Course Equivalent for Lifetime Course 3 (mg)","","",""
 "chrap_total","Float","","Recommended","Lifetime Total","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

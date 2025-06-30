@@ -17,4 +17,4 @@
 "partb1_a4","Integer","","Recommended","In the past year, my provider has listened to suggestions I had about how to manage symptoms of my illness.","1 :: 5","1= Strongly Disagree; 2= Disagree; 3= Neutral; 4= Agree; 5= Strongly Agree",""
 "partbcomm","Integer","","Recommended","General Communication Part B Total Score","","",""
 "gcs_total","Integer","","Recommended","Genreal Communicaition Scale total Score","","",""
-"visit","String","60","Recommended","Visit name","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
