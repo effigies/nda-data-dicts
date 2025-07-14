@@ -206,3 +206,7 @@
 "diagageon_yr","Float","","Recommended","Onset Age (Years)","","","ageonyr"
 "diagnoonset","Integer","","Recommended","Explain Missing Onset Date/Age","0;8;9","0=Continued from Previous interview; 8=Otherwise Not Applicable; 9=Unknown","whynoonset"
 "diagoffset","Date","","Recommended","Offset Date","","MM/DD/YYYY. Use midpoint estimate, if necessary.","offset"
+"a1d1_manic_current","Integer","","Recommended","Manic Episode Current","0::3; 999","1=Negative Diagnosis; 2=Intermediate Diagnosis; 3=Positive Diagnosis; 0=Inadequate Information; 999=Missing",""
+"a1d1_manic_past","Integer","","Recommended","Manic Episode Past","0::3; 999","1=Negative Diagnosis; 2=Intermediate Diagnosis; 3=Positive Diagnosis; 0=Inadequate Information; 999=Missing",""
+"a1d1_hypomanic_current","Integer","","Recommended","Hypomanic Episode Current","0::3; 999","1=Negative Diagnosis; 2=Intermediate Diagnosis; 3=Positive Diagnosis; 0=Inadequate Information; 999=Missing",""
+"a1d1_hypomanic_past","Integer","","Recommended","Hypomanic Episode Past","0::3; 999","1=Negative Diagnosis; 2=Intermediate Diagnosis; 3=Positive Diagnosis; 0=Inadequate Information; 999=Missing",""

@@ -539,3 +539,8 @@
 "medianrt_immedchoices_delay","Float","","Recommended","medianRT_immedChoices: median latency (in ms) of ''immediate'' choices","","",""
 "meanrt_delayedchoices_delay","Float","","Recommended","meanRT_delayedChoices: mean latency (in ms) of ''delayed'' choices","","",""
 "medianrt_delayedchoices_delay","Float","","Recommended","medianRT_delayedChoices: median latency (in ms) of ''delayed'' choices","","",""
+"prechoice","Integer","","Recommended","Left or right choice for trial X","1;2;999","1= Left; 2= Right; 999= N/A",""
+"predelaypos","Integer","","Recommended","Position of delayed reward for trial X","1;2;999","1= Left; 2= Right; 999= N/A",""
+"prechoicert","Integer","","Recommended","Response time from seeing stimulus and making choice for trial X","","",""
+"predelaytime","Integer","","Recommended","Delay time for processing reward for trial X","","",""
+"totalmoney","Integer","","Recommended","Total Money Earned (across all trials)","","",""

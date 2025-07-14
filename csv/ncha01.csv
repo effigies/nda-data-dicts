@@ -296,7 +296,7 @@
 "acq_demo1","Integer","","Recommended","Your present age in years:","0 :: 100","Age in Years","acha2011_46"
 "dem2","Integer","","Recommended","Do you identify as transgender?","1::4","1 = Yes; 2 = No; 3 = I prefer not to answer; 4 = I do not know","acha2011_47b"
 "a1demo_gender","Integer","","Recommended","What is your current gender identity?","1::9; -888","1 = Female; 2 = Male; 3 = Trans female or trans woman; 4 = Trans male or trans man; 5 = Genderqueer/gender expansive/gender diverse/non-binary; 6 = Other; 7 = Two Spirit; 8 = Gender variant/Gender non-conforming; 9=Agender; -888 = Decline to answer","acha2011_47c"
-"demoses05j","String","50","Recommended","Specify other Gender Identity","","","acha2011_47c_sp,gender_other"
+"demoses05j","String","100","Recommended","Specify other Gender Identity","","","acha2011_47c_sp,gender_other"
 "counselor05","Integer","","Recommended","Which of the following best describes your sexual orientation?","1::14","1 = Asexual; 2 = Bisexual; 3 = Gay; 4 = Heterosexual or straight; 5 = Lesbian; 6 = Pansexual; 7 = Queer; 8 = Questioning; 9 = Not Listed; 10 = Decline to answer; 11 = Multiple orientations listed; 12 = Abrosexual or sexually fluid; 13 = Polysexual; 14 = Other (please specify)","acha2011_48"
 "counselor06","String","50","Recommended","If sexual orientation is not listed, please specify","","","acha2011_48_sp,sexual_orientation_other"
 "acha2011_49","String","15","Recommended","What is your height in feet and inches?","","Under 3 feet, 6 inches; 3 feet, 6 inches; ...; 7 feet; Over 7 feet",""

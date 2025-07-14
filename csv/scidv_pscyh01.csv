@@ -189,7 +189,7 @@
 "q047_szp_prog","Integer","","Recommended","Schizophreniform Disorder Prognosis","1;2","1= With Good Prognostic Features;2 = Without Good Prognostic Features","c20,sciddv_c20"
 "scid_c13g__4","Integer","","Recommended","Age at onset of prodromal Sxs","","","c58,sciddv_c58"
 "scid_c34__4","Integer","","Recommended","Delusional Disorder subtype","1; 2; 3; 4; 5; 6; 7","1=Persecutory; 2=Jealous; 3=Erotomanic; 4=Somatic; 5=Grandiose; 6=Mixed; 7=Unspecified","c38,sciddv_c38"
-"scid_p47","Integer","","Recommended","Other specified psychotic disorder (current)","1::3; 99","1= Absent; 2= Sub-Threshold; 3= Threshold; 99= Inadequate Information","c49"
+"scid_p47","Integer","","Recommended","Other specified psychotic disorder (current)","1::4;99","1= Absent; 2= Sub-Threshold; 3= Threshold; 4=Present; 99= Inadequate Information","c49"
 "scidmodc14","Integer","","Recommended","C14. An episode of the disorder (including prodromal,  active and residual phases) lasts at least 1 month  but less than 6 months","1;3","1= Absent or False; 3= Theshold or True","c12,sciddv_c12"
 "scidmodc15","Integer","","Recommended","C15. The disturbance is not due to the direct physiological effects of a substance (e.g., a drug of abuse, medication) or to a general medical condition","0::3","0=Not Evaluable Inadequate Information; 1= Absent; 3= Threshold","c13,sciddv_c13"
 "scidmodc17","Integer","","Recommended","C17. Onset of prominent psychotic symptoms within 4  weeks of first noticeable change in usual behavior or functioning","0::3","0=Not Evaluable Inadequate Information; 1= Absent; 3= Threshold","c16,sciddv_c16"

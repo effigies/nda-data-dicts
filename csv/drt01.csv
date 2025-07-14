@@ -34,3 +34,4 @@
 "drt_slot_machine_raw_value","Integer","","Recommended","Points possible to win when selecting the (color) slot machine","","",""
 "drt_slot_machine_exp_value","Integer","","Recommended","Expected value of (color) slot machine","","",""
 "drt_slot_machine_probability","Integer","","Recommended","Probability of winning points when (color) slot machine is selected","50;100","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

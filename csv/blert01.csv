@@ -124,3 +124,6 @@
 "blert_easiest","Integer","","Recommended","Which emotion was the easiest for you to recognize?","1::7","1 = N (No Emotion); 2 = SA (Sadness); 3 = A (Anger); 4 = D (Disgust); 5 = H (Happiness); 6 = SU (Surprise); 7 = F (Fear)",""
 "blert_hardest","Integer","","Recommended","Which of these emotions was the hardest to recognize?","1::7","1 = N (No Emotion); 2 = SA (Sadness); 3 = A (Anger); 4 = D (Disgust); 5 = H (Happiness); 6 = SU (Surprise); 7 = F (Fear)",""
 "blert_complete","Integer","","Recommended","Complete?","0::2","0 = Incomplete; 1 = Unverified; 2 = Complete",""
+"blert_proportion_correct","Float","","Recommended","Proportion of trials correct on the BLERT task","","",""
+"blert_average_rt","Float","","Recommended","Average reaction time on the BLERT task","","",""
+"blert_average_cr","Float","","Recommended","Average of the confidence ratings on the BLERT task","","",""

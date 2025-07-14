@@ -26,7 +26,7 @@
 "demoses05g","Integer","","Recommended","What is your current gender identity?: Two-spirit","0;1","0= Unchecked; 1= Checked","gender.ident_twospirit,genderid_g"
 "demoses05h","Integer","","Recommended","What is your current gender identity?: Hijra","0;1","0= Unchecked; 1= Checked","gender.ident_hijra,genderid_h"
 "demoses05i","Integer","","Recommended","What is your current gender identity?: Other (Please Specify)","0;1","0= Unchecked; 1= Checked","gender.ident_other,genderid_i"
-"demoses05j","String","50","Recommended","Specify other Gender Identity","","","gender.ident_other_text,genderid_4_text"
+"demoses05j","String","100","Recommended","Specify other Gender Identity","","","gender.ident_other_text,genderid_4_text"
 "demoses06","Integer","","Recommended","What is your HIV status?","1::3","1= HIV Negative; 2= HIV Positive; 3= HIV-Unknown",""
 "demoses07","Integer","","Recommended","Are you currently taking antiretroviral medications to manage your HIV?","0::2","0= No; 1= Yes; 2= I don't know",""
 "demoses08","Integer","","Recommended","Is your viral load currently undetectable?","0::2","0= No; 1= Yes; 2= I don't know",""

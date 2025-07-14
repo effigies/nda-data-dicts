@@ -203,3 +203,4 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "proximity","Integer","","Recommended","Do you live, work, or go to school in or around the X area?","0;1","0=No; 1=Yes",""
 "ema_now","Integer","","Recommended","Are you currently participating in another study with mobile phone surveys?","0;1","0=No; 1=Yes",""
 "ema_30","Integer","","Recommended","Will you be participating in another study with mobile phone surveys in the next 30 days?","0;1","0=No; 1=Yes",""
+"race_openstr","String","100","Recommended","Participant Race (fill-in-the-blank)","","All participants are prompted with a blank rather than having to select between prompted options and ''other''",""

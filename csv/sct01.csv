@@ -24,3 +24,4 @@
 "sc_noshift_incorr_sd_rt","Float","","Recommended","Standard deviation of reaction time in incorrect 'No Shift' trials","","",""
 "sc_shift_accuracy","Float","","Recommended","Proportion of correct responses in 'Shift' trials","0::1","",""
 "sc_noshift_accuracy","Float","","Recommended","Proportion of correct responses in 'No Shift' trials","0::1","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

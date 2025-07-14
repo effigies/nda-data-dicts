@@ -15,7 +15,7 @@
 "demog3_7","Integer","","Recommended","What is your race? You may choose more than one. (Choice: Prefer not to answer)","0;1","0= No; 1= Yes","demo_mgba18_7,race_7"
 "riaya_gen11","String","600","Recommended","What is your race/ethnicity? (Check all that apply) Other (Please Specify)","","","othersp,race_other_spec"
 "a1demo_gender","Integer","","Recommended","What is your current gender identity?","1::9; -888","1 = Female; 2 = Male; 3 = Trans female or trans woman; 4 = Trans male or trans man; 5 = Genderqueer/gender expansive/gender diverse/non-binary; 6 = Other; 7 = Two Spirit; 8 = Gender variant/Gender non-conforming; 9=Agender; -888 = Decline to answer",""
-"demoses05j","String","50","Recommended","Specify other Gender Identity","","",""
+"demoses05j","String","100","Recommended","Specify other Gender Identity","","",""
 "kbi_sex_assigned_at_birth","Integer","","Recommended","What was your sex assigned at birth","1;2;999;777","1=Male ; 2=Female ; 999=Don't know ; 777=Refuse to answer  [event_name_number] > '21'",""
 "collegestatus","Integer","","Recommended","Please indicate your college status","1::8","1=Never attended college; 2=Some college attended, not currently enrolled; 3=Current student at a 2-year college or vocational school; 4=Graduate of a 2-year college; 5=Current student at a 4-year college or university; 6=Graduate of a 4-year college or university; 7=Current graduate student; 8=Completed graduate student",""
 "demo_28a","Integer","","Recommended","28. Which best describes your sexual orientation?","1::5; 88","1=Heterosexual (straight); 2=Homosexual (gay=lesbian=queer); 3=Bisexual; 4=Undecided (questioning); 5 = Choose not to answer; 88=Other",""

@@ -77,3 +77,4 @@
 "c_hrb_contraception_3_condom","Integer","","Recommended","The very last time you had sex, which method of protection did you use against sexually-transmitted diseases (STDs) or pregnancy? [Check all that apply] A condom","0;1","0 = No; 1 = Yes",""
 "c_hrb_contraception_3_bcontrol","Integer","","Recommended","The very last time you had sex, which method of protection did you use against sexually-transmitted diseases (STDs) or pregnancy? [Check all that apply] Birth Control (like birth control pills)","0;1","0 = No; 1 = Yes",""
 "c_hrb_contraception_3_wdraw","Integer","","Recommended","The very last time you had sex, which method of protection did you use against sexually-transmitted diseases (STDs) or pregnancy? [Check all that apply] Withdrawal","0;1","0 = No; 1 = Yes",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

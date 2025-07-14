@@ -393,7 +393,7 @@
 "job_longest","String","50","Recommended","What is the longest time you've ever held the same job; this may be your current job or a prior job?","","",""
 "gender_chg","Integer","","Recommended","Has your gender identity changed since previous interview date?","0;1","1= Yes; 0= No",""
 "demo_gender_id_v2","Integer","","Recommended","What is the child's current gender identity? ¿Cuál es la identidad de género actual de el/la niño(a)?","1 :: 9; 777 ; 999","1 = Male/Hombre; 2 = Female/Mujer;3 = Transgender Male/Hombre Transgenero; 4 = Transgender Female/Mujer Transgenero; 5 = Gender Queer/Genero Queer/No conforme con gacnero;6 = Different Other Identity/Different Otra identididad; 7= Agender/Agenero; 8= Nonbinary/No Binario; 9= Other/Prefer to self-identify; 777 = Refuse to answer / Niego contestar; 999 = Do not know / No lo sac",""
-"demoses05j","String","50","Recommended","Specify other Gender Identity","","",""
+"demoses05j","String","100","Recommended","Specify other Gender Identity","","",""
 "children_chg","Integer","","Recommended","Have the number of your children changed since [prev_int_dt]? This would include biological children, adopted children, foster children or step children. Please include children even if they are not living with you and any who may be deceased.","0;1","1= Yes; 0= No",""
 "children_gain","String","50","Recommended","How many children have you gained","","",""
 "children_lost","String","50","Recommended","How many children have you lost","","",""

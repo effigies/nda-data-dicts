@@ -500,7 +500,7 @@
 "suicidalityattempt","Integer","","Recommended","Attempt suicide","0;1;-999","0=No; 1=Yes; -999=Missing or N/A","minic9_t1,minic9_t2,minic9_t4"
 "suicidalityharmself_scale","Integer","","Recommended","On a scale of 1 to 7, what is your intent to harm yourself right now","1::7; -1","1=lower; 7=high",""
 "suicidalitycontrolimpulse","Integer","","Recommended","Do you believe you could control your impulses?","0;1;-1","0=No; 1=Yes",""
-"suicidalityattempt_lifetime","Integer","","Recommended","In your lifetime, did you ever make a suicide attempt?","0;1","0=No; 1=Yes","mini_c_life,sui_qn9,suicidality___2,suicidality_lifetimeattempt"
+"suicidalityattempt_lifetime","Integer","","Recommended","In your lifetime, did you ever make a suicide attempt?","0;1;99;999","0=No; 1=Yes; 99= N/A; 999= Missing","mini_c_life,sui_qn9,suicidality___2,suicidality_lifetimeattempt"
 "suicidalityatt_lifetime_tot","Integer","","Recommended","Number of Lifetime Suicide Attempts","","","suicidalityattempt_lifetime_tot"
 "panic_lifetime","Integer","","Recommended","Panic Disorder, Lifetime","0;1","0=No; 1=Yes","mini_e_life,pan_pst_yn,pan_pst_yn_cg,pan_pst_yn_ch,panic_disorder___2"
 "ptsd_traumatype","Integer","","Recommended","Posttraumatic Stress Disorder Trauma Type","1::11;99","1 = Childhood Sexual Trauma; 2 = Adult Sexual Trauma; 3 = Domestic Violence; 4 = Other Physical Assault; 5 = Motor Vehicle Collision; 6 = Other Accidental Injury; 7 = Natural Disaster; 8 = Military Service/Combat; 9 = Other Childhood Maltreatment; 10 = Seeing Someone Badly Injured or Killed; 11 = Sudden Death of Loved One; 99 = Other",""

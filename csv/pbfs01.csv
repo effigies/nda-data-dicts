@@ -69,3 +69,4 @@
 "c_pbfsr_cyber_ver_vic_mean","Float","","Recommended","Cyber verbal victimization - Mean","","",""
 "c_pbfsr_cyber_rel_vic_sum","Integer","","Recommended","Cyber relational victimization - Total","","",""
 "c_pbfsr_cyber_rel_vic_mean","Float","","Recommended","Cyber relational victimization - Mean","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

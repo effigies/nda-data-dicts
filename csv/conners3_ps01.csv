@@ -347,3 +347,4 @@
 "icrs5","Integer","","Recommended","Fails to finish things he started (short attention span)","1::4","1= Not at all; 2= Just a little; 3= Pretty much; 4= Very much",""
 "icrs6","Integer","","Recommended","Confrontational","1::4","1= Not at all; 2= Just a little; 3= Pretty much; 4= Very much",""
 "icrs7","Integer","","Recommended","Acts ''smart''","1::4","1= Not at all; 2= Just a little; 3= Pretty much; 4= Very much",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

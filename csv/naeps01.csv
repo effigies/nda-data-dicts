@@ -11,7 +11,7 @@
 "native_affiliated5","Integer","","Recommended","Please state which of the following statements is true for you: I am not an enrolled member or descendant of any American Indian or Alaska Native tribe in the USA","0;1","0=Unselected; 1=Selected",""
 "tribes_affiliated","String","100","Recommended","Please state the Tribe or Tribes with which you are affiliated","","",""
 "a1demo_gender","Integer","","Recommended","What is your current gender identity?","1::9; -888","1 = Female; 2 = Male; 3 = Trans female or trans woman; 4 = Trans male or trans man; 5 = Genderqueer/gender expansive/gender diverse/non-binary; 6 = Other; 7 = Two Spirit; 8 = Gender variant/Gender non-conforming; 9=Agender; -888 = Decline to answer",""
-"demoses05j","String","50","Recommended","Specify other Gender Identity","","",""
+"demoses05j","String","100","Recommended","Specify other Gender Identity","","",""
 "d_hispanic","Integer","","Recommended","Are you Hispanic or Latina/Latino/Latinx?","0;1;-888;999","0 = No; 1 = Yes; -888 = Decline to Answer;  999 = Prefer not to say",""
 "race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
 "otherrace","String","200","Recommended","specify other race","","The following questions are about you or the child's family.",""

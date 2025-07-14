@@ -381,3 +381,6 @@
 "meaq_ea_4","Integer","","Recommended","I am trying to distract myself from something or not think about it. ","0::100","0=Strongly disagree; 100=Strongly agree",""
 "meaq_ea_5","Integer","","Recommended","I am ''turning off my emotions.''","0::100","0=Strongly disagree; 100=Strongly agree",""
 "meaq_ea_6","Integer","","Recommended","I am facing bad feelings head on in order to walk towards my goals.","0::100","0=Strongly disagree; 100=Strongly agree",""
+"meaq_5_33_alt","Integer","","Recommended","When unpleasant memories come to me, I try to put them out of my mind","1::7","1 = Strongly disagree; 7 = Strongly agree",""
+"meaq_8_58_alt","Integer","","Recommended","The key to a good life is never feeling any pain","1::7","1 = Strongly disagree; 7 = Strongly agree",""
+"meaq_4_29_alt","Integer","","Recommended","Fear or anxiety won't stop me from doing something important","1::7","1 = Strongly disagree; 7 = Strongly agree",""

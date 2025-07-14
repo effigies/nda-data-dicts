@@ -45,3 +45,4 @@
 "cadssobs24","Integer","","Recommended","Did the subject behave in a bizarre, unexpected manner, or show no movement at all, being stiff and wooden?","0::4; -9","0= Not at all; 1= Slightly; 2= Moderately; 3= Considerably; 4= Extremely; -9= Missing",""
 "cadssobs25","Integer","","Recommended","Did the subject have to be put back on track, or grounded in the here and now, during or soon after the experience?","0::4; -9","0= Not at all; 1= Slightly; 2= Moderately; 3= Considerably; 4= Extremely; -9= Missing",""
 "cadssobs26","Integer","","Recommended","Did the subject show any unusual twitching or grimacing in the facial musculature?","0::4; -9","0= Not at all; 1= Slightly; 2= Moderately; 3= Considerably; 4= Extremely; -9= Missing",""
+"comp_assess_spec","String","100","Recommended","Please indicate when assessment completed - specify time before/after infusion","","e.g., 5 minutes before infusion",""

@@ -54,3 +54,4 @@
 "rlwm_reaction_time_units","String","50","Recommended","Reinforcement Learning Working Memory Task (RLWM) Units of reaction time","","",""
 "rlwm_block_set_category","Integer","","Recommended","Category of set of images in Block #","1::10","1 = Shapes; 2 = Colors; 3 = Dishware; 4 = Vegetables; 5 = Fruit; 6 = Animals; 7 = Vehicles; 8 = Plants; 9 = Clothes; 10 = Instruments",""
 "rlwm_block_set_size","Integer","","Recommended","Set size in Block #","2::5","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

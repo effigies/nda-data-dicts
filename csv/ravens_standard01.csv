@@ -149,3 +149,4 @@
 "total_correct","Integer","","Recommended","Grass Snow Total Number Correct","0::16","",""
 "percent_max_score","Float","","Recommended","Percentage of maximum score","0 :: 100","",""
 "rv_s_attempted","Integer","","Recommended","Ravens standard attempted but could not be completed","0;1","0 = No; 1 = Yes",""
+"ravens_std_zscore","Float","","Recommended","Ravens Standard Progressive Matrices - Z-Score of participant's total score","-3::3","",""

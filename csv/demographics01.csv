@@ -187,7 +187,7 @@
 "sexattract_other","Integer","","Recommended","People are different in their sexual attraction to other people. Are you attracted to people in which of the following groups? (Select all that apply) People with genders not listed here","0;1","0= No; 1= Yes",""
 "sexattract_noanswer","Integer","","Recommended","People are different in their sexual attraction to other people. Are you attracted to people in which of the following groups? (Select all that apply) Do not wish to answer","0;1","0= No; 1= Yes",""
 "a1demo_gender","Integer","","Recommended","What is your current gender identity?","1::9; -888","1 = Female; 2 = Male; 3 = Trans female or trans woman; 4 = Trans male or trans man; 5 = Genderqueer/gender expansive/gender diverse/non-binary; 6 = Other; 7 = Two Spirit; 8 = Gender variant/Gender non-conforming; 9=Agender; -888 = Decline to answer","gender_identity"
-"demoses05j","String","50","Recommended","Specify other Gender Identity","","","c3855_demo3_oth,gender_identity_other,healdemo_1a,yc_dem_2_other"
+"demoses05j","String","100","Recommended","Specify other Gender Identity","","","c3855_demo3_oth,gender_identity_other,healdemo_1a,yc_dem_2_other"
 "a1demo_sexorient6a","Integer","","Recommended","What is your current sexual identity/orientation? (Select all that apply) Gay or Lesbian","0;1","0= No; 1= Yes",""
 "a1demo_sexualiden6b","Integer","","Recommended","What is your current sexual identity/orientation? (Select all that apply) Bisexual","0;1","0= No; 1= Yes",""
 "a1demo_sexorient6c","Integer","","Recommended","What is your current sexual identity/orientation? (Select all that apply) Heterosexual or Straight","0;1","0= No; 1= Yes",""

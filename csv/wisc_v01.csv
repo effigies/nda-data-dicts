@@ -798,3 +798,4 @@
 "wms3_ss_ftss","Integer","","Recommended","Spatial Span Forward Total Score Scaled Score","","",""
 "wms3_ss_btss","Integer","","Recommended","Spatial Span Backward Total Score Scaled Score","","",""
 "wms3_ss_tss","Integer","","Recommended","Spatial Span Total Score Scaled Score","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

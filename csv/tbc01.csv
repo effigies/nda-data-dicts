@@ -91,3 +91,5 @@
 "app_install_txt","String","250","Recommended","If you are not willing and able to download and install two free apps from the app store for the study, please explain why.","","",""
 "curr_res_txt","String","250","Recommended","You selected ''Other'' for your current residence. Please specify.","","",""
 "dsi13","String","100","Recommended","If you selected ""Other"" for living arrangement, please describe","","",""
+"alcbelief_mother","Integer","","Recommended","My mother believes alcohol to be a safe alternative to marijuana","0::3","0= Does not believe to be true; 1= Believes to be somewhat untrue; 2= Believes to be somewhat true; 3= Believes to be true",""
+"alcbelief_father","Integer","","Recommended","My father believes alcohol to be a safe alternative to marijuana","0::3","0= Does not believe to be true; 1= Believes to be somewhat untrue; 2= Believes to be somewhat true; 3= Believes to be true",""

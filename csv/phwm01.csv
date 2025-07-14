@@ -26,3 +26,4 @@
 "phwm_trial_set_size","Integer","","Recommended","Trial Set Size","3::6","",""
 "trial_acc","Integer","","Recommended","Trial Accuracy","0;1","0= Incorrect; 1= Correct",""
 "phwm_set3_score","Float","","Recommended","Set 3 - Proportion of Correct Responses","0::1","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

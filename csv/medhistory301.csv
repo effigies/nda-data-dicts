@@ -918,3 +918,5 @@
 "cancer_status","String","200","Recommended","Status of cancer - active, remission, partial remission, etc.","","",""
 "cm1_start_date","Date","","Recommended","Medication Start Date","","MM/DD/YYYY",""
 "cm1_stop_date","Date","","Recommended","Medication Stop Date","","MM/DD/YYYY",""
+"highest_weight","Integer","","Recommended","Please provide your highest weight in pounds.","","",""
+"health_overall_severity","Integer","","Recommended","Overall, how would you rate the current severity of the symptoms or physical health consequences associated with your health condition(s)?","1::5","1=No symptoms or health consequences; 2=Minimal; 3=Mild; 4=Moderate; 5=Severe",""

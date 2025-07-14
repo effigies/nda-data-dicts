@@ -165,3 +165,4 @@
 "fneproc","String","20","Recommended","name of trial procedure being run","","",""
 "nihtlsts","Float","","Recommended","Fully-corrected T Score","","",""
 "lswmt_css","Float","","Recommended","List Sort Working Memory Test (LSWMT) - Change-Sensitive Score","","",""
+"nih_ls_rs","Integer","","Recommended","List Sort Working Memory Test (LSWMT) - Raw Score","","",""

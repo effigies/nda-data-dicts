@@ -27,4 +27,4 @@
 "differentiationreagentbatchnum","String","4000","Recommended","The batch or lot number of the kit/reagent. For example ''10001A''.","","","differentiationreagentbatchnumber"
 "differentiationreagentmfct","String","4000","Recommended","The manufacturer of the kit/reagent. For example ''Illumina'' or ''ThermoFisher Scientific''.","","","differentiationreagentmanufacturer"
 "differentiatedcultureqc","String","4000","Recommended","Describe quality control of the culture, including the status, shape, growth rate, and cell death, etc","","",""
-"experiment_id","Integer","","Required","ID for the Experiment/settings/run","","",""
+"experiment_id","Integer","","Recommended","ID for the Experiment/settings/run","","",""

@@ -62,3 +62,4 @@ engage others in play.","1::4; -1; -7; -8; -9","1= Rarely/ Never; 2= Sometimes; 
 "p_erc_lab_neg_score","Integer","","Recommended","Lability Negativity Subscale Score","","","erclab"
 "p_erc_emotion_reg_score","Integer","","Recommended","Emotion Regulation Subscale Score","","","ercer"
 "p_erc_total_score","Integer","","Recommended","ERC Total Score","","","erctot"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

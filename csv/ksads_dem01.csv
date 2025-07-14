@@ -70,7 +70,7 @@
 "ksads64","Integer","","Recommended","Were your child's developmental milestones on time?","0;1","0 = No; 1 = Yes","0.0.0.q66"
 "ksads65","String","50","Recommended","Click below areas that showed delays in developmental milestones","","","0.0.0.q67"
 "ksads66","Integer","","Recommended","Has your child ever received mental health or substance abuse services?","0;1","0 = No; 1 = Yes","0.0.0.q68"
-"ksads67","String","250","Recommended","Click below all types of mental health or substance abuse services your child has received:","","","0.0.0.q69"
+"ksads67","String","1000","Recommended","Click below all types of mental health or substance abuse services your child has received:","","","0.0.0.q69"
 "ksads68","Integer","","Recommended","How many times has your child been in the hospital for mental health problems?","","","0.0.0.q70"
 "ksads69","Integer","","Recommended","How many times has your child been in the hospital for substance abuse problems?","","","0.0.0.q71"
 "dem_42_med","String","150","Recommended","Please list any other medicationyour child is currently taking and the dosage=","","","0.0.0.q72,ksads70"
