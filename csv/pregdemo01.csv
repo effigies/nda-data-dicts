@@ -120,3 +120,5 @@
 "preg_6a","Integer","","Recommended","Which of these qualities do you want most for your child? Brains/intelligence","0;1","0 = No/unchecked; 1 = Yes/checked",""
 "preg_6b","Integer","","Recommended","Which of these qualities do you want most for your child? Good behaviors/manners","0;1","0 = No/unchecked; 1 = Yes/checked",""
 "preg_6c","Integer","","Recommended","Which of these qualities do you want most for your child? Attractive appearance ","0;1","0 = No/unchecked; 1 = Yes/checked",""
+"counselor02","String","50","Recommended","If other for race, please specify","","",""
+"fdi_q22_more","String","25","Recommended","Describe more than one race:","","",""

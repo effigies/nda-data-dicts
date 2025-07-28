@@ -38,3 +38,4 @@
 "hsc_10","Integer","","Recommended","I do not think I will get what I really want.","0;1","1=True; 0=False",""
 "hsc_13","Integer","","Recommended","I never get what I want, so it is dumb to want anything.","0;1","1=True; 0=False",""
 "hsc_16","Integer","","Recommended","I will have more good times than bad times.","0;1","0=True; 1=False",""
+"hsc_total_prorated","Float","","Recommended","Total hopelessness pro-rated score","0::17;999","sum(life_growup, hsc_giveup, t_hsc_3, life_grownup, accomp, life_someday, life_goodthings, (1-life_goodluck), (1-life_badthings), noexpect, t_hsc_11, things, hsc_neverget, (1-life_fun), (1-life_unclear), moregood, nousetry). If 90% complete, the missing/refused item is prorated using mean substition; 999=NA/missing",""

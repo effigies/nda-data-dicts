@@ -252,7 +252,7 @@
 "bart_num_of_explosions","Integer","","Recommended","Total number of balloons exploded","","",""
 "bart_total_reward","Float","","Recommended","Total amount of money won","","",""
 "bart_adjusted_num_of_pumps","Float","","Recommended","Average number of pumps for balloons that were saved (excluding the balloons that exploded)","","",""
-"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::3","1 = Wave 1; 2 = Wave 2; 3 = Wave 3",""
+"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::4","1 = Wave 1; 2 = Wave 2; 3 = Wave 3; 4= Wave 4",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "bart_reaction_time_units","String","50","Recommended","The units of reaction time","","",""
 "bart_onset_time_units","String","50","Recommended","The units of onset timing information","","",""

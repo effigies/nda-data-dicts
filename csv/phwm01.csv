@@ -19,7 +19,7 @@
 "phwm_set5_score","Float","","Recommended","Set 5 - Proportion of Correct Responses","0::1","",""
 "phwm_set6_score","Float","","Recommended","Set 6 - Proportion of Correct Responses","0::1","",""
 "phwm_total_score","Float","","Recommended","Total Phonological Working Memory Score (Proportion of Correct Responses) Across Sets","0::1","",""
-"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::3","1 = Wave 1; 2 = Wave 2; 3 = Wave 3",""
+"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::4","1 = Wave 1; 2 = Wave 2; 3 = Wave 3; 4= Wave 4",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "trialnumber","String","20","Recommended","Trial number","","",""
 "phwm_stimulus_set","Integer","","Recommended","Stimulus Set (1 of 4 counterbalancing conditions)","1::4","",""

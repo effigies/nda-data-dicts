@@ -160,3 +160,4 @@
 "word_wrat_1","Integer","","Recommended","Word: cat","1;2;-99;-999","1=Yes; 2=No; -99=Don't know; -999=No response",""
 "word_wrat_2","Integer","","Recommended","Word: in","1;2;-99;-999","1=Yes; 2=No; -99=Don't know; -999=No response",""
 "word_wrat_3","Integer","","Recommended","Word: book","1;2;-99;-999","1=Yes; 2=No; -99=Don't know; -999=No response",""
+"wordr_bluerawscore","Integer","","Recommended","Blue Word Reading Raw Score","0::55;999","999= Missing",""

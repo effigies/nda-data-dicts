@@ -33,7 +33,7 @@
 "sbq2_1","Integer","","Recommended","W1:(IF YES) How often have you thought about killing yourself in the last 12 months? ","0::4;99","0=Never; 1=Rarely (1 time); 2=Sometimes (2 times); 3=Often (3-4 times); 4=Very Often (5 or more times); 99=No data",""
 "sbq3_1","Integer","","Recommended","W1:Have you ever told someone that you were going to commit suicide, or that you might do it?","0;1;99","0 = No; 1 = Yes; 99=No data",""
 "suicide_3_1","Integer","","Recommended","W1: Total Score- Sum of 3 suicide items.","0::6;99","99=No data",""
-"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::3","1 = Wave 1; 2 = Wave 2; 3 = Wave 3",""
+"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::4","1 = Wave 1; 2 = Wave 2; 3 = Wave 3; 4= Wave 4",""
 "sbq_best12","Integer","","Recommended","Since your last assessment, have you attempted suicide or intentionally harmed or injured yourself?","0;1","0=No; 1=Yes",""
 "sbq_best13","Integer","","Recommended","What chance is there that you will consider the possibility, no matter how remote, of killing yourself...in your lifetime?","0::4","0=No chance at all; 2 = Some chance; 4=Very likely",""
 "sbq_best14","Integer","","Recommended","What chance is there that you will consider the possibility, no matter how remote, of killing yourself...within the next year?","0::4","0=No chance at all; 2 = Some chance; 4=Very likely",""

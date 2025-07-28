@@ -31,7 +31,7 @@
 "snuff_1","Integer","","Recommended","W1:During last 30 days, used snuff","0;1;99","0 = No; 1 = Yes; 99=No data",""
 "electr_cigs_1","Integer","","Recommended","W1:During last 30 days, smoked electronic cigarettes","0;1;99","0 = No; 1 = Yes; 99=No data",""
 "othrtobac2_1","String","250","Recommended","W1:During last 30 days, other type of tobacco Please Specify","","99=No data",""
-"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::3","1 = Wave 1; 2 = Wave 2; 3 = Wave 3","timepoint"
+"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::4","1 = Wave 1; 2 = Wave 2; 3 = Wave 3; 4= Wave 4","timepoint"
 "cr3c","Float","","Recommended","Tobacco Use: If yes, smoked: Number of pack-years","","",""
 "nm001","Integer","","Recommended","Have you ever smoked a cigarette in your life?","0;1","0 = No; 1 = Yes",""
 "smoke_age_last","Integer","","Recommended","Age the last time you smoked?","","Age in years",""

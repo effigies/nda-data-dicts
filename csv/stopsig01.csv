@@ -115,7 +115,7 @@
 "sst_overall_correct_stop","Float","","Recommended","Proportion of correct ''Stop'' trials across both runs","0::1","",""
 "sst_overall_stop_commission","Float","","Recommended","Proportion of incorrect ''Stop'' trials due to commission errors (response) across both runs","0::1","",""
 "sst_overall_stop_comm_mean_rt","Float","","Recommended","Mean reaction time in incorrect ''Stop'' trials due to commission errors across both runs","","",""
-"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::3","1 = Wave 1; 2 = Wave 2; 3 = Wave 3",""
+"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::4","1 = Wave 1; 2 = Wave 2; 3 = Wave 3; 4= Wave 4",""
 "sst_overall_stop_comm_sd_rt","Float","","Recommended","Standard deviation of reaction time in incorrect ''Stop'' trials due to commission errors across both runs","","",""
 "sst_overall_mssd","Float","","Recommended","Mean Stop Signal Delay across both runs","","",""
 "sst_overall_ssrt","Float","","Recommended","Stop Signal Reaction Time across both runs","","",""

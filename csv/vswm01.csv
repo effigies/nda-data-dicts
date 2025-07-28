@@ -22,7 +22,7 @@
 "rt_ss4","Float","","Recommended","Set size 4 average reaction time (ms)","","",""
 "rt_ss5","Float","","Recommended","Set size 5 average reaction time (ms)","","",""
 "rt_ss6","Float","","Recommended","Set size 6 average reaction time (ms)","","",""
-"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::3","1 = Wave 1; 2 = Wave 2; 3 = Wave 3",""
+"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::4","1 = Wave 1; 2 = Wave 2; 3 = Wave 3; 4= Wave 4",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "trial","Integer","","Recommended","Trial number","0::9999; -777; -999","1 = first; 2= second; 3=third; 4=fourth; 5=fifth; 6=sixth; etc; -777=NA, -999=missing",""
 "vswm_stimulus_set","Integer","","Recommended","VSWM Stimulus Set (1 of 4 counterbalancing conditions)","1::4","",""

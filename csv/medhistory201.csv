@@ -397,7 +397,7 @@
 "hm78_side_weakness","Integer","","Recommended","Have you ever had weakness on one side of body?","1;5;-8;-9","1= No; 5= Yes; -8= NA; -9= Missing",""
 "hm78y1_side_weakness_1st_yr","Integer","","Recommended","First Year had weakness on one side of body","","",""
 "hm78y2_side_weakness_lst_yr","Integer","","Recommended","Last Year had weakness on one side of body","","",""
-"dsis_medical20","Integer","","Recommended","Have you ever had cancer?","0;1;-8;-9","0= No; 1= Yes; -8= NA; -9= Missing","hm30p_cancer_tumor_past"
+"dsis_medical20","Integer","","Recommended","Have you ever had cancer?","0::2;-8;-9","0= No; 1= Yes; 2= Don't know; -8= NA; -9= Missing","hm30p_cancer_tumor_past"
 "hm79_eeg","Integer","","Recommended","Have you ever had an EEG, CT, or MRI?","1;5;-8;-9","1= No; 5= Yes; -8= NA; -9= Missing",""
 "hm79y1_eeg_1st_yr","Integer","","Recommended","First Year had EEG, CT, MRI","","",""
 "hm79y2_eeg_lst_yr","Integer","","Recommended","Last Year had EEG, CT, MRI","","",""

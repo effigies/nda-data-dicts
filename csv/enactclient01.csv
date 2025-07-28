@@ -15,3 +15,4 @@
 "enact9","Integer","","Recommended","In the past 3 months, did the health worker ask you about thoughts of dying, thoughts of hurting yourself, or suicidal thoughts?","0;1;666","0= No; 1= Yes; 666= Participant cannot remember",""
 "enact10","Integer","","Recommended","In the past 3 months, did the health worker ask you about drinking alcohol or beer?","0;1;666","0= No; 1= Yes; 666= Participant cannot remember",""
 "enact11","Integer","","Recommended","In the past 3 months, did the health worker show any unhelpful behavior towards you?","0;1;666","0= No; 1= Yes; 666= Participant cannot remember",""
+"enact12","Integer","","Recommended","In the past 3 months, did the health worker give you advice that you thought would make your health problem better?","0;1;666","0= No; 1= Yes; 666= Participant cannot remember",""

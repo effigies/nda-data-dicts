@@ -398,3 +398,4 @@
 "smy_maturity","Integer","","Recommended","In terms of kindness, cooperation, and dependability, are you growing up faster, slower, or at same rate as other people your age?","1::3","1= Slower; 2= At the same rate; 3= Faster",""
 "smy_responsibility","Integer","","Recommended","In terms of your responsibilities at home, are you growing up faster, slower, or at the same rate as other people your age?","1::3","1= Slower; 2= At the same rate; 3= Faster",""
 "smy_adv_class","Integer","","Recommended","Are you taking advanced classes in school?","0;1","0= No; 1=Yes",""
+"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::4","1 = Wave 1; 2 = Wave 2; 3 = Wave 3; 4= Wave 4",""

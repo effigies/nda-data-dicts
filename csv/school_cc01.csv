@@ -46,3 +46,4 @@
 "school_lgbtq_4","Integer","","Recommended","Does your school encourage staff to attend professional development on safe and supportive school environments for all students, regardless of sexual orientation or gender identity?","0::2","0= Yes; 1= No; 2= Do not know",""
 "school_lgbtq_5","Integer","","Recommended","Does your school provide access to mental or physical health care services that specialize in care for LGBTQ+ youth, and are not on school property?","0::2","0= Yes; 1= No; 2= Do not know",""
 "school_lgbtq_6","Integer","","Recommended","Does your school provide curricula or supplementary materials that include HIV, STD, or pregnancy prevention information that is relevant to LGBTQ+ youth (e.g., curricula or materials that use inclusive language or terminology?)","0::2","0= Yes; 1= No; 2= Do not know",""
+"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::4","1 = Wave 1; 2 = Wave 2; 3 = Wave 3; 4= Wave 4",""

@@ -72,3 +72,4 @@
 "stopsignal_trial_type","Integer","","Recommended","Stop or Go stimulus type displayed","1;2","1 = Go; 2 = Stop",""
 "stopsignal_trial_result","Integer","","Recommended","Result of subject's response to trial type","0;1","0 = Incorrect; 1 = Correct",""
 "stopsignal_trial_onset","Float","","Recommended","Stop signal trial onset time in milliseconds","","",""
+"fmri_striatal_alc","Float","","Recommended","Magnitude of fMRI BOLD signal within the striatum in response to alcohol, relative to neutral beverage cues","-10::10","",""

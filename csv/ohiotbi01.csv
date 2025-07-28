@@ -44,3 +44,8 @@
 "ohio_tbi13c","Integer","","Recommended","When you lost consciousness the worst time, were you dazed or have a gap in your memory?","0;1;-99","0= No; 1= Yes; -99= Not Asked",""
 "ohio_tbi13d","Integer","","Recommended","How old were you when you lost consciousness the worst time?","","Age in Years",""
 "multheadimp","Integer","","Recommended","Have you ever had a period of time in which you experienced multiple, repeated impacts to your head (e.g. history of abuse, contact sports, military duty)?","0;1","0= No; 1= Yes",""
+"ohio_tbi01a","String","255","Recommended","Ever been hospitalized or treated in an emergency room following an injury to your head or neck - What was the cause of this injury?","","",""
+"ohio_tbi01b","Integer","","Recommended","Ever been hospitalized or treated in an emergency room following an injury to your head or neck - Were you knocked out or did you lose consciousness?","0;1","0= No; 1= Yes",""
+"ohio_tbi01bi","Integer","","Recommended","Ever been hospitalized or treated in an emergency room following an injury to your head or neck - How long were you knocked out or did you lose consciousness?","1::3","1= Less than 30 minutes; 2= 30 minutes - 24 hours; 3= More than 24 hours",""
+"ohio_tbi01c","Integer","","Recommended","Ever been hospitalized or treated in an emergency room following an injury to your head or neck - Were you dazed or did you have a gap in your memory from your injury?","0;1","0= No; 1= Yes",""
+"ohio_tbi01d","Integer","","Recommended","Ever been hospitalized or treated in an emergency room following an injury to your head or neck - How old were you when this happened?","","Age in years at time of event",""

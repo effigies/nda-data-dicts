@@ -93,3 +93,7 @@
 "adhd_c_hyp_a3","Integer","","Recommended","Hyperactivity/Impulsivity Symptom at Home","1;2","1=Yes; 2=No",""
 "adhd_c_hyp_a4","Integer","","Recommended","Hyperactivity/Impulsivity Symptom at Athletics or Clubs","1;2","1=Yes; 2=No",""
 "year_mta","Integer","","Recommended","Year in study","","","visit_year,visit_year�"
+"manage_1","Integer","","Recommended","How important do you think it is for you to manage your ADHD symptoms well in everyday situations?","0::10","0= Not at all; 10= Extremely",""
+"manage_2","Integer","","Recommended","How confident are you that you can manage your ADHD symptoms well in everyday situations?","0::10","0= Not at all; 10= Extremely",""
+"manage_3","Integer","","Recommended","How much do you want to improve how well you manage your ADHD symptoms in everyday situations?","0::10","0= Not at all; 10= Extremely",""
+"manage_4","Integer","","Recommended","How confident are you that you can improve how well you manage your ADHD symptoms in everyday situations?","0::10","0= Not at all; 10= Extremely",""

@@ -40,7 +40,7 @@
 "othrdebt2_1","String","600","Recommended","Over last 12 months difficulty w debts caused by Specify Other Source","","99=No data",""
 "othrdebtamt_1","Integer","","Recommended","Over last 12 months amount of debt caused by Other Source","","Response in dollar amount",""
 "debtsource_1","Integer","","Recommended","Some type(s) of Debt Source","0::4;99","0=0 sources of debt;1=1 source of debt;2=2 sources of debt;3=3 sources of debt;4=4 sources of debt;99=No data",""
-"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::3","1 = Wave 1; 2 = Wave 2; 3 = Wave 3",""
+"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::4","1 = Wave 1; 2 = Wave 2; 3 = Wave 3; 4= Wave 4",""
 "studloans_1","Integer","","Recommended","Over last 12 months difficulty w debts caused by Student Loans","0;1;99","0=No;1=Yes;99=No data",""
 "stloansamt_1","Integer","","Recommended","Over last 12 months amount of debt caused by Student Loans","","Response in dollar amount",""
 "homemortg_1","Integer","","Recommended","Over last 12 months difficulty w debts caused by Home Mortgage","0;1;99","0=No;1=Yes;99=No data",""

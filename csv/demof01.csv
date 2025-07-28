@@ -162,7 +162,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "status","String","50","Recommended","Status","","",""
 "adem7","Integer","","Recommended","Does patient have any home health aide or live-in help (including assistance from family and friends)?","0;1;7;8","0 = No; 1 = Yes; 7 = Don't know; 8 = Refused",""
 "adem7a","Integer","","Recommended","If patient has any home health aide or live-in help (including assistance from family and friends. Is this help paid or unpaid?","1;2","1 = Paid help (including services not paid by the patient); 2 = Unpaid help (example: Friends, family, meals-on-wheels)",""
-"chldyn","Integer","","Recommended","Does the client have children?","0;1","0=No; 1=Yes",""
+"chldyn","Integer","","Recommended","Does the client/subject have children?","0;1","0=No; 1=Yes",""
 "numlivchild","Integer","","Recommended","Number of living children","","",""
 "ccc2english","Integer","","Recommended","Does the subject speak English as a primary language?","0;1;-9","0 = No; 1 = Yes; -9 = Missing value",""
 "exillit","Integer","","Recommended","Unable to speak, read, and write English","0::2","0=No;1=Yes; 2=Somewhat",""

@@ -38,3 +38,7 @@
 "sv_abn_17","Integer","","Recommended","If a woman were to share an experience of sexual violence to a family member, how likely is it that the family member would support the person to seek services?","1::5","1=Not at all likely; 2=A little likely; 3=Somewhat likely; 4=Very likely; 5=Extremely likely",""
 "sv_abn_18","Integer","","Recommended","If a woman were to share an experience of sexual violence to a friend, how likely is it that the friend would support the person to seek services?","1::5","1=Not at all likely; 2=A little likely; 3=Somewhat likely; 4=Very likely; 5=Extremely likely",""
 "sv_abn_19","Integer","","Recommended","If a woman were to seek services for sexual violence, how likely is it that the perpetrator would retaliate against the woman?","1::5","1=Not at all likely; 2=A little likely; 3=Somewhat likely; 4=Very likely; 5=Extremely likely",""
+"deserve_violence","Integer","","Recommended","There are times a woman deserves to be beaten","1::3","1= Strongly Agree; 2= Somewhat agree; 3= Do not agree",""
+"tolerate_violence","Integer","","Recommended","A woman should tolerate violence in order to keep her family together","1::3","1= Strongly Agree; 2= Somewhat agree; 3= Do not agree",""
+"man_decision","Integer","","Recommended","A man should have the final word on decisions in his home","1::3","1= Strongly Agree; 2= Somewhat agree; 3= Do not agree",""
+"male_tough","Integer","","Recommended","To be a man, you need to be tough","1::3","1= Strongly Agree; 2= Somewhat agree; 3= Do not agree",""

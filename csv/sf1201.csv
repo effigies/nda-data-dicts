@@ -108,7 +108,7 @@
 "sfhs05_1","Integer","","Recommended","W1:SFHS Limited in work activities","0;1;99","0=No; 1=Yes; 99=No data",""
 "sfhs06_1","Integer","","Recommended","W1:SFHS Accomplished less due to emotional problems","0;1;99","0=No; 1=Yes; 99=No data",""
 "sfhs07_1","Integer","","Recommended","W1:SFHS Careless work due to emotional problems","0;1;99","0=No; 1=Yes; 99=No data",""
-"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::3","1 = Wave 1; 2 = Wave 2; 3 = Wave 3",""
+"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::4","1 = Wave 1; 2 = Wave 2; 3 = Wave 3; 4= Wave 4",""
 "sf12v2_sf5","Integer","","Recommended","During the past 30 days, how much did pain interfere with your normal work (including both work outside the home and housework?)","0 :: 4","0= Not at all; 1= A little bit; 2= Moderately; 3= Quite a bit; 4= Extremely",""
 "sf12v2_sf6a","Integer","","Recommended","How much of the time during the past 4 weeks have you felt calm and peaceful?","0 :: 4","0= None of the time; 1= A little of the time; 2= Some of the time; 3= Most of the time; 4= All of the time",""
 "sf12v2_sf6b","Integer","","Recommended","How much of the time during the past 4 weeks did you have a lot of energy?","0 :: 4","0= None of the time; 1= A little of the time; 2= Some of the time; 3= Most of the time; 4= All of the time",""

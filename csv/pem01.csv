@@ -10,4 +10,4 @@
 "political4_1","Integer","","Recommended","W1: To what extent during the last 12 months have you participated in groups trying to influence the policies of the government at the local, state, or national level?","0::4;99","0 = Not at all; 1 = A little; 2 = Some; 3 = Quite a bit; 4 = A lot; 99=No data",""
 "political5_1","Integer","","Recommended","W1: To what extent during the last 12 months have you been involved in a union or in organizing a union?","0::4;99","0 = Not at all; 1 = A little; 2 = Some; 3 = Quite a bit; 4 = A lot; 99=No data",""
 "varlabpoliticaltotscore_1","Integer","","Recommended","W1: Political 5-item Total Score","0::20;99","Sum of political1_1 through political5_1; 99=No data",""
-"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::3","1 = Wave 1; 2 = Wave 2; 3 = Wave 3","timepoint"
+"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::4","1 = Wave 1; 2 = Wave 2; 3 = Wave 3; 4= Wave 4","timepoint"

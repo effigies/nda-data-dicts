@@ -44,3 +44,7 @@
 "prepadherence3","Integer","","Recommended","In the last 30 days, how often was it difficult for you to take your PrEP medication in the way you are supposed to?","1::6","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Usually; 5 = Most always; 6 = Always",""
 "fu_prepadherence1","Integer","","Recommended","Since your last survey on [MM/DD/YYYY], how good a job did you do at taking your PrEP medication in the way you were supposed to?","1::4","1 = Very poor; 2 = Poor/Fair; 3 = Good/Very Good; 4 = Excellent",""
 "fu_prepadherence2","Integer","","Recommended","Since your last survey on [MM/DD/YYYY], how often did you take your PrEP medication in the way you were supposed to?","1::6","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Usually; 5 = Most always; 6 = Always",""
+"hiv_med1","Integer","","Recommended","Are you currently taking any anti-HIV medications?","0;1","0=No; 1=Yes",""
+"visrt","Integer","","Recommended","How much of your HIV medications you have taken in the last month? (Visual Analog Scale)","0::100","Visual analog scale",""
+"selfrt","Integer","","Recommended","Thinking about the past 4 weeks, on average how would your rate your ability to take all of your HIV antiretroviral medications as your doctor prescribed?","1::6","1= Very Poor; 2= Poor; 3= Fair; 4= Good; 5= Very Good; 6= Excellent",""
+"hiv_med5","Integer","","Recommended","How many doses of your medications did you miss in the last 7 days?","0::5","Number of doses; 5= 5 or more",""

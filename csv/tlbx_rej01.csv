@@ -81,3 +81,8 @@
 "nih_tlbx_fctsc","Float","","Recommended","Fully-Corrected T-Score","0::120","","fully_corrected_t_score"
 "comqother","String","255","Recommended","Respondent - Other (text)","","","respondent"
 "fneproc","String","20","Recommended","name of trial procedure being run","","",""
+"ntsr38","Integer","","Recommended","How often people don't listen when I ask for help","0::4;999","0=Never; 1=Rarely; 2=Sometimes; 3=Usually; 4=Always; 999=Missing",""
+"ntsr40","Integer","","Recommended","How often people let me down when I am counting on them","0::4;999","0=Never; 1=Rarely; 2=Sometimes; 3=Usually; 4=Always; 999=Missing",""
+"ntsr42","Integer","","Recommended","How often people act like they don't want to hear about my problems","0::4;999","0=Never; 1=Rarely; 2=Sometimes; 3=Usually; 4=Always; 999=Missing",""
+"ntsr44","Integer","","Recommended","How often people act  like they can't be bothered by me or my problems","0::4;999","0=Never; 1=Rarely; 2=Sometimes; 3=Usually; 4=Always; 999=Missing",""
+"ntsr45","Integer","","Recommended","How often people avoid talking to me","0::4;999","0=Never; 1=Rarely; 2=Sometimes; 3=Usually; 4=Always; 999=Missing",""

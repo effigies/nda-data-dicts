@@ -557,3 +557,7 @@
 "control_behav_experienced_5","Integer","","Recommended","My spouse insists on knowing where I am at all times.","1::4","1=Never; 2=Once; 3=A few times; 4=Many times",""
 "control_behav_experienced_6","Integer","","Recommended","In the past 3 months, how many times has your current partner insulted you or made you feel bad about yourself?","1::4","1=Never; 2=Once; 3=A few times; 4=Many times",""
 "control_behav_experienced_7","Integer","","Recommended","In the past 3 months, how many times has your current partner belittled or humiliated you in front of other people?","1::4","1=Never; 2=Once; 3=A few times; 4=Many times",""
+"ipv1","Integer","","Recommended","In the PAST YEAR, did a current or former partner make you feel cut off from others, trapped, or controlled in a way you did not like? By ''partner'' we mean current or former... husband/wife, boyfriend/girlfriend, domestic partner, romantic partner, or sex partner.","0;1","0=No; 1=Yes",""
+"ipv2","Integer","","Recommended","In the PAST YEAR, did a current or former partner make you feel afraid that they might try to hurt you in some way?","0;1","0=No; 1=Yes",""
+"ipv3","Integer","","Recommended","In the PAST YEAR, did a current or former partner pressure or force you to do something sexual that you didn't want to do?","0;1","0=No; 1=Yes",""
+"ipv4","Integer","","Recommended","In the PAST YEAR, did a current or former partner hit, kick, punch, slap, shove, or otherwise physically hurt you?","0;1","0=No; 1=Yes",""

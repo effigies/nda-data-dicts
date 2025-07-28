@@ -157,3 +157,6 @@
 "txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""
 "c_support1","Integer","","Recommended","Do you have an adult person in your life who you regularly connect with and who is supportive of you? This is someone that you see, call, text or otherwise connect with at least three times a week.","0;1; 888; 999","0=No; 1=Yes 888=Don''t Know; 999=Refuse",""
 "c_support2","Integer","","Recommended","Does your main support person currently use heroin or have a problem with pain pills or other opioids?","0;1; 777; 888; 999","0=No; 1=Yes; 777=Not Applicable; 888=Don''t Know; 999=Refuse",""
+"socam2","Integer","","Recommended","How much do you feel listened to by those in your personal life?","1;2","1 = Not enough; 2 = Enough or more than enough",""
+"socam3","Integer","","Recommended","How much do you feel that there are people in your life who understand your problems?","1;2","1 = Not enough; 2 = Enough or more than enough",""
+"socam4","Integer","","Recommended","How satisfied are you with the kinds of relationships you have with your family and friends?","1;2","1 = Not satisfied; 2 = Satisfied or more than satisfied",""

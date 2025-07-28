@@ -14,4 +14,4 @@
 "mcbs8","Integer","","Recommended","How often these statements applied to your relationship with your relative. Before the dementia: They went out of their way to help me.","1::4","1=Never; 2=Sometimes; 3=Most of the time; 4=Always",""
 "mcbs9","Integer","","Recommended","How often these statements applied to your relationship with your relative. Before the dementia: They responded to my needs.","1::4","1=Never; 2=Sometimes; 3=Most of the time; 4=Always",""
 "mcbs10","Integer","","Recommended","How often these statements applied to your relationship with your relative. Before the dementia: They would have done almost anything for me.","1::4","1=Never; 2=Sometimes; 3=Most of the time; 4=Always",""
-"mcbs11","Integer","","Recommended","Mutual Communal Behaviors Scale (MCBS) - Total Score","10:40","Sum of all responses",""
+"mcbs11","Integer","","Recommended","Mutual Communal Behaviors Scale (MCBS) - Total Score","10::40","Sum of all responses",""

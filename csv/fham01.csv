@@ -138,7 +138,7 @@
 "fham_hospital","Integer","","Recommended","Has your child''s biological father ever been hospitalized because of emotional or mental problems, or drug or alcohol problems?","0::2","0 = Unknown; 1 = No; 2 = Yes",""
 "fham_hospital_n","String","4000","Recommended","Has your child''s biological father ever been hospitalized because of emotional or mental problems, or drug or alcohol problems?: Notes","","",""
 "fham_suicide","Integer","","Recommended","Has your child''s biological father ever attempted or committed suicide?","0::2","0 = Unknown; 1 = No; 2 = Yes",""
-"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::3","1 = Wave 1; 2 = Wave 2; 3 = Wave 3",""
+"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::4","1 = Wave 1; 2 = Wave 2; 3 = Wave 3; 4= Wave 4",""
 "fha_counsel","String","500","Recommended","Have any of your child''s relatives ever talked to a doctor or a counselor about any emotional or mental problems, or problems with alcohol or drugs?","","specify relative(s)",""
 "fha_mentalhosp","String","500","Recommended","Have any of your child''s relatives ever been hospitalized because of emotional or mental problems, or drug or alcohol problems?","","specify relative(s)",""
 "fha_suicideattempt","String","500","Recommended","Have any of your child''s relatives ever attempted suicide?","","specify relative(s)",""

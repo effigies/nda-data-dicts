@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "comments","String","4000","Recommended","Comments about assessment","","",""
-"ema_daynum","Integer","","Recommended","Ecological Momentary Assessment Day Number","1 :: 3","1 = Day 1; 2 = Day 2; 3 = Day 3","day"
+"ema_daynum","Integer","","Recommended","Ecological Momentary Assessment Day Number","","1 = Day 1; 2 = Day 2; 3 = Day 3; etc.","day"
 "ema_beepnum","Integer","","Recommended","Ecological Momentary Assessment Beep Number","1 :: 17","","beep"
 "ema_serbeepnum","Integer","","Recommended","Ecological Momentary Assessment Serial Beep Number","1 :: 51","","beep_serial"
 "hr_hrv","Float","","Recommended","Heart Rate Variability Heart Rate","1 :: 99999","",""
