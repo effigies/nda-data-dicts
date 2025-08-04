@@ -389,7 +389,7 @@
 "scid_57_p6m","Integer","","Recommended","Adult Attention-deficit/Hyperactivity Disorder: Meets Symptomatic diagnostic criteria Past 6 Months","1;3","1= Absent; 3= Threshold",""
 "scid5_rv_custom_p116","Integer","","Recommended","Acute Stress Disorder (past month)","0;1;3","0=Inadequate info; 1=Absent; 3=Threshold",""
 "scid5_rv_custom_p119","Integer","","Recommended","Adjustment Disorder (past 6 months)","0;1;3","0=Inadequate info; 1=Absent; 3=Threshold",""
-"q057_pdgmc_mon","Integer","","Recommended","Psychotic Disorder Due to General Medical Condition Past Month","0;1;3","1 = Absent;3 = Present; 0=Inadequate information",""
+"q057_pdgmc_mon","Integer","","Recommended","Psychotic Disorder Due to General Medical Condition Past Month","0::3","0 = Inadequate information; 1 = Absent; 2 = Sub-Threshold; 3 = Present",""
 "scid5_rv_custom_p120","Integer","","Recommended","Other Specified Trauma- and Stressor-Related Disorder (lifetime)","0::3","0=Inadequate info; 1=Absent; 2=Sub-threshold; 3=Threshold",""
 "s63b","Integer","","Recommended","Past month other specified trauma-and-stressor-related disorder","1;3;-7;-8;-9","1 = Absent; 3 = Present; -7 = Inadequate Information; -8 = N/A; -9 = Missing",""
 "scid_64_lp","Integer","","Recommended","Other DSM-5 Disorder: Lifetime Prevalence","0::3;-8;-9","0 = Inadequate Information; 1 = Absent; 2 = Sub-Threshold; 3 = Threshold/Present; -8 = N/A; -9 = Missing",""

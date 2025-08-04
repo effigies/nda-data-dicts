@@ -635,7 +635,7 @@
 "addsev4","Integer","","Recommended","Marijuana","0;1","0 = No;1 = Yes","cannabis"
 "any_other_drugs","Integer","","Recommended","Any other drugs or medications not prescribed to you or not taken as prescribed (e.g. steroids or pills, Anticholinergic compounds, Elavil, Thorazine, or Haldol)?","0;1","0 = No;1 = Yes","other_drugs"
 "injected_90","Integer","","Recommended","Have you injected drugs in the past 90 days?","0;1","0 = No;1 = Yes",""
-"age_injected","Integer","","Recommended","If yes, how old, in years,  were you when you first injected drugs? ","0::120","",""
+"age_injected","Integer","","Recommended","If yes, how old, in years,  were you when you first injected drugs?","0::120","",""
 "tlfb_can_day1_01","Integer","","Recommended","Day 1: Used Cannabis?","0;1","0 = Did not use; 1 = Used cannabis","tlfb_day_01_cb"
 "tlfb_can_day2_01","Integer","","Recommended","Day 2: Used Cannabis?","0;1","0 = Did not use; 1 = Used cannabis","tlfb_day_02_cb"
 "tlfb_can_day3_01","Integer","","Recommended","Day 3: Used Cannabis?","0;1","0 = Did not use; 1 = Used cannabis","tlfb_day_03_cb"

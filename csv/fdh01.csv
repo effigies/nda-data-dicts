@@ -543,7 +543,7 @@
 "p_mdh_2_i1","String","4000","Recommended","What were the doses of each of your remaining medications? Please list in the same order as the names listed above.","","",""
 "p_mdh_2_i2","String","4000","Recommended","What were your reasons for taking each of the remaining medications? Please list in the same order as the names listed above.","","",""
 "p_mdh_3","Integer","","Recommended","How much alcohol did you drink during pregnancy?","0::6","0 = None; 1 = Less than one drink per week; 2 = Between one drink and three drinks per week; 3 = Between three drinks and five drinks per week; 4 = Approximately one drink per day; 5 = Between one drink and three drinks per day; 6 = More than three drinks per day",""
-"p_mdh_4","Integer","","Recommended","Did you smoke during your pregnancy?","0;1","0 = No; 1 = Yes",""
+"p_mdh_4","Integer","","Recommended","Did you smoke during your pregnancy?","0;1;888","0 = No; 1 = Yes; 888 = Missing",""
 "p_mdh_4a","Integer","","Recommended","On average, how many packs of cigarettes did you smoke each day during your pregnancy?","","",""
 "p_mdh_5","Integer","","Recommended","Did you use any drugs during your pregnancy (including marijuana, cocaine, PCP, etc.)?","0;1","0 = No; 1 = Yes",""
 "p_mdh_5a","String","4000","Recommended","Please describe which drugs were used, when they were used and how often they were used:","","",""

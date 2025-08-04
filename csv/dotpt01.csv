@@ -73,3 +73,4 @@
 "em_first_fix_latency_incong_hn","Float","","Recommended","Emotion processing average latency to first probe fixation - incongruent happy-neutral","","",""
 "em_first_fix_latency_unit","String","20","Recommended","Emotion processing average latency to first probe fixation - Units","","",""
 "em_dwell_n_an","Float","","Recommended","Emotion processing average percent dwell time - neutral in angry-neutral","0::100","",""
+"trial","Integer","","Recommended","Trial number","0::9999; -777; -999","1 = first; 2= second; 3=third; 4=fourth; 5=fifth; 6=sixth; etc; -777=NA, -999=missing",""

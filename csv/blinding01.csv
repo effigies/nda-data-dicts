@@ -16,3 +16,5 @@
 "validity","String","13","Recommended","Validity rating","Yes;No;Questionnable","",""
 "resp_source","Integer","","Recommended","Respondent Source","1::6","1= subject; 2= parent; 3= clinician; 4= teacher; 5= trainer; 6= fidelity reviewer","source"
 "rater","Integer","","Recommended","Blinded Rater","1::3;98","1 = Trainer; 2 = Investigator; 3 = Coordinator; 97 = Other Study Staff",""
+"part_blinding","Integer","","Recommended","Participant Blinding: On a scale of 1 to 10, how sure is the participant that they received midazolam (1) or ketamine (10)?","1::10","1= Sure treatment was midazolam; 5= Neutral; 10= Sure treatment was ketamine",""
+"invest_blinding","Integer","","Recommended","Investigator Blinding: On a scale of 1 to 10, how sure are you that the participant received midazolam (1) or ketamine (10)?","1::10","1= Sure treatment was midazolam; 5= Neutral; 10= Sure treatment was ketamine",""

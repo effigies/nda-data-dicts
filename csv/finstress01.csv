@@ -10,3 +10,8 @@
 "finstress3","Integer","","Recommended","In general, how do your finances usually work out at the end of the month? Do you usually end up with some money left over, just enough to make ends meet, or not enough?","1::4;9999","1 = Most of the Time; 2 = Often; 3 = Occasionally; 4 = Not at all; 9999=NA/missing","fs_003m"
 "finstress4","Integer","","Recommended","Overall, how much do your finances stand in the way of your doing the things you want to do?","1::4;9999","1 = Most of the Time; 2 = Often; 3 = Occasionally; 4 = Not at all; 9999=NA/missing","fs_004m"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
+"depend_money","Integer","","Recommended","Do you depend on anyone for money to meet your basic living expenses?","0;1;-99;-999","0 = No; 1 = Yes; -99 = Refuse to answer; -999 = Don't know",""
+"ends_meet_worry","Integer","","Recommended","In the last month, did you worry about making ends meet?","0;1;-99;-999","0 = No; 1 = Yes; -99 = Refuse to answer; -999 = Don't know",""
+"health_affordability","Integer","","Recommended","In the last month, did you worry about not being able to afford health services?","0;1;-99;-999","0 = No; 1 = Yes; -99 = Refuse to answer; -999 = Don't know",""
+"clinic_no_travel_funds","Integer","","Recommended","In the last month, did you not travel to the clinic because you were lacking funds?","0;1;-99;-999","0 = No; 1 = Yes; -99 = Refuse to answer; -999 = Don't know",""
+"not_takingart_funds","Integer","","Recommended","In the last month, did you not take your HIV medications because you were lacking funds?","0;1;-99;-999","0 = No; 1 = Yes; -99 = Refuse to answer; -999 = Don't know",""

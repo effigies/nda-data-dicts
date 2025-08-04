@@ -45,3 +45,8 @@
 "medahr5","Integer","","Recommended","Past 12 months: Did you skip medication doses to save money?","0;1","0= No; 1= Yes",""
 "medahr6","Integer","","Recommended","Past 12 months: Did you take less medication to save money?","0;1","0= No; 1= Yes",""
 "medahr7","Integer","","Recommended","Past 12 months: Did you delay filling a prescription to save money?","0;1","0= No; 1= Yes",""
+"mar_horn_1","Integer","","Recommended","I take less than instructed","1::5;-99","1 = Strongly Disagree; 2 = Moderately Disagree; 3 = Neither Agree nor Disagree; 4 = Moderately Agree; 5 = Strongly Agree; -99 = Refuse to Answer",""
+"mar_horn_2","Integer","","Recommended","I stop taking it for a while","1::5;-99","1 = Strongly Disagree; 2 = Moderately Disagree; 3 = Neither Agree nor Disagree; 4 = Moderately Agree; 5 = Strongly Agree; -99 = Refuse to Answer",""
+"mar_horn_3","Integer","","Recommended","I miss out on doses","1::5;-99","1 = Strongly Disagree; 2 = Moderately Disagree; 3 = Neither Agree nor Disagree; 4 = Moderately Agree; 5 = Strongly Agree; -99 = Refuse to Answer",""
+"mar_horn_4","Integer","","Recommended","I alter the dose","1::5;-99","1 = Strongly Disagree; 2 = Moderately Disagree; 3 = Neither Agree nor Disagree; 4 = Moderately Agree; 5 = Strongly Agree; -99 = Refuse to Answer",""
+"mar_horn_5","Integer","","Recommended","I forget to take it","1::5;-99","1 = Strongly Disagree; 2 = Moderately Disagree; 3 = Neither Agree nor Disagree; 4 = Moderately Agree; 5 = Strongly Agree; -99 = Refuse to Answer",""
