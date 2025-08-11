@@ -76,3 +76,7 @@
 "swl_3","Integer","","Recommended","I am satisfied with my life.","1::7","1=Strongly Disagree; 2=Disagree; 3=Slightly Disagree; 4=Neither Agree nor Disagree; 5= Slightly Agree; 6=Agree; 7= Strongly Agree",""
 "swl_4","Integer","","Recommended","So far I have gotten the important things I want in life.","1::7","1=Strongly Disagree; 2=Disagree; 3=Slightly Disagree; 4=Neither Agree nor Disagree; 5= Slightly Agree; 6=Agree; 7= Strongly Agree",""
 "swl_5","Integer","","Recommended","If I could live my life over, I would change almost nothing.","1::7","1=Strongly Disagree; 2=Disagree; 3=Slightly Disagree; 4=Neither Agree nor Disagree; 5= Slightly Agree; 6=Agree; 7= Strongly Agree",""
+"slpf1","Integer","","Recommended","How happy have you been with life in the past 90 days (3 months)?","0;1","0 = Unhappy; 1 = Happy",""
+"slpf2","Integer","","Recommended","How happy have you been with your living situation in the past 90 days (3 months)?","0;1","0 = Unhappy; 1 = Happy",""
+"slpf3","Integer","","Recommended","How happy have you been with relationships in the past 90 days (3 months)?","0;1","0 = Unhappy; 1 = Happy",""
+"slpf4","Integer","","Recommended","Did you feel satisfied with leisure/social/recreational activities in the past 90 days (3 months)?","0;1","0 = Dissatisfied; 1 = Satisfied",""

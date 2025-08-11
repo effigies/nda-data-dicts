@@ -99,3 +99,4 @@
 "psysoc_244","Integer","","Recommended","Total income for the last month  (Amt Available to You)","0::9999999","","income_available_last_month"
 "cog_session","Integer","","Recommended","Number of CRT sessions attended","","","num_1_on_1_sessions"
 "comp_session","Integer","","Recommended","Number of Computer sessions attended","","","num_comp_sessions"
+"yqbo036","Integer","","Recommended","Have you ever been homeless for a week or longer?","0;1;-99","0= No; 1= Yes; -99= NA or Refused",""

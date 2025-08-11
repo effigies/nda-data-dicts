@@ -50,3 +50,5 @@
 "pbcl43","Integer","","Recommended","Has problems with personal hygiene; for example, forgets to bathe, wash hands, brush teeth.","0;1;999","0=No; 1=Yes; 999=Don't know",""
 "pbcl44","Integer","","Recommended","Has had problems with sexual functioning, such as inappropriate masturbation; inappropriate touching of others; other unusual sexual activity.","0;1;999","0=No; 1=Yes; 999=Don't know",""
 "pbcl11a","Integer","","Recommended","Talks too much and too fast.","0;1;999","0=No; 1=Yes; 999=Don''t know",""
+"pbcl34a","Integer","","Recommended","Can't take a hint; needs strong, clear commands because the fine points escape him/her.","0;1;999","0=No; 1=Yes; 999=Don't know",""
+"pbcl45","Integer","","Recommended","PBCL (Personal Behaviors Checklist) Score","0::36","Sum of pbcl11 to pbcl44 including pcbl11a and pcbl34a",""

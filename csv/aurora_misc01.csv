@@ -11,7 +11,7 @@
 "wc_confirm_other","String","100","Recommended","WebChallenge - Reason For Not Completing [Specify]","","",""
 "saq","Integer","","Recommended","Self-administered type of survey","0 :: 1","0=No (INTERVIEW); 1=Yes (SAQ)",""
 "misc_saliva","Integer","","Recommended","saliva sample collected","0;1","0=No; 1=Yes","saliva"
-"misc_blood","Integer","","Recommended","Blood sample collected","0 :: 1","0=No; 1=Yes","blood"
+"misc_blood","Integer","","Recommended","Blood sample collected","0;1;999;-10","0=No; 1=Yes; 999=Not applicable; -10=Missing","blood"
 "paymentverificationdocument","Integer","","Recommended","Payment given to participant","0 :: 1","0=No; 1=Yes",""
 "incentiveprovided","Integer","","Recommended","Incentive provided to participant","0 :: 1","0=No; 1=Yes",""
 "instrumentreleasedate","Date","","Recommended","Release date of survey","","MM/DD/YYYY",""

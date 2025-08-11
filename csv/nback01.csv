@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "fnetp","String","20","Recommended","pre, post, follow up 6 or 12","","","nbacktp"
 "experimentname","String","50","Recommended","NBack_Version1_updated","","",""
-"nbacksess","Integer","","Recommended","task session number","1::3","",""
+"nbacksess","Integer","","Recommended","task session number","1::4","",""
 "fneclockinfo","String","1000","Recommended","detailed information on clock used by software to run task and detailed timestamp","","","nbackclock_info"
 "fnedatbase","String","20","Recommended","task data file version used","","","nbackdatafile_basename"
 "fnerefrate","String","20","Recommended","display used refresh rate as detected at start of task","","in Hz","nbackdisplay_refreshrate"

@@ -198,7 +198,7 @@
 "bpl","Integer","","Recommended","Bipolar lifetime","0::3","0 = Inadequate Information;1 = Absent;2 = Sub-Threshold;3 = Threshold","sc_sz18"
 "bpc","Integer","","Recommended","Bipolar current","1::3","1 = Absent;3 = Present; 2=Subtreshold","sc_sz19"
 "bptype","Integer","","Recommended","Bipolar type","1::3","1=Manic; 2=Depressed; 3=Mixed",""
-"bpsev","Integer","","Recommended","Bipolar severity","1::5","1 = Mild;2 = Moderate;3 = Severe without Psychotic Features;4 = Severe with Mood Congruent Psychotic Features;5 = Severe with Mood-Incongruent Psychotic Features",""
+"bpsev","Integer","","Recommended","Bipolar severity","0::5;9","0=Not applicable; 1 = Mild; 2 = Moderate; 3 = Severe without Psychotic Features; 4 = Severe with Mood Congruent Psychotic Features; 5 = Severe with Mood-Incongruent Psychotic Features; 9=Unknown",""
 "depsnpdl","Integer","","Recommended","Depressive syndrome superimposed on chronic psychotic disorder lifetime","0::3","0 = Inadequate Information;1 = Absent;2 = Sub-Threshold;3 = Threshold",""
 "depsnpdc","Integer","","Recommended","Depressive syndrome superimposed on chronic psychotic disorder current","1;3","1 = Absent;3 = Present",""
 "gadc","Integer","","Recommended","Generalized Anxiety Disorder current","0::3; -999","0 = Inadequate Information;1 = Absent;2 = Sub-Threshold;3 = Threshold; -999=NA/NK/Missing","gad_cur,scid32"

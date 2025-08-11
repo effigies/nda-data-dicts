@@ -90,3 +90,5 @@
 "ksads_dxalc","Integer","","Recommended","ALCOHOL USE: CURRENT Dx","0;1","0= No; 1= Yes",""
 "ksads_cps","Integer","","Recommended","PAST OR PRESENT CHILD PROTECTIVE SERVICES (CPS) INVOLVEMENT","0;1","0= No; 1= Yes",""
 "ksads_sui","Integer","","Recommended","HISTORY OF SUICIDAL IDEATION OR SELF HARM","0;1","0= No; 1= Yes",""
+"ksads_dxocdc","Integer","","Recommended","OBSESSIVE-COMPULSIVE DISORDER: CURRENT Dx","0;1","0= No; 1= Yes",""
+"ksads_dxasd","Integer","","Recommended","AUTISM SPECTRUM DISORDER: CURRENT Dx","0;1","0= No; 1= Yes",""

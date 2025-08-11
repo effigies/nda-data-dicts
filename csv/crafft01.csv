@@ -55,3 +55,4 @@
 "cimjy","Integer","","Recommended","Past 12 months, days of cannabis use","0::365","number of days",""
 "cimj3","Integer","","Recommended","Past 3 months, days of cannabis use","0::93","number of days",""
 "cidrugy","Integer","","Recommended","Past 12 months, days of other drug use","0::365","number of days",""
+"crafft_a_4","Integer","","Recommended","Did you use any tobacco or nicotine products (for example, cigarettes, e-cigarettes, hookahs or smokeless tobacco)? Put ''0'' if none.","0;1","0 = No; 1 = Yes",""

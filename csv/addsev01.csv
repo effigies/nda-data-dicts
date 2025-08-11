@@ -404,3 +404,7 @@
 "asi_controlled_env","Integer","","Recommended","Have you been in a controlled environment in the past 30 days?","0::5;-99","0= No; 1= Jail; 2= Alcohol or Drug Treatment; 3= Medical Treatment; 4= Psychiatric Treatment; 5= Other; -99= Did not Answer/Missing Data",""
 "psycsoc_94c","Integer","","Recommended","How many times in the past 30 days did you have alcohol to the point of intoxication?","","-99= Did Not answer/Missing Data",""
 "asi_psych02c","String","4000","Recommended","Description of psychiatric diagnosis, if applicable","","",""
+"asi90_1","Integer","","Recommended","Have you experienced any of the following (that was not a direct result of drug/alcohol use) in the last 90 days (3 months) - Serious depression","0;1","0 = No; 1 = Yes",""
+"asi90_2","Integer","","Recommended","Have you experienced any of the following (that was not a direct result of drug/alcohol use) in the last 90 days (3 months) - Serious anxiety or tension","0;1","0 = No; 1 = Yes",""
+"asi90_3","Integer","","Recommended","Have you experienced any of the following (that was not a direct result of drug/alcohol use) in the last 90 days (3 months) - Trouble understanding, concentrating, or remembering","0;1","0 = No; 1 = Yes",""
+"qq_work1","Integer","","Recommended","Are you currently employed (working for pay)?","0;1","0=No; 1=Yes",""

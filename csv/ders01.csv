@@ -204,3 +204,8 @@
 "dersh5","Integer","","Recommended","When I am happy, I become out of control.","1::5","1=Almost Never; 2=Sometimes; 3=About Half the Time; 4=Most of the Time; 5=Almost Always",""
 "dersh6","Integer","","Recommended","When I am happy, I become scared and fearful of those feelings.","1::5","1=Almost Never; 2=Sometimes; 3=About Half the Time; 4=Most of the Time; 5=Almost Always",""
 "dersh7","Integer","","Recommended","When I am happy, I have difficulty concentrating.","1::5","1=Almost Never; 2=Sometimes; 3=About Half the Time; 4=Most of the Time; 5=Almost Always",""
+"ders5_alt","Integer","","Recommended","When I'm upset, I care about what I am feeling.","1::5;-99","1=Almost never; 2=Sometimes; 3=About half of the time; 4=Most of the time; 5=Almost always; -99= Prefer not to respond",""
+"ders6_alt","Integer","","Recommended","When I'm upset, I am confused about how I feel.","1::5;-99","1=Almost never; 2=Sometimes; 3=About half of the time; 4=Most of the time; 5=Almost always; -99= Prefer not to respond",""
+"ders12_alt","Integer","","Recommended","When I'm upset, I have difficulty making sense out of my feelings.","1::5;-99","1=Almost never; 2=Sometimes; 3=About half of the time; 4=Most of the time; 5=Almost always; -99= Prefer not to respond",""
+"ders17_alt","Integer","","Recommended","When I'm upset, I pay attention to how I feel.","1::5;-99","1=Almost never; 2=Sometimes; 3=About half of the time; 4=Most of the time; 5=Almost always; -99= Prefer not to respond",""
+"ders18_alt","Integer","","Recommended","When I'm upset, I have no idea how I am feeling.","1::5;-99","1=Almost never; 2=Sometimes; 3=About half of the time; 4=Most of the time; 5=Almost always; -99= Prefer not to respond",""

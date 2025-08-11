@@ -709,3 +709,8 @@
 "sipd53","Integer","","Recommended","Substance-Induced Psychotic Disorder: Symptoms Persist After Withdrawal or Intoxication","0;1;3;9","0=Missing; 1=False; 3=True; 9=No Info",""
 "sipd54","Integer","","Recommended","Substance-Induced Psychotic Disorder: In Excess of Would be Expected","0;1;3;9","0=Missing; 1=False; 3=True; 9=No Info",""
 "sipd55","Integer","","Recommended","Substance-Induced Psychotic Disorder: Evidence of Independent Non-Substance-Induced Psychotic Disorder","0;1;3;9","0=Missing; 1=False; 3=True; 9=No Info",""
+"bpsev","Integer","","Recommended","Bipolar severity","0::5;9","0=Not applicable; 1 = Mild; 2 = Moderate; 3 = Severe without Psychotic Features; 4 = Severe with Mood Congruent Psychotic Features; 5 = Severe with Mood-Incongruent Psychotic Features; 9=Unknown","bpixg"
+"bpixh","Integer","","Recommended","Mood Differential: Status of current or most recent Bipolar I episode","0::2;9","0=No remission; 1=Partial remission; 2=Complete remission; 9=Missing",""
+"bpiixb","Integer","","Recommended","Mood Differential: Type of current or most recent Bipolar II episode","0::2;9","0=Not applicable; 1=Hypomanic episode; 2=Major depressive episode; 9=Missing",""
+"mddxc","Integer","","Recommended","Mood Differential: Severity of Major Depressive Disorder (1,2,3,4,5)","0::5;9","0=Not Applicable; 1=Mild; 2=Moderate; 3=Severe but not psychotic; 4=Severe, mood-congruent psychotic; 5=Severe, mood-incongruent psychotic; 9=Unknown",""
+"mddxd","Integer","","Recommended","Mood Differential: Status of current or most recent Major Depressive Disorder episode","0::2;9","0=No remission; 1=Partial remission; 2=Complete remission; 9=Missing",""
