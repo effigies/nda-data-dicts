@@ -17,3 +17,6 @@
 "breath_datetime_n","String","50","Recommended","Nth Attempt; Today's Date and Time","","",""
 "breath_result_n","Float","","Recommended","Nth Attempt, Breathalyzer Result","","(concentration in g/100mL)",""
 "eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
+"breath_result_7pm","Float","","Recommended","Please submit a breath sample to your breathalyzer now: 7pm","","BrAC value recorded via BACtrack device. Value reflects the raw numerical output from the breathalyzer at the 7PM timepoint; no predefined range is imposed.",""
+"breath_result_9pm","Float","","Recommended","Please submit a breath sample to your breathalyzer now: 9pm","","BrAC value recorded via BACtrack device. Value reflects the raw numerical output from the breathalyzer at the 9PM timepoint; no predefined range is imposed.",""
+"breath_result_11pm","Float","","Recommended","Please submit a breath sample to your breathalyzer now: 11pm","","BrAC value recorded via BACtrack device. Value reflects the raw numerical output from the breathalyzer at the 11PM timepoint; no predefined range is imposed.",""

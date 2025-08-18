@@ -41,3 +41,8 @@
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "sv_mcsds_total","Integer","","Recommended","Shortened Version MCSDS Total Score","0::20","Sum of only questions 2,4,6,11,12,14,15,16,17,19,20,21,22,23,24,25,26,28,30 and 33 of the full version of the full MCSDS",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"soc_des01","Integer","","Recommended","Would you smile at people every time you meet them?","0;1","0= False; 1= True",""
+"soc_des02","Integer","","Recommended","Do you always practice what you preach to people?","0;1","0= False; 1= True",""
+"soc_des03","Integer","","Recommended","If you say to people that you will do something, do you always keep your promise no matter how inconvenient it might be?","0;1","0= False; 1= True",""
+"soc_des04","Integer","","Recommended","Would you ever lie to people?","0;1","0= False; 1= True",""
+"soc_total","Integer","","Recommended","Total Social Desirability Scale score- BRIEF version","0::4","Sum of soc_des01 to soc_des04",""

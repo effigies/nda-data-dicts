@@ -16,6 +16,6 @@
 "attention_shift","Integer","","Recommended","Shift or hold trial","1;2","1=Hold; 2=Shift",""
 "parity_response_key","Integer","","Recommended","Parity response made","1;2","1=Odd button; 2=Even button",""
 "responsetime","Float","","Recommended","Response Time (ms)","","",""
-"accurate_parity_judgment","Integer","","Recommended","Accuracy of the parity response","1:2;88;99","1=Error; 2=Accurate; 88=Aborted trial; 99=Invalid trial",""
+"accurate_parity_judgment","Integer","","Recommended","Accuracy of the parity response","1;2;88;99","1=Error; 2=Accurate; 88=Aborted trial; 99=Invalid trial",""
 "location_group","Integer","","Recommended","Location associated with equal shift and hold likelihood","1::3","1=Left; 2=Right; 3=Center",""
 "session_number","Integer","","Recommended","Session number","","",""

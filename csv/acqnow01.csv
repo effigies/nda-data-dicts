@@ -174,7 +174,7 @@
 "acq_sf8","Integer","","Recommended","Drinking would not be very satisfying.","1::7","1=Strongly Disagree; 7=Strongly Agree",""
 "acq_sf9","Integer","","Recommended","I would feel less restless if I drank less.","1::7","1=Strongly Disagree; 7=Strongly Agree",""
 "acq_sf10","Integer","","Recommended","If I were using alcohol, I would feel less nervous.","1::7","1=Strongly Disagree; 7=Strongly Agree",""
-"sexualorient","Integer","","Recommended","The next question is about your sexual orientation. Do you consider yourself to be…","1::4","1=Straight or heterosexual; 2=Gay or lesbian; 3=Bisexual; 4=Prefer to self describe:__________",""
+"sexualorient","Integer","","Recommended","The next question is about your sexual orientation. Do you consider yourself to be…","1::7","1=Straight or heterosexual; 2=Gay or lesbian; 3=Bisexual; 4=Prefer to self describe:__________; 5= Asexual; 6=Pansexual; 7= Prefer not to say",""
 "demo_sex_orient_other","String","20","Recommended","If you selected Other for sexual orientation, please specify.","","",""
 "religpractice","Integer","","Recommended","How actively do you practice a religion that discourages drinking alcohol?","1::3","1=Not at all actively; 2=Somewhat actively; 3=Very actively",""
 "partyid","Integer","","Recommended","Do you consider yourself a Democrat, a Republican, an Independent, or something else?","1::6","1=Democrat; 2=Lean Democrat; 3=Lean Republican; 4=Republican; 5=Independent; 6=Something else (please describe): ____",""

@@ -636,7 +636,7 @@
 "db4_sitbi_r","Integer","","Recommended","How old were you at the worst point?","","Age in years",""
 "sp17_sitbi_r","Integer","","Recommended","At the worst point, how frequently have you/your child thought about your suicide plan(s)?","1::8","1 = Every or nearly every day; 2 = 3-4 days a week; 3 = 1-2 days a week; 4 = 1-2 days a month; 5 = Less than once a month; 6 = 1-2 days per year; 7 = Less than once a year; 8 = Never","stb_sp_17"
 "sprep1_sitbi_r","Integer","","Recommended","Have you ever done something to prepare to make a suicide attempt? This includes things like gaining access to method, looking up a method online, writing a suicide note, updating your will, saying goodbye, etc.?","0;1","0=No; 1=Yes",""
-"sprep1a_sitbi_r","Integer","","Recommended","If yes, what have you done? Please list each of the things that you''ve done to prepare to make a suicide attempt.","","",""
+"sprep1a_sitbi_r","String","500","Recommended","If yes, what have you done? Please list each of the things that you''ve done to prepare to make a suicide attempt.","","",""
 "sprep2_sitbi_r","Integer","","Recommended","On a scale from 0-4, when you did those things, how confident were you that you were going to try to kill yourself? (If you''ve taken steps multiple times, report the average.)","0::4","0 = Not At All; 1 = A Little Bit; 2 = Somewhat; 3 = Very Much; 4 = Extremely",""
 "st_g1_sitbi_r","Integer","","Recommended","Have you ever said or done something to purposely lead someone to believe that you wanted to kill yourself?","0;1","0=No; 1=Yes",""
 "st_g2_sitbi_r","Integer","","Recommended","How old were you the first time you said or did something like this? (suicidal threat/gesture)","","",""
