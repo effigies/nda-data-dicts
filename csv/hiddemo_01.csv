@@ -11,7 +11,7 @@
 "income_1","Integer","","Recommended","Estimated household income per year","1::5","1 = $0 to $25,000; 2 = $25,001 to $50,000; 3 = $50,001 to $75,000; 4 = $75,001 to $100,000; 5 = Above $100,000",""
 "sex_orientation","Integer","","Recommended","Do you consider your sexual orientation to be:","1::5;-2;-3;-9::-7;-5","1 = Heterosexual or straight; 2 = Gay or lesbian; 3 = Bisexual; 4 = Questioning; 5 = Other please describe (text entry box); -2= Not collected at this time point; -3= Historical missing;  -7= Prefer not to say; -8= Unsure/Do not know; -9= Missing;-5=Item/Instrument not collected",""
 "sex_orientation_other","String","250","Recommended","Do you consider your sexual orientation to be: Specify other","","",""
-"empcur","Integer","","Recommended","Currently employed","0;1; -99; 77; 88","0 = No; 1 = Yes; -99= N/A ; 88= Missing ; 77= Refused",""
+"empcur","Integer","","Recommended","Currently employed","0;1; -99; 77; 88;-999","0 = No; 1 = Yes; -99= N/A ; 88= Missing ; 77= Refused; -999= Do not know",""
 "job_dur","Integer","","Recommended","If YES, are you currently employed, about how long have you worked at your current job or business?","","",""
 "num_child","Integer","","Recommended","Do you have any children?","","Number of children (0 if none)",""
 "cmed_dxyn","Integer","","Recommended","Are you currently diagnosed with any medical disorders?","1;2","1 = No; 2 = Yes",""

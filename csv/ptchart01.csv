@@ -71,7 +71,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","tpid"
 "days_baseline","Integer","","Recommended","Days since baseline","","",""
 "monthsbl","Float","","Recommended","Actual number of months from Baseline","","",""
-"chldyn","Integer","","Recommended","Does the client/subject have children?","0;1","0=No; 1=Yes",""
+"chldyn","Integer","","Recommended","Does the client/subject have children?","0;1;-99","0=No; 1=Yes; -99= Missing",""
 "numchild","Integer","","Recommended","number of children","","",""
 "chldlvyn","Integer","","Recommended","Do the client's child(ren) live in the same household?","1::3","1=Yes, all the children live with the client; 2=Yes, some of the children live with the client;3=No, none of the children live with the client;",""
 "children_household","Integer","","Recommended","Number children household","","",""

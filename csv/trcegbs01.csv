@@ -41,3 +41,7 @@
 "trust_in_ins_2","Integer","","Recommended","How much confidence do you have in - The police","1::5","1 = No confidence at all; 2 = Not very much; 3 = A fair amount; 4 = Quite a lot; 5 = A great deal",""
 "trust_in_ins_3","Integer","","Recommended","How much confidence do you have in - The government","1::5","1 = No confidence at all; 2 = Not very much; 3 = A fair amount; 4 = Quite a lot; 5 = A great deal",""
 "trust_in_ins_4","Integer","","Recommended","How much confidence do you have in - The healthcare system","1::5","1 = No confidence at all; 2 = Not very much; 3 = A fair amount; 4 = Quite a lot; 5 = A great deal",""
+"trust_people","Integer","","Recommended","Generally speaking, would you say that most people can be trusted, or that you can't be too careful in dealing with people?","1::10;-99","1= You can't be too careful; 10= Most people can be trusted; -99= Missing data",""
+"pol_trust_doctors","Integer","","Recommended","How much do you trust the following people and organizations to do what is right? - Hospitals and doctors","1::4;-99","1= Not at all; 2= Not too much; 3= Some; 4= A lot; -99= Missing data",""
+"doc_trust","Integer","","Recommended","How much do you trust doctors to do what is right?","1::4;-99","1= Not at all; 2= Not too much; 3= Some; 4= A lot; -99= Missing data",""
+"hosp_trust","Integer","","Recommended","How much do you trust hospitals to do what is right?","1::4;-99","1= Not at all; 2= Not too much; 3= Some; 4= A lot; -99= Missing data",""

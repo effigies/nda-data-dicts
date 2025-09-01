@@ -49,3 +49,8 @@
 "rtc_ruler","Integer","","Recommended","How do you feel about changing your current drinking right now?","0::6","0= I never think about drinking less; 2= Sometimes I think about drinking less; 4= I have decided to drink less; 6= I am already trying to cut back on my drinking ",""
 "redr1","Integer","","Recommended","On a scale from 0 to 10, how ready are you right now to reduce or stop your drinking?","0::10","0= Not ready; 10= Ready",""
 "readrule2","Integer","","Recommended","Which statement best indicates where you are right now in thinking about drinking?","1::5","1= Not ready to reduce or stop; 2= Not sure; 3= Thinking about reducing or stopping; 4= Plan to reduce or stop in the next month; 5= Already reduced or stopped",""
+"rtcq01","Integer","","Recommended","RIGHT NOW, how important is it to you to cut down or quit using alcohol?","1::10","1=Not at all important; 10=Very important",""
+"rtcq02","Integer","","Recommended","RIGHT NOW, how ready are you to cut down or quit using alcohol?","1::10","1=Not at all ready; 10=Very ready",""
+"rtcq03","Integer","","Recommended","In the NEXT 2 MONTHS, how much do you want help for your alcohol use?","1::10","1=No help wanted; 10=Very much want help",""
+"rtcq04","Integer","","Recommended","In the NEXT 2 MONTHS, how confident are you that you could reduce your alcohol use if you wanted to?","1::10","1=Not confident at all; 10=Very confident",""
+"rtcq05","Integer","","Recommended","In the NEXT 2 MONTHS, how confident are you that you will reduce your alcohol use?","1::10","1=Not confident at all; 10=Very confident",""

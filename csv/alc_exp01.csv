@@ -115,3 +115,5 @@
 "posoutcome5_nd","Integer","","Recommended","Yesterday/last night (when you did not drink alcohol), did you: Relax well after a stressful situation?","0;1","0=No; 1=Yes",""
 "posoutcome6_nd","Integer","","Recommended","Yesterday/last night (when you did not drink alcohol), did you: Cope well with daily life?","0;1","0=No; 1=Yes",""
 "posoutcome7_nd","Integer","","Recommended","Yesterday/last night (when you did not drink alcohol), did you: Feel exciting to others?","0;1","0=No; 1=Yes",""
+"motive_rn","Integer","","Recommended","What is your main reason for drinking right now?","1::5;99","1=To cope with stress; 2=To have more fun; 3=To feel more social; 4=To ''fit in'' with others; 5=Because I am bored; 99=None of these",""
+"motive_drink","Integer","","Recommended","What is your main reason for drinking?","1::5;99","1=To cope with stress; 2=To have more fun; 3=To feel more social; 4=To ''fit in'' with others; 5=Because I am bored; 99=None of these",""

@@ -219,4 +219,4 @@ Did you work any ""Off the Books"" jobs during this period?","0; 1","1= Yes; 0= 
 "tlfbw_192","Integer","","Recommended","Number of hours during 30 day interval 8 (or during the furthest period going back to previous interview date):","","",""
 "tlfbw_193","Integer","","Recommended","Where else does the money you live on come from? (Indicate all that apply)","1::6;99","1= Money from my parents or other adult relatives; 2= Money from my partner/spouse; 3= Child support and/or alimony payments; 4= Welfare; 5= SSI (includes disability income); 6= Survivor benefits; 99= Other",""
 "tlfbw_194","String","100","Recommended","Where else does the money you live on come from? (Indicate all that apply) Other, specify:","","",""
-"tlfbw_195","Integer","","Recommended","Are you currently looking for a job?","0; 1","1= Yes; 0= No",""
+"tlfbw_195","Integer","","Recommended","Are you currently looking for a job?","0;1;-99","0= No; 1= Yes; -99= Missing data",""

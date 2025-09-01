@@ -16,3 +16,4 @@
 "flourish_10","Integer","","Recommended","My relationships are as satisfying as I would want them to be.","0::10","0 = Strongly disagree; 10 = Strongly agree",""
 "flourish_11","Integer","","Recommended","How often do you worry about being able to meet normal monthly living expenses?","0::10","0 = Worry all the time; 10 = Do not ever worry",""
 "flourish_12","Integer","","Recommended","How often do you worry about safety, food, or housing?","0::10","0 = Worry all the time; 10 = Do not ever worry",""
+"satisfied_2","Integer","","Recommended","Overall, how satisfied are you with your friendships and relationships?","0::10;-99","0 = Not satisfied at all; 10 = Completely satisfied; -99= Missing data",""

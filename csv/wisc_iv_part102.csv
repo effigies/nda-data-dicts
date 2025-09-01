@@ -185,7 +185,7 @@
 "digitspan_ldsf","Integer","","Recommended","LDSF","0 :: 9","","Wisc_iv_DigitSpan_LDSF,digitspan_longforward"
 "digitspan_dsfscore","Integer","","Recommended","Digit Span Forward (DSF) Total Raw Score","0 :: 16","","Wisc_iv_DigitSpan_DSFScore"
 "digitspan_ldsb","Integer","","Recommended","LDSB","0 :: 8","","Wisc_iv_DigitSpan_LDSB,digitspan_longbackward"
-"digitspan_dsbscore","Integer","","Recommended","Digit Span Backward (DSB) Total Raw Score","0 :: 16","0::14 for WISC-III; 0::16 for WISC-IV","Wisc_iv_DigitSpan_DSBScore"
+"digitspan_dsbscore","Integer","","Recommended","Digit Span Backward (DSB) Total Raw Score","0::18","0::14 for WISC-III; 0::16 for WISC-IV; 0::18 for WISC-V","Wisc_iv_DigitSpan_DSBScore"
 "digitspan_score","Integer","","Recommended","Total Raw Score","0 :: 54","0::30 for WISC-III; 0::32 for WISC-IV; 54 - WISC V","Digit_Span_Raw,Wisc_iv_DigitSpan_Score"
 "picconcepts_itemaresp","String","50","Recommended","Item A - Response","","","Wisc_iv_PicConcepts_ItemAResp"
 "picconcepts_itembresp","String","50","Recommended","Item B - Response","","","Wisc_iv_PicConcepts_ItemBResp"

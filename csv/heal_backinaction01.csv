@@ -10,7 +10,7 @@
 "randmonthyear","String","10","Recommended","Randomization month and year to conduct time trend analyses","","Format should be MM/YYYY",""
 "ca10","Float","","Recommended","Age (years)","","","age"
 "bia_age_c","Integer","","Recommended","Age category (if over 65)","1::3","1=65-74; 2=75-84; 3=85 or older","age_c"
-"bia_gender_id","Integer","","Recommended","Gender Survey: What is your current gender identity?","1::6","1=Woman; 2=Man; 3=Transgender Woman/Transgender Female; 4=Transgender Man/Transgender Male; 5=Genderqueer; 6=Something else","gender_id"
+"bia_gender_id","Integer","","Recommended","Gender Survey: What is your current gender identity?","1::6;96;99","1=Woman; 2=Man; 3=Transgender Woman/Transgender Female; 4=Transgender Man/Transgender Male; 5=Genderqueer; 6=Something else; 96=None of these describe me; 99=Prefer not to answer","gender_id"
 "bia_male","Integer","","Recommended","Indicate whether subject is male or female/Intersex","0;1","0=Female/Intersex; 1=Male","male"
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
 "ethnic_group","String","255","Recommended","Ethnic group","","","ethnicity_other"

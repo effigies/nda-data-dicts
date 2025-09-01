@@ -148,7 +148,7 @@
 "alcyest3","String","5","Recommended","Yesterday - What time did you have your last drink of alcohol?","","HH:MM clock time",""
 "alcyest4","String","50","Recommended","Yesterday - Where did you drink alcohol?","","RECORD ALL NUMBERS THAT APPLY, SEPARATE WITH SEMICOLONS; 1= Bar/pub; 2= My home (apartment, dorm, house); 3= House party; 4= Organized event (a bridal shower, school-related function, etc.); 5= Concert; 6= Restaurant; 7= Parade; 8= Friend's house; 9= Other; 10= Boyfriend's/Girlfriend's/Partner's place; 11= Bar/Club; 12= Walking somewhere; 13= Major entertainment event (sports, tailgate, concert)",""
 "alcyest4b","String","100","Recommended","Yesterday - Where did you drink alcohol? Other place, specify","","",""
-"alcyest5","String","50","Recommended","Yesterday - Who did you drink alcohol with?","","RECORD ALL NUMBERS THAT APPLY, SEPARATE WITH SEMICOLONS; 1= Alone; 2= Friends; 3= Strangers; 4= Parent(s); 5= Sibling (brother or sister); 6= Other family member; 7= Romantic partner; 8= Co-workers; 9= Other",""
+"alcyest5","String","50","Recommended","Yesterday - Who did you drink alcohol with?","","RECORD ALL NUMBERS THAT APPLY, SEPARATE WITH SEMICOLONS; 1= Alone; 2= Friends; 3= Strangers; 4= Parent(s); 5= Sibling (brother or sister); 6= Other family member; 7= Romantic partner; 8= Co-workers; 9= Other; 10= Large Group",""
 "alcyest5b","String","100","Recommended","Yesterday - Who did you drink alcohol with? Other person, specify","","",""
 "alcyest5c","Integer","","Recommended","Yesterday - Did the person or people you were with also drink alcohol?","0;1","0=No; 1=Yes",""
 "urge1","Integer","","Recommended","Right now, I have an urge to drink alcohol.","1::5","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree",""

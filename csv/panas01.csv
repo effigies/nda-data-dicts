@@ -390,3 +390,6 @@
 "affect_irritated","Integer","","Recommended","","How IRRITATED have you felt over the past month?","1::7;-88","1= Not at all; 7= Very much;-88= Refused",""
 "affect_tired","Integer","","Recommended","","How TIRED have you felt over the past month?","1::7;-88","1= Not at all; 7= Very much;-88= Refused",""
 "affect_down","Integer","","Recommended","","How DOWN have you felt over the past month?","1::7;-88","1= Not at all; 7= Very much;-88= Refused",""
+"ema_studyday","Integer","","Recommended","","Day of the EMA collection","1::14","",""
+"emadatetime","String","20","Recommended","","Date and time of EMA collection","","",""
+"ema_weekday","Integer","","Recommended","","Day of the week for the EMA collection","1::7","1= Sunday; 2= Monday; 3= Tuesday; 4= Wednesday; 5= Thursday; 6= Friday; 7= Saturday",""

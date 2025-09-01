@@ -60,3 +60,6 @@
 "baes_month_05","Integer","","Recommended","During the past month, to what extent has drinking alcohol made you feel like you had a heavy head?","0::10","0 = Not at all; 10 = Extremely",""
 "baes_month_06","Integer","","Recommended","During the past month, to what extent has drinking alcohol made you feel inactive?","0::10","0 = Not at all; 10 = Extremely",""
 "baes_month_07","Integer","","Recommended","During the past month, to what extent has drinking alcohol made you feel sedated?","0::10","0 = Not at all; 10 = Extremely",""
+"ema_studyday","Integer","","Recommended","Day of the EMA collection","1::14","",""
+"emadatetime","String","20","Recommended","Date and time of EMA collection","","",""
+"ema_weekday","Integer","","Recommended","Day of the week for the EMA collection","1::7","1= Sunday; 2= Monday; 3= Tuesday; 4= Wednesday; 5= Thursday; 6= Friday; 7= Saturday",""

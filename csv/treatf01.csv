@@ -132,7 +132,7 @@
 "itsc_endage","Integer","","Recommended","ITSC. Age at last service date, months","","",""
 "other_ther","Integer","","Recommended","At any point during the past six months did your toddler receive complementary or alternative therapies used to treat symptoms of autism: Other","0;1; 9","0=No; 1=Yes; 9=DK",""
 "other_age","Integer","","Recommended","Other. Age at first service date, months","","",""
-"other_type","String","50","Recommended","Other. Specify type of therapy","","",""
+"other_type","String","100","Recommended","Other. Specify type of therapy","","",""
 "other_endage","Integer","","Recommended","Other. Age at last service date, months","","",""
 "aaos_meds","Integer","","Recommended","At any point during the past six months did your toddler receive medical or pharmacological interventions used to treat symptoms of autism? Antidepressants, anti-anxiety, or obsessive-compulsive (AAOS) medications","0;1; 9","0=No; 1=Yes; 9=DK",""
 "aaos_age","Integer","","Recommended","AAOS. Age at first prescription, months","","",""

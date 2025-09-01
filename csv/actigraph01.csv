@@ -80,7 +80,7 @@
 "med4_dosage","String","20","Recommended","Medication 4 dose","","",""
 "med_adtlcomments","String","1000","Recommended","Medication comments","","",""
 "otherdrug_today","String","10","Recommended","Used other drug today","","",""
-"otherdrug_specify","String","50","Recommended","Specify other drug","","",""
+"otherdrug_specify","String","100","Recommended","Specify other drug","","",""
 "dec_ex1start","Float","","Recommended","Decimal exercise 1 start time","0 :: 100","",""
 "dec_ex1end","Float","","Recommended","Decimal exercise 1 end time","0 :: 100","",""
 "exercise1_type","String","10","Recommended","Exercise 1 type ","","",""

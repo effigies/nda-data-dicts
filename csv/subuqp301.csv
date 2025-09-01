@@ -940,3 +940,4 @@
 "mfsu_74","Integer","","Recommended","Have you ever used any pain killers (for example, morphine, hydrocodone, oxycodone, codeine) in the last 7 days, without a doctor's prescription?","0;1;-7","0 = No; 1 = Yes; -7 = Refuse to answer",""
 "mfsu_75","String","50","Recommended","If yes, on how many occasions have you used pain killers (for example, morphine, hydrocodone, oxycodone, codeine) without a doctor's prescription in the last 7 days?","","",""
 "mfsu_7","Integer","","Recommended","During the past 3 months, on average, how many cigarettes did you smoke each day?","","Number of cigarettes",""
+"sisq01","Integer","","Recommended","In the past 12 MONTHS, how often have you used an illegal drug or used a prescription medication for non-medical reasons (for example, because of the experience or feeling it caused)?","0::4","0=Never; 1=Less than monthly; 2=Monthly; 3=Weekly; 4=Daily or almost daily",""

@@ -101,3 +101,5 @@
 "collectionpoint","Integer","","Recommended","Which collection point during alcohol administration","1::8","Assessed 8 times during alcohol administration",""
 "brac","Float","","Recommended","Breath alcohol (BrAC) measurement during alcohol administration","","",""
 "apt_trait_13","Integer","","Recommended","How many drinks would you consume if they were $13 each?","","1 Standard Drink = 12 fl oz regular beer = 8-9 fl oz malt liquor = 5 fl oz table wine = 1.5 fl oz shot of distilled spirits; 999= Missing",""
+"alc_selfadmin_alcnum","Integer","","Recommended","Alcohol Self-Administration - Number of choices made for alcohol","","",""
+"alc_selfadmin_monnum","Integer","","Recommended","Alcohol Self-Administration - Number of choices made for money","","",""

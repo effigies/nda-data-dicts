@@ -33,7 +33,7 @@
 "suspend","Integer","","Recommended","Expelled/suspended in past 6 months","0;1","0 = No; 1 = Yes",""
 "suspcnt","Integer","","Recommended","No. expulsions/suspensions, past 6 mos.Number of expulsions or suspensions in the past 6 months","","",""
 "employst","Integer","","Recommended","Current employment status","1::8","1 = Working full-time job; 2 = Working part-time job; 3=not employed; 4=NA; 5 =retired;6=Disability recipient; 7=Student; 8=Other",""
-"empcur","Integer","","Recommended","Currently employed","0;1; -99; 77; 88","0 = No; 1 = Yes; -99= N/A ; 88= Missing ; 77= Refused","employ"
+"empcur","Integer","","Recommended","Currently employed","0;1; -99; 77; 88;-999","0 = No; 1 = Yes; -99= N/A ; 88= Missing ; 77= Refused; -999= Do not know","employ"
 "daysrz","Integer","","Recommended","days since randomization","","","visitdt"
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections","studyid"
 "site","String","101","Recommended","Site","","Study Site","psite,site_uid,siteid"

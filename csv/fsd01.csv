@@ -57,7 +57,7 @@
 "trgrade","String","30","Recommended","Grade in school","","-9 = Missing value","ifyes_year"
 "asr_49","String","100","Recommended","If you attend(ed) school, college, or other education/training, what kind of program was it?","","","ifcoleg_major"
 "curreduccompleted","String","50","Recommended","Current grade education level completed","","","your_educ"
-"empcur","Integer","","Recommended","Currently employed","0;1; -99; 77; 88","0 = No; 1 = Yes; -99= N/A ; 88= Missing ; 77= Refused","current_emply"
+"empcur","Integer","","Recommended","Currently employed","0;1; -99; 77; 88;-999","0 = No; 1 = Yes; -99= N/A ; 88= Missing ; 77= Refused; -999= Do not know","current_emply"
 "psdem5","String","50","Recommended","Type of job","","","ifyes_posit"
 "das1ms","String","200","Recommended","Marital status","","","marit_stats,maritalstat"
 "t1servrd","String","50","Recommended","Specify housing service:","","","housing"

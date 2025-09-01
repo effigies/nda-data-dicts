@@ -218,7 +218,7 @@
 "liveno","Integer","","Recommended","Besides self, how many other people live in household","","",""
 "cemploy","Integer","","Recommended","Current employment","1::4","1= Works for pay; 2= Unpaid work for family business; 3= Not working in part due to health; 4= Not working other reasons",""
 "curemp","Integer","","Recommended","Currently work for pay (include self employed work for pay; answer Yes if on leave from work, expect to return within 6 months)","0;1","0=No; 1=Yes",""
-"edcv","Integer","","Recommended","Highest grade or year of school completed","0::5","0= Less than high school graduate; 1= High school graduate; 2= Some college; 3= College graduate; 4= Some graduate school; 5= Graduate degree",""
+"edcv","Integer","","Recommended","Highest grade or year of school completed","0::5;-99","0= Less than high school graduate; 1= High school graduate; 2= Some college; 3= College graduate; 4= Some graduate school; 5= Graduate degree; -99= Missing data",""
 "hourwk","Integer","","Recommended","When worked how many hours per week usually work, past 12 months (include any overtime hours usually worked)","","",""
 "income_oai","Integer","","Recommended","Yearly income","1::5","1= Less than $10K; 2= $10K to < $25K; 3= $25K to < $50K; 4= $50K to < $100K; 5= $100K or greater",""
 "income2","Integer","","Recommended","Yearly income","1;2","1= <$50K; 2 = >$50K",""

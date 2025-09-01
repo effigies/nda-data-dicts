@@ -94,7 +94,7 @@
 "days_baseline","Integer","","Recommended","Days since baseline","","","eodays,whdays"
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "ewps_4","Integer","","Recommended","I am self-employed.","0;1","0 = No;1 = Yes","wi14"
-"empcur","Integer","","Recommended","Currently employed","0;1; -99; 77; 88","0 = No; 1 = Yes; -99= N/A ; 88= Missing ; 77= Refused","wi3"
+"empcur","Integer","","Recommended","Currently employed","0;1; -99; 77; 88;-999","0 = No; 1 = Yes; -99= N/A ; 88= Missing ; 77= Refused; -999= Do not know","wi3"
 "wi18","Integer","","Recommended","How many months per year {do/did} you usually work at this job","","",""
 "surfq3","Integer","","Recommended","""During the past month, have you done any kind of volunteer work (such as working at a hospital or a school)?""","0;1","0 = No; 1 = Yes","wi21"
 "wi6b","Integer","","Recommended","Currently working second job","0;1","0 = No;1 = Yes",""

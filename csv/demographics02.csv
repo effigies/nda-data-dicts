@@ -787,7 +787,7 @@
 "democ45","String","20","Recommended","How old is the OTHER ADULT?","","",""
 "democ4a7","Integer","","Recommended","How would you best describe your child's race? (Please check all that apply): Other","0;1","0 = No; 1 = Yes",""
 "democ46a","Integer","","Recommended","Is the OTHER ADULT of Hispanic, Latino/a, or Spanish origin?","1;2","1=Yes; 2=No",""
-"democ46b","Integer","","Recommended","Please Specify their Hispanic, Latino/a, or Spanish origin","1::15; 99","1=Argentinian; 2=Colombian; 3=Cuban / Cuban American; 4=Dominican; 5=Ecuadorian; 6=Guatemalan; 7=Mexican / Mexican American / Chicano; 8=Nicaraguan; 9=Peruvian; 10=Puerto Rican; 11=Salvadorian; 12=Spaniard; 13=Uruguayan; 14=Venezuelan; 15=Other Latin American group; 99=I don''t know",""
+"democ46b","Integer","","Recommended","Please Specify their Hispanic, Latino/a, or Spanish origin","1::15;99;999","1=Argentinian; 2=Colombian; 3=Cuban / Cuban American; 4=Dominican; 5=Ecuadorian; 6=Guatemalan; 7=Mexican / Mexican American / Chicano; 8=Nicaraguan; 9=Peruvian; 10=Puerto Rican; 11=Salvadorian; 12=Spaniard; 13=Uruguayan; 14=Venezuelan; 15=Other Latin American group; 99=I don''t know; 999=Prefer not to answer",""
 "democ46c","String","500","Recommended","You selected ''Other Latino American group'' Please specify how you would best describe the OTHER ADULT's ethnicity","","",""
 "democ47a1","Integer","","Recommended","How would you best describe the OTHER ADULT'S race? (Please check all that apply): White?","0;1","0 = No; 1 = Yes",""
 "democ47a2","Integer","","Recommended","How would you best describe the OTHER ADULT'S race? (Please check all that apply): Black or African American?","0;1","0 = No; 1 = Yes",""

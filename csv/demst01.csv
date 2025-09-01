@@ -106,7 +106,7 @@
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing","dem_time"
 "dem_48_b","String","150","Recommended","Who has those medical problems?","","",""
 "paofwork5","Integer","","Recommended","39. Are you a student","1::3; -9","1 = Yes, Full-time; 2 = Yes, Part-time; 3 = No, -9 = Missing Data","qdem9"
-"nimh_rv_dem_13","Integer","","Recommended","Employment","0::6","0=Full time; 1=Part time; 2=Student; 3=Retired; 4=Unemployed; 5=Self-employed; 6=Decline to answer","qdem10"
+"nimh_rv_dem_13","Integer","","Recommended","Employment","0::9","0=Full time; 1=Part time; 2=Student; 3=Retired; 4=Unemployed; 5=Self-employed; 6=Decline to answer; 7= Self-employed; 8= Home-maker; 9= Gig/Contract","qdem10"
 "d_handedness","Integer","","Recommended","Handedness - Are you:","1 :: 3","1= Right-handed; 2= Left-handed; 3= I use my right and left hands equally","qdem11"
 "tcdis_16","String","4000","Recommended","Medication List","","Note Medication Name; Dosage; and Reason","qdem12"
 "caffeine_last_24_hours","Integer","","Recommended","Have you had any caffeine in the last 24 hours?","0;1","0= No; 1= Yes","qdem13"

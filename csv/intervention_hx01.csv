@@ -54,7 +54,7 @@
 "tl_art_therapy","Float","","Recommended","Total hours of Art Therapy completed starting at Interview Date","","","therapy_log_e_tle_w0_art_therapy"
 "other_therapy_yes","Integer","","Recommended","other therapy","0;1","0=no; 1=yes",""
 "tl_other_therapy","Float","","Recommended","Total hours of Other Therapy completed starting at Interview Date","","","therapy_log_h_tlh_w0_other_therapy"
-"other_type","String","50","Recommended","Other. Specify type of therapy","","","other_therapy_specify"
+"other_type","String","100","Recommended","Other. Specify type of therapy","","","other_therapy_specify"
 "special_diet_yes","Integer","","Recommended","Special diet","0;1","0=no; 1=yes",""
 "tl_special_diet","Float","","Recommended","Total hours of Special Diet completed starting at Interview Date","","","therapy_log_k_tlk_w0_special_diet"
 "specialdiet_current_desc","String","1000","Recommended","Special diet - Describe","","","special_diet_specify"

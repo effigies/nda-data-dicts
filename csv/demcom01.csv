@@ -8,7 +8,7 @@
 "dem_13","Integer","","Recommended","Number of years married / living together","","","maritalyears"
 "demo_child","Integer","","Recommended","Do you have any children living at home?","0;1","0 = No; 1 = Yes",""
 "demo_edu","Integer","","Recommended","Total number of years of education  (For example: Finished high school would be 12, BA/BS = 16, PhD/MD = 20)","","","dem11_educ"
-"empcur","Integer","","Recommended","Currently employed","0;1; -99; 77; 88","0 = No; 1 = Yes; -99= N/A ; 88= Missing ; 77= Refused","demo_employ"
+"empcur","Integer","","Recommended","Currently employed","0;1; -99; 77; 88;-999","0 = No; 1 = Yes; -99= N/A ; 88= Missing ; 77= Refused; -999= Do not know","demo_employ"
 "dem10_t1","String","200","Recommended","Occupation","","","demo_occup"
 "occupation_employed_hours","Float","","Recommended","How many hours do you [patient] typically work per week?","","Hours/week","demo_avgworkhours"
 "demo_fulltime","Integer","","Recommended","In the last 12 months, how many weeks were you employed full-time?","","",""

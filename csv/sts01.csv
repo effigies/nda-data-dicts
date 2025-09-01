@@ -144,6 +144,6 @@
 "rein_emg_cs_danger","Float","","Recommended","Eyeblink response to the danger signal during fear reinstatement","","",""
 "ebc_pcr","Float","","Recommended","Eyeblink Conditioning Delay 650ms: Percent Conditioned Responses","0::100","",""
 "ppi_acoustic_startle","Float","","Recommended","Mean Eye-Blink Startle Response in mV","","",""
-"ppi_70db","Float","","Recommended","Percent Decrease in Eye-Blink Startle Response from following Pre-pulse Startle at 75 dB","-100::100","",""
+"ppi_70db","Float","","Recommended","Percent Decrease in Eye-Blink Startle Response from following Pre-pulse Startle at 75 dB","-100::100","","ppi_75db"
 "ppi_80db","Float","","Recommended","Percent Decrease in Eye-Blink Startle Response from following Pre-pulse Startle at 80 dB","-100::100","",""
 "ppi_85db","Float","","Recommended","Percent Decrease in Eye-Blink Startle Response from following Pre-pulse Startle at 85 dB","-100::100","",""

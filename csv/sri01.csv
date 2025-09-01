@@ -77,3 +77,8 @@
 "sri1_alt1","Integer","","Recommended","In the past 7 days, I had a hard time getting things done because I was sleepy.","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always",""
 "sri_sleepy_alt1","Integer","","Recommended","In the past 7 days, I had a hard time concentrating because I was sleepy.","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always",""
 "sri_tired_alt1","Integer","","Recommended","In the past 7 days, I felt tired.","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always",""
+"w016p","Integer","","Recommended","In the past 7 days, my child got mad easily because he/she was sleepy","1::5","1 = Never; 2 = Almost never; 3 = Sometimes; 4 = Almost always; 5 = Always",""
+"w017p","Integer","","Recommended","In the past 7 days, my child had trouble controlling his/her feelings because he/she was sleepy","1::5","1 = Never; 2 = Almost never; 3 = Sometimes; 4 = Almost always; 5 = Always",""
+"w026p","Integer","","Recommended","In the past 7 days, my child still felt sleepy when he/she woke up","1::5","1 = Never; 2 = Almost never; 3 = Sometimes; 4 = Almost always; 5 = Always",""
+"w035p","Integer","","Recommended","In the past 7 days, my child had trouble sitting still because he/she was sleepy","1::5","1 = Never; 2 = Almost never; 3 = Sometimes; 4 = Almost always; 5 = Always",""
+"w040p","Integer","","Recommended","In the past 7 days, my child's daytime activities were disturbed by poor sleep","1::5","1 = Never; 2 = Almost never; 3 = Sometimes; 4 = Almost always; 5 = Always",""

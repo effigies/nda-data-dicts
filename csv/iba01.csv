@@ -27,7 +27,7 @@
 "have_children","Integer","","Recommended","Do you have children?","0;1","0 = No;  1 = Yes","iba_children"
 "psychosis_demo4","Integer","","Recommended","Children: How many children do you have including adopted and stepchildren?","","","iba_childrencount"
 "iba_caregiver","Integer","","Recommended","Are you a caregiver, or is there someone in your home who you take care of?","0;1","0=No; 1=Yes",""
-"empcur","Integer","","Recommended","Currently employed","0;1; -99; 77; 88","0 = No; 1 = Yes; -99= N/A ; 88= Missing ; 77= Refused","iba_employed"
+"empcur","Integer","","Recommended","Currently employed","0;1; -99; 77; 88;-999","0 = No; 1 = Yes; -99= N/A ; 88= Missing ; 77= Refused; -999= Do not know","iba_employed"
 "iba_employed_type","Integer","","Recommended","Do you work part-time or full-time?","0;1","0=Part time; 1=Full time",""
 "dem10_t1","String","200","Recommended","Occupation","","","iba_job"
 "iba_income","Integer","","Recommended","How much money do you make each month, after taxes?","0::20000","",""

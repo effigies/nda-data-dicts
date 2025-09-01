@@ -794,3 +794,6 @@
 "fert_hap_rt","Integer","","Recommended","Reaction time (milliseconds) for ''Happy'' trials","","In milliseconds",""
 "fert_sad_rt","Integer","","Recommended","Reaction time (milliseconds) for ''Sad'' trials","","In milliseconds",""
 "fert_sur_rt","Integer","","Recommended","Reaction time (milliseconds) for ''Surprise'' trials","","In milliseconds",""
+"er40_proportion_correct","Float","","Recommended","Proportion of trials correct on the ER40 Task","0::1","",""
+"er40_average_rt","Float","","Recommended","Average reaction time on the ER40 Task","","",""
+"er40_average_cr","Float","","Recommended","Average of the confidence ratings on the ER40 Task","","",""

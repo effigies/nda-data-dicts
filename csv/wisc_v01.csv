@@ -180,7 +180,7 @@
 "digitspan_seqtrial9b","Integer","","Recommended","Sequencing - 9 Trial 2 Score","0;1","0 = Fail; 1 = Correct",""
 "digitspan_seqtrial9","Integer","","Recommended","Sequencing - 9 Item Score","0;1;2","0 = Fail; 1 = Partially correct; 2 = Correct",""
 "digitspan_dsfscore","Integer","","Recommended","Digit Span Forward (DSF) Total Raw Score","0 :: 16","",""
-"digitspan_dsbscore","Integer","","Recommended","Digit Span Backward (DSB) Total Raw Score","0 :: 16","0::14 for WISC-III; 0::16 for WISC-IV",""
+"digitspan_dsbscore","Integer","","Recommended","Digit Span Backward (DSB) Total Raw Score","0::18","0::14 for WISC-III; 0::16 for WISC-IV; 0::18 for WISC-V",""
 "digitspan_dssscore","Integer","","Recommended","Digit Span Sequencing (DSs) Total Raw Score","0::18","",""
 "digitspan_ldsf","Integer","","Recommended","LDSF","0 :: 9","",""
 "digitspan_ldsb","Integer","","Recommended","LDSB","0 :: 8","",""
