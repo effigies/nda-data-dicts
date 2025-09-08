@@ -103,3 +103,7 @@
 "wanted_a_drink_so_badly_yo","Integer","","Recommended","Wanted a drink so badly you couldn't think of anything else?","0;1","0 = No; 1 = Yes",""
 "found_that_drinking_or_bei","Integer","","Recommended","Found that drinking, or being sick from drinking, often interfered with taking care of your home or family? Or caused job troubles? Or school problems?","0;1","0 = No; 1 = Yes",""
 "continued_to_drink_even_th","Integer","","Recommended","Continued to drink even though it was causing trouble with your family or friends?","0;1","0 = No; 1 = Yes",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"aud_calc_count","Integer","","Recommended","Symptom Count","0::11","",""
+"aud_yn","Integer","","Recommended","Does the participant have an AUD (Alcohol Use Disorder):","0;1","0=No; 1=Yes",""
+"aud_severity","Integer","","Recommended","Severity of AUD (Alcohol Use Disorder) is:","0::3","1=Mild; 2=Moderate; 3=Severe",""

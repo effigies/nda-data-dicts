@@ -437,7 +437,7 @@
 "ema_mood6","Integer","","Recommended","Since the last survey, to what degree have you felt worried?","0::100","0=Not at all; 100=As much as possible",""
 "ema_mood7","Integer","","Recommended","Since the last survey, to what degree have you felt restless?","0::100","0=Not at all; 100=As much as possible",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
-"qsleep","Integer","","Recommended","How would you rate the quality of your sleep last night?","1::5","1 = Very poor; 2 = Poor; 3 = Fair; 4 = Good; 5 = Very good",""
+"qsleep","Integer","","Recommended","How would you rate the quality of your sleep last night?","1::5;-99","1 = Very poor; 2 = Poor; 3 = Fair; 4 = Good; 5 = Very good; -99 = Decline to answer",""
 "sleephrs","Integer","","Recommended","How many hours of sleep did you get yesterday?","0::12","0 = I did not get any sleep yesterday; 1 = 1 hour; 12 = 12 or more hours",""
 "alcyes1","Integer","","Recommended","How many standard drinks of alcohol did you have yesterday?","0::15","0 = I did not have any drinks yesterday; 1 = 1 drink; 15 = 15 or more drinks",""
 "cigsyest1","Integer","","Recommended","How many cigarettes did you smoke yesterday?","0::25","0 = I did not smoke yesterday (not even a puff); 1 = 1 cigarette; 25 = 25 or more cigarettes",""

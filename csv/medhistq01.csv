@@ -215,3 +215,7 @@
 "escardio_4","Integer","","Recommended","Have you been diagnosed with an endocrine disorder or diabetes (e.g., thyroid problems, Addison''s, Cushing''s)? ","0;1","0 = No; 1 = Yes",""
 "escardio_5","String","500","Recommended","Have you been diagnosed with an endocrine disorder or diabetes (e.g., thyroid problems, Addison''s, Cushing''s)? If yes, please specify:","","",""
 "escardio_6","Integer","","Recommended","Do you take any steroid-based medications? (Prednisone, Advair, Decadron, Flonase, Nasonex, Deltasone, Liquid Pred, Meticorten, Orasone?) ","0;1","0 = No; 1 = Yes",""
+"dx_ongoing","Integer","","Recommended","Is diagnosis ongoing?","0;1","0 = no; 1 = yes",""
+"dx_txt","String","100","Recommended","Diagnosis","","Enter as is written",""
+"start_dx","Date","","Recommended","Diagnosis Start date","","MM/DD/YYYY",""
+"end_dx","Date","","Recommended","Diagnosis End date","","MM/DD/YYYY",""

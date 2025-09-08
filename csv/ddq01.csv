@@ -167,7 +167,7 @@
 "bweight","Integer","","Recommended","Weight (lbs)","","",""
 "ddq6_bl","Integer","","Recommended","Think of a typical weekend evening (Friday or Saturday) during the last MONTH. How MUCH did you drink on that evening?","0::99;999","Number of drinks; 999 = No answer",""
 "ddq7_bl","Integer","","Recommended","Think of a typical weekend evening (Friday or Saturday) during the last MONTH. How many HOURS did you drink on that evening?","0::24","Number of hours",""
-"alcyest1","Integer","","Recommended","Yesterday - How many standard drinks of alcohol did you consume (a standard drink is a 12-ounce beer, 5-ounce glass of wine, or a 1-ounce glass of liquor)?","0::21","Number of drinks; 21=More than 20",""
+"alcyest1","Integer","","Recommended","Yesterday - How many standard drinks of alcohol did you consume (a standard drink is a 12-ounce beer, 5-ounce glass of wine, or a 1-ounce glass of liquor)?","0::21;-99","Number of drinks; 21=More than 20; -99 = Decline to answer",""
 "alcyest2","String","5","Recommended","Yesterday - What time did you have your first drink of alcohol?","","HH:MM clock time",""
 "ddq6_3_drkwknum","Integer","","Recommended","Consider a TYPICAL WEEK during the past month.  Please fill in a number for each day of the week indicating the TYPICAL NUMBER OF DRINKS you usually consume on that day. - Wednesday","0::99; 998","0=0; 1=1; 2=2; 99=99; 998=No answer",""
 "ddq6_4_drkwknum","Integer","","Recommended","Consider a TYPICAL WEEK during the past month.  Please fill in a number for each day of the week indicating the TYPICAL NUMBER OF DRINKS you usually consume on that day. - Thursday","0::99; 998","0=0; 1=1; 2=2; 99=99; 998=No answer",""

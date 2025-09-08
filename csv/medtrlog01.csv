@@ -31,3 +31,8 @@
 "cdr001","Integer","","Recommended","Was the AM study medication dose taken in clinic?","0;1","0 = No; 1 = Yes",""
 "medfreqweek","Integer","","Recommended","Frequency of use in number of times per week the medication is used","","",""
 "time_of_use","String","25","Recommended","Time of day medication is used","","Enter as is written",""
+"current_med","Integer","","Recommended","Are you currently taking this medication?","0;1","0=No; 1=Yes",""
+"med_strength","String","100","Recommended","Medication Strength (Ex: 200 mg)","","Enter as is written",""
+"med_dose","String","100","Recommended","Medication Dose","","Enter as is written",""
+"med_freq","String","100","Recommended","Medication Frequency","","Enter as is written",""
+"medication_stop","Date","","Recommended","Stop date of medication","","",""
