@@ -125,3 +125,7 @@
 "neco_1wk_05","Integer","","Recommended","In the past 7 days: I disappointed others when I drank.","1::5","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Almost always",""
 "neco_1wk_06","Integer","","Recommended","In the past 7 days: I used poor judgment when I drank.","1::5","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Almost always",""
 "neco_1wk_07","Integer","","Recommended","In the past 7 days: I had trouble getting things done after I drank.","1::5","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Almost always",""
+"bfrss30d","Integer","","Recommended","During the past 30 days, how many days per week did you have at least one drink of any alcoholic beverage such as beer, wine, a malt beverage or liquor?","0::3","0= 0 days per week; 1= 1-2 days per week; 2= 3-5 days per week; 3= 6-7 days per week",""
+"bfrss30d2","Integer","","Recommended","During the past 30 days, how many days did you have 4/5 (based on sex) or more drinks on the same occasion? By 'occasion', we mean at the same time or within a couple of hours of each other?","0::30","Number of days",""
+"nsduh14dfpt","Integer","","Recommended","During the past 2 weeks, how many days did you have 4 or more drinks on the same occasion? By 'occasion', we mean at the same time or within a couple of hours of each other?","0::14","Number of days",""
+"nsduh14dmpt","Integer","","Recommended","During the past 2 weeks, how many days did you have 5 or more drinks on the same occasion? By 'occasion', we mean at the same time or within a couple of hours of each other?","0::14","Number of days",""

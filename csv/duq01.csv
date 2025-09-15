@@ -316,3 +316,5 @@
 "opiates_other_recent","Integer","","Recommended","Have you used other opiates in the past 30 days?","0;1;8","0 = No; 1 = Yes; 8 = Prefer not to answer",""
 "amphet_ever","Integer","","Recommended","Have you ever used amphetamines (speed, methamphetamine, crank)?","0;1;8","0 = No; 1 = Yes; 8 = Prefer not to answer",""
 "amphet_recent","Integer","","Recommended","Have you used amphetamines in the past 30 days?","0;1;8","0 = No; 1 = Yes; 8 = Prefer not to answer",""
+"studypt","Integer","","Recommended","Are you currently actively participating in any research studies focused on alcohol or drug use?","0;1","0= No; 1= Yes",""
+"studypt3","Integer","","Recommended","Did you receive cash or gift cards for participating in this study (or studies)?","0;1","0= No; 1= Yes",""

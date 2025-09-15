@@ -142,3 +142,5 @@
 "aaset_05","Integer","","Recommended","How tempted would you be to drink: When I am concerned about someone","1::5","1 = Not at all; 2 = Not very; 3 = Moderately; 4 = Very; 5 = Extremely",""
 "aaset_06","Integer","","Recommended","How tempted would you be to drink: When I am very worried","1::5","1 = Not at all; 2 = Not very; 3 = Moderately; 4 = Very; 5 = Extremely",""
 "aaset_07","Integer","","Recommended","How tempted would you be to drink: When I have the urge to try just one drink to see what happens","1::5","1 = Not at all; 2 = Not very; 3 = Moderately; 4 = Very; 5 = Extremely",""
+"rulintbs","Integer","","Recommended","How likely is it that you will cut back drinking in the next month?","1::10","1= Not at all likely; 10= Extremely likely",""
+"rulinttxbs","Integer","","Recommended","How likely is it that you will seek help for your use of alcohol or other substances from a treatment center, doctor, therapist, and/or counselor in the next month?","1::10","1= Not at all likely; 10= Extremely likely",""

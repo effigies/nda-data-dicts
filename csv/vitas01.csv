@@ -137,3 +137,6 @@
 "delay_money_earned","Float","","Recommended","Total amount of money earned during 50 min delay period","","In Dollars",""
 "time_end_delay","String","20","Recommended","Time Delay Ended","","In Hours and minutes",""
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""
+"suvorexant_dose","Integer","","Recommended","Level of suvorexant dose","0;10;20","0= 0mg; 10= 10mg; 20= 20mg",""
+"acute_subchronic","Integer","","Recommended","Session following acute or subchronic suvorexant dosing","1;2","1= Acute; 2= Subchronic",""
+"exp_time","Float","","Recommended","Number of hours spent in the experimental session from pre-alcohol consumption to post-alcohol consumption from 0 to 3.25 hours","0::3.25; -1","Number of hours in 0.25 intervals; -1= Baseline",""

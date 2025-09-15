@@ -59,7 +59,7 @@
 "nm015","Integer","","Recommended","How ready are you to change your use of tobacco (cigarettes, chewing tobacco, cigars, etc.)?","1::10","1 = Not Ready; 10 = Very Ready",""
 "nm016","Integer","","Recommended","How important is it for you to change your use of tobacco (cigarettes, chewing tobacco, cigars, etc.)?","1::10","1 = Not Ready; 10 = Very Ready",""
 "nm017","Integer","","Recommended","How confident are you in your ability to change your use of tobacco (cigarettes, chewing tobacco, cigars, etc.)?","1::10","1 = Not Ready; 10 = Very Ready",""
-"nm018","Integer","","Recommended","Have you ever smoked an e-cigarette in your life?","0;1","0 = No; 1 = Yes",""
+"nm018","Integer","","Recommended","Have you ever smoked an e-cigarette in your life?","0;1;88","0 = No; 1 = Yes; 88 = Prefer not to answer",""
 "nm019","Integer","","Recommended","What was your typical e-cigarette use during the last 12 months? Choose the option that best fits your pattern.","0::4","0 = None; 1 = Monthly; 2 = Weekly; 3 = Daily; 4 = Multiple Times Daily",""
 "nm020","Integer","","Recommended","How old were you when you smoked your first e-cigarette?","","",""
 "nm021","Integer","","Recommended","Please tell us why you currently use e-cigarettes. They are affordable","0;1","0 = Unchecked; 1 = Checked",""

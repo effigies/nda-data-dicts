@@ -244,3 +244,4 @@
 "sirp_rt","Float","","Recommended","Reaction Time","0::10000000;-999","In ms; -999=No Response",""
 "firstresponsecorrect_string","String","50","Recommended","Correctness of first response: Whether or not a press (or no-press) was correct given trial condition and type","","",""
 "mrimode_string","String","50","Recommended","MRI Mode: Internal indicator for scan vs. behavioral practice task version","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

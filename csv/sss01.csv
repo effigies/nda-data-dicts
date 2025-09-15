@@ -16,3 +16,6 @@
 "reschedule3","Integer","","Recommended","3. Are you entering reschedule data?","0;1","0 = No; 1 = Yes",""
 "sss_re3","String","1","Recommended","3. Degree of Sleepiness","1;2;3;4;5;6;7;x","1 = Feeling active and vital, alert, wide-awake; 2 = Functioning at a high level, but not at peak, able to concentration;  3=Relaxed, awake, not at full alertness, responsive; 4 = A little foggy, not at peak, let down; 5 = Fogginess, beginning to lose interest in remaining awake, slowed down; 6 =Sleepiness, prefer to be lying down; fighting sleep, woozy; 7 = Almost in reverie; sleep onset soon; lost struggle to remain awake; x=Asleep",""
 "reschedule4","Integer","","Recommended","4. Are you entering reschedule data?","0;1","0 = No; 1 = Yes",""
+"suvorexant_dose","Integer","","Recommended","Level of suvorexant dose","0;10;20","0= 0mg; 10= 10mg; 20= 20mg",""
+"acute_subchronic","Integer","","Recommended","Session following acute or subchronic suvorexant dosing","1;2","1= Acute; 2= Subchronic",""
+"exp_time","Float","","Recommended","Number of hours spent in the experimental session from pre-alcohol consumption to post-alcohol consumption from 0 to 3.25 hours","0::3.25; -1","Number of hours in 0.25 intervals; -1= Baseline",""

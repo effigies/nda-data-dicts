@@ -163,3 +163,7 @@
 "dnrf02_student","Integer","","Recommended","How much alcohol, on average (measured in number of drinks), does a typical student at your college or university drink on each day of a typical week? Tuesday:","0::25;-5;-9","0=0 drinks; 25=25 or more drinks; -5=Skipped; -9=Not shown",""
 "dnrf03_student","Integer","","Recommended","How much alcohol, on average (measured in number of drinks), does a typical student at your college or university drink on each day of a typical week? Wednesday:","0::25;-5;-9","0=0 drinks; 25=25 or more drinks; -5=Skipped; -9=Not shown",""
 "dnrf04_student","Integer","","Recommended","How much alcohol, on average (measured in number of drinks), does a typical student at your college or university drink on each day of a typical week? Thursday:","0::25;-5;-9","0=0 drinks; 25=25 or more drinks; -5=Skipped; -9=Not shown",""
+"dnorm1f","Integer","","Recommended","How many drinks on one occasion do you think women your age consume?","","",""
+"dnorm2f","Integer","","Recommended","How many times per month do you think women your age consume alcohol?","","",""
+"dnorm1m","Integer","","Recommended","How many drinks on one occasion do you think men your age consume?","","",""
+"dnorm2m","Integer","","Recommended","How many times per month do you think men your age consume alcohol?","","",""

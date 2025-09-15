@@ -63,3 +63,6 @@
 "ema_studyday","Integer","","Recommended","Day of the EMA collection","1::14","",""
 "emadatetime","String","20","Recommended","Date and time of EMA collection","","",""
 "ema_weekday","Integer","","Recommended","Day of the week for the EMA collection","1::7","1= Sunday; 2= Monday; 3= Tuesday; 4= Wednesday; 5= Thursday; 6= Friday; 7= Saturday",""
+"suvorexant_dose","Integer","","Recommended","Level of suvorexant dose","0;10;20","0= 0mg; 10= 10mg; 20= 20mg",""
+"acute_subchronic","Integer","","Recommended","Session following acute or subchronic suvorexant dosing","1;2","1= Acute; 2= Subchronic",""
+"exp_time","Float","","Recommended","Number of hours spent in the experimental session from pre-alcohol consumption to post-alcohol consumption from 0 to 3.25 hours","0::3.25; -1","Number of hours in 0.25 intervals; -1= Baseline",""

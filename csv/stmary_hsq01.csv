@@ -26,3 +26,5 @@
 "stmary_hsq13","Integer","","Recommended","How much difficulty did you have in getting off to sleep last night?","1::4","1=None or very little; 2=Some; 3=A lot; 4=Extreme difficulty",""
 "stmary_hsq14hr","Integer","","Recommended","How long did it take you to fall asleep last night? Hours","0::24","Number of hours",""
 "stmary_hsq14min","Integer","","Recommended","How long did it take you to fall asleep last night? Minutes","0::60","Number of minutes",""
+"suvorexant_dose","Integer","","Recommended","Level of suvorexant dose","0;10;20","0= 0mg; 10= 10mg; 20= 20mg",""
+"acute_subchronic","Integer","","Recommended","Session following acute or subchronic suvorexant dosing","1;2","1= Acute; 2= Subchronic",""

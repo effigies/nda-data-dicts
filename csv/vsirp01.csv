@@ -147,3 +147,4 @@
 "rawresponsetime","Float","","Recommended","Raw time recorded for the subject's response to the probe.","0::10000000;-999","In ms; -999=No Response",""
 "responsecode","Integer","","Recommended","Represents a response button for subject's response","100;200","100 = Response to perceived non-target (left arrow); 200 = Response to perceived target (right arrow)",""
 "sirp_rt","Float","","Recommended","Reaction Time","0::10000000;-999","In ms; -999=No Response",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""

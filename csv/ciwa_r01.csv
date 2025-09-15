@@ -30,3 +30,6 @@
 "pulse_sitting","Integer","","Recommended","Sitting Pulse rate (bpm)","","",""
 "pulse2_sitting","Integer","","Recommended","Sitting Pulse rate (bpm) - range","0::7","0 = Less than 80; 1 = 81-100; 2 = 101-110; 3 = 111-120; 4 = 121-130; 5 = 131-140; 6 = 141-150; 7 = Greater than 150",""
 "question_visit","Integer","","Recommended","Was the questionnaire administered during this visit?","0;1","0 = No; 1 = Yes",""
+"suvorexant_dose","Integer","","Recommended","Level of suvorexant dose","0;10;20","0= 0mg; 10= 10mg; 20= 20mg",""
+"acute_subchronic","Integer","","Recommended","Session following acute or subchronic suvorexant dosing","1;2","1= Acute; 2= Subchronic",""
+"exp_time","Float","","Recommended","Number of hours spent in the experimental session from pre-alcohol consumption to post-alcohol consumption from 0 to 3.25 hours","0::3.25; -1","Number of hours in 0.25 intervals; -1= Baseline",""

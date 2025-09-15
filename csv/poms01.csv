@@ -96,3 +96,6 @@
 "anx6_1","Integer","","Recommended","W1:During the last 7 days, I felt uneasy","0::4;99","0=Not at all; 1=A little; 2=Moderately; 3=Quite a bit; 4=Extremely; 99=No data",""
 "anx7_1","Integer","","Recommended","W1:During the last 7 days, I felt restless","0::4;99","0=Not at all; 1=A little; 2=Moderately; 3=Quite a bit; 4=Extremely; 99=No data",""
 "pomstotalneg","Integer","","Recommended","Tick for negative POMS Total","0;1","0 = No, unchecked; 1 = Yes, checked",""
+"suvorexant_dose","Integer","","Recommended","Level of suvorexant dose","0;10;20","0= 0mg; 10= 10mg; 20= 20mg",""
+"acute_subchronic","Integer","","Recommended","Session following acute or subchronic suvorexant dosing","1;2","1= Acute; 2= Subchronic",""
+"exp_time","Float","","Recommended","Number of hours spent in the experimental session from pre-alcohol consumption to post-alcohol consumption from 0 to 3.25 hours","0::3.25; -1","Number of hours in 0.25 intervals; -1= Baseline",""

@@ -262,3 +262,7 @@
 "treat_exp_12_study_date","Date","","Recommended","Date of most recent event/session since you enrolled in the study: Alcoholics Anonymous (AA)/12 Step Meetings","","MM/DD/YYYY",""
 "treat_exp_6_lifetime","Integer","","Recommended","Please indicate if you have ever had any of the following types of treatment experiences: Inpatient Psych Treatment (General)","0;1","0=No; 1=Yes",""
 "treat_exp_7_lifetime","Integer","","Recommended","Please indicate if you have ever had any of the following types of treatment experiences: Inpatient Trauma Treatment","0;1","0=No; 1=Yes",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"ssrph1bs","Integer","","Recommended","Receiving treatment for alcohol and/or substance use carries social stigma.","0::3","0= Strongly disagree; 1= Disagree; 2= Agree; 3= Strongly agree",""
+"ssrph2bs","Integer","","Recommended","It is a sign of a personal weakness or flaw to receive treatment for alcohol and/or substance use.","0::3","0= Strongly disagree; 1= Disagree; 2= Agree; 3= Strongly agree",""
+"ssrph3bs","Integer","","Recommended","People will see a person in a worse way if they find out the person received treatment for alcohol and/or substance use.","0::3","0= Strongly disagree; 1= Disagree; 2= Agree; 3= Strongly agree",""
