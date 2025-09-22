@@ -9,4 +9,4 @@
 "gms_3","Integer","","Recommended","How important do you feel you are to other people?","1::4;-99","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; -99= Decline to answer",""
 "gms_4","Integer","","Recommended","How much do you feel others would miss you if you went away?","1::4;-99","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; -99= Decline to answer",""
 "gms_5","Integer","","Recommended","How interested are people generally in what you have to say?","1::4;-99","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; -99= Decline to answer",""
-"gms_score","Integer","","Recommended","General Mattering Scale Score","1::4;-99","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; -99= Decline to answer",""
+"gms_score","Integer","","Recommended","General Mattering Scale Score","5::20;-99","-99= Decline to answer",""

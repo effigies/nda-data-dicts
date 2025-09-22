@@ -840,7 +840,7 @@
 "sitbi__nssi_13","Integer","","Recommended","How many episodes in the past week have you/your child hurt yourself/themselves without wanting to die?","","","stb_nssi_13"
 "sitbi__nssi_14","Integer","","Recommended","How many episodes in the past month have you/your child hurt yourself/themselves without wanting to die?","","","stb_nssi_14"
 "sitbi__nssi_15","Integer","","Recommended","How many episodes in the past year have you/your child hurt yourself/themselves without wanting to die?","","","stb_nssi_15"
-"sitbi__nssi_1","Integer","","Recommended","Have you ever purposely hurt yourself without wanting to die?","0;1","0 = No; 1 = Yes",""
+"sitbi__nssi_1","Integer","","Recommended","Have you ever purposely hurt yourself without wanting to die?","0;1;-99","0=No; 1=Yes; -99=Decline to answer",""
 "sitbi_nssi_15_fu","Integer","","Recommended","How many episodes since the last assessment have you hurt yourself without wanting to die?","","",""
 "sitbi__nssi_17","Integer","","Recommended","On average, how long have you thought about purposely hurting yourself without wanting to die before engaging in those behaviors?","1::10","1= 0 seconds; 2= 1-59 seconds; 3= 1-15 minutes; 4= 16-60 minutes; 5= Less than one day; 6= 1-2 days; 7= 3-6 days; 8= 1-2 weeks; 9= 2+ weeks; 10= Wide range (spans > 2 responses)",""
 "sitbi_nssi_17_fu","Integer","","Recommended","On average, since the last assessment, how long have you thought about purposely hurting yourself without wanting to die before engaging in those behaviors?","1::10","1= 0 seconds; 2= 1-59 seconds; 3= 1-15 minutes; 4= 16-60 minutes; 5= Less than one day; 6= 1-2 days; 7= 3-6 days; 8= 1-2 weeks; 9= 2+ weeks; 10= Wide range (spans > 2 responses)",""

@@ -287,7 +287,7 @@
 "mayo_bio281","Integer","","Recommended","For how many years? Pipe","","Number of Years",""
 "mayo_bio282","Integer","","Recommended","For how many years? Snuff","","Number of Years",""
 "mayo_bio283","Integer","","Recommended","For how many years? Chewing Tobacco","","Number of Years",""
-"mayo_bio284","Integer","","Recommended","Have you smoked at least 100 cigarettes in your entire life?","0;1;999","0= No; 1= Yes; 999= Do Not Know","smoke"
+"mayo_bio284","Integer","","Recommended","Have you smoked at least 100 cigarettes in your entire life?","0;1;4;-99;999","0=No; 1=Yes; 4=Refused; -99=Missing; 999=Don't know","smoke"
 "mayo_bio285","Integer","","Recommended","How old were you when you started smoking cigarettes on a regular basis?","","Age in Years",""
 "mayo_bio286","Integer","","Recommended","On average, how many cigarettes do/did you smoke per day?","1 :: 5","1= 1 to 10 per day; 2= 11 to 20 per day; 3= 21 to 30 per day; 4= 31 to 40 per day; 5= 41 or more per day",""
 "mayo_bio287","Integer","","Recommended","Do you currently smoke?","0;1","0= No; 1= Yes",""

@@ -46,3 +46,7 @@
 "groupid","String","20","Recommended","Assigned group ID number","","",""
 "elapsedtime","Float","","Recommended","Time it took to run script (in ms); measured from onset to offset of script","","",""
 "script_completed","Integer","","Recommended","Whether script was completed","0;1","0 = Script was not completed (prematurely aborted); 1 = Script was completed (all conditions run)",""
+"suvorexant_dose","Integer","","Recommended","Level of suvorexant dose","0;10;20","0= 0mg; 10= 10mg; 20= 20mg",""
+"acute_subchronic","Integer","","Recommended","Session following acute or subchronic suvorexant dosing","1;2","1= Acute; 2= Subchronic",""
+"exp_time","Float","","Recommended","Number of hours spent in the experimental session from pre-alcohol consumption to post-alcohol consumption from 0 to 3.25 hours","0::3.25; -1","Number of hours in 0.25 intervals; -1= Baseline",""
+"percent_correct_alt","Float","","Recommended","Percent correct in 90 seconds","","",""

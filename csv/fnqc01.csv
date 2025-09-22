@@ -54,3 +54,6 @@
 "if05","Integer","","Recommended","Do you have a tax deferred retirement account?","0;1","0= No; 1= Yes",""
 "if06","Integer","","Recommended","Do you invest in the stock market or other financial investments?","0;1","0= No; 1= Yes",""
 "if07","Integer","","Recommended","About how much money do you have in investments?","","Amount in US Dollars",""
+"rqa_dm6","Integer","","Recommended","Who usually makes decisions about making major household purchases: you, your partner, you and your partner jointly, or someone else?","1 :: 5","1= Respondent; 2= Partner; 3= Jointly; 4= Someone Else; 5= Other",""
+"rqa_dm7","Integer","","Recommended","Who usually makes decisions about making purchases for daily household needs: you, your partner, you and your partner jointly, or someone else?","1 :: 5","1= Respondent; 2= Partner; 3= Jointly; 4= Someone Else; 5= Other",""
+"rqa_dm8","Integer","","Recommended","Who usually makes decisions about visits to your family or relatives: you, your partner, you and your partner jointly, or someone else?","1 :: 5","1= Respondent; 2= Partner; 3= Jointly; 4= Someone Else; 5= Other",""

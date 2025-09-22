@@ -331,7 +331,7 @@
 "lec21","Integer","","Recommended","Was someone's life in danger?","1::3","1= Yes, my life; 2= Yes, someone else's life, 3=No",""
 "lec22","Integer","","Recommended","Was someone seriously injured or killed?","1::3","1= Yes, I was seriously injured; 2= Yes, someone else was seriously injured or killed; 3=No",""
 "lec23","Integer","","Recommended","Did it involve sexual violence?","1;2","1= Yes; 2= No",""
-"lec24","Integer","","Recommended","If the event involved the death of a close family member or close friend, was it due to some kind of accident or violence, or was it due to natural causes?","1::3","1= Accident or violence; 2= Natural causes; 3= Not applicable (The event did not involve the death of a close family membber or close friend)",""
+"lec24","Integer","","Recommended","If the event involved the death of a close family member or close friend, was it due to some kind of accident or violence, or was it due to natural causes?","1::3;-99","1= Accident or violence; 2= Natural causes; 3= Not applicable (The event did not involve the death of a close family member or close friend); -99=Missing",""
 "lec25","Integer","","Recommended","How many times altogether have you experienced a similar event as stressful or nearly as stressful as the worst event?","1;2","1=Just once; 2= More than once ",""
 "lec25a","String","250","Recommended","How many times altogether have you experienced a similar event as stressful or nearly as stressful as the worst event?","","",""
 "gle7_y","Integer","","Recommended","7. Income increased substantially (20% or more)","0;1","1 = Happened to me in the past year, 0 = Did not happen in the past year",""

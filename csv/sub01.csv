@@ -757,3 +757,7 @@
 "smoke_vape_1e","Integer","","Recommended","During the last 30 days, on the days that you smoked, how many cigarettes did you smoker per day?","0::4","0=Less than one cigarette; 1=1 to 5 cigarettes; 2=6 to 10 cigarettes; 3=11 to 20 cigarettes; 4=More than 20 cigarettes",""
 "smoke_vape_2","Integer","","Recommended","I find myself reaching for my cigarettes without thinking about it.","0::4","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Almost Always",""
 "smoke_vape_3","Integer","","Recommended","I smoke more before going into a situation where smoking in not allowed.","0::4","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Almost Always",""
+"rrba_alc01","Integer","","Recommended","On an average day (day when you usually drink) of drinking in the past month, about how many drinks did you have? What is your best guess?","0::99","Number of drinks",""
+"rrba_alc02","Integer","","Recommended","During the past month, on how many days did you drink FOUR OR MORE drinks in a single day (24 hours or less)?","0::30","Number of days",""
+"rrba_alc03","Integer","","Recommended","During the past month, on how many days did you drink FOUR OR MORE drinks in a period of TWO HOURS OR LESS?","0::30","Number of days",""
+"rrba_alc04","Integer","","Recommended","During the past month, how many times did you drink 8 OR MORE drinks in a week?","0::4","Number of times",""

@@ -739,7 +739,7 @@
 "rr30","Integer","","Recommended","Since your last response, I spent more money than I meant to","0::10; 777; 999","0=Not at all; 10=Extremely; 777=NA; 999=Missing",""
 "rr31","Integer","","Recommended","Since your last response, I have felt impatient","0::10; 777; 999","0=Not at all; 10=Extremely; 777=NA; 999=Missing",""
 "rr32","Integer","","Recommended","Since your last response, I made a ''spur of the moment'' decision","0::10; 777; 999","0=Not at all; 10=Extremely; 777=NA; 999=Missing",""
-"rr33","Integer","","Recommended","How strong is your urge to drink alcohol right now?","0::10; 777; 999","0= No urge; 10= Strongest ever; 777= NA; 999= Missing",""
+"rr33","Integer","","Recommended","How strong is your urge to drink alcohol right now?","0::10;777;999;-88;-99","0=No urge; 10=Strongest ever; 777=NA; 999=Missing; -88=I do not use this substance; -99=Decline to answer",""
 "rr34","Integer","","Recommended","How strong is your urge to use opioids right now?","0::10; 777; 999","0= No urge; 10= Strongest ever; 777= NA; 999= Missing",""
 "mr35_9","Integer","","Recommended","Could you use alcohol today? Missing","0;1","0=No/Unchecked; 1=Yes/Checked",""
 "rr35","Integer","","Recommended","How strong is your urge to use opioids and alcohol together right now?","0::10; 777; 999","0= No urge; 10= Strongest ever; 777= NA; 999= Missing",""

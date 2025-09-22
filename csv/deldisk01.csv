@@ -552,3 +552,7 @@
 "dd100_ip30","Float","","Recommended","Delay discounting - Indifference point (out of 100) for 30 day delay","0::100","",""
 "dd100_ip90","Float","","Recommended","Delay discounting - Indifference point (out of 100) for 90 day delay","0::100","",""
 "dd100_ip180","Float","","Recommended","Delay discounting - Indifference point (out of 100) for 180 day delay","0::100","",""
+"suvorexant_dose","Integer","","Recommended","Level of suvorexant dose","0;10;20","0= 0mg; 10= 10mg; 20= 20mg",""
+"acute_subchronic","Integer","","Recommended","Session following acute or subchronic suvorexant dosing","1;2","1= Acute; 2= Subchronic",""
+"trial_type_alt","Integer","","Recommended","What was the trial?","1;2","1= Alcohol; 2= Money",""
+"alcohol_time_alt","Integer","","Recommended","Time in the experimental session","1;2","1= Pre-alcohol consumption of sampling dose; 2= Post-alcohol consumption of sampling dose",""

@@ -154,3 +154,6 @@
 "cig_former_frequency","Integer","","Recommended","Before you quit smoking, how many days per month did you used to smoke?","0::31","Number of days",""
 "cig_prior","Integer","","Recommended","Before you quit smoking, on average how many cigarettes did you used to smoke each day? (20 cigarettes per pack)","","Number of cigarettes",""
 "cig_age_stop","Integer","","Recommended","How old were you when you stopped smoking completely?","","",""
+"mayo_bio284","Integer","","Recommended","Have you smoked at least 100 cigarettes in your entire life?","0;1;4;-99;999","0=No; 1=Yes; 4=Refused; -99=Missing; 999=Don't know",""
+"rds_cig_freq","Integer","","Recommended","Do you now smoke cigarettes?","1::5;-99","1=Everyday; 2=Some days; 3=Not at all; 4=Don't know/not sure; 5= Refused; -99=Missing",""
+"nm012","Float","","Recommended","How many cigarettes do you smoke per day?","","(If you do not smoke every day, give the average number smoked in the past month and divide by 30)",""

@@ -84,3 +84,4 @@
 "a6n_888","Integer","","Recommended","Which one of these groups best describes your ethnic identification?: No response","0;1","0= Not Selected; 1= Selected",""
 "nas_a5nan_alt","Integer","","Recommended","What is your race? Mark all that apply (Prefer not to answer) - Mail survey only","0;1","0= No; 1= Yes",""
 "a6no","String","100","Recommended","Which one of these groups best describes your ethnic identification? - Text Response","","",""
+"nas_ph1","Integer","","Recommended","What's the largest number of people who have lived in your household at any one time in the last 12 months?","0::96; 99","Number of people (up to 96);  99=No answer",""

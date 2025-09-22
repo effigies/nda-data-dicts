@@ -486,3 +486,6 @@
 "presecondhappyfacegort","Integer","","Recommended","Response time for second happy face trial X","","",""
 "presecondcalmfacegort","Integer","","Recommended","Response time for second calm face trial X","","",""
 "precalmfacegoresp","Integer","","Recommended","Participant responded to calm face trial X","0;1;999","0= No; 1= Yes; 999= N/A",""
+"suvorexant_dose","Integer","","Recommended","Level of suvorexant dose","0;10;20","0= 0mg; 10= 10mg; 20= 20mg",""
+"acute_subchronic","Integer","","Recommended","Session following acute or subchronic suvorexant dosing","1;2","1= Acute; 2= Subchronic",""
+"alcohol_time_alt","Integer","","Recommended","Time in the experimental session","1;2","1= Pre-alcohol consumption of sampling dose; 2= Post-alcohol consumption of sampling dose",""
