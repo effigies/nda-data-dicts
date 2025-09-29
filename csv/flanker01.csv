@@ -328,3 +328,7 @@
 "nih_flanker_omerr","Integer","","Recommended","Flanker - Omission errors","","",""
 "nih_flanker_cong_commerr","Integer","","Recommended","Flanker - Congruent Trials - Commission errors","","",""
 "nih_flanker_cong_omerr","Integer","","Recommended","Flanker - Congruent Trials - Omission errors","","",""
+"nih_flanker_agess_se","Float","","Recommended","Flanker Age-Adjusted Standard Score SE","","",""
+"nih_flanker_ageedu_ts","Float","","Recommended","Flanker Age- and Education- Adjusted T-Score","","",""
+"nih_flanker_cong_raw","Float","","Recommended","Flanker Congruent items - Raw Score","","",""
+"nih_flanker_inc_raw","Float","","Recommended","Flanker Incongruent items - Raw Score","","",""

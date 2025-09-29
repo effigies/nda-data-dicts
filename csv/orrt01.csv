@@ -332,3 +332,5 @@
 "fneproc","String","20","Recommended","name of trial procedure being run","","",""
 "read_css","Float","","Recommended","Oral Reading - Change-Sensitive Score","","",""
 "read_ts","Float","","Recommended","Oral Reading - Age-Gender-Corrected T-score","","",""
+"read_agess_se","Float","","Recommended","Read Age-Adjusted Standard Score SE","","",""
+"read_ageedu_ts","Float","","Recommended","Read Age- and Education- Adjusted T-Score","","",""

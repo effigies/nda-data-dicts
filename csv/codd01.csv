@@ -138,3 +138,6 @@
 "codq42_age","String","50","Recommended","My child or family member struggled with substance use problems - Lifetime: Age of child at time of most recent event","","",""
 "codd_oth","String","1000","Recommended","Please list below any important changes that have occurred in your family during the past year which have not been covered in the above items.","","",""
 "codq4_lifetime","Integer","","Recommended","One of my child''s parents began to work - Lifetime","0;1","0=No; 1=Yes",""
+"parent_subject_id","String","45","Recommended","Parent Subject ID how it's defined in lab/project","","",""
+"subjectkey_mother","GUID","","Recommended","The NDAR Global Unique Identifier (GUID) for subject's biological mother","NDAR*","",""
+"subjectkey_father","GUID","","Recommended","The NDAR Global Unique Identifier (GUID) for subject's biological father","NDAR*","",""

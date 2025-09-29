@@ -166,3 +166,5 @@
 "nihtlsts","Float","","Recommended","Fully-corrected T Score","","",""
 "lswmt_css","Float","","Recommended","List Sort Working Memory Test (LSWMT) - Change-Sensitive Score","","",""
 "nih_ls_rs","Integer","","Recommended","List Sort Working Memory Test (LSWMT) - Raw Score","","",""
+"lswmt_agess_se","Float","","Recommended","Age adjusted Standard Score (SE)","","",""
+"lswmt_ageedu_ts","Float","","Recommended","Age and Education adjusted T-Score","","",""

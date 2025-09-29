@@ -430,3 +430,5 @@
 "nihtbx_picvocabrs","Integer","","Recommended","NIH Toolbox Picture Vocabulary Test RawScore","","","tcb_vocb_raw"
 "tpvt_css","Float","","Recommended","Change-Sensitive Score","","",""
 "tpvt_ts","Float","","Recommended","Age-Gender-Corrected T-score","","",""
+"tpvt_agess_se","Float","","Recommended","Age-Adjusted Standard Score SE","","",""
+"tpvt_ageedu_ts","Float","","Recommended","Age-Education-Adjusted T-Score","","",""

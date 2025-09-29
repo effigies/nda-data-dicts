@@ -198,3 +198,5 @@
 "calcuse","Integer","","Recommended","In the past year, have you drank alcohol at all, including sips of someone's drink or your own drink?","0;1","0 = No; 1 = Yes",""
 "calcyr01","Integer","","Recommended","During the past 12 months, on how many days did you have at least one drink of alcohol? A ''drink'' is a glass of wine, a bottle of beer, a wine cooler, a shot glass of liquor, a mixed drink, etc.","0::6","0 = 0 days; 1 = 1 or 2 days; 2 = 3 or 5 days; 3 = 6 or 9 days; 4 = 10 to 19 days; 20 to 39 days; 6 = 40 or more days",""
 "calcyr02","Integer","","Recommended","During the past 12 months, on how many days did you have 4 (females)/ 5 (males) or more drinks?","0::6","0 = 0 days; 1 = 1 or 2 days; 2 = 3 or 5 days; 3 = 6 or 9 days; 4 = 10 to 19 days; 20 to 39 days; 6 = 40 or more days",""
+"alc4mo_fulldrink","Integer","","Recommended","Have you had a full drink of alcohol in the past 4 months?","1;2","1=No; 2=Yes",""
+"alc4mo_drunk","Integer","","Recommended","Have you gotten drunk (for example: speech was slurred or unsteady on your feet) on alcohol in the past 4 months?","1;2","1=No; 2=Yes",""

@@ -152,3 +152,5 @@
 "fneproc","String","20","Recommended","name of trial procedure being run","","",""
 "nih_picseq_css","Float","","Recommended","Picture Sequence - Change-Sensitive Score","","",""
 "nih_picseq_ts","Float","","Recommended","Picture Sequence - Age-Gender-Corrected T-score","","",""
+"nih_picseq_agess_se","Float","","Recommended","Picture Sequence Memory- Age-Adjusted Standard Score SE","","",""
+"nih_picseq_ageedu_ts","Float","","Recommended","Picture Sequence Memory- Age- and Education- Adjusted T-Score","","",""
