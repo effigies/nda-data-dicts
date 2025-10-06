@@ -30,4 +30,4 @@
 "basis24","Integer","","Recommended","24. Did you have problems from your drinking or drug use?","0 :: 4","0= Never; 1= Rarely; 2= Sometimes; 3= Often; 4= Always","basis_q24"
 "assessment","Integer","","Recommended","Baseline, weekly, or monthly assessment","0::2","0 = baseline; 1 = weekly; 2 = monthly",""
 "sample","Integer","","Recommended","Training or randomized case","1::5","1 = randomized; 2 = training; 3=randomized-control; 4=randomized-intervention; 5=concurrent cohort-intervention",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

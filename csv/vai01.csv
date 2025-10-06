@@ -144,4 +144,4 @@
 "total_voc_act","Integer","","Recommended","Total number of CURRENT vocational activities:","0::11","0= 0; 1= 1; 2= 2; 3= 3; 4= 4; 5= 5; 6= 6; 7= 7; 8= 8; 9= 9; 10= 10; 11= 11 or more",""
 "voc_genact_hours","Integer","","Recommended","How many TOTAL hours, during the average week, do you spend participating in ALL of these vocational and educational activities?","","",""
 "voc_overall_notes","String","1000","Recommended","Overall Notes","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

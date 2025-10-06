@@ -8,5 +8,5 @@
 "peg2","Integer","","Recommended","What number best describes how, during the past week, pain has interfered with your enjoyment of life?","0::10","0=Very little interference/Does not interfere; 10=A lot of interference/Completely interferes","enjmt"
 "peg3","Integer","","Recommended","What number best describes how, during the past week, pain has interfered with your general activity?","0::10","0=Very little interference/Does not interfere; 10=A lot of interference/Completely interferes","genact"
 "dem_race","Integer","","Recommended","Race","1::6; 88; 99","1 = American Indian or Alaska Native; 2 = Asian; 3 = Black or African American; 4 = Native Hawaiian or Pacific Islander; 5 = White or Caucasian; 6 = More Than One Race; 88 = Unknown; 99 = Choose not to report","race"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","redcap_event_name"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","redcap_event_name"
 "peg_score_avg","Float","","Recommended","PEG Score - 3-item composite measure of pain intensity and pain interference with enjoyment of life and with general activity","0::10","","peg"

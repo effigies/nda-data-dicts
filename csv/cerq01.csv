@@ -49,7 +49,7 @@
 "cerq_34","Integer","","Recommended","I dwell upon the feelings the situation has evoked in me.","1::5;999","1=Almost never; 2=sometimes; 3=regularly; 4=often; 5=almost always; 999=Prefer not to answer/Left blank",""
 "cerq_35","Integer","","Recommended","I think about pleasant experiences.","1::5;999","1=Almost never; 2=sometimes; 3=regularly; 4=often; 5=almost always; 999=Prefer not to answer/Left blank",""
 "cerq_36","Integer","","Recommended","I look for the positive sides to the matter.","1::5;999","1=Almost never; 2=sometimes; 3=regularly; 4=often; 5=almost always; 999=Prefer not to answer/Left blank",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "catastrophe_n","Integer","","Recommended","Catastrophizing (4-10 scoring)","4::10","",""
 "other_blame_n","Integer","","Recommended","Other Blame (4-10 scoring)","4::10","",""
 "time_first_click","String","11","Recommended","Time at first click","","HH:MM:SS AM/PM","cerq_time_first_click"

@@ -982,7 +982,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "height_met","String","50","Recommended","Height - Metric Unit","","999 = Missing; -999 = No Data","med_109"
 "med_129","Integer","","Recommended","Nourishment/Hydration normal?","0;1","1 = Well nourished, normal skin turgor and hydration;0 = No",""
 "med_130","Integer","","Recommended","Gait/ambulation normal?","0;1","1 = no ataxia, normal gait and station; 0 = abnormal",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","timepoint"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","timepoint"
 "baseline_k_007","Integer","","Recommended","Chronic pain, like headaches, joint pain, neck pain, or back pain that you experience frequently","0;1; -888; -999","0=No; 1=Yes; -888=Not Applicable; -999=Missing;","dukemed_pain"
 "medhx_autodisorder","Integer","","Recommended","Autoimmune Disorders","0::2","0 = No, 1 = Yes, 2 = Not sure","dukemed_autoim"
 "dukemed_cpd_notes","String","500","Recommended","Neurological disorders - Notes","","",""

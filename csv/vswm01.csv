@@ -28,4 +28,4 @@
 "vswm_stimulus_set","Integer","","Recommended","VSWM Stimulus Set (1 of 4 counterbalancing conditions)","1::4","",""
 "vswm_trial_set_size","Integer","","Recommended","VSWM Trial Set Size","3::6","",""
 "vswm_trial_accuracy","Integer","","Recommended","VSWM Trial Accuracy","0;1","0 = Incorrect; 1 = Correct",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

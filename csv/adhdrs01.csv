@@ -104,7 +104,7 @@
 "adhd_pastwk_5","Integer","","Recommended","(Past Week) Has difficulty organizing tasks and activities","0 :: 3","0=Never or Rarely; 1=Sometimes; 2-Often; 3= Very Often",""
 "adhd_pastwk_6","Integer","","Recommended","(Past Week) Avoids, dislikes, or reluctantly engages in tasks requiring sustained mental effort (e.g. schoolwork or homework)","0 :: 3","0=Never or Rarely; 1=Sometimes; 2-Often; 3= Very Often",""
 "adhd_pastwk_7","Integer","","Recommended","(Past Week) Loses things necessary for tasks or activities (e.g. toys, school assignments, pencils, books, tools)","0 :: 3","0=Never or Rarely; 1=Sometimes; 2-Often; 3= Very Often",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "adhd_pastwk_19","Integer","","Recommended","(Past week) Feels restless (Feels internal restlessness)","0::3","0= Never or Rarely; 1= Sometimes; 2= Often; 3= Very Often",""
 "adhd_pastwk_20","Integer","","Recommended","(Past week) Has difficulty working or engaging in leisure activities quietly (Talking during meetings, difficulty moderating speech volume, speaks loudly in inappropriate situations (talking louder than others in restaurants))","0::3","0= Never or Rarely; 1= Sometimes; 2= Often; 3= Very Often",""
 "adhd_pastwk_21","Integer","","Recommended","(Past week) Avoids tasks (e.g., work) that require sustained mental effort (Procrastinates, a chore to read, delays detailed work like filing taxes, puts off more difficult tasks at work in favor of mundane tasks)","0::3","0= Never or Rarely; 1= Sometimes; 2= Often; 3= Very Often",""

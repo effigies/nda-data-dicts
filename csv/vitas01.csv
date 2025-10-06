@@ -88,7 +88,7 @@
 "manipulation","Integer","","Recommended","Believe received Guanfacine (Intuniv) or Placebo","1;2","1=Guanfacine; 2=Placebo",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "man_reason","String","200","Recommended","Reason why they believe which medication received","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "co_reading","Float","","Recommended","Carbon Monoxide (CO) reading","","-99=Missing","co_level"
 "alc_breath","Float","","Recommended","Alcohol Breathalyzer Reading","","-99=Missing","bac_level"
 "pregtest_result","Integer","","Recommended","Result of pregnancy test","0::2","0=Negative; 1=Positive; 2=N/A",""

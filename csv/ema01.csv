@@ -762,7 +762,7 @@
 "ema_kid09a","Integer","","Recommended","How have you been interacting with kids your age? In-Person","0;1","0= Unchecked; 1= Checked",""
 "ema_kid09b","Integer","","Recommended","How have you been interacting with kids your age? Through social media","0;1","0= Unchecked; 1= Checked",""
 "ema_kid09c","Integer","","Recommended","How have you been interacting with kids your age? I am alone","0;1","0= Unchecked; 1= Checked",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "ema_kid01","Integer","","Recommended","How much have you argued with kids your age?","1 :: 5","1= Not At All; 2= Very Little; 3= Some; 4= Often; 5= Very Often",""
 "ema_kid02","Integer","","Recommended","How much have you felt angered by kids your age?","1 :: 5","1= Not At All; 2= Very Little; 3= Some; 4= Often; 5= Very Often",""
 "ema_kid03","Integer","","Recommended","How much have you felt rejected by kids your age?","1 :: 5","1= Not At All; 2= Very Little; 3= Some; 4= Often; 5= Very Often",""

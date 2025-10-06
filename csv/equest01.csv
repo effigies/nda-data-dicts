@@ -177,7 +177,7 @@
 "bf1","Integer","","Recommended","How many times have you had a binge episode, eating what other people would regard as an unusually large amount of food given the circumstances WHILE having a sense of having lost control over your eating, in the past week?","","",""
 "vis_type","Integer","","Recommended","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","visit_type,visit_type_12,visit_type_6"
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","treatment"
 "ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2","1=Patient; 2=Partner",""
 "session_number","Integer","","Recommended","Session number","","","session"

@@ -41,4 +41,4 @@
 "bdp_biosis","Integer","","Recommended","How many biological sisters do you have?","0::4; -5; -999","4 = 4 or more; -5 = Item seen but not answered;  -999 = Data not submitted (incomplete, item not seen)",""
 "bdp_bioaunt","Integer","","Recommended","How many biological aunts do you have?","0::7; -5; -999","7 = 7 or more; -5 = Item seen but not answered;  -999 = Data not submitted (incomplete, item not seen)",""
 "bdp_biouncle","Integer","","Recommended","How many biological uncles do you have?","0::7; -5; -999","7 = 7 or more; -5 = Item seen but not answered;  -999 = Data not submitted (incomplete, item not seen)",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

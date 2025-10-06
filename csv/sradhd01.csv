@@ -51,7 +51,7 @@
 "asrs5_adhd_trs","Integer","","Recommended","ADHD number of years","","",""
 "diffconcspeak_2wk","Integer","","Recommended","ASRS-V1: Difficulty Concentrate People Say (2 wks)","0::4; -5; -7; -8","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Very Often; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "distracted_2wk","Integer","","Recommended","ASRS-V1: Distracted Noise Around You (2 wks)","0::4; -5; -7; -8","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Very Often; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "pals_strat01","String","2000","Recommended","What strategies do you use to help with focus (e.g., keep working on a task, avoid distractions, hear what people tell you)?","","",""
 "pals_strat02","String","2000","Recommended","What strategies do you use to help you avoid doing or saying things impulsively (e.g., interrupting people, acting without thinking of the consequences)?","","",""
 "pals_strat03","String","2000","Recommended","What strategies do you use to help with organization (e.g., managing your time, remembering things, getting tasks accomplished)?","","",""

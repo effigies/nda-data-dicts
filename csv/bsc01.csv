@@ -186,7 +186,7 @@
 "hba1c_eval","Integer","","Recommended","Glucose tolerance (categorical)","1::3;-2;-5;-9","1=Healthy (less than 5.7); 2=Impaired (5.7 through 6.5); 3=Diabetes Mellitus (6.5 or greater); -2=Not collected at this time point; -5=Item/Instrument not collected; -9=Missing",""
 "lipid_panel_collected","Integer","","Recommended","Blood collected for lipid panel","1;2;-2;-5;-9","1=Yes; 2=No; -2=Not collected at this time point; -5=Item/Instrument not collected; -9=Missing",""
 "lipid_panel_eval","Integer","","Recommended","Lipid panel evaluation","1;2;-2;-5;-9","1=Within normal limits; 2=Abnormal; -2=Not collected at this time point; -5=Item/Instrument not collected; -9=Missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "lab_insulin","Float","","Recommended","Insulin (fasting) (MICRO IU/ML)","","uIU/mL; -2=Not collected at this timepoint; -5=Item/Instrument not collected; -99 = Missing",""
 "insulin_collected","Integer","","Recommended","Blood collected for insulin","1;2;-2;-5;-9","1= Yes, 2=No; -2=Not collected at this timepoint; -5=Item/Instrument not collected; -9=Missing",""
 "il8_cv","Float","","Recommended","Interleukin-8 (%CV)","","Coefficient of variation",""

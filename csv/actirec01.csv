@@ -35,7 +35,7 @@
 "numsleepbouts","Integer","","Recommended","Number of periods of segmented sleep time","","",""
 "avgsleepb","Integer","","Recommended","Number of minutes per segmented sleep time","","In minutes",""
 "fragmentation","Integer","","Recommended","Sleep Fragmentation: Percentage of epochs with y-axis greater than 0 + percent 1 minute sleep vs. all periods of sleep during the sleep period","0::100","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "waketimemin","Integer","","Recommended","Wake Time: The number of minutes awake after sleep onset","","In minutes",""
 "sleepduration","Integer","","Recommended","Sleep Duration: The number of minutes the participant was sleeping","","In minutes",""
 "analysisname","String","100","Recommended","Analysis Name","","",""

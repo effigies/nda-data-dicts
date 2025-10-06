@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "cbvs01","Integer","","Recommended","Been teased or called names in a mean or hurtful way?","0;1","0 = No; 1 = Yes",""
 "cbvs01a","Integer","","Recommended","You mentioned that you were teased or called names in a way that was mean and hurtful. [During the time in your life when being teased or called names was AT ITS WORST/In the past year], how often did it occur?","0::4","0 = A few times a year; 1 = About once a month; 2 = 2 or 3 times a month; 3 = About once a week; 4 = Several times a week",""
 "cbvs01b_ele","Integer","4000","Recommended","During which of the following times in your life were you repeatedly teased or called names in a mean and hurtful way? Elementary School","0;1","0 = No; 1 = Yes",""

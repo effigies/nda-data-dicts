@@ -120,7 +120,7 @@
 "commissions_block3","Integer","","Recommended","Go/no-go test commission errors block 3","0::100","",""
 "commissions_block4","Integer","","Recommended","Go/no-go test commission errors block 4","0::100","",""
 "mpdat","Float","","Recommended","days from enrollment","","","studyday"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "l2_gng_comms","Integer","","Recommended","Level 2:  Go/NoGo Commissions","","","2t_gng_comms"
 "l3_gng_error","Integer","","Recommended","Level 3:  Go/NoGo Errors","","",""
 "er_level1","Float","","Recommended","Efficiency Ratio: Level 1","","",""

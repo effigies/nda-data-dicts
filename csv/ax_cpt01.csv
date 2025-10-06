@@ -93,4 +93,4 @@
 "missedresponse2","Integer","","Recommended","Identifies if no response was recorded for stimulus 2","0;1","0 = Not Missed; 1 = Missed",""
 "stim1_a","Integer","","Recommended","Stimulus 1 which includes As and other numbers","0::100;999","0 through 100 = Random numbers; 999 = Task specific data",""
 "stim2_x","Integer","","Recommended","Stimulus 2 which includes Xs and other numbers","0::100;999","0 through 100 = Random numbers; 999 = Task specific data",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

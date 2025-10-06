@@ -131,7 +131,7 @@
 "tech_barrier_4","Integer","","Recommended","Please indicate which barriers you experienced: Chat, file sharing, or another feature did not work","0;1","0 = Unchecked; 1= Checked",""
 "tech_barrier_5","Integer","","Recommended","Please indicate which barriers you experienced: Other technological problem","0;1","0 = Unchecked; 1= Checked",""
 "tech_barrier_oth","String","250","Recommended","Other technological problem, please specify:","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","redcap_event_name"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","redcap_event_name"
 "tuq_evertele","Integer","","Recommended","Have you ever had a telehealth visit with your Doctor/Clinician (teleheath refers to the remote individual or group clinical visit with the Doctor/Clinician using videoconferencing)?","0;1","0= No; 1= Yes",""
 "thu84m","Integer","","Recommended","I like using the system","1::7","1= Disagree; 7= Agree",""
 "thu94m","Integer","","Recommended","The system is simple and easy to understand","1::7","1= Disagree; 7= Agree",""

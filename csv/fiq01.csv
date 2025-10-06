@@ -62,7 +62,7 @@
 "fiq_marriage","Integer","","Recommended","FIQ Marriage Score","","",""
 "fiq_siblings","Integer","","Recommended","FIQ Siblings Score","","",""
 "fiq_negativeimpactscale","Integer","","Recommended","FIQ Negative Impact Scale Score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "livewith_1","Integer","","Recommended","Who were you mainly raised by before the age of 18?","1::6;99","1=Mother only; 2=Father only; 3=Both parents; 4=Grandparent(s); 5=Other relative (Please Specify); 6=Other nonrelative (Please Specify); 99=No data",""
 "othrelative_1","String","250","Recommended","Who were you mainly raised by before the age of 18? Specify other relative","","99=No data",""
 "othnonrel_1","String","250","Recommended","Who were you mainly raised by before the age of 18? Specify other nonrelative","","99=No data",""

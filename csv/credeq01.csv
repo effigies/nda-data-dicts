@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "studyphase","Integer","","Recommended","Study Phase","1::6; -888; -999","1=Phase 1: Treatment as Usual(TAU); 2=Phase 2: Screening Only; 3=Phase 3: Intervention; 4=Focus Groups; 5=Open Trial; 6=Randomized Trial; -888=Not Applicable; -999=Missing;",""
 "treatmentgroup","String","30","Recommended","Treatment condition","","e.g., Control, Intervention, Experimental, Placebo",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "intervention_type","String","500","Recommended","Specify intervention/therapy","","",""
 "ceq_i_1","Integer","","Recommended","1. At this point, how logical does the therapy offered to you seem?","1 :: 9;999","1 = Not at all; 5 = Somewhat; 9 = Very; 999 = Prefer no to respond",""
 "ceq_i_2","Integer","","Recommended","2. At this point, how successfully do you think this treatment will be in reducing your symptoms?","1 :: 9;999","1 = Not at all; 5 = Somewhat; 9 = Very; 999 = Prefer no to respond",""

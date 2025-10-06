@@ -27,4 +27,4 @@
 "pefs_o","Integer","","Recommended","PEFS Overactivity Score","","",""
 "pefs_l","Integer","","Recommended","PEFS Laxness Score","","",""
 "pefs_ps","Integer","","Recommended","PEFS Parenting Satisfaction","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

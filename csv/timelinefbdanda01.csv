@@ -513,7 +513,7 @@
 "subu6cd_ingested_marijuana","Integer","","Recommended","In the past month, did you use cannabis or marijuana by ingestion/edibles?","0;1;-8;-9","0= No; 1= Yes; -8= NA; -9= Missing","c4337_caned30d"
 "subu6cf_marijuana_patch","Integer","","Recommended","In the past month, did you use cannabis or marijuana patch/gel/balm/lotion?","0;1;-8;-9","0= No; 1= Yes; -8= NA; -9= Missing","c4337_cansk30d"
 "surq_9a","Integer","","Recommended","In the past 30 days, have you used any of these cocaine or crack substances","1;2","1=Yes; 2=No","c4337_coc30d"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "tlfbdanda_day1_8","Integer","","Recommended","Yesterday, what substances: Heroin?","0;1","0 = No; 1 = Yes",""
 "tlfbdanda_day1_9","Integer","","Recommended","Yesterday, what substances: Hallucinogens, including MDMA/ecstasy?","0;1","0 = No; 1 = Yes",""
 "tlfbdanda_day1_10","Integer","","Recommended","Yesterday, what substances: Sedatives and hypnotics, excluding Benzodiazepine?","0;1","0 = No; 1 = Yes",""

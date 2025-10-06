@@ -40,7 +40,7 @@
 "rses_9","Integer","","Recommended","I like myself","1::4","1= Strongly disagree; 2= Disagree; 3= Agree; 4= Strongly agree",""
 "rses_10","Integer","","Recommended","I am happy with myself","1::4","1= Strongly disagree; 2= Disagree; 3= Agree; 4= Strongly agree",""
 "rses_avg","Integer","","Recommended","Average Rosenberg Self-Esteem score","1::4","1= Strongly disagree; 2= Disagree; 3= Agree; 4= Strongly agree",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "rses_1","Integer","","Recommended","I feel that I am a person of worth. I am as good as anybody else.","1::4","1= Strongly disagree; 2= Disagree; 3= Agree; 4= Strongly agree",""
 "rses_2","Integer","","Recommended","I feel that there are a lot of good things about me","1::4","1= Strongly disagree; 2= Disagree; 3= Agree; 4= Strongly agree",""
 "rses_3","Integer","","Recommended","I feel that I fail a lot","1::4","1= Strongly disagree; 2= Disagree; 3= Agree; 4= Strongly agree",""

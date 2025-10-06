@@ -21,5 +21,5 @@
 "outcome_trial_ambig","Integer","","Recommended","Ambiguity Task - Outcome stored for trial","0;1","0= ''o'' was drawn, null outcome stored (in-lab version) or given immediately (online version) for this trial; 1= ''x'' was drawn, choice magnitude was stored (in-lab version) or given immediately (online version) for this trial",""
 "outcome_block_ambig","Integer","","Recommended","Ambiguity Task - Magnitude drawn every 6 trials from previous 6 stored outcomes","","In-Lab version of task only",""
 "rt_ambig","Integer","","Recommended","Ambiguity Task - Response time (ms)","","9999= Timeout, i.e., greater than 8000ms",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "trial","Integer","","Recommended","Trial number","0::9999; -777; -999","1 = first; 2= second; 3=third; 4=fourth; 5=fifth; 6=sixth; etc; -777=NA, -999=missing",""

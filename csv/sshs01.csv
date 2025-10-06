@@ -61,7 +61,7 @@
 "sleepq9b_m","Integer","","Recommended","On weekends, when I do not have anything to do, I wake up at: (minute)","0::59","",""
 "sleepq9b_ampm","Integer","","Recommended","Non-School Days Wake up AM/PM:","1;2","1=AM; 2=PM",""
 "sleepq10","Integer","","Recommended","Are you more of a morning bird or night owl?","1::6","1=Definitely a Morning Bird (I feel my best in the morning); 2=Rather a Morning Bird than a Night Owl; 3=Neither a Morning Bird nor a Night Owl; 4=Rather a Night Owl than a Morning Bird; 5=Definitely a Night Owl (I feel my best in the evening); 6=I do not know",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "sleepq1","Integer","","Recommended","It takes me longer than 30 minutes to fall asleep after going to bed.","0::5","0=Never, 0 Nights Per Week; 1=Once in a while, 1-2 Nights Per Week; 2=Sometimes, 2-3 Nights Per Week; 3=Quite Often, 4-5 nights Per Week; 4=Frequently, 5-6 nights Per Week; 5=Always, 7 Nights Per Week",""
 "sleepq2","Integer","","Recommended","In general, I have trouble going to sleep.","0::5","0=Never, 0 Nights Per Week; 1=Once in a while, 1-2 Nights Per Week; 2=Sometimes, 2-3 Nights Per Week; 3=Quite Often, 4-5 nights Per Week; 4=Frequently, 5-6 nights Per Week; 5=Always, 7 Nights Per Week",""
 "sleepq3","Integer","","Recommended","During the night, I wake up more than once.","0::5","0=Never, 0 Nights Per Week; 1=Once in a while, 1-2 Nights Per Week; 2=Sometimes, 2-3 Nights Per Week; 3=Quite Often, 4-5 nights Per Week; 4=Frequently, 5-6 nights Per Week; 5=Always, 7 Nights Per Week",""

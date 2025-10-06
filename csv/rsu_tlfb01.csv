@@ -589,7 +589,7 @@
 "bl_type_drug6","Integer","","Recommended","Type of drug used at baseline (Select all that apply): Hallucinogens-PCP: LSD, mescaline, peyote, psilocybin, STP, PCP (''angel dust'',''peace pill''), mushrooms, unspecified, or other","0;1","0= No; 1= Yes",""
 "bl_type_drug7","Integer","","Recommended","Type of drug used at baseline (Select all that apply): Other: steroids, ''glue'', ethyl chloride, nitrous oxide (''laughing gas''), amyl or butyl nitrate (''poppers''), Ecstasy, Special K, MDA, MDM, nonprescription sleep or diet pills, other","0;1","0= No; 1= Yes",""
 "bl_type_drug8","Integer","","Recommended","Type of drug used at baseline (Select all that apply): NA","0;1","0= No; 1= Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "wk1_benzo","Integer","","Recommended","Form 90 Item 8, WEEK 1: BENZODIAZEPINES use","0;1;99","0= Negative; 1= Positive; 99= Missing",""
 "wk1_cocaine","Integer","","Recommended","Form 90 Item 9, WEEK 1: COCAINE use","0;1;99","0= Negative; 1= Positive; 99= Missing",""
 "wk1_thc","Integer","","Recommended","Form 90 Item 10, WEEK 1: THC use","0;1;99","0= Negative; 1= Positive; 99= Missing",""

@@ -116,7 +116,7 @@
 "oth_specify_01","String","100","Recommended","Other drugs, specify:","","",""
 "dysuse_oth_tlfb_01","Integer","","Recommended","Days of other drug use?","","",""
 "drinkdaypossible_01","Integer","","Recommended","Number of Days Drinking Possible","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "use_op_tlfb_01","Integer","","Recommended","Were opioids used?","0;1","0= No; 1= Yes",""
 "dysuse_op_tlfb_01","Integer","","Recommended","Days of opioid use?","","",""
 "use_stim_tlfb_01","Integer","","Recommended","Were stimulants used?","0;1","0= No; 1= Yes",""

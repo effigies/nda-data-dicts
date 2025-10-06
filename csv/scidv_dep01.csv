@@ -229,7 +229,7 @@
 "ahsi_07","Integer","","Recommended","Have you felt like you were having a lot of fun (in the past week)? ","1::4","",""
 "studyphase","Integer","","Recommended","Study Phase","1::6; -888; -999","1=Phase 1: Treatment as Usual(TAU); 2=Phase 2: Screening Only; 3=Phase 3: Intervention; 4=Focus Groups; 5=Open Trial; 6=Randomized Trial; -888=Not Applicable; -999=Missing;",""
 "treatmentgroup","String","30","Recommended","Treatment condition","","e.g., Control, Intervention, Experimental, Placebo",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "mood_as2_restless","Integer","","Recommended","ANXIOUS DISTRESS - worst 2 weeks of past month; restlessness","1 :: 4","1 = Absent;2 = Subthreshold;3 = Threshold;4 = Severe","sciddv_as2"
 "mood_as3_concentration","Integer","","Recommended","ANXIOUS DISTRESS - worst 2 weeks of past month; concentration difficulties","1 :: 4","1 = Absent;2 = Subthreshold;3 = Threshold;4 = Severe","sciddv_as3"
 "mood_as4_somethingawful","Integer","","Recommended","ANXIOUS DISTRESS - worst 2 weeks of past month; feeling afraid that something awful might happen","1 :: 4","1 = Absent;2 = Subthreshold;3 = Threshold;4 = Severe","sciddv_as4"

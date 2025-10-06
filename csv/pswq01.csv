@@ -43,4 +43,4 @@
 "rt_","Float","","Recommended","The number of milliseconds since the start of the questionnaire until completed","","",""
 "time_elapsed","Float","","Recommended","The number of milliseconds since the start of the experiment until the questionnaire was completed","","",""
 "ref_child_id","String","50","Recommended","Referencing Child ID how it is defined in lab/project","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

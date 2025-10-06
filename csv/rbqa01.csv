@@ -43,7 +43,7 @@
 "rbq_12","Integer","","Recommended","Sending nude photos/sexting","0::6","0=Never; 1=1 time; 2=2-9 times; 3=10-20 times; 4=21-50 times; 5=51-100 times; 6=More than 100 times",""
 "rbq_13","Integer","","Recommended","Having consensual sex (oral, anal, or vaginal) without protection","0::6","0=Never; 1=1 time; 2=2-9 times; 3=10-20 times; 4=21-50 times; 5=51-100 times; 6=More than 100 times",""
 "rbq_mean","Float","","Recommended","Risky Behavior Questionnaire Mean Score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "rbq_1","Integer","","Recommended","Driving without a legal license","0::6","0=Never; 1=1 time; 2=2-9 times; 3=10-20 times; 4=21-50 times; 5=51-100 times; 6=More than 100 times",""
 "rbq_2","Integer","","Recommended","Riding in a car without a seatbelt","0::6","0=Never; 1=1 time; 2=2-9 times; 3=10-20 times; 4=21-50 times; 5=51-100 times; 6=More than 100 times",""
 "rbq_3","Integer","","Recommended","Riding in a car with someone who had been drinking or using drugs","0::6","0=Never; 1=1 time; 2=2-9 times; 3=10-20 times; 4=21-50 times; 5=51-100 times; 6=More than 100 times",""

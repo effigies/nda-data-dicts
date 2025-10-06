@@ -44,4 +44,4 @@
 "pers_38","Integer","","Recommended","General positive reactivity score","15::75","Sum of all odd numbered items",""
 "perss_gnrc","Integer","","Recommended","Perth Emotional Reactivity Scale-Short Form (PERS-S): General Negative Reactivity Composite Score","9::45","Sum of pers_1, 3, 11, 19, 9, 17, 25, 15, 23",""
 "perss_gprc","Integer","","Recommended","Perth Emotional Reactivity Scale-Short Form (PERS-S): General Positive Reactivity Composite Score","9::45","Sum of pers_2, 4, 6, 8, 16, 18, 26, 22, 30",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

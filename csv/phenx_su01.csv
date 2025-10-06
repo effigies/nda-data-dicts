@@ -242,7 +242,7 @@
 "ale_total_bad","Integer","","Recommended","Total Number of Bad Events Validation: No Minimum","","",""
 "ale_total_good","Integer","","Recommended","Total Number of Good Events Validation: No Minimum","","",""
 "comqother","String","255","Recommended","Respondent - Other (text)","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","timepoint"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","timepoint"
 "phenx_tobacco05a","Integer","","Recommended","About how long has it been since you COMPLETELY quit smoking cigarettes?","0::99; -7; -9","number of [phenx_tobacco05b]; -7 = N/A; -9 = Missing",""
 "phenx_tobacco05b","Integer","","Recommended","About how long has it been since you COMPLETELY quit smoking cigarettes? - Enter unit reported","1::4; -7; -9","1 = Days; 2 = Weeks; 3 = Months; 4 = Years; -7 = N/A; -9 = Missing",""
 "phenx_tobacco06","Integer","","Recommended","Have you EVER smoked cigarettes EVERY DAY for at least 6 months?","0; 1; -7; -9; 97","0 = No; 1 = Yes; -7 = N/A; -9 = Missing; 97=Don't Know/Refused",""

@@ -24,7 +24,7 @@
 "catmh_18","Integer","","Recommended","Adult ADHD Category","1::4","1 = NN - none; 2 = NM - normal; 3 = M - mild; 4 = S - severe",""
 "catmh_19","Float","","Recommended","Adult ADHD Severity","0::100","Scale of 0 to 100",""
 "catmh_20","Float","","Recommended","Adult ADHD Precision","0::100","Scale of 0 to 100",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "catdi_category","Integer","","Recommended","Computerized Adaptive Test - Depression Inventory (CAT-DI) Category based on severity score (ranges)","0::3","0 = Normal (less than 50); 1 = Mild (50 to 65); 2 = Moderate (66 to 75); 3 = Severe (higher than 75)",""
 "catanx_category","Integer","","Recommended","Computerized Adaptive Test - Anxiety Inventory (CAT-ANX) Category based on severity score (ranges)","0::3","0 = Normal (less than 35); 1 = Mild (35 to 50); 2 = Moderate (51 to 65); 3 = Severe (higher than 65)",""
 "catmh_21","Integer","","Recommended","Suicidality (CAT-SS) Category","1::4","1 = NN - none; 2 = LR - low risk; 3 = IR - intermediate risk; 4 = HR - high risk",""

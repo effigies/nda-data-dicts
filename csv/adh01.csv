@@ -31,7 +31,7 @@
 "dayscovered_adhd","Integer","","Recommended","Number of days covered by ADHD stimulant medication ","0::365","",""
 "totaldays_adhd","Integer","","Recommended","Total number of days during time period","0::365","",""
 "proportion_adhd","Float","","Recommended","Proportion of days covered by ADHD stimulant medication","0::1","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "month_interview","Integer","","Recommended","Month of the interview","0::6","0=Baseline; 1=Month 1; 2=Month 2; 3=Month 3; 4= Month 4; 5= Month 5; 6=Month 6","month"
 "med_type","String","100","Recommended","Medication type","","",""
 "se_adh_1","Integer","","Recommended","Are you currently prescribed [med_type]?","0;1;9","0 = No; 1 = Yes; 9 = Missing","seam_1,sideeffects_1"

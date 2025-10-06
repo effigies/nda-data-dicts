@@ -53,4 +53,4 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","stais_visit"
 "stais_trait_c_rawscore","Integer","","Recommended","Staic Trait (form c2) scores:sum of staic_c2_q1 to staic_c2_q20 (no reversed score)","20::60","scores:sum of staic_c2_q1 to staic_c2_q20 (no reversed score)",""
 "staic_time","Integer","","Recommended","Indicate time point","1;2","1=before speech task, 2=after speech task",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

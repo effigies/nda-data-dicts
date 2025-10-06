@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "gender_identity","Integer","","Recommended","Gender identity: Do you identify as:","1::12","1 = Female; 2 = Male; 3 = Other; 4 = Agender; 5 = Nonbinary/Fluid; 6 = Transgender female; 7 = Transgender male; 8 = Genderqueer; 9 = Do not wish to report; 10 = Multiple Identities Listed; 11 = Non-binary; 12 = Genderfluid",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "zung_1","Integer","","Recommended","I feel down-hearted and blue","1::4","1= A little of the time; 2= Some of the time; 3= Good part of the time; 4= Most of the time",""
 "zung_2","Integer","","Recommended","Morning is when I feel the best (Reverse Scored)","1::4","4= A little of the time; 3= Some of the time; 2= Good part of the time; 1= Most of the time",""
 "zung_3","Integer","","Recommended","I have crying spells or feel like it","1::4","1= A little of the time; 2= Some of the time; 3= Good part of the time; 4= Most of the time",""

@@ -48,7 +48,7 @@
 "seas_demanding_r","Integer","","Recommended","When you were drinking ALCOHOL in the last 24 hours, how much did you feel: demanding","0::10","0 = Not at all; 5 = Moderately; 10 = Extremely",""
 "seas_mellow_r","Integer","","Recommended","When you were drinking ALCOHOL in the last 24 hours, how much did you feel: mellow","0::10","0 = Not at all; 5 = Moderately; 10 = Extremely",""
 "seas_funny_r","Integer","","Recommended","When you were drinking ALCOHOL in the last 24 hours, how much did you feel: funny","0::10","0 = Not at all; 5 = Moderately; 10 = Extremely",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "seas_relaxed_r","Integer","","Recommended","When you were drinking ALCOHOL in the last 24 hours, how much did you feel: relaxed","0::10","0 = Not at all; 5 = Moderately; 10 = Extremely",""
 "seas_wobbly_r","Integer","","Recommended","When you were drinking ALCOHOL in the last 24 hours, how much did you feel: wobbly","0::10","0 = Not at all; 5 = Moderately; 10 = Extremely",""
 "seas_lively_r","Integer","","Recommended","When you were drinking ALCOHOL in the last 24 hours, how much did you feel: lively","0::10","0 = Not at all; 5 = Moderately; 10 = Extremely",""

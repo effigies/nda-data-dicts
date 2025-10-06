@@ -9,4 +9,4 @@
 "patcso03","Integer","","Recommended","Have you told your father/ closest male guardian/ parent 2 that you are not heterosexual?","0::2","0= No; 1= Yes; 2= Not Applicable","pat_4"
 "patcso04","Integer","","Recommended","How tolerant is your father/closest male guardian/ parent 2 toward your sexual orientation currently?","1::7","1 = Completely tolerant and accepting; 2 = Mostly tolerant and accepting; 3 = Somewhat tolerant and accepting; 4 = Neither accepting nor rejecting; 5= Somewhat hostile and rejecting; 6 = Mostly hostile and rejecting; 7 = Completely hostile and rejecting","pat_6"
 "patcso_score","Float","","Recommended","Parental Attitudes Toward Child's Sexual Orientation Score","","Average of Maternal and Paternal attitude score","pat_mean.c"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

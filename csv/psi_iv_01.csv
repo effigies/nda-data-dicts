@@ -90,7 +90,7 @@
 "psi_4_percent","Integer","","Recommended","Difficult Child (DC) Percentile","","",""
 "daysrz","Integer","","Recommended","days since randomization","","",""
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "beh_health_screening","Integer","","Recommended","Behavioral health screening","0;1;777","0=Negative; 1=Positive; 777=Not applicable",""
 "psi61","Integer","","Recommended","My child is much more active than I expected.","1::5; 888; 999","1=Strongly disagree; 2=Disagree; 3=Not sure; 4=Agree; 5=Strongly agree; 888=NA; 999=Missing",""
 "psi62","Integer","","Recommended","My child squirms and kicks a great deal when being dressed or bathed.","1::5; 888; 999","1=Strongly disagree; 2=Disagree; 3=Not sure; 4=Agree; 5=Strongly agree; 888=NA; 999=Missing",""

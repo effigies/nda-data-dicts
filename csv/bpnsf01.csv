@@ -89,4 +89,4 @@
 "bpnsf_romantic05","Integer","","Recommended","In the relationship with my partner today, I felt like a failure by the mistakes I made.","0::6","0= Totally disagree; 6= Totally agree",""
 "bpnsf_romantic06","Integer","","Recommended","In the relationship with my partner today, I felt pressured to do things that I wouldn't choose myself.","0::6","0= Totally disagree; 6= Totally agree",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","bpns_comments"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

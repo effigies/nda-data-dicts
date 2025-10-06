@@ -259,4 +259,4 @@
 "bart_trial_balloon_onsets","String","100","Recommended","A vector of balloon onset timings for all pump decisions in trial (excluding the final save decision or explosion)","","",""
 "bart_trial_rts","String","100","Recommended","A vector of the response times for all pump decisions in trial (excluding the final save decision or explosion)","","",""
 "bart_trial_outcome_onset","Float","","Recommended","Onset timing of final balloon (save or explosion) in trial","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

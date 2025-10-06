@@ -20,4 +20,4 @@
 "ecstu_con","Integer","","Recommended","How confident are you that these ways of coping with your suicidal thoughts and urges will be helpful?","0::10","0=Not at all confident; 5=Somewhat confident; 10=Completely confident",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

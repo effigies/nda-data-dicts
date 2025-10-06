@@ -24,4 +24,4 @@
 "winning_stranger","Integer","","Recommended","How did you feel while winning money for (stranger)?","-5 :: 5","-5= Negative Feeling; 5= Positive Feeling",""
 "losing_self","Integer","","Recommended","How did you feel while losing money for (self)?","-5 :: 5","-5= Negative Feeling; 5= Positive Feeling",""
 "winning_self","Integer","","Recommended","How did you feel while winning money for (self)?","-5 :: 5","-5= Negative Feeling; 5= Positive Feeling",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

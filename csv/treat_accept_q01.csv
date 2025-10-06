@@ -36,7 +36,7 @@
 "pre_aarp06_parent","Integer","","Recommended","Parent (pre AARP): I will like this treatment","1::6","1=Strongly disagree; 2=Disagree; 3=Slightly disagree; 4=Slightly agree; 5=Agree; 6=Strongly agree",""
 "pre_aarp07_parent","Integer","","Recommended","Parent (pre AARP): The treatment will be a good way to handle my child's problem","1::6","1= Strongly disagree; 2= Disagree; 3= Slightly disagree; 4= Slightly agree; 5= Agree; 6= Strongly agree",""
 "pre_aarp08_parent","Integer","","Recommended","Parent (pre AARP): Overall, this treatment will help my child","1::6","1= Strongly disagree; 2= Disagree; 3= Slightly disagree; 4= Slightly agree; 5= Agree; 6= Strongly agree",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "pre_aarpavg_parent","Float","","Recommended","Parent (pre AARP): Average preAARP (Abbreviated Acceptability Rating Profile) parent score","8::48","",""
 "aarp01_parent","Integer","","Recommended","Parent (AARP): This is an acceptable treatment for my child's problem","1::6","1=Strongly disagree; 2=Disagree; 3=Slightly disagree; 4=Slightly agree; 5=Agree; 6=Strongly agree",""
 "aarp02_parent","Integer","","Recommended","Parent (AARP): The treatment has been effective in helping with my child's problem","1::6","1=Strongly disagree; 2=Disagree; 3=Slightly disagree; 4=Slightly agree; 5=Agree; 6=Strongly agree",""

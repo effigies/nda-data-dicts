@@ -38,4 +38,4 @@
 "psfc2n","Integer","","Recommended","Show me on this scale where you are as of today with your ability to do this second activity. 1 (unable to perform activity), 10 (Able to perform activity at the same level as before injury or problem)","0::10","",""
 "psfc3","String","50","Recommended","Identify a third important activity that you are unable to do or are having difficulty with as a result of your injury.","","",""
 "psfc3n","Integer","","Recommended","Show me on this scale where you are as of today with your ability to do this third activity. 1 (unable to perform activity), 10 (Able to perform activity at the same level as before injury or problem)","0::10","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

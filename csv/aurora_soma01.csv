@@ -131,7 +131,7 @@
 "sensitiveskin_now_indic","Integer","","Recommended","Now at Emergency Department, Sensitive or tender skin indicator","0;1","0=No;1=Yes",""
 "ringingears_now_indic","Integer","","Recommended","Now at Emergency Department, Ringing in the ears indicator","0;1","0=No;1=Yes",""
 "itchyeyesskin_now_indic","Integer","","Recommended","Now at Emergency Department, Itchy eyes or skin indicator","0;1","0=No;1=Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "racingheart_now_indic","Integer","","Recommended","Now at Emergency Department, Racing heart indicator","0;1","0=No;1=Yes",""
 "insomnia_now_indic","Integer","","Recommended","Now at Emergency Department, Insomnia or difficulty sleeping indicator","0;1","0=No;1=Yes",""
 "trembling_now_indic","Integer","","Recommended","Now at Emergency Department, Trembling or shaking hands indicator","0;1","0=No;1=Yes",""

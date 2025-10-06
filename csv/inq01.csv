@@ -47,5 +47,5 @@
 "hopeless","Integer","","Recommended","When I look ahead to the future, I expect that these things will never change.","1::7","1 = Not at all true for me; 2 = Mostly not true for me; 3 = A little not true for me; 4 = Somewhat true for me; 5 = Moderately true for me; 6 = Mostly true for me; 7 = Very true for me",""
 "respondents","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Physician","",""
 "respond_detail_oth_spec","String","255","Recommended","Respondent details","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""

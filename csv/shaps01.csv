@@ -36,7 +36,7 @@
 "pasa1","Integer","","Recommended","I do not feel threatened by the laboratory tests (pre/post assessment)","0;1","0 = No (DO feel threatened); 1 = Yes (DO NOT feel threatened)",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "rt_","Float","","Recommended","The number of milliseconds since the start of the questionnaire until completed","","",""
 "time_elapsed","Float","","Recommended","The number of milliseconds since the start of the experiment until the questionnaire was completed","","",""
 "shaps9a","Integer","","Recommended","I would enjoy reading a book, magazine or newspaper.","0;1;-9","0 = Strongly agree/Agree; 1 = Strongly disagree/Disagree; -9=Incomplete",""

@@ -79,7 +79,7 @@
 "bup05","Integer","","Recommended","If I have to resort to violence to protect my rights, I will.  ","1 :: 7 ; 555; 777; 888; 999","1= Extremely uncharacteristic of me; 7= Extremely characteristic of me; 999= No answer; 888= Skipped; 777= Condition Skipped; 555= Missing","bup5"
 "bup06","Integer","","Recommended","There are people who pushed me so far that we came to blows.  ","1 :: 7 ; 555; 777; 888; 999","1= Extremely uncharacteristic of me; 7= Extremely characteristic of me; 999= No answer; 888= Skipped; 777= Condition Skipped; 555= Missing","bup6"
 "bup07","Integer","","Recommended","I can think of no good reason for ever hitting a person.  ","1 :: 7 ; 555; 777; 888; 999","1= Extremely uncharacteristic of me; 7= Extremely characteristic of me; 999= No answer; 888= Skipped; 777= Condition Skipped; 555= Missing","bup7"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "bpaq_total","Integer","","Recommended","BPAQ - Total Score (using items rated 1-7)","29::203","Sum of items 1-29 (after reversing item 7 and item 18)",""
 "bpaq_physagr","Integer","","Recommended","BPAQ - Physical Aggression Score (using items rated 1-7)","9::63","Sum of items 1-9 (after reversing item 7)",""
 "bpaq_verbagr","Integer","","Recommended","BPAQ - Verbal Aggression Score (using items rated 1-7)","5::35","Sum of items 10-14",""

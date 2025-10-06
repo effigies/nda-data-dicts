@@ -39,4 +39,4 @@
 "olps_verb","Integer","","Recommended","Verbrosity score","","",""
 "olps_inf","Integer","","Recommended","Items not on a factor score","","",""
 "olps_total","Integer","","Recommended","OLPS total score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

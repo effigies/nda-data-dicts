@@ -154,7 +154,7 @@
 "visit_fuvisit_su","Integer","","Recommended","Did your doctor talk with you about substance use during the follow-up visit?   ","0;1","0= No; 1= Yes",""
 "visit_hpsu","Integer","","Recommended","SINCE YOUR CHECK-UP VISIT, did you ever see a health professional  because of problems related to substance use? Examples of health professionals could include doctors, nurses, therapists, counselors, etc.   ","0::2","0= No; 1= Yes; 2= Not sure",""
 "visit_suprog","Integer","","Recommended","SINCE YOUR CHECK-UP VISIT, did you ever use a text-messaging or phone-based program to access help for a substance use problem? Examples include This is Quitting, Smokefree, My Life My Quit, Quit Weed, etc.   ","0;1","0= No; 1= Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "tsr_2_3_3","Integer","","Recommended","Since your last appointment, have you seen a counselor/social worker regarding employment opportunities, training, or education?","0;1","0= No; 1= Yes",""
 "tsr_2_4_1","Integer","","Recommended","Since your last appointment, have you seen someone regarding unemployment compensation, welfare, social security, housing or other income?","0;1","0= No; 1= Yes",""
 "tsr_2_4_2","Integer","","Recommended","Since your last appointment, have you seen a benefits specialist regarding unemployment compensation, welfare, social security, housing or other income?","0;1","0= No; 1= Yes",""

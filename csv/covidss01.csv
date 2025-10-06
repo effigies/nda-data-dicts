@@ -210,7 +210,7 @@
 "worried_covid_love_b","Integer","","Recommended","How worried are you about your loved ones getting sick from COVID-19?","1::4","1= Not at all worried; 2= Not too worried; 3= Somewhat worried; 4= Very worried",""
 "recent_infection","Integer","","Recommended","Have you had a COVID-19 infection since baseline?","0;1;98","0= No; 1= Yes; 98= Do not know/Not sure",""
 "recent_inf_mo_m6","Integer","","Recommended","When was your most recent COVID-19 infection since baseline?","1::7","1= April 2024; 2= May 2024; 3= June 2024; 4= July 2024; 5= August 2024; 6= September 2024; 7= October 2024",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "cov_stress_8","Integer","","Recommended","Have you worked remotely as a direct or indirect result of the COVID-19 pandemic?","0;1","0=No; 1=Yes",""
 "cov_stress_total","Integer","","Recommended","COVID Stress Total Score","","Sum (cov_stress_1 through cov_stress_8)",""
 "cov_stress_1","Integer","","Recommended","Roughly how many of your friends or family do you think or know have had COVID-19?","0::11","0=0 people; 11=11+ people",""

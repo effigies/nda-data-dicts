@@ -238,7 +238,7 @@
 "add_7_pc","Integer","","Recommended","How would you rate the youth participant''s performance over the past four weeks?","1::5;998;999","1=Not doing well at all; 2=Doing a little bit well; 3=Doing okay; 4=Doing well; 5=Doing great; 998=Don''t know; 999=No answer",""
 "add_8_pc","Integer","","Recommended","How would you rate the youth participant''s performance over the past week?","1::5;998;999","1=Not doing well at all; 2=Doing a little bit well; 3=Doing okay; 4=Doing well; 5=Doing great; 998=Don''t know; 999=No answer",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "add_1_pc","Integer","","Recommended","Has the youth participant participated in a training program or school related program in the past month?","0;1","0=No; 1=Yes",""
 "add_2_pc","Integer","","Recommended","How many days in the past month were typical participants expected to attend sessions at this training program or school program per week?","","Number of days",""
 "add_3_pc","Date","","Recommended","What date did the youth participant first enroll at this training program or school program?","","MM/DD/YYYY",""

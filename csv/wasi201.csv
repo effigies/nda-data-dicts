@@ -247,4 +247,4 @@
 "wasi_voc_t","Float","","Recommended","Vocabulary T Score","","",""
 "wasi_mr_t","Float","","Recommended","Total T Score - Matrix Reasoning","","",""
 "iq","Integer","","Recommended","IQ score as defined by the completion of an appropriate assessement","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

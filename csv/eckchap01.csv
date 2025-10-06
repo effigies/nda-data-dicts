@@ -55,4 +55,4 @@
 "chaphypo47","Integer","","Recommended","I would rather be an ordinary success in life than a spectacular failure.","0;1","1=True; 0=False","hps47"
 "chaphypo48","Integer","","Recommended","A hundred years after I'm dead, my achievements will probably have been forgotten.","0;1","1=True; 0=False","hps48"
 "chaphypo_total","Integer","","Recommended","Hypomania total score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

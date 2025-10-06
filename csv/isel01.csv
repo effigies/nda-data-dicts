@@ -54,7 +54,7 @@
 "site","String","101","Recommended","Site","","Study Site","site_id,siteid"
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""
 "isel8","Integer","","Recommended","Most people I know think highly of me","0;1;-4;-5;-6;-7;-8;-9","0= False; 1= True; -4= Skipped Item; -5= Do Not know; -6= refuses to Answer; -7= Not Applicable; -8= Invalid Response; -9= Blank For Another Reason",""
 "isel9","Integer","","Recommended","There is no one I could call on if I needed to borrow a car for a few hours","0;1;-4;-5;-6;-7;-8;-9","0= False; 1= True; -4= Skipped Item; -5= Do Not know; -6= refuses to Answer; -7= Not Applicable; -8= Invalid Response; -9= Blank For Another Reason",""

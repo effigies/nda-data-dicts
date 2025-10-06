@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "er_neut_na","Integer","","Recommended","Emotion Regulation - Neutral - Negative Affect: PANAS-Brief Negative Affect composite scores following the Neutral film clip (2-min)","5::50;-999","-999= Missing",""
 "er_nreg_na","Integer","","Recommended","Emotion Regulation - Non-Regulation - Negative Affect: PANAS-Brief Negative Affect composite scores following the Non-Regulation (i.e., negative/sad with no instruction about emotion regulation) film clip (2-min)","5::50;-999","-999= Missing",""
 "er_reg_na","Integer","","Recommended","Emotion Regulation - Regulation - Negative Affect: PANAS-Brief Negative Affect composite scores following the Regulation (i.e., negative/sad with instruction to reduce negative emotions) film clip (2-min)","5::50;-999","-999= Missing",""

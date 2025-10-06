@@ -47,7 +47,7 @@
 "copar_score6","Integer","","Recommended","Endorse Partner Parenting","","",""
 "copar_score7","Integer","","Recommended","Division of Labor","","",""
 "copar_score8","Integer","","Recommended","Brief Measure of Coparenting","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "cg_bcrs29","Integer","","Recommended","My coparent does not like to be bothered by our child.","0::6","0 = Not true of us; 2 = A little bit true of us; 4 = Somewhat true of us; 6 = Very true of us",""
 "cg_bcrs_a","Integer","","Recommended","Is there someone that acts as a co-parent to your adolescent participating in this study?","1;2","1=Yes; 2= No",""
 "cg_bcrs_b","String","100","Recommended","Co-parent relation to participant","","",""

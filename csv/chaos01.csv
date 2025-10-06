@@ -35,7 +35,7 @@
 "chaos_13","Integer","","Recommended","The telephone takes up a lot of our time at home","1::4","1 = Very much like your own home; 2 = Somewhat like your own home; 3 = A little bit like your own home; 4 = Not at all like your own home","t1cha13"
 "chaos_14","Integer","","Recommended","The atmosphere in our home is calm","1::4","1 = Very much like your own home; 2 = Somewhat like your own home; 3 = A little bit like your own home; 4 = Not at all like your own home","t1cha14"
 "chaos_15","Integer","","Recommended","First thing in the day, we have a regular routine at home","1::4","1 = Very much like your own home; 2 = Somewhat like your own home; 3 = A little bit like your own home; 4 = Not at all like your own home","t1cha15"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "ch08","Integer","","Recommended","(True/Untrue) There is often a fuss going on at our home.","1 :: 5","1= Definitely untrue; 2= Somewhat untrue; 3= Not really true/untrue; 4= Somewhat true; 5= Definitely true",""
 "ch09","Integer","","Recommended","(True/Untrue) No matter what our family plans, it usually doesn't seem to work out.","1 :: 5","1= Definitely untrue; 2= Somewhat untrue; 3= Not really true/untrue; 4= Somewhat true; 5= Definitely true",""
 "ch10","Integer","","Recommended","(True/Untrue) You can't hear yourself think in our home.","1 :: 5","1= Definitely untrue; 2= Somewhat untrue; 3= Not really true/untrue; 4= Somewhat true; 5= Definitely true",""

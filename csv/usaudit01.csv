@@ -84,7 +84,7 @@
 "usaudit_q30_9","Integer","","Recommended","During the past 30 days, how did you get the alcohol you drank (select all that apply)? I took it from a store or family member","0;1","0=Not Selected; 1=Selected",""
 "usaudit_q30_10","Integer","","Recommended","During the past 30 days, how did you get the alcohol you drank (select all that apply)? I got it some other way","0;1","0=Not Selected; 1=Selected",""
 "usaudit_q31","Float","","Recommended","How far away, in miles, is the store where you typically purchase alcohol?","","Number in miles",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "responseid","Integer","","Recommended","Randomly generated response ID number","","",""
 "startdatetime","String","20","Recommended","Date & time participant started survey for a given timepoint","","MM/DD/YYYY 24:00",""
 "enddatetime","String","20","Recommended","Date & time participant ended survey for a given timepoint","","MM/DD/YYYY 24:00",""

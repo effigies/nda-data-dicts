@@ -27,4 +27,4 @@
 "qq_work4","Integer","","Recommended","During the past 7 days, not including today, how many hours did you actually work?","0::168","",""
 "qq_work5","Integer","","Recommended","During the past 7 days, not including today, how much did your health problems affect your productivity while you were working?","0::10","0=Health problems had no effect on my daily activities; 10=Health problems completely prevented me from doing my daily activities",""
 "qq_work6","Integer","","Recommended","During the past 7 days, not including today, how much did your health problems affect your ability to do your regular, daily non-work activities?","0::10","0=Health problems had no effect on my daily activities; 10=Health problems completely prevented me from doing my daily activities",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

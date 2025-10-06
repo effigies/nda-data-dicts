@@ -873,7 +873,7 @@
 "constart_age52","Float","","Recommended","Med 52: Start age in months","","",""
 "constop_age52","Float","","Recommended","Med 52: Stop age in months","","",""
 "participant_cycle_number","Integer","","Recommended","Participant cycle number","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "bmrciv_perciv","Integer","","Recommended","Per day administration (e.g. tablets/teaspoons) Medication 3","","88 = Missing; 99 = Don''t remember",""
 "bmrdii","Integer","","Recommended","Medication 4 Type","1::9","1 = Tablet; 2 = Syrup; 3 = Injection; 4 = Ointment; 5 = Spray; 6 = Drops; 7 = Powder; 8 = Other; 9 = Don''t remember",""
 "perdiv","Integer","","Recommended","Per day administration (e.g. tablets/teaspoons) Medication 4","","88 = Missing; 99 = Don''t remember",""

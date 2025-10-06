@@ -19,7 +19,7 @@
 "ethnicity","String","30","Recommended","","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","","sdis_3"
 "pt_edu_years","Float","","Recommended","","Participant's years of education","","101=Missing",""
 "maritalstatus","Integer","","Recommended","","Marital Status:","0::6;-99;77;88","0= Married ; 1= Living together ; 2= Separated ; 3= Divorced ; 4= Single ; 5 = Widowed ; 6 = Civil Union ; -99= N/A ; 77= Refused ; 88= Missing",""
-"timepoint_label","String","50","Recommended","","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "campus08","Integer","","Recommended","","Are you an international student?","0;1","0= No; 1= Yes","sdis_11"
 "campus09","Integer","","Recommended","","Did you transfer from another institution/campus to this school?","0;1","0= No; 1= Yes","sdis_12"
 "campus10","Integer","","Recommended","","Are you registered with and/or receiving services from the office of disability services on this campus to receive accommodations and support your learning due to a disability?","0;1","0= No; 1= Yes","sdis_13"

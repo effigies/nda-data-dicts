@@ -122,7 +122,7 @@
 "scaared_pals5","Integer","","Recommended","How true has it been in the PAST 3 MONTHS: When I get anxious, I feel like passing out","0::2; -99; 77; 88","0 = Not true or hardly ever true; 1 = Somewhat or sometimes true; 2 = Very true or often true; -99= N/A; 77= Refused ; 88= Missing",""
 "scaared_pals6","Integer","","Recommended","How true has it been in the PAST 3 MONTHS: I am nervous","0::2; -99; 77; 88","0 = Not true or hardly ever true; 1 = Somewhat or sometimes true; 2 = Very true or often true; -99= N/A; 77= Refused ; 88= Missing",""
 "scaared_pals7","Integer","","Recommended","How true has it been in the PAST 3 MONTHS: It is hard for me to stop worrying","0::2; -99; 77; 88","0 = Not true or hardly ever true; 1 = Somewhat or sometimes true; 2 = Very true or often true; -99= N/A; 77= Refused ; 88= Missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""
 "p_scared_8_base","Integer","","Recommended","Select the response that seems to best describe your child for the last 6 months: My child follows me wherever I go.","0::2","0 = Not true or hardly ever true; 1 = Somewhat true or sometimes true; 2 = Very true or often true",""
 "p_scared_9_base","Integer","","Recommended","Select the response that seems to best describe your child for the last 6 months: People tell me that my child looks nervous.","0::2","0 = Not true or hardly ever true; 1 = Somewhat true or sometimes true; 2 = Very true or often true",""

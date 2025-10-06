@@ -31,4 +31,4 @@
 "pmpse_total","Integer","","Recommended","Perceived Maternal Parenting Self-Efficacy (PMP S-E) Total Score","20::80","Higher scores indicate higher levels of maternal self-efficacy",""
 "fetal_age","Integer","","Recommended","Age of the fetus (i.e., gestational age) in days","0::322","",""
 "fetal_age_type","Integer","","Recommended","Type of gestational age used for fetal_age","1;2","1 = Postovulatory gestational age, defined as days since the last ovulation, expected term of 266 days; 2 = Postmenstrual gestational age, days since the last menstrual period, expected term of 280 days",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

@@ -401,4 +401,4 @@
 "wech6","Integer","","Recommended","WIAT Screener Test Results: Basic reading standard score","","",""
 "wech7","Integer","","Recommended","WIAT Screener Test Results: Teen requires assistance with reading materials","0;1","0 = No; 1 = Yes",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

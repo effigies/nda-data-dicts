@@ -82,5 +82,5 @@
 "nih_tlbx_fctsc","Float","","Recommended","Fully-Corrected T-Score","0::120","",""
 "comqother","String","255","Recommended","Respondent - Other (text)","","","respondent"
 "fneproc","String","20","Recommended","name of trial procedure being run","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "edang_sf_pros","Integer","","Recommended","Level 2 - Adult - Anger SF Prorated raw score","5::25","",""

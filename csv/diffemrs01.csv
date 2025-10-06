@@ -42,7 +42,7 @@
 "der_q36","Integer","","Recommended","When I'm upset, my emotions feel overwhelming.","0::4;999","0 = Almost Never; 1 = Sometimes; 2 = About Half of the Time; 3 = Most of the Time; 4 = Always; 999 = Missing","ders_36_overwhelming"
 "der_q37","Integer","","Recommended","When I am upset, I have difficulty making sense out of my feelings.","0::4;999","0 = Almost Never; 1 = Sometimes; 2 = About Half of the Time; 3 = Most of the Time; 4 = Always; 999 = Missing",""
 "der_q38","Integer","","Recommended","When I am upset, I am attentive to my feelings.","0::4;999","0 = Almost Never; 1 = Sometimes; 2 = About Half of the Time; 3 = Most of the Time; 4 = Always; 999 = Missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","timepoint"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","timepoint"
 "ders_20_get_done","Integer","","Recommended","When I''m upset, I can still get things done.","0::4;999","0 = Always; 1 = Most of the Time; 2 = About Half of the Time; 3 = Sometimes; 4 = Almost Never; 999 = Missing",""
 "ders_22_event_better","Integer","","Recommended","When I''m upset, I know that I can find a way to eventually feel better.","0::4;999","0 = Always; 1 = Most of the Time; 2 = About Half of the Time; 3 = Sometimes; 4 = Almost Never; 999 = Missing",""
 "ders_24_control_behaviors","Integer","","Recommended","When I''m upset, I feel like I can remain in control of my behaviors.","0::4;999","0 = Always; 1 = Most of the Time; 2 = About Half of the Time; 3 = Sometimes; 4 = Almost Never; 999 = Missing",""

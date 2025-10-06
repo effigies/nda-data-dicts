@@ -46,7 +46,7 @@
 "externalreference","String","255","Recommended","External Data Reference","","",""
 "sample","Integer","","Recommended","Training or randomized case","1::5","1 = randomized; 2 = training; 3=randomized-control; 4=randomized-intervention; 5=concurrent cohort-intervention",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "bads26","Integer","","Recommended","26. I did things that are enjoyable.","0::6","0= Not at all; 2= A little; 4= A lot; 6= Completely",""
 "bads_24hr_8","Integer","","Recommended","In the past 24 hours I spent a long time thinking over and over about my problems.","0::6","0= Not at all; 1; 2= A little; 3; 4= A lot; 5; 6= Completely",""
 "bads_24hr_9","Integer","","Recommended","In the past 24 hours I am content with the amount and types of things I did.","0::6","0= Not at all; 1; 2= A little; 3; 4= A lot; 5; 6= Completely",""

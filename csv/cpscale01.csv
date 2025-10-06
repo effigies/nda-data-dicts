@@ -58,7 +58,7 @@
 "cps_p_q33cc","Integer","","Recommended","Community Participation Item 33 - Document Credit cards","0;1; 888; 999","0 = no; 1 = yes; 888 = not applicable; 999 = missing",""
 "cps_p_q33other","Integer","","Recommended","Community Participation Item 33 - Document Other","0;1; 888; 999","0 = no; 1 = yes; 888 = not applicable; 999 = missing",""
 "sp_leisure_no","String","300","Recommended","If NO, why do you not do any leisure activities (swimming, playing an instrument, participating in youth organizations, etc.)?","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "sp_invite","Integer","","Recommended","Do you invite friends home to hang out and eat?","0;1;666","0=No; 1=Yes; 666=Missing",""
 "sp_invite_no","String","300","Recommended","If NO, why do you not invite friends home to hang out and eat?","","",""
 "sp_celebrate","Integer","","Recommended","Do you celebrate special occasions such as birthdays, religious events, etc.?","0;1;666","0=No; 1=Yes; 666=Missing",""

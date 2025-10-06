@@ -22,5 +22,5 @@
 "pcs_magnification","Integer","","Recommended","Magnification score","","",""
 "pcs_helplessness","Integer","","Recommended","Helplessness score","","",""
 "pcs_pctl","Float","","Recommended","PCS Percentile","0::100","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","redcap_event_name"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","redcap_event_name"
 "paincatastrophizing","Float","","Recommended","HEAL pain catastrophizing summary score","0::24","Sum of 6 items pcs_04-06, 10, 11, 13 with missing value imputation","pcq_sum"

@@ -59,6 +59,6 @@
 "aq_total_score","Integer","","Required","Total score summed according to scoring key.","0 :: 150; 999","Adult/Adolescents versions total score = 50;Child Ages 4-11 total score = 150; 999=missing",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","aq_apt"
 "site","String","101","Recommended","Site","","Study Site",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "comments","String","4000","Recommended","Comments about assessment","","",""

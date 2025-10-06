@@ -168,4 +168,4 @@
 "cal_aggr","Float","","Recommended","Callous Aggression score","","",""
 "sub_abuse","Float","","Recommended","Substance Abuse Score","","",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

@@ -69,7 +69,7 @@
 "anxphob_f89_phobia","Integer","","Recommended","SPECIFIC PHOBIA.  - past month; marked fear or anxiety about a specific object or situation (e.g., flying, heights, animals, receiving an injection, seeing blood)","1 :: 4","1 = Absent;2 = Subthreshold;3 = Threshold;4 = Severe","scidv_f89"
 "anxphob_f90_consistency","Integer","","Recommended","SPECIFIC PHOBIA. - past month; the phobic object or situation almost always provokes immediate fear or anxiety","1 :: 4","1 = Absent;2 = Subthreshold;3 = Threshold;4 = Severe","scidv_f90"
 "anxphob_f91_phobicavoidance","Integer","","Recommended","SPECIFIC PHOBIA.  - past month; the phobic situation(s) is actively avoided, or endured with intense fear or anxiety","1 :: 4","1 = Absent;2 = Subthreshold;3 = Threshold;4 = Severe","scidv_f91"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "sciddv_sad_a_cb02___f68e","Integer","","Recommended","Social Anxiety Disorder: Social Anxiety Disorder Criterion A Performing/public speaking","0;1","0= Unchecked; 1= Checked/Present ",""
 "sciddv_f136s","Integer","","Recommended","Past Generalized Anxiety Disorder: Criterion C Severity -  (FREQUENT)","1;4;-8","1= False; 4= Severe  (Did you experience some combination of each of these every day for the full (6 month period od anxiety and worry?); -8= Missing",""

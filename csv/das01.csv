@@ -128,4 +128,4 @@
 "das5_5pt","Integer","","Recommended","If a person is not a success, then his/her life is meaningless.","1::5","1 = Totally Agree; 2 = Agree Somewhat; 3 = Neither Agree nor Disagree; 4 = Disagree Somewhat; 5 = Totally Disagree",""
 "das6_5pt","Integer","","Recommended","If someone performs a selfish act, this means he/she is a selfish person.","1::5","1 = Totally Agree; 2 = Agree Somewhat; 3 = Neither Agree nor Disagree; 4 = Disagree Somewhat; 5 = Totally Disagree",""
 "das7_5pt","Integer","","Recommended","I should be happy all the time.","1::5","1 = Totally Agree; 2 = Agree Somewhat; 3 = Neither Agree nor Disagree; 4 = Disagree Somewhat; 5 = Totally Disagree",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

@@ -100,4 +100,4 @@
 "word_wrat_55","Integer","","Recommended","Word: terpsichorean","1;2;-99;-999","1=Yes; 2=No; -99=Don't know; -999=No response",""
 "wrat_scaled","Integer","","Recommended","Word: Scaled Score","1;2","1= Yes; 2= No",""
 "visit_year","Integer","","Recommended","Year of visit","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

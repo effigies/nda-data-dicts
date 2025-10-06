@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
 "src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "admin_status","String","20","Recommended","Instrument administration status","Complete;Partial;Not Administered;Not Applicable","","Family_Bio_Administration_Status"
 "family_bio_relation_resp_coi","String","10","Recommended","""Family Biographical History Form (0:0 to 4:5 y:m) Relationship, to the Child of Interest (COI), of the person filling out the form (Mother, Father, Other, No Answer)""","Mother;Father;Other;No Answer","","Family_Bio_Relationship_of_Respondent_to_COI"
 "family_bio_coi_biol_mother_age","Integer","","Recommended","Family Biographical History Form (0:0 to 4:5 y:m) Question IA1 Child of Interest (COI) Biological Mother current age in years at brain scan timepoint","","","Family_Bio_IA1_COI_Biol_Mother_Current_Age_in_Years"

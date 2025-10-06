@@ -92,7 +92,7 @@
 "pipr20mm_blue","Float","","Recommended","Average pupil size in mm at 10-30 seconds post stimulus for blue trials ","-100::100;-9999","-9999 = Not Applicable",""
 "pipr20mm_red","Float","","Recommended","Average pupil size in mm at 10-30 seconds post stimulus for red trials ","-100::100;-9999","-9999 = Not Applicable",""
 "pipr30mm_blue","Float","","Recommended","Average pupil size in mm at 10-40 seconds post stimulus for blue trials ","-100::100;-9999","-9999 = Not Applicable",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "pipr_date_time","String","20","Recommended","Date and time of Post-Illumination Pupil Response (PIPR)","","MM/DD/YYYY HH:MM AM/PM",""
 "eye_used","Integer","","Recommended","Eye used","1;2","1 = Left; 2 = Right",""
 "done_final","Integer","","Recommended","Quality check ","0;1","0 = No; 1 = Yes",""

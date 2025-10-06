@@ -20,4 +20,4 @@
 "lda_3","Float","","Recommended","The probability that a given journal entry is correlated with the third topic determined by Latent Dirichlet Allocation (LDA) modeling","0::1","",""
 "lda_4","Float","","Recommended","The probability that a given journal entry is correlated with the fourth topic determined by Latent Dirichlet Allocation (LDA) modeling","0::1","",""
 "lda_5","Float","","Recommended","The probability that a given journal entry is correlated with the fifth topic determined by Latent Dirichlet Allocation (LDA) modeling","0::1","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

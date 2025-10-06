@@ -117,7 +117,7 @@
 "pexp11","Integer","","Recommended","People forget their problems when they drink.","1::5","1 = Not at all; 2 = A little bit; 3 = Somewhat; 4 = Quite a bit; 5 = Very much",""
 "pexp12","Integer","","Recommended","Drinking improves a person's mood.","1::5","1 = Not at all; 2 = A little bit; 3 = Somewhat; 4 = Quite a bit; 5 = Very much",""
 "pexp13","Integer","","Recommended","People feel happy when they drink.","1::5","1 = Not at all; 2 = A little bit; 3 = Somewhat; 4 = Quite a bit; 5 = Very much",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "neco_1wk_01","Integer","","Recommended","In the past 7 days: I was unreliable after I drank.","1::5","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Almost always",""
 "neco_1wk_02","Integer","","Recommended","In the past 7 days: Others complained about my drinking.","1::5","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Almost always",""
 "neco_1wk_03","Integer","","Recommended","In the past 7 days: Drinking created problems between me and others.","1::5","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Almost always",""

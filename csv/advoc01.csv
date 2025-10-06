@@ -59,7 +59,7 @@
 "pr_knowhop3c","Integer","","Recommended","The services and supports available to help achieve this goal?","1::5","1=Not at all; 2 =Slightly; 3 =To some extent; 4= Quite a bit; 5= Very much so",""
 "pr_knowhop4","String","100","Recommended","What would you most like to get out of this training?","","",""
 "pr_knowhop5","String","150","Recommended","Is there anything else that you would like to tell us?","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "pr_skills2","Integer","","Recommended","How able are you to apply your rights and knowledge of the laws in navigating services for your child? ","1::5;999","1 = Not at all; 2 = A little; 3 = Sometimes; 4 = Often; 5 = Very often; 999 = Missing",""
 "pr_skills3","Integer","","Recommended","How able are you to advocate for your son/daughter''s needs in trying to get services? ","1::5;999","1 = Not at all; 2 = A little; 3 = Sometimes; 4 = Often; 5 = Very often; 999 = Missing",""
 "pr_skills4","Integer","","Recommended","How able are you to assert yourself in trying to get services and/or support for your son/daughter? ","1::5;999","1 = Not at all; 2 = A little; 3 = Sometimes; 4 = Often; 5 = Very often; 999 = Missing",""

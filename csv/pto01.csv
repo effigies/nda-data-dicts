@@ -74,7 +74,7 @@
 "btaa3","Float","","Recommended","Length of session (minutes)","","999=Legitmately skipped",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
 "site","String","101","Recommended","Site","","Study Site",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "durndoc","Integer","","Recommended","duration of doctor visit (minutes)","","",""
 "nextpt","Integer","","Recommended","days from baseline to next pharmacotherapy visit","","",""
 "nexttim","String","20","Recommended","Time of next pharmacotherapy visit ","","",""

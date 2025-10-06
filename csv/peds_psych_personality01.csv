@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
 "src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "cbcl_comp_totalcompetence_t_sc","Integer","","Recommended","CBCL (4-18 or 6-18): Competence scale total competence T score","","","CBCL_4to18_or_6to18_Competence_Scale_TotalCompetence_T_Score"
 "dps4_adhd_number_of_items","Integer","","Recommended","DPS-4 (Youth): Attention deficit hyperactivity disorder number of  items endorsed (4 or more out of 6 is positive for possible diagnosis)","","","DPS4_ADHD_Number_of_Items_Endorsed"
 "dps4_agoraphobia_num_of_items","Integer","","Recommended","DPS-4 (Youth): Agoraphobia number of items endorsed (2 or more out of 4 is positive for possible diagnosis)","","","DPS4_Agoraphobia_Number_of_Items_Endorsed"

@@ -42,7 +42,7 @@
 "se8_bully_2","Integer","","Recommended","How often are you bullied by your peers in each of the following ways? Verbally (e.g., teased, threatened, called names)","1 :: 5","1= Very Often; 2= Often; 3= Sometimes; 4= Rarely; 5= Never","bully_2"
 "se8_bully_3","Integer","","Recommended","How often are you bullied by your peers in each of the following ways? Relationally (e.g.,  purposefully ignored, excluded, had rumors spread about you)","1 :: 5","1= Very Often; 2= Often; 3= Sometimes; 4= Rarely; 5= Never","bully_3"
 "se8_bully_4","Integer","","Recommended","How often are you bullied by your peers in each of the following ways? Cyberbullying (e.g., via social media platforms like Facebook, Twitter, or Snapchat, text messages, online video games)","1 :: 5","1= Very Often; 2= Often; 3= Sometimes; 4= Rarely; 5= Never","bully_4"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "stressexp3m_2","Integer","","Recommended","In the past 12 months, did you have any of the following stressful experiences? Serious accident (e.g., motor vehicle, workplace, or recreational accident)","0;1","0= No; 1= Yes","stressexp12m_2"
 "stressexp3m_3","Integer","","Recommended","In the past 12 months, did you have any of the following stressful experiences? Death of a close loved one due to COVID-19 ","0;1","0= No; 1= Yes","stressexp12m_3"

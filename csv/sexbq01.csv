@@ -92,7 +92,7 @@
 "sbcp136","Integer","","Recommended","Of your casual HIV-UNKOWN partners who were TRANSGENDER MEN, how many times in the last three months/past week did you have: Mutual Masturbation","","","cp.transgendermen.unk.mm"
 "sbcp137","Integer","","Recommended","In general, when you have anal sex with transgender men, how often do you use condoms","1::6","1= All the time; 2= Almost all the time; 3= Sometimes; 4= Hardly ever; 5= Never; 6= I never have anal sex with transgender men partners","cp.transgendermen.ac.freq"
 "sbcp138","Integer","","Recommended","In general, when you have frontal/vaginal sex with transgender men, how often do you use condoms","1::6","1= All the time; 2= Almost all the time; 3= Sometimes; 4= Hardly ever; 5= Never; 6= I never have frontal/vaginal sex with transgender men partners","cp.transgendermen.vc.freq"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "gen1_mpm_o","Integer","","Recommended","How many times have you done each of the following with your main partner? (Male participant with gender specified main parter): Oral Sex","","","gen1.mpm_o"
 "gen1_mpm_ai_c","Integer","","Recommended","How many times have you done each of the following with your main partner? (Male participant with gender specified main parter): Anal sex (as top/insertive) without a condom","","","gen1.mpm_ai.c"
 "gen1_mpm_ai_nc","Integer","","Recommended","How many times have you done each of the following with your main partner? (Male participant with gender specified main parter): Anal sex (as top/insertive) with a condom","","","gen1.mpm_ai.nc"

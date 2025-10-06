@@ -220,7 +220,7 @@
 "ohc_know___8","Integer","","Recommended","How do you know this information? (Check all that apply.) None of the above","0;1","0 = No; 1 = Yes",""
 "ohc_know_other","String","200","Recommended","How do you know this information? (Check all that apply.) Other: please write in","","",""
 "ohc_confident","Float","","Recommended","On a scale of 0  to 10, how confident are you about your responses?","0::10","0 = Not at all confident; 10 = Totally confident",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "oh_qol","Integer","","Recommended","In general, how (Direct Report: would you / Caregiver Report: do you think they would) rate (your/their): Quality of life","1::5","1 = Poor; 2=Fair; 3=Good; 4=Very Good; 5 = Excellent",""
 "oh_physical_health","Integer","","Recommended","In general, how (Direct Report: would you / Caregiver Report: do you think they would) rate (your/their): Physical health","1::5","1 = Poor; 2=Fair; 3=Good; 4=Very Good; 5 = Excellent",""
 "oh_mental_health","Integer","","Recommended","In general, how (Direct Report: would you / Caregiver Report: do you think they would) rate (your/their): Mental health","1::5","1 = Poor; 2=Fair; 3=Good; 4=Very Good; 5 = Excellent",""

@@ -27,7 +27,7 @@
 "wellbeing2_2","Integer","","Recommended","How much do you agree with each of the following statements: I am a good person and live a good life?","0::4","0 = Strongly disagree; 1 = Somewhat disagree; 2 = Neither agree nor disagree; 3 = Somewhat agree; 4 = Strongly agree",""
 "wellbeing2_3","Integer","","Recommended","How much do you agree with each of the following statements: I am optimistic about the future?","0::4","0 = Strongly disagree; 1 = Somewhat disagree; 2 = Neither agree nor disagree; 3 = Somewhat agree; 4 = Strongly agree",""
 "wellbeing2_4","Integer","","Recommended","How much do you agree with each of the following statements: People respect me?","0::4","0 = Strongly disagree; 1 = Somewhat disagree; 2 = Neither agree nor disagree; 3 = Somewhat agree; 4 = Strongly agree",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "currstudent3m","Integer","","Recommended","The next questions are about your experiences at university. Are you currently a student?","0;1","0= No; 1= Yes","currstudent12m"
 "graduated3m","Integer","","Recommended","Did you graduate or did you take time off without graduating?","1;2","1= Graduated; 2= Took time off without graduating","graduated12m"

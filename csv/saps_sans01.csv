@@ -168,4 +168,4 @@
 "sans_aa13","Float","","Recommended","Impersistence at Work or School (relative to gen. population)�","0::5; 9","0 = None; 1 = Questionable; 2 = Mild; 3 = Moderate; 4 = Marked; 5 = Severe; 9 = NA/NK",""
 "sans_aa14","Float","","Recommended","Impersistence at Work or School (relative to selected sample)","0::5; 9","0 = None; 1 = Questionable; 2 = Mild; 3 = Moderate; 4 = Marked; 5 = Severe; 9 = NA/NK",""
 "saps_pftd10","Integer","","Recommended","SAPS. Positive Formal Thought Disorder. Inappropriate Affect","0::5","0 = None; 1 = Questionable; 2 = Mild; 3 = Moderate; 4 = Marked; 5 = Severe",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

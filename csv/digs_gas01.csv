@@ -8,7 +8,7 @@
 "digs_gas_current_episode","Integer","","Recommended","Global Assessment Scale (GAS): At worst point during current episode","","Current Episode GAS",""
 "digs_gas_during_past_month","Integer","","Recommended","Global Assessment Scale (GAS): During past month","","Past Month GAS",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","assessment_type"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","assessment_type"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "cgas_01","Integer","","Recommended","Rate the child/adolescents most impaired level of general functioning during the specified period rated by selecting the lowest level which describes his/her functioning on a hypothetical continuum of health-illness.","1 :: 100","1= Most Impaired; 100= Healthiest",""
 "cgas_02","Integer","","Recommended","Rate actual functioning regardless of treatment or prognosis.","1 :: 100","1= Needs Constant Supervision; 100= Superior Functioning",""

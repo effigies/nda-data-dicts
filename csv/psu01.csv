@@ -33,7 +33,7 @@
 "psu13","Integer","","Recommended","How many of your friends would you estimate get drunk at least once a week?","1::5","1 = None; 2 = Few; 3 = Some; 4 = Most; 5 = All",""
 "psu14","Integer","","Recommended","How many of your friends would you estimate use e-cigarette, e-pen, etc.?","1::5","1 = None; 2 = Few; 3 = Some; 4 = Most; 5 = All",""
 "peer_nouse","Integer","","Recommended","The kids I hang around with don''t use alcohol or other drugs.","1::4","1= Strongly Disagree; 2= Disagree; 3= Agree; 4= Strongly Agree",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "peer_okay_alc","Integer","","Recommended","The kids I hang around with think it''s okay for kids to drink alcohol.","1::4","1= Strongly Disagree; 2= Disagree; 3= Agree; 4= Strongly Agree",""
 "peer_okay_mj","Integer","","Recommended","The kids I hang around with think it''s okay for kids to use marijuana.","1::4","1= Strongly Disagree; 2= Disagree; 3= Agree; 4= Strongly Agree",""
 "peer_sch","Integer","","Recommended","Some kids I hang around with use alcohol or drugs before or during school.","1::4","1= Strongly Disagree; 2= Disagree; 3= Agree; 4= Strongly Agree",""

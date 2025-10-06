@@ -46,7 +46,7 @@
 "affirm_selfefficacy","Integer","","Recommended","Affirms Self Efficacy technique use","0::2","0 = Never/Not at all; 1 = A little bit OR Moderately; 2 = Quite a bit OR Extensively",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "training_week","Integer","","Recommended","Week of online coder training system","0::25","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "psud_01","Integer","","Recommended","Which of these behaviors did your child do this week?","1::17","1=Annoyed others; 2=Argued; 3=Bullied; 4=Destroyed property; 5=Did something helpful; 6=Followed directions; 7=Hit, kicked, or bit; 8=Lied; 9=Said something nice; 10=Shared; 11=Skipped school; 12=Stole; 13=Swore; 14=Talked back; 15=Was defiant or oppositional; 16=Was kind; 17=None of these behaviors",""
 "psud_02","Integer","","Recommended","For each negative behavior selected in psud_01, indicate which strategies you used to address this behavior.","1::7","1=Ignoring; 2=Communicate using iMessages; 3=Loss of privilege; 4=Logical consequence; 5=Made a behavior contract; 6=Other strategy; 7=None of these strategies",""
 "psud_03","Integer","","Recommended","For each positive  behavior selected in psud_01, indicate which strategies you used to address this behavior.","1::7","1=Reward; 2=Praise; 3=Communicate using iMessages; 4=Made a behavior contract; 5=Active listening; 6=Other strategy; 7=None of these strategies",""

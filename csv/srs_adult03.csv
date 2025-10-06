@@ -110,7 +110,7 @@
 "srs_total_ts","Integer","","Recommended","","SRS Total T-Score","","",""
 "score_discussion","Integer","","Recommended","","SRS Total Score Discussion","1::4","1=Withing normal limits; 2=Mild range; 3=Moderate range; 4=Severe range",""
 "txgroup","String","50","Recommended","","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""
-"timepoint_label","String","50","Recommended","","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "awr_rs","Integer","","Recommended","","Awareness Raw Score","","",""
 "awr_ts","Integer","","Recommended","","Awareness T-Score","","",""
 "cog_rs","Integer","","Recommended","","Cognition Raw Score","","",""

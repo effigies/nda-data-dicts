@@ -55,7 +55,7 @@
 "sub_lifetime_04","Integer","","Recommended","In your lifetime, have you used any other drugs besides alcohol, tobacco, or marijuana (e.g., cocaine or meth; inhalants, hallucinogen, or poppers; ecstasy, GHB, Ketamine, or heroin)","0;1;888;999","0=No/Unchecked; 1=Yes/Checked; 888=N/A - condition skipped; 999 = Missing/No answer",""
 "sub_lifetime_05","Integer","","Recommended","In your lifetime, have you used prescription drugs in order to get high (e.g., Adderall or Vyvanse; Vicodin or OxyContin; Klonopin or Xanax, steroids)","0;1;888;999","0=No/Unchecked; 1=Yes/Checked; 888=N/A - condition skipped; 999 = Missing/No answer",""
 "sub_lifetime_88","Integer","","Recommended","In your lifetime: I have never used any of these substances","0;1;888;999","0=No/Unchecked; 1=Yes/Checked; 888=N/A - condition skipped; 999 = Missing/No answer",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "drug02_77_text","String","250","Recommended","Have you misused (for the purposes of having fun or getting high; taken differently than prescribed or without a prescription) any prescription (Rx) medications in the PAST 6 MONTHS? Another Rx drug not listed - describe","","",""
 "drug01_77_text","String","250","Recommended","Have you used any of these drugs in the PAST 6 MONTHS? Another drug not listed - describe","","",""
 "mar01_6mo","Integer","","Recommended","In the past 6 months, have you used marijuana?","0;1;888;999","0=No; 1=Yes; 888=N/A - condition skipped; 999=Missing/No answer",""

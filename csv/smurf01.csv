@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "administration_timepoint","String","50","Recommended","When was SMURF administered?","5 mins before infusion; 40 mins post infusion; 100 mins post infusion; Regular visit","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "smurf_q1","Integer","","Recommended","Have you had any physical or health problems since [timepoint_label]?","0;1","0 = No; 1= Yes",""
 "smurf_q1a","String","100","Recommended","Have you had any physical or health problems since [timepoint_label]? If yes, what kind of problem did you have?","","",""
 "smurf_q2","Integer","","Recommended","Have there been activities that you didn't do as often or that you didn't do at all because of not feeling well since [timepoint_label]?","0;1","0 = No; 1= Yes",""

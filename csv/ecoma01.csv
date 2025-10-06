@@ -130,7 +130,7 @@
 "ema051dfu","Integer","","Recommended","Is drinking alcohol giving you a pleasant feeling right now (e.g., makes you feel good, excited, or confident) ?","0::10","0 = Not at all; 10 = Extremely",""
 "ema052dfu","Integer","","Recommended","Is drinking alcohol relieving or reducing unpleasant feelings right now (e.g., makes you feel less bad, sad, or nervous)?","0::10","0 = Not at all; 10 = Extremely",""
 "ema053dfu","Integer","","Recommended","How much would you like to drink more alcohol right now?","0::10","0 = Not at all; 10 = Extremely",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "comments","String","4000","Recommended","Comments about assessment","","",""
 "edistress","Integer","","Recommended","How distressing was the emotional experience? (Event Triggered EMA questions (any physio-triggered or participant-initiated reports; 4 per day) - question references the strongest emotional experience in the past 45 minutes.)","1::5","1 = None or very slightly; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",""
 "epleasant","Integer","","Recommended","How pleasant was the emotional experience? (Event Triggered EMA questions (any physio-triggered or participant-initiated reports; 4 per day) - question references the strongest emotional experience in the past 45 minutes.)","1::5","1 = None or very slightly; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",""

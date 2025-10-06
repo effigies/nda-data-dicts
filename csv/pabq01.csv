@@ -205,4 +205,4 @@
 "ccnes_1_5","Integer","","Recommended","When I see my teenager becoming angry at a close friend, I usually:  e. get angry at him/her for losing his/her temper","1 :: 7;-99","1= Very Unlikely; 2= 2; 3= 3; 4= Medium; 5= 5; 6= 6; 7= Very Likely; -99= Missing Value",""
 "ccnes_1_6","Integer","","Recommended","When I see my teenager becoming angry at a close friend, I usually:  f. help him/her think of things to do to solve the problem","1 :: 7;-99","1= Very Unlikely; 2= 2; 3= 3; 4= Medium; 5= 5; 6= 6; 7= Very Likely; -99= Missing Value",""
 "ccnes_2_1","Integer","","Recommended","When my teenager gets down because he/she has had a bad day, I usually: a. tell him/her that he/she really has nothing to be sad about","1 :: 7;-99","1= Very Unlikely; 2= 2; 3= 3; 4= Medium; 5= 5; 6= 6; 7= Very Likely; -99= Missing Value",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

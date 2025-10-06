@@ -92,7 +92,7 @@
 "au3_1","Integer","","Recommended","In the last year, how often do you have six or more drinks on one occasion?","0::4","0 = never; 1 = less than monthly; 2 = monthly; 3 = weekly; 4 = daily or almost daily",""
 "missingsum_obvq","Integer","","Recommended","total number of missing items","","","auditmiss_t1,auditmiss_t2,auditmiss_t3,auditmiss_t4"
 "auditdx_t1","Integer","","Recommended","Problematic alcohol use diagnosis based of cutoff of a total score of 8","0;1","0= No; 1= Yes","audit_cutoff,auditdx_t2,auditdx_t3,auditdx_t4"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","assessment.c"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","assessment.c"
 "condition_c","Integer","","Recommended","Patient Condition","0::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing","condition.c"
 "sample","Integer","","Recommended","Training or randomized case","1::5","1 = randomized; 2 = training; 3=randomized-control; 4=randomized-intervention; 5=concurrent cohort-intervention",""
 "audit12_12","Integer","","Recommended","How many drinks have you ever drunk in a 24 hour period?","","Specify",""

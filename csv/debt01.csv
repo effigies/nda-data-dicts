@@ -60,7 +60,7 @@
 "fls_12","Integer","","Recommended","I save on a regular basis according to my savings plans","1::5","1=Strongly disagree; 2=Disagree; 3=Not sure; 4=Agree; 5=Strongly agree",""
 "fls_13","Integer","","Recommended","Before I buy something, I carefully consider whether I can afford it","1::5","1=Strongly disagree; 2=Disagree; 3=Not sure; 4=Agree; 5=Strongly agree",""
 "fls_14","Integer","","Recommended","I set long term financial goals and strive to achieve them","1::5","1=Strongly disagree; 2=Disagree; 3=Not sure; 4=Agree; 5=Strongly agree",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "save_conf_1","Integer","","Recommended","(How confident are you in:) Saving money for a family business is:","1::5","1=Strongly disagree; 2=Disagree; 3=Not sure; 4=Agree; 5=Strongly agree",""
 "save_conf_2","Integer","","Recommended","(How confident are you in:) Saving money for ones personal educational opportunities, including formal schooling or vocational, technical, or job training is:","1::5","1=Strongly disagree; 2=Disagree; 3=Not sure; 4=Agree; 5=Strongly agree",""
 "save_conf_3","Integer","","Recommended","(How confident are you in:) Saving money for family use is:","1::5","1=Strongly disagree; 2=Disagree; 3=Not sure; 4=Agree; 5=Strongly agree",""

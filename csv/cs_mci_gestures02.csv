@@ -589,7 +589,7 @@
 "mcg_vc16_then","Integer","","Recommended","then","0::2","0 = Does not understand; 1 = Understands; 2 = Understands and says",""
 "mcg_vc16_our","Integer","","Recommended","our","0::2","0 = Does not understand; 1 = Understands; 2 = Understands and says",""
 "mcg_vc16_them","Integer","","Recommended","them","0::2","0 = Does not understand; 1 = Understands; 2 = Understands and says",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "mcg_vc16_us","Integer","","Recommended","us","0::2","0 = Does not understand; 1 = Understands; 2 = Understands and says",""
 "mcg_vc16_she","Integer","","Recommended","she","0::2","0 = Does not understand; 1 = Understands; 2 = Understands and says",""
 "mcg_vc16_their","Integer","","Recommended","their","0::2","0 = Does not understand; 1 = Understands; 2 = Understands and says",""

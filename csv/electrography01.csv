@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "recording_type","Integer","","Required","Recording type (for EEG, use eeg_sub_files01 data structure instead of electrography01)","0::13;99","0 = Electroantennography (EAG); 1 = Electrical brain stimulation (EBS); 2 = Electrocardiography (ECG/EKG); 3 = Electrocochleography (ECOG); 4 = Electrocorticography (ECoG), also known as intracranial electroencephalography (iEEG); 5 = Electrogastrography (EGG); 6 = Electroglottography (EGG); 7 = Electromyography (EMG); 8 = Electronystagmography (ENG); 9 = Electrooculography (EOG); 10 = Electroolfactography (EOG); 11 = Electropalatography (EPG); 12 = Electroretinography (ERG); 13 = Electroviscerography (EVG), also known as electrogastroenterography (EGEG); 99 = Other",""
 "recording_type_other","String","140","Recommended","If other recording type, specify here","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "site","String","101","Recommended","Site","","Study Site",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "experiment_notes","String","2000","Recommended","Misc notes regarding the experiment for this subject","","",""

@@ -164,7 +164,7 @@
 "qk16","Integer","","Recommended","Section K - Anorexia Nervosa/Bulimia. K16. During these eating binges, did you feel you would not be able to stop eating or could not control what or how much you were eating?","1;5;-999","1=no; 5=yes; -999=Missing or N/A","ed12"
 "qk7","Integer","","Recommended","Section K - Anorexia Nervosa/Bulimia. K7. You said there was a time when (people were thinking you were too thin/you were very thin/you lost a lot of weight on purpose/you did not gain weight when you grew). At that time, were you dissatisfied with yourself because you were not thin enough?","1;5","1=no; 5=yes","ed2a"
 "qk20ons","Integer","","Recommended","Section K - Anorexia Nervosa/Bulimia. K19. Did the weight you gained from eating binges bother you a lot?  ONS: How old were you the first time you had an eating binge and tried to make up for it?  AGE","","#=AGE","ed14_ageon"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "chrdemo_children","Integer","","Recommended","12. How many children do you have?","0::5;-900;-300","0=0; 1=1; 2=2; 3=3; 4=4; 5=5 or more ;-900=Missing;-300=N/A","c3573_demo_7"
 "children_ages","String","100","Recommended","What are the ages of your children?","","","c3573_demo_8"
 "age_in_years","Float","","Recommended","Age in Years","","","c3573_demo_9"

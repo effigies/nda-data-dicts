@@ -65,7 +65,7 @@
 "pcp_rec","String","100","Recommended","Recommendations made by primary care provider","","",""
 "pi_rec","String","100","Recommended","Recommendations made by principal investigator","","",""
 "mhs_rec","String","100","Recommended","Recommendations made by psychiatrist","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "sra_1","Integer","","Recommended","Are you having thoughts of suicide, or of hurting yourself?","0;1","0= No; 1= Yes",""
 "sra_2","Integer","","Recommended","Do you have a plan in mind of how you would kill/hurt yourself?","0;1","0= No; 1= Yes",""
 "sra_3","Integer","","Recommended","Is that something you intend on doing at this time?","0;1","0= No; 1= Yes",""

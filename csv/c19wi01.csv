@@ -34,4 +34,4 @@
 "c19wi_14a","Integer","","Recommended","I am worried I will not be able to financially provide for myself or my family during this time. How much does this worry interfere with your daily life functioning (e.g., Keeping contact with others, doing things around the house)?","1::7","1=Not at all; 4=A moderate amount; 7=A great deal",""
 "c19wi_15","Integer","","Recommended","I am worried I will not be able to handle being in quarantine.","1::7","1=Not at all; 4=A moderate amount; 7=A great deal",""
 "c19wi_15a","Integer","","Recommended","I am worried I will not be able to handle being in quarantine. How much does this worry interfere with your daily life functioning (e.g., Keeping contact with others, doing things around the house)?","1::7","1=Not at all; 4=A moderate amount; 7=A great deal",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

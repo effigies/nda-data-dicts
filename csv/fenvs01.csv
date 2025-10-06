@@ -137,7 +137,7 @@
 "fes_ao_ss","Integer","","Recommended","Acheievement Orientation Score","","",""
 "fes_ico_ss","Integer","","Recommended","Intellectual-Cultural Orientation Standard Score","","",""
 "fes_aro_ss","Integer","","Recommended","Active-Recreational Orientation Standard Score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "fam_together_1","Integer","","Recommended","Last month, there has been a feeling of togetherness in my family.","1::5; -9","1=Never true;  2=Sometimes true;  3=True about half the time;  4=Often true;  5=Always true; -9=Missing",""
 "fam_together_2","Integer","","Recommended","Last month, things my family did together have been fun and interesting.","1::5; -9","1=Never true;  2=Sometimes true;  3=True about half the time;  4=Often true;  5=Always true; -9=Missing",""
 "fam_together_3","Integer","","Recommended","Last month, family members really backed each other up.","1::5; -9","1=Never true;  2=Sometimes true;  3=True about half the time;  4=Often true;  5=Always true; -9=Missing",""

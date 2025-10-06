@@ -11,4 +11,4 @@
 "tms_condition","Integer","","Recommended","The TMS delay condition the subject is in","1 :: 5","1= 0ms delay; 2= 200ms delay; 3= 300 ms delay; 4= 400 ms delay; 5= 500 ms delay","condition"
 "tmb_ct_correct","Integer","","Recommended","Accuracy of response","0;1","0 = incorrect; 1= correct","accuracy"
 "tms_group","Integer","","Recommended","The experiment group this subject is in","1;2","1= Experiment Gorup; 2= Control Group","group"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

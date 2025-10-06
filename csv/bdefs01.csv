@@ -157,4 +157,4 @@
 "defs_16_tp_1","Integer","","Recommended","Remains emotional or upset longer than other people","1::4","1= Never or rarely; 2= Sometimes; 3= Often; 4= Very often",""
 "bdefs_ca17_1","Integer","","Recommended","Not motivated to prepare in advance for things he/she knows he/she is supposed to do","1::4","1= Never or rarely; 2= Sometimes; 3= Often; 4= Very often",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

@@ -9,3 +9,4 @@
 "dregs_3","Integer","","Recommended","I would go for the same choice if I had to do it over again","1::5","1 = Strongly agree; 2 = Agree; 3 = Neither agree nor disagree; 4 = Disagree; 5 = Strongly disagree",""
 "dregs_4","Integer","","Recommended","The choice did me a lot of harm","1::5","1 = Strongly agree; 2 = Agree; 3 = Neither agree nor disagree; 4 = Disagree; 5 = Strongly disagree",""
 "dregs_5","Integer","","Recommended","The decision was a wise one","1::5","1 = Strongly agree; 2 = Agree; 3 = Neither agree nor disagree; 4 = Disagree; 5 = Strongly disagree",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

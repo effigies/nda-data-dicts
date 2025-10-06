@@ -130,4 +130,4 @@
 "pses_head_other","String","20","Recommended","Other identified head of household","","If pses_head_a or pses_head_b = 9 = Other",""
 "pses_other_support","String","20","Recommended","Other person/relationship providing financial support besides Head of Household","","",""
 "pses_educ_a","Integer","","Recommended","What is the highest level of education your mother/father [pses_head_a] obtained?","0::8","0= NA/no info; 1= Under 7 years of schooling; 2= Junior High (7th-9th grade); 3= Partial High school (10th-11th grade); 4= High school graduate; 5= Some college or community college; 6= Four year college graduate; 7= Completed graduate professional training; 8= Other",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

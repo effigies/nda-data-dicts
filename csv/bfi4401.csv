@@ -100,7 +100,7 @@
 "bfi2_6_60_v2","Integer","","Recommended","Is original, comes up with new ideas","1::6","1 = Disagree strongly; 2 = Disagree a little; 3 = Neither agree nor disagree; 4 = Agree a little; 5 = Agree strongly; 6 = I prefer not to answer",""
 "bfi2_2_11_v2","Integer","","Recommended","Is reserved (reverse scoring)","1::6","5 = Disagree strongly; 4 = Disagree a little; 3 = Neither agree nor disagree; 2 = Agree a little; 1 = Agree strongly; 6 = I prefer not to answer",""
 "bfi2_4_32_v2","Integer","","Recommended","Is helpful and unselfish with others","1::6","1 = Disagree strongly; 2 = Disagree a little; 3 = Neither agree nor disagree; 4 = Agree a little; 5 = Agree strongly; 6 = I prefer not to answer",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "bfi10_11_not_rev","Integer","","Recommended","Is considerate and kind to almost everyone","1::6","1 = Disagree strongly; 2 = Disagree a little; 3 = Neither agree nor disagree; 4 = Agree a little; 5 = Agree strongly; 6 = I prefer not to answer",""
 "bfi44_34_v2_rev","Integer","","Recommended","Remains calm in tense situations (reverse scoring)","1::6","5 = Disagree strongly; 4 = Disagree a little; 3 = Neither agree nor disagree; 2 = Agree a little; 1 = Agree strongly; 6 = I prefer not to answer",""
 "bfi2_2_18_v2_rev","Integer","","Recommended","Is systemic, likes to keep things in order / Prefers work that is routine (reverse scoring)","1::6","5 = Disagree strongly; 4 = Disagree a little; 3 = Neither agree nor disagree; 2 = Agree a little; 1 = Agree strongly; 6 = I prefer not to answer",""

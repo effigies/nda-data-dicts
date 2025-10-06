@@ -36,7 +36,7 @@
 "ema_alcohol_nausea","Integer","","Recommended","Did you experience any of the following yesterday? Nausea","0;1","0 = Unchecked; 1 = Checked",""
 "ema_alcohol_falls","Integer","","Recommended","Did you experience any of the following yesterday? Falls or other injury related to intoxication/alcohol use","0;1","0 = Unchecked; 1 = Checked",""
 "ema_substance_use","Integer","","Recommended","Since your last alert, did you use any of the following: Nicotine, cannabis, cocaine, opioids, or other illicit substance?","0;1","0 = Unchecked; 1 = Checked",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "ema_alcohol_consum","String","50","Recommended","How many alcoholic drinks did you drink since the last alert? ","","",""
 "ema_alcohol_context1","Integer","","Recommended","In what location did you drink alcohol since the last alert? Home","0;1","0 = Unchecked; 1 = Checked",""
 "ema_alcohol_context2","Integer","","Recommended","In what location did you drink alcohol since the last alert? Friend''s house","0;1","0 = Unchecked; 1 = Checked",""

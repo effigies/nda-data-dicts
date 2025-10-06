@@ -62,7 +62,7 @@
 "ftnd4a_vape","Float","","Recommended","What is the typical size of the pod/cartridge (in mL)?","","",""
 "ftnd4b_vape","Float","","Recommended","What is the typical concentration of the pod/cartridge (percentage)?","","",""
 "ftnd7_1","Integer","","Recommended","Do you wake up at night and smoke/vape (i.e., after you go to bed)?","0;1","0= No; 1= Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "vaper","Integer","","Recommended","Do you vape nicotine?","0;1","0 = No; 1 = Yes",""
 "nuq_1","Integer","","Recommended","In the past 30 days, have you smoked cigarettes or other nicotine products?","0;1","0=No; 1=Yes",""
 "nuq_3","Integer","","Recommended","In the past 30 days, how soon after waking up did you smoke your first cigarette?","0::3","0=After 60 minutes; 1=Within 31-60 minutes; 2=Within 6-30 minutes; 3=Within 5 minutes",""

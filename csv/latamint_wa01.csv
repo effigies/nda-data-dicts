@@ -15,5 +15,5 @@
 "wa4_anx_ageonset","Integer","","Recommended","How old were you the very first time you had an episode of worry or anxiety and related problems lasting 2 weeks or longer?","1; 5 :: 36","1= 4 or younger; 5; 6; 7; 8; 9; 10; 11; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21; 22; 23; 24; 25; 26; 27; 28; 29; 30; 31; 32; 33; 34; 35; 36= 36 or older","anx_ageonset"
 "wa5_anx_numyrs","Integer","","Recommended","About how many different years in your life did you have an episode of worry or anxiety and related problems lasting 2 weeks or longer?","1 :: 36","Number of Years; 36= 36 or more","anx_numyrs"
 "wa6_anx_num12m","Integer","","Recommended","How many months in the past 12 did you have an episode of worry or anxiety and related problems?","0 :: 12","Number of Months","anx_num12m"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

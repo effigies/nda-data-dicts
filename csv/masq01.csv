@@ -217,7 +217,7 @@
 "masq90_88","Integer","","Recommended","How much have you felt or experienced this during the past week, including today: Hands were cold or sweaty?","1::5","1 = Not at all; 2 = A little bit; 3 = Moderately; 4 = Quite a bit; 5 = Extremely","masq62_wk_24"
 "masq90_89","Integer","","Recommended","How much have you felt or experienced this during the past week, including today: Thought about death or suicide?","1::5","1 = Not at all; 2 = A little bit; 3 = Moderately; 4 = Quite a bit; 5 = Extremely","masq62_wk_61"
 "masq90_90","Integer","","Recommended","How much have you felt or experienced this during the past week, including today: Got tired or fatigued easily?","1::5","1 = Not at all; 2 = A little bit; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "masq_24h_1","Integer","","Recommended","In the past 24 hours: Felt withdrawn from other people","1::5","1 = Not at all; 2 = A little bit; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",""
 "masq_24h_2","Integer","","Recommended","In the past 24 hours: Felt like nothing is very enjoyable OR there is not anything interesting or fun to do","1::5","1 = Not at all; 2 = A little bit; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",""
 "masq_24h_3","Integer","","Recommended","In the past 24 hours: Felt faint, dizzy or lightheaded ","1::5","1 = Not at all; 2 = A little bit; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",""

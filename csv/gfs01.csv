@@ -64,7 +64,7 @@
 "sofas_lowscore","Integer","","Recommended","SOFAS (Social and Occupational Functioning Assessment Scale) Lowest score in past year","0::100","",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "highest_year_rs_gf","Integer","","Recommended","Rate the patient''s highest level of functioning in occupational, educational, and/or homemaker roles, as appropriate, within the past year","1::10","1= Extreme role dysfunction; 2= Inability to function; 3= Marginal ability to function; 4= Major impairment in role functioning; 5= Serious Impairment in Role Functioning. Serious impairment independently; 6= Moderate impairment in role functioning; 7= Mild impairment in role functioning; 8= Good role functioning; 9= Above average role functioning; 10= Superior role functioning",""
 "file_upload_rs_gf","File","","Recommended","Upload any notes/documents","","",""
 "comments_rs_gf","String","1000","Recommended","Comments","","",""

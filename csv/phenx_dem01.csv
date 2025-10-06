@@ -239,3 +239,4 @@
 "counselor04","String","50","Recommended","If gender identity is not listed, please specify","","",""
 "fbq_race___1","Integer","","Recommended","Participants Race: American Indian or Alaskan Native (Y/N)","0 :: 1; 9999","0= No; 1=Yes; 9999=Missing",""
 "fbq_race___5","Integer","","Recommended","Participants Race: Native Hawaiian or Other Pacific Islander (Y/N)","0 :: 1; 9999","0= No; 1=Yes; 9999=Missing",""
+"pp_lang_other","String","100","Recommended","What languages do you speak in your home? (check all that apply) Other, please specify","","",""

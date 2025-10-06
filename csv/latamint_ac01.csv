@@ -11,5 +11,5 @@
 "adhd6msxs_5","Integer","","Recommended","In the past 6 months, how often did you feel overly active and compelled to do things, like you were driven by a motor","0::4","0= Never; 1= Rarely; 2=Sometimes; 3= Oten; 4= Very Often",""
 "adhd6msxs_6","Integer","","Recommended","In the past 6 months, how often did you fidget or squirm with your hands or feet when you had to sit down for a long time","0::4","0= Never; 1= Rarely; 2=Sometimes; 3= Oten; 4= Very Often",""
 "adhd_onset","Integer","","Recommended","About how old were you the very first time you had these kinds of problems with organization, concentration, or impulsivity?","","Age in years",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

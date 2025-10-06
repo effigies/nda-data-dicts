@@ -153,4 +153,4 @@
 "ssis_prob_hype","Integer","","Recommended","Problem Behaviors - Hyperactivity/Inattention","","",""
 "ssis_prob_intern","Integer","","Recommended","Problem Behaviors - Internalizing","","",""
 "ssis_prob_as","Integer","","Recommended","Problem Behaviors - Autism Spectrum","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

@@ -111,7 +111,7 @@
 "sipad_07","Integer","","Recommended","During the past 12 months how often has this happened to you? When using alcohol or drugs I did impulsive things I regretted.","1::5","1=Never; 2=Once or a few times; 3=Once or twice a week; 4=Daily or almost daily; 5=Always",""
 "sip_alc_3m_17_freq","Integer","","Recommended","In the past 3 months, I have spent too much money or lost a lot of money because of my drinking","0::3; -99","0 = Never; 1 = Once or a few times; 2 = Once or twice a week; 3 = Daily or almost daily; -99 = Missing",""
 "sip_alc_3m_7_more","Integer","","Recommended","In the past 3 months, drinking has caused me to use drugs or use drugs MORE","0::3; -99","0 = Never; 1 = Once or a few times; 2 = Once or twice a week; 3 = Daily or almost daily; -99 = Missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "sip_alc_3m_10_freq","Integer","","Recommended","In the past 3 months, my physical health has been harmed by my drinking","0::3; -99","0 = Never; 1 = Once or a few times; 2 = Once or twice a week; 3 = Daily or almost daily; -99 = Missing",""
 "sip_alc_3m_11_freq","Integer","","Recommended","In the past 3 months, I have had money problems because of my drinking","0::3; -99","0 = Never; 1 = Once or a few times; 2 = Once or twice a week; 3 = Daily or almost daily; -99 = Missing",""
 "sip_alc_3m_12_freq","Integer","","Recommended","In the past 3 months, my physical appearance has been harmed by my drinking","0::3; -99","0 = Never; 1 = Once or a few times; 2 = Once or twice a week; 3 = Daily or almost daily; -99 = Missing",""

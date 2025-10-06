@@ -20,7 +20,7 @@
 "iam_mean","Float","","Recommended","Intervention Appropriateness Measure: Mean score","","","iam_score"
 "fim_mean","Float","","Recommended","Feasibility of Intervention Measure: Mean score","","","fim_score"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","timepoint"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","timepoint"
 "cte_01","Integer","","Recommended","At this point, how willing are you to try out the sleep coaching?","1::5; -7; -9","1 = Not willing; 5 = Very willing; -7=Not requested at timepoint; -9 = missing",""
 "cte_02","Integer","","Recommended","At this point, how confident are you to deliver the sleep coaching?","1::5; -7; -9","1 = Not confident; 5 = Very confident; -7=Not requested at timepoint; -9 = missing",""
 "cte_03","String","1000","Recommended","If your scores are not 4-5's, why and how can we improve?","","",""

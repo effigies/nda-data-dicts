@@ -81,4 +81,4 @@
 "fcq_w4","Integer","","Recommended","In the past week, I have a desire to eat one or more specific foods that seemed overpowering.","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""
 "fcq_w5","Integer","","Recommended","In the past week, I knew I was going to keep on thinking about one or more specific foods until I actually ate it. ","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""
 "fcq_w6","String","300","Recommended","In the past week, what type of foods were you craving?","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

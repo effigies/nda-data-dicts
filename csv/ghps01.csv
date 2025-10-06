@@ -23,4 +23,4 @@
 "ghps16_score","Float","","Recommended","Good Health Practices Scale - score","","Mean of all the items, which are phrased in the same direction. Higher agreement scores indicate better health practices.",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

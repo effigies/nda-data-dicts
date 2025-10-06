@@ -64,7 +64,7 @@
 "selfcom_4","Integer","","Recommended","I feel intolerant and impatient toward myself.","0::2","0 = No; 1 = Yes; 2 = Sort of",""
 "selfcom_5","Integer","","Recommended","I'm keeping calm.","0::2","0 = No; 1 = Yes; 2 = Sort of",""
 "selfcom_6","Integer","","Recommended","I feel like I'm struggling more than others right now.","0::2","0 = No; 1 = Yes; 2 = Sort of",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "sscs_1","Integer","","Recommended","Please indicate how well each statement applies to how you are feeling toward yourself right now: I''m giving myself the caring and tenderness I need. ","1::5","1= Not at all true for me; 5= Very true for me",""
 "sscs_2","Integer","","Recommended","Please indicate how well each statement applies to how you are feeling toward yourself right now: I''m obsessing and fixating on everything that''s wrong. ","1::5","1= Not at all true for me; 5= Very true for me",""
 "sscs_3","Integer","","Recommended","Please indicate how well each statement applies to how you are feeling toward yourself right now: I'm remembering that there are lots of others in the world feeling like I am. ","1::5","1= Not at all true for me; 5= Very true for me",""

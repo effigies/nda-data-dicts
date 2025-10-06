@@ -16,4 +16,4 @@
 "rcqmj10","Integer","","Recommended","There is nothing I really need to change about my cannabis use","-2::2; -5; -999","-2 = Strongly Disagree; -1 = Disagree; 0 = Unsure; 1 = Agree; 2 = Strongly Agree; -5 = Item seen but not answered; -999 = Data not submitted (Incomplete, item not seen)",""
 "rcqmj11","Integer","","Recommended","Sometimes I wonder if my cannabis use is out of control","-2::2; -5; -999","-2 = Strongly Disagree; -1 = Disagree; 0 = Unsure; 1 = Agree; 2 = Strongly Agree; -5 = Item seen but not answered; -999 = Data not submitted (Incomplete, item not seen)",""
 "rcqmj12","Integer","","Recommended","I am actively working on changing my cannabis use patterns","-2::2; -5; -999","-2 = Strongly Disagree; -1 = Disagree; 0 = Unsure; 1 = Agree; 2 = Strongly Agree; -5 = Item seen but not answered; -999 = Data not submitted (Incomplete, item not seen)",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

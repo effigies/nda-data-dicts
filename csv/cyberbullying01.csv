@@ -16,7 +16,7 @@
 "elec_victim_1","Integer","","Recommended","Has anyone ever used the Internet to bother or harass you or to spread mean words or pictures about you?","0;1","0=No; 1=Yes",""
 "elec_victim_2","Integer","","Recommended","Has anyone ever used a cell phone or texting to bother or harass you or to spread mean words or pictures about you?","0;1","0=No; 1=Yes",""
 "elec_victim_3","Integer","","Recommended","Did anyone on the Internet ever ask you sexual questions about yourself or try to get you to talk online about sex when you did not want to talk about those things?","0;1","0=No; 1=Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "cybersex_r8","Integer","","Recommended","How many times has the following happened to you, since the age of 14? Someone threatened to post online or send others an image or video of an unwanted sexual experience that happened to me.","0::11","Number of times; 11= Prefer not to answer",""
 "cybersex_r9","Integer","","Recommended","How many times has the following happened to you, since the age of 14? Someone posted online or sent an image or video of an unwanted sexual experience that happened to me.","0::11","Number of times; 11= Prefer not to answer",""
 "cybersex_r10","Integer","","Recommended","How many times has the following happened to you, since the age of 14? Someone continued to electronically send me sexual materials after I asked them to stop.","0::11","Number of times; 11= Prefer not to answer",""

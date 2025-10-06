@@ -14,4 +14,4 @@
 "pr_connected8","Integer","","Recommended","8) see disability organizations as the main cause or activity that you engage in?","1::5","1=Not at all; 2=Slightly; 3=To some extent; 4=Quite a bit;  5=Very much so",""
 "pr_connected9","Integer","","Recommended","9) have friends or socialize with other parents of individuals with disabilities?","1::5","1=Not at all; 2=Slightly; 3=To some extent; 4=Quite a bit;  5=Very much so",""
 "pr_connected10","Integer","","Recommended","10)have a mentor that you frequently ask advice from about disability issues?","1::5","1=Not at all; 2=Slightly; 3=To some extent; 4=Quite a bit;  5=Very much so",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

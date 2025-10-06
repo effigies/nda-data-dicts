@@ -201,7 +201,7 @@
 "gambling_q45_1","Integer","","Recommended","During the past 12 months, have you become restless, irritable, or anxious when trying to stop/cut down on gambling?","0;1","0=No; 1=Yes",""
 "gambling_q45_2","Integer","","Recommended","During the past 12 months, have you tried to keep your family or friends from knowing how much you gambled?","0;1","0=No; 1=Yes",""
 "gambling_q45_3","Integer","","Recommended","During the past 12 months, did you have such financial trouble that you had to get help with living expenses from family, friends, or welfare?","0;1","0=No; 1=Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "responseid","Integer","","Recommended","Randomly generated response ID number","","",""
 "startdatetime","String","20","Recommended","Date & time participant started survey for a given timepoint","","MM/DD/YYYY 24:00",""
 "enddatetime","String","20","Recommended","Date & time participant ended survey for a given timepoint","","MM/DD/YYYY 24:00",""

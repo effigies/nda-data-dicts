@@ -32,4 +32,4 @@ The patient may appear tense, nervous, agitated, restless, tremulous, pale, hype
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","completed_by_hama,ham_interviewer"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","ham_comments"
 "dode","String","10","Recommended","Date of Data Entry","","","ham_entered"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

@@ -53,7 +53,7 @@
 "t4rp_cell","String","10","Recommended","length of time with current cell phone number","","",""
 "t4rp_sent","Float","","Recommended","average number of text messages sent each day","","",""
 "t4rp_rec","Float","","Recommended","average number of text messages received each day","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "txt_engagement","Integer","","Recommended","Percentage of participant engagement with text messaging","0::100","Percentage",""
 "call_time","Integer","","Recommended","Duration of the initial phone call with health coach","","Minutes, rounded to the nearest minute",""
 "message_count","Integer","","Recommended","Number of messages sent with health coach","","",""

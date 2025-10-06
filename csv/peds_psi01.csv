@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
 "src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "admin_status","String","20","Recommended","Instrument administration status","Complete;Partial;Not Administered;Not Applicable","","Parenting_Stress_Index_Administration_Status"
 "psi_acceptability_raw_score","Integer","","Recommended","Parenting Stress Index (PSI): Acceptability (AC) Raw Score","","",""
 "psi_adaptability_raw_score","Integer","","Recommended","Parenting Stress Index (PSI): Adaptability (AD) Raw Score","","",""

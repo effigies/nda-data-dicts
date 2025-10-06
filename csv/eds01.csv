@@ -95,4 +95,4 @@
 "cgi_sev","Integer","","Recommended","Clinician Global Impressions: Severity score","1::7","1 = Normal, Not ill; 2 = Minimally ill;  3 = Mildly ill; 4 = Moderately ill; 5 = Markedly ill; 6 = Severely ill; 7 = Very Severely ill",""
 "cgi_sii_0_6","Integer","","Recommended","CGI SII 0 - 6","0::6","0 = Very much worse; 1 = Much worse; 2 = Minimally worse; 3 = No change; 4 = Minimally improved; 5 = Much improved; 6 = Very much improved",""
 "cyb_be_reli","Integer","","Recommended","Reliability of Information","0; 1; 2; 3","0 = Excellent; 1 = Good; 2 = Fair; 3 = Poor",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

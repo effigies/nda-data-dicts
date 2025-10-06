@@ -385,7 +385,7 @@
 "household8r","Integer","","Recommended","Household - 8th person relationship","1::9","1= Spouse; 2= Son; 3= Daughter; 4= Son-in-law; 5= Daughter-in-law; 6= Grandchild; 7= Mother; 8= Father; 9= Other",""
 "household8a","Float","","Recommended","Household - 8th person age","","",""
 "household9s","Integer","","Recommended","Household Composition (people residing in household, other than self) - 9th person sex","1;2;9","1= Male; 2= Female; 9= NA",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "household9r","Integer","","Recommended","Household - 9th person relationship","1::9","1= Spouse; 2= Son; 3= Daughter; 4= Son-in-law; 5= Daughter-in-law; 6= Grandchild; 7= Mother; 8= Father; 9= Other",""
 "household9a","Float","","Recommended","Household - 9th person age","","",""
 "ca244","Integer","","Recommended","Have you ever been forced to change your hand preference?","0;1;8","0= No (always the same); 1= Yes (forced to change) 8= Do Not Know","changehand"

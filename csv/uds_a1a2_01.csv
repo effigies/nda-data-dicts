@@ -44,7 +44,7 @@
 "uds_a2_09b","Integer","","Recommended","If no, approximate frequency of in person visits?","1 :: 6","1= Daily; 2= At least three times per week; 3= Weekly; 4= At least three times per month; 5= Monthly; 6= Less than once a month",""
 "uds_a2_09c","Integer","","Recommended","If no, approximate frequency of telephone contact?","1 :: 6","1= Daily; 2= At least three times per week; 3= Weekly; 4= At least three times per month; 5= Monthly; 6= Less than once a month",""
 "uds_a2_10","Integer","","Recommended","Is there question about the co-participants reliability?","0;1;9","0= No; 1= Yes; 9= Unknown",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "respondents","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Physician","",""
 "respond_detail_oth_spec","String","255","Recommended","Respondent details","","",""

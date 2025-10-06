@@ -504,4 +504,4 @@
 "cbcl99_alt","Integer","","Recommended","Uses tobacco, e-cigarettes, and/or vapes / Fuma, masca o inhala tabaco","0::2; 999; 77; 88","0 = Not True/No es cierto (que sepa usted); 1 = Somewhat or Sometimes True/En cierta manera; 2 = Very True or Often True/Muy cierto o cierto con frecuencia; 999=NA; 77=Refused; 88=Missing",""
 "cbcl_other_raw","Float","","Recommended","Other Problems Raw Score","0::300; 999; -999","999 = Missing value; -999=N/A",""
 "cbcl_withdraw_depress_raw","Float","","Recommended","Withdrawn Depressed Raw Score","0::300; 999; -999","999 = Missing value; -999=N/A",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

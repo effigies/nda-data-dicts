@@ -53,7 +53,7 @@
 "pcl5_b2","Date","","Recommended","When did that happen? (If multiple or over an extended time, put most recent date. If exact date is unknown, consider entering the 1st of month and/or January to approximate.)","","MM/DD/YYYY",""
 "studyphase","Integer","","Recommended","Study Phase","1::6; -888; -999","1=Phase 1: Treatment as Usual(TAU); 2=Phase 2: Screening Only; 3=Phase 3: Intervention; 4=Focus Groups; 5=Open Trial; 6=Randomized Trial; -888=Not Applicable; -999=Missing;",""
 "treatmentgroup","String","30","Recommended","Treatment condition","","e.g., Control, Intervention, Experimental, Placebo",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "month_interview","Integer","","Recommended","Month of the interview","0::6","0=Baseline; 1=Month 1; 2=Month 2; 3=Month 3; 4= Month 4; 5= Month 5; 6=Month 6",""
 "pcl5_21","Integer","","Recommended","Did the stressful experience referred to in the previous survey occur during your military service?","0;1 ; 555;777;888;999","0= No; 1= Yes; 999= No Answer; 888= Skipped; 777= Condition Skipped; 555= Missing",""
 "pcl5_22","Integer","","Recommended","Has anyone indicated that you've changed since the stressful military experience? ","0;1 ; 555;777;888;999","0= No; 1= Yes; 999= No Answer; 888= Skipped; 777= Condition Skipped; 555= Missing",""

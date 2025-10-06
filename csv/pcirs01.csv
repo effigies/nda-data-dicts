@@ -65,4 +65,4 @@
 "pcirs_parent_det","Integer","","Recommended","Parent Rating: Detached","1 :: 5","1= Not at all detached; 2= Minimally detached; 3= Equally detached and involved; 4= Moderately detached; 5= Highly detached",""
 "pcirs_parent_stimcog","Integer","","Recommended","Parent Rating: Stimulate Cognitive","1 :: 5","1= Non-stimulating; 2= Minimally stimulating; 3= Moderately stimulating; 4= More than moderate; 5= Very stimulating ",""
 "pcirs_child_pos","Integer","","Recommended","Child Rating: Positive Mood","1 :: 5","1= Unhappy or no affect; 2= Minimally positive; 3= Somewhat positive; 4= Moderately happy; 5= Gleeful, joyful, having a great time",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

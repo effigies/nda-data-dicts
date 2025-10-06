@@ -81,4 +81,4 @@
 "leptin","Float","","Recommended","Leptin blood test result","","""leptin_unit"" specifies unit",""
 "glp1_total","Float","","Recommended","GLP-1 Total hormone data collected during visit 2 and 5 minutes before 5 minutes after 15 minutes after and 30 minutes after consumption of ad lib meal during","0::300;7777;9999","7777 = became ineligible; 9999 = dropped out; Samples run on the same plate with the same kit and reagents will have the same value",""
 "glp1_total_assay","Integer","","Recommended","Sample/assay key: Total Glucagon-like Peptide-1 (GLP-1)","1::100;7777; 9999","7777 = became ineligible; 9999 = dropped out; Samples run on the same plate with the same kit and reagents will have the same value","glp1_total_assay_12,glp1_total_assay_6,glp1_total_assay_6�"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

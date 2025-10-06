@@ -18,4 +18,4 @@
 "emo_afraid","Integer","","Recommended","I am not afraid of injury or death","0 :: 4","0= Not at all like me; 1= A little like me; 2= Somewhat like me; 3= A lot like me; 4= Exactly like me",""
 "emo_care","Integer","","Recommended","I have people who care about me and are there for me whenever I need them","0 :: 4","0= Not at all like me; 1= A little like me; 2= Somewhat like me; 3= A lot like me; 4= Exactly like me",""
 "pa075m","Integer","","Recommended","I feel a sense of purpose in my life.","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much","directpurp"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

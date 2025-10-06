@@ -25,7 +25,7 @@
 "stim1_outcome","Integer","","Recommended","Information whether stim1 is associated with a non-zero outcome on the current trial","0;1","1 = Stim1 results in the non-zero outcome; 0 = Stim2 results in the non-zero outcome. Non-zero outcome = reward or shock receipt",""
 "outcome_fmri","Integer","","Recommended","Final outcome of a trial","0;1","1 = Non-zero outcome (reward/shock received); 0 = Zero outcome (reward/shock not received)","outcome"
 "rt_fmri","Integer","","Recommended","Response time (ms)","0::9999","9999 = timeout,  i.e. > 4000ms","rt"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "trial","Integer","","Recommended","Trial number","0::9999; -777; -999","1 = first; 2= second; 3=third; 4=fourth; 5=fifth; 6=sixth; etc; -777=NA, -999=missing",""
 "scanner_manufacturer_pd","String","30","Recommended","Equipment Manufacturer","","",""
 "dbs_target","String","20","Recommended","Stimulation target","STN; Gpi","STN=Subthalamic Nuclei; Gpi=Internal Globulus Pallidus",""

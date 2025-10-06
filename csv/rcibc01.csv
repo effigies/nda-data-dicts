@@ -24,7 +24,7 @@
 "rr_2","Integer","","Recommended","How committed are you to using a light box?","1::10;99","1=Not at all committed; 5=Somewhat committed; 10=Extremely committed; 99 = Not applicable or prefer not to answer",""
 "rr_3","Integer","","Recommended","How important is using a light box compared to other things you have to accomplish this week?","1::10;99","1=Not at all important; 5=Somewhat important; 10=Extremely important; 99 = Not applicable or prefer not to answer",""
 "rr_4","Integer","","Recommended","How much do you believe that making this change will help you achieve your personal health and wellness goals?","1::10;99","1=Not at all useful; 5=Somewhat useful; 10=Extremely useful; 99 = Not applicable or prefer not to answer",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "su_ruler_inh","Integer","","Recommended","At this time, on a scale of 0-10, how ready are you to cut down or stop your inhalant use?","0::10","0= Not at all ready; 10= Completely ready",""
 "su_ruler_rx","Integer","","Recommended","At this time, on a scale of 0-10, how ready are you to cut down or stop your use of prescription medications not prescribed to you?","0::10","0= Not at all ready; 10= Completely ready",""
 "su_ruler_other","Integer","","Recommended","At this time, on a scale of 0-10, how ready are you to cut down or stop your use of other drugs to get high?","0::10","0= Not at all ready; 10= Completely ready",""

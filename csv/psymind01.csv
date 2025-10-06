@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "psymind1","Integer","","Recommended","I would be willing to talk about my personal problems if I thought it might help me or a member of my family.","1::4","1= Strongly agree; 2= Mostly agree; 3= Mostly disagree; 4= Strongly disagree",""
 "psymind2","Integer","","Recommended","I am always curious about the reasons people behave as they do.","1::4","1= Strongly agree; 2= Mostly agree; 3= Mostly disagree; 4= Strongly disagree",""
 "psymind3","Integer","","Recommended","I think that most people who are mentally ill have something physically wrong with their brain. (Reverse Scored)","1::4","1= Strongly disagree; 2= Mostly disagree; 3= Mostly agree; 4= Strongly agree",""

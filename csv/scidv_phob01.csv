@@ -28,7 +28,7 @@
 "scidv_f108","Integer","","Recommended","specific phobia. with panic attacks","1;3;-7;-9","1= absent or false; 3 = threshold or true; -7 = N/A; -9 = missing or not reported","dsm5_f108,f108,sciddv_sp_chron_panic_cb01___f108"
 "scidv_f109","Integer","","Recommended","number of months prior to interview when last had a symptom of specific phobia","","","f109,sciddv_f109"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "dsm5_f97","Integer","","Recommended","during past 6 months marked fear or anxiety  about a specific object or situation","0::3","0= Inadequate Information; 1= Absent or false; 3= Threshold or true","sciddv_f97"
 "sciddv_91bs","Integer","","Recommended","Specific Phobia: Criterion C, Endured Severity -  (ENDURED)","1;4;-8","1= False; 4= True  (Did you always feel intensely afraid or anxios if you had to endure it?); -8= Missing",""
 "sciddv_f91bn","String","4000","Recommended","Specific Phobia: Criterion C, Endured Notes","","",""

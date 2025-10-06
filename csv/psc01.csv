@@ -307,6 +307,6 @@
 "fusymp_oth_sev_8","Integer","","Recommended","Follow-up Other Symptom 8 Severity","1::4","1 = Mild; 2 = Moderate; 3 = Severe; 4 = Life-threatening",""
 "fusymp_preg","Integer","","Recommended","Are you currently pregnant?","0;1","0 = No; 1 = Yes",""
 "fusymp_preg_urine","Integer","","Recommended","Did participant test positive for pregnancy?","0;1","0 = No; 1 = Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "timeframe_spec","String","100","Recommended","Specify the timeframe (in the past year, past two weeks, etc.) in which elements/items are assessed","","",""
 "symp_dream","Integer","","Recommended","Have you experienced Abnormal dreams and/or nightmares in the last 3 months?","0;1","0 = No; 1 = Yes",""

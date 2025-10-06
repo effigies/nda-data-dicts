@@ -33,7 +33,7 @@
 "ema_survey","String","100","Recommended","Which survey collected the EMA data?","","e.g., Morning report; Random; First Drink; Bedtime; Drinking Follow-up; Drinking Follow-up 2; Drinking Follow-up 3; Breathalyzer Test",""
 "alc_dose","Float","","Recommended","Alcohol dose given","0::1.1","alcohol dose in ml/kg",""
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "abaes_energized","Integer","","Recommended","Are you feeling energized?","0::10","0 = Not at all; 10 = Extremely",""
 "abaes_excited","Integer","","Recommended","Are you feeling excited?","0::10","0 = Not at all; 10 = Extremely",""

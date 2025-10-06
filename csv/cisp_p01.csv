@@ -33,4 +33,4 @@
 "cisp13x","Float","","Recommended","Total score of items 1-13 mean score","","","p_cis_mean"
 "cisp13t","Float","","Recommended","Total score of items 1-13 total score","","",""
 "timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::4","1 = Wave 1; 2 = Wave 2; 3 = Wave 3; 4= Wave 4",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

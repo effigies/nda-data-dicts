@@ -23,4 +23,4 @@
 "smat15","Integer","","Recommended","Do you confide in your mate:","1::4","1=Almost never; 2=Rarely; 3=In most things; 4=In everything",""
 "smat15_score","Integer","","Recommended","Score for smat15","0; 2; 10","0=Almost never; 2=Rarely; 10=In most things OR In everything",""
 "smat_totalscore","Integer","","Recommended","Short Marital Adjustment Test: Total score","0::158","Sum of scores for 15 individual items",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

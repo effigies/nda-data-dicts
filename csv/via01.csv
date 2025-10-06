@@ -27,4 +27,4 @@
 "via20","Integer","","Recommended","I am interested in having white American friends","1::9","1= Disagree; 9= Agree",""
 "via_her","Float","","Recommended","Heritage Mean Score","","",""
 "via_main","Float","","Recommended","Mainstream Mean Score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

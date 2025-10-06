@@ -140,7 +140,7 @@
 "cov_epii_brief_q33","Integer","","Recommended","I (or someone in my home) felt less safe with law enforcement than before COVID-19 because of race/ethnicity.","0;1","0=No; 1=Yes",""
 "cov_epii_brief_q34","Integer","","Recommended","I found greater meaning and was more effective in my work, school, or friendships than before COVID-19.","0;1","0=No; 1=Yes",""
 "cov_epii_brief_q35","Integer","","Recommended","Overall, how upset have you been by how COVID-19 has affected you and your family?","0::4","0=Not at all upset; 1=A little upset; 2=Somewhat upset; 3=Very upset; 4=Extremely upset",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "cov_epii_brief_q2","Integer","","Recommended","I (or someone in my home) had to work in close contact with people who might be infected.","0;1","0=No; 1=Yes",""
 "cov_epii_brief_q3","Integer","","Recommended","I (or someone in my home) had an increase in workload or work responsibilities.","0;1","0=No; 1=Yes",""
 "cov_epii_brief_q4","Integer","","Recommended","I (or someone in my home) provided direct care or services to people who had the disease.","0;1","0=No; 1=Yes",""

@@ -17,7 +17,7 @@
 "days_baseline","Integer","","Recommended","Days since baseline","","","date"
 "vis_type","Integer","","Recommended","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","phone"
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "studyphase","Integer","","Recommended","Study Phase","1::6; -888; -999","1=Phase 1: Treatment as Usual(TAU); 2=Phase 2: Screening Only; 3=Phase 3: Intervention; 4=Focus Groups; 5=Open Trial; 6=Randomized Trial; -888=Not Applicable; -999=Missing;",""
 "treatmentgroup","String","30","Recommended","Treatment condition","","e.g., Control, Intervention, Experimental, Placebo",""
 "asrm_pros","Integer","","Recommended","Level 2 - Adult - Mania Prorated raw score","5::25","",""

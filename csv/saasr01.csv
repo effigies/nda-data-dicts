@@ -75,7 +75,7 @@
 "slss_out_f","Integer","","Recommended","When I was in school, I enjoyed school activities.","1::5;666;777","1=Never; 2=Sometimes; 3=About half the time; 4=Most of the time; 5=Always; 666=Missing; 777=NA",""
 "slss_out_g","Integer","","Recommended","When I was in school, I learned a lot at school.","1::5;666;777","1=Never; 2=Sometimes; 3=About half the time; 4=Most of the time; 5=Always; 666=Missing; 777=NA",""
 "slss_out_h","Integer","","Recommended","When I was in school, I felt bad at school.","1::5;666;777","1=Never; 2=Sometimes; 3=About half the time; 4=Most of the time; 5=Always; 666=Missing; 777=NA",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "slss_in_a","Integer","","Recommended","I look forward to going to school each day.","1::5;666;777","1=Never; 2=Sometimes; 3=About half the time; 4=Most of the time; 5=Always; 666=Missing; 777=NA",""
 "slss_in_b","Integer","","Recommended","I like being in school.","1::5;666;777","1=Never; 2=Sometimes; 3=About half the time; 4=Most of the time; 5=Always; 666=Missing; 777=NA",""
 "slss_in_c","Integer","","Recommended","School is interesting.","1::5;666;777","1=Never; 2=Sometimes; 3=About half the time; 4=Most of the time; 5=Always; 666=Missing; 777=NA",""

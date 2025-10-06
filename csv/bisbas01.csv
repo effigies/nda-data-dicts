@@ -101,7 +101,7 @@
 "sample","Integer","","Recommended","Training or randomized case","1::5","1 = randomized; 2 = training; 3=randomized-control; 4=randomized-intervention; 5=concurrent cohort-intervention",""
 "comqother","String","255","Recommended","Respondent - Other (text)","","",""
 "vis_type","Integer","","Recommended","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","visit_type,visit_type_12,visit_type_6"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "rt_","Float","","Recommended","The number of milliseconds since the start of the questionnaire until completed","","",""
 "time_elapsed","Float","","Recommended","The number of milliseconds since the start of the experiment until the questionnaire was completed","","",""
 "bisbas_8","Integer","","Recommended","When I see an opportunity for something I like I get excited right away.","0::3","0 = Very false for me; 1 = Somewhat false for me; 2 = Somewhat true for me; 3 = Very true for me",""

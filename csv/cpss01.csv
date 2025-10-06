@@ -33,7 +33,7 @@
 "cpssre","Integer","","Recommended","Child PTSD Symptom Scale (CPSS): Re-Experiencing score (4-point scale)","0 :: 15","Sum of 4-point (rated 0-3) items cpss1-5",""
 "cpssav","Integer","","Recommended","Child PTSD Symptom Scale (CPSS): Avoidance score (4-point scale)","0 :: 21","Sum of 4-point (rated 0-3) items cpss6-12",""
 "cpssia","Integer","","Recommended","Child PTSD Symptom Scale (CPSS): Increased Arousal score (4-point scale)","0 :: 15","Sum of 4-point (rated 0-3) items cpss13-17",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "cpss_1","Integer","","Recommended","Having upsetting thoughts or pictures about it that came into your head when you did not want them to","0::4","0 = Not at all; 1 = Once per week or less/a little; 2 = 2-3 times per week/somewhat; 3 = 4-5 or more times per week/a lot; 4 = 6 or more times a week/almost always",""
 "cpss_2","Integer","","Recommended","Having bad dreams or nightmares","0::4","0 = Not at all; 1 = Once per week or less/a little; 2 = 2-3 times per week/somewhat; 3 = 4-5 or more times per week/a lot; 4 = 6 or more times a week/almost always",""
 "cpss_3","Integer","","Recommended","Acting or feeling as if it was happening again (seeing or hearing something and feeling as if you are there again) ","0::4","0 = Not at all; 1 = Once per week or less/a little; 2 = 2-3 times per week/somewhat; 3 = 4-5 or more times per week/a lot; 4 = 6 or more times a week/almost always",""

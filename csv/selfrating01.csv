@@ -12,7 +12,7 @@
 "selfrating6","Integer","","Recommended","Sometimes I feel completely worthless.","1::7","1= Strongly disagree; 7= Strongly agree",""
 "selfrating7","Integer","","Recommended","I am not a very special person.","1::7","1= Strongly disagree; 7= Strongly agree",""
 "selfrating8","Integer","","Recommended","Others are justified in criticizing me.","1::7","1= Strongly disagree; 7= Strongly agree",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "selfrating9","Integer","","Recommended","I am deserving of punishment and pain.","1::7","1= Strongly disagree; 7= Strongly agree",""
 "scsw_8","Integer","","Recommended","I put myself in dangerous situations.","1::5","1= Strongly disagree; 2= Disagree; 3= Neither agree nor disagree; 4= Agree; 5= Strongly agree",""
 "scsw_9","Integer","","Recommended","I take care of my needs.","1::5","1= Strongly disagree; 2= Disagree; 3= Neither agree nor disagree; 4= Agree; 5= Strongly agree",""

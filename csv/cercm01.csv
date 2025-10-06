@@ -16,4 +16,4 @@
 "tmb_ct_rt","Float","","Recommended","Trial reaction time (ms)","","","rt"
 "cer_confidence","Integer","","Recommended","Subject's confidence level on their decision in each trial","1;2;-1","1= Low confidence; 2= High confidence; -1= No confidence reported","confidence"
 "cer_confidence_rt","Integer","","Recommended","The amount of time to rate confidence in each trial","","in ms","confidence_rt"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

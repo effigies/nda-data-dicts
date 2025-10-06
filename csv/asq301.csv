@@ -215,7 +215,7 @@
 "overall_6m_3_12m_4","String","3","Recommended","Do you have concerns that your baby is too quiet or does not make sounds like other babies?","Yes;No"," ",""
 "overall_12m_2","String","3","Recommended","Does your baby play with sounds or seem to make words?","Yes;No"," ",""
 "overall_12m_3","String","3","Recommended","When your baby is standing, are her/his feet flat on the surface most of the time?","Yes;No"," ",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "asq_9_gm_2","Integer","","Recommended","When sitting on the floor, does your baby sit up straight for several minutes without using his hands for support? (asq_9_gm_2_pic)","0;5;10","0 = Not yet; 5 = Sometimes; 10 = Yes",""
 "asq_9_gm_3","Integer","","Recommended","When you stand your baby next to furniture or the crib rail, does she hold on without leaning her chest against the furniture for support? (asq_9_gm_3_pic)","0;5;10","0 = Not yet; 5 = Sometimes; 10 = Yes",""
 "asq_9_gm_4","Integer","","Recommended","While holding onto furniture, does your baby bend down and pick up a toy from the floor and then return to a standing position? (asq_9_gm_4_pic)","0;5;10","0 = Not yet; 5 = Sometimes; 10 = Yes",""

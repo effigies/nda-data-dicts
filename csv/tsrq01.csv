@@ -24,5 +24,5 @@
 "tsrq_amotiv","Float","","Recommended","Amotivation Mean Score","","",""
 "tsrq_rami","Float","","Recommended","Relative Autonomous Motivation Index","","A Relative Autonomous Motivation Index can be formed by subtracting the average for the controlled items from the average for the autonomous items",""
 "tsrq_behav","String","100","Recommended","TSRQ: Behavior assessed","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "dem_race","Integer","","Recommended","Race","1::6; 88; 99","1 = American Indian or Alaska Native; 2 = Asian; 3 = Black or African American; 4 = Native Hawaiian or Pacific Islander; 5 = White or Caucasian; 6 = More Than One Race; 88 = Unknown; 99 = Choose not to report",""

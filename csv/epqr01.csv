@@ -165,4 +165,4 @@
 "epqrsf_9","Integer","","Recommended","Are you an irritable person?","0;1","0 = No; 1 = Yes",""
 "epqrsf_13","Integer","","Recommended","Are your feelings easily hurt?","0;1","0 = No; 1 = Yes",""
 "epqrsf_41","Integer","","Recommended","Are you mostly quiet when you are with other people?","0;1","0 = No; 1 = Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

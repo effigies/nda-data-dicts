@@ -48,7 +48,7 @@
 "adxcond","Integer","","Recommended","Adjustment Disorder: With disturbance of conduct","0::2; 9","0=Does not apply; 1=No; 2=Yes; 9=No information",""
 "adxmc","Integer","","Recommended","Adjustment Disorder: With mixed disturbance of emotions and conduct","0::2; 9","0=Does not apply; 1=No; 2=Yes; 9=No information",""
 "adxnos","Integer","","Recommended","Adjustment Disorder: Unspecified","0::2; 9","0=Does not apply; 1=No; 2=Yes; 9=No information",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "adxa","Integer","","Recommended","Adjustment Disorder: Emotional or behavioral symptoms have developed in response to an identifiable stressor(s) and within 3 months of the onset of the stressor(s)","0::2; 9","0=Does not apply; 1=No; 2=Yes; 9=No information",""
 "adxb","Integer","","Recommended","Adjustment Disorder: The symptoms or behaviors are clinically significant","0::2; 9","0=Does not apply; 1=No; 2=Yes; 9=No information",""
 "adxc","Integer","","Recommended","Adjustment Disorder: The stress-related disturbance does not meet the criteria for another specific axis I disorder","0::2; 9","0=Does not apply; 1=No; 2=Yes; 9=No information",""

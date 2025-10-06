@@ -258,7 +258,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "service_1","Integer","","Recommended","1. Is your child currently receiving physical therapy?","0;1;999","0 = No; 1 = Yes; 999 = Missing",""
 "service_28","Integer","","Recommended","28. Are you involved in a family support group? ","0;1;999","0 = No; 1 = Yes; 999 = Missing",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "service_2","Integer","","Recommended","2. Is your child currently receiving occupational therapy?","0;1;999","0 = No; 1 = Yes; 999 = Missing",""
 "service_3","Integer","","Recommended","3. Is your child currently receiving speech therapy?","0;1;999","0 = No; 1 = Yes; 999 = Missing",""
 "service_4","Integer","","Recommended","4. Is your child currently receiving behavior intervention therapy (e.g., applied behavior analysis or ABA)?","0;1;999","0 = No; 1 = Yes; 999 = Missing",""

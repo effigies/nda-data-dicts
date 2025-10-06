@@ -23,4 +23,4 @@
 "psii_er","Integer","","Recommended","Emotional Responsiveness Dimension Score","","Sum(psii_1 - psii_5); psii_1 and psii_2 are reversed items",""
 "psii_dem","Integer","","Recommended","Demandingness Dimension Score","","Sum(psii_6 - psii_10); psii_6 and psii_9 are reversed items",""
 "psii_pag","Integer","","Recommended","Psychological Autonomy-granting Dimension Score","","Sum(psii_11 - psii_15); psii_12 and psii_15 are reversed items",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

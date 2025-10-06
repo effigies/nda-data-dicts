@@ -30,4 +30,4 @@
 "cia_total","Integer","","Recommended","Global Rating of Clinical Impairment Assessment","","","ciatotal"
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "vis_type","Integer","","Recommended","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","visit_type,visit_type_12,visit_type_6"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

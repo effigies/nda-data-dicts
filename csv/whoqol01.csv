@@ -53,7 +53,7 @@
 "whoqol15bs","Integer","","Recommended","How well are you able to get around physically?","1::5;998;999","1=Not at all; 2=A little; 3=Moderately; 4=Mostly; 5=Completely; 998=Don't know; 999=No answer",""
 "whoqol26bs","Integer","","Recommended","How often do you have negative feelings such as blue mood, despair, anxiety or depression?","1::5","1 = Never; 2 = Infrequently; 3 = Sometimes; 4 = Frequently; 5 = Always",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "whoqol_physhealth","Float","","Recommended","Transformed subscale score for physical health (Domain 1)","0::100","The transformation converts the lowest and highest possible raw scores on each subscale to zero and 100, respectively.",""
 "whoqol_psychological","Float","","Recommended","Transformed subscale score for psychological (Domain 2)","0::100","The transformation converts the lowest and highest possible raw scores on each subscale to zero and 100, respectively.",""
 "whoqol_relationships","Float","","Recommended","Transformed subscale score for social relationships (Domain 3)","0::100","The transformation converts the lowest and highest possible raw scores on each subscale to zero and 100, respectively.",""

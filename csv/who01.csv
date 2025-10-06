@@ -91,7 +91,7 @@
 "whodas_d59","Integer","","Recommended","Doing your most important work tasks well?","1 :: 5","1=None; 2=Mild; 3=Moderate; 4=Severe; 5=Extreme or cannot do",""
 "whodas_proxy_pl","Integer","","Recommended","I am the ___________ (choose one) of this person.","1::8","1= husband or wife ; 2= parent ; 3= son or daughter ; 4= brother or sister ; 5= other relative ; 6= friend ; 7= professional carer ; 8= other (specify)",""
 "whodas_proxy_pl_oth","String","100","Recommended","If you selected 'Other', please specify","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "w1","Integer","","Recommended","Do you have any long standing illness, disability or infirmity? By long standing, I mean anything that has troubled you over a period of time or that is likely to affect you over a period of time.","0;1","0=No;1=Yes",""
 "w1_1","String","20","Recommended","If yes, what illness? (Record verbatim) ","","",""
 "w12","Integer","","Recommended","Difficulty with... Your day-to-day work/school?","0::4","0=None; 1=Mild; 2=Moderate; 3=Severe; Extremely or cannot do",""

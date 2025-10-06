@@ -29,4 +29,4 @@
 "aisrs_hyp_sev","Integer","","Recommended","AISRS total severity of hyperactive-impulsive symptoms","0::27","Sum responses for hyperactive-impulsive symptoms to obtain severity",""
 "aisrs_total_sev","Integer","","Recommended","AISRS total symptom severity","0::54","Sum responses for all symptoms to obtain severity",""
 "aisrs_diagnosis","String","120","Recommended","ADHD diagnosis","","No diagnosis, ADHD-Combined, ADHD-inattentive, ADHD-hyperactive/impulsive, ADHD-Unspecified; other specified ADHD",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

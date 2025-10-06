@@ -23,7 +23,7 @@
 "apath_17","Integer","","Recommended","I have an accurate understanding of my problems","1::4","4 = very true; 3 = somewhat true; 2 = slightly true; 1 = not at all true","apath15"
 "apath_18","Integer","","Recommended","I have initiative","1::4","4 = very true; 3 = somewhat true; 2 = slightly true; 1 = not at all true","apath17"
 "apath_19","Integer","","Recommended","Apathy Evaluation Scale total score","","","apath_total"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "aes_c8","Integer","","Recommended","Seeing a job through end to end is important to her/him.","1::4","1 =Not at all characteristic;  2 = Slightly characteristic; 3 = Somewhat characteristic; 4 =  A lot characteristic",""
 "aes_c9","Integer","","Recommended","He/she spends time doing things that interest her/him.","1::4","1 =Not at all characteristic;  2 = Slightly characteristic; 3 = Somewhat characteristic; 4 =  A lot characteristic",""
 "aes_c10","Integer","","Recommended","Someone has to tell her/him what to do each day.","1::4","4 =Not at all characteristic;  3 = Slightly characteristic; 2 = Somewhat characteristic; 1 =  A lot characteristic",""

@@ -244,7 +244,7 @@
 "sirp_rt","Float","","Recommended","Reaction Time","0::10000000;-999","In ms; -999=No Response",""
 "firstresponsecorrect_string","String","50","Recommended","Correctness of first response: Whether or not a press (or no-press) was correct given trial condition and type","","",""
 "mrimode_string","String","50","Recommended","MRI Mode: Internal indicator for scan vs. behavioral practice task version","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "suvorexant_dose","Integer","","Recommended","Level of suvorexant dose","0;10;20","0= 0mg; 10= 10mg; 20= 20mg",""
 "acute_subchronic","Integer","","Recommended","Session following acute or subchronic suvorexant dosing","1;2","1= Acute; 2= Subchronic",""
 "alcohol_time_alt","Integer","","Recommended","Time in the experimental session","1;2","1= Pre-alcohol consumption of sampling dose; 2= Post-alcohol consumption of sampling dose",""

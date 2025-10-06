@@ -57,7 +57,7 @@
 "abuse_7_yn","Integer","","Recommended","Has a partner ever: Tried to convince your family, children or friends that you are crazy or tried to turn them against you?","0;1","0=No; 1=Yes",""
 "abuse_8_yn","Integer","","Recommended","Has a partner ever: Used or threatened to use a knife, gun, or other weapon to harm you?","0;1","0=No; 1=Yes",""
 "abuse_9_yn","Integer","","Recommended","Has a partner ever: Made you perform sex acts that you did not want to perform?","0;1","0=No; 1=Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "cas_12mo_6","Integer","","Recommended","In the past 12 months my partner (or, if you were not with a partner in the past 12 months, the last partner that you had)... Slapped me","0::5","0= Never; 1= Only once; 2= Several times; 3= Once a month; 4= Once a week; 5= Daily",""
 "cas_12mo_7","Integer","","Recommended","In the past 12 months my partner (or, if you were not with a partner in the past 12 months, the last partner that you had)... Raped me","0::5","0= Never; 1= Only once; 2= Several times; 3= Once a month; 4= Once a week; 5= Daily",""
 "cas_12mo_8","Integer","","Recommended","In the past 12 months my partner (or, if you were not with a partner in the past 12 months, the last partner that you had)... Told me that I was ugly","0::5","0= Never; 1= Only once; 2= Several times; 3= Once a month; 4= Once a week; 5= Daily",""

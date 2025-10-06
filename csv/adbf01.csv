@@ -20,4 +20,4 @@
 "sixmo_advbeh_media","Integer","","Recommended","Tried to get media attention (e.g., newspaper, television, radio) about disability services?","1::5","1=Not at all; 2=A little; 3=Sometimes; 4=Often; 5=Very often",""
 "sixmo_advbeh_leader","Integer","","Recommended","Taken on leadership roles in national, state, or local agencies related to disability services?","1::5","1=Not at all; 2=A little; 3=Sometimes; 4=Often; 5=Very often",""
 "sixmo_advbeh_present","Integer","","Recommended","Presented at state or national conferences about disability services?","1::5","1=Not at all; 2=A little; 3=Sometimes; 4=Often; 5=Very often",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

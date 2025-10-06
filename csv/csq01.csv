@@ -73,7 +73,7 @@
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","pi_staff"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "csq_prsnltm","Integer","","Recommended","In the past month, how much of a problem have the following situations been as a result of this youth''s problems? Interruption of personal time","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Quite a bit; 5= Very much",""
 "csq_negl","Integer","","Recommended","In the past month, how much of a problem have the following situations been as a result of this youth''s problems? Missing work or neglecting other duties","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Quite a bit; 5= Very much",""
 "csq_fin","Integer","","Recommended","In the past month, how much of a problem have the following situations been as a result of this youth''s problems? Financial strain","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Quite a bit; 5= Very much",""

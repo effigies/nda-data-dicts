@@ -62,7 +62,7 @@
 "comqother","String","255","Recommended","Respondent - Other (text)","","","respondent"
 "fneproc","String","20","Recommended","name of trial procedure being run","","",""
 "edanx56","Integer","","Recommended","In the past 7 days...I had unpleasant thoughts that wouldn't leave my mind","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "edanx_anxious","Integer","","Recommended","PROMIS Anxiety: Feel Anxious (30 days)","1::5; -5; -7; -8","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All or almost all of the time; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "edanx_worryaboutthings","Integer","","Recommended","PROMIS Anxiety: Worry About things (30 days)","1::5; -5; -7; -8","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All or almost all of the time; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "edanx_troublerelax","Integer","","Recommended","PROMIS Anxiety: Trouble Relaxing (30 days)","1::5; -5; -7; -8","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All or almost all of the time; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""

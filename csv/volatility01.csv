@@ -13,4 +13,4 @@
 "time_rt","Float","","Recommended","Time taken to respond","","","rt"
 "block_sv","Integer","","Recommended","Did block involve volatile or stable condition?","1;2","1 = Stable; 2 = Volatile; counter-balanced across participants","block"
 "study_part","Integer","","Recommended","Study Part Number","1::3","","part"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

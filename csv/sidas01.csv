@@ -10,4 +10,4 @@
 "sidas04","Integer","","Recommended","In the past three months/past week, to what extent have you felt tormented by thoughts about suicide","0::10","0= Never; 10= Always","sidas_4"
 "sidas05","Integer","","Recommended","In the past three months/past week, how much have thoughts about suicide interfered with your ability to carry out daily activities, such as work, household tasks or social activities","0::10","0= Never; 10= Always","sidas_5"
 "sidas_tot","Integer","","Recommended","SIDAS Sum score","0::50","","sidas_sum"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

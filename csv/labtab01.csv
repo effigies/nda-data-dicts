@@ -40,7 +40,7 @@
 "prop_mask4_any_bodydistress","Float","","Recommended","Proportion of any body distress that the child exhibited during the fourth mask","0::1","",""
 "prop_mask4_any_selfregulation","Float","","Recommended","Proportion of any self regulation that the child exhibited during the fourth mask","0::1","",""
 "prop_mask4_any_struggle","Float","","Recommended","Proportion of any struggle that the child exhibited during the fourth mask","0::1","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "prop_armrestraint1_any_dv","Float","","Recommended","Proportion of any distress vocalizations that the child exhibited during the first arm restraint episode","0::1","",""
 "prop_armrestraint1_mhfd","Float","","Recommended","Proportion of medium and high intensity facial distress that the child exhibited during the first arm restraint episode","0::1","",""
 "prop_armrestraint1_mhdv","Float","","Recommended","Proportion of medium and high intensity distress vocalizations that the child exhibited during the first arm restraint episode","0::1","",""

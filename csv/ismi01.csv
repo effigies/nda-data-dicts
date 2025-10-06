@@ -54,7 +54,7 @@
 "chal_stigma05","Integer","","Recommended","To resist stigma, I think about positive things about myself","1::4","1= Strongly Disagree; 2= Disagree; 3= Agree; 4= Strongly Agree",""
 "chal_stigma06","Integer","","Recommended","I tell myself positive things to help resist stigma","1::4","1= Strongly Disagree; 2= Disagree; 3= Agree; 4= Strongly Agree",""
 "chal_stigma07","Integer","","Recommended","I encourage others by showing them there is hope","1::4","1= Strongly Disagree; 2= Disagree; 3= Agree; 4= Strongly Agree",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "stig8","Integer","","Recommended","Most people feel that a child receiving mental health treatment is a sign of personal failure within a family. ","1::5","1 = Strongly Agree; 2 = Agree; 3 = Neither Agree nor Disagree; 4 = Disagree; 5 = Strongly Disagree",""
 "stig9","Integer","","Recommended","I will try all other options before contacting professional mental health services because I believe that my child and/or family would be treated differently by others.","1::5","1 = Strongly Agree; 2 = Agree; 3 = Neither Agree nor Disagree; 4 = Disagree; 5 = Strongly Disagree",""
 "stig10","Integer","","Recommended","I will try to handle my child''s difficulties without help because I would be concerned that my child and/or family would be stigmatized for receiving mental health services.","1::5","1 = Strongly Agree; 2 = Agree; 3 = Neither Agree nor Disagree; 4 = Disagree; 5 = Strongly Disagree",""

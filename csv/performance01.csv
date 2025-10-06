@@ -29,4 +29,4 @@
 "ps_23_tp","Integer","","Recommended","Is this worker working up to potential?","0::3;998;999","0= Never; 1= Hardly; 2= Sometimes; 3= Always; 998= Don't know; 999=No answer",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

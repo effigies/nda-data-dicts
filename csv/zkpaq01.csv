@@ -253,4 +253,4 @@
 "zkpaq_220","Integer","","Recommended","I like to have new and exciting experiences and sensations even if they are a little frightening.","0;1","0 = False; 1 = True",""
 "zkpaq_221","Integer","","Recommended","I sometimes like to do things that are a little frightening.","0;1","0 = False; 1 = True",""
 "zk_impsensseek_tot","Integer","","Recommended","Impulsive Sensation Seeking Total:","0::19","Sum of zk_impsensseek_01 through zk_impsensseek_19 (after reversing #13 and #16)",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

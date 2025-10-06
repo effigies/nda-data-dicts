@@ -61,7 +61,7 @@
 "promis57_painin34","Integer","","Recommended","How much did pain interfere with your household chores?","1::6; -999","1= Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5= Very much; 6= Rather not answer; -999 = Missing",""
 "promis57_painin13","Integer","","Recommended","How much did pain interfere with your family life?","1::6; -999","1= Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5= Very much; 6= Rather not answer; -999 = Missing",""
 "promis57_pain_rate","Integer","","Recommended","How would you rate your pain on average?","1::12; -999","1=No pain; 11=Worst imaginable pain; 12=Rather not answer; -999=Missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","redcap_event_name"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","redcap_event_name"
 "promis_physical_4a","Integer","","Recommended","PROMIS Physical Function 4A: Raw Score","0::20","",""
 "promis_physical_6b","Integer","","Recommended","PROMIS Physical Function 6B: Raw Score","0::30","",""
 "promis_t_physical_4a","Float","","Recommended","PROMIS Physical Function 4A: T-Score","0::80","",""

@@ -117,4 +117,4 @@
 "t1strdis","Integer","","Recommended","Stress Dissocation Severity Score","0::25","",""
 "t1strimp","Integer","","Recommended","Evidence of Impairment","0; 1","0 = No; 1 = Yes",""
 "t1strptsd","Integer","","Recommended","Probably PTSD","0; 1","0 = No; 1 = Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

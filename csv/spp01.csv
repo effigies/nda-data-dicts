@@ -292,7 +292,7 @@
 "social_5","Integer","","Recommended","Not cooperating, cranky, irritable, unhappy","0::4;-99","0=Not at all; 1= Just a little; 2= Fairly often; 3-Very often; 4=Not applicable; -99= Missing Value",""
 "social_16","Integer","","Recommended","During the last month I had a close friend I can tell problems to.","1::4;-99","1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree; -99= Missing Value",""
 "social_17","Integer","","Recommended","During the last month I had a close friend who really understands me.","1::4;-99","1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree; -99= Missing Value",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "sssc_pss","Float","","Recommended","Parent Support Subscale Score","","Mean of items 1, 5, 9, 13, 17, and 21",""
 "sssc_css","Float","","Recommended","Classmate Support Subscale Score","","Mean of items 2, 6, 10, 14, 18, and 22",""
 "sssc_tss","Float","","Recommended","Teacher Support Subscale Score","","Mean of items 3, 7, 11, 15, 19, and 23",""

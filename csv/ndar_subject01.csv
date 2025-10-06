@@ -132,7 +132,7 @@
 "date_confirmed_phenotype","Date","","Recommended","","Date when subject was diagnosed","","",""
 "pos_years","Integer","","Recommended","","Number of years at position","0::100;-9;999","-9 = Unknown/Not Reported; 999 = N/A",""
 "position1","String","150","Recommended","","Title of Employment Position","","-9 = Unknown/Not Reported",""
-"timepoint_label","String","50","Recommended","","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "trt_grp_desc","String","2000","Recommended","","Treatment Group Assignment - Description","","-9 = Unknown/Not Reported",""
 "longform_id","String","50","Recommended","","Long form of Subject ID","","",""
 "src_sibling6_id","String","100","Recommended","","site specific sibling6 ID","","",""

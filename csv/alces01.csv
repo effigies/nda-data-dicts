@@ -26,5 +26,5 @@
 "intoxication_level","Integer","","Recommended","How intoxicated do you feel right now?","1::100","1 = None at all; 100 = Very much",""
 "session_number","Integer","","Recommended","Session number","","",""
 "breath_alc","Float","","Recommended","Breath Alcohol Level of Subject at Each Timepoint","0::1","Percentage",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "et_dose_num","Integer","","Recommended","Dose number","","",""

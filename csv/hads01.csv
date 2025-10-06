@@ -18,4 +18,4 @@
 "hads12","Integer","","Recommended","I look forward with enjoyment to things","0::3","0 = As much as I ever did; 1 = Rather less than I used to; 2 = Definitely less than I used to; 3 = Hardly at all",""
 "hads13","Integer","","Recommended","I get sudden feelings of panic","0::3","0 = Not at all; 1 = Not very often; 2 = Quite often; 3 = Very often indeed   ",""
 "hads14","Integer","","Recommended","I can enjoy a good book or radio or TV program","0::3","0 = Often; 1 = Sometimes; 2 = Not often; 3 = Very seldom",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

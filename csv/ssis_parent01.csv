@@ -160,4 +160,4 @@
 "ssis_prob_as","Integer","","Recommended","Problem Behaviors - Autism Spectrum","","",""
 "ssis_soc_as","Integer","","Recommended","Social Skills - Autism Spectrum","","Part A Reverse Score",""
 "ssis_as_raw","Integer","","Recommended","Autism Spectrum Raw Score","","Part A Reverse Score plus Part B Raw Score",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

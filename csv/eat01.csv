@@ -71,4 +71,4 @@
 "q32_treated_month","Integer","","Recommended","If diagnosed/treated for eating disorder: has this happened in the past month?","0;1","0 = No; 1 = Yes",""
 "q33_treated_year","Integer","","Recommended","If diagnosed/treated for eating disorder: has this happened in the past year?","0;1","0 = No; 1 = Yes",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

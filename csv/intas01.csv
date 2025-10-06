@@ -69,4 +69,4 @@
 "ias_r_63","Integer","","Recommended","How accurately does each of the following words describes your interpersonal (i.e., social) behavior over the past 24 hours: Outgoing?","0::100; 999","0=Not at all; 100=Extremely; 999=Missing",""
 "ias_r_64","Integer","","Recommended","How accurately does each of the following words describes your interpersonal (i.e., social) behavior over the past 24 hours: Extraverted?","0::100; 999","0=Not at all; 100=Extremely; 999=Missing",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

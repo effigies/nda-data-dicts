@@ -44,7 +44,7 @@
 "parent_sleep05","Integer","","Recommended","In the past 7 days: It took my child a long time to fall asleep.","1::5; 99","1=Never; 2=Almost Never; 3=Sometimes; 4=Almost Always; 5=Always; 99=N/A",""
 "parent_sleep06","Integer","","Recommended","In the past 7 days: My child worried about not being able to fall asleep.","1::5; 99","1=Never; 2=Almost Never; 3=Sometimes; 4=Almost Always; 5=Always; 99=N/A",""
 "parent_sleep07","Integer","","Recommended","In the past 7 days: My child woke up at night and had trouble falling back to sleep.","1::5; 99","1=Never; 2=Almost Never; 3=Sometimes; 4=Almost Always; 5=Always; 99=N/A",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","redcap_event_name"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","redcap_event_name"
 "sleep44_v2","Integer","","Recommended","In the past 7 days... I had difficulty falling asleep","1::5; 99","1=Never; 2=Almost Never; 3=Sometimes; 4=Almost Always; 5=Always; 99=N/A","difficulty_asleep,prsld01"
 "sleep20_v2","Integer","","Recommended","In the past 7 days... I had a problem with my sleep","1::5; 99","1=Never; 2=Almost Never; 3=Sometimes; 4=Almost Always; 5=Always; 99=N/A","problem_sleep,prsld03"
 "sleep67_v2","Integer","","Recommended","In the past 7 days... I worried about not being able to fall asleep","1::5; 99","1=Never; 2=Almost Never; 3=Sometimes; 4=Almost Always; 5=Always; 99=N/A","prsld06"

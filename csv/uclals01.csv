@@ -88,7 +88,7 @@
 "loneliness_5","Integer","","Recommended","How often do you feel like you are part of a group of friends?","1::4;9999","4 = Never; 3 = Rarely; 2 = Sometimes; 1 = Always; 9999 = Unknown (not answered)",""
 "loneliness_6","Integer","","Recommended","How often do you feel that you have a lot in common with the people around you?","1::4;9999","4 = Never; 3 = Rarely; 2 = Sometimes; 1 = Always; 9999 = Unknown (not answered)",""
 "loneliness_7","Integer","","Recommended","How often do you feel that you are no longer close to anyone?","1::4;9999","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Always; 9999 = Unknown (not answered)",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "uls1_r","Integer","","Recommended","I  felt in tune with the people around me.","1::4","1=Extremely true; 2 = Somewhat true; 3 = A little bit true; 4 = Not at all true",""
 "uls15_r","Integer","","Recommended","I could find companionship when I wanted it.","1::4","1=Extremely true; 2 = Somewhat true; 3 = A little bit true; 4 = Not at all true",""
 "x74ne_b_4","Integer","","Recommended","How often do you feel alone?","0::2; 94::98; -97; -98","0 = Hardly ever; 1 = Some of the time; 2 = Often; 94=Refused to answer; 95=Do not know; 96=Missing; 97=Accidentally skipped; 98=Purposely skipped; -97=Missing online; -98=Purposely skipped online",""

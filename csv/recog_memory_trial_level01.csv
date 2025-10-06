@@ -8,7 +8,7 @@
 "deviceserialnumber","String","200","Recommended","device serial number/ID","","",""
 "startime1","String","10","Recommended","Start time: series 1","","",""
 "stoptime","String","10","Recommended","Stop time","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "visit_name","String","20","Recommended","session ID/screening ID","","",""
 "data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv","fitc_raw_data_file1"
 "data_file1_type","String","300","Recommended","type of data file 1","","","fitc_raw_data_file1_type"

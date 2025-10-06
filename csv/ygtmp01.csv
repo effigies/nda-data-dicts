@@ -12,7 +12,7 @@
 "ygtmp_cond1_lrgamt","Integer","","Recommended","Over the past 7 days, how many times have you eaten what other people would regard as an unusually large amount of food (given the circumstances?)","0::99","99=Missing",""
 "ygtmp_cond1_loc","Integer","","Recommended","Over the past 7 days, how many times have you eaten what other people would regard as an unusually large amount of food (given the circumstances?) On how many of these times did you have a sense of having lost control over your eating (at the time that you were eating)?","0::99","99=Missing",""
 "ygtmp_cond1_bng","Integer","","Recommended","Over the past 7 days, on how many days have such episodes of overeating occurred (i.e., you have eaten an unusually large amount of food and have had a sense of loss of control at the time)?","0::7; 99","99=Missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "full","Integer","","Recommended","Please rate how FULL you feel right now with a clear perpendicular mark on the line.","0::100; 999","in mm; 0 = Not at all full; 100 = Extremely full; 999 = Missing",""
 "satiated","Integer","","Recommended","Please rate how SATIATED or SATISFIED you feel right now with a clear perpendicular mark on the line.","0::100; 999","in mm; 0 = Not at all satiated (satisfied); 100 = Extremely satiated (satisfied); 999 = Missing",""
 "hung","Integer","","Recommended","Please rate how HUNGRY you feel right now with a clear perpendicular mark on the line.","0::100; 999","in mm; 0 = Not at all hungry; 100 = Extremely hungry; 999 = Missing",""

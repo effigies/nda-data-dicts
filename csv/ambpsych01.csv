@@ -39,7 +39,7 @@
 "scr_ns","Float","","Recommended","Non-specific skin conductance response","0::99999","",""
 "tonic_scl","Float","","Recommended","Tonic skin condutance level","-99999 :: 99999","",""
 "mean_sc","Float","","Recommended","Mean skin conductance","-99999 :: 99999","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "event_type","String","100","Recommended","Event Type","","",""
 "epoch_duration","Integer","","Recommended","Epoch duration in seconds","","","duration"
 "rsa","String","50","Recommended","Respiratory Sinus Arrhythmia (RSA) Reactivity","","",""

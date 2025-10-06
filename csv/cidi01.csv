@@ -116,7 +116,7 @@
 "sis_netpos_num_pre_std","Float","","Recommended","Number of Network Positive Relationships, value before standardized to mean 0, standard deviation 1","0 :: 100","",""
 "sis_netpos_conf_pre_std","Float","","Recommended","Number of Network Positive Confidants, value before standardized to mean 0, standard deviation 1","0 :: 100","",""
 "siteid","Integer","","Recommended","Site ID","10::100","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "afraid_30days","Integer","","Recommended","Afraid Awful Happen (30 days)","1 :: 5; -5; -7; -8;-97;-98","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All or almost all of the time; -98=DON'T KNOW; -97=REFUSED; -8=DON'T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "panicattack_30days","Integer","","Recommended","Sudden Panic Attack (30 days)","1 :: 5; -5; -7; -8;-97;-98","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All or almost all of the time; -98=DON'T KNOW; -97=REFUSED; -8=DON'T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "irritated_30days","Integer","","Recommended","Irritated-Annoyed-Grouchy (30 days)","1 :: 5; -5; -7; -8;-97;-98","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All or almost all of the time; -98=DON'T KNOW; -97=REFUSED; -8=DON'T KNOW; -7=REFUSED; -5=Presented, not answered",""

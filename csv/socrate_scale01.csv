@@ -99,7 +99,7 @@
 "socrate19_8a_14","Integer","","Recommended","I want help to keep from going back to the drinking problems that I had before.","1::5","1= Strongly Disagree; 2= Disagree; 3= Undecided or unsure; 4= Agree; 5= Strongly Agree",""
 "socrm_recognition_score","Integer","","Recommended","SOCRATES Cannabis - Recognition Raw Score","7::35","sum([socrm_q1],[socrm_q3],[socrm_q7],[socrm_q10],[socrm_q12],[socrm_q15],[socrm_q17])",""
 "socrm_ambivalence_score","Integer","","Recommended","SOCRATES Cannabis - Ambivalence Raw Score","4::20","sum([socrm_q2],[socrm_q6],[socrm_q11],[socrm_q16])",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "socrate19_8a_15","Integer","","Recommended","I know that I have a drinking problem.","1::5","1= Strongly Disagree; 2= Disagree; 3= Undecided or unsure; 4= Agree; 5= Strongly Agree",""
 "socrate19_8a_16","Integer","","Recommended","There are times when I wonder if I drink too much.","1::5","1= Strongly Disagree; 2= Disagree; 3= Undecided or unsure; 4= Agree; 5= Strongly Agree",""

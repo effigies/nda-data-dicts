@@ -38,7 +38,7 @@
 "onewhohelpsdecisions","Integer","","Recommended","Someone to help me make decisions.","1::5; 7; 8","1=None of the time; 2= A little of the time; 3= Some of the time; 4=Most of the time; 5=All of the time; 7=Refused; 8=Don''t Know",""
 "bees_support1","Integer","","Recommended","How many relatives do you have that you feel close to ? people you feel comfortable with, can talk with about personal things, or can ask for help if you need it? Include your husband, parents, children, and other relatives.","","Number of People",""
 "bees_support2","Integer","","Recommended","How many close friends do you have that you feel close to ? people you feel comfortable with, can talk with about personal things, or can ask for help if you need it?","","Number of People",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "mos01_friend","Integer","","Recommended","A friend to turn to for suggestions about how to deal with a personal problem.","1::5","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All of the time",""
 "mos02_friend","Integer","","Recommended","A friend to do something enjoyable with.","1::5","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All of the time",""
 "mos03_friend","Integer","","Recommended","A friend to help you out if you were sick (e.g., pick up your class assignments).","1::5","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All of the time",""

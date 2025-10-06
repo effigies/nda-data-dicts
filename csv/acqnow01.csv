@@ -95,7 +95,7 @@
 "acq_long_factor3","Float","","Recommended","(Long Form) Factor 3: Purposefulness (PURP), urges and desires coupled with intent and planning to drink.","","Average sum of questions 2, 6, 12, 27, 29, 36, 38, 43 (These questions are reversed key items, the item raw scored is subtracted from 8 to yield the actual raw score.)",""
 "acq_long_factor4","Float","","Recommended","(Long Form) Factor 4: Emotionality (EMOT), urges and desires to drink in anticipation of relief from withdrawal/negative affect.","","Average sum of questions 28, 34, 39",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "acq_now7_100","Integer","","Recommended","Right now, I miss drinking.","0::100","0 = Strongly Disagree; 100 = Strongly Agree",""
 "acq_now12_100","Integer","","Recommended","Right now, I am not making any plans to drink.","0::100","0 = Strongly Disagree; 100 = Strongly Agree",""
 "acq_now15_100","Integer","","Recommended","I could not stop myself from drinking if I had some alcohol here.","0::100","0 = Strongly Disagree; 100 = Strongly Agree",""

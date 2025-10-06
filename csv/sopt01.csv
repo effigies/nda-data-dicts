@@ -122,4 +122,4 @@
 "presentationtime","Float","","Recommended","Time at which the stimulus was presented from when they started the task","0::10000000","In ms",""
 "stimnum","Integer","","Recommended","Stimulus Number","1::8","",""
 "stim1_n","Integer","","Recommended","Identifier for the (stimnum) stimulus in the presented set","1::88","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

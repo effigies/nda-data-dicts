@@ -92,7 +92,7 @@
 "les_blaming_self","Integer","","Recommended","PCL5: LES Blame Self or Someone Else (30 days)","0 :: 4; -5; -7; -8","0=Not at all; 1=A little; 2=Some; 3=A lot; 4=Extremely;  -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "les_feeling_fear","Integer","","Recommended","PCL5: LES Strong Negative Emotions (30 days)","0 :: 4; -5; -7; -8","0=Not at all; 1=A little; 2=Some; 3=A lot; 4=Extremely;  -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "les_loss_interest","Integer","","Recommended","PCL5: LES Loss of Interest in Activities (30 days)","0 :: 4; -5; -7; -8","0=Not at all; 1=A little; 2=Some; 3=A lot; 4=Extremely;  -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "les_lack_pos_emotions","Integer","","Recommended","PCL5: LES Trouble Experience Pos+ Emotions (30 days)","0 :: 4; -5; -7; -8","0=Not at all; 1=A little; 2=Some; 3=A lot; 4=Extremely;  -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "les_taking_risks","Integer","","Recommended","PCL5: LES Taking Too Many Risks (30 days)","0 :: 4; -5; -7; -8","0=Not at all; 1=A little; 2=Some; 3=A lot; 4=Extremely;  -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "les_super_alert","Integer","","Recommended","PCL5: LES Superalert, Watchful, On Guard (30 days)","0 :: 4; -5; -7; -8","0=Not at all; 1=A little; 2=Some; 3=A lot; 4=Extremely;  -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""

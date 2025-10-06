@@ -80,7 +80,7 @@
 "poms070","Integer","","Required","Confusion sub-score","","-9=Unknown",""
 "poms071","Integer","","Required","Vigour sub-score","","-9=Unknown",""
 "poms072","Integer","","Required","POMS Total score","","-9=Unknown",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "anx8_1","Integer","","Recommended","W1:During the last 7 days, I felt nervous","0::4;99","0=Not at all; 1=A little; 2=Moderately; 3=Quite a bit; 4=Extremely; 99=No data",""
 "anx9_1","Integer","","Recommended","W1:During the last 7 days, I felt anxious","0::4;99","0=Not at all; 1=A little; 2=Moderately; 3=Quite a bit; 4=Extremely; 99=No data",""
 "anger1_1","Integer","","Recommended","W1:To what extent have you felt the following in the last 7 days? Angry","0::4;99","0=Not at all; 1=A little; 2=Moderately; 3=Quite a bit; 4=Extremely; 99=No data",""

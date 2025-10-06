@@ -49,5 +49,5 @@
 "airsds_42","Integer","","Recommended","Opportunity total","","",""
 "airsds_43","Integer","","Recommended","Level of Self-Determination","","",""
 "txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""

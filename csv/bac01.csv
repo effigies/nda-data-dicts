@@ -215,4 +215,4 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "bacspc","Float","","Recommended","BAC Percentile","","",""
 "groups","Integer","","Recommended","Group","0;1","0=Control; 1=Case",""
 "bacs_normed_4item","Integer","","Recommended","4 Item Composite BAC Score (T Score)","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

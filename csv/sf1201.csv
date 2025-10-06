@@ -124,4 +124,4 @@
 "vr12_6a","Integer","","Recommended","How much of the time during the past 4 weeks: have you felt calm and peaceful?","1::6; -999","1 = All of the time; 2 = Most of the time; 3= A good bit of the time; 4 = Some of the time; 5 = A little of the time; 6 = None of the time; -999=Missing",""
 "vr12_6b","Integer","","Recommended","How much of the time during the past 4 weeks: did you have a lot of energy?","1::6; -999","1 = All of the time; 2 = Most of the time; 3= A good bit of the time; 4 = Some of the time; 5 = A little of the time; 6 = None of the time; -999=Missing",""
 "vr12_6c","Integer","","Recommended","How much of the time during the past 4 weeks: have you felt downhearted and blue?","1::6; -999","1 = All of the time; 2 = Most of the time; 3= A good bit of the time; 4 = Some of the time; 5 = A little of the time; 6 = None of the time; -999=Missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

@@ -46,7 +46,7 @@
 "swnp_q20","Integer","","Recommended","Avoid arguing with adults","-3::3;-99","-3=Far above average; -2=Above average; -1=Slightly above average; 0=Average; 1=Slightly below average; 2=Below average; 3=Far below average; -99= N/A",""
 "swnp_q21","Integer","","Recommended","Follow adults requests or rules (follow directions)","-3::3;-99","-3=Far above average; -2=Above average; -1=Slightly above average; 0=Average; 1=Slightly below average; 2=Below average; 3=Far below average; -99= N/A",""
 "swnp_q22","Integer","","Recommended","Avoid deliberately doing things that annoy others","-3::3;-99","-3=Far above average; -2=Above average; -1=Slightly above average; 0=Average; 1=Slightly below average; 2=Below average; 3=Far below average; -99= N/A",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "strengths_1_3_collateral","String","100","Recommended","Please think about the person you know who participated in this study. In your opinion, what are that person's 3 greatest strengths - Strength 3","","Third strength listed",""
 "strengths_2_collateral","Integer","","Recommended","Please think about the person who participated in this study. How much do you agree with the following statement? Having ADHD has benefited this person in some way, or brought something good to their life","1::5","1= Strongly Disagree; 2= Disagree; 3= Neutral; 4= Agree; 5= Strongly agree",""
 "strengths_3_collateral","String","2000","Recommended","Please think about the person who participated in this study. How has ADHD benefited this person?","","",""

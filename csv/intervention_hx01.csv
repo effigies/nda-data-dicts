@@ -89,7 +89,7 @@
 "sibling_attempts","Integer","","Recommended","Sibling Module: Number of attempts made to complete module","0::10","Number of Attempts",""
 "sibling_duration","Integer","","Recommended","Sibling Module: Number of minutes spent in module","0::1000","",""
 "sibling_quiz_percent","Float","","Recommended","Sibling Module: Final quiz score (percentage)","0::100","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "gettingup_attempts","Integer","","Recommended","Getting Up Module: Number of attempts made to complete module","0::10","Number of Attempts",""
 "gettingup_duration","Integer","","Recommended","Getting Up Module: Number of minutes spent in module","0::1000","",""
 "gettingup_quiz_percent","Float","","Recommended","Getting Up Module: Final quiz score (percentage)","0::100","",""

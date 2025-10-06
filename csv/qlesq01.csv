@@ -50,7 +50,7 @@
 "date_updated","Date","","Recommended","Date record updated","","","recordeddate"
 "externalreference","String","255","Recommended","External Data Reference","","",""
 "primary_language","String","255","Recommended","Subject's Primary Language","","","userlanguage"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "qles_adult_function","Integer","","Recommended","Taking everything into consideration, during the past week how satisfied have you been with your ability to function in daily life?","1::5","1=Very poor; 2=Poor; 3=Fair; 4=Good; 5=Very good",""
 "qles_adult_sex","Integer","","Recommended","Taking everything into consideration, during the past week how satisfied have you been with your sexual drive, interest and/or performance?","1::5","1=Very poor; 2=Poor; 3=Fair; 4=Good; 5=Very good",""
 "qles_adult_economic","Integer","","Recommended","Taking everything into consideration, during the past week how satisfied have you been with your economic status?","1::5","1=Very poor; 2=Poor; 3=Fair; 4=Good; 5=Very good",""

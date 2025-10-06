@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
 "src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "age_days_date_assessment_dob","Integer","","Recommended","Subject's age in days obtained by subtracting the date of birth from the date of test","","","DISC_Age_Days_Date_Assessment_DOB"
 "admin_status","String","20","Recommended","Instrument administration status","Complete;Partial;Not Administered;Not Applicable","","DISC_Administration_Status"
 "disc_p_adhd","String","2","Recommended","""DISC (Parent): Attention-deficit hyperactivity disorder (0=Negative; 1=Positive, DSM IV Code 314.0X)""","0;1;NA","0 = Negative; 1 = Positive, DSM IV Code 314.0X; NA = Not available","DISC_P_Attention_Deficit_Hyperactivity_Disorder"

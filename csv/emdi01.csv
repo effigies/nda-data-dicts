@@ -218,7 +218,7 @@
 "edisr19","Integer","","Recommended","How much of a problem has this been in the last 7 days? I had extreme or intension emotional reactions","0::4","0= Level 0 (Never happens); 1= Level 1 (Happens occasionally OR does not cause too much of a problem); 2= Level 2 (Happens less than half the time OR causes some problems); 3= Level 3 (Happens at least half the time OR causes lots of problems); 4= Level 4 (Almost always happens OR causes a serious problem)",""
 "edi15s","Integer","","Recommended","Becomes frustrated when requests are not immediately met.","0::4","0 = Not at All; 1 = Mild; 2 = Moderate; 3 = Severe; 4 = Very Severe",""
 "p_edi_46","Integer","","Recommended","How much of a problem are these behaviors for your child: Reactions usually are more severe than the situation calls for","1::5","1= Not at all;  2=Mild; 3=Moderate; 4=Severe; 5=Very Severe",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "p_edi_3","Integer","","Recommended","How much of a problem are these behaviors for your child: Has explosive outbursts","1::5","1= Not at all;  2=Mild; 3=Moderate; 4=Severe; 5=Very Severe",""
 "p_edi_4","Integer","","Recommended","How much of a problem are these behaviors for your child: Cries or stays angry for 5 minutes or longer","1::5","1= Not at all;  2=Mild; 3=Moderate; 4=Severe; 5=Very Severe",""
 "p_edi_19","Integer","","Recommended","How much of a problem are these behaviors for your child: Has extreme or intense  emotional reactions","1::5","1= Not at all;  2=Mild; 3=Moderate; 4=Severe; 5=Very Severe",""

@@ -29,7 +29,7 @@ drinking,)","0::4","0 = My drinking is so minimal, I don't need to actively resi
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""
 "ocds_01_r","Integer","","Recommended","Since you last drank alcohol, how often have you had thoughts or impulses related to drinking?","0::100","0 = Not at all; 50 = Moderately; 100 = Extremely",""
 "ocds_13_r","Integer","","Recommended","If you had some alcohol right now, how likely would you be to drink it?","0::100","0 = Not at all; 50 = Moderately; 100 = Extremely",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "ocds_15","Integer","","Recommended","What is your own present goal with regard to drinking?","0::5;99","0 = Total abstinence-I want never to drink again; 1 = Total abstinence, but I realize I may slip sometimes; 2 = Occasional drinking when I feel strong urge; 3 = Temporary abstinence-I want to quit for a while, but I might drink again later on; 4 = Controlled or moderate drinking; 5 = No change, I do not want to change my drinking; 99 = Missing",""
 "ocds_16","Integer","","Recommended","How much do you want to abstain from drinking?","1::10;99","1 = Not at all; 10 = Very Much; 99 = Missing",""
 "ocds_17","Integer","","Recommended","How successful do you think you will be in abstaining from drinking during the next three months?","1::10;99","1 = Definitely will not drink; 10 = Definitely will drink; 99 = Missing",""

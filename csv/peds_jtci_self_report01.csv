@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
 "src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "age_days_dot_to_dob","Integer","","Recommended","Age in days obtained by subtracting the date of birth from the date of test","","","JTCI_SelfReport_10y_to_14y11m_Age_days_DOT_to_DOB"
 "admin_status","String","20","Recommended","Instrument administration status","Complete;Partial;Not Administered;Not Applicable","","JTCI_SelfReport_10y_to_14y11m_Administration_Status"
 "jtci_sr_q1","String","2","Recommended","JTCI Self-Report (10:0 to 14:11 y:m): Q1 answer (T=True; F=False)","T;F;NA","T = True; F = False; NA = Not available","JTCI_SelfReport_10y_to_14y11m_Q1"

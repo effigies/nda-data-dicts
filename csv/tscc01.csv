@@ -57,7 +57,7 @@
 "tscc_gt12","Integer","","Recommended","Feeling like nobody likes me","0 :: 3","Never = 0; Sometimes = 1; Lots of Times =2; Almost all the Time = 3","tscc_fortytwo"
 "t1_tscc_sum","Integer","","Recommended","TSCC General Trauma raw sum","0 :: 36","",""
 "t1_tscc_missingresponse","Integer","","Recommended","TSCC General Trauma missing item count","0 :: 12","count of items missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "tscc_22","Integer","","Recommended","Thinking about touching other people''s private parts","0::3","0=Never; 1=Sometimes; 2=Lots of Times; 3=Almost all the Time",""
 "tscc_23","Integer","","Recommended","Thinking about sex when I don''t want to","0::3","0=Never; 1=Sometimes; 2=Lots of Times; 3=Almost all the Time",""
 "tscc_32","Integer","","Recommended","Feeling nervous or jumpy inside","0::3","0=Never; 1=Sometimes; 2=Lots of Times; 3=Almost all the Time",""

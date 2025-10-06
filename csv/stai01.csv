@@ -97,7 +97,7 @@
 "stai_trait11_i","Integer","","Recommended","Generally. I am inclined to take things hard.","1::4","1 = Almost never; 2 = Sometimes; 3 = Often; 4 = Almost always","staix2_q11"
 "stai_trait14_i","Integer","","Recommended","Generally. I try to avoid facing a crisis or difficulty.","1::4","1 = Almost never; 2 = Sometimes; 3 = Often; 4 = Almost always","staix2_q14"
 "stai_trait15_i","Integer","","Recommended","Generally. I feel blue.","1::4","1 = Almost never; 2 = Sometimes; 3 = Often; 4 = Almost always","staix2_q15"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "ref_child_id","String","50","Recommended","Referencing Child ID how it is defined in lab/project","","",""
 "staia_16","Integer","","Recommended","Right now. I feel content","1::4","1= Very much so; 2 = Moderately so; 3 = Somewhat; 4 = Not at all so",""
 "staia_19","Integer","","Recommended","Right now. I feel steady","1::4","1= Very much so; 2 = Moderately so; 3 = Somewhat; 4 = Not at all so",""

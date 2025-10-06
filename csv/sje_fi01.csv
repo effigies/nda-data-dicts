@@ -47,4 +47,4 @@
 "perc_hsje","Integer","","Recommended","High Order Supported Joint Engagement overall Follow-In Utterances Perentage","","",""
 "perc_lsje","Integer","","Recommended","Low Order Supported Joint Engagement overall Follow-In Utterances Perentage","","",""
 "perc_fiu","Integer","","Recommended","Overall Follow-In Utterances Percentage that are not in any episode type","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

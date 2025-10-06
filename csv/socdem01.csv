@@ -698,7 +698,7 @@
 "housinginst_5","Integer","","Recommended","In the past 5 years, has there been a period of time in your life where you were unstably housed (e.g., couch-surfing, homeless)? Please select all that apply. - Selected Choice Yes, homeless","0;1","0 = Unchecked; 1 = Checked",""
 "housinginst_6","Integer","","Recommended","In the past 5 years, has there been a period of time in your life where you were unstably housed (e.g., couch-surfing, homeless)? Please select all that apply. - Selected Choice Yes, something else (please specify):","0;1","0 = Unchecked; 1 = Checked",""
 "housinginst_6_text","String","255","Recommended","In the past 5 years, has there been a period of time in your life where you were unstably housed (e.g., couch-surfing, homeless)? Please select all that apply. - Yes, something else (please specify): - Text","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "acha2011_49","String","15","Recommended","What is your height in feet and inches?","","Under 3 feet, 6 inches; 3 feet, 6 inches; ...; 7 feet; Over 7 feet",""
 "subridedem_04","Float","","Recommended","How much do you weigh in pounds?","","Weight in Pounds, lb",""
 "mayo_bio377","Integer","","Recommended","Do you consider yourself to be Hispanic or Latino?","0;1","0= No; 1= Yes",""

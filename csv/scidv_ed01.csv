@@ -68,7 +68,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "vis_type","Integer","","Recommended","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","visit_type,visit_type_12,visit_type_6"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "sciddv_ihtc","Integer","","Recommended","Anorexia Nervosa: Criterion A (Current) Height (Current, in inches)","","",""
 "sciddv_i58d","Integer","","Recommended","Other Specified Feeding or Eating Disorder: Criterion: Distress  (SIG. DISTRESS)","1::3;-999;-8","1= Absent or False; 2= Subthreshold; 3= Threshold or True;-999= Inadequate Information; -8= Not applicable or Missing  (Distress only asked if no impairment) ",""
 "sciddv_i58dn","String","4000","Recommended","Other Specified Feeding or Eating Disorder: Criterion: Distress Notes","","",""

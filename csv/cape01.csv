@@ -92,7 +92,7 @@
 "capepos","Float","","Recommended","Positive Symptoms total score","2::8","",""
 "capeneg","Float","","Recommended","Negative Symptoms total score","2::8","",""
 "capedep","Float","","Recommended","Depressive Symptoms total score","2::8","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "capebe_8","Integer","","Recommended","Have you ever felt as if the thoughts in your head are not your own?","0::4","0=Never; 1=Occasionally; 2=Sometimes; 3=Often; 4=Nearly always",""
 "capebe_9","Integer","","Recommended","Have your thoughts ever been so vivid that you were worried other people would hear them?","0::4","0=Never; 1=Occasionally; 2=Sometimes; 3=Often; 4=Nearly always",""
 "capebe_10","Integer","","Recommended","Have you ever heard your thoughts being echoed back at you?","0::4","0=Never; 1=Occasionally; 2=Sometimes; 3=Often; 4=Nearly always",""

@@ -224,7 +224,7 @@
 "comqother","String","255","Recommended","Respondent - Other (text)","","",""
 "fneproc","String","20","Recommended","name of trial procedure being run","","",""
 "nihtfass","Integer","","Recommended","Age-Corrected Standard Score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "data_file2","File","255","Recommended","Data file 2","","Path to data file, e.g., Users/username/Documents/subjectABC_file2.csv",""
 "data_file2_type","String","100","Recommended","data file 2 type/description","","",""
 "starting_run","Integer","","Recommended","Flanker Letter - The first trial that is randomized for each participant","1 :: 4","",""

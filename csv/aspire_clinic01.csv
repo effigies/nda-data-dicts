@@ -46,7 +46,7 @@
 "demog3_6","Integer","","Recommended","What is your race? You may choose more than one. (Choice: Other)","0;1","0= No; 1= Yes",""
 "demog3_7","Integer","","Recommended","What is your race? You may choose more than one. (Choice: Prefer not to answer)","0;1","0= No; 1= Yes",""
 "demog3_6resp","String","50","Recommended","Other (please state)","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "acha2011_54f","Integer","","Recommended","How do you usually describe yourself? Mark all that apply. Biracial or Multiracial","0;1","0= Unchecked; 1= Checked",""
 "acha2011_54g","Integer","","Recommended","How do you usually describe yourself? Mark all that apply. Other","0;1","0= Unchecked; 1= Checked",""
 "riaya_gen8","Integer","","Recommended","What is your race/ethnicity? (Check all that apply) Asian","0;1","0=No; 1=Yes",""

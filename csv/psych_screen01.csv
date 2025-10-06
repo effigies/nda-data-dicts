@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","month"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","month"
 "psychosis_1","Integer","","Recommended","Have you ever heard things that other people could not hear, such as voices?","0;1;9","0 = No; 1 = Yes; 9 = Missing; Interviewers are trained to exclude periods of time when the subject was using drugs or alcohol.","psy_1"
 "psychosis_1a","Integer","","Recommended","Have you heard things that other people could not hear, such as voices in the past month?","0;1;9","0 = No; 1 = Yes; 9 = Missing; This question is only asked if psychosis_1 = Yes","psy_1a"
 "psychosis_2","Integer","","Recommended","Have you ever felt certain that someone else could control your thoughts or that you could actually hear what someone else is thinking?","0;1;9","0 = No; 1 = Yes; 9 = Missing; Interviewers are trained to exclude periods of time when the subject was using drugs or alcohol.","psy_2"

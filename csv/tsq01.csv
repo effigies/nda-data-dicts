@@ -14,4 +14,4 @@
 "tsq8","Integer","","Recommended","Please indicate whether or not you have experienced the following at least twice in the past week: Difficulty concentrating","0;1","0= No; 1= Yes",""
 "tsq9","Integer","","Recommended","Please indicate whether or not you have experienced the following at least twice in the past week: Heightened awareness of potential dangers to yourself and others","0;1","0= No; 1= Yes",""
 "tsq10","Integer","","Recommended","Please indicate whether or not you have experienced the following at least twice in the past week: Being jumpy or being startled at something unexpected","0;1","0= No; 1= Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

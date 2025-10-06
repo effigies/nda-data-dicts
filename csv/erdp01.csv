@@ -19,7 +19,7 @@
 "erselfefficacy","Float","","Recommended","Average level of believing that they would be successful the next time they attempted a strategy","","Mean of emotion regulation self-efficacy from active digital phenotyping/EMA/ESM from entire study period.",""
 "emotionalawareness","Float","","Recommended","Average emotional awareness over the course of the week","","Mean of emotional awareness from active digital phenotyping/EMA/ESM from entire study period.",""
 "er_strat_avoid","Integer","","Recommended","Strategy: Avoidance","0;1","0=Not endorsed; 1=Endorsed",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "er_strat_cog","Integer","","Recommended","Strategy: Cognitive reappraisal","0;1","0=Not endorsed; 1=Endorsed",""
 "er_strat_accept","Integer","","Recommended","Strategy: Acceptance","0;1","0=Not endorsed; 1=Endorsed",""
 "er_strat_probsolv","Integer","","Recommended","Strategy: Problem Solving","0;1","0=Not endorsed; 1=Endorsed",""

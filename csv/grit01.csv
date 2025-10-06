@@ -27,7 +27,7 @@
 "grit_amb4","Integer","","Recommended","I think achievement is overrated","1::5","1= Very much like me; 2= Mostly like me; 3= Somewhat like me; 4= Not much like me; 5= Not like me at all",""
 "grit_amb5","Integer","","Recommended","I am driven to succeed","1::5","5= Very much like me; 4= Mostly like me; 3= Somewhat like me; 2= Not much like me; 1= Not like me at all",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","version"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "grit_1rev","Integer","","Recommended","1. New ideas and projects sometimes distract me from previous ones.","1::5; 9999","5 = Very much like me; 4 = Mostly like me; 3 = Somewhat like me; 2 = Not much like me; 1 = Not like me at all; 9999 = I do not wish to answer this question",""
 "grit_3rev","Integer","","Recommended","3. I have been obsessed with a certain idea or project for a short time but later lost interest.","1::5; 9999","5 = Very much like me; 4 = Mostly like me; 3 = Somewhat like me; 2 = Not much like me; 1 = Not like me at all; 9999 = I do not wish to answer this question",""
 "grit_5rev","Integer","","Recommended","5. I often set a goal but later choose to pursue a different one.","1::5; 9999","5 = Very much like me; 4 = Mostly like me; 3 = Somewhat like me; 2 = Not much like me; 1 = Not like me at all; 9999 = I do not wish to answer this question",""

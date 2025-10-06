@@ -23,7 +23,7 @@
 "auq_07a","Integer","","Recommended","If I had the chance to have a drink now, I don't think I would drink it","0::7","7 = Strongly Agree; 1 = Strongly Disagree; Reverse Scored",""
 "auq_08a","Integer","","Recommended","I crave a drink right now.","0::7","0 = Strongly Disagree; 7 = Strongly Agree",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "auq1","Integer","","Recommended","All I want to do now is have a drink.","1::7","1 = Strongly disagree; 2;3;4;5;6; 7 = Strongly agree","auq1_alc,auq1_appl,auq1_bl,auq1_wat"
 "auq2","Integer","","Recommended","I do not need to have a drink now.","1::7","1 = Strongly disagree; 2;3;4;5;6; 7 = Strongly agree","auq2_alc,auq2_appl,auq2_bl,auq2_wat"
 "auq3","Integer","","Recommended","It would be difficult to turn down a drink this minute.","1::7","1 = Strongly disagree; 2;3;4;5;6; 7 = Strongly agree","auq3_alc,auq3_appl,auq3_bl,auq3_wat"

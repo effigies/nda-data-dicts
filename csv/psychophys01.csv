@@ -32,7 +32,7 @@
 "temp_stdev","Float","","Recommended","Standard deviation of temperature for event window","","",""
 "temp_rms","Float","","Recommended","Root mean square of temperature for event window","","",""
 "temp_mad","Float","","Recommended","Mean absolute deviation of temperature for event window","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "temp_mav","Float","","Recommended","Mean absolute value of temperature for event window","","",""
 "temp_median","Float","","Recommended","Median temperature for event window","","",""
 "temp_p25","Float","","Recommended","25th percentile of temperature for event window","","",""

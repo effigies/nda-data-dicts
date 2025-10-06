@@ -47,7 +47,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","eventname"
 "lh","Float","","Recommended","LH blood test result","","",""
 "fsh","Float","","Recommended","FSH blood test result","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "andro_rep1","Float","","Recommended","Androstenedione repeated measurements 1","","",""
 "andro_rep2","Float","","Recommended","Androstenedione repeated measurements 2","","",""
 "saliva_andro_mean","Float","","Recommended","Saliva Measures: Androstenedione level mean value for the first saliva collection (pg/ml)","","",""

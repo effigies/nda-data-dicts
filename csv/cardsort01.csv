@@ -51,4 +51,4 @@
 "response2_rt","Float","","Recommended","(Response 2) Reaction time","","In seconds",""
 "response3_keys","Integer","","Recommended","(Response 3) Guess if the value of the card is less or more than 5","1;2","1=Less than 5; 2=More than 5",""
 "response3_rt","Float","","Recommended","(Response 3) Reaction time","","In seconds",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

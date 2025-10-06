@@ -19,7 +19,7 @@
 "rq06","Integer","","Recommended","How important is each of the following to you? To be able to turn to prayer when you're facing a personal problem.","1 :: 4","1=Very Important; 2= Important; 3= Not too important; 4= Not important at all",""
 "rq07","Integer","","Recommended","How important is each of the following to you? To have a sense of belonging since others share the same religious beliefs.","1 :: 4","1=Very Important; 2= Important; 3= Not too important; 4= Not important at all",""
 "prqc07","Integer","","Recommended","To what extent do you and your partner go out of your way to make each other feel special?","1 :: 7","1= Not at all; 2= Slightly; 3= Less than average; 4= Moderately; 5= More than average; 6= Very much; 7= Extremely",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "prqc01","Integer","","Recommended","How satisfied are you with your relationship?","1 :: 7;-99","1= Not at all; 2= Slightly; 3= Less than average; 4= Moderately; 5= More than average; 6= Very much; 7= Extremely; -99 = Not Applicable","yrqm01"
 "prqc02","Integer","","Recommended","How committed are you to your relationship?","1 :: 7;-99","1= Not at all; 2= Slightly; 3= Less than average; 4= Moderately; 5= More than average; 6= Very much; 7= Extremely; -99 = Not Applicable","yrqm02"
 "prqc03","Integer","","Recommended","How close is your relationship?","1 :: 7","1= Not at all; 2= Slightly; 3= Less than average; 4= Moderately; 5= More than average; 6= Very much; 7= Extremely",""

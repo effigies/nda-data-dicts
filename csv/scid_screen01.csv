@@ -54,7 +54,7 @@
 "scid_scn_13","Integer","","Recommended","13. Has there been a time over the past year that your drinking has caused problems for you or someone has objected to your drinking?(screening for Alcohol Use Disorder)","0;1","0=No; 1=Yes",""
 "scid_scn_14","Integer","","Recommended","14. In the past year, have you been using any illegal or recreational drugs or taking more of your prescription drugs than was prescribed or running out early?(screening for Non-Alcohol Substance Use Disorder)","0;1","0=No; 1=Yes",""
 "scid_scn_15","Integer","","Recommended","15. In the past year, have you regularly gambled or regularly bought lottery tickets?(screening for current Gambling Disorder)","0;1","0=No; 1=Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "screen_id","Integer","","Recommended","Screening ID","","",""
 "scidv_f1b","Integer","","Recommended","1b. Have you experienced these symptoms in the past 6 months?(screening for panic attacks)","0;1","0=No; 1=Yes","scid_scn_1b"
 "scidv_f43b","Integer","","Recommended","2b. Have you experienced these symptoms in the past 6 months?(screening for Agoraphobia)","0;1","0=No; 1=Yes","scid_scn_2b"

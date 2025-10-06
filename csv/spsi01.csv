@@ -155,7 +155,7 @@
 "spsi5_p","Integer","","Recommended","I often doubt that there is a good way to solve problems that I have.","0;1","0 = False; 1 = True",""
 "spsi6_p","Integer","","Recommended","When faced with a hard problem, I believe that if I try, I will be able to solve it on my own.","0;1","0 = False; 1 = True",""
 "spsi7_p","Integer","","Recommended","I feel afraid when I have an important problem to solve.","0;1","0 = False; 1 = True",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "spsi_new8","Integer","","Recommended","I get nervous and unsure of myself when I have to make an important decision.","0::4","0 = Not at all true of me; 1 = Slightly true of me; 2 = Moderately true of me; 3 = Very true of me; 4 = Extremely true of me",""
 "spsi_new9","Integer","","Recommended","When making decisions, I do not think carefully about my many options.","0::4","0 = Not at all true of me; 1 = Slightly true of me; 2 = Moderately true of me; 3 = Very true of me; 4 = Extremely true of me",""
 "spsi7_p_alt","Integer","","Recommended","I feel afraid when I have an important problem to solve.","0::4","0 = Not at all true of me; 1 = Slightly true of me; 2 = Moderately true of me; 3 = Very true of me; 4 = Extremely true of me",""

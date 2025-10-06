@@ -13,4 +13,4 @@
 "gq6_score","Integer","","Recommended","Gratitude Questionnaire-Six Item Form (GQ-6) score","6::42","Score calculated as sum of all responses (reverse scoring for questions three and six)",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

@@ -198,7 +198,7 @@
 "partial_fu","Integer","","Recommended","Have you been hospitalized at a partial hospital or day program for psychiatric/mental health or drug/alcohol reasons since your last assessment?","0;1","0= No; 1= Yes",""
 "num_partial_fu","Integer","","Recommended","If YES, how many times have you been hospitalized at a partial hospital or day program for psychiatric or mental health reasons since your last assessment? [if no, put ""0.""] [Include current hospitalization in total if applicable.]","","",""
 "res_fu","Integer","","Recommended","Since your last assessment, have you attended any longer-term inpatient or residential programs for drug or alcohol problems?","0;1","0= No; 1= Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "num_res_fu","Integer","","Recommended","If YES, how many separate times have you attended longer-term inpatient or residential recovery programs for drug or alcohol problems since your last assessment?  [if no, put ""0.""]","","",""
 "called_hotline_fu","Integer","","Recommended","Have you had called a crisis hotline or the suicide crisis hotline for mental health or drug/alcohol problems since your last assessment?","0;1","0= No; 1= Yes",""
 "num_hotline_fu","Integer","","Recommended","If YES, how many times have you called a crisis hotline or the suicide crisis hotline since your last assessment? [if no, put ""0.""]","","",""

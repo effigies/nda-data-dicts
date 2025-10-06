@@ -862,7 +862,7 @@
 "std_diagnose_6","Integer","","Recommended","Have you been diagnosed with non-specific disease?","0;1","0=No; 1=Yes",""
 "std_diagnose_7","Integer","","Recommended","Have you been diagnosed with any other sexually transmitted diseases (STDs)?","0;1","0=No; 1=Yes",""
 "std_diagnose_8","Integer","","Recommended","What other disease have you been diagnosed with?","0;1","0=No; 1=Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "std_diagnosed","Integer","","Recommended","Have you ever been diagnosed with any Sexually Transmitted Disease (STDs)?","0;1","0=No; 1=Yes",""
 "std_diagnose_mnth","String","20","Recommended","If you have been diagnosed with any STD, what month were you told?","","",""
 "std_diagnose_yr","Integer","","Recommended","If you have been diagnosed with any STD, what year were you told?","","",""

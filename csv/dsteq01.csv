@@ -24,4 +24,4 @@
 "dstq_18","Integer","","Recommended","Mark YES if you were exposed to or experienced that stressor during your service in the Persian Gulf, mark NO if you were not exposed or do not have experience of that stressor during your service in the Persian Gulf: Being in an aircraft that is shot down","0;1","0=No; 1=Yes",""
 "dstq_19","Integer","","Recommended","Mark YES if you were exposed to or experienced that stressor during your service in the Persian Gulf, mark NO if you were not exposed or do not have experience of that stressor during your service in the Persian Gulf: Being responsible for someone else's death","0;1","0=No; 1=Yes",""
 "dstq_total","Integer","","Recommended","Desert Storm Trauma Exposure Questionnaire Total Score","0::19","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

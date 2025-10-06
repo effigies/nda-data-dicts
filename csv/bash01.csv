@@ -51,7 +51,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visits"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "treatmentgroup","String","30","Recommended","Treatment condition","","e.g., Control, Intervention, Experimental, Placebo",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "bash_alt_9","Integer","","Recommended","The idea of going to a therapist is pretty scary to me","1::3","1 = Not at all; 2 = Somewhat; 3 = A great deal",""
 "bash_alt_10","Integer","","Recommended","A therapist might make me do or say something that I do not want to","1::3","1 = Not at all; 2 = Somewhat; 3 = A great deal",""
 "bash_alt_11","Integer","","Recommended","I think therapy can be harmful","1::3","1 = Not at all; 2 = Somewhat; 3 = A great deal",""

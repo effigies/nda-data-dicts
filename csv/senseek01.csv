@@ -112,7 +112,7 @@
 "senseek5","Integer","","Recommended","I like to do frightening things","1::5","1=Strongly disagree; 2=Moderately disagree/Disagree; 3=Uncertain or unsure/Neutral; 4=Moderately agree/Agree; 5=Strongly agree","bsss_4"
 "senseek7","Integer","","Recommended","I like wild parties","1::5","1=Strongly disagree; 2=Moderately disagree/Disagree; 3=Uncertain or unsure/Neutral; 4=Moderately agree/Agree; 5=Strongly agree",""
 "senseek8","Integer","","Recommended","I would love to have new and exciting experiences, even if they are illegal","1::5","1=Strongly disagree; 2=Moderately disagree/Disagree; 3=Uncertain or unsure/Neutral; 4=Moderately agree/Agree; 5=Strongly agree",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "bsss01","Integer","","Recommended","I like to do frightening things","1::5","1 = Not at all true of me; 5 = Very true of me",""
 "bsss02","Integer","","Recommended","I prefer friends who are excitingly unpredictable","1::5","1=Strongly disagree; 2=Moderately disagree/Disagree; 3=Uncertain or unsure/Neutral; 4=Moderately agree/Agree; 5=Strongly agree",""
 "bsss03","Integer","","Recommended","I would love to have new and exciting experiences, even if I have to break the rules","1::5","1 = Not at all true of me; 5 = Very true of me",""

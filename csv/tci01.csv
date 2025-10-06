@@ -325,7 +325,7 @@
 "timepoint","Integer","","Recommended","Timepoint","0::8","0=Screening; 1=Intake; 2=3 months; 3=6 months; 4=9 months; 5=12 months; 6=24 months; 7 = pre-intervention; 8 = post-intervention",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "tci_total","Integer","","Recommended","TCI Total Score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "lvlcomf","Integer","","Recommended","Level of comfort","0::2","0 = No comfort; 1 = Medium Comfort; 2 = High comfort",""
 "excirr6","Integer","","Recommended","Is your child irritable (i.e., feeling annoyed, angry, or with a short temper)?","0::2","0 = Never; 1 = Occassionally; 2 = Often",""
 "excirr7","Integer","","Recommended","Does it seem like your child's mood changes quickly, or they go from being very happy to very angry or very sad in a short period of time?","0::2","0 = Never; 1 = Occassionally; 2 = Often",""

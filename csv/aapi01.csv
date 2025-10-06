@@ -112,7 +112,7 @@ resentful towards their parents.","1::5","1=Strongly Agree; 2=Agree; 3=Uncertain
 "aapi_24","Integer","","Recommended","Children who feel secure often grow up expecting too much.","1 :: 5; -99; 77; 88","1=Strongly agree; 2=Agree; 3=Uncertain; 4=Disagree; 5=Strongly Disagree -99=N/A; 77=Refused; 88=Missing",""
 "aapi_25","Integer","","Recommended","There is nothing worse than a strong-willed two- year-old.","1 :: 5; -99; 77; 88","1=Strongly agree; 2=Agree; 3=Uncertain; 4=Disagree; 5=Strongly Disagree -99=N/A; 77=Refused; 88=Missing",""
 "aapi_26","Integer","","Recommended","Sometimes spanking is the only thing that will work.","1 :: 5; -99; 77; 88","1=Strongly agree; 2=Agree; 3=Uncertain; 4=Disagree; 5=Strongly Disagree -99=N/A; 77=Refused; 88=Missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "aapi_27","Integer","","Recommended","Children who receive praise will think too much of themselves.","1 :: 5; -99; 77; 88","1=Strongly agree; 2=Agree; 3=Uncertain; 4=Disagree; 5=Strongly Disagree -99=N/A; 77=Refused; 88=Missing",""
 "aapi_28","Integer","","Recommended","Children should do what they're told to do, when they're told to do it. It's that simple.","1 :: 5; -99; 77; 88","1=Strongly agree; 2=Agree; 3=Uncertain; 4=Disagree; 5=Strongly Disagree -99=N/A; 77=Refused; 88=Missing",""
 "aapi_29","Integer","","Recommended","Children should be taught to obey their parents at all times.","1 :: 5; -99; 77; 88","1=Strongly agree; 2=Agree; 3=Uncertain; 4=Disagree; 5=Strongly Disagree -99=N/A; 77=Refused; 88=Missing",""

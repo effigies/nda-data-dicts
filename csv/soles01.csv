@@ -21,4 +21,4 @@
 "soles_15","Integer","","Recommended","I feel listened to by health professionals","0::10;-2;-5;-9","0=Not at all; 10=Entirely; -2=Not collected at this time point; -5=Item/Instrument not collected; -9=Missing",""
 "soles_16","Integer","","Recommended","I can get help from mental health services when I need it","0::10;-2;-5;-9","0=Not at all; 10=Entirely; -2=Not collected at this time point; -5=Item/Instrument not collected; -9=Missing",""
 "soles_score","Integer","","Recommended","SOLES Total Score","0::160","Sum of 16 SOLES items",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

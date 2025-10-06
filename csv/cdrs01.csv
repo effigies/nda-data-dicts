@@ -57,7 +57,7 @@
 "cope_unpleasant_pain","Integer","","Recommended","CD-RISC: Handle Feeling Sad-Fear-Anger (2 weeks)","0 :: 4; -5; -7; -8","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Very Often; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "cdrisc10_rawscore","Integer","","Recommended","Connor-Davidson Resilience Scale 10-item Raw Score","0 :: 40","Higher CDRISC10- score indicates greater resilience.",""
 "siteid","Integer","","Recommended","Site ID","10::100","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "coping_stress","Integer","","Recommended","CD-RISC: Stronger Coping w/Stress (2 weeks)","0 :: 4; -5; -7; -8","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Very Often; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "achieve_goals","Integer","","Recommended","CD-RISC: Achieve Goals w/Obstacles (2 weeks)","0 :: 4; -5; -7; -8","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Very Often; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "adapt_to_change","Integer","","Recommended","CD-RISC: Adapt Changes Occur (2 weeks)","0 :: 4; -5; -7; -8","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Very Often; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""

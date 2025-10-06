@@ -193,7 +193,7 @@
 "wb_23_y","Integer","","Recommended","During the last month including today, how much did you lose interest in things?","1::4;998;999","1= Not at all; 2= A little; 3= Quite a bit; 4= Extremely; 998= Don't know; 999= No answer",""
 "wb_24_y","Integer","","Recommended","During the last month including today how much did you feel that everything is difficult?","1::4;998;999","1= Not at all; 2= A little; 3= Quite a bit; 4= Extremely; 998= Don't know; 999= No answer",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "wb_1_y1","Integer","","Recommended","From last month including today, how much did you experience fear without cause?","1::4;998;999","1= Not at all; 2= A little; 3= Quite a bit; 4= Extremely; 998= Don''t know; 999= No answer",""
 "wb_2_y","Integer","","Recommended","During the last month including today how much did you experience fear?","1::4;998;999","1= Not at all; 2= A little; 3= Quite a bit; 4= Extremely; 998= Don't know; 999= No answer",""
 "wb_3_y","Integer","","Recommended","During the last month including today how much did you experience weakness and your head turning?","1::4;998;999","1= Not at all; 2= A little; 3= Quite a bit; 4= Extremely; 998= Don't know; 999= No answer",""

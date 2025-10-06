@@ -99,7 +99,7 @@
 "dfq_10","Integer","","Recommended","Did the app help you learn more about Fetal Alcohol Spectrum Disorder (FASD)?","1::5","1= Not true; 5= Very true",""
 "dfq_11","Integer","","Recommended","Did the app help you take your medications correctly and consistently?","1::5","1= Not true; 5= Very true",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "dbq_1","Integer","","Recommended","Does your doctor/healthcare provider understand Fetal Alcohol Spectrum Disorder (FASD)?","1::5","1= Not true; 5= Very true",""
 "dbq_2","Integer","","Recommended","Do you have the tools or knowledge to help your doctor/healthcare provider adequately understand your Fetal Alcohol Spectrum Disorder (FASD)? ","1::5","1= Not true; 5= Very true",""
 "dbq_3","Integer","","Recommended","Do you feel like you are managing your physical health well? ","1::5","1= Not true; 5= Very true",""

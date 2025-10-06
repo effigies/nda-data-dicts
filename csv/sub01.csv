@@ -301,7 +301,7 @@
 "sui_6a","Integer","","Recommended","Any Other Drug: Number of Days of Use: Other sedatives/hypnotics (in the past 7 days)","","Number of Days",""
 "sui_6b","Integer","","Recommended","Any Other Drug: Number of Days of Use: Stimulants (in the past 7 days)","","Number of Days",""
 "sui_6c","Integer","","Recommended","Any Other Drug: Number of Days of Use: PCP (angel dust) (in the past 7 days)","","Number of Days",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "sui_6d","Integer","","Recommended","Any Other Drug: Number of Days of Use: Hallucinogens (in the past 7 days)","","Number of Days",""
 "sui_6e","String","50","Recommended","Any Other Drug: Number of Days of Use: Any other Drug (in the past 7 days)","","Number of Days",""
 "sui_6e1","String","500","Recommended","Other drug used specified:","","",""

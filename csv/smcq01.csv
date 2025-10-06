@@ -216,7 +216,7 @@
 "smcq_t1_c_sminterference","Integer","","Recommended","SMCQ T1 Child - Sum of items related to interference (greater scores indicate SM perceived as more interfering","","SUM(SMCQ_T1_C_17,SMCQ_T1_C_23,SMCQ_T1_C_24); 6666= Missing",""
 "smcq_t1_c_smworrypressure","Integer","","Recommended","SMCQ T1 Child - Sum of items related to worry/pressure (greater scores indicate SM perceived as causing greater worry/pressure.","","SUM(SMCQ_T1_C_21,SMCQ_T1_C_22,SMCQ_T1_C_25); 6666= Missing",""
 "smcq_t1_c_smfeelings","Integer","","Recommended","SMCQ T1 Child - Sum of items related to negative feelings about SM (greater scores indicate more negative feelings about SM).","","SUM(SMCQ_T1_C_15, SMCQ_T1_C_16, SMCQ_T1_C_17, SMCQ_T1_C_18, SMCQ_T1_C_19, SMCQ_T1_C_20, SMCQ_T1_C_21, SMCQ_T1_C_22, SMCQ_T1_C_23, SMCQ_T1_C_24, SMCQ_T1_C_25); 6666= Missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "gdate_1a_h","Integer","","Recommended","Which apps do you use to hookup or date? (Check all that apply) OkCupid","0;1","0= Unchecked/No do not use this app; 1= Checked/Yes do use this app",""
 "gdate_1a_i","Integer","","Recommended","Which apps do you use to hookup or date? (Check all that apply) Recon","0;1","0= Unchecked/No do not use this app; 1= Checked/Yes do use this app",""
 "gdate_1a_j","Integer","","Recommended","Which apps do you use to hookup or date? (Check all that apply) Grizzly","0;1","0= Unchecked/No do not use this app; 1= Checked/Yes do use this app",""

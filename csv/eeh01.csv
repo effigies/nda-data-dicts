@@ -450,7 +450,7 @@
 "ed_8_y","Integer","","Recommended","Have you received support from a community member/NGO/government in order to complete school up to this level?","0;1;998;999","0= No; 1= Yes;998=Don't know; 999=No answer",""
 "ed_11_y","Integer","","Recommended","Have you ever received education or training at a vocational program or a technical school?","0;1;998;999","0= No; 1= Yes;998=Don't know; 999=No answer",""
 "ed_11b_y","String","100","Recommended","What type of training program did you participate in: Write exact answer.","","998=Don't know; 999=No answer",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "ed_11c","Integer","","Recommended","How long was your training?","0::2","0=Less than a month; 1= Less than 1 year; 2= More than a year",""
 "ed_11d_y","Integer","","Recommended","How long was your training? Number of days:","","998=Don't know; 999=No answer",""
 "ed_11e_y","Integer","","Recommended","How long was your training? Number of months:","","998=Don't know; 999=No answer",""

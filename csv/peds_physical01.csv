@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
 "src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "neuro_004_head_circum_cm","Float","","Recommended","Neurological Exam (4:6+ y:m): Measured head circumference (cm)","","","NEURO_4yr_6mo_Up_004_Head_Circumference_cm"
 "neuro_007_height_cm","Float","","Recommended","Neurological Exam (4:6+ y:m): Measured height (cm)","","","NEURO_4yr_6mo_Up_007_Height_cm"
 "neuro_009_weight_kg","Float","","Recommended","Neurological Exam (4:6+ y:m): Weight (kg) recorded during neurological exam","","","NEURO_4yr_6mo_Up_009_Weight_kg"

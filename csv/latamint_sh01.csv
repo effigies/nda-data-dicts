@@ -20,7 +20,7 @@
 "sh14_nssi_onset","Integer","","Recommended","About how old were you the very first time you did something to hurt yourself on purpose, but without wanting to die?","1; 5 :: 36","1= 4 or younger; 5; 6; 7; 8; 9; 10; 11; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21; 22; 23; 24; 25; 26; 27; 28; 29; 30; 31; 32; 33; 34; 35; 36= 36 or older","nssi_onset"
 "sh15_nssi_numlt","Integer","","Recommended","About how many times in your life did you do something to hurt yourself on purpose, but without wanting to die?","1 :: 8","1= 1 to 2 times; 2= 3 to 4 times; 3= 5 to 10 times; 4= 11 to 20 times; 5= 21 to 30 times; 6= 31 to 50 times; 7= 51 to 100 times; 8= 101 or more times","nssi_numlt"
 "sh16_nssi_num12m","Integer","","Recommended","How many times in the past 12 months did you do something to hurt yourself on purpose, but without wanting to die?","0 :: 8","0= 0 times; 1= 1 to 2 times; 2= 3 to 4 times; 3= 5 to 10 times; 4= 11 to 20 times; 5= 21 to 30 times; 6= 31 to 50 times; 7= 51 to 100 times; 8= 101 or more times","nssi_num12m"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "ideat3m_numday","Integer","","Recommended","How many days in the past 2 weeks did you think seriously about killing yourself?","0 :: 14","Number of Days","ideat12m_numday"
 "suicatt3m_yn","Integer","","Recommended","Did you make a suicide attempt at any time since your first survey?","0;1","0= No; 1= Yes",""

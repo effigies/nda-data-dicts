@@ -42,7 +42,7 @@
 "trc_31_pc","Integer","","Recommended","From last month to today (youth participant): Doesn''t talk about the things that bother him/her","1::5;998;999","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree; 998=Don''t know; 999=No answer",""
 "trc_32_pc","Integer","","Recommended","From last month to today (youth participant): Does not express feelings","1::5;998;999","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree; 998=Don''t know; 999=No answer",""
 "trc_33_pc","Integer","","Recommended","From last month to today (youth participant): Well-liked by workmates, school mates or peers","1::5;998;999","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree; 998=Don''t know; 999=No answer",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "trc_1_pc","Integer","","Recommended","From last month to today (youth participant): A self starter","1::5;998;999","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree; 998=Don''t know; 999=No answer",""
 "trc_2_pc","Integer","","Recommended","From last month to today (youth participant): Disturbs others while they are working","1::5;998;999","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree; 998=Don''t know; 999=No answer",""
 "trc_3_pc","Integer","","Recommended","From last month to today (youth participant): Participates in group discussions","1::5;998;999","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree; 998=Don''t know; 999=No answer",""

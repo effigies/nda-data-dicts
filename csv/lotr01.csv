@@ -15,7 +15,7 @@
 "lotr9","Integer","","Recommended","I rarely count on good things happening to me","0::4","4= strongly disagree; 3= disagree; 2= neutral; 1= agree; 0= strongly agree",""
 "lotr10","Integer","","Recommended","Overall, I expect more good things to happen to me than bad","0::4","0= strongly disagree; 1= disagree; 2= neutral; 3= agree; 4= strongly agree",""
 "lotr_total","Integer","","Recommended","Overall Optimism Score","0::24","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "lotr_s_1","Integer","","Recommended","In uncertain times, I usually expect the best","1::4","4 = Definitely true; 3 = Mostly true; 2 = Mostly false; 1 = Definitely false",""
 "lotr_s_2","Integer","","Recommended","If something can go wrong for me, it will","1::4","1 = Definitely true; 2 = Mostly true; 3 = Mostly false; 4 = Definitely false",""
 "lotr_s_3","Integer","","Recommended","I''m always optimistic about my future","1::4","4 = Definitely true; 3 = Mostly true; 2 = Mostly false; 1 = Definitely false",""

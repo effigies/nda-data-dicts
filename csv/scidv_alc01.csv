@@ -73,7 +73,7 @@
 "scidealc_sum_c","Integer","","Recommended","Total number of alcohol use disorder items coded '3' during the past 12 months","0 :: 11","Among the items (scidv_e2, scidv_e3, scidv_e4, scidv_e5, scidv_e6, scidv_e7, scidv_e8, scidv_e9, scidv_e10, scidv_e11, scidv_e12) only",""
 "scidealc_sum_l","Integer","","Recommended","Total number of alcohol use disorder items coded '3' during the prior-to-past-12-months","0 :: 11","Among the items (scidv_e22, scidv_e23, scidv_e24, scidv_e25, scidv_e26, scidv_e27, scidv_e28, scidv_e29, scidv_e30, scidv_e31, scidv_e32) only",""
 "scidealc_dx_l","Integer","","Recommended","At least two alcohol use disorder items coded '3' during the prior-to-past-12-months","1;3;-7; -9","1= absent or false; 3 = threshold or true; -7 = N/A; -9 = missing or not reported",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "sciddv_e2b","Integer","","Recommended","Current Alcohol Use Disorder: A1B Longer Time  (LONGER PERIOD OF TIME)","1::3;-999;-8","1= Absent or False; 2= Subthreshold; 3= Threshold or True;-999= Inadequate Information; -8= Not applicable or Missing  (Split of parent DSM5 criterion/SCID5 E2; not asked if E2a=3)",""
 "sciddv_e28n","String","4000","Recommended","Past Alcohol Use Disorder: A7 Reduced Activities Notes","","",""
 "sciddv_paud_a8_cb03___e29c1","Integer","","Recommended","Past Alcohol Use Disorder: A8 Hazardous  physical/property injury or legal consequences","0;1","0= Unchecked; 1= Checked/Present ",""

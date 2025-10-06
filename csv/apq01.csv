@@ -139,7 +139,7 @@
 "at50","Integer","","Recommended","How often is your child at a friend's house when he/she says he/she will be? Frequency","","How many times in past 3 days",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "visit_year","Integer","","Recommended","Year of visit","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "apq_pr16","Integer","","Recommended","You let your child out of a punishment early (e.g., lift restrictions earlier than you originally said)","1::5","1 = Never; 2 = Almost Never; 3 = Sometimes; 4 = Often; 5 = Always",""
 "ref_child_id","String","50","Recommended","Referencing Child ID how it is defined in lab/project","","",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""

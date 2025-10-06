@@ -25,4 +25,4 @@
 "pdiag_adhd","Integer","","Recommended","Child past diagnosis: ADHD","0;1","0=No; 1=Yes","adhd_lifetime,adhd_lifetime_5yr"
 "p50i8","Integer","","Recommended","Oppositional Defiant Disorder - Fits consensus diagnosis any time in life","1;2","1=no;2=yes","odd_lifetime,odd_lifetime_5yr"
 "conduct_disorder_life_diag","Integer","","Recommended","conduct disorder, lifetime diagnosis","0 :: 1","0 = Negative; 1 = Positive ","cd_lifetime,cd_lifetime_5yr"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

@@ -29,7 +29,7 @@
 "imi_q10","Integer","","Recommended","This activity did not hold my attention at all.","1::7","1= Strongly Disagree; 7= Strongly Agree",""
 "imi_q11","Integer","","Recommended","I put a lot of effort into this.","1::7","1= Strongly Disagree; 7= Strongly Agree",""
 "imi_q12","Integer","","Recommended","I didn't try very hard to do well at this activity.","1::7","1= Strongly Disagree; 7= Strongly Agree",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "imi_q20","Integer","","Recommended","I am satisfied with my performance at this task.","1::7","1= Strongly Disagree; 7= Strongly Agree",""
 "imi_q21","Integer","","Recommended","I was anxious while doing the task.","1::7","1= Strongly Disagree; 7= Strongly Agree",""
 "imi_q22","Integer","","Recommended","I felt like I was doing what I wanted to do while I was working on the task.","1::7","1= Strongly Disagree; 7= Strongly Agree",""

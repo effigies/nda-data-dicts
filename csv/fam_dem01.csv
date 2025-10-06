@@ -354,7 +354,7 @@
 "ed_4_y13","Integer","","Recommended","Why did you stop attending school? Don''t Know","0;1","0=No; 1=Yes",""
 "ed_4_y14","Integer","","Recommended","Why did you stop attending school? No answer","0;1","0=No; 1=Yes",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "ed_4_y1","Integer","","Recommended","Why did you stop attending school? I was taken by an armed group","0;1","0=No; 1=Yes",""
 "ed_4_y2","Integer","","Recommended","Why did you stop attending school? My school was closed or destroyed","0;1","0=No; 1=Yes",""
 "ed_4_y3","Integer","","Recommended","Why did you stop attending school? I moved","0;1","0=No; 1=Yes",""

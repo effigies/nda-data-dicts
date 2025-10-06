@@ -42,7 +42,7 @@
 "devs_7","Integer","","Recommended","7. Overall, how exhausting did you find the whole intervention?","1::9","1 = None at all; 5 = Somewhat exhausting; 9 = Very exhausting",""
 "devs_10","Integer","","Recommended","10. Do you believe that you received value for your time and money?","1::9","1 = None at all; 5 = Somewhat; 9 = Very much so",""
 "dts6","Integer","","Recommended","My feelings of distress or being upset are just an acceptable part of life.","1::5","1 = Strongly agree; 2 = Mildly agree; 3 = Agree and disagree equally; 4 = Mildly disagree; 5 = Strongly disagree",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "dts_total_score","Integer","","Recommended","Distress Tolerance Scale - Total sum","0::75;999","Sum of total dts_1 - dts_15; 999= Not all questions answered",""
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""
 "devs_10_post","Integer","","Recommended","Do you believe you received value for your time?","1::9","1 = None at all; 5 = Somewhat; 9 = Very much so",""

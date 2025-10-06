@@ -9,4 +9,4 @@
 "dsi_ss3","Integer","","Recommended","Thoughts of suicide control rating","0::3","0= I am not having thoughts about suicide; 1= I am having thoughts about suicide but these thoughts completely under my control; 2= I am having thoughts about suicide but have these thoughts somewhat under my control.; 3= I am having thoughts about suicide but have little or no control over these thoughts.",""
 "dsi_ss4","Integer","","Recommended","Impulses to kill myself rating","0::3","0= I am not having impulses to kill myself.; 1= In some situations I have impulses to kill myself.; 2= In most situations I have impulses to kill myself.; 3= In all situations I have impulses to kill myself.",""
 "dsi_sstotal","Integer","","Recommended","Depressive Symptom Inventory Suicidality Subscale total","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

@@ -49,7 +49,7 @@
 "gs_opt","Integer","","Recommended","Globals: Optimism","1::5","1 = Very low optimism; 2 = Low optimism; 3 = Neutral; 4 = Optimistic; 5 = Very High Optimism",""
 "gs_contempt","Integer","","Recommended","Globals: Contempt","1::5","1 = Very low contempt; 2 = Low contempt; 3 = Neutral; 4 = Contempt; 5 = Very High Contempt",""
 "respondent_coder","Integer","","Recommended","Who coded the change talk?","0;1","0= Left Blank; 1= Coder",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "reliability_coding","Integer","","Recommended","Are you coding reliability?","0;1","0= No; 1= Yes",""
 "recording_speaker","Integer","","Recommended","Speaker","0;1","0 = Teen; 1 = Parent",""
 "client_language","Integer","","Recommended","Speaker Language","1;2","1 = English; 2 = Spanish",""

@@ -31,4 +31,4 @@
 "parent_disc_gentle","Float","","Recommended","Parent Discipline, Individual Code Proportions: Gentle Guidance","","Ratio of Gentle Guidance",""
 "parent_disc_control","Float","","Recommended","Parent Discipline, Individual Code Proportions: Control","","Ratio of Control",""
 "parent_disc_highcont","Float","","Recommended","Parent Discipline, Individual Code Proportions: High Power Control","","Ratio of High Power",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

@@ -148,7 +148,7 @@
 "sassr_5","Integer","","Recommended","Over the past 6 months: Felt shy or uncomfortable around people?","1::5; 999","1 = Never; 2 = Seldom; 3 = Sometimes; 4 = Often; 5 = Very often; 999 = Missing ",""
 "sassr_6","Integer","","Recommended","Over the past 6 months: Felt lonely and wishes for more friends?","1::5; 999","1 = Never; 2 = Seldom; 3 = Sometimes; 4 = Often; 5 = Very often; 999 = Missing ",""
 "sassr_7","Integer","","Recommended","Over the past 6 months: Dated someone or been in a long-term relationship?","1::5; 999","1 = Never; 2 = Seldom; 3 = Sometimes; 4 = Often; 5 = Very often; 999 = Missing ",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "sassr25","Integer","","Recommended","How often have you felt shy or uncomfortable with people in the last 2 weeks?","1::6","1=I always felt comfortable; 2=Sometimes I felt uncomfortable but I could relax after a while; 3=About half the time I felt uncomfortable; 4=I usually felt uncomfortable; 5=I always felt uncomfortable; 6=Not applicable: I was never with people during the last two weeks",""
 "sassr28","Integer","","Recommended","How many times have you been on a date these past two weeks?","1::5","1=More than three times; 2=Three times; 3=Twice; 4=Once; 5=None",""

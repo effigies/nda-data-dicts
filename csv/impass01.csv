@@ -55,7 +55,7 @@
 "d_esteem","Float","","Recommended","Esteem Implicit Association Task: Overall d-score (non-weighted mean of the two d-scores); main DV","-2::2","",""
 "percentcorrect_esteem","Float","","Recommended","Esteem Implicit Association Task: The overall percent correct score of initial responses in test trials of D-score qualifying latencies","0::100","",""
 "proprt300_esteem","Float","","Recommended","Esteem Implicit Association Task: The proportion of response latencies less than 300ms","0::1","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "blockcode","String","20","Recommended","Block code","","",""
 "trialcode","Integer","","Recommended","Trial Code","","",""
 "conditionorder_suicide","String","5","Recommended","Death/Suicide Implicit Association Task: Order in which conditions were presented ","c-ic; ic-c","c-ic = Consistent then inconsistent; ic-c = Inconsistent then consistent",""

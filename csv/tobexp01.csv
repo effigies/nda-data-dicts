@@ -23,7 +23,7 @@
 "ssaga_tb15dspecify","String","100","Recommended","508 : TOBACCO : SPECIFY:","","",""
 "no_tobacco_1","Integer","","Recommended","W1:During last 30 days, no tobacco used now","0;1;99","0 = No; 1 = Yes; 99=No data",""
 "tobaccouse_1","Integer","","Recommended","W1: Some type of Tobacco Use","0::7;99","0 = None; SUM(cigarettes_1 to othrtobac_1);99=No data",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "cigarettes_1","Integer","","Recommended","W1:During last 30 days, smoked cigarettes","0;1;99","0 = No; 1 = Yes; 99=No data",""
 "cigars_1","Integer","","Recommended","W1:During last 30 days, smoked cigars","0;1;99","0 = No; 1 = Yes; 99=No data",""
 "pipe_1","Integer","","Recommended","W1:During last 30 days, smoked a pipe","0;1;99","0 = No; 1 = Yes; 99=No data",""

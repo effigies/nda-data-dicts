@@ -53,7 +53,7 @@
 "pulse","Float","","Recommended","Pulse","","",""
 "bdc7","Float","","Recommended","Waist Circumference","","",""
 "bmi","Float","","Recommended","body mass index of subject","","-9=Missing; -5=Item/Instrument not collected; -2=Not collected at this time point",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "ba5_weight_kg","Float","","Recommended","How much do you weigh?","","Weight in kg; -99=Missing",""
 "mctfr_waist_min_cm","Float","","Recommended","Waist Circumference at Minimum (cm) (stomach sucked in)","","-99 = Missing",""
 "mctfr_waist_relax_cm","Float","","Recommended","Waist Circumference when Relaxed (cm) (stomach relaxed)","","-99 = Missing",""

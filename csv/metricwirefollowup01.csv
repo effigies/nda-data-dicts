@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "follow_up1","Integer","","Recommended","How difficult was it to use the Metricwire app surveys?","1 :: 5","1= Very Easy; 2= Easy; 3= Neither Easy nor Difficult; 4= Difficult; 5= Very Difficult",""
 "follow_up2","Integer","","Recommended","How difficult was it to access the memory task [task where you had to remember letters] as part of the MetricWire app program?","1 :: 5","1= Very Easy; 2= Easy; 3= Neither Easy nor Difficult; 4= Difficult; 5= Very Difficult",""
 "follow_up3","Integer","","Recommended","How challenging was it to do the memory task  part of the MetricWire program?","1 :: 5","1= Very Easy; 2= Easy; 3= Neither Easy nor Challenging; 4= Challenging;  5= Very Challenging",""

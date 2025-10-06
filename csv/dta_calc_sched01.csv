@@ -7,7 +7,7 @@
 "drink_sched01","String","10","Recommended","Observed subject taking study medication today at:","","HH:MM AM/PM",""
 "drink_sched02","String","10","Recommended","Time priming drink began:","","HH:MM AM/PM",""
 "drink_sched03","String","10","Recommended","Time priming drink ended (Consume within 5 mins):","","HH:MM AM/PM",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "bloodalcoholresult","Float","","Recommended","BAC Test Results (mg/dl)","0::1000","mg/dl",""
 "vastimh","String","30","Recommended","VAS Time Hours","","",""
 "vastimm","String","30","Recommended","VAS Time Minutes","","",""

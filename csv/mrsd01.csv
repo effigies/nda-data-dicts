@@ -9,7 +9,7 @@
 "mrsd2","Float","","Recommended","Glutamate Level (mM)","","",""
 "mrsd3","Float","","Recommended","Glutamine Level (mM)","","",""
 "mrsd_spec","String","25","Recommended","Specify Brain Area examined","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "mrsd_epc","Float","","Recommended","Energy Per Cycle (EPC)","","EPC = VTCA/Vcycle",""
 "mrs_naa_concentration_vmpfc","Float","","Recommended","N-Acetylaspartic acid concentration in ventromedial prefrontal cortex voxel (mM)","","",""
 "mrs_naa_qa_metric_vmpfc","Float","","Recommended","Cramer-Rao lower bound for ventromedial prefrontal cortex voxel (percentage)","","",""

@@ -35,7 +35,7 @@
 "edso1","Integer","","Recommended","Overall, how much has discrimination based on your sexual orientation interfered with you having a full and productive life","1::4","1= A lot; 2= Some; 3= A little; 4= Not at all","edso_10"
 "edso2","Integer","","Recommended","Overall, how much harder has your life been because of discrimination based on your sexual orientation","1::4","1= A lot; 2= Some; 3= A little; 4= Not at all","edso_11"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","assessment.c"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","assessment.c"
 "condition_c","Integer","","Recommended","Patient Condition","0::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing","condition.c"
 "eds_short_respect","Integer","","Recommended","(Short Form) In your day-to-day life, how often are you treated with less courtesy or respect than other people?","0::5","0 = Never; 1 = Less than once a year; 2 = A few times a year; 3 = A few times a month; 4 = At least once a week; 5 = Almost everyday","edss_1"
 "eds_short_service","Integer","","Recommended","(Short Form) In your day-to-day life, how often do you receive poorer service than other people at restaurants or stores?","0::5","0 = Never; 1 = Less than once a year; 2 = A few times a year; 3 = A few times a month; 4 = At least once a week; 5 = Almost everyday","edss_2"

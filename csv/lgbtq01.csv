@@ -10,7 +10,7 @@
 "lgbtq04","Integer","","Recommended","Have you ever told anyone, like a friend or a family member, that you are LGBTQ","0;1","0= No; 1= Yes","dm_4"
 "lgbtrq05","Integer","","Recommended","How old were you when you first told someone that you were LGBTQ","","","dm_5"
 "condition_c","Integer","","Recommended","Patient Condition","0::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing","condition.c"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","assessment.c"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","assessment.c"
 "mile08","Integer","","Recommended","How old were you when you first had sex with someone of a different gender than you?","1::100; -88; 888; 999","Age in years; -88=Not applicable; 888 = N/A: Condition skipped; 999 = Missing/No answer",""
 "mile01","Integer","","Recommended","How old were you when you first realized that you were [pipe participant''s sexual orientation]?","1::100; 888; 999","Age in years; 888 = N/A: Condition skipped; 999 = Missing/No answer",""
 "mile02","Integer","","Recommended","How old were you when you first told someone that you were [pipe participant''s sexual orientation]?","1::100; 888; 999","Age in years; 888 = N/A: Condition skipped; 999 = Missing/No answer",""

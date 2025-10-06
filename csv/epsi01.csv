@@ -57,5 +57,5 @@
 "epsi51","Integer","","Recommended","Excessive exercise score","","Sum of questions 5, 8, 22, 31, 41",""
 "epsi52","Integer","","Recommended","Negative Attitudes toward obesity score","","Sum of questions 14, 20, 26, 30, 38",""
 "epsi53","Integer","","Recommended","Muscle building score","","Sum of questions 7, 15, 29, 32, 35",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","timepoint"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","timepoint"
 "epsi03a","Integer","","Recommended","I ate when I wasn't hungry","0::4","0= Never; 1= Rarely; 2= Sometimes; 3= Often; 4= Very Often",""

@@ -357,7 +357,7 @@
 "medcur2","String","50","Recommended","current medication 2","","",""
 "medcur3","String","50","Recommended","current medication 3","","",""
 "medcur4","String","50","Recommended","current medication 4","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "missed_doses","Float","","Recommended","What percent of total recommended doses were missed in the last week?","0::100;999","Percent; 999=N/A",""
 "change_inmed","Integer","","Recommended","Is there a recommended change in medication at todays visit?","0;1","0=No; 1=Yes",""
 "type_of_medchange","Integer","","Recommended","If there is a recommended change at today''s visit, what type of change?","1::5","1=Medication Discontinued; 2=Dose Decreased; 3=Dose Increased; 4=New medication; 5=Started Randomized Medication",""

@@ -561,7 +561,7 @@
 "scid_lt_f24c","Integer","","Recommended","ADULT ADHD - Have they affected the quality of your work or schoolwork?","0;1","0 = No; 1 = Yes",""
 "scid_lt_f24d","Integer","","Recommended","ADULT ADHD - Have they made it hard for you to do things that are important to you, like religious activities, physical exercise, sports, or hobbies?","0;1","0 = No; 1 = Yes",""
 "scid_lt_f24e","Integer","","Recommended","ADULT ADHD - Have these symptoms affected any other important part of your life?","0;1","0 = No; 1 = Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "scid_lt_f24","Integer","","Recommended","ADULT ADHD - Have these symptoms clearly caused you any problems in your relationships with your family, romantic partners, or friends? Have they made it more difficult to do your work or schoolwork? Have they affected the quality of your work or schoolwork? Have they made it hard for you to do things that are important to you, like religious activities, physical exercise, sports, or hobbies? Have these symptoms affected any other important part of your life?","0;1","0 = No; 1 = Yes",""
 "scid_lt_f24bage","Integer","","Recommended","ADULT ADHD - When were these symptoms the worst? Age in years ","","",""
 "scid_lt_f24byear","String","50","Recommended","ADULT ADHD - When were these symptoms the worst? Month and/or year","","",""

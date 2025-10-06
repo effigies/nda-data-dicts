@@ -39,7 +39,7 @@
 "pr_fam_empo33","Integer","","Recommended","33. I have a good understanding of my son/daughter's disorders","1::5;999","1 = Not True at all; 2 = Mostly Not True; 3 = Somewhat True; 4 = Mostly True; 5 = Very True; 999 = Missing",""
 "pr_fam_empo34","Integer","","Recommended","34. I feel I am a good parent","1::5;999","1 = Not True at all; 2 = Mostly Not True; 3 = Somewhat True; 4 = Mostly True; 5 = Very True; 999 = Missing",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","pr_fam_empo35"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "pr_fam_empo_alt8","Integer","","Recommended","8. I get in touch with my legislators when important bills or issues concerning adults/children are pending","1::6","1 = Not Applicable; 2 = Never; 3 = Seldom; 4 = Sometimes; 5 = Often; 6 = Very Often",""
 "pr_fam_empo_alt9","Integer","","Recommended","9. I feel my family life is under control","1::6","1 = Not Applicable; 2 = Never; 3 = Seldom; 4 = Sometimes; 5 = Often; 6 = Very Often",""
 "pr_fam_empo_alt10","Integer","","Recommended","10. I understand how the service system for adults/children is organized","1::6","1 = Not Applicable; 2 = Never; 3 = Seldom; 4 = Sometimes; 5 = Often; 6 = Very Often",""

@@ -177,4 +177,4 @@
 "p_tesi_12_base","Integer","","Recommended","Has someone ever attacked your child with a gun, knife, or other weapon (could be someone in the family or someone not in the child''s family)?","0::2","0= No; 1=Yes; 2=Unsure",""
 "p_tesi_19_base","Integer","","Recommended","Has your child ever seen or heard about violence, such as beatings, shootings, or muggings, that occurred in settings that are important to your child, such as school, your neighborhood, or the neighborhood of someone important to your child?","0::2","0= No; 1=Yes; 2=Unsure",""
 "p_tesi_24_base","Integer","","Recommended","Have there been some other times when somebody did or said something that made your child feel the most sad or scared or unhappy they have ever felt or that bothers them a lot now? Or were they left all alone and they were afraid they would die or no one would ever help?","0::2","0= No; 1=Yes; 2=Unsure",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

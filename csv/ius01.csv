@@ -71,5 +71,5 @@
 "iusc_total","Integer","","Recommended","IUS-C Total Score","27 :: 135","",""
 "iusc_1","Integer","","Recommended","Doubts stop me from having strong opinions.","1 :: 5","1 = Not at all characteristic of me; 2 = A little characteristic of me; 3 = Somewhat characteristic of me; 4 = Very characteristic of me; 5 = Entirely characteristic of me",""
 "iusc_2","Integer","","Recommended","Being unsure means that a person is mixed-up.","1 :: 5","1 = Not at all characteristic of me; 2 = A little characteristic of me; 3 = Somewhat characteristic of me; 4 = Very characteristic of me; 5 = Entirely characteristic of me",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "iuss_ac","Integer","","Recommended","Select ''A little characteristic of me'' if you are paying attention.","0::4","0 = Not at all characteristic of me; 1 = A little characteristic of me; 2 = Somewhat characteristic of me; 3 = Very characteristic of me; 4 = Entirely characteristic of me",""

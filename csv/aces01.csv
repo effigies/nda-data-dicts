@@ -106,7 +106,7 @@
 "aces_q09","Integer","","Recommended","Feel that no one in your family loved you or thought you were special.","0;1","0=No;1=Yes",""
 "aces_q10","Integer","","Recommended","Experience unwanted sexual contact (such as fondling or oral/anal/vaginal intercourse/penetration).","0;1","0=No;1=Yes",""
 "aces_affected_health","Integer","","Recommended","Do you believe that these experiences have affected your health?","0::3","0=Not At All; 1=Not Much; 2=Some; 3=A Lot",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "aces_total","Integer","","Recommended","ACE total score","","Sum of aces_q01 through aces_q10",""
 "aces_q01","Integer","","Recommended","You feel that you didn''t have enough to eat, had to wear dirty clothes, or had no one to protect or take care of you.","0;1","0=No;1=Yes",""
 "aces_q02","Integer","","Recommended","Lose a parent through divorce, abandonment, death, or other reason.","0;1","0=No;1=Yes",""

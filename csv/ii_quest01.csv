@@ -21,4 +21,4 @@
 "ii_quest_obs6","Integer","","Recommended","Were the things that player A said about the game or about other, unrelated topics?","1::5","1=Mostly unrelated to the game; 5=Mostly related to the game",""
 "ii_quest_obs7","Integer","","Recommended","Were the things that player B said about the game or about other, unrelated topics?","1::5","1=Mostly unrelated to the game; 5=Mostly related to the game",""
 "ii_quest_obs8","Integer","","Recommended","Observer: How would you rate the overall conversation between the players?","1::5","1=Very negative; 5=Very positive",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

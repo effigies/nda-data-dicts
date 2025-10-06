@@ -160,4 +160,4 @@
 "sex_vio_13_yes9","Integer","","Recommended","If Yes, was the perpetrator a religious leader who had sex with you by physically forcing you?","0;1;666;777","0=No; 1=Yes; 666=Missing; 777=NA",""
 "sex_vio_13_yes10","Integer","","Recommended","If Yes, was the perpetrator another community member who had sex with you by physically forcing you?","0;1;666;777","0=No; 1=Yes; 666=Missing; 777=NA",""
 "sex_vio_13_10other","String","100","Recommended","If Yes, specify who the other community member was that had sex with you by physically forcing you.","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

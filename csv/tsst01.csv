@@ -65,7 +65,7 @@
 "tsst12_post_12d","Integer","","Recommended","During the task, the judges/panelists, overall seemed: Relaxed","1 :: 3","1= Not at all; 2= Neutral; 3= Very","judges_relaxed_2"
 "tsst12_post_12e","Integer","","Recommended","During the task, the judges/panelists, overall seemed: Angry","1 :: 3","1= Not at all; 2= Neutral; 3= Very","judges_angry_2"
 "tsst12_post_12f","Integer","","Recommended","During the task, the judges/panelists, overall seemed: Sad","1 :: 3","1= Not at all; 2= Neutral; 3= Very","judges_sad_2"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "tsst12_post_00","Integer","","Recommended","Check here to confirm that the participant acknowledges that they understand the above information. Address questions as needed ","1","1= I understand the above information","check_here_to_confirm_that_v2"
 "tsst12_post_01","Integer","","Recommended","In general, how nervous are you speaking in front of people?","1 :: 3","1= Not at all nervous; 2= Somewhat nervous; 3= Extremely nervous","in_general_how_nervous_are_v2"
 "tsst12_post_02","Integer","","Recommended","How much experience do you have speaking in front of other people?","1 :: 3","1= No experience; 2= Some experience; 3= A lot of experience","how_much_experience_do_you_v2"

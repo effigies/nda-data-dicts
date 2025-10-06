@@ -360,7 +360,7 @@
 "cbcl65_description","String","500","Recommended","Describe (65. Resists toilet training)","","","cb65_d,cbcl_65_describe"
 "cbcl_anxietydepresspr","Float","","Recommended","Anxiety and Depressive Problems T Score","0::99;999","999 = Missing value",""
 "cbcl_anxietydepresspr_raw","Integer","","Recommended","Anxiety and Depressive Problems Raw Score","0::600;999","999 = Missing value",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "cbcl_100_rate","Integer","","Recommended","Please write in any problems your child has that were not listed above - Problem 1 Score","0::2","0 = Not True (as far as you know); 1 = Somewhat or Sometimes True; 2 = Very True or Often True",""
 "cbcl_101_rate","Integer","","Recommended","Please write in any problems your child has that were not listed above - Problem 2 Score","0::2","0 = Not True (as far as you know); 1 = Somewhat or Sometimes True; 2 = Very True or Often True",""
 "cbcl_102_rate","Integer","","Recommended","Please write in any problems your child has that were not listed above - Problem 3 Score","0::2","0 = Not True (as far as you know); 1 = Somewhat or Sometimes True; 2 = Very True or Often True",""

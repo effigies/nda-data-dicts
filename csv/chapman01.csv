@@ -189,7 +189,7 @@
 "mis_27","Integer","","Recommended","Horoscopes are right too often for it to be a coincidence.","0::1","0 = No; 1 = Yes","wss_mi_14"
 "mis_29","Integer","","Recommended","I have worried that people on other planets may be influencing what happens on Earth.","0::1","0 = No; 1 = Yes","wss_mi_15"
 "gender_identity","Integer","","Recommended","Gender identity: Do you identify as:","1::12","1 = Female; 2 = Male; 3 = Other; 4 = Agender; 5 = Nonbinary/Fluid; 6 = Transgender female; 7 = Transgender male; 8 = Genderqueer; 9 = Do not wish to report; 10 = Multiple Identities Listed; 11 = Non-binary; 12 = Genderfluid",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "mis_2","Integer","","Recommended","I have felt that there were messages for me in the way things were arranged, like in a store window.","0::1","0 = No; 1 = Yes","wss_mi_1"
 "mis_1","Integer","","Recommended","I have occasionally had the silly feeling that a TV or radio broadcaster knew I was listening to him.","0::1","0 = No; 1 = Yes","wss_mi_2"
 "mis_5","Integer","","Recommended","I have noticed sounds on my records that are not there at other times.","0::1","0 = No; 1 = Yes","wss_mi_3"

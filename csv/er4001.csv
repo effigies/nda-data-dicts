@@ -787,7 +787,7 @@
 "fert_sur_acc","Float","","Recommended","Accuracy for ''Surprise'' trials","0.00::1.00","",""
 "fert_neu_acc","Float","","Recommended","Accuracy for ''Neutral'' trials","0.00::1.00","",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "fert_ang_rt","Integer","","Recommended","Reaction time (milliseconds) for ''Anger'' trials","","In milliseconds",""
 "fert_dis_rt","Integer","","Recommended","Reaction time (milliseconds) for ''Disgust'' trials","","In milliseconds",""
 "fert_fea_rt","Integer","","Recommended","Reaction time (milliseconds) for ''Fear'' trials","","In milliseconds",""

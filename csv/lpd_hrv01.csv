@@ -7,7 +7,7 @@
 "event_type","String","100","Recommended","Event Type","","",""
 "epoch_duration","Integer","","Recommended","Epoch duration in seconds","","",""
 "respir_rate","Float","","Recommended","Respiration Rate","1 :: 99999","99999=Missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "elctrdstf","Float","","Recommended","Electrode distance front (cm)","1::100;99999","Unit: cm; 99999=Missing",""

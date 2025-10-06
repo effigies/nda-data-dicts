@@ -100,7 +100,7 @@
 "mdes_10pt_18","Integer","","Recommended","Rate the highest amount you felt scared, fearful, or afraid since the last survey","0::10","0 = Not at all; 5 = Moderately; 10 = Extremely",""
 "mdes_10pt_19","Integer","","Recommended","Rate the highest amount you felt serene, content, or peaceful since the last survey","0::10","0 = Not at all; 5 = Moderately; 10 = Extremely",""
 "mdes_10pt_20","Integer","","Recommended","Rate the highest amount you felt stressed, nervous, or overwhelmed since the last survey","0::10","0 = Not at all; 5 = Moderately; 10 = Extremely",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "mdes_10pt_1","Integer","","Recommended","Rate the highest amount you felt amused, fun-loving, or silly since the last survey","0::10","0 = Not at all; 5 = Moderately; 10 = Extremely",""
 "mdes_10pt_2","Integer","","Recommended","Rate the highest amount you felt angry, irritated, or annoyed since the last survey","0::10","0 = Not at all; 5 = Moderately; 10 = Extremely",""
 "mdes_10pt_3","Integer","","Recommended","Rate the highest amount you felt ashamed, humiliated, or disgraced since the last survey","0::10","0 = Not at all; 5 = Moderately; 10 = Extremely",""

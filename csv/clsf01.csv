@@ -257,7 +257,7 @@
 "dh_28_y28","Integer","","Recommended","During the past twelve months, did someone close to you have serious illness or injury?","0::2;998;999","0=No; 1=Yes; 2=N/A; 998=Don't know; 999=No answer",""
 "dh_29_y29","Integer","","Recommended","During the past twelve months, was someone close to you physically attacked or assaulted?","0::2;998;999","0=No; 1=Yes; 2=N/A; 998=Don't know; 999=No answer",""
 "dh_30_y30","Integer","","Recommended","During the past twelve months, did you have a child?","0::2;998;999","0=No; 1=Yes; 2=N/A; 998=Don't know; 999=No answer",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "dh_1_y1","Integer","","Recommended","During the past three months, has one or both of your parents/caregivers (who lives with you) worked long hours so you do not get to see him/her much?","0::2;998;999","0=No; 1=Yes; 2=N/A; 998=Don't know; 999=No answer",""
 "dh_2_y2","Integer","","Recommended","During the past three months, have you been separated from your family, including your spouse/intimate partner if you have one, for a month or longer because he/she must work in another region or country to support the family?","0::2;998;999","0=No; 1=Yes; 2=N/A; 998=Don't know; 999=No answer",""
 "dh_3_y3","Integer","","Recommended","During the past three months, have your living accommodations been very inadequate (overcrowded, unsanitary, etc.) or unfit for people to live in?","0::2;998;999","0=No; 1=Yes; 2=N/A; 998=Don't know; 999=No answer",""

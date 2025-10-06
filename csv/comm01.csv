@@ -22,5 +22,5 @@
 "comm16","Integer","","Recommended","In the past 30 days, how often have you used your pain medicine for symptoms other than for pain (e.g., to help you sleep, improve your mood, or relieve stress)?","0::4","0 = Never; 1 = Seldom; 2 = Sometimes; 3 = Often; 4 = Very Often","cmsxothpn"
 "comm17","Integer","","Recommended","In the past 30 days, how often have you had to visit the Emergency Room?","0::4","0 = Never; 1 = Seldom; 2 = Sometimes; 3 = Often; 4 = Very Often","cmervis"
 "comm_sum","Integer","","Recommended","Current Opioid Misuse Measure Total Score","","","comm_score"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "comm_score_pos","Integer","","Recommended","Positive Current Opioid Misuse Measure Score (>=9 Score)","0;1","0= No; 1= Yes",""

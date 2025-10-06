@@ -22,4 +22,4 @@
 "pscs_15","Integer","","Recommended","I honestly believe I have all the skills necessary to be a good mother/father to my child.","1::6","1= Strongly Disagree; 2= Somewhat Disagree; 3= Disagree; 4= Agree; 5= Somewhat Agree; 6= Strongly Agree",""
 "pscs_16","Integer","","Recommended","Being a parent makes me tense and anxious.","1::6","6= Strongly Disagree; 5= Somewhat Disagree; 4= Disagree; 3= Agree; 2= Somewhat Agree; 1= Strongly Agree",""
 "pscs_17","Integer","","Recommended","Being a good mother is a reward in itself.","1::6","1= Strongly Disagree; 2= Somewhat Disagree; 3= Disagree; 4= Agree; 5= Somewhat Agree; 6= Strongly Agree",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

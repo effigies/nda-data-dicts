@@ -122,7 +122,7 @@
 "rse_bored_nic","Integer","","Recommended","Vaping or smoking: You are bored at a party","1::4","1= I would definitely vape or smoke; 2= I would probably vape or smoke; 3= I would probably NOT vape or smoke; 4= I would definitely NOT vape or smoke",""
 "rse_party_nic","Integer","","Recommended","All your friends at a party are vaping or smoking","1::4","1= I would definitely vape or smoke; 2= I would probably vape or smoke; 3= I would probably NOT vape or smoke; 4= I would definitely NOT vape or smoke",""
 "rse_gives_nic","Integer","","Recommended","Your friend gives you a vape or a cigarette","1::4","1= I would definitely vape or smoke; 2= I would probably vape or smoke; 3= I would probably NOT vape or smoke; 4= I would definitely NOT vape or smoke",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "rse_friend_alc","Integer","","Recommended","Your best friend is drinking alcohol","1::4","1= I would definitely drink; 2= I would probably drink; 3= I would probably NOT drink; 4= I would definitely NOT drink",""
 "rse_bored_alc","Integer","","Recommended","Alcohol: You are bored at a party","1::4","1= I would definitely drink; 2= I would probably drink; 3= I would probably NOT drink; 4= I would definitely NOT drink",""
 "rse_party_alc","Integer","","Recommended","All your friends at a party are drinking alcohol","1::4","1= I would definitely drink; 2= I would probably drink; 3= I would probably NOT drink; 4= I would definitely NOT drink",""

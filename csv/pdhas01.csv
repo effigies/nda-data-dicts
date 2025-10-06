@@ -101,7 +101,7 @@
 "pdh65","Integer","","Recommended","Unhappy with physical appearance (Frequency)","1::5","1= Never; 5= Constantly",""
 "pdh66","Integer","","Recommended","Unhappy with physical appearance (Hassle)","1::5","1= No hassle; 5= Big hassle",""
 "pdh67","Integer","","Recommended","Nagging by spouse or partner (Frequency)","1::5","1= Never; 5= Constantly",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "pdh14h","Integer","","Recommended","Hassle Intensity: Having to help child find things that he/she has lost or misplaced","1::5","1=No hassle; 5=Big Hassle",""
 "pdh15h","Integer","","Recommended","Hassle Intensity: Communicating with teachers about child''s problems at school","1::5","1=No hassle; 5=Big Hassle",""
 "pdh16h","Integer","","Recommended","Hassle Intensity: Having to remind or help child to do basic tasks that you think he/she should be able to do independently","1::5","1=No hassle; 5=Big Hassle",""

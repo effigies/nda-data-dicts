@@ -8,7 +8,7 @@
 "p_gender","Integer","","Recommended","Parent/Caregiver gender identity:","1::7","1= Male; 2= Female; 3= Transgender Male; 4= Transgender Female; 5= Non-binary; 6= Other; 7= Prefer not to report",""
 "fja_grd","Integer","","Recommended","Child/Youth Grade","1::7","1= Kindergarten; 2= 1st Grade; 3= 2nd Grade; 4= 3rd Grade; 5= 4th Grade; 6= 5th Grade; 7= 6th Grade",""
 "fja_seefam","Integer","","Recommended","How many times have you had direct or telephone contact with this family for more than 30 minutes, including the initial meeting at the start of service?","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "fja_referral","Integer","","Recommended","Referral Source","1::9","1= Mental Health; 2= Juvenile Justice; 3= Child Welfare; 4= Education; 5= Faith Based; 6= Primary Health; 7= Health Department; 8= Self; 9= Other, please specify",""
 "refothers","String","50","Recommended","Referral source: specify","","",""
 "cargiver_rel","Integer","","Recommended","Caregiver relationship to Child/Youth","1::8","1= Mother; 2= Father; 3= Grandparent; 4= Stepparent; 5= Sibling; 6= Other Relative; 7= Foster Parent; 8= Other, specify",""

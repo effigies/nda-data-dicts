@@ -45,4 +45,4 @@
 "mmn_cz_duration_voltage","Float","","Recommended","","Event Related Potential: Mismatch Negativity Response (Duration Deviant -Standard) averaged from 150 and 230 from Sensor CZ","-999 :: 999","",""
 "mmn_cz_frequency_voltage","Float","","Recommended","","Event Related Potential: Mismatch Negativity Response (Frequency Deviant -Standard) averaged from 90 and 170 from Sensor CZ","-999 :: 999","",""
 "mmn_cz_both_voltage","Float","","Recommended","","Event Related Potential: Mismatch Negativity Response (Duration/Frequency Deviant -Standard) averaged from 150 and 230 from Sensor CZ","-999 :: 999","",""
-"timepoint_label","String","50","Recommended","","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

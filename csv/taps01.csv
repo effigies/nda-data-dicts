@@ -38,7 +38,7 @@
 "preg_illegal_use","Integer","","Recommended","In the past 3 months, did you use any other illegal or recreational drug (for example, ecstasy/molly, GHB, poppers, LSD, mushrooms, special K, bath salts, synthetic marijuana ('spice'), whip-its, etc.)?","0::2","0 = No; 1 = Yes; 2 = Prefer not to say","taps_illegal_use"
 "preg_illegal_describe","String","50","Recommended","If you did use any other illegal or recreational drug in the past 3 months, what were the other drug(s) you used?","","","taps_illegal_describe"
 "comments","String","4000","Recommended","Comments about assessment","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "yc_sex","Integer","20","Recommended","Sex of subject at birth","1::5","1=female; 2=male; 3=intersex; 4=none of these describe me; 5= Unknown",""
 "bia_binge","Integer","","Recommended","In the PAST 12 MONTHS, how often have you had 5 or more drinks containing alcohol in one day? One standard drink is about 1 small glass of wine (5 oz), 1 beer (12 oz), or 1 single shot of liquor.","0::4","0=Daily or Almost Daily; 1=Weekly; 2=Monthly; 3=Less Than Monthly; 4=Never",""
 "tapsalcoholusefemalescl","Integer","","Recommended","TAPS Alcohol Use Females (Item 2): In the past 12 months, how often have you had 4 or more drinks containing alcohol in one day?","0::4","0 = Daily or Almost Daily; 1 = Weekly; 2 = Monthly; 3 = Less Than Monthly; 4 = Never",""

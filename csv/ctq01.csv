@@ -76,7 +76,7 @@
 "ctq_pre_teen","Integer","","Recommended","Please rate how stressful you feel your early life was, compared to that of other children: During Pre-Teen Years","1::6","1= Essentially Stress-free; 2= Less Stressful than Most Kids; 3= About Average; 4= More stressful than Most Kids; 5= Extremely Stressful; 6= The Most Stressful I'e Ever Know",""
 "studyphase","Integer","","Recommended","Study Phase","1::6; -888; -999","1=Phase 1: Treatment as Usual(TAU); 2=Phase 2: Screening Only; 3=Phase 3: Intervention; 4=Focus Groups; 5=Open Trial; 6=Randomized Trial; -888=Not Applicable; -999=Missing;",""
 "treatmentgroup","String","30","Recommended","Treatment condition","","e.g., Control, Intervention, Experimental, Placebo",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "childexp2_4","Integer","","Recommended","Before age 18, how often did you have each of these other experiences: Someone in your family hit or grabbed you so hard that it left bruises or marks?","0::4","0 = Never; 1 = Rarely; 2 = Sometimes; 3 = Often; 4 = Very often",""
 "childexp2_5","Integer","","Recommended","Before age 18, how often did you have each of these other experiences: You were physically abused at home?","0::4","0 = Never; 1 = Rarely; 2 = Sometimes; 3 = Often; 4 = Very often",""
 "childexp3_1","Integer","","Recommended","Before age 18, how often did you have each of these other experiences: People in your family said hurtful or insulting things to you?","0::4","0 = Never; 1 = Rarely; 2 = Sometimes; 3 = Often; 4 = Very often",""

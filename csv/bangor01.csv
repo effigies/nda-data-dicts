@@ -19,4 +19,4 @@
 "bangor13","Integer","","Recommended","Some of the thoughts I have about my child are negative and I say to myself that I should not be thinking that way.","0 :: 3","0= Never True; 1= Sometimes True; 2= Often True; 3= Always True",""
 "bangor14","Integer","","Recommended","I am aware of how my moods affect the way I treat my child.","0 :: 3","0= Never True; 1= Sometimes True; 2= Often True; 3= Always True",""
 "bangor15","Integer","","Recommended","I am good at finding the words to describe my feelings about my child.","0 :: 3","0= Never True; 1= Sometimes True; 2= Often True; 3= Always True",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

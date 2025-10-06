@@ -21,4 +21,4 @@
 "st0_block","Float","","Recommended","Inter-Trial-Variability of Non-Decisional Components","","Range of a uniform distribution with mean t0 describing the distribution of actual t0 values across trials.",""
 "diffmodelfit_block","Float","","Recommended","Estimation of diffusion model fit","","Diffusion variables were excluded if less than 0.05",""
 "diffprocedure_block","String","18","Recommended","Estimation Procedures implemented","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

@@ -19,4 +19,4 @@
 "emosc_time","Integer","","Recommended","Time (seconds of epoch)","","",""
 "emosc_mean","Float","","Recommended","Mean skin conductance (microsiemens)","","",""
 "emoscr_mean","Float","","Recommended","Average number of SCRs > .05 microsiemens inepoch","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

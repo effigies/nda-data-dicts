@@ -271,7 +271,7 @@
 "chrsaliva_food___2","Integer","","Recommended","Have any of the following types of food or drinks been consumed since 6PM (18:00) yesterday? - Alcohol","0;1;-900;-300","0 = Not checked; 1 = Checked; -900 = Missing; -300 = N/A",""
 "chrsaliva_food___3","Integer","","Recommended","Have any of the following types of food or drinks been consumed since 6PM (18:00) yesterday? - Dairy products","0;1;-900;-300","0 = Not checked; 1 = Checked; -900 = Missing; -300 = N/A",""
 "chrsaliva_food___4","Integer","","Recommended","Have any of the following types of food or drinks been consumed since 6PM (18:00) yesterday? - None consumed","0;1;-900;-300","0 = Not checked; 1 = Checked; -900 = Missing; -300 = N/A",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "hrssleep","Integer","","Recommended","Hours of sleep","1::10","10 = 10 or more",""
 "dailymood","Integer","","Recommended","Mood","1::9","1=Saddest; 9=Happiest",""
 "dailyanxiety","Integer","","Recommended","Anxiety","1::9","1=Most Relaxed; 9=Most Tense",""

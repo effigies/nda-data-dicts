@@ -647,7 +647,7 @@
 "wms3_lssb","Integer","","Recommended","LSSB Longest Spatial Span Backward","0::9","",""
 "wms3_audrecogdelayed_is","Integer","","Recommended","Auditory Recognition - Index Score","","",""
 "conf_percent","Integer","","Recommended","Confidence Percent","90;95","90 = 90% Confidence Interval; 95 = 95% Confidence Interval",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "wms3_vpa_i_ss","Integer","","Recommended","Verbal Paired Associates I - Scaled Score","","",""
 "wms3_familypicturesi_ss","Integer","","Recommended","Family Pictures I - Scaled Score","","",""
 "wms3_lnsequencing_ss","Integer","","Recommended","Letter-Number Sequencing - Scaled Score","","",""

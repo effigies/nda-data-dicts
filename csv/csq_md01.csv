@@ -64,7 +64,7 @@
 "csq_11","Integer","","Recommended","How you felt about life in your household: How socially isolated did you feel as a result of your child's illness?","1::5; -7; -8; -9; 999","1 = Not at all; 2 = A little; 3 = Somewhat; 4 = Quite a bit; 5 = Very much; -7 = Don't know; -8 = Refused to answer; -9 = Does not apply; 999=missing",""
 "csq_11a","Integer","","Recommended","Please rate how confident or strongly you feel or believe that this would be your choice.","1::4; 999","1= Mild; 2= Mild-Moderately; 3= Moderately; 4= Moderately-Strongly; 5= Strongly; 6= Extremely",""
 "csq_12","Integer","","Recommended","How you felt about life in your household: How sad or unhappy did you feel as a result of your child's illness/problems?","1::5; -7; -8; -9; 999","1 = Not at all; 2 = A little; 3 = Somewhat; 4 = Quite a bit; 5 = Very much; -7 = Don't know; -8 = Refused to answer; -9 = Does not apply; 999=missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "acsq_md8","Integer","","Recommended","If you were to seek help again, would you come back to our program for treatment?","0::6","0=Yes, definitely; 2=Yes, I think so; 4=No, I don''t think so; 6=No, definitely not",""
 "acsq_md1","Integer","","Recommended","How would you rate the quality of treatment you received?","0::6","0=Poor; 2=Fair; 4=Good; 6=Excellent",""
 "acsq_md2","Integer","","Recommended","Did you get the kind of treatment you wanted?","0::6","0=Yes, definitely; 2=Yes, generally; 4=No, not really; 6=No, definitely not",""

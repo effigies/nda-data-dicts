@@ -86,4 +86,4 @@
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "askqs","Integer","","Recommended","Fear P: asking questions in a store","0::3;-9","0 = none; 1 = mild; 2 = moderate; 3 = severe; -9 = incomplete",""
 "askqas","Integer","","Recommended","Avoidance P: asking questions in a store","0::3;-9","0 = none; 1 = mild; 2 = moderate; 3 = severe; -9 = incomplete",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

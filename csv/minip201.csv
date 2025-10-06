@@ -954,7 +954,7 @@ Criteria:
 "mini57","Integer","","Recommended","Any Psychotic Disorder Current","0;1;999","0= Unchecked; 1= Checked; 999= Missing Value",""
 "mini58","Integer","","Recommended","Any Psychotic Disorder Current - Primary Dx","0;1;999","0= Unchecked; 1= Checked; 999= Missing Value",""
 "mini59","Integer","","Recommended","Any Psychotic Disorder Lifetime","0;1;999","0= Unchecked; 1= Checked; 999= Missing Value",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "mini60","Integer","","Recommended","Any Psychotic Disorder Lifetime - Primary Dx","0;1;999","0= Unchecked; 1= Checked; 999= Missing Value",""
 "mini61","Integer","","Recommended","Major Depressive Disorder With Psychotic Features Current","0;1;999","0= Unchecked; 1= Checked; 999= Missing Value","mini_mdd_pf_current"
 "mini62","Integer","","Recommended","Major Depressive Disorder With Psychotic Features Current - Primary Dx","0;1;999","0= Unchecked; 1= Checked; 999= Missing Value",""

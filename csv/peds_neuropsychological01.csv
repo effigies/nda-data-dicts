@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
 "src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "brief_behavior_reg_index_t","Integer","","Recommended","BRIEF: Behavior regulation index (BRI) T score","","","BRIEF_Behavior_Regulation_Index_T"
 "brief_emotional_control_t","Integer","","Recommended","BRIEF: Emotional control subscale T score","","",""
 "brief_global_exec_composite_t","Integer","","Recommended","BRIEF: Global executive composite (GEC) T score","","","BRIEF_Global_Executive_Composite_T"

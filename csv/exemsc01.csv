@@ -11,5 +11,5 @@
 "eesc_5","Integer","","Recommended","Sometimes I just don't have words to describe how I feel.","1::5;999; 888","1 = Not at all true; 2 = A little true; 3 = Somewhat true; 4 = Very True; 5 = Extremely True; 999 = N/A or Prefer Not to Answer; 888 = N/A: condition skipped",""
 "eesc_6","Integer","","Recommended","I know I should show my feelings, but it is too hard.","1::5;999; 888","1 = Not at all true; 2 = A little true; 3 = Somewhat true; 4 = Very True; 5 = Extremely True; 999 = N/A or Prefer Not to Answer; 888 = N/A: condition skipped",""
 "eesc_7","Integer","","Recommended","I often do not know why I am angry.","1::5;999; 888","1 = Not at all true; 2 = A little true; 3 = Somewhat true; 4 = Very True; 5 = Extremely True; 999 = N/A or Prefer Not to Answer; 888 = N/A: condition skipped",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "eesc_8","Integer","","Recommended","When something bad happens, I feel like exploding.","1::5;999;888","1 = Not at all true; 2 = A little true; 3 = Somewhat true; 4 = Very True; 5 = Extremely True; 999 = N/A or Prefer Not to Answer;  888 = N/A: condition skipped",""

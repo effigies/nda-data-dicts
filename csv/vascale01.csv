@@ -25,7 +25,7 @@
 "vas_self12","Integer","","Recommended","VAS Block 1: 60","0;1","0= Unchecked; 1= Checked",""
 "vas_self13","Integer","","Recommended","VAS Block 2: 30","0;1","0= Unchecked; 1= Checked",""
 "vas_self14","Integer","","Recommended","VAS Block 2: 60","0;1","0= Unchecked; 1= Checked",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "vas_self15","Integer","","Recommended","How strong is your urge to drink alcohol?","0 :: 100","0= No Craving; 100= Most I have ever felt",""
 "vas_self01","Integer","","Recommended","VAS: Randomization","0;1","0= Unchecked; 1= Checked",""
 "vas_self02","Integer","","Recommended","VAS: Pre-Alcohol Challenge 1","0;1","0= Unchecked; 1= Checked",""

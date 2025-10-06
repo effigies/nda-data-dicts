@@ -43,4 +43,4 @@
 "t1frs37","Integer","","Recommended","When my child is scared, frightened or afraid s/he.... Plays out the scary event in their play (e.g., with dolls or stuffed animals).","0::2;-999","0= Not True or Hardly Ever True; 1= Somewhat True or Sometimes True; 2= Very True or Often True; -999= Prefer not to answer","frs37"
 "t1frs38","Integer","","Recommended","When my child is scared, frightened or afraid s/he.... Tries to hide their fear by laughing or acting brave.","0::2;-999","0= Not True or Hardly Ever True; 1= Somewhat True or Sometimes True; 2= Very True or Often True; -999= Prefer not to answer","frs38"
 "fears39","Integer","","Recommended","Thinking about the past month, how often would you say your child has been scared, frightened, or afraid?","0::4;-999","0= Never; 1= Once or twice; 2= Less than once a week; 3= A few times a week; 4= Every day or almost every day; -999= Prefer not to answer","frs39"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

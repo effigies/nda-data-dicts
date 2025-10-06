@@ -180,7 +180,7 @@
 "lassi_tst_pctl","Integer","","Recommended","Test Strategies Sub-scale percentile","","",""
 "lassi_tmt_pctl","Integer","","Recommended","Time Management Sub-scale percentile","","",""
 "lassi_uar_pctl","Integer","","Recommended","Using Academic Resources Sub-scale percentile","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "lassi_anx_raw","Integer","","Recommended","Anxiety Sub-scale total raw score ","","",""
 "lassi_att_raw","Integer","","Recommended","Attitude Sub-scale total raw score ","","",""
 "lassi_con_raw","Integer","","Recommended","Concentration Sub-scale total raw score ","","",""

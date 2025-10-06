@@ -75,7 +75,7 @@
 "vasalc","Integer","","Recommended","Visual Analog Scale Alcohol Craving: Please mark on the line below the intensity of your craving","0::100","0=None at all; 25= A little; 50=About the usual; 75=Very much; 100= more than ever. Units in mm.",""
 "vasarous","Integer","","Recommended","Visual Analog Scale Arousal: Please mark on the line below the intensity of your physical arousal, agitation, or excitement.","0::100","0=None at all; 25= A little; 50=About the usual; 75=Very much; 100= more than ever. Units in mm.",""
 "vas_infuse","Integer","","Recommended","VAS performed pre-infusion or post-infusion?","1;2","1=Pre-Infusion; 2=Post-Infusion",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "vas_meal_wtgainfear","Integer","","Recommended","Current State: I am afraid of gaining weight.","0 :: 100","0=not at all; 100=extremely",""
 "vas_meal_clothingtight","Integer","","Recommended","Current State: My clothing feels tight on my stomach.","0 :: 100","0=not at all; 100=extremely",""
 "vas_meal_restrict","Integer","","Recommended","Current State: Urge to restrict","0::100; 999","0=Not at all; 100=Extremely; 999 = Missing",""

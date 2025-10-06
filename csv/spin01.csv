@@ -22,5 +22,5 @@
 "spin16","Integer","","Recommended","I avoid speaking to anyone in authority.","0::4;-9","0 = Not at all; 1 = A little bit; 2 = Somewhat; 3 = Very much; 4 = Extremely; -9 = Missing",""
 "spin17","Integer","","Recommended","Trembling or shaking in front of others is distressing to me.","0::4;-9","0 = Not at all; 1 = A little bit; 2 = Somewhat; 3 = Very much; 4 = Extremely; -9 = Missing",""
 "spin_mean","Float","","Recommended","Scoring Instructions: Mean of all 17 items","0::68","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "spin_language","Integer","","Recommended","In what language did you collect the data?","1::20","1 = English; 2 = Chinese-Classical; 3 = Chinese-Simplified; 4 = Croatian; 5 = Czech; 6 = Dutch; 7 = Farsi; 8 = Finnish; 9 = French; 10 = German; 11 = Haitian Creole; 12 = Italian; 13 = Japanese; 14 = Korean; 15 = Polish; 16 = Portuguese; 17 = Romanian; 18 = Serbian; 19 = Spanish; 20 = Turkish","spin_4"

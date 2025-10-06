@@ -87,7 +87,7 @@
 "child_waketime","String","6","Recommended","Childs Wake Time","","HH:MM",""
 "child_nightsleep","String","10","Recommended","Childs usual amount of sleep each night (no naps):","","Hours and Mins",""
 "child_daysleep","String","10","Recommended","Childs usual amount of sleep each day (naps):","","Hours and Mins",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "cshq_q9_prob","String","6","Recommended","Is resisting going to bed at bedtime a problem?","TRUE;FALSE;YES;NO;NA","",""
 "cshq_q14","Integer","","Recommended","14. Child sleeps too much","1 :: 3","1 = Rarely (0-1 days per week); 2 = Sometimes (2-4 days per week); 3 = Usually (5-7 days per week)",""

@@ -99,7 +99,7 @@
 "scas_c42","Integer","","Recommended","I have to do some things in just the right way to stop bad things happening","0 :: 3","0= Never; 1= Sometimes; 2= Often; 3= Always",""
 "scas_c43","Integer","","Recommended","I am proud of my school work","0 :: 3","0= Never; 1= Sometimes; 2= Often; 3= Always",""
 "scas_c44","Integer","","Recommended","I would feel scared if I had to stay away from home overnight","0 :: 3","0= Never; 1= Sometimes; 2= Often; 3= Always",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "scas_c45","Integer","","Recommended","Is there something else that you are really afraid of?","0;1","0= No; 1= Yes",""
 "scas_c46","String","500","Recommended","Please write down what it is (what you are really afraid of)","","",""
 "scas_c47","Integer","","Recommended","How often are you afraid of this thing?","0 :: 3","0= Never; 1= Sometimes; 2= Often; 3= Always",""

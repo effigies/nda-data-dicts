@@ -39,4 +39,4 @@
 "sas_5","Integer","","Recommended","In the past month I got nervous when I talked to peers I didn't know very well","1::5;999","1 = Not at all; 2 = Hardly Every; 3 = Sometimes; 4 = Most of the Time; 5 = All the Time; 999=N/A or Prefer Not to Answer",""
 "sas_6","Integer","","Recommended","In the past month I got nervous when I met new people","1::5;999","1 = Not at all; 2 = Hardly Every; 3 = Sometimes; 4 = Most of the Time; 5 = All the Time; 999=N/A or Prefer Not to Answer",""
 "sas_7","Integer","","Recommended","In the past month I was afraid to invite others to do things with me because they might stay no","1::5;999","1 = Not at all; 2 = Hardly Every; 3 = Sometimes; 4 = Most of the Time; 5 = All the Time; 999=N/A or Prefer Not to Answer",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

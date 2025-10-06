@@ -344,7 +344,7 @@
 "service_use_1d_2_sti","Integer","","Recommended","Stimulant 2: Frequency of [Stimulant 2] use","1::6","1=  2 or more times/week; 2=  1x/week; 3=  2x/month; 4=  1x/month; 5=  Other; 6=  Daily",""
 "service_use_1d_2_text_sti","String","200","Recommended","Stimulant 2: Frequency of [Stimulant 2] use. If selected ''Other'', please specify:","","",""
 "service_use_1b_2_sti","Integer","","Recommended","Stimulant 2: Approximately when did you start taking [Stimulant 2]:","","In YYYY",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "service_use_1e_2_sti","Integer","","Recommended","Are you currently taking any other [Stimulant]?","0;1","0=  No; 1=  Yes",""
 "stim3_name","String","50","Recommended","Name of Stimulant 3","","",""
 "service_use_1c_3_sti","Integer","","Recommended","Stimulant 3: [Stimulant 3] dosage","","In mg",""

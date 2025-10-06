@@ -84,6 +84,6 @@
 "contamination01","Integer","","Recommended","Have you received any sleep intervention, treatment or coaching since entering the study?","0; 1; -9","0 = No; 1 = Yes; -9 = Missing",""
 "contamination02b","String","100","Recommended","Have you received any sleep intervention, treatment or coaching since entering the study? - If yes, with who or which group have you been working on sleep?","","",""
 "contamination02a","String","100","Recommended","Have you received any sleep intervention, treatment or coaching since entering the study? - If yes, what sleep work have you been doing?","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","timepoint"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","timepoint"
 "transcuse_01","Integer","","Recommended","Are you still using Transdiagnostic Sleep and Circadian Intervention (TranS-C)?","0; 1; -9","0 = No; 1 = Yes; -9 = Missing",""
 "transcuse_02","String","1000","Recommended","If yes, what parts of Transdiagnostic Sleep and Circadian Intervention (TranS-C) are you still using?","","",""

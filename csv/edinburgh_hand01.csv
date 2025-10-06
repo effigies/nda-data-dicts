@@ -155,4 +155,4 @@
 "thrwlft","Integer","","Recommended","Throwing: Left","1;2","1 = No; 2 = Yes",""
 "thrwrgt","Integer","","Recommended","Throwing: Right","1;2","1 = No; 2 = Yes",""
 "scslft","Integer","","Recommended","Scissors: Left","1;2","1 = No; 2 = Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

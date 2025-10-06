@@ -41,7 +41,7 @@
 "cortisol33","String","1000","Recommended","Please describe medications, dosage, and frequency of usage","","","hcsteroidmedyes"
 "cortisol34","Integer","","Recommended","Are you taking any other medications or completing any therapies that affect testosterone or estrogen functioning?","0;1","0= No; 1= Yes, please explain","hcotherhormonemed"
 "cortisol35","String","200","Recommended","Please describe other therapies, medications, dosage, and frequency of usage","","","hcotherhormonemedyes"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","assessment.c"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","assessment.c"
 "hctime","Integer","","Recommended","clinicians spend enough time","0::3;-7","0=Never; 1=Sometimes; 2=Usually; 3=Always; -7=Refused",""
 "hcreturndate","Date","","Recommended","Date of Sample Return","","",""
 "hcsampletype","Integer","","Recommended","Hair sample type","0;1","0 = Long, 1 = Short",""

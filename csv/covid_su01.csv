@@ -163,7 +163,7 @@
 "subuse_nc_cvd_12","Float","","Recommended","In a TYPICAL month in the 6 months prior to the shut-down in March 2020, when you drank LIQUOR or mixed drinks, what was the liquor type?","0.15;0.17;0.28;0.40;0.43;0.45;0.50;0.75;0.95","0.15 = 30 proof (15 percent ABV); 0.17 = 34 proof (17 percent ABV); 0.28 = 56 proof (28 percent ABV); 0.40 = 80 proof (40 percent ABV); 0.43 = 86 proof (43 percent ABV); 0.45 = 90 proof (45 percent ABV); 0.50 = 100 proof (50 percent ABV); 0.75 = 151 proof (75 percent ABV); 0.95 = 190 proof (95 percent ABV)",""
 "subuse_nc_cvd_13","Integer","","Recommended","Did your alcohol use change during the shutdown period?","0::2","0 = No Change; 1 = My use INCREASED;  2 = My use DECREASED",""
 "subuse_nc_cvd_14","Float","","Recommended","During the shutdown, how many total standard drinks (beer + wine + liquor) did you typically drink/week?","0::999","Number of standard drinks",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "subuse_nc_cvd_16","Integer","","Recommended","Have you smoked at least 100 cigarettes in your life?","0;1;999","0 = No; 1 = Yes; 999 = Prefer not to say",""
 "subuse_nc_cvd_17","Integer","","Recommended","In the 6 months before the March 2020 shutdown, were you a smoker or did use smokeless tobacco?","0;1","0 = No; 1 = Yes",""
 "subuse_nc_cvd_18","Float","","Recommended","In the 6 months before the March 2020 shutdown, were you a smoker or did use smokeless tobacco? If Yes, how many CIGARETTES did you smoke in a typical day during this time?","0::999","Number of  cigarettes",""

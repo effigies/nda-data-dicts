@@ -37,4 +37,4 @@
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "site","String","101","Recommended","Site","","Study Site",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

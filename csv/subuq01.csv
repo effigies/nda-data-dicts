@@ -787,7 +787,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "c_oora7","Integer","","Recommended","In the past 30 days, how often have you increased the amount of an opioid (such as heroin, painkillers) you used to more than you usually use?","1::5;888;999","1= Never ; 2= Rarely ; 3= Sometimes ; 4= Often ; 5= Very often ; 888= DON'T KNOW ; 999= REFUSE",""
 "c_oora8","Integer","","Recommended","In the past 30 days, how often have you snorted any drugs? (This includes huffing paint or chemicals)","1::5;888;999","1= Never ; 2= Rarely ; 3= Sometimes ; 4= Often ; 5= Very often ; 888= DON'T KNOW ; 999= REFUSE",""
 "c_oora9","Integer","","Recommended","In the past 30 days, how often have you injected any drugs?","1::5;888;999","1= Never ; 2= Rarely ; 3= Sometimes ; 4= Often ; 5= Very often ; 888= DON'T KNOW ; 999= REFUSE",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "random","Integer","","Recommended","Treatment Assignment","1;2","1= Enhanced usual care ; 2= Collaborative care",""
 "c_obq1","Integer","","Recommended","Have you ever overdosed in your life?","0;1;888;999;8","0 = No; 1= Yes; 888= DON'T KNOW; 999= REFUSE; 8 = Prefer not to answer",""
 "c_obq2","Integer","","Recommended","Have you overdosed in the past 3 months?","0;1;888;999","0 = No; 1= Yes; 888= DON'T KNOW ; 999= REFUSE",""

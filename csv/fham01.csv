@@ -250,4 +250,4 @@
 "fhia14_fgp","Integer","","Recommended","Because of drinking, did  your grandparents (biological father's side) ever have problems such as: withdrawal symptoms (shakes, seizures/convulsions, DTs)?","0::2","0 = No; 1 = Yes; 2 = Unknown",""
 "fhia15_fgp","Integer","","Recommended","Because of drinking, did  your grandparents (biological father's side) ever have problems such as: needing to drink a great deal more in order to get an effect, or finding that s/he could no longer get drunk on the amount s/he used to drink?","0::2","0 = No; 1 = Yes; 2 = Unknown",""
 "fhia16_fgp","Integer","","Recommended","Because of drinking, did  your grandparents (biological father's side) ever have problems such as: any kind of treatment or hospitalization?","0::2","0 = No; 1 = Yes; 2 = Unknown",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

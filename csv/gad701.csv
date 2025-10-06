@@ -29,7 +29,7 @@
 "time_elapsed","Float","","Recommended","The number of milliseconds since the start of the experiment until the questionnaire was completed","","",""
 "month_interview","Integer","","Recommended","Month of the interview","0::6","0=Baseline; 1=Month 1; 2=Month 2; 3=Month 3; 4= Month 4; 5= Month 5; 6=Month 6",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "week_admin","Integer","","Recommended","Week administered","-1::7;9;11;15;19","",""
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
 "gad7_001","Integer","","Recommended","Over the last 24 hours, how often have you been bothered by feeling nervous, anxious, or on edge?","0::3; 999","0 = Not at all; 1 = Some of the time; 2 = Most of the time; 3 = Nearly all of the time; 999 = Missing",""

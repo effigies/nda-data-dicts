@@ -232,7 +232,7 @@
 "proh_ride_mjoth","Integer","","Recommended","Risk of harm: Ride with a driver who had been using marijuana or other drugs?","0::3","0= No risk; 1= Slight risk; 2= Moderate risk; 3= Great risk",""
 "proh_drive_alc","Integer","","Recommended","Risk of harm: Drive after drinking alcohol?","0::3","0= No risk; 1= Slight risk; 2= Moderate risk; 3= Great risk",""
 "proh_drive_mjoth","Integer","","Recommended","Risk of harm: Drive after using marijuana or other drugs?","0::3","0= No risk; 1= Slight risk; 2= Moderate risk; 3= Great risk",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "proh_occ_alc","Integer","","Recommended","Risk of harm: Have 3 or more alcoholic drinks in a row occasionally?","0::3","0= No risk; 1= Slight risk; 2= Moderate risk; 3= Great risk",""
 "proh_reg_alc","Integer","","Recommended","Risk of harm: Have 3 or more alcoholic drinks once or twice each weekend?","0::3","0= No risk; 1= Slight risk; 2= Moderate risk; 3= Great risk",""
 "proh_occ_vape","Integer","","Recommended","Risk of harm: Vape an e-liquid with nicotine occasionally?","0::3","0= No risk; 1= Slight risk; 2= Moderate risk; 3= Great risk",""

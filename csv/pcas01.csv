@@ -61,4 +61,4 @@
 "distr_sep","Integer","","Recommended","Becomes distressed if separated from parents","0::4","0= Not at all true; 1= Seldom true; 2= Sometimes true; Quite often true; 4= Very often true",""
 "upset_unexp","Integer","","Recommended","Gets upset if something unexpected happens","0::4","0= Not at all true; 1= Seldom true; 2= Sometimes true; Quite often true; 4= Very often true",""
 "afraid_noise","Integer","","Recommended","Is afraid of loud noises","0::4","0= Not at all true; 1= Seldom true; 2= Sometimes true; Quite often true; 4= Very often true",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

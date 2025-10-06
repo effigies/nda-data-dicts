@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","","Unique_ID"
 "src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
-"timepoint_label","String","50","Required","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Required","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "age_days_dov_to_dob","Integer","","Recommended","""Age in days at Visit (DoV-DoB), same as age of scan if obtained""","","","Age_Days_Date_of_Visit_to_DOB"
 "age_days_doa_to_dob","Integer","","Recommended","Age in days obtained by subtracting the date of birth from the date of test","","","FIGS_Y1_Age_Days_DOA_to_DOB"
 "admin_status","String","20","Recommended","Instrument administration status","Complete;Partial;Not Administered;Not Applicable","","FIGS_Y1_Administration_Status"

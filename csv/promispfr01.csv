@@ -25,7 +25,7 @@
 "social_prms4v1_fam_pp_q3_4w","Integer","","Recommended","My child felt he/she got all the help he/she needed from our family","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always",""
 "social_prms4v1_fam_pp_q4_4w","Integer","","Recommended","Our family and my child had fun together","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always",""
 "social_prms4v1_fam_pp_score","Float","","Recommended","PROMIS (Parent Proxy) Family Relations Raw Score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "promis_fam_rel_1_p4w","Integer","","Recommended","In the past 4 weeks: I felt I had a strong relationship with my family.","1::5","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Always","c_fam_fb_074_pxr1r,c_fam_fb_074_pxr1r_base"
 "promis_fam_rel_2_p4w","Integer","","Recommended","In the past 4 weeks: I felt really important to my family.","1::5","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Always","c_fam_fb_088_pxr1r,c_fam_fb_088_pxr1r_base"
 "promis_fam_rel_3_p4w","Integer","","Recommended","In the past 4 weeks: I got all the help I needed from my family.","1::5","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Always","c_fam_fb_029_pxr1r,c_fam_fb_029_pxr1r_base"

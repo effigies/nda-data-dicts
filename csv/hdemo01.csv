@@ -176,7 +176,7 @@ household in item 2 who contribute financially)","1::10","1=less than $5,000; 2 
 "se_12_y","Integer","","Recommended","Does your household have: A refrigerator? (Una geh eni wan pan den tin ya: Fridge?)","0;1;998;999","0 = No; 1 = Yes; 998 = Do not know (Ar nor no); 999 = Refused (Nor ansa)",""
 "se_15_y","Integer","","Recommended","Does your household have: A motorcycle or scooter? (Una geh eni wan pan den tin ya: Motobike?)","0;1;998;999","0 = No; 1 = Yes; 998 = Do not know (Ar nor no); 999 = Refused (Nor ansa)",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "treatment","Integer","","Recommended","Any persons living at home who have been treated by a mental health professional?","0::4;-99;77;88","0=No; 1=Yes; -99=N/A; 88=Missing; 77=Refused",""
 "ses7","Integer","","Recommended","What is the main material used for the walls of your house?","1::6;98;99","1= Mud wall; 2= Cement; 3= Mud bricks; 4= Mud bricks and cement; 5= Corrugated metal sheets; 6= Other; 98= Do not know; 99= Refused",""
 "expend27_val","String","200","Recommended","How much, roughly, did you spend on barber and beauty salon services?","","",""

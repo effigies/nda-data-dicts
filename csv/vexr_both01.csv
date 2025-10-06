@@ -275,7 +275,7 @@
 "c_vexr_20a","Integer","","Recommended","How many times have/has you/the child seen a person dealing drugs? Was this person a kid or an adult?","1;2","1 = Kid; 2 = Adult/teenager",""
 "c_vexr_21a","Integer","","Recommended","How many times have/has you/the child seen or heard a kid getting spanked? Was this person a kid or an adult?","1;2","1 = Kid; 2 = Adult/teenager",""
 "c_vexr_22a","Integer","","Recommended","How many times has a person spanked you/the child? Was this person a kid or an adult?","1;2","1 = Kid; 2 = Adult/teenager",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "c_vexr_1a","Integer","","Recommended","How many times have/has you/the child seen a person yell at another person? Was this person a kid or an adult?","1;2","1 = Kid; 2 = Adult/teenager",""
 "c_vexr_2a","Integer","","Recommended","How many times has a person yelled at you/the child? Was this person a kid or an adult?","1;2","1 = Kid; 2 = Adult/teenager",""
 "c_vexr_3a","Integer","","Recommended","How many times have/has you/the child seen or heard a person throw something at another person? Was this person a kid or an adult?","1;2","1 = Kid; 2 = Adult/teenager",""

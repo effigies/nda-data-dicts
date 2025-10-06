@@ -14,4 +14,4 @@
 "tanner_testes_boys","Integer","","Recommended","Testes Tanner Stage (boys)","","",""
 "tanner_avg_boys","Float","","Recommended","Average Tanner Stage (boys)","","",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

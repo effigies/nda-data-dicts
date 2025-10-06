@@ -29,7 +29,7 @@
 "crsi_q204","Integer","","Recommended","Please indicate how accurately each of the following questions and statements describe your experience during the computer ball-tossing game: I received the ball as often as the other players","1::6","1=Not at all; 6=Very Much So",""
 "crsi_q205","Integer","","Recommended","Please indicate how accurately each of the following questions and statements describe your experience during the computer ball-tossing game: I felt excluded while playing the ball-tossing game","1::6","1=Not at all; 6=Very Much So",""
 "crsi_q206","Integer","","Recommended","Please indicate how accurately each of the following questions and statements describe your experience during the computer ball-tossing game: To what extend did you feel?","1::6","1=Very included; 6=Very excluded",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "crsi_q193","Integer","","Recommended","Please take a moment to tell us about your current mood. Use the rating scales below to describe how you have been feeling","1::6","1=Sad; 6=Happy",""
 "crsi_q194","Integer","","Recommended","Please take a moment to tell us about your current mood. Use the rating scales below to describe how you have been feeling","1::6","1=Not Anxious; 6=Anxious",""
 "crsi_q195","Integer","","Recommended","Please take a moment to tell us about your current mood. Use the rating scales below to describe how you have been feeling","1::6","1=Calm/Quiet; 6=Active/Energized",""

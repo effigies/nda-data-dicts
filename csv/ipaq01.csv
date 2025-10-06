@@ -96,4 +96,4 @@ During the last 7 days, on how many days did you do vigorous physical activities
 "paq01_fu","Integer","","Recommended","Over the past 6 weeks, to the best of your knowledge, how many days per week on average did you exercise?","0::7","Number of days in the last week",""
 "paq02","Integer","","Recommended","When you did exercise, on average, how much time (in minutes per day) did you spend exercising?","0::1440","Number of minutes per day spent exercising",""
 "paq03","Integer","","Recommended","Using the Rating of Perceived Exertion (RPE) Scale, how hard were you working during an average exercise session?","6::20","6 = 6; 7 = Very, very light; 8 = 8; 9 = Very light; 10 = 10; 11 = Fairly light; 12 = 12; 13 = Somewhat hard; 14 = 14; 15 = Hard; 16 = 16; 17 = Very hard; 18 = 18; 19 = Very, very hard; 20 = 20",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

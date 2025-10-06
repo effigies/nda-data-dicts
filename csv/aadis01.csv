@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","aadis_c"
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","aadis_d"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","aadis_e"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","aadis_f"
 "aadis_1","Integer","","Recommended","How often do you use alcohol or other drugs (such as weed or rock)?","0::6;77;88;99","0 =  A. Never ; 1 =  B. Once or twice a year ; 2 =  C. Once or twice a month ; 3 =  D. Every weekend ; 4 =  E. Several times a week ; 5 =  F. Every day ; 6 =  G. Several times a day ; 77 =  Don't know ; 88 =  Refused ; 99 =  Missing data",""
 "aadis_2","Integer","","Recommended","When did you last use drugs or alcohol?","0::6;77;88;99","0 =  A. Never ; 1 =  B. Not for over a year ; 2 =  C. Between 6 months and 1 year ago ; 3 =  D. Several weeks ago ; 4 =  E. Last week ; 5 =  F. Yesterday ; 6 =  G. Today ; 77 =  Don't know ; 88 =  Refused ; 99 =  Missing data",""

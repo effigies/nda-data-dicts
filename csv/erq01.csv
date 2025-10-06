@@ -36,7 +36,7 @@
 "ceq4","Integer","","Recommended","By the end of the program, how much improvement in your positive emotions and social connections do you think will occur?","1::10","1=0%; 2=10%; 3=20%; 4=30%; 5=40%; 6=50%; 7=60%; 8=70%; 9=80%; 10=90%; 11=100%",""
 "ceqfeel1","Integer","","Recommended","At this point, how much do you really feel this treatment program will help you to improve your positive emotions and social connections?","1::9","1=1 Not at all; 2=2; 3=3; 4=4; 5=5 Somewhat; 6=6; 7=7; 8=8; 9=9 Very much",""
 "ceqfeel2","Integer","","Recommended","By the end of the program, how much improvement in your positive emotions and social connections do you really <i>feel</i> will occur?","1::10","1=0%; 2=10%; 3=20%; 4=30%; 5=40%; 6=50%; 7=60%; 8=70%; 9=80%; 10=90%; 11=100%",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","timepoint"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","timepoint"
 "sleepceq_2","Integer","","Recommended","How acceptable did you find the sleep coaching?","1::9; -9","1 = Not at all acceptable; 2 = 2; 3 = 3; 4 = 4; 5= Somewhat acceptable; 6= 6; 7= 7; 8= 8; 9= Very acceptable; -9 = Missing",""
 "ceq_3","Integer","","Recommended","How useful was this treatment in reducing your sleep symptoms?","1::9; -9","1 = Not at all useful; 2 = 2; 3 = 3; 4 = 4; 5= Somewhat useful; 6= 6; 7= 7; 8= 8; 9= Very useful; -9 = Missing",""
 "version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

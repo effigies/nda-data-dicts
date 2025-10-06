@@ -1,7 +1,7 @@
 "ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
 "subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
 "src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","","Subject_ID"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "age_in_days_dot_to_edc","Integer","","Recommended","Age in days obtained by subtracting the Expected Date of Confinement (EDC/Due Date) from the date of test","","","BSID_II_Behavior_Rating_Scale_Age_in_Days_DOT_to_EDC"
 "admin_status","String","20","Recommended","Instrument administration status","Complete;Partial;Not Administered;Not Applicable","","BSID_II_Behavior_Rating_Scale_Administration_Status"
 "bsid_ii_brs_age_group","String","20","Recommended","""Bayley Scales of Infant Development II Behavior Rating Scale: Age Group (1-5 Months, 6-12 Months, 13-43 Months)""","1-5 Months;6-12 Months;13-42 Months","","BSID_II_Behavior_Rating_Scale_Age_Group"

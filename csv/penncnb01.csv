@@ -463,5 +463,5 @@
 "cnb_ddisc_mrt","Float","","Recommended","DDISC Mean Reaction Time (ms)","","",""
 "cnb_pllt_pllttcr","Integer","","Recommended","PLLT The total number of correct responses overall all Blocks","","",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "cnb_device_used","Integer","","Recommended","What device was used to complete the cognitive battery?","1::4;-999::-997","1 = Laptop/Desktop; 2 = Tablet; 3 = Phone; 4 = Other device; -997 = Missing; -998 = Not collected at this time point; -999 = Not applicable",""

@@ -145,7 +145,7 @@
 "ippa_r_51","Integer","","Recommended","My friends get annoyed with me for no reason.","1::3;66;77;88;99","1 = Never true; 2 = Sometimes true; 3 = Always true; 66 = Not applicable; 77 = Do not know; 88 = Refused; 99 = Missing data",""
 "ippa_r_52","Integer","","Recommended","I tell my friends about my problems and troubles.","1::3;66;77;88;99","1 = Never true; 2 = Sometimes true; 3 = Always true; 66 = Not applicable; 77 = Do not know; 88 = Refused; 99 = Missing data",""
 "ippa_r_53","Integer","","Recommended","If my friends know that I am upset about something, they ask me about it.","1::3;66;77;88;99","1 = Never true; 2 = Sometimes true; 3 = Always true; 66 = Not applicable; 77 = Do not know; 88 = Refused; 99 = Missing data",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "ippa_5pt_q8","Integer","","Recommended","My parents can tell when I am upset about something.","1::5","1 = Almost Never or Never True; 2 = Not Very Often True; 3 = Sometimes True; 4 = Often True; 5 = Almost Always or Always True",""
 "ippa_5pt_q9","Integer","","Recommended","I feel silly or ashamed when I talk about my problems with my parents.","1::5","1 = Almost Never or Never True; 2 = Not Very Often True; 3 = Sometimes True; 4 = Often True; 5 = Almost Always or Always True",""
 "ippa_5pt_q10","Integer","","Recommended","My parents expect too much from me.","1::5","1 = Almost Never or Never True; 2 = Not Very Often True; 3 = Sometimes True; 4 = Often True; 5 = Almost Always or Always True",""

@@ -77,7 +77,7 @@
 "pals_dast5","Integer","","Recommended","Do you feel very bad or guilty about your drug use?","0::5","0= Never; 1= Yes= but NOT in the past year; 2= Yes= ONCE in the past year; 3= Yes= TWICE in the past year; 4= Yes= THREE times in the past year; 5= Yes FOUR OR MORE times in the past year",""
 "pals_dast6","Integer","","Recommended","Does your spouse (or parents) ever complain about your involvement with drugs?","0::5","0= Never; 1= Yes= but NOT in the past year; 2= Yes= ONCE in the past year; 3= Yes= TWICE in the past year; 4= Yes= THREE times in the past year; 5= Yes FOUR OR MORE times in the past year",""
 "pals_dast7","Integer","","Recommended","Have you neglected your family because of your use of drugs?","0::5","0= Never; 1= Yes= but NOT in the past year; 2= Yes= ONCE in the past year; 3= Yes= TWICE in the past year; 4= Yes= THREE times in the past year; 5= Yes FOUR OR MORE times in the past year",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "studyphase","Integer","","Recommended","Study Phase","1::6; -888; -999","1=Phase 1: Treatment as Usual(TAU); 2=Phase 2: Screening Only; 3=Phase 3: Intervention; 4=Focus Groups; 5=Open Trial; 6=Randomized Trial; -888=Not Applicable; -999=Missing;",""
 "treatmentgroup","String","30","Recommended","Treatment condition","","e.g., Control, Intervention, Experimental, Placebo",""
 "dast10_08","Integer","","Recommended","During the past 12 months...Have you engaged in illegal activities in order to obtain drugs?","0;1","0= No; 1= Yes",""

@@ -34,7 +34,7 @@
 "mspss_mtotal","Float","","Recommended","Global perceived social support mean score","","",""
 "mspss_mean","Float","","Recommended","Multidimensional Scale of Perceived Social Support - Overall Mean Score","","",""
 "condition_c","Integer","","Recommended","Patient Condition","0::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing","condition.c"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","assessment.c"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","assessment.c"
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
 "ref_child_id","String","50","Recommended","Referencing Child ID how it is defined in lab/project","","",""
 "mspss_who","String","100","Recommended","If you have a special person like this, please specify the relationship (e.g., mom or dad, sister or brother, friend, girlfriend or boyfriend, etc.):","","",""

@@ -169,7 +169,7 @@
 "covid19_sympres_intake","Date","","Recommended","What date did you notice that all of your symptoms fully resolved from your past COVID-19 illness? If your symptoms are still ongoing, please fill in 01/01/2000.","","",""
 "covid19_poscur_intake","Integer","","Recommended","Have you tested positive for COVID-19 recently or suspect you have COVID-19 currently?","0;1","0= No; 1= Yes",""
 "covid19_priorcur_intake","Integer","","Recommended","Have you filled out a questionnaire with us before about your current COVID-19 illness?","0::2","0= No; 1= Yes; 2= Unsure",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "covid19_suspcur_intake","Date","","Recommended","During your current COVID-19 illness, what date did you first suspect you might have COVID-19 (either due to symptoms manifesting or concerns about contact with a COVID-19 positive person)?","","",""
 "covid19_testcur_intake","Integer","","Recommended","Were you formally tested during your current COVID-19 illness?","0;1","0 = No; 1 = Yes",""
 "covid19_testdatec_intake","Date","","Recommended","During your current COVID-19 illness, what date did you test positive?","","",""

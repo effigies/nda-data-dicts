@@ -55,7 +55,7 @@
 "flowcell_batch","String","255","Recommended","Multiplex batch","","",""
 "inventory_code","String","50","Recommended","Paxgene RNA tube inventory code","","",""
 "chipwell_id","String","101","Recommended","Chipwell barcode","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "fetal_age","Integer","","Recommended","Age of the fetus (i.e., gestational age) in days","0::322","",""
 "fetal_age_type","Integer","","Recommended","Type of gestational age used for fetal_age","1;2","1 = Postovulatory gestational age, defined as days since the last ovulation, expected term of 266 days; 2 = Postmenstrual gestational age, days since the last menstrual period, expected term of 280 days",""
 "genotyping_chip_type","String","4000","Recommended","Chip type used for genotyping","","",""

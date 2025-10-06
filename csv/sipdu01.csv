@@ -20,7 +20,7 @@
 "sipdu14","Integer","","Recommended","My drug use has damaged my social life, popularity, or reputation","0::3","0= Never; 1= Once or a few times; 2= Once or twice a week; 3= Daily or almost daily","sipdu_14"
 "sipdu15","Integer","","Recommended","I have spent too much or lost a lot of money because of my drug use","0::3","0= Never; 1= Once or a few times; 2= Once or twice a week; 3= Daily or almost daily","sipdu_15"
 "sidpu_avg","Float","","Recommended","SIPDU Average Score","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","assessment.c"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","assessment.c"
 "suic01","Integer","","Recommended","Within the past week, have you seriously considered attempting suicide?","0;1","0= No; 1= Yes","suic_1,suic_1c"
 "sb1l","Integer","","Recommended","Suicidal Behavior. Actual Attempt","1;2; -9","1=Yes; 2=No; -9=incomplete","suic_2,suic_2c"
 "harmsr1","Integer","","Recommended","Non-suicidal self-harm (cutting, biting, or other means of affect regulation)","0;1","0 = No;1 = Yes","nssi"

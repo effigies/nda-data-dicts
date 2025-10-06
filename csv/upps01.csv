@@ -259,7 +259,7 @@
 "thinkcarefully_2wk","Integer","","Recommended","SUPPS-P: Think Carefully Before Do (2 wks)","0::4; -5; -7; -8","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Very Often; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "losecontrol_2wk","Integer","","Recommended","SUPPS-P: Lose Control When Great Mood (2 wks)","0::4; -5; -7; -8","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Very Often; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "actwithoutthinkexcited_2wk","Integer","","Recommended","SUPPS-P: Act Without Think When Excited (2 wks)","0::4; -5; -7; -8","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Very Often; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "supps_pos3","Integer","","Recommended","When I am in great mood, I tend to get into situations that could cause me problems.","1::5;-555","1= I disagree a lot; 2= I disagree a little; 3= I neither agree nor disagree; 4= I agree a little; 5= I agree a lot; -555= Prefer not to answer",""
 "supps_neg_raw","Integer","","Recommended","Short UPPS-P - Negative Urgency Subscore","4::20","Sum of items SUPPS-P 6, 8, 13, 15 (UPPS-P 14, 18, 24, 28)",""
 "supps_persev_raw","Integer","","Recommended","Short UPPS-P - Lack of Perseverance Subscore","4::20","Sum of items SUPPS-P 1,  4, 7, 11 (UPPS-P 4, 12, 16, 22)",""

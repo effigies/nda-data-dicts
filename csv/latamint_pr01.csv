@@ -11,5 +11,5 @@
 "gendersexpart","Integer","","Recommended","In the past 5 years, who have you had sex with? (We use the word 'sex' to mean any kind of sexual contact with another person, including sexual intercourse, oral sex, and non-penetrative sex.)","1::4","1 = Men only; 2 = Women only; 3 = Both men and women; 4 = I have not had sex",""
 "digs_marriage_status","Integer","","Recommended","What is your current marital status?","1::6;99","1= Married; 2= Separated; 3= Divorced; 4= Widowed; 5= Never Married; 6=Member of an unmarried couple; 99=Prefer not to answer","maritalstatus"
 "relatstaus","Integer","","Recommended","Which of the following best describes your current relationship situation?","1::4","1 = Living with someone in a marriage-like relationship or engaged to be married; 2 = Steadily dating one person, but not engaged; 3 = Dating one or more people, but not in a steady relationship; 4 = Not currently dating",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

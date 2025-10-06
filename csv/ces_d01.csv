@@ -81,7 +81,7 @@
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
 "cesd_diagnosis","Integer","","Recommended","CES-D Clinical Cutoff met?","0;1","0 = Does not meet cut off; 1 = meets cut-off",""
 "condition_c","Integer","","Recommended","Patient Condition","0::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing","condition.c,treatment"
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime","assessment.c,time_point"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","assessment.c,time_point"
 "ref_child_id","String","50","Recommended","Referencing Child ID how it is defined in lab/project","","",""
 "cesd_not_happy","Integer","","Recommended","Nothing made me happy. (Average week past 2 months)","0::3;999","0 = Rarely/none of the time (<1 day); 1 = Some of the time (1-2 days); 2 = Much of the time (3-4 days); 3 = Most or all of the time (5-7 days); blank = Missing form/Incomplete workbook / Not expected / Missing / Refused / Do not know/unknown/Uncertain; 999= NA/NK/missing",""
 "cesd_bad","Integer","","Recommended","I felt like a bad person. (Average week past 2 months)","0::3;999","0 = Rarely/none of the time (<1 day); 1 = Some of the time (1-2 days); 2 = Much of the time (3-4 days); 3 = Most or all of the time (5-7 days); blank = Missing form/Incomplete workbook / Not expected / Missing / Refused / Do not know/unknown/Uncertain; 999= NA/NK/missing",""

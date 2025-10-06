@@ -81,7 +81,7 @@
 "tfeq21_19","Integer","","Recommended","Do you go on eating binges even though you're not hungry?","1::4","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = At least once a week",""
 "tfeq21_20","Integer","","Recommended","How often do you feel hungry?","1::4","1 = Only at mealtimes; 2 = Sometimes between meals; 3 = Often between meals; 4 = Almost always",""
 "tfeq21_21","Integer","","Recommended","On a scale from 1 to 8 where 1 means no restraint in eating and 8 means total restraint, what number would you give yourself?","1::8","1 = No restraint in eating (eating whatever you want, whenever you want it); 8 = Total restraint (constantly limiting food intake and never 'giving in')",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "intero_aware01","Integer","","Recommended","I can tell the difference between hunger and food craving","1 :: 5","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Always",""
 "intero_aware02","Integer","","Recommended","I crave food when I feel bored, angry or sad","1 :: 5","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Always",""
 "intero_aware03","Integer","","Recommended","If I see an appetizing food, it?s hard for me to resist the temptation to eat","1 :: 5","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Always",""

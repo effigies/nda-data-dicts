@@ -31,7 +31,7 @@
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "mdq06_02","Integer","","Recommended","During the two-week period in your life when these feelings were the worst: Did you experience a change in your appetite?","1::4;-9","1= No changes in appetite; 2= Increased appetite; 3= Decreased appetite; 4 = Experienced both increased and decreased appetite during the same depression episode; -9 = Do Not know/ Prefer not to answer","mdd_a3app"
 "mdq06_03","Integer","","Recommended","During the two-week period in your life when these feelings were the worst: Did your sleep change? (Do not include sleep change as a side-effect of medication you were taking.) Trouble falling asleep (sleeping too little)","0;1","0= Unchecked; 1= Checked ","mdd_a4_1"
 "mdq06_04","Integer","","Recommended","During the two-week period in your life when these feelings were the worst: Did your sleep change? (Do not include sleep change as a side-effect of medication you were taking.) Waking up too early (sleeping too little)","0;1","0= Unchecked; 1= Checked ","mdd_a4_2"

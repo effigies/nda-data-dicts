@@ -51,7 +51,7 @@
 "a1d45","Integer","","Recommended","EDNOS","1::3","Positive Diagnosis = 3; Intermediate Diagnosis = 2; Negative Diagnosis = 1",""
 "a1d46","Integer","","Recommended","Mood Disorder","0;1","Positive Mood Disorder DX = 1; Negative Mood Disorder DX = 0",""
 "a1d47","Integer","","Recommended","Anxiety Disorder","0;1","Positive Mood Disorder DX = 1; Negative Mood Disorder DX = 0",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "a1d1_hypomanic_past","Integer","","Recommended","Hypomanic Episode Past","0::3; 999","1=Negative Diagnosis; 2=Intermediate Diagnosis; 3=Positive Diagnosis; 0=Inadequate Information; 999=Missing",""
 "a1d1_hypomanic_symptoms_c","Integer","","Recommended","Hypomanic Symptoms Current","0 :: 3","0= Inadequate Information; 1= Negative Diagnosis; 2= Intermediate Diagnosis; 3= Positive Diagnosis",""
 "a1d1_hypomanic_symptoms_p","Integer","","Recommended","Hypomanic Symptoms Past","0 :: 3","0= Inadequate Information; 1= Negative Diagnosis; 2= Intermediate Diagnosis; 3= Positive Diagnosis",""

@@ -9,4 +9,4 @@
 "brcs_3","Integer","","Recommended","I believe I can grow in positive ways by dealing with difficult situations","1 :: 5","1= Does Not Describe Me At All; 2= Does Not Describe Me; 3= Neutral; 4= Describes Me; 5= Describes Me Very Well",""
 "brcs_4","Integer","","Recommended","I actively look for ways to replace the losses I encounter in life.","1 :: 5","1= Does Not Describe Me At All; 2= Does Not Describe Me; 3= Neutral; 4= Describes Me; 5= Describes Me Very Well",""
 "bcrs_total_score","Integer","","Recommended","Total score summed according to scoring key.","4 :: 20","Sum of All BRCS Items",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

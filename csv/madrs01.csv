@@ -37,7 +37,7 @@
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","madrs_comments"
 "dode","String","10","Recommended","Date of Data Entry","","","madrs_entered"
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "question_visit","Integer","","Recommended","Was the questionnaire administered during this visit?","0;1","0 = No; 1 = Yes",""
 "cprs_abrv18","Integer","","Recommended","Autonomic disturbances (symptoms observed)","0::6;-7; -9999","0=No observed autonomic disturbances; 2=Occasional or slight autonomic disturbances such as blushing or blanching, or sweating under stress; 4=Obvious autonomic disturbance on several occasions even when not under stress; 6=Autonomic disturbances which disrupt the interview; -7=Refused; -9999=NK/NA/Missing",""
 "total_bsa_score","Integer","","Recommended","Brief Anxiety Scale Total Score","","",""

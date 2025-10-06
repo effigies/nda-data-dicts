@@ -180,6 +180,6 @@
 "nih_dccs_med","Float","","Recommended","Dimensional Change Card Sort Test (DCCS) - Median Response time per item","","",""
 "nih_dccs_commerr","Integer","","Recommended","Dimensional Change Card Sort Test (DCCS) - Commission errors","","",""
 "nih_dccs_omerr","Integer","","Recommended","Dimensional Change Card Sort Test (DCCS) - Omission errors","","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "nih_dccs_agess_se","Float","","Recommended","Age-Adjusted Standard Score SE","","",""
 "nih_dccs_ageedu_ts","Float","","Recommended","Age- and Education- Adjusted T-Score","","",""

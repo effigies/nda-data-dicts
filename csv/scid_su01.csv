@@ -481,7 +481,7 @@ Drugs like LSD, acid, peyote, mescaline, psilocybin, ecstacy, MDMA or molly, bat
 "hxsud_etho_onset","Integer","","Recommended","Substance Use Disorders,?Lifetime - Approx. Age of Onset (Years) - Alcohol","1 :: 100","",""
 "hxsud_thc_onset","Integer","","Recommended","Substance Use Disorders,?Lifetime - Approx. Age of Onset (Years) - Cannabis","1 :: 100","",""
 "hxsud_lsd_onset","Integer","","Recommended","Substance Use Disorders,?Lifetime - Approx. Age of Onset (Years) - Hallucinogens","1 :: 100","",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "alks1pb","Integer","","Recommended","Ingestion of alcohol regularly (Past Best)","0::3; 9","0=No Alcohol Use; 1=Experimented with Alcohol; 2=Infrequent/Irregular Drinking; 3=Frequent/chronic use or multiple acute episodes of excessive drinking;  9=No information",""
 "drogs1cp","Integer","","Recommended","Substance/Drug Use (Current Parent)","0::3; 9","0=No drug use; 1=Experimented with drug(s)/used a few times; 2=Infrequent/irregular use, no significant effect on functioning; 3=Frequent/regular use of drugs, adverse effects on functioning; 9=No information",""
 "drogs1cc","Integer","","Recommended","Substance/Drug Use (Current Child)","0::3; 9","0=No drug use; 1=Experimented with drug(s)/used a few times; 2=Infrequent/irregular use, no significant effect on functioning; 3=Frequent/regular use of drugs, adverse effects on functioning; 9=No information",""
