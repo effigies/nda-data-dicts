@@ -317,7 +317,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "arrow90","Integer","","Recommended","Is this child currently taking any medications?  ","0;1","0 = No; 1 = Yes",""
 "arrow91","String","1000","Recommended","If YES, child is currently taking any medications please provide further details.","","",""
 "sciddv_workhistory","String","4000","Recommended","Overview: Work History Describe","","",""
-"sciddv_onp6","Integer","","Recommended","Overview: Current Employment Employment Status","1::8","1= Full-time job; 2= Part-time job; 3= Keeping house or care giving full-time; 4= In school/training; 5= Retired; 6= Unemployed, looking for work; 7= Unemployed, not looking for work; 8= Disabled ",""
+"sciddv_onp6","Integer","","Recommended","Overview: Current Employment Employment Status","1::8;98;999","1= Full-time job; 2= Part-time job; 3= Keeping house or care giving full-time; 4= In school/training; 5= Retired; 6= Unemployed, looking for work; 7= Unemployed, not looking for work; 8= Disabled; 98= Prefer not to say; 999= Other (specify)",""
 "sciddv_employmentdesc","String","4000","Recommended","Overview: Current Employment Describe","","",""
 "sciddv_legalhistory","String","4000","Recommended","Overview: Legal History Describe","","",""
 "sciddv_psychopathology","String","4000","Recommended","Overview: Psychopathology Describe","","",""

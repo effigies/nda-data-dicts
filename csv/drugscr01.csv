@@ -207,3 +207,4 @@
 "macipds_17","Integer","","Recommended","Positive for fentanyl?","0::4; 9; -999","0=No; 1=Yes; 2=Unclear or Equivocal; 3=Results not valid; 4=Not assessed; 9= Did not perform; -999=Do not Know/ Missing Data",""
 "macipds_18","Integer","","Recommended","Positive for trazadone?","0::4; 9; -999","0=No; 1=Yes; 2=Unclear or Equivocal; 3=Results not valid; 4=Not assessed; 9= Did not perform; -999=Do not Know/ Missing Data",""
 "macipds_19","Integer","","Recommended","Positive for ethylglucuronide (EtG)?","0::4; 9; -999","0=No; 1=Yes; 2=Unclear or Equivocal; 3=Results not valid; 4=Not assessed; 9= Did not perform; -999=Do not Know/ Missing Data",""
+"ribolevel","Integer","","Recommended","Riboflavin","1::3","1=Yes; 2=No; 3=Unsure",""

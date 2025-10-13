@@ -140,3 +140,7 @@
 "suvorexant_dose","Integer","","Recommended","Level of suvorexant dose","0;10;20","0= 0mg; 10= 10mg; 20= 20mg",""
 "acute_subchronic","Integer","","Recommended","Session following acute or subchronic suvorexant dosing","1;2","1= Acute; 2= Subchronic",""
 "exp_time","Float","","Recommended","Number of hours spent in the experimental session from pre-alcohol consumption to post-alcohol consumption from 0 to 3.25 hours","0::3.25; -1","Number of hours in 0.25 intervals; -1= Baseline",""
+"troriluzole_dose","Integer","","Recommended","Level of troriluzole dose","0::2","0 = 0mg/day; 1 = 140 mg/day; 2 = 280 mg/day",""
+"meth_dose","Integer","","Recommended","Level of intravenous methamphetamine dose","0;15;30","0 = 0 mg; 15 = 15 mg; 30 = 30mg",""
+"comorbid_condition","Integer","","Recommended","Does the patient have MUD (Methamphetamine Use Disorder) alone, or comorbid Methamphetamine Use Disorder (MUD) and Opioid Use Disorder (OUD)?","0;1","0 = Methamphetamine Use Disorder only; 1 = Comorbid methamphetamine and opioid use disorder",""
+"exp_time_meth","Float","","Recommended","Methamphetamine administration time from baseline measured in hours","-1;0::3.5","-1= Baseline; 0= At administration; 0.25= 15 minutes after administration; 0.5 = 30 minutes after administration; 1 = 1 hour after administration; 2 = 2 hours after administration; 3 = 3 hours after administration; 3.5= 3.5 hours after administration",""

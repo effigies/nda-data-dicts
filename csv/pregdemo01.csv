@@ -132,3 +132,6 @@
 "gestation","Integer","","Recommended","About how far along are you?","1::6","1 = 8-10 weeks; 2 = 11-12 weeks; 3 = 13-14 weeks; 4 = 15-16 weeks; 5 = 17-18 weeks; 6 = 19-20 weeks",""
 "meau_01b","Date","","Recommended","When was the first day of your last menstrual period?","","",""
 "scr_educ_max","Integer","","Recommended","Please check the highest level of education you have completed","1::7","1 = Less than 7th grade; 2 = Junior high/Middle school (9th grade); 3 - Partial high school (10th or 11th grade); 4 = High school graduate; 5 = Partial college (at least one year); 6 = College education; 7 = Graduate or Professional degree",""
+"demo_12_ins","Integer","","Recommended","Do you currently have health insurance?","0::3","0 = No; 1 = Yes, through my employer; 2 = Yes, through my partner's employer; 3 = Yes, from the government",""
+"demo_18_ass","Integer","","Recommended","In the past year, have you received any money through a government food assistance program other than WIC, such as SNAP (Supplemental Nutrition Assistance Program) formerly known as the Food Stamp Program?","0;1","0 = No; 1 = Yes",""
+"demo_9_work","Integer","","Recommended","Are you doing any work for pay at the present time, including self-employment?","0;1","0 = No; 1 = Yes",""

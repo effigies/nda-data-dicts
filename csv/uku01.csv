@@ -144,3 +144,6 @@
 "days_baseline","Integer","","Recommended","Days since baseline","","",""
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
 "me2","Integer","","Recommended","Status","0;1","0 = Past [Inactive]; 1 = Active",""
+"troriluzole_dose","Integer","","Recommended","Level of troriluzole dose","0::2","0 = 0mg/day; 1 = 140 mg/day; 2 = 280 mg/day",""
+"meth_dose","Integer","","Recommended","Level of intravenous methamphetamine dose","0;15;30","0 = 0 mg; 15 = 15 mg; 30 = 30mg",""
+"comorbid_condition","Integer","","Recommended","Does the patient have MUD (Methamphetamine Use Disorder) alone, or comorbid Methamphetamine Use Disorder (MUD) and Opioid Use Disorder (OUD)?","0;1","0 = Methamphetamine Use Disorder only; 1 = Comorbid methamphetamine and opioid use disorder",""

@@ -812,3 +812,5 @@
 "si5p4","Integer","","Recommended","Suicidal Ideation - Past 4 Months - Active Suicidal Ideation with Specific Plan and Intent","0;1","0=No; 1=Yes",""
 "sidfrqp4","Integer","","Recommended","Intensity of Ideation - Past 4 Months - Screening Ideation Frequency","1::5; -888","1 = Less than once a week; 2 = Once a week; 3 = 2-5 times in week; 4 = Daily or almost daily; 5 = Many times each day; -888=NA",""
 "siddurp4","Integer","","Recommended","Intensity of Ideation - Past 4 Months - Screening Ideation Duration","1::5; -888","1 = Fleeting - few seconds or minutes; 2 = Less than 1 hour/some of the time; 3 = 1-4 hours/a lot of time; 4 = 4-8 hours/most of day; 5 = More than 8 hours/persistent or continuous; -888=NA",""
+"cssrs_1mo_20","Integer","","Recommended","In the past month, has there been a time when you started to do something to end your life but someone or something stopped you before you actually did anything?","0;1","0 = No; 1 = Yes",""
+"cssrs_1mo_23","Integer","","Recommended","In the past month, has there been a time when you started to do something to end your life but you stopped yourself before you actually did anything?","0;1","0 = No; 1 = Yes",""

@@ -26,3 +26,4 @@
 "ema_studyday","Integer","","Recommended","Day of the EMA collection","1::14","",""
 "emadatetime","String","20","Recommended","Date and time of EMA collection","","",""
 "ema_weekday","Integer","","Recommended","Day of the week for the EMA collection","1::7","1= Sunday; 2= Monday; 3= Tuesday; 4= Wednesday; 5= Thursday; 6= Friday; 7= Saturday",""
+"wdsweating","Integer","","Recommended","How much have you experienced sweating during the past 24 hours?","1::5","1 = Not at all; 2 = Light; 3 = Moderate; 4 = Significant; 5 = Extreme",""

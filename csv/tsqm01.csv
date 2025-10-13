@@ -62,3 +62,6 @@
 "tss_3c","Integer","","Recommended","Did any of the following bother you about the insomnia clinicians? Reacted defensively to any criticism or questions","0;1","0=No; 1=Yes",""
 "tss_4","Integer","","Recommended","How would you rate the competency of the insomnia clinicians?","1::6","1=Excellent; 2=Very Good; 3=Good; 4=Fair; 5=Poor; 6=Very Poor",""
 "tss_5a","Integer","","Recommended","How much do you feel your insomnia treatment program has helped you in the following areas? My insomnia that led me to treatment","1::6","1=Made things a lot better; 2=Made things somewhat better; 3=Made no difference; 4=Made things somewhat worse; 5=Made things a lot worse; 6=Not sure",""
+"cbt_i_side_effects_1","Integer","","Recommended","Have you experienced any negative effects from the digital treatment you received for insomnia/sleeping difficulties?","0;1","0=No; 1=Yes",""
+"cbt_i_side_effects_2","String","1000","Recommended","If you experienced any negative effects from the digital treatment you received for insomnia/sleeping difficulties, please describe:","","",""
+"cbt_i_side_effects_3","String","1000","Recommended","What reasons do you have for believing that these negative effects are related to the digital treatment program you received?","","",""
