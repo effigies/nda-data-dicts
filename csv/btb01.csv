@@ -7,7 +7,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","tpid"
 "session_id","String","20","Recommended","session ID/screening ID","","",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","random_group"
-"sldc228","Integer","","Recommended","Suicidal Behavior: Ideation","0::2","No information=0, No=1, Yes=2","suicide"
+"sldc228","Integer","","Recommended","Suicidal Behavior: Ideation","0::2;-9999","0= No information;1= No;2= Yes; -9999= Missing","suicide"
 "btb1","Integer","","Recommended","how serious is suicide ideation","0::8","0=Not Serious At All; 8=Most Serious",""
 "btb2","Integer","","Recommended","level of anxiety","0::8","0=Not Anxious At All; 8=Most Anxious","anx"
 "btb3","Integer","","Recommended","level of depression","0::8","0=Not Depression At All; 8=Most Depression","dep"

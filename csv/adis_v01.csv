@@ -255,3 +255,4 @@
 "yad1y_alt","Integer","","Recommended","Attention Deficit Hyperactivity Disorder- Inattentive Type Diagnosis","0;1","0 = Does NOT meet DSM-5 criteria; 1 = Meets full criteria for DSM-5 ",""
 "yad2y_alt","Integer","","Recommended","Attention Deficit Hyperactivity Disorder- Hyperactive Type Diagnosis","0;1","0 = Does NOT meet DSM-5 criteria; 1 = Meets full criteria for DSM-5 ",""
 "p57i7_alt","Integer","","Recommended","Sleep Terror Disorder Diagnosis","0;1","0 = Does NOT meet DSM-5 criteria; 1 = Meets full criteria for DSM-5 ",""
+"txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""

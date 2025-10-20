@@ -24,7 +24,7 @@
 "dusi_18","Integer","","Recommended","Do you tease or do harmful things to animals?","0;1","0 = No; 1 = Yes",""
 "dusi_19","Integer","","Recommended","Do you yell a lot?","0;1","0 = No; 1 = Yes","dusi_r20,dusid20"
 "dusi_20","Integer","","Recommended","Are you stubborn?","0;1","0 = No; 1 = Yes",""
-"prodq18tf","Integer","","Recommended","Do you find yourself feeling mistrustful or suspicious of other people?","0; 1","0= No; 1= Yes",""
+"prodq18tf","Integer","","Recommended","Do you find yourself feeling mistrustful or suspicious of other people?","0;1;-9","0= No; 1= Yes; -9= Missing",""
 "dusi_22","Integer","","Recommended","Do you swear or use dirty language a lot?","0;1","0 = No; 1 = Yes",""
 "dusi_23","Integer","","Recommended","Do you tease others a lot?","0;1","0 = No; 1 = Yes",""
 "npii01","Integer","","Recommended","Does subject have a bad temper, flying off the handle easily over little things?","0;1","0=No; 1=Yes",""

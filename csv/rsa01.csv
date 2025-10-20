@@ -141,3 +141,7 @@
 "prrsa9","Float","","Recommended","30 seconds of Respiratory Sinus Arrhythmia (RSA) during speech preparation task of Trier Social Stress Test; 4:00-4:30 (minutes:seconds) of task.","","",""
 "prrsa10","Float","","Recommended","30 seconds of Respiratory Sinus Arrhythmia (RSA) during speech preparation task of Trier Social Stress Test; 4:30-5:00 (minutes:seconds) of task.","","",""
 "rrsa21","Float","","Recommended","30 seconds of Respiratory Sinus Arrhythmia (RSA) during recovery task; 10:00-10:30 (minutes:seconds) of task.","0 :: 20","Measured in change in beats per minute (BPM)",""
+"icrsa1","Float","","Recommended","30 seconds of Respiratory Sinus Arrhythmia (RSA) during infant cry stimulation task; 0:00-0:30 (minutes:seconds) of task.","0::20","Measured in change in beats per minute (BPM)",""
+"icrsa2","Float","","Recommended","30 seconds of Respiratory Sinus Arrhythmia (RSA) during infant cry stimulation task; 0:30-1:00 (minutes:seconds) of task.","0::20","Measured in change in beats per minute (BPM)",""
+"icrsa3","Float","","Recommended","30 seconds of Respiratory Sinus Arrhythmia (RSA) during infant cry stimulation task; 1:00-1:30 (minutes:seconds) of task.","0::20","Measured in change in beats per minute (BPM)",""
+"icrsa4","Float","","Recommended","30 seconds of Respiratory Sinus Arrhythmia (RSA) during infant cry stimulation task; 1:30-2:00 (minutes:seconds) of task.","0::20","Measured in change in beats per minute (BPM)",""

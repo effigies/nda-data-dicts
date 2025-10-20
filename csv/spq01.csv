@@ -20,7 +20,7 @@
 "q04_shadows_people","Integer","","Recommended","""4. Have you often mistaken objects or shadows for people, or noises for voices? ""","0;1","0 = No; 1= Yes","spq_04,spq_4"
 "q05_eccentric","Integer","","Recommended","5. Other people see me as slightly eccentric (odd).","0;1","0 = No; 1= Yes","spq_05,spq_5"
 "q06_know_others","Integer","","Recommended","6. I have little interest in getting to know other people.","0;1","0 = No; 1= Yes","spq_06,spq_6"
-"q07_hard_to_understand","Integer","","Recommended","7. People sometimes find it hard to understand what I am saying.","0;1","0 = No; 1= Yes","spq_07,spq_7"
+"q07_hard_to_understand","Integer","","Recommended","7. People sometimes find it hard to understand what I am saying.","0;1;-9","0= No; 1= Yes; -9= Missing","spq_07,spq_7"
 "q08_aloof","Integer","","Recommended","8. People sometimes find me aloof and distant.","0;1","0 = No; 1= Yes","spq_08,spq_8,spqb_q1_aloof"
 "q09_talked_about","Integer","","Recommended","9. I am sure I am being talked about behind my back.","0;1","0 = No; 1= Yes","spq_09,spq_9"
 "q10_noticed","Integer","","Recommended","10. I am aware that people notice me when I go out for a meal or to see a film.","0;1","0 = No; 1= Yes","spq_10"
