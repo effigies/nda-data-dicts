@@ -21,3 +21,7 @@
 "psg_time_n3_sleep","Float","","Recommended","Time spent in sleep stage N3, in seconds","0::30000","In seconds",""
 "psg_time_rem_sleep","Float","","Recommended","Time spent in REM sleep, in seconds","0::30000","In seconds",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
+"visitnum","Integer","","Recommended","Visit number","","",""
+"sleep_stage","String","20","Recommended","Stage of sleep the participant is currently in during the PSG recording","","NREM = Non-Rapid Eye Movement",""
+"chan","String","20","Recommended","The channel delta waves (0.5 - 4 Hertz) are detected in","","Cz = Midline Central; Fz = Midline Frontal",""
+"bp_delta","Float","","Recommended","Delta band power (power or amplitude of brain activity within the delta frequency range)","","Typically 0.5 to 4 Hertz (Hz)",""

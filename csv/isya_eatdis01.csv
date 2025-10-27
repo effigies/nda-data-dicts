@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "ba5_weight_kg","Float","","Recommended","How much do you weigh?","","Weight in kg; -99=Missing","ed1"
-"a_15","Integer","","Recommended","What is your current height?","","In cm","ed2"
+"a_15","Float","","Recommended","What is your current height?","","In cm","ed2"
 "ed3_age","Integer","","Recommended","Age (months) at Menarche","0::999","Age in Months; 0=Does Not Apply; 999=No Information",""
 "anoriacp","Integer","","Recommended","Refusal to maintain body weight (Current Parent)","0;1;3;9","0=Does Not Apply; 1=No; 3=Yes; 9=No Information",""
 "anoriapp","Integer","","Recommended","Refusal to maintain body weight (Past Parent)","0;1;3;9","0=Does Not Apply; 1=No; 3=Yes; 9=No Information",""

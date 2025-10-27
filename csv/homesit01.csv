@@ -31,3 +31,7 @@
 "sitprobs","Integer","","Recommended","Number of problem settings","","Number of items 1-14 where score is 1 to 9",""
 "sittotx","Float","","Recommended","Home situations mean score","","Includes All Items: 1-14",""
 "sittott","Float","","Recommended","Home situations total score","","Includes All Items: 1-14",""
+"sit15","Integer","","Recommended","Does this child have problems paying attention or concentrating when washing and bathing?","0::9","0=No problem; 1=Mild; 9=Severe",""
+"sit16","Integer","","Recommended","Does this child have problems paying attention or concentrating while you are on the telephone?","0::9","0=No problem; 1=Mild; 9=Severe",""
+"sit17","Integer","","Recommended","Does this child have problems paying attention or concentrating at bedtime?","0::9","0=No problem; 1=Mild; 9=Severe",""
+"sit18","Integer","","Recommended","Does this child have problems paying attention or concentrating when with a babysitter?","0::9","0=No problem; 1=Mild; 9=Severe",""

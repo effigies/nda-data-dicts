@@ -142,3 +142,5 @@
 "cshq7","Integer","","Recommended","Child needs parent in the room to fall asleep","0::4","0=Never (0); 1=Rarely (1); 2=Sometimes (2-4); 3=Usually (5-6); 4=Always (7)",""
 "fallasleepalone_alt","Integer","","Recommended","Child falls asleep alone in own bed","0::4","0=Never (0); 1=Rarely (1); 2=Sometimes (2-4); 3=Usually (5-6); 4=Always (7)",""
 "cshq_18","String","100","Recommended","Write in the time child usually wakes up in the morning (e.g. Weekdays __:__ am/pm / Weekends __:__ am/pm)","","In Hours and minutes",""
+"csh_sleep_tv","Integer","","Recommended","During the past week, you child has appeared very sleepy or fallen asleep while watching TV.","1::3","1=Not sleepy; 2=Very sleepy; 3=Falls asleep",""
+"csh_sleep_car","Integer","","Recommended","During the past week, you child has appeared very sleepy or fallen asleep while riding in the car.","1::3","1=Not sleepy; 2=Very sleepy; 3=Falls asleep",""

@@ -47,7 +47,7 @@
 "a_11","Integer","","Recommended","Are you currently pregnant?","1;2","1 = Pregnant; 2 = Post-partum","a11"
 "a_12","Integer","","Recommended","How many weeks pregnant are you?","","","a12"
 "a_14","Float","","Recommended","What is your current weight?","","In kg","a14"
-"a_15","Integer","","Recommended","What is your current height?","","In cm","a15"
+"a_15","Float","","Recommended","What is your current height?","","In cm","a15"
 "a__13","String","100","Recommended","How old is your baby?","","Week/months","a13"
 "a__10","Integer","","Recommended","How many people do you support with your income?","","","a10"
 "a_2","Integer","","Recommended","What language do you speak at home?","1::12","1=English; 2=Afrikaans; 3=IsiXhosa; 4=IsiZulu; 5=SeSotho; 6=SeTswana; 7=SePedi; 8=SiSwati; 9=TshiVenda; 10=Zitsonga; 11=IsiNdebele; 12=Other","a2"

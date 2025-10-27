@@ -66,3 +66,4 @@
 "promis_physical_6b","Integer","","Recommended","PROMIS Physical Function 6B: Raw Score","0::30","",""
 "promis_t_physical_4a","Float","","Recommended","PROMIS Physical Function 4A: T-Score","0::80","",""
 "promis_t_physical_6b","Float","","Recommended","PROMIS Physical Function 6B: T-Score","0::80","",""
+"promis_pi_tscore","Float","","Recommended","PROMIS Pain Interference T-score","","",""

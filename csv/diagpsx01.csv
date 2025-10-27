@@ -101,7 +101,7 @@
 "sidisorg","Integer","","Recommended","Has difficulty organizing tasks and activities","0::3","0=Not at all; 1=Just a little; 2=Pretty much; 3=Very much","snt5"
 "sidstrct","Integer","","Recommended","Is easily distracted by extraneous stimuli","0::3","0=Not at all; 1=Just a little; 2=Pretty much; 3=Very much","snt8"
 "siconcen","Integer","","Recommended","Avoids, or has difficulties engaging in tasks requiring sustained mental effort","0::3","0=Not at all; 1=Just a little; 2=Pretty much; 3=Very much","snt2"
-"silisten","Integer","","Recommended","Does not seem to listen to what is being said to him or her","0::3","0=Not at all; 1=Just a little; 2=Pretty much; 3=Very much","snt3"
+"silisten","Integer","","Recommended","Does not seem to listen to what is being said to him or her","0::3;-999","0=Not at all; 1=Just a little; 2=Pretty much; 3=Very much; -999 = Missing","snt3"
 "siremind","Integer","","Recommended","Does not follow through on instructions and fails to finish work","0::3; 8;9","0=Not at all; 1=Just a little; 2=Pretty much; 3=Very much;8 = Not Applicable; 9 = Missing","snt4"
 "siloses","Integer","","Recommended","Loses things necessary for tasks or activities","0::3","0=Not at all; 1=Just a little; 2=Pretty much; 3=Very much","snt7"
 "siforget","Integer","","Recommended","Is forgetful in daily activities","0::3","0=Not at all; 1=Just a little; 2=Pretty much; 3=Very much","snt9"

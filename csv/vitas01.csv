@@ -53,7 +53,7 @@
 "chrchs_covidinf","Integer","","Recommended","Have you ever been suspected of having COVID-19?","0::3;-900;-300","0 = No symptoms or signs; 1 = Maybe - had possible symptoms, but no diagnosis and no test; 2 = Maybe - received a medical diagnosis but no test; 3 = Yes - had a positive test; -900 = Missing; -300 = N/A",""
 "chrchs_covidinfdays","Integer","","Recommended","If yes, when you were sick with COVID-19 (diagnosed or suspected), approximately how many days were you sick?","","",""
 "ampscz_missing","Integer","","Recommended","Please click if this form is missing all of its data","0;1","0 = Not clicked; 1 = Clicked","chrchs_missing"
-"covidim_29","Integer","","Recommended","Have you been hospitalized for COVID-19?","0;1;-900;-300","0 = No; 1 = Yes; -900 = Missing; -300 = N/A","chrchs_covidinfhosp"
+"covidim_29","Integer","","Recommended","Have you been hospitalized for COVID-19?","0;1;-900;-300;999","0 = No; 1 = Yes; -900 = Missing; -300 = N/A; 999 = Refused to answer","chrchs_covidinfhosp"
 "chrchs_covidinfhospdays","Integer","","Recommended","If you have been hospitalized because of COVID-19, how many days were you hospitalized?","","",""
 "chrchs_covidvac","Integer","","Recommended","Have you received a COVID-19 vaccine?","0::5;99;-900;-300","0 = No; 1 = Yes, Pfizer-BioNTech vaccine; 2 = Yes, Moderna vaccine; 3 = Yes, Johnson & Johnson vaccine; 4 = Yes, AstraZeneca vaccine; 5 = Yes, Novavax vaccine; 99 = Yes, other or unknown type of COVID-19 vaccine; -900 = Missing; -300 = N/A",""
 "chrchs_covidvac_other","String","100","Recommended","Please provide more information about the other or unknown type of COVID-19 vaccine.","","",""

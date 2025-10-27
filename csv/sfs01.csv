@@ -144,7 +144,7 @@
 "bsfs_sec7_y_total_7a","Integer","","Recommended","Total if employed","7::10; 999","999=NA/missing",""
 "bsfs_sec7_n_total_7b","Integer","","Recommended","Total if unemployed","","","bsfs_oe_utotal"
 "scid_np110_3","String","100","Recommended","Lives where; With Whom","","","where_do_you_live"
-"what_type_of_home_is_that","Integer","","Recommended","What type of home do you live in?","1::5","1= House; 2=Apartment; 3=Condo; 4=Assisted Living; 5=Other",""
+"what_type_of_home_is_that","Integer","","Recommended","What type of home do you live in?","1::10","1= House; 2= Apartment; 3= Condo; 4= Assisted Living; 5= Other; 6= Duplex/two-family house; 7= Townhome; 8= Dorm/Dormitory; 9= Mobile home; 10= Shelter",""
 "home_details","String","255","Recommended","Additional details about home","","","other_home"
 "livewith_details","String","255","Recommended","List who lives at home and counts","","","sfs_wholivewith,who_do_you_live_with"
 "who_else_is_in_the_househo","String","100","Recommended","Who else is in the household (i.e. pets)?","","",""

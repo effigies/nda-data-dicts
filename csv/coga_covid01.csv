@@ -13,7 +13,7 @@
 "cov4_1","Integer","","Recommended","Has anyone in your family been diagnosed with Coronavirus/COVID-19? Member of my household","0;1;-8","0=No; 1=Yes; -8= Missing",""
 "cov4_2","Integer","","Recommended","Has anyone in your family been diagnosed with Coronavirus/COVID-19? Non-household family member","0;1;-8","0=No; 1=Yes; -8= Missing",""
 "cov5_1","Integer","","Recommended","Have any of the following happened to your family members because of Coronavirus/COVID-19? Fallen ill physically","0;1;-8","0=No; 1=Yes; -8= Missing",""
-"cov5_2","Integer","","Recommended","Have any of the following happened to your family members because of Coronavirus/COVID-19? Hospitalized","0;1;-8","0=No; 1=Yes; -8= Missing",""
+"cov5_2","Integer","","Recommended","Have any of the following happened to your family members because of Coronavirus/COVID-19? Hospitalized","0;1;-8;999","0=No; 1=Yes; -8= Missing; 999=Refused to answer",""
 "cov5_3","Integer","","Recommended","Have any of the following happened to your family members because of Coronavirus/COVID-19? Put into self-quarantine with symptoms","0;1;-8","0=No; 1=Yes; -8= Missing",""
 "cov5_4","Integer","","Recommended","Have any of the following happened to your family members because of Coronavirus/COVID-19? Put into self-quarantine without symptoms (for example, due to possible exposure)","0;1;-8","0=No; 1=Yes; -8= Missing",""
 "cov5_5","Integer","","Recommended","Have any of the following happened to your family members because of Coronavirus/COVID-19? Lost or been laid off from job","0;1;-8","0=No; 1=Yes; -8= Missing",""

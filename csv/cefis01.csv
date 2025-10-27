@@ -104,7 +104,7 @@
 "cefis_24_duration","Integer","","Recommended","For how long? (total days) Someone in the family was in the Intensive Care Unit (ICU) for COVID-19","","Number of days",""
 "cefis_24_ongoing","Integer","","Recommended","Is this currently ongoing? Someone in the family was in the Intensive Care Unit (ICU) for COVID-19","0;1","0= No; 1= Yes",""
 "cefis_24_stress","Integer","","Recommended","How much did this impact your stress level at the time? Someone in the family was in the Intensive Care Unit (ICU) for COVID-19","-3::3","-3= Greatly reduced my stress; 0= Did not impact my stress; 3= Greatly increased my stress",""
-"part1_deceased","Integer","","Recommended","During the COVID-19 Pandemic (March 2020-present), did you/your family/your household experience: Someone in the family died from COVID-19","0;1","0 = No; 1 = Yes",""
+"part1_deceased","Integer","","Recommended","During the COVID-19 Pandemic (March 2020-present), did you/your family/your household experience: Someone in the family died from COVID-19","0;1;999","0 = No; 1 = Yes; 999=Refused to answer",""
 "part1_deceased_who","String","100","Recommended","Someone in the family died from COVID-19. Who? (e.g., my child, my spouse, my parent, etc)","","0 = No; 1 = Yes",""
 "cefis_25_severity","Integer","","Recommended","How many people from your family died from COVID-19?","","",""
 "cefis_25_stress","Integer","","Recommended","How much did this impact your stress level at the time? Someone in the family died from COVID-19","-3::3","-3= Greatly reduced my stress; 0= Did not impact my stress; 3= Greatly increased my stress",""
