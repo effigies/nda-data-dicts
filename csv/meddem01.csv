@@ -388,7 +388,7 @@
 "medhistory_1b_txt","String","250","Recommended","Description of treatment for head injury","","","medhx_1b_txt"
 "tbi2","Integer","","Recommended","Did you ever get knocked out or lose consciousness as a result of a head injury?","0; 1; -5; -7; -8","0=No; 1=Yes;  -8=DON'T KNOW; -7=REFUSED; -5=Presented, not answered","dem_lost_consciousness,medhx_1c"
 "medhistory_1c_txt","String","250","Recommended","Description of consciousness loss as a result of head injury","","","medhx_1c_txt"
-"medhistory_1d","Integer","","Recommended","If so, for how long (knocked out or lose consciousness as a result of a head injury)?","","","medhx_1d"
+"medhistory_1d","String","50","Recommended","If so, for how long (knocked out or lose consciousness as a result of a head injury)?","","","medhx_1d"
 "medhistory_1e","Integer","","Recommended","Did you experience any headaches or other side effects?","0;1;9","0 = No; 1 = Yes; 9 = Not evaluated","medhx_1e"
 "medhistory_1e_txt","String","250","Recommended","Description of headache or other side effects","","","medhx_1e_txt"
 "medhistory_1f","Integer","","Recommended","If so, for how long (experience any headaches or other side effects)?","","","medhx_1f"

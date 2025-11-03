@@ -561,3 +561,8 @@
 "life_events_1___5","Integer","","Recommended","In the past 12 months, did you experience any of the following life events? Job loss or unemployed for more than one month","0;1","0= No; 1= Yes",""
 "life_events_1___6","Integer","","Recommended","In the past 12 months, did you experience any of the following life events? Major financial crisis","0;1","0= No; 1= Yes",""
 "life_events_1___7","Integer","","Recommended","In the past 12 months, did you experience any of the following life events? Problems with police or court appearance","0;1","0= No; 1= Yes",""
+"tbi2","Integer","","Recommended","Did you ever get knocked out or lose consciousness as a result of a head injury?","0; 1; -5; -7; -8","0=No; 1=Yes;  -8=DON'T KNOW; -7=REFUSED; -5=Presented, not answered",""
+"medhistory_1c_txt","String","250","Recommended","Description of consciousness loss as a result of head injury","","",""
+"medhistory_1d","String","50","Recommended","If so, for how long (knocked out or lose consciousness as a result of a head injury)?","","",""
+"lec_18_desc","String","250","Recommended","Briefly describe the worst event (for example, what happened, who was involved, etc.)","","",""
+"lec_20_desc","String","250","Recommended","Please describe how you experienced the worst event","","",""

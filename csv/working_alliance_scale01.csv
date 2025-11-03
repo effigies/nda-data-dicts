@@ -263,3 +263,7 @@
 "wai_11_client","Integer","","Recommended","We have established a good understanding between us of the kind of changes that would be good for [CLIENT].","1::7","1= Never; 2= Rarely; 3= Occasionally; 4= Sometimes; 5= Often; 6= Very Often; 7= Always",""
 "wai_12_client","Integer","","Recommended","[CLIENT] believes the way we are working with her/his problem is correct.","1::7","1= Never; 2= Rarely; 3= Occasionally; 4= Sometimes; 5= Often; 6= Very Often; 7= Always",""
 "respondents","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Physician","",""
+"srs_wa1","Integer","","Recommended","I felt heard, understood and respected in the program.","1::5","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree",""
+"srs_wa2","Integer","","Recommended","We worked on and talked about what I wanted to work on and talk about in the  program.","1::5","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree",""
+"srs_wa3","Integer","","Recommended","The program's approach was a good fit for me.","1::5","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree",""
+"srs_wa4","Integer","","Recommended","Overall, the program was right for me.","1::5","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree",""

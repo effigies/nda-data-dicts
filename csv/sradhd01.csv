@@ -64,3 +64,5 @@
 "asrs_c5_v2","Integer","","Recommended","How often do you put things off until the last minute?","1::5","1 =  Never ; 2 =  Rarely ; 3 =  Sometimes ; 4 =  Often ; 5 =  Very Often",""
 "asrs_c6_v2","Integer","","Recommended","How often do you depend on others to keep your life in order and attend to details?","1::5","1 =  Never ; 2 =  Rarely ; 3 =  Sometimes ; 4 =  Often ; 5 =  Very Often",""
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""
+"sradhd_misplace_school","Integer","","Recommended","How often do you misplace or have difficulty finding things at home or at school?","0::4; 999","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Very Often; 999 = Missing",""
+"sradhd_meeting_school","Integer","","Recommended","How often do you leave your seat in classes or other situations in which you are expected to remain seated?","0::4; 999","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Very Often; 999 = Missing",""
