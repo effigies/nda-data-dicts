@@ -210,7 +210,7 @@
 "medhis_6o_drug6","String","150","Recommended","Drug 6 that your child had overdosed on:","","","medhx_6o_drug6"
 "medhis_6o_drug7","String","150","Recommended","Drug 7 that your child had overdosed on:","","","medhx_6o_drug7"
 "medhis_6o_drug8","String","150","Recommended","Drug 8 that your child had overdosed on:","","","medhx_6o_drug8"
-"childhospital","Integer","","Recommended","Has your child ever been overnight in the hospital?","0;1;-99;88;77;6","0= No ; 1= Yes ; -99= N/A ; 88= Missing ; 77= Refused; 6 = Don't know","medhx_8a"
+"childhospital","Integer","","Recommended","Have you / your child ever been overnight in the hospital?","0;1;-99;88;77;6","0= No ; 1= Yes ; -99= N/A ; 88= Missing ; 77= Refused; 6 = Don't know","medhx_8a"
 "medhis_6o_drug9","String","150","Recommended","Drug 9 that your child had overdosed on:","","","medhx_6o_drug9"
 "medhis_6o_drug10","String","150","Recommended","Drug 10 that your child had overdosed on:","","","medhx_6o_drug10"
 "medhis_6o_drug11","String","150","Recommended","Drug 11 that your child had overdosed on:","","","medhx_6o_drug11"

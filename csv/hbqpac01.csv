@@ -14,7 +14,7 @@
 "ph_6a","Integer","","Recommended","How many times has your child ever had an injury or accident requiring medical attention? (Please write in number) #:","0::1200; 9998","Number of injuries; 9998 =  N/A",""
 "ph_6b","Integer","","Recommended","About how many times did serious injury ever keep your child from participating in normal daily activities, either at home or at school? #:","0::1200; 9998","Number of times; 9998 =  N/A",""
 "ph_6c","Integer","","Recommended","How many times has your child had an injury or accident requiring medical attention within the past year? #:","0::1200; 9998","Number of times; 9998 =  N/A",""
-"childhospital","Integer","","Recommended","Has your child ever been overnight in the hospital?","0;1;-99;88;77;6","0= No ; 1= Yes ; -99= N/A ; 88= Missing ; 77= Refused; 6 = Don't know","ph_7"
+"childhospital","Integer","","Recommended","Have you / your child ever been overnight in the hospital?","0;1;-99;88;77;6","0= No ; 1= Yes ; -99= N/A ; 88= Missing ; 77= Refused; 6 = Don't know","ph_7"
 "ph_7a","Integer","","Recommended","How many times has your child ever been admitted to a hospital overnight? #:","0::1200; 9998","Number of times; 9998 =  N/A",""
 "ph_7b","Integer","","Recommended","How many days was the longest hospitalization? #:","0::1200; 9998","Number of days; 9998 =  N/A",""
 "ph_7c","String","1000","Recommended","Why was your child hospitalized each time: 1st time, 2nd time, 3rd time, Additional times","","",""

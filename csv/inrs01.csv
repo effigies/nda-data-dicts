@@ -45,7 +45,7 @@
 "partner_gendermodality","Integer","","Recommended","Does this partner identify as transgender and/or nonbinary?","0::2","0 = No; 1 = Yes; 2 = It's complicated",""
 "partner_genderidentity_current","String","200","Recommended","As far as you know, how does that partner identify now, in terms of their gender?","","(Write-in response)",""
 "partner_genderidentity_relend","String","200","Recommended","As far as you know, how did that partner identify in terms of their gender at the time your romantic relationship ended?","","(Write-in response, displayed only if relationship_current is ""No"")",""
-"gender_identity_descrip","String","200","Recommended","What is your gender? specify","","",""
+"gender_identity_descrip","String","200","Recommended","What is your gender? specify","","9999= Missing",""
 "sexual_orientation_descrip","String","200","Recommended","What is your sexual orientation?","","",""
 "tisps_total_mean","Float","","Recommended","Transgender Identity Support from Partners Scale (TISPS): Total score","0::5","Mean of all subscales tisps_celebration_mean, tisps_validation_mean, tisps_allyship_mean, tisps_understanding_mean EXCEPT tisps_undermining_mean",""
 "about_whom","String","100","Recommended","Description of person or group of people about whom participant is answering questions","","e.g., Partner 1, Friend 2, neighbors",""

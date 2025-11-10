@@ -53,7 +53,7 @@
 "role_practice_meddir","Integer","","Recommended","What is your current role at your practice - Medical director?","0;1","0 = No; 1 = Yes",""
 "fullpart","Integer","","Recommended","Do you work part-time or full-time at the practice?","1;2","1 = Part-time, 2 = Full-time",""
 "gender_identify","Integer","","Recommended","What is your current gender?","1::8","1= Male; 2= Female; 3= TransMale/Transman; 4= TransFemale/Transwoman; 5= Genderqueer; 6= Additional category; 7= Decline to state; 8 = Gender variant, Gender non-conforming",""
-"gender_identity_descrip","String","200","Recommended","What is your gender? specify","","",""
+"gender_identity_descrip","String","200","Recommended","What is your gender? specify","","9999= Missing",""
 "interact","Integer","","Recommended","In a typical work week, how frequently do you interact with the other consented providers?","0::4","0 = Never or almost never; 1 = Rarely (1-2 times a week); 2 = Sometimes (several times a week); 3 = Often (at least once a day); 4 = Very often (multiple times a day)",""
 "role_practice_leadphy","Integer","","Recommended","What is your current role at your practice - Lead physician?","0;1","0 = No; 1 = Yes",""
 "role_practice_physician","Integer","","Recommended","What is your current role at your practice - Physician?","0;1","0 = No; 1 = Yes",""

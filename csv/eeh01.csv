@@ -899,7 +899,7 @@
 "o5","Integer","","Recommended","Apart from your monthly income from work, do you have other sources of regular monthly income?","0;1; -88; -99","0=No; 1=Yes; -88=Refuse to answer; -99=Don''t know",""
 "o5a","Integer","","Recommended","Apart from your monthly income from work, do you have other sources of regular monthly income - What is the total monthly amount that you receive?","","-88=Refuse to answer; -99=Don''t know",""
 "hcu_9","Integer","","Recommended","Do you currently have health insurance?","0;1;9;-88;-99","0=No; 1=Yes; 9=Missing; If No, skip to Q # 10; -88=Refuse to answer; -99=Don't know","o7"
-"qq_work1","Integer","","Recommended","Are you currently employed (working for pay)?","0;1","0=No; 1=Yes",""
+"qq_work1","Integer","","Recommended","Are you currently employed (working for pay)?","0;1;9999","0=No; 1=Yes; 9999=NA",""
 "followup_9","Integer","","Recommended","How long have you worked at this particular job?","1::5","1= A few days; 2= A few months; 3= 1-2 years; 4= 3-5 years; 5= 5 or more years",""
 "followup_10","Integer","","Recommended","Do you have more than one paid job?","0;1","0= No; 1= Yes",""
 "voc_hs_volunteer","Integer","","Recommended","Do you volunteer in the community?","0;1","0 = No; 1 = Yes",""

@@ -112,6 +112,6 @@
 "p_demo_ph_1_17","Integer","","Recommended","Has your child ever been diagnosed with: Stuttering?","0;1","0= No; 1= Yes",""
 "p_demo_ph_1_18","Integer","","Recommended","Has your child ever been diagnosed with: Delayed Speech?","0;1","0= No; 1= Yes",""
 "p_demo_ph_1_19","Integer","","Recommended","Has your child ever been diagnosed with: Sensory Processing Difficulties?","0;1","0= No; 1= Yes",""
-"h_i","Integer","","Recommended","Has your child ever experienced a head injury?","0;1","0= No; 1= Yes",""
+"h_i","Integer","","Recommended","Have you / your child ever experienced a head injury?","0;1","0= No; 1= Yes",""
 "ify_h_i_uncon","Integer","","Recommended","If your child has ever experienced a head injury, was your child unconscious at the time?","0;1","0= No; 1= Yes",""
 "ify_h_i_uncon_howlong","String","25","Recommended","If your child has ever experienced a head injury, for how long approximately was your child unconscious?","","",""

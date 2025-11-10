@@ -61,3 +61,5 @@
 "adher_wk20_par","Integer","","Recommended","Week 20: During the past week, in what percentage of your interactions with your child did you use the skills you have learned so far","0 :: 4","0 = 0%; 1 = 25%; 2 = 50%; 3 = 75%; 4 = 100%",""
 "adher_wk20_ther1","Integer","","Recommended","Week 20: During the past week, what percentage of the parent's homework assignments were completed?","0 :: 4","0 = 0%; 1 = 25%; 2 = 50%; 3 = 75%; 4 = 100%",""
 "adher_wk20_ther2","Integer","","Recommended","Week 20: What is the quality of parent adherence to treatment (e.g. are prompts specific, is praise immediate, enthusiastic and contingent)","0 :: 4","0 = No adherence/mastery; 1 = Little adherence/mastery; 2 = Some adherence/mastery; 3 = Moderate adherence/mastery; 4 = Perfect adherence/mastery",""
+"adherence_attend","Integer","","Recommended","Did the participant attend this telehealth session?","0;1","0=No; 1=Yes",""
+"adherence_homework","Integer","","Recommended","Was the participant adherent overall with the homework from the previous session?","1::5","1=Not at all; 5=Extremely strong",""

@@ -14,7 +14,7 @@
 "riaya_gen8","Integer","","Recommended","What is your race/ethnicity? (Check all that apply) Asian","0;1","0=No; 1=Yes",""
 "riaya_gen9","Integer","","Recommended","What is your race/ethnicity? (Check all that apply) American Indian/Native American","0;1;-99","0=No; 1=Yes; -99= Missing data",""
 "riaya_gen10","Integer","","Recommended","What is your race/ethnicity? (Check all that apply) White/Caucasian","0;1","0=No; 1=Yes",""
-"riaya_gen11","String","600","Recommended","What is your race/ethnicity? (Check all that apply) Other (Please Specify)","","",""
+"riaya_gen11","String","600","Recommended","What is your race/ethnicity? (Check all that apply) Other (Please Specify)","","9999= Missing",""
 "riaya_gen12","Integer","","Recommended","What is the highest level you have completed?","0::3","0=High School/GED; 1=Some College; 2=Bachelor's Degree; 3=Other",""
 "riaya_gen13","String","60","Recommended","Specify highest level of education","","",""
 "riaya_gen14","Integer","","Recommended","Did you complete a Transition Program?","0;1","0=No; 1=Yes",""

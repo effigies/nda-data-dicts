@@ -14,7 +14,7 @@
 "olife8","Integer","","Recommended","Have you wondered whether the spirits of the dead can influence the living?","0;1","0 = No; 1 = Yes",""
 "lshs_10","Integer","","Recommended","On ocassions I have seen a person's face in front of me when no one was in fact there","0;1","0=False; 1=True",""
 "olife10","Integer","","Recommended","When in the dark do you often see shapes and forms even though there's nothing there?","0;1","0 = No; 1 = Yes","o-life_1"
-"chapper12","Integer","","Recommended","Now and then, when I look in the mirror, my face seems quite different than usual.","0;1","1=True; 0=False","o-life_6"
+"chapper12","Integer","","Recommended","Now and then, when I look in the mirror, my face seems quite different than usual.","0;1;9999","0= False; 1= True; 9999= Refused","o-life_6"
 "q64_hear_thoughts","Integer","","Recommended","Are your thoughts sometimes so strong that you can almost hear them?","0;1","0 = No; 1= Yes","o-life_2"
 "olife13","Integer","","Recommended","Can some people make you aware of them just by thinking about you?","0;1","0 = No; 1 = Yes","o-life_8"
 "chaphypo5","Integer","","Recommended","Sometimes ideas and insights come to me so fast that I cannot express them all.","0;1","1=True; 0=False","o-life_7"

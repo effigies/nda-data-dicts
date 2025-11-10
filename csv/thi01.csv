@@ -40,7 +40,7 @@
 "ihfdateen","Date","","Recommended","F: Date Ended","","","treat6_end_fu,treat6_end_fu_24wk,treat6_end_fu_4wk,treat6_end_fu_pre,yr_treat6_end"
 "ihgdatebe","Date","","Recommended","G: Date Began","","","treat7_begin_fu,treat7_begin_fu_24wk,treat7_begin_fu_4wk,treat7_begin_fu_pre,yr_treat7_begin"
 "ihgdateen","Date","","Recommended","G: Date Ended","","","treat7_end_fu,treat7_end_fu_24wk,treat7_end_fu_4wk,treat7_end_fu_pre,yr_treat7_end"
-"px_heatlh_ins","Integer","","Recommended","Are you covered by health insurance or some other kind of health care plan? PX011501_Health_Insurance_Coverage","1;2;7;999","1=Yes; 2=No; 7=Refused; 999=No Response/I don't know","thi_c1,thi_c1_fu,thi_c1_fu_24wk,thi_c1_fu_4wk,thi_c1_fu_pre,thib_e1"
+"px_heatlh_ins","Integer","","Recommended","Are you covered by health insurance or some other kind of health care plan? PX011501_Health_Insurance_Coverage","1;2;7;999;9999","1=Yes; 2=No; 7=Refused; 999=No Response/I don't know;9999=Missing","thi_c1,thi_c1_fu,thi_c1_fu_24wk,thi_c1_fu_4wk,thi_c1_fu_pre,thib_e1"
 "thi_a1","Integer","","Recommended","In the past year, have you made any visits to the emergency room (ER) for reasons related to your mental health or substance use?","0;1;999","0 = No; 1 = Yes; 999= No Response/I don't know","thib_a1_year"
 "thi_a3admitdate1","Date","","Recommended","First ER Visit - Admission Date","","","thi_a3admitdate1_fu,thi_a3admitdate1_fu_24wk,thi_a3admitdate1_fu_4wk,thi_a3admitdate1_fu_pre"
 "thi_a3dischargedate1","Date","","Recommended","First ER Visit - Discharge Date","","","thi_a3dischargedate1_fu,thi_a3dischargedate1_fu_24wk,thi_a3dischargedate1_fu_4wk,thi_a3dischargedate1_fu_pre"

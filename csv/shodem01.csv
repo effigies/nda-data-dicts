@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender,sdis_5"
 "gender_identity","Integer","","Recommended","","Gender identity: Do you identify as:","1::12","1 = Female; 2 = Male; 3 = Other; 4 = Agender; 5 = Nonbinary/Fluid; 6 = Transgender female; 7 = Transgender male; 8 = Genderqueer; 9 = Do not wish to report; 10 = Multiple Identities Listed; 11 = Non-binary; 12 = Genderfluid",""
-"gender_identity_descrip","String","200","Recommended","","What is your gender? specify","","",""
+"gender_identity_descrip","String","200","Recommended","","What is your gender? specify","","9999= Missing",""
 "sexual_orientation","Integer","","Recommended","","Sexual Orientation- Do you identify as:","1::13","1 = Asexual; 2 = Bisexual; 3 = Gay; 4 = Lesbian; 5 = Pansexual; 6 = Queer; 7 = Questioning; 8 = Straight or heterosexual; 9 = Other; 10 = Homosexual; 11 = I am not sure yet; 12 = Multiple Orientations Listed; 13 = Decline to answer","sdis_6"
 "sexual_orientation_descrip","String","200","Recommended","sexual_orientation == 9","What is your sexual orientation?","","","sdis_6_1"
 "race","String","100","Recommended","","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","","race_identity,sdis_2"

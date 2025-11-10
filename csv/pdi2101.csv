@@ -80,7 +80,7 @@
 "pdi_74","Integer","","Recommended","Have your thoughts ever been so vivid that you were worried other people would hear them. How do yu find it?","1::5","1=Not at all distressing; 5=Very distressing","pdi19a,pdi40_146"
 "pdi_75","Integer","","Recommended","Have your thoughts ever been so vivid that you were worried other people would hear them. How often you think about it","1::5","1=Hardly ever think about; 5=Think about it all the time","pdi19b,pdi40_147"
 "pdi_76","Integer","","Recommended","Have your thoughts ever been so vivid that you were worried other people would hear them. Do you believe in it","1::5","Don't believe it's true; 5=Believe it is absolutely true","pdi19c,pdi40_148"
-"pdi_77","Integer","","Recommended","Do you ever feel as if your own thoughts were being echoed back to you","0;1","0=No;1=Yes","pdi20,pdi40_149"
+"pdi_77","Integer","","Recommended","Do you ever feel as if your own thoughts were being echoed back to you","0;1;9999","0= No; 1= Yes; 9999= Refused","pdi20,pdi40_149"
 "pdi_78","Integer","","Recommended","Do you ever feel as if your own thoughts were being echoed back to you. How do yu find it?","1::5","1=Not at all distressing; 5=Very distressing","pdi20a,pdi40_150"
 "pdi_79","Integer","","Recommended","Do you ever feel as if your own thoughts were being echoed back to you. How often you think about it","1::5","1=Hardly ever think about; 5=Think about it all the time","pdi20b,pdi40_151"
 "pdi_80","Integer","","Recommended","Do you ever feel as if your own thoughts were being echoed back to you. Do you believe in it","1::5","Don't believe it's true; 5=Believe it is absolutely true","pdi20c,pdi40_152"

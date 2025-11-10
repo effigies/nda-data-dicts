@@ -40,3 +40,4 @@
 "appdrcs5","Integer","","Recommended","How often do you talk to your parents about how your own experiences of prejudice, discrimination, and racism make you feel?","1::5","1 = Never; 2 = Almost never; 3 = Sometimes; 4 = Fairly often; 5 = Very often",""
 "appdrcs6","Integer","","Recommended","How often do you talk to your parents to find out why prejudice, discrimination, and racism happens to you?","1::5","1 = Never; 2 = Almost never; 3 = Sometimes; 4 = Fairly often; 5 = Very often",""
 "appdrcs7","Integer","","Recommended","How often do your parents talk to you about prejudice, discrimination, and racism?","1::5","1 = Never; 2 = Almost never; 3 = Sometimes; 4 = Fairly often; 5 = Very often",""
+"r_posts_socialmedia","Integer","","Recommended","How often have you heard or seen racist posts on social media (TikTok, Instagram, Twitter/X, etc.)?","0::5","0= Never; 1= About once a month; 2= A few times a month; 3= Once a week; 4= A few times a week; 5= Every day",""

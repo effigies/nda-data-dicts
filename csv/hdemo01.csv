@@ -329,7 +329,7 @@ household in item 2 who contribute financially)","1::10","1=less than $5,000; 2 
 "income_demo","Integer","","Recommended","Household income","1::5;999","1= Less than $15K; 2= $15K-$29.9K; 3= $30K-$49.9K; 4= $50K-$74.9K; 5= $75K+;  999= Missing",""
 "service_26","Integer","","Recommended","26. Does your child currently have health insurance? ","0;1;999","0 = No; 1 = Yes; 999 = Missing",""
 "prapare12_insurance","Integer","","Recommended","What is your main insurance?","1::9;999","1= None/uninsured; 2= Medicaid; 3= CHIP Medicaid; 4= Medicare; 5= Other public insurance (not CHIP); 6= Other public insurance (CHIP); 7= Private insurance; 8 = Prefer not to say; 9= Other(specify); 999=Missing",""
-"h1dem6ao","String","100","Recommended","Insurance other (specify)","","",""
+"h1dem6ao","String","100","Recommended","Insurance other (specify)","","9999= Missing",""
 "instype_secondary","Integer","","Recommended","Secondary insurance type","1::4;888;999","1= Private / Commercial insurance (e.g., from a caregiver's employer, a private health plan, or using the marketplace i.e., Affordable Care Act; 2= Medicaid (including UPMC for You), Medical Assistance, Health Choices; 3=CHIP (including UPMC for Kids), 4= Other (specify); 888= Not applicable; 999= Missing",""
 "instype_secondary_other","String","100","Recommended","Secondary Insurance type (Other)","","",""
 "insgap","Integer","","Recommended","Any gap in insurance in past 12 months?","0;1;999","0= No; 1= Yes; 999= Missing",""

@@ -37,3 +37,4 @@
 "il_6r","Float","","Recommended","Soluble IL-6 receptor (IL-6R)","","",""
 "il_1ra","Float","","Recommended","IL-1 receptor antagonist (IL-1RA)","","",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"lactate","Float","","Recommended","Lactate/lactic acid","","mmol/L",""

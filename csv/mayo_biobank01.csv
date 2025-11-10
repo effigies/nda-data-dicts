@@ -382,7 +382,7 @@
 "mayo_bio376","Integer","","Recommended","How many years did you personally mix or apply herbicides or fungicides?","1 :: 6","1= 1 year or less; 2= 2 to 5 years; 3= 6 to 10 years; 4= 11 to 20 years; 5= 21 to 30 years; 6= 31 years or more",""
 "mayo_bio377","Integer","","Recommended","Do you consider yourself to be Hispanic or Latino?","0;1","0= No; 1= Yes",""
 "mayo_bio378","Integer","","Recommended","If yes to Hispanic/Latino, are you:","1 :: 5","1= Mexican American; 2= Mexican; 3= Ecuadorian; 4= Puerto Rican; 5= Other",""
-"mayo_bio379","String","100","Recommended","If other Hispanic/Latino, please specify:","","",""
+"mayo_bio379","String","100","Recommended","If other Hispanic/Latino, please specify:","","9999= Missing",""
 "mayo_bio380","Integer","","Recommended","Which of the follow do you consider yourself? Asian","0;1","0= No; 1= Yes",""
 "mayo_bio381","Integer","","Recommended","If yes to Asian, are you:","1 :: 5","1= Cambodian; 2= Laotian; 3= Hmong; 4= Vietnamese; 5= Other",""
 "mayo_bio382","String","100","Recommended","If other Asian, please specify:","","",""

@@ -13,7 +13,7 @@
 "demog3_5","Integer","","Recommended","What is your race? You may choose more than one. (Choice: White)","0;1","0= No; 1= Yes","demo_mgba18_5,race_5,race_white"
 "demog3_6","Integer","","Recommended","What is your race? You may choose more than one. (Choice: Other)","0;1","0= No; 1= Yes","demo_mgba18_6,race_6,race_other"
 "demog3_7","Integer","","Recommended","What is your race? You may choose more than one. (Choice: Prefer not to answer)","0;1","0= No; 1= Yes","demo_mgba18_7,race_7"
-"riaya_gen11","String","600","Recommended","What is your race/ethnicity? (Check all that apply) Other (Please Specify)","","","othersp,race_other_spec"
+"riaya_gen11","String","600","Recommended","What is your race/ethnicity? (Check all that apply) Other (Please Specify)","","9999= Missing","othersp,race_other_spec"
 "a1demo_gender","Integer","","Recommended","What is your current gender identity?","1::9; -888","1 = Female; 2 = Male; 3 = Trans female or trans woman; 4 = Trans male or trans man; 5 = Genderqueer/gender expansive/gender diverse/non-binary; 6 = Other; 7 = Two Spirit; 8 = Gender variant/Gender non-conforming; 9=Agender; -888 = Decline to answer",""
 "demoses05j","String","100","Recommended","Specify other Gender Identity","","",""
 "kbi_sex_assigned_at_birth","Integer","","Recommended","What was your sex assigned at birth","1;2;999;777","1=Male ; 2=Female ; 999=Don't know ; 777=Refuse to answer  [event_name_number] > '21'",""

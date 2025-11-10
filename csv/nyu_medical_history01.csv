@@ -9,7 +9,7 @@
 "illnesses_conditions","String","200","Recommended","does subject have any illnesses","","",""
 "illnesses_described","String","200","Recommended","describe the illness","","",""
 "hospitalizations","String","200","Recommended","has the subject had any hospitalisations","","",""
-"hospitalizations_described","String","200","Recommended","describe the hospitalisations","","",""
+"hospitalizations_described","String","200","Recommended","Describe the hospitalizations","","",""
 "when_hospitalized","Date","","Recommended","when was the subject hospitalized","","",""
 "current_medication","String","300","Recommended","subject's current medications","","",""
 "current_meds_described","String","200","Recommended","Describe subject's current medications","","",""

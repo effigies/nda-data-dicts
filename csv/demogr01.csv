@@ -206,7 +206,7 @@
 "race_refuse","Integer","","Recommended","What race {do you/[if asked of proxy: does Subject Person]} consider {yourself/[if asked of proxy: himself/herself]} to be?  REFUSED PX010601_Race_Refused","1;2","1=Yes; 2=No","raceref"
 "resp_ethnicity","String","30","Recommended","Respondent's ethnicity","Hispanic or Latino;Not Hispanic or Latino;Unknown or not reported","",""
 "gender_identify","Integer","","Recommended","What is your current gender?","1::8","1= Male; 2= Female; 3= TransMale/Transman; 4= TransFemale/Transwoman; 5= Genderqueer; 6= Additional category; 7= Decline to state; 8 = Gender variant, Gender non-conforming",""
-"gender_identity_descrip","String","200","Recommended","What is your gender? specify","","","gender_spec"
+"gender_identity_descrip","String","200","Recommended","What is your gender? specify","","9999= Missing","gender_spec"
 "current_residence","Integer","","Recommended","What best describes your current residence?","1::7","1= House; 2= Rowhouse or townhouse; 3= Mobile home; 4= Apartment or condominium; 5= Communal housing (e.g., dormitory, co-op, boarding house, etc.); 6= Healthcare facility or nursing home; 7= Homeless",""
 "length_residence","Integer","","Recommended","How long have you lived at your current residence?","0;1","0= Less than 2 years; 1= 2 or more years",""
 "months_residence","Integer","","Recommended","How many months have you lived at your current residence?","","",""

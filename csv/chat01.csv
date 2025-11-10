@@ -73,7 +73,7 @@
 "chat21","Integer","","Recommended","Need to do Visual Hallucinations follow-up?","0;1","0 = No ; 1 = Yes",""
 "chat22","Integer","","Recommended","Have you ever detected an odor, such as perfume, burning, food, or trash, but could not figure out where it was coming from?","0;1","0 = No ; 1 = Yes",""
 "chat23","Integer","","Recommended","Have you ever been near an object that seemed to have an odor it shouldn't, or to a place that had a very unusual, mismatched odor? (such as the smell of rotting eggs when you were nowhere near a trash bin, or the smell of smoke when you couldn't see any?)","0;1","0 = No ; 1 = Yes",""
-"cardiff_29","Integer","","Recommended","Do you ever notice smells or odours that people next to you seem unaware of?","0;1","0= No; 1= Yes",""
+"cardiff_29","Integer","","Recommended","Do you ever notice smells or odours that people next to you seem unaware of?","0;1;9999","0= No; 1= Yes; 9999= Refused",""
 "chat25","Integer","","Recommended","Have you ever smelled something but then realized that it must have been your mind playing tricks on you?","0;1","0 = No ; 1 = Yes",""
 "chat26","Integer","","Recommended","Have you ever had an olfactory, or smell, hallucination?","0;1","0 = No ; 1 = Yes",""
 "chat27","Integer","","Recommended","Have you ever been told that you are smelling things that are not real or are not really there?","0;1","0 = No ; 1 = Yes",""

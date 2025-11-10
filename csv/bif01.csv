@@ -22,7 +22,7 @@
 "cbfincome","Integer","","Recommended","Household Income","1::5; 888; 999","1 = Less than $10,000; 2 = $10,000-$24,999; 3 = $25,000-$49,999; 4 = $50,000-$100,000; 5= $1000,000 or more 888 = not applicable; 999 = missing",""
 "cbfopwc","Integer","","Recommended","Other agencies/professionals working with you or your child","0;1; 888; 999","0 = no; 1 = yes; 888 = not applicable; 999 = missing",""
 "cbfopwc_org","String","100","Recommended","Other agencies/professionals working with you or your child (what services)","","888 = not applicable; 999 = missing",""
-"rx","Integer","","Recommended","Does child take any regular medications?","0;1;999; 888","0 = no; 1 = yes; 888 = not applicable; 999 = missing","cbfchildmed"
+"rx","Integer","","Recommended","Do you / your child take any regular medications?","0;1;999; 888","0 = no; 1 = yes; 888 = not applicable; 999 = missing","cbfchildmed"
 "tau_psychotherapy_current","Integer","","Recommended","current psychotherapy/counseling","0::1;999; 888","0 = no; 1 = yes; 888 = not applicable; 999 = missing","cbfpsycou"
 "cbfspeech","Integer","","Recommended","Speech/ Lang. Therapy","0;1; 888; 999","0 = no; 1 = yes; 888 = not applicable; 999 = missing",""
 "cbfoccphy","Integer","","Recommended","Occupat. / Physical Therapy","0;1; 888; 999","0 = no; 1 = yes; 888 = not applicable; 999 = missing",""

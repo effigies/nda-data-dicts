@@ -140,7 +140,7 @@
 "chapper9","Integer","","Recommended","I have felt that my body and another person's body were one and the same.","0;1","1=True; 0=False",""
 "chapper10","Integer","","Recommended","I have felt that something outside my body was a part of my body.","0;1","1=True; 0=False","wss_pa_5"
 "chapper11","Integer","","Recommended","I sometimes have had the feeling that my body is abnormal.","0;1","1=True; 0=False",""
-"chapper12","Integer","","Recommended","Now and then, when I look in the mirror, my face seems quite different than usual.","0;1","1=True; 0=False",""
+"chapper12","Integer","","Recommended","Now and then, when I look in the mirror, my face seems quite different than usual.","0;1;9999","0= False; 1= True; 9999= Refused",""
 "chapper13","Integer","","Recommended","I have never had the passing feeling that my arms or legs have become longer than usual.","0;1","1=True; 0=False",""
 "chapper14","Integer","","Recommended","I have sometimes felt that some part of my body no longer belongs to me.","0;1","1=True; 0=False","wss_pa_8"
 "chapper15","Integer","","Recommended","Sometimes when I look at things like tables and chairs, they seem strange.","0;1","1=True; 0=False",""
