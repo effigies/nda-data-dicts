@@ -8,7 +8,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "version","String","20","Recommended","Version/code of assessment","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "side","Integer","","Recommended","Side","0::3","0 = neither; 1 = right; 2 = left; 3 = bilateral; blank = Missing Form/Incomplete Workbook","xrside"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","xrcomp"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","xrcomp"
 "accept","String","2","Recommended","QC rating","NA;N;NR;Y;YD;P","NA= QCd unacceptable, no better available; N= QCd and found to be unacceptable; NR= QCd unacceptable, chosen for release; Y=QCd and found to be acceptable; YD= Not QCd and accepted by default",""
 "align","String","1","Recommended","X-ray alignment problem","X","X= does not meet QC standard; Blank = Not QC'd or meets QC standard",""
 "center","String","1","Recommended","X-ray centering problem","X","X= does not meet QC standard; Blank = Not QC'd or meets QC standard",""

@@ -7,7 +7,7 @@
 "ihend","Date","","Recommended","date ended (today's date if still in progress)","","","enddate"
 "status_resptype","Integer","","Recommended","Response Type","","0 = IP Address; 1 = Survey Preview; 2 = Survey Test; 4 = Imported; 8 = Spam; 9 = Survey Preview Spam; 12 = Imported Spam; 16 = Offline; 17 = Offline Survey Preview; 32 = EX; 40 = EX Spam; 48 = EX Offline;","status"
 "prog","Integer","","Recommended","Progress","","","progress"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","finished"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","finished"
 "date_updated","Date","","Recommended","Date record updated","","","recordeddate"
 "resp_id","String","50","Recommended","Response ID","","","responseid"
 "primary_language","String","255","Recommended","Subject's Primary Language","","","userlanguage"

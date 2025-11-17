@@ -43,7 +43,7 @@
 "rs_12","Integer","","Recommended","Recalling Sentences. 12","0::3; -9","SCORING: 0 = 4+ errors; 1 = 2-3 errors; 2 = 1 error; 3 = OK. QUESTIONS: The girl who lives upstairs in my apartment building is in my class (CELF-3); Because tomorrow is Saturday, we can stay up late tonight (CELF-4)",""
 "rs_14","Integer","","Recommended","Recalling Sentences. 14","0::3; -9","SCORING: 0 = 4+ errors; 1 = 2-3 errors; 2 = 1 error; 3 = OK. QUESTIONS: The student who won the award at the science fair was very excited (CELF-3); The coach could not find the uniforms that the team wore last year (CELF-4)",""
 "rs_mean","Integer","","Recommended","Gay-Related Rejection Sensitivity Scale Mean Score","","",""
-"condition_c","Integer","","Recommended","Patient Condition","0::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing","condition.c"
+"condition_c","Integer","","Recommended","Patient Condition","-1::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing; -1 = Not applicable","condition.c"
 "grrs_mean","Float","","Recommended","GRRS Mean Score","","",""
 "rs03_ang","Integer","","Recommended","Imagine a group of classmates are whispering together. How ANGRY would you be that they might be whispering about YOU because of your sexual orientation?","1::6; 888; 999","1 = Not at all angry; 2 = 2; 3 = 3; 4 = 4; 5 = 5; 6 = Very angry; 888 = N/A: Condition skipped; 999 = Missing/no answer",""
 "rs03_exp","Integer","","Recommended","Imagine a group of classmates are whispering together. How LIKELY is it that they are whispering about YOU because of your sexual orientation?","1::6; 888; 999","1 = Not at all likely; 2 = 2; 3 = 3; 4 = 4; 5 = 5; 6 = Very likely; 888 = N/A: Condition skipped; 999 = Missing/no answer",""

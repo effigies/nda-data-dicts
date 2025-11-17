@@ -27,4 +27,4 @@
 "rpi_fi","Integer","","Recommended","Factor I. Reward Probability","","",""
 "rpi_fii","Integer","","Recommended","Factor II. Environmental Suppressors","","",""
 "rpi_ts","Integer","","Recommended","RPI total score","","",""
-"sample","Integer","","Recommended","Training or randomized case","1::5","1 = randomized; 2 = training; 3=randomized-control; 4=randomized-intervention; 5=concurrent cohort-intervention",""
+"sample","Integer","","Recommended","Training or randomized case","1::5;-1","1 = Randomized; 2 = Training; 3= Randomized-control; 4= Randomized-intervention; 5= Concurrent cohort-intervention; -1= Not applicable",""

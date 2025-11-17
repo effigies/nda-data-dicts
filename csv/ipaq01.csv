@@ -53,7 +53,7 @@ During the last 7 days, on how many days did you do vigorous physical activities
 "ipaq_1114_week_mins","Integer","","Recommended","What is the total amount of time you spent over the last 7 days doing moderate physical activities?� (minutes per week)","","Days of moderate physical activity (ipaq_mod_days) * Minutes of moderate physical activity (ipaq_mod_min)","total_mod_activity"
 "ipaq_1116_week_mins","Integer","","Recommended","What is the total amount of time you spent walking over the last 7 days? (minutes per week)","","Days of walking (ipaq_walk_days) * Minutes of walking (ipaq_walk_min)","total_walk_activity"
 "ipaq_1117_wed_mins","Integer","","Recommended","What is the total amount of time you spent sitting last Wednesday? (minutes on Wednesday)","","",""
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","ipaq_complete"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","ipaq_complete"
 "visit_year","Integer","","Recommended","Year of visit","","",""
 "ipaq_vigmet","Integer","","Recommended","Vigorous activity MET-min/week","","999 = Missing",""
 "ipaq_modmet","Integer","","Recommended","Moderate activity MET-min/week","","999 = Missing",""

@@ -26,7 +26,7 @@
 "cpq_lma","Float","","Recommended","Low Marital  Adjustment Mean Score","","",""
 "cpa_hma","Float","","Recommended","High Marital Adjustment Mean Score","","",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","treatment"
-"ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2","1=Patient; 2=Partner",""
+"ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2;-1","1=Patient; 2=Partner; -1=Not applicable",""
 "cpq7a_a","Integer","","Recommended","Demand/Withdraw. During a discussion of an issue or problem, I pressure, nag, or demand while my partner withdraws, becomes silent, or refuses to discuss the matter further.","1::5","1 = Very Unlikely; 2 = Unlikely; 3 = Neutral; 4 = Likely; 5 = Very Likely","cpq8m_c5188"
 "cpq7b_a","Integer","","Recommended","Demand/Withdraw. During a discussion of an issue or problem, my partner pressures, nags or demands while I withdraw, become silent, or refuse to discuss the matter further.","1::5","1 = Very Unlikely; 2 = Unlikely; 3 = Neutral; 4 = Likely; 5 = Very Likely","cpq9m_c5188"
 "cpq8a_a","Integer","","Recommended","Criticize/Defend. During a discussion of an issue or problem, I criticize while my partner defends himself or herself.","1::5","1 = Very Unlikely; 2 = Unlikely; 3 = Neutral; 4 = Likely; 5 = Very Likely","cpq10m_c5188"

@@ -49,4 +49,4 @@
 "bsimo","Float","","Recommended","Months from Time 0 to assessment","","","monfol"
 "fumonth","Integer","","Recommended","Month in follow-up","","",""
 "emp2","Integer","","Recommended","Employment or Self-Employment - impaired for some reason other than psychopathology","0;1","0 = No; 1 = Yes",""
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","liferift_complete"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","liferift_complete"

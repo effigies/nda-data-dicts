@@ -34,3 +34,7 @@ for deciding if your child has eaten the right kind of foods?","0::4","0=Never; 
 "cfq25","Integer","","Recommended","How much do you keep track of the sweets (candy, ice cream, cake, pastries) that your child eats?","0::4","0=Never; 1=Rarely; 2=Sometimes; 3=Mostly; 4=Always",""
 "cfq26","Integer","","Recommended","How much do you keep track of the snack food (potato chips, Doritos, cheese puffs) that your child eats?","0::4","0=Never; 1=Rarely; 2=Sometimes; 3=Mostly; 4=Always",""
 "cfq27","Integer","","Recommended","How much do you keep track of the high fat foods that your child eats?","0::4","0=Never; 1=Rarely; 2=Sometimes; 3=Mostly; 4=Always",""
+"fpc1","Integer","","Recommended","I have to be sure that my child does not eat too much.","0::4","0=Disagree; 1=Slightly Disagree; 2=Neutral; 3=Slightly Agree; 4=Agree",""
+"fpc2","Integer","","Recommended","If I did not guide or regulate my child's eating, they would eat too many less healthful foods.","0::4","0=Disagree; 1=Slightly Disagree; 2=Neutral; 3=Slightly Agree; 4=Agree",""
+"fpc3","Integer","","Recommended","How often did you use food as a reward for your child?","0::4","0=Never; 1=Seldom; 2=Half of the time; 3=Most of the time; 4=Always",""
+"fpc4","Integer","","Recommended","How often did you use food as a punishment for your child?","0::4","0=Never; 1=Seldom; 2=Half of the time; 3=Most of the time; 4=Always",""

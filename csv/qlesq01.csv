@@ -39,7 +39,7 @@
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form"
 "qlesrawscr","Float","","Recommended","Raw Score from items 1-14:","","",""
 "qlesmax","Integer","","Recommended","% Maximum:","","","qlesq_percent_max"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","finished,qlesqsf_complete"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","finished,qlesqsf_complete"
 "phne_sc_39","String","5","Recommended","Health/ Medical.6. Are you currently taking any medications?","Yes;No","","q110,q2"
 "qlesqsfq3","Integer","","Recommended","During the past week, how satisfied have you been with your medications?","1::5","1 = Very Poor; 2 = Poor; 3 = Fair; 4 = Good; 5 = Very Good;","q111,q3"
 "qlesqsfq4","Integer","","Recommended","How would you rate your overall life satisfaction and contentment during the past week?","1::5","1 = Very Poor; 2 = Poor; 3 = Fair; 4 = Good; 5 = Very Good;","q112,q4"

@@ -39,7 +39,7 @@
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "pupil_record","Integer","","Recommended","Was the pupil recorded in this trial?","0;1","0 = No; 1 = Yes",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
-"sample","Integer","","Recommended","Training or randomized case","1::5","1 = randomized; 2 = training; 3=randomized-control; 4=randomized-intervention; 5=concurrent cohort-intervention",""
+"sample","Integer","","Recommended","Training or randomized case","1::5;-1","1 = Randomized; 2 = Training; 3= Randomized-control; 4= Randomized-intervention; 5= Concurrent cohort-intervention; -1= Not applicable",""
 "groups","Integer","","Recommended","Group","0;1","0=Control; 1=Case",""
 "site","String","101","Recommended","Site","","Study Site",""
 "handedness","String","29","Recommended","handedness","R;L;B;999;888;777;555","R = Right; L = Left; B = Both; 999= No Answer; 888= Skipped; 777= Condition Skipped; 555= Missing",""

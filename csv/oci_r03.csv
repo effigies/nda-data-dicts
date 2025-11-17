@@ -63,4 +63,4 @@
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "oci_ac","Integer","","Recommended","If you are paying attention, select ''A lot''.","0::4","0= Not at all; 1= A little; 2=Moderately; 3= A lot; 4= Extremely often",""
 "oci_clinical_cutoff","Integer","","Recommended","Clinical cut-off Met?","0;1 ","0= Absent; 1 = Present ",""
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified",""
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable",""

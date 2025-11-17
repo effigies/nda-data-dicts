@@ -8,7 +8,7 @@
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "site","String","101","Recommended","Site","","Study Site",""
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified",""
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable",""
 "comp_assess","Integer","","Recommended","Please indicated when assessment completed","1::3;-9","1=Pre-infusion; 2=Post-infusion; 3=Follow-up Visit; -9=Unknown",""
 "sort_p_01","Integer","","Recommended","Did the student pronounce the following word correctly? see","0;1","0= Incorrect pronunciation; 1= Correct pronunciation",""
 "sort_p_02","Integer","","Recommended","Did the student pronounce the following word correctly? look","0;1","0= Incorrect pronunciation; 1= Correct pronunciation",""

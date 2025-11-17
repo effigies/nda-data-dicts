@@ -618,7 +618,7 @@
 "consdiag","String","100","Recommended","Consensus Diagnosis","","","scid_code"
 "consdiagadd","String","200","Recommended","Consensus Diagnosis: Additional","","",""
 "srcedis","String","200","Recommended","Sources of Disagreement","","",""
-"sample","Integer","","Recommended","Training or randomized case","1::5","1 = randomized; 2 = training; 3=randomized-control; 4=randomized-intervention; 5=concurrent cohort-intervention",""
+"sample","Integer","","Recommended","Training or randomized case","1::5;-1","1 = Randomized; 2 = Training; 3= Randomized-control; 4= Randomized-intervention; 5= Concurrent cohort-intervention; -1= Not applicable",""
 "scid_21a","Integer","","Recommended","Lifetime Diagnosis of Alcohol Use Disorder","0::3;-8;-9","0 = Inadequate Information; 1 = Not present/Absent; 2 = Sub-Threshold; 3 = Threshold/Present; -8 = N/A; -9 = Missing","alc_lifetime,q21_lt,scid_alcohol_lifetime"
 "sldc194","Integer","","Recommended","Alcohol Use Disorder. Current","0::5;-8;-9","0 = No information; 1 = Not present; 2 = Probable/Sub-Threshold; 3 = Definite/Threshold/Present; 4 = Partial remission; 5 = Possible; -8 = N/A; -9 = Missing","alc_current,q21_p12m,scid_21"
 "scid_3_co","Integer","","Recommended","Cyclothymic Disorder: Current Only","0::3;-8;-9","0 = Inadequate Information; 1 = Absent; 2 = Sub-Threshold; 3 = Threshold/Present; -8 = N/A; -9 = Missing","cycl_current,scid5_p3"

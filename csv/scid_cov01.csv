@@ -101,5 +101,5 @@
 "subst_date_onset_3","Date","","Recommended","Date at onset of Substance Use DX3","","",""
 "cepisp","String","500","Recommended","Current diagnosis specify","","","dxspecify"
 "failedtrials","String","15","Recommended","Number of failed antidepressant trials in current episode","","",""
-"sample","Integer","","Recommended","Training or randomized case","1::5","1 = randomized; 2 = training; 3=randomized-control; 4=randomized-intervention; 5=concurrent cohort-intervention",""
+"sample","Integer","","Recommended","Training or randomized case","1::5;-1","1 = Randomized; 2 = Training; 3= Randomized-control; 4= Randomized-intervention; 5= Concurrent cohort-intervention; -1= Not applicable",""
 "current_mde","Integer","","Recommended","A Current Major Depressive Episode","0;1","0=no; 1=yes","curr_mde"

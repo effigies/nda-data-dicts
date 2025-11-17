@@ -25,7 +25,7 @@
 "sb1l","Integer","","Recommended","Suicidal Behavior. Actual Attempt","1;2; -9","1=Yes; 2=No; -9=incomplete","suic_2,suic_2c"
 "harmsr1","Integer","","Recommended","Non-suicidal self-harm (cutting, biting, or other means of affect regulation)","0;1","0 = No;1 = Yes","nssi"
 "sipdu_sum","Integer","","Recommended","Shortened Inventory of Problems-Drug Use Scale Score (sum)","","",""
-"condition_c","Integer","","Recommended","Patient Condition","0::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing","condition.c"
+"condition_c","Integer","","Recommended","Patient Condition","-1::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing; -1 = Not applicable","condition.c"
 "siopdu01","Integer","","Recommended","In the past 12 months, Because of my drug use, I have not eaten properly.","0;1;888","0= No; 1= Yes; 888= No Response",""
 "siopdu02","Integer","","Recommended","In the past 12 months, I have failed to do what is expected of me because of my drug use.","0;1;888","0= No; 1= Yes; 888= No Response",""
 "siopdu03","Integer","","Recommended","In the past 12 months, I have taken foolish risks when using drugs or high.","0;1;888","0= No; 1= Yes; 888= No Response",""

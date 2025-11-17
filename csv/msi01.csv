@@ -40,7 +40,7 @@
 "afc_sum","Integer","","Recommended","Affective Communication subscale sum score","0::13","",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","treatment"
-"ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2","1=Patient; 2=Partner",""
+"ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2;-1","1=Patient; 2=Partner; -1=Not applicable",""
 "w_mr_askedadv_c","Integer","","Recommended","In the past month, you have sought your husband's advice/support in making important decisions. / In the past month, you have sought your wife’s advice/support in making important decisions.","0;1;88","0= Disagree; 1= Agree; 88= I don't know",""
 "w_mr_satconv_c","Integer","","Recommended","In the past month, did you feel satisfied with the conversations you had with your husband? / In the past month, how satisfied did you feel with the conversations you had with your wife?","0::2;88","0= Dissatisfied; 1= Neutral/did not feel anything; 2= Satisfied; 88= I don't know",""
 "w_mr_dinner_c","Integer","","Recommended","In the past month, how often have you and your husband had dinner together? / In the past month, how many times have you and your wife had dinner together?","0::4","0= Never; 1= One time; 2= A few times; 3= Several times; 4= Every day",""

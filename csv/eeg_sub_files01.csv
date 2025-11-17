@@ -30,7 +30,7 @@
 "qeeg","Float","","Recommended","","QEEG Results: microvolt2","","",""
 "pqeeg","Float","","Recommended","","Post QEEG Results: microvolt2","","",""
 "visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
-"completed","Integer","","Recommended","","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","eeg001"
+"completed","Integer","","Recommended","","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","eeg001"
 "lab020","Date","","Recommended","","Date of PI/clinician signature","","","eeg004"
 "task_name","String","100","Recommended","","Name of task being rated","","",""
 "image_description","String","512","Recommended","","Image description, i.e. DTI, fMRI, Fast SPGR, phantom, EEG, dynamic PET","","","task_description"

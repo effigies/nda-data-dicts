@@ -36,4 +36,4 @@
 "qoli30","Integer","","Recommended","30. How satisfied are you with your NEIGHBORHOOD?","-3 :: 3","-3= Very dissatisfied; -2= Somewhat dissatisfied; -1= A little dissatisfied; 1= A little satisfied; 2= Somewhat satisfied; 3= Very satisfied","qual31"
 "qoli31","Integer","","Recommended","31. How important is your COMMUNITY to your happiness?","-3 :: 3","0= Not important; 1= Important; 2= Extremely important","quali16"
 "qoli32","Integer","","Recommended","32. How satisfied are you with your COMMUNITY?","-3 :: 3","-3= Very dissatisfied; -2= Somewhat dissatisfied; -1= A little dissatisfied; 1= A little satisfied; 2= Somewhat satisfied; 3= Very satisfied","qual32"
-"sample","Integer","","Recommended","Training or randomized case","1::5","1 = randomized; 2 = training; 3=randomized-control; 4=randomized-intervention; 5=concurrent cohort-intervention",""
+"sample","Integer","","Recommended","Training or randomized case","1::5;-1","1 = Randomized; 2 = Training; 3= Randomized-control; 4= Randomized-intervention; 5= Concurrent cohort-intervention; -1= Not applicable",""

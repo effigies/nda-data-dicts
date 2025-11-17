@@ -126,7 +126,7 @@
 "evaldate","Date","","Recommended","","Evaluation date","","",""
 "multibirthid","Integer","","Recommended","","Code for multiple birth","0::2","0=No; 1=Twin; 2=Multiple (>twin)",""
 "tourettes_disorder","Integer","","Recommended","","DSM-IV-tr Tourette's disorder","0;1;9","0=Unaffected; 1=Definite; 9=Unratable",""
-"sample","Integer","","Recommended","","Training or randomized case","1::5","1 = randomized; 2 = training; 3=randomized-control; 4=randomized-intervention; 5=concurrent cohort-intervention",""
+"sample","Integer","","Recommended","","Training or randomized case","1::5;-1","1 = Randomized; 2 = Training; 3= Randomized-control; 4= Randomized-intervention; 5= Concurrent cohort-intervention; -1= Not applicable",""
 "race_other","String","100","Recommended","","Race of Respondent Specify","","",""
 "respond","Integer","","Recommended","","Respondent","1::7;999","1 = Parent; 2 = Teacher; 3=Self; 4= Other; 5= Significant other; 6 = Parent 1; 7 = Parent 2; 999 = Not available","form_ext"
 "date_confirmed_phenotype","Date","","Recommended","","Date when subject was diagnosed","","",""

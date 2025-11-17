@@ -646,7 +646,7 @@
 "childrenlive_under18","Integer","","Recommended","How many children under the age of 18 currently live with you (including biological, stepchildren, foster children, etc.)?","","",""
 "aimss_homeowner","Integer","","Recommended","Do you own or rent your home?","1;2","1=Rent; 2=Own",""
 "aimss_employment","Integer","","Recommended","Please indicate your current employment status","1::7","1=Employed full time, outside the home; 2=Employed full time, work from home; 3=Employed part time; 4=Stay at home parent; 5=Unemployed, looking for work; 6=Unemployed, not looking for work; 7=Other",""
-"h1dem6","Integer","","Recommended","Do you currently have health insurance?","0;1","0= No; 1= Yes",""
+"h1dem6","Integer","","Recommended","Do you currently have health insurance?","0::2","0= No; 1= Yes; 2 = Don't know",""
 "health_insurance","Integer","","Recommended","What type of health insurance do you have?","0::3","0=Public Insurance (ex: Medicaid); 1=None/Self-Pay; 2=Private Insurance (Blue Cross Blue shield, Anthem, Cigna, etc); 3=Other",""
 "first_preg","Integer","","Recommended","Is it your first pregnancy:","0;1","0=No; 1=Yes",""
 "bgnumpr","Integer","","Recommended","How many pregnancies have you had, including your pregnancy with (current child)?","","Number of Pregnancies",""

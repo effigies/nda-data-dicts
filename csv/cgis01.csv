@@ -48,7 +48,7 @@
 "dsmvers","String","10","Recommended","version/name of assessment","","","form_name"
 "date_updated","Date","","Recommended","Date record updated","","","edit_date"
 "session_id","String","20","Recommended","session ID/screening ID","","","screeningid,session"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","tststfld"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","tststfld"
 "aefther","Integer","","Recommended","Therapist type","0::4","0 = IE (Independent Evaluator); 1 = PT (Pharmacotherapist); 2 = CBT (Cognitive Behavioral Therapist); 3 = MD (Medical Doctor); 4 = PI (Principal Investigator)","cgasther"
 "cgas","Integer","","Recommended","score on children's global assessment scale","0 :: 100","","cgas_score"
 "bsit0","Float","","Recommended","Weeks from Time 0/baseline to assessment","","","cgaswksbtw"

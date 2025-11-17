@@ -9,7 +9,7 @@
 "respond_detail","Integer","","Recommended","Respondent detail","1::8;999","1 = Mother; 2 = Father; 3 = Other relative or custodial adult; 4 = Teacher or caregiver; 5 = Other specialist; 6 = Other; 7 = Child; 8= Spouse; 999 = Not available",""
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","pi_staff"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified",""
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable",""
 "tatts_0","Integer","","Recommended","I did not see this client","0;1","0 = No (saw client); 1 = Yes (did not see client)",""
 "tatts_1","Integer","","Recommended","The interventions that I used with the adolescent and his/her family fit the family's needs.","1::7; 999","1 = Strongly Disagree; 2; 3; 4 = Neutral; 5; 6; 7 = Strongly Agree; 999 = Not Applicable",""
 "tatts_2","Integer","","Recommended","The interventions that I used with the adolescent fit with my counseling style.","1::7; 999","1 = Strongly Disagree; 2; 3; 4 = Neutral; 5; 6; 7 = Strongly Agree; 999 = Not Applicable",""

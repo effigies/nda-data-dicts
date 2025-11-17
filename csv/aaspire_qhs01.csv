@@ -41,3 +41,5 @@
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","qhs_comments"
 "count_qhs","Float","","Recommended","Unmet Healthcare Needs - Count","0::11","Number of endorsed items from (qhs_main___1, qhs_main___2, qhs_main___3, qhs_main___4, qhs_main___5, qhs_main___6, qhs_main___7, qhs_main___8, qhs_main___9, qhs_main___10, qhs_main___11)",""
 "qhs_any","Float","","Recommended","Dichotomous variable to indicate whether or not participant has any unmet healthcare needs (from qhs_main)","0;1","0 = No unmet healthcare needs indicated; 1 = Any unmet healthcare needs indicated",""
+"unmet_tx_medical","Integer","","Recommended","In the past 12 months, was there ever a time when you needed to see a medical specialist about a health issue but could not?","0;1","0=No; 1=Yes",""
+"unmet_tx_mental","Integer","","Recommended","In the past 12 months, was there ever a time when you needed mental health treatment or counseling, but could not get it?","0;1","0=No; 1=Yes",""

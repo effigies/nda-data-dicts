@@ -91,7 +91,7 @@
 "subjectkey_father","GUID","","Recommended","The NDAR Global Unique Identifier (GUID) for subject's biological father","NDAR*","",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
 "rrs_mean","Float","","Recommended","Ruminative Responses Scale Score - Mean","","",""
-"condition_c","Integer","","Recommended","Patient Condition","0::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing","condition.c"
+"condition_c","Integer","","Recommended","Patient Condition","-1::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing; -1 = Not applicable","condition.c"
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","assessment.c"
 "time_first_click","String","11","Recommended","Time at first click","","HH:MM:SS AM/PM","rrs_time_first_click"
 "time_last_click","String","11","Recommended","Time at last click","","HH:MM:SS AM/PM","rrs_time_last_click"

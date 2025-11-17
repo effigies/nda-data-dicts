@@ -23,7 +23,7 @@
 "restype","Integer","","Recommended","Response Type","","0 = IP Address; 1 = Survey Preview; 2 = Survey Test; 4 = Imported; 8 = Spam; 9 = Survey Preview Spam; 12 = Imported Spam; 16 = Offline; 17 = Offline Survey Preview; 32 = EX; 40 = EX Spam; 48 = EX Offline;",""
 "prog","Integer","","Recommended","Progress","","","progress"
 "gml_dur","Integer","","Recommended","Trial 1 duration of task, seconds","","","duration__in_seconds_"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","finished"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","finished"
 "date_updated","Date","","Recommended","Date record updated","","","recordeddate"
 "externalreference","String","255","Recommended","External Data Reference","","",""
 "meqscore","Integer","","Recommended","Morningness/Eveningness score","1::3","1=Evening Type 22 and less; 2=Intermediate Type 23-43; 3=Morning Type 44 and above",""

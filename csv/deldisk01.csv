@@ -36,7 +36,7 @@
 "dd_25","Integer","","Recommended","Would you prefer $54 today, or $80 in 30 days?","0;1","0=smaller reward today; 1=larger reward in the specified number of days","drd_25"
 "dd_26","Integer","","Recommended","Would you prefer $22 today, or $25 in 136 days?","0;1","0=smaller reward today; 1=larger reward in the specified number of days","drd_26"
 "dd_27","Integer","","Recommended","Would you prefer $20 today, or $55 in 7 days?","0;1","0=smaller reward today; 1=larger reward in the specified number of days","drd_27"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","dd_completed"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","dd_completed"
 "dd_expressions_nips","Integer","","Recommended","The total number of successfully determined temporal and probabilistic indifference points","0::10","The procedure determines a total of 10 different indifference points (for five temporal delays, 't1' to 't5', and five probabilistic 'delays', 'p1' to 'p5'). The procedure is stopped as soon as 'expressions.nips' returns 10, i.e. when all indifference points at question have been obtained.",""
 "dd_t1_ip_found","Integer","","Recommended","Has an indifference point has been successfully determined  for temporal delay t1","0;1","0=No; 1=Yes",""
 "dd_t1_ip","Float","","Recommended","Indifference point estimate for temporal delay t1","0::10","",""

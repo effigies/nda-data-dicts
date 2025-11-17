@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "wk_respiratory_infection","Integer","","Recommended","46. Upper respiratory infection","0;1","No = 0; Yes = 1;","oq_1a"
-"psqa23","Integer","","Recommended","Allergies affect child breathing through nose","0::2; 9","0 = No; 1 = Yes; 2 = Do not know; -9 = Missing value","oq_1b"
+"psqa23","Integer","","Recommended","Allergies affect child breathing through nose","0::2;9;-1","0 = No; 1 = Yes; 2 = Do not know; 9 = Missing value; -1 = Not applicable","oq_1b"
 "oq_1c","Integer","","Recommended","Current Nasal Problem: Current nasal congestion from other known source (ie., deviated septum, past severe respiratory infection resulting in probable smell/taste problem)","0;1","0 = No; 1 = Yes",""
 "oq_1d","Integer","","Recommended","Current Nasal Problem: Sum of above 3 questions","0::3","",""
 "oq_2a","Integer","","Recommended","Medications - Current: On antihistamine or other cold/allergy med (pills only)","0;1","0 = No; 1 = Yes",""

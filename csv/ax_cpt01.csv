@@ -44,7 +44,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment_number"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "nc_dp","Float","","Recommended","CPT d Prime Score","","","dprime"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","completed_ax_cpt"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","completed_ax_cpt"
 "mean_rt","Float","","Recommended","Mean RT across all trials - BEFORE FILTER","","",""
 "std_pop","Float","","Recommended","Standard Deviation of RT","","",""
 "std_3","Float","","Recommended","3 Standard Deviations of RT","","",""

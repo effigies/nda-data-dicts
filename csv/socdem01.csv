@@ -451,7 +451,7 @@
 "p_partnerbio","Integer","","Recommended","Is partner child's biological parent?","0;1;-99;88;77","0= No ; 1= Yes ; -99= N/A ; 88= Missing ; 77= Refused","demo_pfas21,ptner_bio_parent"
 "ustime","String","100","Recommended","How long you lived in US, years","","","p_yrs_in_usa"
 "bio_mother","Integer","","Recommended","Are you the Child''s Biological Mother?","0;1","0 = No; 1 = Yes",""
-"sample","Integer","","Recommended","Training or randomized case","1::5","1 = randomized; 2 = training; 3=randomized-control; 4=randomized-intervention; 5=concurrent cohort-intervention",""
+"sample","Integer","","Recommended","Training or randomized case","1::5;-1","1 = Randomized; 2 = Training; 3= Randomized-control; 4= Randomized-intervention; 5= Concurrent cohort-intervention; -1= Not applicable",""
 "mother_cod","String","50","Recommended","Mother's cause of death","","","mother_cause_of_death"
 "father_cause_of_death","String","50","Recommended","Father's cause of death","","",""
 "demobmdage","Integer","","Recommended","If mother deceased, age in years at death","0::100","","mother_age_death"

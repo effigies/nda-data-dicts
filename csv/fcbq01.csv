@@ -471,7 +471,7 @@
 "seeing_nephrologist","Integer","","Recommended","Is the child seeing/has seen a Nephrologist?","0;1","0=No; 1=Yes","dmg1_086"
 "mfed001","Integer","","Recommended","Have you been hospitalized for any reason?","0::1","0=No; 1=Yes","dmg1_087"
 "ch_22_02_group","String","100","Recommended","For what reasons has your child been hospitalized? Group","","; -7= Skipped or not answered due to skip logic; -8= I don't know the answer to the question; -9= I don't want to answer the question; -7= Skipped or not answered due to skip logic; -7= Skipped or not answered due to skip logic; -8= I don't know the answer to the question; -9= I don't want to answer the question","dmg1_087a"
-"psqb12","Integer","","Recommended","Child ever had surgery","0::2; 9","0 = No; 1 = Yes; 2 = Do not know; -9 = Missing value","dmg1_088"
+"psqb12","Integer","","Recommended","Child ever had surgery","0::2;9;-1","0 = No; 1 = Yes; 2 = Do not know; 9 = Missing value; -1 = Not applicable","dmg1_088"
 "pmh_surgeries","String","400","Recommended","Surgery(s) (type):","","","dmg1_088a"
 "c_iep_plan","Integer","","Recommended","Has this child EVER had a special education or early intervention plan? Children receiving these services often have an Individualized Education Plan (IEP).","0;1","0= No; 1= Yes","dmg1_089"
 "iep_type_pt","Integer","","Recommended","Type(s) early intervention received - Physical Therapy (PT)","0;1","0= No/Unchecked; 1= Yes/Checked","dmg1_090_1"

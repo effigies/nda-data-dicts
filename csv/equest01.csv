@@ -179,7 +179,7 @@
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","treatment"
-"ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2","1=Patient; 2=Partner",""
+"ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2;-1","1=Patient; 2=Partner; -1=Not applicable",""
 "session_number","Integer","","Recommended","Session number","","","session"
 "ede_1h","Integer","","Recommended","Nocturnal eating - When you ate how awake were you and how well could you recall the episode the next day?","0::2","0 = No nocturnal eating; 1 = Nocturnal eating with no impairment of awareness (alertness) or recall; 2 = Nocturnal eating with impairment of awareness (alertness) or recall",""
 "ede_2a","Integer","","Recommended","Over the past four weeks have you picked at (nibbled) food between meals and snacks? Rate number of days","0::6","0 = No picking (nibbling); 1 = Picking (nibbling) on 1 to 5 days; 2 = Picking (nibbling) on less than half the days (6 to 12 days); 3 = Picking (nibbling) on half the days (13 to 15 days); 4 = Picking (nibbling) on more than half the days (16 to 22 days); 5 = Picking (nibbling) almost every day (23 to 27 days); 6 = Picking (nibbling) every day",""

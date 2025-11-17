@@ -44,5 +44,5 @@
 "heart_rate","Integer","","Recommended","heart rate","","","hr"
 "pregnant01","Integer","","Recommended","Are you currently pregnant?","1::4;-2;-8;-9","1=Yes; 2=No; 3=Not applicable; 4=I prefer not to answer; -2=Not collected at this time point; -8=Unsure/Do not know; -9=Missing","preg"
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","treatment"
-"ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2","1=Patient; 2=Partner",""
+"ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2;-1","1=Patient; 2=Partner; -1=Not applicable",""
 "height_for_age_zscore","Float","","Recommended","Height-for-age z-score based on CDC standards","","",""

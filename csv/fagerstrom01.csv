@@ -42,7 +42,7 @@
 "dusa1a","Integer","","Recommended","If yes, on average, how many cigarettes per day have you smoked in the past 7 days?","0::100; 999","999= Legitimately skipped","ftnd9"
 "first_cig_smoke_reg_age","Integer","","Recommended","How old were you when you first started smoking cigarettes FAIRLY REGULARLY? PX030702_First_Cigarette_Smoking_Regularly_Age","1::99;999","","ftnd10"
 "fgrstrm_packs","Integer","","Recommended","How many packs of cigarettes per day have you smoked at the most?","","",""
-"sample","Integer","","Recommended","Training or randomized case","1::5","1 = randomized; 2 = training; 3=randomized-control; 4=randomized-intervention; 5=concurrent cohort-intervention",""
+"sample","Integer","","Recommended","Training or randomized case","1::5;-1","1 = Randomized; 2 = Training; 3= Randomized-control; 4= Randomized-intervention; 5= Concurrent cohort-intervention; -1= Not applicable",""
 "ftecd_score","Integer","","Recommended","Vaping Total Score","","A score of 5 or more indicates a significant dependence, while a score of 4 or less shows a low to moderate dependence.",""
 "comments_ftcd","String","1000","Recommended","Comments","","",""
 "nic_product","Integer","","Recommended","What type of nicotine products do you smoke?","0::2","0= None; 1= E-Cigarettes; 2= Cigarettes",""

@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "site","String","101","Recommended","Site","","Study Site","siteid"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","ipsm_skip"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","ipsm_skip"
 "ipsm_1","Integer","","Recommended","1. I feel insecure when I say goodbye to people","1::4","4 = Very like; 3 = Moderately like; 2 = Moderately unlike; 1 = Very unlike",""
 "ipsm_2","Integer","","Recommended","2. I worry about the effect I have on other people","1::4","4 = Very like; 3 = Moderately like; 2 = Moderately unlike; 1 = Very unlike",""
 "ipsm_3","Integer","","Recommended","3. I avoid saying what I think for fear of being rejected","1::4","4 = Very like; 3 = Moderately like; 2 = Moderately unlike; 1 = Very unlike",""

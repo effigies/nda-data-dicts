@@ -64,7 +64,7 @@
 "ci_enrolled","Integer","","Recommended","Participant enrolled","0;1","0=No; 1=Yes","studyday"
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment_number,interval"
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","frmcomp"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified",""
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable",""
 "alltest_sit5","Integer","","Recommended","Situation-Unable to draw or use","0;1","1=Describes test/occurred; 0=Does not describe test/didn't occur","c_sit1"
 "alltest_sit4","Integer","","Recommended","Situation-Tantrum","0;1","1=Describes test/occurred; 0=Does not describe test/didn't occur","c_sit2"
 "alltest_sit3","Integer","","Recommended","Situation-Refused to comply","0;1","1=Describes test/occurred; 0=Does not describe test/didn't occur","c_sit3"

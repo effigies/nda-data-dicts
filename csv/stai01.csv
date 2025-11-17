@@ -82,7 +82,7 @@
 "staittot","Integer","","Recommended","STAIT-S Total Score","","Note: prorated when any are missing � one missing 6 items (30%), others missing 1 or 2 items.sum(5-STAIT1, 5-STAIT3, 5-STAIT6, 5-STAIT7, 5-STAIT10, 5-STAIT13,5-STAIT14, 5-STAIT16, 5-STAIT19, STAIT2, STAIT4, STAIT5, STAIT8, STAIT9, STAIT11, STAIT12, STAIT15, STAIT17, STAIT18, STAIT20)","stai_t_total,stai_total"
 "imputation","Integer","","Recommended","Indicator noting imputed data set number ","1::20","",""
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified",""
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable",""
 "stai_trait_mx20","Integer","","Recommended","Mean of responses * 20","","",""
 "vses_tmp","Integer","","Recommended","Within-session Timepoint Reference","1::7","1=Baseline measure; 2=Pre-FIPD assessment; 3=Post-FIPD assessment; 4=Pre- social interaction anticipation; 5=Social interaction Anticipation; 6=Post-interaction assessment; 7= fMRI session measure",""
 "stai_state4_i","Integer","","Recommended","Right now. I am regretful.","1::4","1=Not at all so; 2= Somewhat; 3=Moderately so; 4=Very much so","staix1_q04"

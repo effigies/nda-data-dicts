@@ -21,7 +21,7 @@
 "tspe1","Integer","","Recommended","How suitable do you think this treatment is for your problem?","0::10","0= Not at all; 5= Moderate; 10= Extremely Suitable",""
 "tspe2","Integer","","Recommended","How successful do you think your treatment here will be?","0::10","0= Not at all; 5= Moderate; 10= Extremely Suitable",""
 "txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""
-"sample","Integer","","Recommended","Training or randomized case","1::5","1 = randomized; 2 = training; 3=randomized-control; 4=randomized-intervention; 5=concurrent cohort-intervention",""
+"sample","Integer","","Recommended","Training or randomized case","1::5;-1","1 = Randomized; 2 = Training; 3= Randomized-control; 4= Randomized-intervention; 5= Concurrent cohort-intervention; -1= Not applicable",""
 "tspe02_parent","Integer","","Recommended","How successful do you think the treatment will be/was for your child?","0::10","0=Not at all; 5=Moderate; 10=Extremely",""
 "tspe03_parent","Integer","","Recommended","Having your child's therapist provide guidance and coaching to your parents on how to manage your eating disorder symptoms (e.g., meals/snacks, exercise, purging behaviors)","0::10","0=Not at all helpful; 5=Moderately helpful; 10=Extremely helpful",""
 "tspe04_parent","Integer","","Recommended","Preparing and supervising all of your child's meals and snacks","0::10","0=Not at all helpful; 5=Moderately helpful; 10=Extremely helpful",""

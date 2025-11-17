@@ -56,7 +56,7 @@
 "hchairnotes","String","200","Recommended","Hair Assay Notes","","",""
 "hcassay","Integer","","Recommended","Was Salimetrics assay reliable?","0;1","0= No; 1= Yes",""
 "hccortisollog","Float","","Recommended","Compute Hair Cortisol Log. LG10(HCCortisol)","","",""
-"condition_c","Integer","","Recommended","Patient Condition","0::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing","condition.c"
+"condition_c","Integer","","Recommended","Patient Condition","-1::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing; -1 = Not applicable","condition.c"
 "child_sec_saliva03","Integer","","Recommended","Second Sample: Did child eat 30 minutes prior to second sample?","0;1","0= No; 1= Yes",""
 "child_sec_saliva04","String","100","Recommended","Second Sample: If yes, what did child eat?","","",""
 "child_sec_saliva05","Integer","","Recommended","Second Sample: Did child exercise in the 30 minutes prior to second sample?","0;1","0= No; 1= Yes",""

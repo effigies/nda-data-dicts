@@ -98,7 +98,7 @@
 "bisbas_16a","Integer","","Recommended","Nobody can stop me when I want something.","1 :: 4","4= Very true for me; 3= Somewhat true for me; 2= Somewhat false for me; 1= Very false for me","bis_bas_child_16"
 "bisbas_19a","Integer","","Recommended","I get really excited when I see an opportunity to get something I like.","1 :: 4","4= Very true for me; 3= Somewhat true for me; 2= Somewhat false for me; 1= Very false for me",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
-"sample","Integer","","Recommended","Training or randomized case","1::5","1 = randomized; 2 = training; 3=randomized-control; 4=randomized-intervention; 5=concurrent cohort-intervention",""
+"sample","Integer","","Recommended","Training or randomized case","1::5;-1","1 = Randomized; 2 = Training; 3= Randomized-control; 4= Randomized-intervention; 5= Concurrent cohort-intervention; -1= Not applicable",""
 "comqother","String","255","Recommended","Respondent - Other (text)","","",""
 "vis_type","Integer","","Recommended","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","visit_type,visit_type_12,visit_type_6"
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

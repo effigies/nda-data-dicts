@@ -38,7 +38,7 @@
 "lab020","Date","","Recommended","Date of PI/clinician signature","","",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visitnum"
 "site","String","101","Recommended","Site","","Study Site","siteid"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified",""
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable",""
 "urine_collection_time","String","10","Recommended","Urine Measures: Time of urine collection","","",""
 "uri_doa","Date","","Recommended","Date of analysis","","","u1_coc_doa"
 "uri_tim","String","10","Recommended","Tester read end time","","","u1_coc_anatime"

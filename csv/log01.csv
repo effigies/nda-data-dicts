@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","log004"
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","log012"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender,log013"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","edsafe_screening_log_complete"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","edsafe_screening_log_complete"
 "sitenum","Integer","","Recommended","Site Number","","900=Marlborough Hospital; 200=Maricopa Medical Center; 300=Memorial Hospital of Rhode Island; 400=Ohio State University Medical Center; 500=University of Arkansas Medical Center; 600=Beth Israel Deaconess Medical Center; 700=University of Nebraska Medical Center; 800=University of Colorado Hospital; 100=University of Massachusetts Memorial Hospital; -888=Not Applicable; -999=Missing;","log003"
 "studyphase","Integer","","Recommended","Study Phase","1::6; -888; -999","1=Phase 1: Treatment as Usual(TAU); 2=Phase 2: Screening Only; 3=Phase 3: Intervention; 4=Focus Groups; 5=Open Trial; 6=Randomized Trial; -888=Not Applicable; -999=Missing;","log037a"
 "log005","Integer","","Recommended","Order of Presentation","","",""

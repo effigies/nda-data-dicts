@@ -121,7 +121,7 @@
 "missingsum_obvq","Integer","","Recommended","total number of missing items","","","pssmiss_t4"
 "form_explain","Integer","","Recommended","Why was this form not completed?","85::99","99=Participant unable to complete due to cognitive impairment; 98=Participant unable to complete due to physical impairment; 97=Participant refused to begin/finish; 96=Participant completed but with less than best effort; 95=Participant unable to be contacted; 94=Participant deceased; 93=Participant withdrew consent; 92=Time constraints; 91=Rater forgot to administer; 90=Missed appointment; 89=Participant was terminated from study; 88=Other;87 = Not Done (reason unspecified); 86 = Not Applicable; 85 = Not completed due to lack of participant availability/interest",""
 "other_reason_nc","String","100","Recommended","Other reason form was not completed","","","fcspecify"
-"condition_c","Integer","","Recommended","Patient Condition","0::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing","condition.c"
+"condition_c","Integer","","Recommended","Patient Condition","-1::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing; -1 = Not applicable","condition.c"
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","assessment.c"
 "interview_language","String","255","Recommended","Language Used in the Interview","","","language"
 "wcst_ni","Integer","","Recommended","Number of Items","","","itmcnt"

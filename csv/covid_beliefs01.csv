@@ -87,7 +87,7 @@
 "selfcons_local_authorities12","Integer","","Recommended","Currently, where I am located, the authorities have (check all that apply): None of the above","0;1","0=Unchecked; 1=Checked","selfconsistency_local_authorities12"
 "selfcons2_changed_less_week","Float","","Recommended","My belief about statement 2 - Schools in my country should be/stay closed by the authorities - has changed during the last week","-5::5","-5=Yes, agree less; 0=No; 5=Yes, agree more","selfconsistency2_changed_less_week"
 "selfcons2_change_next_week","Float","","Recommended","My belief about statement 2 - Schools in my country should be/stay closed by the authorities - will likely change during the following week","-5::5","-5=Yes, agree less; 0=No; 5=Yes, agree more","selfconsistency2_will_change_next_week"
-"h1dem6","Integer","","Recommended","Do you currently have health insurance?","0;1","0= No; 1= Yes",""
+"h1dem6","Integer","","Recommended","Do you currently have health insurance?","0::2","0= No; 1= Yes; 2 = Don't know",""
 "covid_high_risk_self","Integer","","Recommended","I belong to a population at higher risk for COVID-19","0;1","0=No; 1=Yes",""
 "panas_upset_agree","Integer","","Recommended","Thinking about yourself, please indicate to what extent you feel this way right now: Upset","0::4","0=Strongly disagree; 1=Somewhat disagree; 2=Neither agree nor disagree; 3=Somewhat agree; 4=Strongly agree",""
 "panas_hostile_agree","Integer","","Recommended","Thinking about yourself, please indicate to what extent you feel this way right now: Hostile","0::4","0=Strongly disagree; 1=Somewhat disagree; 2=Neither agree nor disagree; 3=Somewhat agree; 4=Strongly agree",""

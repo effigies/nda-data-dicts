@@ -101,7 +101,7 @@
 "dersp_6","Integer","","Recommended","Once my partner is upset, s/he tends to wallow in his/her emotions.","1::5","1=Almost never; 2=Sometimes; 3=About half the time; 4=Most of the time; 5=Almost always",""
 "dersp_7","Integer","","Recommended","Once my partner is upset, it takes him/her a long time to feel better.","1::5","1=Almost never; 2=Sometimes; 3=About half the time; 4=Most of the time; 5=Almost always",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","treatment"
-"ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2","1=Patient; 2=Partner",""
+"ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2;-1","1=Patient; 2=Partner; -1=Not applicable",""
 "dersp_1","Integer","","Recommended","When my partner is upset, s/he loses control over his/her behaviors.","1::5","1=Almost never; 2=Sometimes; 3=About half the time; 4=Most of the time; 5=Almost always",""
 "dersp_2","Integer","","Recommended","When my partner is upset, s/he has difficulty controlling his/her behaviors.","1::5","1=Almost never; 2=Sometimes; 3=About half the time; 4=Most of the time; 5=Almost always",""
 "dersp_3","Integer","","Recommended","When my partner is upset, s/he becomes out of control.","1::5","1=Almost never; 2=Sometimes; 3=About half the time; 4=Most of the time; 5=Almost always",""

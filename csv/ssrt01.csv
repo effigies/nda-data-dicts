@@ -78,7 +78,7 @@
 "rt","Float","","Recommended","Reaction Time","","-1 = NaN",""
 "stage_2_key","Integer","","Recommended","Right/Left press to select alien","37;39","37= left; 39= right",""
 "stage_2_rt","Float","","Recommended","Time (milliseconds) to choose alien","","",""
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified",""
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable",""
 "presp","Float","","Recommended","The probability of a response on stop trials for a person (mean(signal$presp)): the probability that the participant pressed the button when they got a stop signal.","","",""
 "nthrt","Float","","Recommended","Quantile Response Time (RT):  the nth percentile of go RT with the percentile value matching the probability of responding (ref: Spunt, R.P., et al. The phenomenology of error processing: The dorsal ACC response to stop-signal errors tracks reports of negative affect. J Cogn Neurosci. 2012;24:1753-1765)","","",""
 "stop_rt","Float","","Recommended","Mean reaction time for stop trials","","",""

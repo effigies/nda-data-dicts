@@ -8,7 +8,7 @@
 "saps_ad8","String","30","Recommended","Form name","","","form_name"
 "site","String","101","Recommended","Site","","Study Site","site_uid"
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visit_name"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","tstst"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","tstst"
 "rlhqyr","Integer","","Recommended","RLHQ Module III Year","","",""
 "rlhqmth","Integer","","Recommended","RLHQ Module III Month","","",""
 "rlhqday","Integer","","Recommended","RLHQ Module III Date of Month","","",""

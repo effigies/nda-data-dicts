@@ -8,7 +8,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visit_name"
 "session_id","String","20","Recommended","session ID/screening ID","","",""
 "saps_ad8","String","30","Recommended","Form name","","","form_name"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","exmst"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","exmst"
 "neurotmh","String","10","Recommended","Time Hours","","",""
 "neurotmm","String","10","Recommended","Time Minutes","","",""
 "negm","Integer","","Recommended","Neuro Exam Gross Motor Results","1;2","1=Normal; 2=Abnormal",""

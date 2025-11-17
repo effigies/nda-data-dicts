@@ -42,7 +42,7 @@
 "pregnant01","Integer","","Recommended","Are you currently pregnant?","1::4;-2;-8;-9","1=Yes; 2=No; 3=Not applicable; 4=I prefer not to answer; -2=Not collected at this time point; -8=Unsure/Do not know; -9=Missing","bi13"
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","treatment"
-"ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2","1=Patient; 2=Partner",""
+"ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2;-1","1=Patient; 2=Partner; -1=Not applicable",""
 "mitt","String","1000","Recommended","Modified Intent-to-Treat Sample Notes","","",""
 "ageyears","Integer","","Recommended","Age in years","","","bi1"
 "demooo_1","Integer","","Recommended","What is your gender?","1::10; 99","1= Male; 2= Female; 3= Trans male; 4= Trans female; 5= Genderqueer/Gender non-conforming; 6= Do not identify as any of these options; 7= Gender non-conforming; 8= Genderqueer or Gender Fluid; 9= Questioning or unsure; 10= Other; 99= Unknown or not reported","bi2b"

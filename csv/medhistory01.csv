@@ -293,7 +293,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "mdga20f","String","150","Recommended","Medical Illness 6","","",""
 "ch20prob","Float","","Recommended","10 Year Probability Of CHD","","",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections","mhxs_studyid,studyid"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","formcomp,frmcomp"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","formcomp,frmcomp"
 "subtrial_name","Integer","","Recommended","Name of subtrial","1::3","1=Crossover; 2=Guanfacine; 3= Open Label MPH",""
 "mhalldre","Integer","","Recommended","Allergies  Drugs","1::3; -9; 9","1=No history 2=Yes, excludes;3=Yes, does not exclude; -9 =unknown; 9=not evaluated",""
 "mhallote","Integer","","Recommended","Allergies  Other","1::3; -9; 9","1=No history 2=Yes, excludes;3=Yes, does not exclude; -9 =unknown; 9=not evaluated","mhx001a,q09a"

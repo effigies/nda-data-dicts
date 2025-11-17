@@ -185,7 +185,7 @@
 "bsi_60","Integer","","Recommended","Feeling as if your future will somehow be cut short","0::4; 9","0 = Not at all; 1 = A little bit; 2 = Moderately; 3 = Quite a bit; 4 = Extremely; 9 = Blank/Missing",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","assessment.c"
-"condition_c","Integer","","Recommended","Patient Condition","0::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing","condition.c"
+"condition_c","Integer","","Recommended","Patient Condition","-1::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing; -1 = Not applicable","condition.c"
 "abs_bsi08","Integer","","Recommended","Thoughts of ending your life.","1::5; 666; 777","5 = Always; 4 = Most of the time; 3 = Sometimes; 2 = Rarely; 1 = Never; 666=Missing; 777=Not applicable",""
 "abs_bsi09","Integer","","Recommended","Feeling that most people can?t be trusted.","1::5; 666; 777","5 = Always; 4 = Most of the time; 3 = Sometimes; 2 = Rarely; 1 = Never; 666=Missing; 777=Not applicable",""
 "abs_bsi10","Integer","","Recommended","Poor appetite.","1::5; 666; 777","5 = Always; 4 = Most of the time; 3 = Sometimes; 2 = Rarely; 1 = Never; 666=Missing; 777=Not applicable",""

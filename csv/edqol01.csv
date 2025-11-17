@@ -34,4 +34,4 @@
 "edqol_work","Integer","","Recommended","EDQOL Work/School Subscore","","",""
 "edqol_fin","Integer","","Recommended","EDQOL Financial Subscore","","",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","treatment"
-"ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2","1=Patient; 2=Partner",""
+"ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2;-1","1=Patient; 2=Partner; -1=Not applicable",""

@@ -51,7 +51,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "white","Integer","","Recommended","5. Race","0;1","""1=yes, 0=no""","racew"
 "site","String","101","Recommended","Site","","Study Site","np_fact_where_test_done"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified",""
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable",""
 "schizophrenia_diagnosis","String","10","Recommended","Schizophrenia (N=no diagnosis for any first degree relative; Y=positive lifetime diagnosis for one or more first degree relatives)","N;Y; NK","N = No diagnosis for any first degree relative; Y = Positive lifetime diagnosis for one or more first degree relatives; NK=not known","dem005"
 "fh07","Integer","","Recommended","7. Subject adopted","0;1;9","","demo_adopted_yn"
 "demosam_012","Integer","","Recommended","Do you have any biological children?","0;1;-999; 9","1=Yes; 0=No; -999=NA/Missing Data; 9=DK","demo_offspring"

@@ -9,7 +9,7 @@
 "dayend","Integer","","Recommended","Parent SNAP or CAARS Days from Baseline used as end of interval for SCAPI data","","",""
 "snapyn","Integer","","Recommended","Is there a Parent SNAP or CAARS data-form present for the end-of-interval date?","1;2","1=Yes; 2=No",""
 "site","String","101","Recommended","Site","","Study Site","sitenum"
-"sjtyp","Integer","","Recommended","Subject type","1;2","1=MTA randomized trial subject; 2=Local normative comparison group (LNCG) subject",""
+"sjtyp","Integer","","Recommended","Subject type","1;2;-1","1=MTA randomized trial subject; 2=Local normative comparison group (LNCG) subject; -1= Not applicable",""
 "knownpc","Float","","Recommended","Percentage of the interval for which data are known","","",""
 "intlnth","Float","","Recommended","Interval length","","",""
 "ynjus","Integer","","Recommended","Any Truancy, Fights in School or the Neighborhood, Weapons brought to School, School Punishments, or Police Contact?","1;2","1=Yes; 2=No",""

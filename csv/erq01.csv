@@ -32,7 +32,7 @@
 "ceq_4","Integer","","Recommended","By the end of the treatment period, how much improvement in your depressive symptoms do you think will occurr? (percentage)","0::100","",""
 "ceq_2a","Integer","","Recommended","By the end of the treatment period, how much improvement in your depressive symptoms do you really feel will occur? (Percentage)","0::100","",""
 "ceq2","Integer","","Recommended","At this point, how successful do you think this treatment will be in reducing your depressive symptoms?","1::9","1= Not at all successful; 5= Somewhat successful; 9= Very successful",""
-"sample","Integer","","Recommended","Training or randomized case","1::5","1 = randomized; 2 = training; 3=randomized-control; 4=randomized-intervention; 5=concurrent cohort-intervention",""
+"sample","Integer","","Recommended","Training or randomized case","1::5;-1","1 = Randomized; 2 = Training; 3= Randomized-control; 4= Randomized-intervention; 5= Concurrent cohort-intervention; -1= Not applicable",""
 "ceq4","Integer","","Recommended","By the end of the program, how much improvement in your positive emotions and social connections do you think will occur?","1::10","1=0%; 2=10%; 3=20%; 4=30%; 5=40%; 6=50%; 7=60%; 8=70%; 9=80%; 10=90%; 11=100%",""
 "ceqfeel1","Integer","","Recommended","At this point, how much do you really feel this treatment program will help you to improve your positive emotions and social connections?","1::9","1=1 Not at all; 2=2; 3=3; 4=4; 5=5 Somewhat; 6=6; 7=7; 8=8; 9=9 Very much",""
 "ceqfeel2","Integer","","Recommended","By the end of the program, how much improvement in your positive emotions and social connections do you really <i>feel</i> will occur?","1::10","1=0%; 2=10%; 3=20%; 4=30%; 5=40%; 6=50%; 7=60%; 8=70%; 9=80%; 10=90%; 11=100%",""

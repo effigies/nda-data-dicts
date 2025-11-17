@@ -23,3 +23,5 @@
 "fies_6","Integer","","Recommended","During the last 3 months, was there a time when, because of lack of money or other resources: Your household ran out of food?","1::4","1= Never; 2= Rarely; 3= Sometimes; 4= Often",""
 "fies_7","Integer","","Recommended","During the last 3 months, was there a time when, because of lack of money or other resources: You were hungry but did not eat?","1::4","1= Never; 2= Rarely; 3= Sometimes; 4= Often",""
 "fies_8","Integer","","Recommended","During the last 3 months, was there a time when, because of lack of money or other resources: You went without eating for a whole day?","1::4","1= Never; 2= Rarely; 3= Sometimes; 4= Often",""
+"food_insecurity_1","Integer","","Recommended","Within the past 12 months, I/we were worried whether our food would run out before we got money to buy more.","0::3","1=Often true; 2=Sometimes true; 3=Never true",""
+"food_insecurity_2","Integer","","Recommended","Within the past 12 months, the food I/we bought just didn't last and I/we didn't have the money to get more.","0::3","1=Often true; 2=Sometimes true; 3=Never true",""

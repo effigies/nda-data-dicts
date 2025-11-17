@@ -620,7 +620,7 @@
 "kssp_q20_p","Integer","","Recommended","past diagnosis of Post-truamatic stress disorder (Past","0::4","0 = No information; 1 = Not present; 2 = Probable; 4 = Partial remission; 3 = Definite",""
 "visitday","Integer","","Recommended","day of visit","","","kssp_visitdat_x"
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","kssp_interval"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","kssp_frmcomp"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","kssp_frmcomp"
 "sadsd1","Integer","","Recommended","Since current episode (or exacerbation) began, when were things the worst for you? At that time, how convinced were you that (delusion) was really true? What did you do about it?
 Severity of non-organic delusion at height of current episode or exacerbation. Consider conviction and effect on behavior.","1::7","1 = Absent; 2 = Delusion(s) suspected or likely; 3 = Delusion(s) present but at times the individual questions belief; 4 = Full delusional conviction, but little or no influence on behavior; 5 = Full delusional conviction, but only minimal impact on behavior; 6 = Delusion(s) ha(s/ve) significant effect on behavior, e.g., neglects responsibilities because of preoccupation with belief that he or she is God; 7 = Delusion(s) ha(s/ve) major impact on behavior, e.g., stops eating because of belief that food is poisoned",""
 "sadsd2","Integer","","Recommended","Hallucinations - Did you ever hear things that other people couldn't hear, such as noises, or the voices of people whispering or talking? What did you hear? 

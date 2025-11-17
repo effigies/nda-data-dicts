@@ -38,7 +38,7 @@
 "rlhqlql","Integer","","Recommended","Patient's status is childbearing potential","1;2;9","1=No; 2=Yes; 9=unknown","prex_q01,q01"
 "contrac","Integer","","Recommended","Contraception use","1::5","1=None; 2=OBC; 3=Barrier; 4=Abstinence; 5=Other","prex_q03"
 "pregnan","Integer","","Recommended","pregnancy test","0::6;-7;9","0=Negative; 1=Positive; 2=Test not conducted; -7=Refused; 9=NA;3=Not pregnant (per pregnancy test); 4=Not pregnant (has not reached menarche); 5=Pregnancy suspected, but not confirmed; 6 = Equivocal","preg2,prex_q05,q05"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","frmcomp,prex_frmcomp,pt01"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","frmcomp,prex_frmcomp,pt01"
 "bcstat","Integer","","Recommended","Current Birth Control or Reproductive Status","1::12; 99","1=Oral; 2=Hormonal Injections; 3=Hormonal Implants; 4=Contraceptive Patches; 5=Ring; 6=Intrauterine device, hormonal; 7=Intrauterine device, non-hormonal; 8=Barrier method; 9=Spermicide; 10 Post-menopausal for > 1 year; 11=Bilateral tubal ligation, bilateral oophorectomy, or hysterectomy; 12=Abstinence; 99 = other","q03"
 "p_med_bc","String","65","Recommended","Describe type of birth control","","","q04"
 "daysrz","Integer","","Recommended","days since randomization","","","studyday"

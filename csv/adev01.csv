@@ -90,7 +90,7 @@
 "oatx","Integer","","Recommended","other treatment given","0;1;-4;-5;-6;-7;-8","0=No; 1=Yes; -4=Missing; -5=N/A; -6=Unknown; -7=Refused; -8=Not on original form",""
 "oaoth","Integer","","Recommended","other action taken","0;1;-4;-5;-6;-7;-8","0=No; 1=Yes; -4=Missing; -5=N/A; -6=Unknown; -7=Refused; -8=Not on original form",""
 "site","String","101","Recommended","Site","","Study Site","ael_01o,site_id,site_uid,site_x,siteid"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","aeformstatus_1,formcomp,frmcomp"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","aeformstatus_1,formcomp,frmcomp"
 "aestatuschange_1","Integer","","Recommended","Suicide Attempt: Was there a status change?","73::77; -888; -999","73=No; 74=Yes, Ideation to Attempt; 75=Yes, Ideation to Completed Suicide; 76=Yes, attempt to Completed Suicide; 77=Not Applicable to this AE Type; -888=Not Applicable; -999=Missing;",""
 "callcenterdatasource_1","Integer","","Recommended","Data Source: Call Center/Confirmit","0;1; -888; -999","0=False; 1=True; -888=Not Applicable; -999=Missing;",""
 "crisiscenterdatasource_1","Integer","","Recommended","Source of Data: Crisis center","0;1; -888; -999","0=False; 1=True; -888=Not Applicable; -999=Missing;",""

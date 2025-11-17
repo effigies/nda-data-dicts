@@ -424,7 +424,7 @@
 "study","String","100","Recommended","","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections","studyid"
 "site","String","101","Recommended","","Site","","Study Site","lab,siteid"
 "visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","int1"
-"completed","Integer","","Recommended","","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","formcomp"
+"completed","Integer","","Recommended","","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","formcomp"
 "subtrial_name","Integer","","Recommended","","Name of subtrial","1::3","1=Crossover; 2=Guanfacine; 3= Open Label MPH",""
 "currentconcerns","String","250","Recommended","","current concern","","","symptoms_concern_3rd_pri"
 "currentconcerns_4","Integer","","Recommended","","Current Concerns 4th Priority (Comes after 1st, 2nd, and 3rd priority concerns. Coded in Rank order of top four major concerns)","0::5; 9; 888; 999","0=No concern, parental or professional; 1=Delay/deviance in development of speech and/or expressive language; 2=Medical problems or delay in milestones other than language; 3=Lack of interest in or abnormality/oddity in social or emotional response to people; 4=Behavior difficulty not specific to autism; 5=Autistic-type behaviors; 9=N/K or not asked; 888=Blank, but applicable response; 999=Missing","symptoms_concern_4th_pri"

@@ -152,7 +152,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visitlabel"
 "instance","Integer","","Recommended","Instance","0::100","The number of instance of the first degree relative.",""
 "subjecttype","String","20","Recommended","Subject Type","Control;Prodromal; Enhanced; Non-Enhanced","",""
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","gaf_complete"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","gaf_complete"
 "name_study","String","50","Recommended","Name of initial study","","",""
 "visit_reason7","Integer","","Recommended","What was the main reason for your visit today? (check all that apply): Other","0;1","0=No; 1=Yes",""
 "card_received","Integer","","Recommended","Today, did your counselor or student health provider give you one of these palm-sized cards (pictured below)?","0::2","0= No; 1= Yes; 2= Prefer not to answer",""

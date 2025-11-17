@@ -115,7 +115,7 @@
 "genit_dis","Integer","","Recommended","Genitourinary Disorder (Bladder, Reproductive System)","0;1;9","1 = Yes; 0 = No; 9 = Unknown","genit"
 "medprob_inf","String","50","Recommended","Infectious Disease: Is there any known abnormality in this area","No;Yes;Don't Know","","infectious"
 "phystrau","Integer","","Recommended","Physical Trauma","0;1;9","1 = Yes; 0 = No; 9 = Unknown",""
-"psqb12","Integer","","Recommended","Child ever had surgery","0::2; 9","0 = No; 1 = Yes; 2 = Do not know; -9 = Missing value","surgery"
+"psqb12","Integer","","Recommended","Child ever had surgery","0::2;9;-1","0 = No; 1 = Yes; 2 = Do not know; 9 = Missing value; -1 = Not applicable","surgery"
 "baseline_k_003","Integer","","Recommended","Cancer","0;1;-888;-999","0=No; 1=Yes; -888=Not Applicable; -999=Missing;","cancer"
 "szsadbp","Integer","","Recommended","Does the subject have Schizophrenia, Schizoaffective Disorder, or Psychotic Bipolar Disorder?","0;1;9","1 = Yes; 0 = No; 9 = Unknown",""
 "szsadbponset","Integer","","Recommended","How old was the subject at the first symptom onset of SZ, SAD, or Psychotic BD? (specify age in years)","","specify age in years",""

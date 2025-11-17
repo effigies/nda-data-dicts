@@ -82,4 +82,4 @@
 "rbisf12a","Integer","","Recommended","Indicate the frequency with which the following factors have influenced your level of sexual activity during the past month - My or my partner's eating disorder","0::4","0 = Not at all; 1 = Seldom; 2 = Sometimes; 3 = Usually; 4 = Always",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","treatment"
-"ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2","1=Patient; 2=Partner",""
+"ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2;-1","1=Patient; 2=Partner; -1=Not applicable",""

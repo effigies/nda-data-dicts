@@ -16,7 +16,7 @@
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","assessment.c"
 "ihphobia","Float","","Recommended","Internalized Homophobia Scale Mean Score","","","ihs_mean"
-"condition_c","Integer","","Recommended","Patient Condition","0::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing","condition.c"
+"condition_c","Integer","","Recommended","Patient Condition","-1::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing; -1 = Not applicable","condition.c"
 "istigma_sm_1","Integer","","Recommended","I wish I were not [lesbian/gay/bisexual/queer/or pansexual].","1::5; 999","1= Absolutely disagree; 2= Somewhat disagree; 3= Cannot say; 4= Somewhat agree; 5= Absolutely agree; 999= NA",""
 "istigma_sm_2","Integer","","Recommended","I have tried to stop being attracted to people of the same gender in general.","1::5; 999","1= Absolutely disagree; 2= Somewhat disagree; 3= Cannot say; 4= Somewhat agree; 5= Absolutely agree; 999= NA",""
 "istigma_sm_3","Integer","","Recommended","If someone offered me the chance to be completely heterosexual, I would accept the chance.","1::5; 999","1= Absolutely disagree; 2= Somewhat disagree; 3= Cannot say; 4= Somewhat agree; 5= Absolutely agree; 999= NA",""

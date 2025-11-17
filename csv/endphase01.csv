@@ -59,7 +59,7 @@
 "treatment_name","String","200","Recommended","treatment name","","e.g., Control, Intervention, Experimental, Placebo",""
 "noopnlbl","String","50","Recommended","Placebo non-responder: Explain no Open Label","","",""
 "faz1done","Integer","","Recommended","Did child complete Phase Assessments?","0;1","0 = no; 1 = yes","faz2done"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","wk4"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","wk4"
 "wkasscomp","Integer","","Recommended","Study Week Assessment Completed","","",""
 "faz2asmt","Integer","","Recommended","Does the family agree to continue with Phase II Assessments?","0;1","0 = no; 1 = yes",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","ynofaz2"

@@ -107,7 +107,7 @@
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "visitday","Integer","","Recommended","day of visit","","",""
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified",""
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable",""
 "sibtestsscore","Integer","","Recommended","SIB Test Score","","",""
 "sibr_pb_daf","Float","","Recommended","problem behaviors: daily average frequency","","",""
 "sibr_pb_das","Float","","Recommended","problem behaviors: daily average severity","","",""

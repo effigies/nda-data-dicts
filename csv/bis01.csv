@@ -68,7 +68,7 @@
 "bis_sp","Integer","","Recommended","I solve problems by trial-and-error","1::4","4= Rarely/Never; 3=Occasionally; 2=Often; 1= Almost Always/Always",""
 "bis_ta","Integer","","Recommended","I talk fast","1::4","1= Rarely/Never; 2=Occasionally; 3=Often; 4= Almost Always/Always",""
 "total_attended","Integer","","Recommended","Total number of sessions attended","0 :: 100","",""
-"condition_c","Integer","","Recommended","Patient Condition","0::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing","condition.c"
+"condition_c","Integer","","Recommended","Patient Condition","-1::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing; -1 = Not applicable","condition.c"
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","assessment.c,visit"
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
 "ca10","Float","","Recommended","Age (years)","","","subject_age"

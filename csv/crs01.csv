@@ -84,7 +84,7 @@
 "smkamt","Integer","","Recommended","About how many cigarettes smoke per day","","","mh_smkn"
 "yearssmoking","Float","","Recommended","Years smoking","0.0::99.9","","mh_smkny"
 "cr3b","Float","","Recommended","Tobacco Use: If yes, smoked: Years since quitting smoking ","","","mh_smkyq"
-"psqb18","Integer","","Recommended","Drink caffeinated beverages on a typical day","0::2; 9","0 = No; 1 = Yes; 2 = Do not know; -9 = Missing value","mh_caff"
+"psqb18","Integer","","Recommended","Drink caffeinated beverages on a typical day","0::2;9;-1","0 = No; 1 = Yes; 2 = Do not know; 9 = Missing value; -1 = Not applicable","mh_caff"
 "medhx12","Integer","","Recommended","Do you drink alcohol?","0;1","0 = No; 1 = Yes","mh_alchc"
 "mentalhealth19","Integer","","Recommended","have you been treated for an alcohol problem?","0;1","0=No; 1=Yes","mh_alctx"
 "subus30","Integer","","Recommended","Does the client currently use any other recreational drugs?","1;0","1=Yes; 0=No","mh_idrgc"

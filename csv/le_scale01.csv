@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","clinician"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","les_info"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","les_info"
 "les_1a","Integer","","Recommended","1a. You got married, engaged or made a formal commitment to a partner, including a ceremony: Event happened to you in the past 6 months?","0;1","0 = No; 1 = Yes",""
 "les_1b","Integer","","Recommended","1b.  You got married, engaged or made a formal commitment to a partner, including a ceremony: How stressful was the event or difficulty when it occurred?","1::5","1 = Extremely; 2 = very; 3 = moderately; 4 = a little; 5 = not stressful",""
 "les_2a","Integer","","Recommended","2a. You got separated, divorced, or had a break-up with a partner (mate, girlfriend or boyfriend) due to conflict...: Event happend to you in the past 6 months?","0;1","0 = No; 1 = Yes",""

@@ -9,7 +9,7 @@
 "dsmvers","String","10","Recommended","version/name of assessment","","","form_name"
 "date_updated","Date","","Recommended","Date record updated","","","edit_date"
 "session_id","String","20","Recommended","session ID/screening ID","","","screeningid"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","tstst"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","tstst"
 "atrqtrt","Integer","","Recommended","Treatment during CURRENT depressive episode","1;2","1=Yes; 2=No",""
 "medication_name","String","255","Recommended","Name of medication","","","athf_med_namevb,atrqdrg,name"
 "medication_notes","String","1000","Recommended","notes or observations regarding medication","","","athfmed_commvb,atrq4ao"

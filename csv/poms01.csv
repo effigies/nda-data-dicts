@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
 "site","String","101","Recommended","Site","","Study Site",""
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified",""
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable",""
 "comp_assess","Integer","","Recommended","Please indicated when assessment completed","1::3;-9","1=Pre-infusion; 2=Post-infusion; 3=Follow-up Visit; -9=Unknown",""
 "poms001","Integer","","Recommended","Friendly","0::4;-9","0=Not at all; 1=A little; 2=Moderately; 3=Quite a bit; 4=Extremely; -9=Unknown",""
 "poms002","Integer","","Recommended","Tense","0::4;-9","0=Not at all; 1=A little; 2=Moderately; 3=Quite a bit; 4=Extremely; -9=Unknown",""

@@ -88,4 +88,4 @@
 "oti_poly_j","Integer","","Recommended","Synthetic Drugs use","0;1","0=No; 1=Yes",""
 "cs06","Integer","","Recommended","6. Tobacco products (e.g. cigarettes)","0;1","0=No; 1=Yes","oti_poly_k"
 "cs07","Integer","","Recommended","Alcohol","0;1","0=No; 1=Yes","oti_poly_l"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","oti_complete"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","oti_complete"

@@ -123,7 +123,7 @@
 "mri_ef207","Integer","","Recommended","Acceptable Run Number 20","","",""
 "mri_ef208","Integer","","Recommended","Run number calculation 20","","",""
 "mri_ef209","String","100","Recommended","Comments for sequence 20","","",""
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","mri_scan_complete,v10_mri_completed,v1_mri_completed"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","mri_scan_complete,v10_mri_completed,v1_mri_completed"
 "strf_15","Date","","Recommended","Initial pregnancy test date","","","pregnant_test_date"
 "sample_group_mri","Integer","","Recommended","selects sample group","1;2","1=Clinical; 2=Healthy Control",""
 "vat_test","Integer","","Recommended","MRI VAT pass/fail","0;1;9","0=fail;1=pass; 9=not collected",""

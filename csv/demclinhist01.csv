@@ -70,7 +70,7 @@
 "mid_treatment_date","Date","","Recommended","Date mid-treatment assessment completed","","",""
 "post_treatment_date","Date","","Recommended","Date post-treatment assessment completed","","",""
 "follow_up_date","Date","","Recommended","Date follow-up assessment completed","","",""
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified",""
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable",""
 "withdraw_date","Date","","Recommended","Date withdrawn","","",""
 "withdraw_reason","Integer","","Recommended","Reason patient withdrew from study","0::8","0= Non-compliance; 1= Did not wish to continue in study; 2= Could not tolerate the treatment; 3= Hospitalization; 4= Illness; 5= Death; 6= Family circumstance; 7= Transportation; 8= Other",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","study_comments"

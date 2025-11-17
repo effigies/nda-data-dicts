@@ -709,7 +709,7 @@
 "scrn_currsisa","Integer","","Recommended","Screened positive for current suicidal ideation or suicide attempt","0;1; -888; -999","0=No; 1=Yes; -888=Not Applicable; -999=Missing",""
 "scrn_sisa","Integer","","Recommended","Screened positive for suicidal ideation or suicide attempt","0;1; -888; -999","0=No; 1=Yes; -888=Not Applicable; -999=Missing",""
 "any_mh","Integer","","Recommended","Utilized outpatient Mental Health","0;1; -888; -999","0=No; 1=Yes; -888=Not Applicable; -999=Missing",""
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","chart_review_complete,chartreview_complete"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","chart_review_complete,chartreview_complete"
 "chartreview005","Integer","","Recommended","ED triage date not documented","0;1; -888;-999","0=No;1=Yes;-888=Not Applicable;-999=Missing;",""
 "chartreview006","String","50","Recommended","ED triage time","","",""
 "chartreview007","Integer","","Recommended","ED triage time not documented","0;1; -888;-999","0=No;1=Yes;-888=Not Applicable;-999=Missing;",""

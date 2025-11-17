@@ -26,6 +26,6 @@
 "ptsd_event1","Integer","","Recommended","Did the subject experience a traumatic event?","0;1","0=No; 1=Yes","vst_traumevn"
 "thc14a","String","250","Recommended","Event 1: Describe the most traumatic event","","","vst_desc"
 "attended","Integer","","Recommended","Attended Visit","0;1","0=No; 1=Yes","vst_attend"
-"completed","Integer","","Recommended","Checks if completed","0::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified","vst_frmcomp"
+"completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","vst_frmcomp"
 "visitday","Integer","","Recommended","day of visit","","","vst_visitdat_x"
 "trtgroup","String","2","Recommended","Treatment Group","N1;N2;R1;R2;R3","N1=Non-Responder Entering Fluvoxamine; N2=Non-Responder Entering Fluoxetine; R1=Maintenance; R2=Responder Entering Fluvoxamine; R3=Responder Entering Fluoxetine",""
