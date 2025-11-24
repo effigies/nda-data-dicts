@@ -253,3 +253,5 @@
 "smokeless_4mo","Integer","","Recommended","In the past 4 months, have you used a smokeless tobacco product such as chewing tobacco, snuff, dip, snus, or dissolvable tobacco products, such as Copenhagen, Grizzly, Skoal, or Camel Snus, even once or twice?","1;2","1= No; 2= Yes",""
 "cigar4_mo","Integer","","Recommended","In the past 4 months, have you smoked cigars, cigarillos, or little cigars, even one or two puffs?","1;2","1= No; 2= Yes",""
 "hnb_4mo","Integer","","Recommended","In the past 4 months, have you used heated tobacco (also called heat-not-burn) products, even just one time?","1;2","1= No; 2= Yes",""
+"gats_1","Integer","","Recommended","Do you currently smoke tobacco every day, some days, or do you not smoke currently?","0::2;99","0 = Do not smoke currently; 1 = Some days; 2 = Every day; 99 = Missing",""
+"gats_2","Integer","","Recommended","In the past, have you smoked tobacco products every day, some days, or have you never smoked?","0::2;99","0 = I have never smoked; 1 = Some days; 2 = Every day; 99 = Missing or do not know",""

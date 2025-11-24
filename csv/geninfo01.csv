@@ -356,7 +356,7 @@
 "hearspch","Integer","","Recommended","Has a hearing and/or speech impairment?","1;2;9","1=No; 2=Yes; 9=N/K",""
 "needsglasses","Integer","","Recommended","Needs glasses/corrective lenses?","1;2;9","1=No; 2=Yes; 9=N/K","glasses"
 "menses","Integer","","Recommended","Started to menstruate? Did she start her period/menses?","0::2;9","0=Does Not Apply; 1=No; 2=Yes; 9=N/K (Not Known)",""
-"digs_num_live_births","Integer","","Recommended","How many live births?","","Number of Live Births",""
+"digs_num_live_births","Integer","","Recommended","How many live births?","","Number of Live Births; -99 = Missing",""
 "stpmhosp","Integer","","Recommended","Did Mother surrogate (e.g., grand/step-mother) have a serious medical illness requiring hospitalization? More Than 1 Year ago","1;2;9","1=No; 2=Yes; 9=N/K",""
 "stpmhosc","Integer","","Recommended","Did Mother surrogate (e.g., grand/step-mother) have a serious medical illness requiring hospitalization? Within Past Year","1;2;9","1=No; 2=Yes; 9=N/K",""
 "stpfhosp","Integer","","Recommended","Did Father surrogate (e.g., grand/step-father) have a serious medical illness requiring hospitalization? More Than 1 Year ago","1;2;9","1=No; 2=Yes; 9=N/K",""

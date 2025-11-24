@@ -535,7 +535,7 @@
 "prev_rel_7","Integer","","Recommended","Prior to your current relationship, have you: Never been in a relationship?","0;1","0=No; 1=Yes",""
 "numlivchild","Integer","","Recommended","Number of living children","","",""
 "total_pregnant","Integer","","Recommended","Number of pregnancies, including a current pregnancy, live births, miscarriages, stillbirths, tubal pregnancies, or abortions","","-10=More than 10",""
-"currently_pregnant","Integer","","Recommended","Are you currently pregnant?","0;1;-99","0= No; 1= Yes; -99= NA or Refused",""
+"currently_pregnant","Integer","","Recommended","Are you currently pregnant?","0;1;-99;99","0= No; 1= Yes; -99= NA or Refused; 99= Missing",""
 "all_child_loss","Integer","","Recommended","Have you ever experienced the loss of a child, either biological or non-biological/adopted (not including the loss of a pregnancy)? ","0;1","0=No; 1=Yes",""
 "all_child_loss_num","Integer","","Recommended","Have you ever experienced the loss of a child, either biological or non-biological/adopted (not including the loss of a pregnancy)? If so, how many?","","-5=More than 5",""
 "loss_pregnant","Integer","","Recommended","Have you ever experienced the loss of a pregnancy?","0;1","0=No; 1=Yes",""

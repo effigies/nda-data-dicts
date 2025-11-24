@@ -110,7 +110,7 @@
 "ssi_c_17","Integer","","Recommended","Past 24 hours: Suicide note - Have you written a suicide note?","0::2","0= None; 1= Started by not completed, only thought about; 2= Completed",""
 "ssi_c_18","Integer","","Recommended","Past 24 hours: Final acts in anticipation of death (e.g., insurance, will)","0::2","0= None; 1= Thought about or made some arrangements; 2= Made definite plans or completed arrangements",""
 "ssi_c_19","Integer","","Recommended","Past 24 hours: Deception/concealment of contemplated suicide","0::2","0= Revealed ideas openly; 1= Held back on revealing; 2= Attempted to deceive, conceal, lie",""
-"ssi_c_tot","Integer","","Recommended","Scale for Suicide Ideation - Current (SSI-C) Total Score","0::38","Sum of items ssi_c_1 through ssi_c_19",""
+"ssi_c_tot","Integer","","Recommended","Scale for Suicide Ideation - Current (SSI-C) Total Score","0::38","Sum of items ssi_c_1 through ssi_c_19","ssi_s_current"
 "ssi_c_1","Integer","","Recommended","Past 24 hours: Wish to live - How strong is your wish to live?","0::2","0= Moderate to strong; 1= Weak; 2= None",""
 "ssi_c_2","Integer","","Recommended","Past 24 hours: Wish to die - How strong is your wish to die?","0::2","0= None; 1= Weak; 2= Moderate to strong",""
 "ssi_c_3","Integer","","Recommended","Past 24 hours: Reasons for living/dying - Do you think your reasons for living outweigh dying?","0::2","0= Reasons for living outweigh dying; 1= About equal; 2= Reasons for dying outweigh living",""

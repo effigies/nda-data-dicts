@@ -369,3 +369,6 @@
 "femcond_o","Integer","","Recommended","In the past year, did other partners use female condoms?","0;1;666","0= No; 1= Yes; 666= Not applicable to wife, only asked of husband",""
 "diaphragm_w","Integer","","Recommended","In the past year, did your wife/you use a cap (a vaginal diaphragm contraceptive)?","0;1","0= No; 1= Yes",""
 "diaphragm_o","Integer","","Recommended","In the past year, did other partners use a cap (a vaginal diaphragm contraceptive)?","0;1;666","0= No; 1= Yes; 666= Not applicable to wife, only asked of husband",""
+"condomless_sex_2months","Integer","","Recommended","In the last 2 months, have you had sexual relations with someone who is not your main partner without using a condom?","0;1;99","0 = No; 1 = Yes; 99 = Missing",""
+"condomless_sex_migration","Integer","","Recommended","During your trip from the last place that you lived in for a year or more and before arriving to Tijuana, did you ever have sexual relations with someone who is not your main partner without using a condom?","0;1;99","0 = No; 1 = Yes; 99 = Missing",""
+"partner_number","Integer","","Recommended","In the last 2 months, how many intimate/sexual partners have you had?","","Number of sexual partners; -99 = Missing",""

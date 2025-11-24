@@ -36,3 +36,6 @@
 "promisgls_pp_003","Integer","","Recommended","Thinking about the past 4 weeks, My child''s life was the best.","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much",""
 "promisgls_pp_004","Integer","","Recommended","Thinking about the past 4 weeks, My child''s life was outstanding.","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much",""
 "promisgls_pp_006","Integer","","Recommended","Thinking about the past 4 weeks, My child''s life was great.","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much",""
+"promis_pa067_7pt","Integer","","Recommended","P. My child's life is just right. S.My life situation is just right","1::7","1= Strongly disagree; 2= Disagree; 3= Slightly disagree; 4= Neither agree nor disagree; 5= Slightly agree; 6= Agree; 7= Strongly agree",""
+"promis_pa069_7pt","Integer","","Recommended","S. I wish I had a different kind of life. P.My child wishes he/she had a different kind of life.","1::7","1= Strongly disagree; 2= Disagree; 3= Slightly disagree; 4= Neither agree nor disagree; 5= Slightly agree; 6= Agree; 7= Strongly agree",""
+"promis_pa066_7pt","Integer","","Recommended","My life is going well.","1::7","1= Strongly disagree; 2= Disagree; 3= Slightly disagree; 4= Neither agree nor disagree; 5= Slightly agree; 6= Agree; 7= Strongly agree",""

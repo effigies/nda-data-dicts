@@ -77,7 +77,7 @@
 "sex_partners3months","Integer","","Recommended","In the past three months, how many sexual partners have you had?","","-8=Don't Know; -9=Refused",""
 "vaginal_sex_times","Integer","","Recommended","How many times have you had vaginal sex in the past month?","0::4","0=None; 1=1-3times; 2=4-5times; 3=6-10 times; 4=Greater than 10 times",""
 "condom_use","Integer","","Recommended","Did you use a condom each time?","0;1","0 = No; 1 = Yes",""
-"currently_pregnant","Integer","","Recommended","Are you currently pregnant?","0;1;-99","0= No; 1= Yes; -99= NA or Refused",""
+"currently_pregnant","Integer","","Recommended","Are you currently pregnant?","0;1;-99;99","0= No; 1= Yes; -99= NA or Refused; 99= Missing",""
 "birth_control_yn","Integer","","Recommended","Do you currently use a method of birth control, including abstinence?","0;1","0 = No; 1 = Yes",""
 "birth_control_method___1","Integer","","Recommended","Which birth control method do you currently use? Male condoms (the type that a man wears)","0;1","0 = No; 1 = Yes",""
 "birth_control_method___2","Integer","","Recommended","Which birth control method do you currently use? Female condoms (the type that a woman wears)","0;1","0 = No; 1 = Yes",""

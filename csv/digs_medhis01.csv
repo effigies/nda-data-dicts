@@ -109,7 +109,7 @@
 "digs_dev_delay_yes","String","500","Recommended","If yes to developmental abnormalities: (Specify Additional Details)","","Additional Details",""
 "digs_preg","Integer","","Recommended","Have you ever been pregnant?","0;1;9","0=No; 1=Yes; 9=Unknown",""
 "digs_num_preg","Integer","","Recommended","How many times have you been pregnant including miscarriages, abortions, and still births?","","Number of Pregnancies",""
-"digs_num_live_births","Integer","","Recommended","How many live births?","","Number of Live Births",""
+"digs_num_live_births","Integer","","Recommended","How many live births?","","Number of Live Births; -99 = Missing",""
 "digs_prob_preg_birth","Integer","","Recommended","Have you ever had any severe emotional problems during a pregnancy or within a month of childbirth?","0 :: 3;9","0= No; 1= Yes, during pregnancy only; 2= Yes, post natal only; 3= Yes, both during pregnancy and post natal; 9= Unknownnown",""
 "digs_emo_prob_preg","String","500","Recommended","If yes to severe emotional problems during a pregnancy or childbirth: (Specify Additional Details)","","Additional Details",""
 "digs_mood_menstrual","Integer","","Recommended","Have you ever noticed regular mood changes in the premenstrual or menstrual period?","0;1;9","0=No; 1=Yes; 9=Unknown",""

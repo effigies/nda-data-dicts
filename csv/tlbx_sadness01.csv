@@ -110,3 +110,5 @@
 "depression39","Integer","","Recommended","In the past 7 days: I felt like a failure","0::4","0 = Never; 1 = Rarely; 2 = Sometimes; 3 = Often; 4 = Always",""
 "depression44","Integer","","Recommended","In the past 7 days: I felt depressed","0::4","0 = Never; 1 = Rarely; 2 = Sometimes; 3 = Often; 4 = Always",""
 "depression50","Integer","","Recommended","In the past 7 days: I felt hopeless","0::4","0 = Never; 1 = Rarely; 2 = Sometimes; 3 = Often; 4 = Always",""
+"eddep17","Integer","","Recommended","In the past 7 days...I felt sad","1::5;99;888;999","1 = Never; 2 = Rarely or almost never; 3 = Sometimes; 4 = Often; 5 = Always or almost always; 99= Missing; 888 = N/A; 999 = Incomplete",""
+"eddep36","Integer","","Recommended","In the past 7 days...I felt unhappy","1::5;-5;99;-999","1 = Never; 2 = Rarely or almost never; 3 = Sometimes; 4 = Often; 5 = Always or almost always; -5= Item seen but not answered; 99= Missing; -999= Data not submitted (incomplete, item not seen)",""

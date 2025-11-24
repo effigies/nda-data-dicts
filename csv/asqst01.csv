@@ -7,7 +7,7 @@
 "asq_01","Integer","","Recommended","In the past few weeks, have you wished you were dead?","0;1;6","0 = No; 1= Yes; 6= No response",""
 "asq_02","Integer","","Recommended","In the past few weeks, have you felt that you or your family would be better off if you were dead?","0;1;6","0 = No; 1= Yes; 6= No response",""
 "asq_03","Integer","","Recommended","In the past week, have you been having thoughts about killing yourself?","0;1;6","0 = No; 1= Yes; 6= No response",""
-"asq_04","Integer","","Recommended","Have you ever tried to kill yourself?","0;1;6","0 = No; 1= Yes; 6= No response",""
+"asq_04","Integer","","Recommended","Have you ever tried to kill yourself?","0;1;6;999","0 = No; 1= Yes; 6= No response; 999= Missing",""
 "asq_05","String","350","Recommended","If you have ever tried to kill yourself, how did you do it?","","",""
 "asq_06","String","350","Recommended","If you have ever tried to kill yourself, when did it happen?","","",""
 "asq_07","Integer","","Recommended","Are you having of killing yourself right now?","0;1;6","0 = No; 1= Yes; 6= No response",""

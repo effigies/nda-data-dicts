@@ -64,3 +64,8 @@
 "addiy_5","Integer","","Recommended","Are you hassled by the police because of your race/ethnicity?","1::5","1 = Never; 5 = All the time",""
 "addiy_6","Integer","","Recommended","Do people act like they are suspicious of you because of your race/ethnicity?","1::5","1 = Never; 5 = All the time",""
 "addiy_7","Integer","","Recommended","Do you get poor service at a restaurant or fast food place because of your race/ethnicity?","1::5","1 = Never; 5 = All the time",""
+"addi_01","Integer","","Recommended","Were you called insulting names by other peers because of your ethnicity/race?","1::5;999","1 = Never; 2 = Once or twice; 3 = A few times; 4 = A lot; 5 = A whole lot; 999 = Missing",""
+"addi_02","Integer","","Recommended","Were you threatened by other peers because of your ethnicity/race?","1::5;999","1 = Never; 2 = Once or twice; 3 = A few times; 4 = A lot; 5 = A whole lot; 999 = Missing",""
+"addi_03","Integer","","Recommended","Did other peers exclude you from their activities because of your ethnicity/race?","1::5;999","1 = Never; 2 = Once or twice; 3 = A few times; 4 = A lot; 5 = A whole lot; 999 = Missing",""
+"addi_04","Integer","","Recommended","Did other peers assume your English was poor because of your ethnicity/race?","1::5;999","1 = Never; 2 = Once or twice; 3 = A few times; 4 = A lot; 5 = A whole lot; 999 = Missing",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

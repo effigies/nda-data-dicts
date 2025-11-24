@@ -124,3 +124,4 @@
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "days_since_admit","Integer","","Recommended","Days since admission","","",""
+"asq_04","Integer","","Recommended","Have you ever tried to kill yourself?","0;1;6;999","0 = No; 1= Yes; 6= No response; 999= Missing",""

@@ -154,7 +154,7 @@
 "hxpdage","Integer","","Recommended","Onset of personality disorder","","",""
 "hxptsd","Integer","","Recommended","History of PTSD","1::3","1=No; 2=Probable; 3=Definite",""
 "hxptsdag","Integer","","Recommended","Onset of PTSD","","",""
-"hxsui","Integer","","Recommended","History of suicide attempt","0;1","0=No; 1=Yes",""
+"hxsui","Integer","","Recommended","History of suicide attempt","0;1;99","0=No; 1=Yes; 99=Unknown",""
 "hxsuiage","Integer","","Recommended","Onset of suicide attempt","","",""
 "hxvio","Integer","","Recommended","History of violence","0;1; -9","0=No; 1=Yes; -9 = Unknown",""
 "hxvioage","Integer","","Recommended","Onset of violence","","",""

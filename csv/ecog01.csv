@@ -55,3 +55,4 @@
 "followmap","Integer","","Recommended","Following a map to find a new location","1::4;9","1= better or no change; 2= questionable/occasionally worse; 3= consistently a little worse; 4= consistently much worse;9= Don't know",""
 "organfinance","Integer","","Recommended","Keeping financial records organized","1::4;9","1= better or no change; 2= questionable/occasionally worse; 3= consistently a little worse; 4= consistently much worse;9= Don't know",""
 "completed_by","String","100","Recommended","Who completed the form?","","RA; Self-Report; Informant",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""

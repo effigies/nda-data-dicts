@@ -112,7 +112,7 @@
 "fertility_potential6","Integer","","Recommended","Have you ever had any of the following? Select all that apply: None","0;1","0=Unselected; 1=Selected",""
 "prom_preg","Integer","","Recommended","Are you currently pregnant?","1::3","1= Yes; 2= No; 3= Not sure",""
 "cms5","Integer","","Recommended","Total numbers of pregnancies:","","Please include current pregnancy",""
-"dem25","Integer","","Recommended","Are you currently trying to become pregnant?","1::4","1 = Yes; 2 = No; 3 = Not applicable; 4 = I prefer not to answer",""
+"dem25","Integer","","Recommended","Are you currently trying to become pregnant?","1::4;99","1 = Yes; 2 = No; 3 = Not applicable; 4 = I prefer not to answer; 99 = Missing",""
 "sex_recent_90day","Integer","","Recommended","In the past 90 days, did you have vaginal sex with a male?","0;1","0=No; 1=Yes",""
 "sex_contra_p","Integer","","Recommended","In the past 90 days, did you have vaginal sex with a male? If yes, did you or your partner use contraception or birth control methods to prevent pregnancy?","1::3","1=Yes, every time; 2=Yes, sometimes; 3=No",""
 "sex_contra_p_method","String","250","Recommended","In the past 90 days, did you have vaginal sex with a male? If yes, did you or your partner use contraception or birth control methods to prevent pregnancy? If yes, list all methods used","","",""
