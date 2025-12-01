@@ -34,3 +34,8 @@
 "promis_p10","Integer","","Recommended","My child felt too sad to eat","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""
 "promis_p11","Integer","","Recommended","My child felt stressed","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""
 "promis_p12","Integer","","Recommended","My child didn''t care about anything","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""
+"p_promis_ang2","Integer","","Recommended","In the past 7 days: My child was angry","1::5","1= Never; 2= Almost Never; 3= Sometimes; 4= Often; 5= Almost Always",""
+"p_promis_ang4","Integer","","Recommended","In the past 7 days: My child was so angry they felt like hitting something","1::5","1= Never; 2= Almost Never; 3= Sometimes; 4= Often; 5= Almost Always",""
+"p_promis_ang5","Integer","","Recommended","In the past 7 days: My child was so angry they felt like breaking things","1::5","1= Never; 2= Almost Never; 3= Sometimes; 4= Often; 5= Almost Always",""
+"p_promis_ang7","Integer","","Recommended","In the past 7 days: My child was so angry they acted grouchy towards other people","1::5","1= Never; 2= Almost Never; 3= Sometimes; 4= Often; 5= Almost Always",""
+"p_promis_ang9","Integer","","Recommended","In the past 7 days: My child was fed up","1::5","1= Never; 2= Almost Never; 3= Sometimes; 4= Often; 5= Almost Always",""

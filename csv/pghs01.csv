@@ -60,3 +60,6 @@ average?","0::10; -999","0=No pain; 10=Worst imaginable pain; -999 = Missing","p
 "mth_yrs_pain","Integer","","Recommended","If YES, about how many total months or years did you have this pain?","1::7; 88","1=0-5 months; 2=6-11 months; 3=1-4 years; 4=5-9 years; 5=10-14 years; 6=15-20 years; 7=More than 20 years; 88=Not applicable",""
 "mth_yrs_lat","Integer","","Recommended","If YES, how many months or years has it been since you last had this pain?","1::7; 88","1=0-5 months; 2=6-11 months; 3=1-4 years; 4=5-9 years; 5=10-14 years; 6=15-20 years; 7=More than 20 years; 88=Not applicable",""
 "pghs_usual","Integer","","Recommended","How much did pain interfere with your usual activities?","1::5","1= Not at all; 2= A little; 3= Moderately; 4= Mostly; 5= Completely",""
+"pedglobal2r1","Integer","","Recommended","How often do you feel really sad?","1::5;999","1= Always; 2= Often; 3= Sometimes; 4= Rarely; 5= Never; 999= I prefer not to answer",""
+"pedglobal5r1","Integer","","Recommended","How often do you have fun with friends?","1::5;999","1= Always; 2= Often; 3= Sometimes; 4= Rarely; 5= Never; 999= I prefer not to answer",""
+"pedglobal6r1","Integer","","Recommended","How often do your parents listen to your ideas?","1::5;999","1= Always; 2= Often; 3= Sometimes; 4= Rarely; 5= Never; 999= I prefer not to answer",""

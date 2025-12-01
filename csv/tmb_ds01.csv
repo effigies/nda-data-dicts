@@ -16,3 +16,5 @@
 "tmb_ds_fwd_duration","Float","","Recommended","Time it took the user to complete the test that generated the results (seconds)","","","tmb_digitspan_forward_duration"
 "tmb_ds_backs_duration","Float","","Recommended","Time it took the user to complete the test that generated the results (seconds)","","","tmb_digitspan_backwards_duration"
 "tmb_ds_testversion","String","50","Recommended","Test's script version","","DigitSpan_Main.v1.Oct21","tmb_digitspan_testversion"
+"tmb_ds_backs_flag_span","Integer","","Recommended","Flag for invalid performance if span < 2 (suggests participant did not understand the task)","0;1","0= No; 1= Yes",""
+"tmb_ds_backs_flag_any","Integer","","Recommended","Flag indicating whether participant was flagged for any one or more of the above quality control metrics","0;1","0= No; 1= Yes",""

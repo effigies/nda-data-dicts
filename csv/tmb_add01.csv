@@ -26,3 +26,7 @@
 "tmb_add_tenyears_lnk","Float","","Recommended","ten-years ln(k)","","",""
 "tmb_add_respdevice","Integer","","Recommended","Participant's response device","1;2","1= Mouse; 2= Touch",""
 "tmb_add_testversion","String","50","Recommended","Test's script version","","DelayDiscount_Main.v1.Dec20",""
+"tmb_add_lnk_final","Float","","Recommended","Natural logarithm of the average of the final k values computed for each delay period","","",""
+"tmb_add_flag_medianrt","Integer","","Recommended","Flag for invalid performance if medianRT < 500 ms (implausibly fast reaction time)","0;1","0= No; 1= Yes",""
+"tmb_add_flag_catchtrials","Integer","","Recommended","Flag for invalid performance if catch_score < .75 (suggests inattention to test)","0;1","0= No; 1= Yes",""
+"tmb_add_flag_any","Integer","","Recommended","Flag indicating whether participant was flagged for any one of the above quality control metrics","0;1","0= No; 1= Yes",""

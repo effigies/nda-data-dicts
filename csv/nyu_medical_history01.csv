@@ -26,7 +26,7 @@
 "medication_for_illness","String","200","Recommended","was the mother given any medication for that illness during pregnancy","","",""
 "presmed_smoke","String","50","Required","In this pregnancy, did the birth mother do any of the following activities - Smoke cigarettes or other tobacco products","Yes;No;999","999=NA/missing",""
 "ldnb_wtbirthp","Float","","Recommended","How much did this baby weigh at birth (pounds)","","",""
-"ldnb_babydeliver","String","50","Recommended","How was the baby delivered","Vaginal;C-Section;Vacuum;Forceps","",""
+"ldnb_babydeliver","String","60","Recommended","How was the baby delivered","Vaginal;C-Section;Vacuum;Forceps;Vaginal breech delivery;Assisted vaginal delivery (Vacuum or forceps);Unknown","",""
 "forceps_vacuum","String","3","Required","were forceps or a vacuum used to aid delivery","yes;no;999","",""
 "fullterm_preg","String","3","Required","was the pregnancy carried to fullterm","yes;no;999","",""
 "ldnb_wtbirtho","Float","","Recommended","How much did this baby weigh at birth (ounces)","","",""
