@@ -115,7 +115,7 @@
 "preginf_relationship_status","Integer","","Recommended","What is your relationship status? ","1::9","1=Single; 2=In a relationship; 3=Engaged; 4=Married; 5=Separated; 6=Divorced; 7=Civil union; 8=Domestic partnership; 9=Undisclosed",""
 "diagnosed_depressive_disorder","Integer","","Recommended","Do you have a history of any of the following? Diagnosed depression","0;1","0=No; 1=Yes",""
 "diagnosed_anxiety_disorder","Integer","","Recommended","Do you have a history of any of the following? Diagnosed anxiety","0;1","0=No; 1=Yes",""
-"cigarettes_tobacco","Integer","","Recommended","Do you currently use any of the following? Cigarettes or other tobacco","0;1;99","0=No; 1=Yes; 99=No response",""
+"cigarettes_tobacco","Integer","","Recommended","Do you currently use any of the following? Cigarettes or other tobacco","0::2;99","0=No; 1=Yes; 2=No, but used to; 99=No response",""
 "preg_pfas5","Integer","","Recommended","Did you receive routine prenatal care while pregnant with the subject?","0::2","0= No; 1= Yes; 2= Do not remember",""
 "preg_pfas5_txt","String","100","Recommended","Did not receive routine prenatal care while pregnant with the subject - What prenatal care did you receive?","","",""
 "preg_pfas6","Integer","","Recommended","Did you smoke cigarettes during your pregnancy with the subject?","0::2","0= No; 1= Yes; 2= Do not remember",""

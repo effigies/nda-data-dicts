@@ -264,3 +264,8 @@
 "ifq_4","Float","","Recommended","If yes, how old was your child when he/she was first fed formula?","","",""
 "ifq_4a","Integer","","Recommended","If yes, how old was your child when he/she was first fed formula? Units","0::2","0=Days; 1=Weeks; 2=Months",""
 "ifq_5","Float","","Recommended","How old was your child when he/she completely stopped drinking formula?","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"ihq_3","Integer","","Recommended","Was the child ever breastfed?","0;1","0 = No; 1 = Yes",""
+"ihq_4","Integer","","Recommended","Is the child still being breastfed?","0;1","0 = No; 1 = Yes",""
+"ihq_5","Integer","","Recommended","If the child is no longer being breastfed, how long did you breastfeed for?","","Number of months",""
+"ihq_6","Integer","","Recommended","How would you describe your infant's general health in the past two weeks?","0::4","0 = Poor; 1 = Satisfactory; 2 = Good; 3 = Very Good; 4 = Excellent",""

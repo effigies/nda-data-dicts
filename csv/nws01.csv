@@ -40,3 +40,5 @@
 "nws_5pt_5","Integer","","Recommended","Nicotine currently Difficulty concentrating","0::4","0= None; 1= Slight; 2= Mild; 3= Moderate; 4= Severe",""
 "nws_5pt_6","Integer","","Recommended","Nicotine currently Increased appetite/hungry","0::4","0= None; 1= Slight; 2= Mild; 3= Moderate; 4= Severe",""
 "nws_5pt_9","Integer","","Recommended","Nicotine currently Constipation","0::4","0= None; 1= Slight; 2= Mild; 3= Moderate; 4= Severe",""
+"nws7_alt","Integer","","Recommended","Nicotine currently- Restless","0::4","0=None; 1=Slight; 2=Mild; 3=Moderate; 4=Severe",""
+"nws8_alt","Integer","","Recommended","Nicotine currently- Impatient","0::4","0=None; 1=Slight; 2=Mild; 3=Moderate; 4=Severe",""

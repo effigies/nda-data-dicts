@@ -41,3 +41,4 @@
 "lshslikert_12","Integer","","Recommended","In the past I have heard the voice of God speaking to me","0::4","0=Certainly does not apply to me; 1=Possibly does not apply to me; 2=Unsure; 3=Possibly Applies to me; 4=Certainly applies to me",""
 "lshs10","Integer","","Recommended","I have heard the voice of the Devil","0;1","0= False; 1= True",""
 "lshs12","Integer","","Recommended","I have been troubled by hearing voices in my head","0;1","0= False; 1= True",""
+"lshslikert_11_alt","Integer","","Recommended","I have heard the voice of the Devil","0::4","0=Certainly does not apply to me; 1=Possibly does not apply to me; 2=Unsure; 3=Possibly Applies to me; 4=Certainly applies to me",""

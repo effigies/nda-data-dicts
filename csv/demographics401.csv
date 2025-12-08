@@ -292,3 +292,6 @@
 "select_one_chiefdom_d4","Integer","","Recommended","What chiefdom?","1::14","1=Bombali Shebora; 2=Makari Gbanti; 3=Sanda Tenraren; 4=Biriwa; 5=Magbaiamba Ndowahun; 6=Sanda Loko; 7=Safroko Limba; 8=Sella Limba; 9=Tambakha; 10=Gbanti Kamaranka; 11=Gbendembu Ngowahun; 12=Paki Massabong; 14=Libeisaygahun",""
 "select_one_chiefdom_d5","Integer","","Recommended","What chiefdom?","1::7","1=Magbema; 2=Samu; 3=Mambolo; 4=Gbinle Dixing; 5=Masungbala; 6=Tonko Limba; 7=Briama",""
 "select_one_chiefdom_d6","Integer","","Recommended","What chiefdom?","1::11","1=Diang; 2=Nieni; 3=Sengbe; 4=Sulima; 5=Wara-Wara Bafodea; 6=Mongo; 7=Dembelia Sikunia; 8=Kasunko; 9=Folasaba; 10=Wara-Wara Yagala; 11=Neya",""
+"dem2","Integer","","Recommended","Do you identify as transgender?","1::4","1 = Yes; 2 = No; 3 = I prefer not to answer; 4 = I do not know",""
+"pronouns","Integer","","Recommended","What are your pronouns?","1::4;-9","1=he/him; 2=she/her; 3=they/them; 4=other; -9=missing",""
+"nonbinary","Integer","","Recommended","Do you identify as non-binary, genderqueer, or gender fluid?","0;1","0=No; 1=Yes",""

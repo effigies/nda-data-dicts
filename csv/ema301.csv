@@ -689,3 +689,7 @@
 "ema_memory","Integer","","Recommended","Today, my thinking and memory was:","0::10","0 = Very poor; 10 = Very high",""
 "session_ema","Integer","","Recommended","Morning or Evening EMA (Ecological Momentary Assessment)?","1;2","1 = Morning; 2 = Evening",""
 "sleep_quality_night","Integer","","Recommended","How would you rate your sleep quality overall last night?","0::10","0 = Very bad; 10 = Very good",""
+"si_test","Integer","","Recommended","Please indicate how you currently feel from drinking alcohol?","0::3","0=Slightly buzzed; 1=Tipsy/happy; 2=Drunk; 3=Wasted",""
+"diary_stop_reason","Integer","","Recommended","Why have you decided to stop the Drinking Diary Surveys?","0::2","0=I am no longer drinking; 1=I did this by accident; 2=I forgot to stop my diary when I finished drinking, so it ended automatically",""
+"time_done_drinking_diary","String","10","Recommended","For the drinking diary - What time did you stop drinking? If you stopped drinking, please select the current time","","HH:MM",""
+"time_done_drinking_diary_2","String","10","Recommended","Since you forgot to stop your Drinking Diary Survey, approximately what time did you stop drinking?","","HH:MM",""

@@ -111,3 +111,4 @@
 "promis_ds_10","Integer","","Recommended","In the past 7 days, Being sad made it hard for me to do thing with my friends","1::5;99","1= Never; 2= Almost Never; 3= Sometimes; 4= Often; 5= Almost Always; 99= Missing",""
 "promis_ds_11","Integer","","Recommended","In the past 7 days, I felt sad for no reason","1::5;99","1= Never; 2= Almost Never; 3= Sometimes; 4= Often; 5= Almost Always; 99= Missing",""
 "promis_ds_14","Integer","","Recommended","In the past 7 days, I felt too sad to eat","1::5;99","1= Never; 2= Almost Never; 3= Sometimes; 4= Often; 5= Almost Always; 99= Missing",""
+"promis_ped_dep_1","Integer","","Recommended","I thought that my life was bad","1::5;99","1= Never; 2= Almost Never; 3= Sometimes; 4= Often; 5= Almost Always; 99= Missing",""

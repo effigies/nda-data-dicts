@@ -649,7 +649,7 @@
 "m_drinkstart","String","20","Recommended","Approximately what time did you start drinking yesterday?","","",""
 "m_drinkend","String","20","Recommended","Approximately what time did you stop drinking yesterday?","","",""
 "alc_lifetime3","Integer","","Recommended","Are you drinking currently?","0;1","0=No; 1=Yes",""
-"d_firstdrink","Integer","","Recommended","Are you starting your first drink?","0;1;-99;-999","0=No; 1=Yes; -99=I clicked this survey by accident, I am not drinking; -999=I clicked this survey by accident, I am waiting for a follow-up survey",""
+"d_firstdrink","Integer","","Recommended","Are you starting your first drink?","0::2;-99;-999","0=No; 1=Yes; 2=No, I accidentally stopped my diary session and I need to start a new one; -99=I clicked this survey by accident, I am not drinking; -999=I clicked this survey by accident, I am waiting for a follow-up survey",""
 "survey_submitted_time","String","12","Recommended","Time participant submitted survey","","HH:MM",""
 "started_ts","String","20","Recommended","Survey started timestamp","","",""
 "diary_5_n","Integer","","Recommended","How many standard drinks of alcohol did you consume yesterday (a standard drink is a 12-ounce beer, 5-ounce glass of wine, or a 1-ounce glass of liquor)?","0::15","Number of drinks; 15= 15 or more",""
