@@ -7,7 +7,7 @@
 "macvs01","Integer","","Recommended","One's belief in God gives inner strength and meaning to
 lifev","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs02","Integer","","Recommended","Parents should teach their children that the family always
-comes first.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
+comes first.","1::5;999","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely; 999= Missing",""
 "macvs03","Integer","","Recommended","Children should be taught that it is their duty to care for
 their parents when their parents get old.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs04","Integer","","Recommended","Children should always do things to make their parents
@@ -20,7 +20,7 @@ of money","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Comp
 depend on others.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs08","Integer","","Recommended","God is first; family is second","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs09","Integer","","Recommended","Family provides a sense of security because they will
-always be there for you","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
+always be there for you","1::5;999","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely; 999= Missing",""
 "macvs10","Integer","","Recommended","Children should respect adult relatives as if they were
 parents","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs11","Integer","","Recommended","If a relative is having a hard time financially, one should
@@ -31,15 +31,15 @@ ask for advice from close relatives.","1::5","1= Not at all; 2= A little; 3= Som
 women can stay home and take care of the children and the
 home.
 women can stay home and take care of the children and the
-home.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
+home.","1::5;999","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely; 999= Missing",""
 "macvs14","Integer","","Recommended","One must be ready to compete with others to get ahead","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs15","Integer","","Recommended","Children should never question their parents' decisions.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs16","Integer","","Recommended","Money is the key to happiness.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs17","Integer","","Recommended","The most important thing parents can teach their children
 is to be independent from others.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs18","Integer","","Recommended","Parents should teach their children to pray.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
-"macvs19","Integer","","Recommended","Families need to watch over and protect teenage girls more than teenage boys","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
-"macvs20","Integer","","Recommended","It is always important to be united as a family","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
+"macvs19","Integer","","Recommended","Families need to watch over and protect teenage girls more than teenage boys","1::5;999","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely; 999= Missing",""
+"macvs20","Integer","","Recommended","It is always important to be united as a family","1::5;999","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely; 999= Missing",""
 "macvs21","Integer","","Recommended","A person should share their home with relatives if they need a place to stay","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs22","Integer","","Recommended","Children should be on their best behavior when visiting the homes of friends or relatives.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs23","Integer","","Recommended","Parents should encourage children to do everything better than others","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
@@ -47,26 +47,27 @@ is to be independent from others.","1::5","1= Not at all; 2= A little; 3= Somewh
 "macvs25","Integer","","Recommended","Children should always honor their parents and never say bad things about them","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs26","Integer","","Recommended","As children get older their parents should allow them to make their own decisions.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs27","Integer","","Recommended","If everything is taken away, one still has their faith in God.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
-"macvs28","Integer","","Recommended","It is important to have close relationships with aunts/ uncles, grandparents and cousins","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
+"macvs28","Integer","","Recommended","It is important to have close relationships with aunts/ uncles, grandparents and cousins","1::5;999","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely; 999= Missing",""
 "macvs29","Integer","","Recommended","Older kids should take care of and be role models for their younger brothers and sisters.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs30","Integer","","Recommended","Children should be taught to always be good because they represent the family","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs31","Integer","","Recommended","Children should follow their parents' rules, even if they think the rules are unfair.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
-"macvs32","Integer","","Recommended","It is important for the man to have more power in the family than the woman","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
+"macvs32","Integer","","Recommended","It is important for the man to have more power in the family than the woman","1::5;999","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely; 999= Missing",""
 "macvs33","Integer","","Recommended","Personal achievements are the most important things in life.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs34","Integer","","Recommended","The more money one has, the more respect they should get from others","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs35","Integer","","Recommended","When there are problems in life, a person can only count on him/herself","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs36","Integer","","Recommended","It is important to thank God every day for all one has.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
-"macvs37","Integer","","Recommended","Holidays and celebrations are important because the whole family comes together","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
+"macvs37","Integer","","Recommended","Holidays and celebrations are important because the whole family comes together","1::5;999","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely; 999= Missing",""
 "macvs38","Integer","","Recommended","Parents should be willing to make great sacrifices to make sure their children have a better life.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs39","Integer","","Recommended","A person should always think about their family when making important decisions","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs40","Integer","","Recommended","It is important for children to understand that their parents should have the final say when decisions are made in the family.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs41","Integer","","Recommended","Parents should teach their children to compete to win.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
-"macvs42","Integer","","Recommended","Mothers are the main people responsible for raising children","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
+"macvs42","Integer","","Recommended","Mothers are the main people responsible for raising children","1::5;999","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely; 999= Missing",""
 "macvs43","Integer","","Recommended","The best way for a person to feel good about himself/ herself is to have a lot of money","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs44","Integer","","Recommended","Parents should encourage children to solve their own problems","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs45","Integer","","Recommended","It is important to follow the Word of God","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
-"macvs46","Integer","","Recommended","It is important for family members to show their love and affection to one another.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
+"macvs46","Integer","","Recommended","It is important for family members to show their love and affection to one another.","1::5;999","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely; 999= Missing",""
 "macvs47","Integer","","Recommended","It is important to work hard and do one's best because this work reflects on the family","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs48","Integer","","Recommended","Religion should be an important part of one's life","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
 "macvs49","Integer","","Recommended","Children should always be polite when speaking to any adult.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
-"macvs50","Integer","","Recommended","A wife should always support her husband's decisions, even if she does not agree with him","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely",""
+"macvs50","Integer","","Recommended","A wife should always support her husband's decisions, even if she does not agree with him","1::5;999","1= Not at all; 2= A little; 3= Somewhat; 4= Very much; 5= Completely; 999= Missing",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

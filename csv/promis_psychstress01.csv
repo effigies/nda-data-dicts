@@ -23,3 +23,4 @@
 "promis_psychstress_child_3","Integer","","Recommended","In the past 7 days, I felt overwhelmed","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""
 "promis_psychstress_child_4","Integer","","Recommended","In the past 7 days, I felt unable to manage things in my life","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""
 "prom_psychstress_c_rawscore","Integer","","Recommended","PROMIS (Child version) Psychological Stress Raw Score","","",""
+"promis_psychstress_child_1","Integer","","Recommended","In the past 7 days, I felt stressed","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""

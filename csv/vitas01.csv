@@ -144,3 +144,6 @@
 "meth_dose","Integer","","Recommended","Level of intravenous methamphetamine dose","0;15;30","0 = 0 mg; 15 = 15 mg; 30 = 30mg",""
 "comorbid_condition","Integer","","Recommended","Does the patient have MUD (Methamphetamine Use Disorder) alone, or comorbid Methamphetamine Use Disorder (MUD) and Opioid Use Disorder (OUD)?","0;1","0 = Methamphetamine Use Disorder only; 1 = Comorbid methamphetamine and opioid use disorder",""
 "exp_time_meth","Float","","Recommended","Methamphetamine administration time from baseline measured in hours","-1;0::3.5","-1= Baseline; 0= At administration; 0.25= 15 minutes after administration; 0.5 = 30 minutes after administration; 1 = 1 hour after administration; 2 = 2 hours after administration; 3 = 3 hours after administration; 3.5= 3.5 hours after administration",""
+"pentoxifylline_dose","Integer","","Recommended","Level of pentoxifylline dose","0::2","0= 0mg/day; 1= 800 mg/day; 2= 1200 mg/day",""
+"cocaine_dose","Integer","","Recommended","Level of intravenous cocaine dose","0;10;30","0= 0 mg/70 kg; 10= 10 mg/70 kg; 30= 30mg/70 kg",""
+"exp_time_cocaine","Float","","Recommended","Time from baseline in hours","-1;0::4","-1= Baseline (prior to cocaine intravenous administration); 0= At administration of cocaine; 0.25= 15 minutes after administration; 4= 4 hours after cocaine administration",""

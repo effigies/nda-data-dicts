@@ -81,3 +81,7 @@
 "sq021p","Integer","","Recommended","In the past 7 days, my child woke up at night and worried about not going back to sleep","1::5","1 = Never; 2 = Almost never; 3 = Sometimes; 4 = Almost always; 5 = Always",""
 "sq023p","Integer","","Recommended","In the past 7 days, my child woke up too early and could not fall back asleep","1::5","1 = Never; 2 = Almost never; 3 = Sometimes; 4 = Almost always; 5 = Always",""
 "sq040p","Integer","","Recommended","In the past 7 days, my child slept poorly","1::5","1 = Never; 2 = Almost never; 3 = Sometimes; 4 = Almost always; 5 = Always",""
+"parent_sri_01","Integer","","Recommended","In the past 7 days: My child was sleepy during the daytime","1 :: 5","1= Never; 2= Almost Never; 3= Sometimes; 4= Almost Always; 5= Always",""
+"parent_sri_02","Integer","","Recommended","In the past 7 days: My child had a hard time concentrating because he/she was sleepy","1 :: 5","1= Never; 2= Almost Never; 3= Sometimes; 4= Almost Always; 5= Always",""
+"parent_sri_03","Integer","","Recommended","In the past 7 days: My child had a hard time getting things done because he/she was sleepy","1 :: 5","1= Never; 2= Almost Never; 3= Sometimes; 4= Almost Always; 5= Always",""
+"parent_sri_04","Integer","","Recommended","In the past 7 days: My child had problems during the day because of poor sleep","1 :: 5","1= Never; 2= Almost Never; 3= Sometimes; 4= Almost Always; 5= Always",""

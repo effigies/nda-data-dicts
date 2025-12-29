@@ -80,3 +80,7 @@
 "int2","String","1000","Recommended","Interviewers Diagnosis if different from SCID Diagnosis 2","","",""
 "int3","String","1000","Recommended","Interviewers Diagnosis if different from SCID Diagnosis 3","","",""
 "provisdx","String","1000","Recommended","Provisional Diagnosis","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"teen_subject_id","String","20","Recommended","Teen subject ID the parent is reporting on","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

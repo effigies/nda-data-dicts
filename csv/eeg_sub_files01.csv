@@ -46,3 +46,6 @@
 "mmn_cz_frequency_voltage","Float","","Recommended","","Event Related Potential: Mismatch Negativity Response (Frequency Deviant -Standard) averaged from 90 and 170 from Sensor CZ","-999 :: 999","",""
 "mmn_cz_both_voltage","Float","","Recommended","","Event Related Potential: Mismatch Negativity Response (Duration/Frequency Deviant -Standard) averaged from 150 and 230 from Sensor CZ","-999 :: 999","",""
 "timepoint_label","String","50","Recommended","","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"eventname","String","60","Recommended","","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
+"session_number","Integer","","Recommended","","Session number","","",""
+"eeg_data_collected","Integer","","Recommended","","Boolean indicating whether the subject completed the task while EEG data was collected","0;1","0 = No EEG data collected; 1 = EEG data collected",""

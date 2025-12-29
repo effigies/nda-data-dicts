@@ -943,3 +943,5 @@
 "scid_cmde_25_4","Integer","","Recommended","Lack of Reactivity during most severe period of current major depressive episode","0::3;9","0=Missing; 1=Absent; 2=Sub-Threshold; 3=Threshold; 9=No Info","dsmiv_cmde23"
 "scid_cmde_25_5","Integer","","Recommended","Distinct Quality of depressed mood during most severe period of current major depressive episode","0::3;9","0=Missing; 1=Absent; 2=Sub-Threshold; 3=Threshold; 9=No Info","dsmiv_cmde24"
 "scid_cmde_25_6","Integer","","Recommended","Depression is regularly worse in the Morning  during most severe period of current major depressive episode","0::3;9","0=Missing; 1=Absent; 2=Sub-Threshold; 3=Threshold; 9=No Info","dsmiv_cmde25"
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"teen_subject_id","String","20","Recommended","Teen subject ID the parent is reporting on","","",""

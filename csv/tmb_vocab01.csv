@@ -20,3 +20,5 @@
 "tmb_vocab_sdrtc","Float","","Recommended","TMB Vocabulary - Standard deviation of reaction times of correct responses to ''test'' trials (ms)","","",""
 "tmb_vocab_respdevice","Integer","","Recommended","TMB Vocabulary - User response device","1 :: 4","1= Mouse; 2= Touch; 3= Keyboard; 4= Pen",""
 "tmb_vocab_testversion","String","50","Recommended","TMB Vocabulary - Test script version","","e.g., Vocab_Main.v1.Oct20",""
+"tmb_mult_flag_medianduration","Integer","","Recommended","Flag indicating whether participant was flagged for any one or more of the above quality control metrics","0;1","0 = No; 1 = Yes",""
+"tmb_vocab_flag_medianrtc","Integer","","Recommended","Flag for invalid performance if medianRTc < 2000 ms (implausibly fast reaction time)","0;1","0=No; 1=Yes",""

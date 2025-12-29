@@ -262,7 +262,7 @@
 "mmp01","Integer","","Recommended","Do you have a medical marijuana prescription?  ","0::1;444;555;777;888;999","0= No; 1= Yes; 444= Do not wish to respond; 999= No Answer; 888= Skipped; 777= Condition Skipped; 555= Missing",""
 "suh01","Integer","","Recommended","How often have you used alcohol in your lifetime?","0::7;555;777;888;999","0= I have never used alcohol in my life; 1= At least 1 day but not more than 2 days; 2= At least 3 days but not more than 11 days; 3= At least 12 days but not more than 25 days; 4= At least 26 days but not more than 50 days; 5= At least 51 days but not more than 100 days; 6= At least 101 days but not more than 300 days; 7= More than 300 days; 999= No Answer; 888= Skipped; 777= Condition Skipped; 555= missing",""
 "suq11a","Float","","Recommended","How old were you when you had your first full acoholic beverage?","","",""
-"suq11k1","Float","","Recommended","How old were you when you started drinking alcohol regularly?","","",""
+"suq11k1","Float","","Recommended","How old were you when you started drinking alcohol regularly?","","99= Missing",""
 "suh04","Integer","","Recommended","Has there been a period(s) of time when you Stopped) drinking completely? ","0::1;555;777;888;999","0= No; 1= Yes; 999= No Answer; 888= Skipped; 777= Condition Skipped; 555= Missing",""
 "suh05firstalcabsagestopp","Integer","","Recommended","First period of alcohol abstinence (Age Stopped)   ","","Age in Years",""
 "suh05firstalcabsagestart","Integer","","Recommended","First period of alcohol abstinence (Age started again)   ","","Age in Years",""

@@ -18,3 +18,6 @@
 "tmb_mult_ot_rttotal","Float","","Recommended","Total reaction time","","","tmb_mot_rttotal"
 "tmb_mult_ot_accuracy","Float","","Recommended","Overall accuracy. tmb_mot_score/72","0::1","","tmb_mot_accuracy"
 "tmb_mot_testversion","String","50","Recommended","Test script version","","",""
+"tmb_mult_ot_medianframetime","Float","","Recommended","Median planned frame duration of each animation step for test trials","","",""
+"tmb_mult_ot_medianduration","Float","","Recommended","Median duration (ms) of animation for test trials","","",""
+"tmb_mult_flag_medianduration","Integer","","Recommended","Flag indicating whether participant was flagged for any one or more of the above quality control metrics","0;1","0 = No; 1 = Yes",""

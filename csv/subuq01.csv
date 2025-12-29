@@ -43,7 +43,7 @@
 "sm_1i","Float","","Recommended","How old were you when you first drank alcohol once a month or more?","","99 = I never drank alcohol once a month or more",""
 "suq11i","Integer","","Recommended","Did you ever drink alcohol regularly for at least one month?","1;2","1=No; 2=Yes",""
 "suq11j","Integer","","Recommended","During the period when you drank regularly, how much alcohol did you usually drink at one time or sitting?","1::10","1=None; 2=less than 1; 3=one; 4=two; 5=three; 6=four; 7=five; 8=six; 9=7 or 8; 10=9 or more",""
-"suq11k1","Float","","Recommended","How old were you when you started drinking alcohol regularly?","","",""
+"suq11k1","Float","","Recommended","How old were you when you started drinking alcohol regularly?","","99= Missing",""
 "suq11k2","Integer","","Recommended","What grade was that?","","",""
 "suq11k3","Integer","","Recommended","What type of school were you in then?","1::5","1=Elementary school; 2=Middle school; 3=High school; 4=Other school; 5=Post secondary school",""
 "sm_1j","Integer","","Recommended","In the past year, how many times did you drive within an hour or so after drinking 1 or 2 beers or other alcoholic drinks?","1::12","1=Not at all; 2=1-3 times; 3=4-7 times; 4=8-11 times; 5=Once a month; 6=2-3 times a month; 7=Once a week; 8=2-3 times a week; 9=4-6 times a week; 10=Once a day; 11=twice a day; 12=Several times a day or more",""

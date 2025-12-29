@@ -694,7 +694,7 @@
 "otherdrug_quest12","Integer","","Recommended","How old were you the first time you used Hallucinogens (LSD, acid, mushrooms, PCP, salvia)?","","Age in years",""
 "otherdrug_quest13","Integer","","Recommended","How old were you the first time you used Cocaine, Crack (in any form)?","","Age in years",""
 "otherdrug_quest14","Integer","","Recommended","How old were you the first time you used Inhalants (e.g., glue, paint)","","Age in years",""
-"otherdrug_quest15","Integer","","Recommended","How old were you the first time you used Heroin?","","Age in years",""
+"otherdrug_quest15","Integer","","Recommended","How old were you the first time you used Heroin?","","Age in years; 99= Missing",""
 "otherdrug_quest16","Integer","","Recommended","How old were you the first time you used Prescription drugs (Adderall, OxyContin, Valium, Vicodin, amphetamines)?","","Age in years",""
 "otherdrug_quest17","Integer","","Recommended","How old were you the first time you used MDMA (ecstasy, mollies)?","","Age in years",""
 "otherdrug_quest18","Integer","","Recommended","How old were you the first time you used other?","","Age in years",""

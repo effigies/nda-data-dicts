@@ -19,3 +19,6 @@
 "tmb_matrix_sdrtc","Float","","Recommended","Standard deviation of reaction times of correct responses to 'test' trials (ms)","","",""
 "tmb_matrix_respdevice","Integer","","Recommended","User's response device","1 :: 4","1= mouse; 2= touch; 3= keyboard; 4= pen",""
 "tmb_matrix_testversion","String","50","Recommended","Test's script version","","Matrix_Main.v1.Oct20",""
+"tmb_matrix_accuracy","Float","","Recommended","Proportion correct responses for 'test' trials. Trials that are not completed due to the stopping rule are considered incorrect for this calculation.","0::1","",""
+"tmb_matrix_flag_medianrtc","Integer","","Recommended","Flag for invalid performance if medianRTc < 1000 (suggests participant is randomly guessing, as this is not enough time to process the stimuli for most trials)","0;1","0 = No; 1 = Yes",""
+"tmb_mult_flag_medianduration","Integer","","Recommended","Flag indicating whether participant was flagged for any one or more of the above quality control metrics","0;1","0 = No; 1 = Yes",""
