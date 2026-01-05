@@ -37,7 +37,7 @@
 "q12b_unknown_cfl_led","String","50","Recommended","Unknown amount of time spent exposed to Energy Saving LED Light Bulbs","","-9 = I don't know",""
 "q13_school_type","Integer","","Recommended","Type of educational activity/setting the child attends","1::8;97","1= Regular public school; 2= Regular public school with some special classes; 3= Regular private/parochial school; 4= Regular private/parochial school with some special classes; 5= Special school for children with developmental disabilities; 6= Home school/Cyber Education; 7= Charter School; 8= School for children with emotional/behavioral disturbances; 97= Other (specify)",""
 "schspe_mta","String","250","Recommended","Type of school other specify","","","q13_school_oth_desc"
-"phne_sc_2","String","40","Recommended","What is your highest grade completed in school?","","","q14_school_grade"
+"phne_sc_2","String","100","Recommended","What is your highest grade completed in school?","","","q14_school_grade"
 "q15_school_gr_rpt","Integer","","Recommended","Number of grades repeated since kindergarten","","",""
 "q16_school_changes","Integer","","Recommended","Number of school changes since kindergarten","","",""
 "sped1","Integer","","Recommended","Has child ever received services from a program called Special Education?","0;1; 99; 77; 998","0=No; 1=Yes; 99=Don't know; 77=Refused; 998=n/a","q17_school_special_ed"

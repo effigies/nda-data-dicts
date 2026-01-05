@@ -85,7 +85,7 @@ household in item 2 who contribute financially)","1::10","1=less than $5,000; 2 
 "sitedatasource_phone","Integer","","Recommended","Source of Data: Telephone","0;1; -888; -999","0=False; 1=True; -888=Not Applicable; -999=Missing","infoscrct"
 "sitedatasource_physician","Integer","","Recommended","Source of Data: Physician","0;1; -888; -999","0=False; 1=True; -888=Not Applicable; -999=Missing","infoscrp"
 "das1ms","String","200","Recommended","Marital status","","","marital"
-"educate","Integer","","Recommended","years of education completed","1::9;-7","1=Less than seventh grade; 2=Seventh grade to ninth grade; 3=Partial high school; 4=High school diploma or GED; 5=Some college (at least one year); 6=Technical school or associates degree; 7=College diploma (Bachelors degree); 8=Graduate or professional degree; 9 = Some graduate college; -7=Refused","education"
+"educate","Integer","","Recommended","years of education completed","1::9;-7;-9","1=Less than seventh grade; 2=Seventh grade to ninth grade; 3=Partial high school; 4=High school diploma or GED; 5=Some college (at least one year); 6=Technical school or associates degree; 7=College diploma (Bachelors degree); 8=Graduate or professional degree; 9 = Some graduate college; -7=Refused; -9= Missing","education"
 "emplsub","Integer","","Recommended","Subject's Employment","1::11","1=Employment full time for pay; 2=Employed part-time for pay  (less than 30 hours/week);  3=Homemaker;  4= Full time student;  5= Part time student;   6=Temporary out of work;   7=Unemployed for more than 6 month;   8=Retired;   09=Receiving public assistance;   10=Disabled;   11= Other:
 ","employment"
 "psysoc_214","String","160","Recommended","Employment: Other1:","","",""

@@ -58,7 +58,7 @@
 "fmri_scan_prodev","String","4000","Recommended","Protocol Deviations: ANYTHING","","",""
 "fmri_scan_ovnotes","String","4000","Recommended","Overall task Notes","","",""
 "fmri_scan_ovaff","String","4000","Recommended","Overall Notes on subject affect","","",""
-"fmri_deceived","Integer","","Recommended","Deceived?","0;1","0=No; 1=Yes",""
+"fmri_deceived","Integer","","Recommended","Deceived?","0::2","0=No; 1=Yes; 2=Unsure",""
 "fmri_deceived_rating","Integer","","Recommended","Rating of how deceived","0::10","0=Not at all; 10=Completely deceived",""
 "fmri_endtime","String","20","Recommended","Departure Time","","HH:MM AM/PM",""
 "fmri_totvisit_time","String","100","Recommended","Total Visit time (not including setup)","","",""

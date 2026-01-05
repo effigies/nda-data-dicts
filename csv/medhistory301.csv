@@ -766,7 +766,7 @@
 "medhistory3017","Integer","","Recommended","Are you currently taking medication for depression?","0;1","0=No; 1=Yes",""
 "medhistory3018","String","140","Recommended","What medication(s) are you taking, and how long have you taken them? Dosage?","","",""
 "medhistory3001","Integer","","Recommended","Group","0;1","0 = Control; 1 = Remitted Depression (RD)",""
-"rhanded","Integer","","Recommended","Are you right handed?","0;1","0=No; 1=Yes",""
+"rhanded","Integer","","Recommended","Are you right handed?","0;1;-9","0=No; 1=Yes; -9= Missing",""
 "smoker","Integer","","Recommended","Smoker?","0::4;9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing",""
 "medhistory3004","Date","","Recommended","When was the last time you had your cholesterol tested?","","MM/DD/YYYY",""
 "scq_30_a","Integer","","Recommended","Has a doctor ever told you that you have-High cholesterol or lipids","0;1","0 = No;1 = Yes",""

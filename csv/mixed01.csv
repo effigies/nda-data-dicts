@@ -26,7 +26,7 @@
 "scoring_vocabulary_raw","Float","","Recommended","WAIS. Vocabulary Raw Score","","","W_VOC"
 "tmtb_raw","Float","","Recommended","Trailmaking test Part B (Paper & pencil): Time to completion (Seconds)","","","TBTSEC"
 "wais_pictarr_raw","Integer","","Recommended","Wechsler Adult Intelligence Scale Picture Arrangement: Raw score","","","W_PIC"
-"wcst_categories","Float","","Recommended","Wisconsin Card Sorting Test: Categories Achieved","0::6","","SWCATEG"
+"wcst_categories","Float","","Recommended","Wisconsin Card Sorting Test: Categories Achieved","0::18","","SWCATEG"
 "wcst_persev_errors","Integer","","Recommended","Wisconsin Card Sorting Test: Perseverative Errors","0::128","","WISC7"
 "wcst_nonpersev_errors","Integer","","Recommended","Wisconsin Card Sorting Test: Non-Perseverative Errors","0::128","","WISC9"
 "wcst_percent_conceptual","Float","","Recommended","Wisconsin Card Sorting Test: Percent Conceptual Responses","0::100","","WISC12"

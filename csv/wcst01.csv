@@ -26,7 +26,7 @@
 "wcst_pte","Float","","Recommended","% Total errors","","","pcterrors,wcst_percent_errors_raw,wcst_totalerrors_percent"
 "wcst_ptes","Float","","Recommended","% Total errors scaled","","","pcterrorsstd,wcst_percent_errors_standard"
 "wcst_tcfc","Integer","","Recommended","Trials to complete first category","","","trials1,wcst_firsttrials,wcst_trials_to_first_raw,wcst_trialsfirstcat_raw"
-"wcst_categories","Float","","Recommended","Wisconsin Card Sorting Test: Categories Achieved","0::6","","catcompl,wcst_cat_complete_raw,wcst_categories_completed_raw"
+"wcst_categories","Float","","Recommended","Wisconsin Card Sorting Test: Categories Achieved","0::18","","catcompl,wcst_cat_complete_raw,wcst_categories_completed_raw"
 "wcst_percent_conceptual","Float","","Recommended","Wisconsin Card Sorting Test: Percent Conceptual Responses","0::100","","pctclresps,wcst_clresponses_percent"
 "wcst_percent_concep_scaled","Float","","Recommended","Wisconsin Card Sorting Test: Percent Conceptual Reponses (Scaled)","","",""
 "wcst_fms","Integer","","Recommended","Failures to maintain set","","","failtmset,wcst_fail_to_hold_raw,wcst_failuremaintainset_raw,wcst_setfail"

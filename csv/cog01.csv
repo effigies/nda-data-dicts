@@ -74,7 +74,7 @@
 "wcst_method","Integer","","Recommended","Wisconsin Card Scoring Test: Administration method","1;2","1 = Cards; 2 = Computer",""
 "wcst_percent_conceptual","Float","","Recommended","Wisconsin Card Sorting Test: Percent Conceptual Responses","0::100","",""
 "wcst_percent_concep_scaled","Float","","Recommended","Wisconsin Card Sorting Test: Percent Conceptual Reponses (Scaled)","","","WCST_Percent_Conceptual_Scaled"
-"wcst_categories","Float","","Recommended","Wisconsin Card Sorting Test: Categories Achieved","0::6","",""
+"wcst_categories","Float","","Recommended","Wisconsin Card Sorting Test: Categories Achieved","0::18","",""
 "wcst_nonpersev_errors","Integer","","Recommended","Wisconsin Card Sorting Test: Non-Perseverative Errors","0::128","",""
 "wcst_persev_errors","Integer","","Recommended","Wisconsin Card Sorting Test: Perseverative Errors","0::128","",""
 "wms_ss_raw","Integer","","Recommended","Wechsler Memory Scale III: Spatial Span subtest (Sum of scores on backwards and forwards conditions; raw score)","","",""

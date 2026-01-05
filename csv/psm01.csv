@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","dem_gender,gender"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "nih_pin","String","25","Recommended","PIN number assigned by the NIH Toolbox","","","pin"
-"phne_sc_2","String","40","Recommended","What is your highest grade completed in school?","","","nih_tb_education_info,tcb_edu"
+"phne_sc_2","String","100","Recommended","What is your highest grade completed in school?","","","nih_tb_education_info,tcb_edu"
 "ques_gradalbm","String","255","Recommended","Last grade completed -Biological Mother","","","nih_tb_parent_education,tcb_mothr_edu"
 "behavioralobservations_hand","String","255","Recommended","Handedness","","","nih_tb_handedness_info,tcb_hand"
 "nih_picseq_score1","Integer","","Recommended","Raw Score on the first sequence administered (4 pictures)","0::3","",""

@@ -179,7 +179,7 @@
 "demo_income_que","Integer","","Recommended","What is the total income","","","dm16"
 "black","Integer","","Recommended","Black or African-American","0;1; 999","1=yes; 0=no;999= missing","race_black"
 "days_baseline","Integer","","Recommended","Days since baseline","","","demodays"
-"phne_sc_2","String","40","Recommended","What is your highest grade completed in school?","","","dem_education,demo_c_child_grade,dm7"
+"phne_sc_2","String","100","Recommended","What is your highest grade completed in school?","","","dem_education,demo_c_child_grade,dm7"
 "datetime","String","25","Recommended","Date on which the interview/genetic test/sampling/imaging was completed. MM/DD/YYYY and __:__","","","date_of_appointment_for_in"
 "have_children","Integer","","Recommended","Do you have children?","0;1","0 = No;  1 = Yes","kids"
 "occustat","Integer","","Recommended","current employment status","1::9","1=A worker for pay;2=Disabled 3=A housewife/househusband; 4=A student; 5=Unemployed; 6=Retired; 7=employed/student; 8 = Does not apply (lives in institution, etc.); 9 = Not known",""

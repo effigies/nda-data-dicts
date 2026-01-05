@@ -115,7 +115,7 @@
 "baseline_n_001","Integer","","Recommended","Have you ever served on active duty in the United States Armed Forces, either in the regular military or in a National Guard or military reserve unit?","0::4; -888; -999","0=No; 1=Yes; 3=DontKnow; 4=Refused; -888=Not Applicable; -999=Missing;","qola13"
 "branchofservice","Integer","","Recommended","Branch of Service","1::7","1=Army; 2=Navy; 3=Air Force; 4=Marines; 5=Coast Guard; 6=Nat. Guard; 7 = Reserves","qola14"
 "mfcs3","Integer","","Recommended","How many children do you have. Include both children who do and do not live with you?","","99=missing","qola5a"
-"phne_sc_2","String","40","Recommended","What is your highest grade completed in school?","","","qola6"
+"phne_sc_2","String","100","Recommended","What is your highest grade completed in school?","","","qola6"
 "qol27c","Integer","","Recommended","27c. Formal worksite/vocational training","0::2; 9","0 = No; 1 = Yes; 2 = No opportunity; 9=missing","qola10"
 "test_ged","Integer","","Recommended","Did you pass a high school equivalency test?","0;1;9","0 = No; 1 = Yes; 9 = Missing","qola7"
 "degree","Integer","","Recommended","What type of college degree do you have?","1::5","1 = Associate ; 2 = Bachelors; 3 = Masters; 4 = Doctorate; 5 = Other (specify)",""

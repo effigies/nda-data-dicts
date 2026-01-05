@@ -51,3 +51,5 @@
 "srcm_7_alt","Integer","","Recommended","7. If I try, it is possible for me to figure out some of the feelings, thoughts, and/or behaviors that led to my becoming suicidal.","0::4","0= Strongly disagree; 1= Disagree; 2= Neither agree nor disagree; 3= Agree; 4= Strongly agree",""
 "knowledgesq001","Integer","","Recommended","It is possible to prevent suicides.","1::5","1= Strongly disagree; 2= Somewhat disagree; 3= Neither agree or disagree; 4= Somewhat agree; 5= Strongly agree",""
 "knowledgesq002","Integer","","Recommended","Intervening when someone is suicidal would be helpful.","1::5","1= Strongly disagree; 2= Somewhat disagree; 3= Neither agree or disagree; 4= Somewhat agree; 5= Strongly agree",""
+"srcs_external_calc","Integer","","Recommended","Suicide Related Coping Scale - External Coping Calculation","0::28","Sum of items srcm_1, 4, 5, 9, 11, 14, 20",""
+"srcs_internal_calc","Integer","","Recommended","Suicide Related Coping Scale - Internal Coping Calculation","0::28","Sum of items srcm_3, 6, 10, 12, 16-18",""

@@ -160,7 +160,7 @@
 "ed_4_y","Integer","","Recommended","Why did you stop attending school?","1::12;998;999","1= I was taken by an armed group; 2= My school was closed or destroyed; 3= I moved; 4= No money for fees/ uniform; 5= Too many children in my family to afford school; 6= I had difficulty reading; 7= Reading hurt my eyes; 8= I had a good work opportunity; 9= I got married; 10= I did not want to repeat a grade; 11= I had to care for family members; 12= Other;998=Don't know; 999=No answer",""
 "ed_4a_y","String","250","Recommended","Why did you stop attending school? Exact answer","","998=Don't know; 999=No answer",""
 "ed_5_y","Integer","","Recommended","Did you try to return to school at any point after you stopped attending?","0;1;998;999","0= No; 1= Yes;998=Don't know; 999=No answer",""
-"phne_sc_2","String","40","Recommended","What is your highest grade completed in school?","","",""
+"phne_sc_2","String","100","Recommended","What is your highest grade completed in school?","","",""
 "ed_7_y","Integer","","Recommended","Have you received financial support from anyone in your family in order to complete school up to this level?","0;1;998;999","0= No; 1= Yes;998=Don't know; 999=No answer",""
 "ed_8_y","Integer","","Recommended","Have you received support from a community member/NGO/government in order to complete school up to this level?","0;1;998;999","0= No; 1= Yes;998=Don't know; 999=No answer",""
 "ed_9_y","Integer","","Recommended","How well can you read?","1::4;998;999","1= I can't read; 2= I have difficulty reading; 3= I know how to read but it takes effort; 4= I know how to read well;998=Don't know; 999=No answer",""

@@ -17,7 +17,7 @@
 "father_ethnic","String","55","Recommended","Father's ethnicity","1. Hispanic;2. Non-Hispanic; 3. Refused","","p2_eth"
 "p2_race_bir","String","50","Recommended","Father race, specified for more than one race/biracial","","",""
 "father_other_race","String","35","Recommended","Father Other race (please specify):","","","p2_race_other"
-"educate","Integer","","Recommended","years of education completed","1::9;-7","1=Less than seventh grade; 2=Seventh grade to ninth grade; 3=Partial high school; 4=High school diploma or GED; 5=Some college (at least one year); 6=Technical school or associates degree; 7=College diploma (Bachelors degree); 8=Graduate or professional degree; 9 = Some graduate college; -7=Refused","education,p_education"
+"educate","Integer","","Recommended","years of education completed","1::9;-7;-9","1=Less than seventh grade; 2=Seventh grade to ninth grade; 3=Partial high school; 4=High school diploma or GED; 5=Some college (at least one year); 6=Technical school or associates degree; 7=College diploma (Bachelors degree); 8=Graduate or professional degree; 9 = Some graduate college; -7=Refused; -9= Missing","education,p_education"
 "resp_occupation","String","255","Recommended","Respondent's occupation","","","occupation,p_job"
 "empcur","Integer","","Recommended","Currently employed","0;1; -99; 77; 88;-999","0 = No; 1 = Yes; -99= N/A ; 88= Missing ; 77= Refused; -999= Do not know","employed,p_employed,teendemo5"
 "p_partnerlive","Integer","","Recommended","Do you have a partner living with you?","0;1;-99;88;77","0= No ; 1= Yes ; -99= N/A ; 88= Missing ; 77= Refused",""
