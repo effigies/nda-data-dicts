@@ -20,7 +20,7 @@
 "image_extent1","Integer","","Required","Extent [1] X dimension","1+","!=DICOM means not equal DICOM",""
 "image_num_dimensions","Integer","","Required","Number of dimensions","1 :: 5","!=DICOM means not equal DICOM",""
 "image_thumbnail_file","Thumbnail","","Required","Thumbnail","","",""
-"image_slice_thickness","Float","","Required","Slice thickness","","!=DICOM means not equal DICOM",""
+"image_slice_thickness","Float","","Required","Slice thickness","","!=DICOM means not equal DICOM; -999 = N/A",""
 "image_resolution5","Float","","Required","Resolution [5]","","",""
 "image_resolution4","Float","","Required","Resolution [4]","","",""
 "image_resolution3","Float","","Required","Resolution [3] Z dimension","","",""

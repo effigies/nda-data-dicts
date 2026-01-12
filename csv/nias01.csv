@@ -32,3 +32,8 @@
 "lnias_self5","Integer","","Recommended","At some point in my life (either now or in the past) there was a time when...I had to push my self to eat regular meals throughout the day or to eat a large enough amount of food at meals.","0::5","0=Strongly disagree; 1=Disagree; 2=Slightly disagree; 3=Slightly agree; 4=Agree; 5=Strongly agree",""
 "lnias_self6","Integer","","Recommended","At some point in my life (either now or in the past) there was a time when...Even when I was eating a food I really liked, it was hard for me to eat a large enough volume at meals.","0::5","0=Strongly disagree; 1=Disagree; 2=Slightly disagree; 3=Slightly agree; 4=Agree; 5=Strongly agree",""
 "lnias_self7","Integer","","Recommended","At some point in my life (either now or in the past) there was a time when...I avoided or put off eating because I was afraid of GI discomfort, choking, or vomiting.","0::5","0=Strongly disagree; 1=Disagree; 2=Slightly disagree; 3=Slightly agree; 4=Agree; 5=Strongly agree",""
+"respondents","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Physician","",""
+"nias_picky","Integer","","Recommended","NIAS Picky Eating subscale","0::15","Sum of nias_self1/nias_self10 thru nias_self3/nias_parent3",""
+"nias_appetite","Integer","","Recommended","NIAS Appetite subscale","0::15","Sum of nias_self4/nias_parent4 thru nias_self6/nias_parent6",""
+"nias_fear","Integer","","Recommended","NIAS Fear subscale","0::15","Sum of nias_self7/nias_parent7 thru nias_self9/nias_parent9",""
+"nias_total","Integer","","Recommended","NIAS Total Score","0::45","Sum of the NIAS Picky Eating subscale, NIAS Appetite subscale and NIAS Fear subscale",""

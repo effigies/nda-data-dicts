@@ -435,7 +435,7 @@
 "cg2_race","String","100","Recommended","Race of the Caregiver/Parent 2","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
 "cg2_ethnicity","String","30","Recommended","Caregiver/Parent 2's ethnicity","Hispanic or Latino; Not Hispanic or Latino","",""
 "ns2years","Integer","","Recommended","How long have you lived in your current neighborhood?-Years","","","timearea"
-"race_2","Integer","","Recommended","Other Race category 2","1::6","1=American Indian or Alaskan Native;  2=Asian;  3=Native Hawaiian/Pacific Islander;  4=Black/African American;  5=White;  6=More than one race","race2"
+"race_2","Integer","","Recommended","Other Race category 2","1::8","1=American Indian or Alaskan Native; 2=Asian; 3=Native Hawaiian/Pacific Islander; 4=Black/African American; 5=White; 6=More than one race; 7=Prefer not to say; 8=Other (describe)","race2"
 "race_3","Integer","","Recommended","Other Race category 3","1::6","1=American Indian or Alaskan Native;  2=Asian;  3=Native Hawaiian/Pacific Islander;  4=Black/African American;  5=White;  6=More than one race","race3"
 "insurance_child_other","String","100","Recommended","Insurance of the child if other","","",""
 "pronouns_spec","String","50","Recommended","If Other, please specify pronouns:","","","if_other_please_specify_v2"

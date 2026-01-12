@@ -135,3 +135,4 @@
 "demo_12_ins","Integer","","Recommended","Do you currently have health insurance?","0::3","0 = No; 1 = Yes, through my employer; 2 = Yes, through my partner's employer; 3 = Yes, from the government",""
 "demo_18_ass","Integer","","Recommended","In the past year, have you received any money through a government food assistance program other than WIC, such as SNAP (Supplemental Nutrition Assistance Program) formerly known as the Food Stamp Program?","0;1","0 = No; 1 = Yes",""
 "demo_9_work","Integer","","Recommended","Are you doing any work for pay at the present time, including self-employment?","0;1","0 = No; 1 = Yes",""
+"race_2","Integer","","Recommended","Other Race category 2","1::8","1=American Indian or Alaskan Native; 2=Asian; 3=Native Hawaiian/Pacific Islander; 4=Black/African American; 5=White; 6=More than one race; 7=Prefer not to say; 8=Other (describe)",""

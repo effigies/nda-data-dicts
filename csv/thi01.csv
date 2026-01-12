@@ -781,3 +781,4 @@
 "engagement_sudsc_iop","Integer","","Recommended","Number of VA (Veterans Affairs) SUD (Substance use disorder) specialty care IOP (Intensive outpatient program) days attended during study within treatment 3 month period (IOP day is 3 hours treatment)","0::90","",""
 "engagement_sudsc_detox","Integer","","Recommended","Number of days VA (Veterans Affairs) SUD (Substance use disorder) specialty care detoxification days during study within treatment 3 month period","0::90","",""
 "engagement_sudsc_inpt","Integer","","Recommended","Number of days VA (Veterans Affairs) SUD (Substance use disorder) specialty care inpatient treatment (not including detox days) during 3 month within treatment study period","0::90","",""
+"repeat_instance","Integer","","Recommended","The number of times this form was repeated in any one visit for a participant","1::6","1= One instance; 2= Two instances; 3= Three instances; 4= Four instances; 5= Five instances; 6= Six instances",""

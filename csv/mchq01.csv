@@ -76,7 +76,7 @@
 "medication5_name","String","500","Recommended","Name fifth medication that the participant has taken","","0 = No medication; 999= Legitimately skipped","gynecological_hist_3a_5"
 "daylastpd","String","30","Recommended","First day of last menstrual period ( in days/months/years ago)","","","gynecological_hist_5,men_start,mensthx07"
 "bcpever","Integer","","Recommended","ever taken birth control pills or progesterone","0;1;-7","0=No; 1=Yes; -7=Refused","gynecological_hist_3"
-"pds6g","Integer","","Recommended","Girls only : Have you begun to menstruate?","0;1;99","0=No; 1=Yes; 99 = Refused","men_period"
+"pds6g","Integer","","Recommended","Girls only : Have you begun to menstruate?","0;1;99;999","0=No; 1=Yes; 99 = Refused; 999= Missing","men_period"
 "regmense","Integer","","Recommended","Regular menstrual periods","0;1; 999","0=No;1=Yes; 999=NA","men_reg"
 "rlhq2q1","Integer","","Recommended","Current use of ORAL contraceptive pills?","1;2","1=Yes; 2=No","men_contr"
 "rev_endohypothyroidism","String","50","Recommended","Hypothyroidism","Yes;No;NK","NK = Not known","mstrl1a"

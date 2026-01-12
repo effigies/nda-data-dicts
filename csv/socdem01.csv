@@ -409,7 +409,7 @@
 "labsample29","String","10","Recommended","Date of last menstrual period","","NA=if male or pre-puberty","demo4,last_period"
 "sis9","String","40","Recommended","Who else was present during the interview? (select all that apply)","","1 = No one; 2 = Other adults; 3 = Child(ren); 4 = Adults and child(ren) under 18","interviewed_who"
 "ksads_outpt_age","String","100","Recommended","Age at first outpatient treatment","","","outpatient_treat_age"
-"pds6g","Integer","","Recommended","Girls only : Have you begun to menstruate?","0;1;99","0=No; 1=Yes; 99 = Refused","meneses"
+"pds6g","Integer","","Recommended","Girls only : Have you begun to menstruate?","0;1;99;999","0=No; 1=Yes; 99 = Refused; 999= Missing","meneses"
 "phi1","Integer","","Recommended","Type of interview","1::5","1 = In person; 2 = Phone; 3 = Mail; 4 = SIG-O only; 5 = Carp only","interview_type"
 "yoga","Integer","","Recommended","Have you practiced meditation or yoga regularly over the past three years? ","0;1","0 = No; 1 = Yes",""
 "yogahowoften","String","250","Recommended","Have you practiced meditation or yoga regularly over the past three years? If you answered yes, how often? ","","",""

@@ -23,3 +23,5 @@
 "t_irs6","Integer","","Recommended","How this child's problems affect his or her self-esteem","0::6","0 = No problem, definitely does not need treatment; 6 = Extreme problem, definitely needs treatment",""
 "t_irs7","Integer","","Recommended","Overall severity of this child's problem in the functioning and overall need for treatment","0::6","0 = No problem, definitely does not need treatment; 6 = Extreme problem, definitely needs treatment",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"p_irs6a","Integer","","Recommended","How your child's problems affect his/her classroom behavior at school","0::6","0 = No problem, definitely does not need treatment; 6 = Extreme problem, definitely needs treatment",""
+"p_irs3a","Integer","","Recommended","Check here if your child does not have siblings or does not have regular contact with siblings","0;1","0 = Child has no siblings or no regular contact with siblings; 1 = Child has siblings",""

@@ -85,7 +85,7 @@
 "cles_cr_39age","Integer","","Recommended","Your/Child's age when the following event occured: Serious financial difficulties of family","","",""
 "cles_cr_40","Integer","","Recommended","40. Overcrowded living space","0;1","0=No; 1=Yes",""
 "cles_cr_40age","Integer","","Recommended","Your/Child's age when the following event occured: Overcrowded living space","","",""
-"cles_cr_41","Integer","","Recommended","41. You/Your child were in trouble with the law","0:;1","0=No; 1=Yes",""
+"cles_cr_41","Integer","","Recommended","41. You/Your child were in trouble with the law","0;1","0=No; 1=Yes",""
 "cles_cr_41age","Integer","","Recommended","Your/Child's age when the following event occured: You/Your child were in trouble with the law","","",""
 "cles_cr_42","Integer","","Recommended","42. You/Your child had break-up of serious romantic relationship","0;1","0=No; 1=Yes",""
 "cles_cr_42age","Integer","","Recommended","Your/Child's age when the following event occured: You/Your child had break-up of serious romantic relationship","","",""

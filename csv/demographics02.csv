@@ -354,7 +354,7 @@
 "demo_first_lang_other","String","200","Recommended","If other language, please specify","","","demo_c_language_other,other_lang,otherlang1"
 "otherlang2","String","100","Recommended","Specify other Language 2","","�",""
 "otherlang3","String","100","Recommended","Specify other Language 3","","�",""
-"race_2","Integer","","Recommended","Other Race category 2","1::6","1=American Indian or Alaskan Native;  2=Asian;  3=Native Hawaiian/Pacific Islander;  4=Black/African American;  5=White;  6=More than one race",""
+"race_2","Integer","","Recommended","Other Race category 2","1::8","1=American Indian or Alaskan Native; 2=Asian; 3=Native Hawaiian/Pacific Islander; 4=Black/African American; 5=White; 6=More than one race; 7=Prefer not to say; 8=Other (describe)",""
 "race_3","Integer","","Recommended","Other Race category 3","1::6","1=American Indian or Alaskan Native;  2=Asian;  3=Native Hawaiian/Pacific Islander;  4=Black/African American;  5=White;  6=More than one race",""
 "cbfrepeatheldback","Integer","","Recommended","Has the child/subject ever repeated a grade or been held back?","0;1; 888; 999","0 = no; 1 = yes; 888 = not applicable; 999 = missing","dem_heldback,school_back"
 "school_back_oth","String","100","Recommended","Held back in school. If yes, specify:","","�",""

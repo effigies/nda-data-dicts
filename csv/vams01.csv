@@ -15,3 +15,8 @@
 "site","String","101","Recommended","Site","","Study Site",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
+"vams_1","Integer","","Recommended","Visual Analog Mood Scales - stressed, worried, or nervous","0::100","",""
+"vams_2","Integer","","Recommended","Visual Analog Mood Scales - happy, relaxed, or comfortable","0::100","",""
+"vams_3","Integer","","Recommended","Visual Analog Mood Scales - irritated, annoyed, or mad","0::100","",""
+"vams_4","Integer","","Recommended","Visual Analog Mood Scales - sad, down, or unhappy","0::100","",""
+"vams_5","Integer","","Recommended","Visual Analog Mood Scales - overwhelmed, unable to control things, or discouraged","0::100","",""

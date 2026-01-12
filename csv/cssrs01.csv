@@ -832,3 +832,5 @@
 "sip3m","Integer","","Recommended","Suicidal ideation. Most severe ideation in the past 3 months","0::5","0= N/A; 1=Wish to be dead; 2 = Non-Specific Active Suicidal Thoughts; 3 = Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act; 4 = Active Suicidal Ideation with Some Intent to Act, without Specific Plan; 5 = Active Suicidal Ideation with Specific Plan and Intent",""
 "sbp2","Integer","","Recommended","Suicidal Behavior. Suicidal Behavior present in the past 2 weeks","0;1;-9","0= No; 1= Yes; -9= Missing",""
 "em_referral","Integer","","Recommended","Was an ER Referral made as part of the safety protocol for this visit?","0;1;-9","0= No; 1= Yes; -9= Missing",""
+"idintsev_n","Integer","","Recommended","Intensity of Ideation. Most Severe Ideation","1::5","1= Least severe ideation; 5= Most severe ideation",""
+"repeat_instance","Integer","","Recommended","The number of times this form was repeated in any one visit for a participant","1::6","1= One instance; 2= Two instances; 3= Three instances; 4= Four instances; 5= Five instances; 6= Six instances",""
