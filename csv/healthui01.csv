@@ -64,7 +64,7 @@
 "hui_pain","Float","","Recommended","Pain Utility Score","","Refer to the following website for complete scoring mechanism http://www.healthutilities.com/hui3.htm",""
 "hui_pain_s","Float","","Recommended","HUI Comprehensive Health Status","","Refer to the following website for complete scoring mechanism http://www.healthutilities.com/hui3.htm",""
 "hui_ts","Float","","Recommended","Total score","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
 "eq5d5l_1","Integer","","Recommended","Mobility","0::4; 999","0 = I have no problems in walking about; 1 = I have slight problems in walking about; 2 = I have moderate problems in walking about; 3 = I have severe problems in walking about; 4 = I am unable to walk about; 999 = Missing",""
 "eq5d5l_2","Integer","","Recommended","Self-Care","0::4; 999","0 = I have no problems in washing or dressing myself; 1 = I have slight problems washing or dressing myself; 2 = I have moderate problems washing or dressing myself; 3 = I have severe problems washing or dressing myself; 4 = I am unable to wash or dress myself; 999 = Missing",""

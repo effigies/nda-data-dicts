@@ -7,7 +7,7 @@
 "site","String","101","Recommended","Site","","Study Site","asite"
 "clinicid","Integer","","Recommended","Clinic ID","","","aclinic"
 "interv","Integer","","Recommended","Intervention Status","0;1","1=ITV, intervention; 0=TAU, treatment as usual",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","wave"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","wave"
 "days_baseline","Integer","","Recommended","Days since baseline","","","lof"
 "mfcs1","Integer","","Recommended","All in all, how satisfied are you with you marriage/relationship with your significant other---very satisfied, somewhat, not very, or not at all satisfied?","1::4","1 = very satisfied; 2 = somewhat satisfied; 3 = not very satisfied; 4 = not at all satisfied","mcs1"
 "mfcs2","Integer","","Recommended","Overall, would you rate your (marriage/relationship with significant other) as excellent, good, fair, or poor?","1::4","1 = excellent; 2 = good; 3 = fair; 4 = poor","mcs2"

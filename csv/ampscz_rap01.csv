@@ -9,4 +9,4 @@
 "ampscz_entry_date","Date","","Recommended","Date of Data Entry","","MM/DD/YYYY","chrpred_entry_date"
 "chrpred_transition","Integer","","Recommended","Do you think this person will transition to psychosis?","0;1;-900;-300","0 = No; 1 = Yes; -900 = Missing; -300 = N/A",""
 "chrpred_experience","Integer","","Recommended","How many months have you been conducting clinical assessments with CHR/UHR participants","1 :: 240;-900;-300","-900 = Missing;-300 = N/A",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

@@ -154,7 +154,7 @@
 "edi3_gpmc","Integer","","Recommended","Global Psychological Maladjustment Composite","","",""
 "site","String","101","Recommended","Site","","Study Site","site_id,sitenum"
 "editot","Integer","","Recommended","EDI total","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "dayscons","Integer","","Recommended","days since consent","","",""
 "days_baseline","Integer","","Recommended","Days since baseline","","","dayedi"
 "assbdic","String","5","Recommended","Assessment Point","D;14;E;24;LB;36;72;96;120;9;B;3;7;144;168;192;C;-1","D=MTA baseline assessment; 14=MTA 14 month assessment; E=MTA early termination assessment; B = MTA Pre-Baseline Screening Assessment (579/579); 09 = MTA 9 Month Assessment (530/530); 24=MTA 24 month assessment; LB=LNCG baseline assessment; 36=MTA and LNCG 3 year assessment; 72=MTA and LNCG 6 year assessment; 96=MTA and LNCG 8 year assessment; 03 = MTA 3 Month Assessment (438/687);120=MTA and LNCG 10 year assessment; 7= 7th Grade Assessment (221/276); 144 = MTA & LNCG 12 Month Assessment (578/578); 168 = MTA & LNCG 14 Month Assessment (585/585); 192 = MTA & LNCG 16 Month Assessment (505/505); C = MTA Pre-Baseline Screening Assessment (78/78); -1 = Not applicable","assedi"

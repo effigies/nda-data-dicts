@@ -251,7 +251,7 @@
 "ynid","Integer","","Recommended","Nicotine dependence. Diagnosis for nicotine dependence","0 :: 1","0 = Absent; 1 = Present",""
 "site","String","101","Recommended","Site","","Study Site",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "disc_y_sep_anx_dis_past_year","String","2","Recommended","""DISC (Youth): Separation anxiety disorder past year (0=Negative; 1=Positive, DSM IV Code 309.21)""","0;1;NA","0 = Negative; 1 = Positive, DSM IV Code 309.21; NA = Not available",""
 "disc_y_select_mutism_past_year","String","2","Recommended","""DISC (Youth): Selective mutism past year (0=Negative; 1=Positive, DSM IV Code 313.23)""","0;1;NA","0 = Negative; 1 = Positive, DSM IV Code 313.23; NA = Not available",""
 "disc_y_enuresis_di_past_year","String","2","Recommended","""DISC (Youth): Enuresis diurnal past year (0=Negative; 1=Positive, DSM IV Code 307.6)""","0;1;NA","0 = Negative; 1 = Positive, DSM IV Code 307.6; NA = Not available",""

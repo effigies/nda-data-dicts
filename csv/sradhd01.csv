@@ -30,7 +30,7 @@
 "sldc150","Integer","","Recommended","ADHD. Current, age of onset","","",""
 "life_howmanyyearsadhd","Integer","","Recommended","NCS-R ADHD: ADHD - Number of Years","","",""
 "asrs_flag","Integer","","Recommended","Exclusion score flag","0;1","1=asrs_exclusionscore is 4 or higher; 0=asrs_exclusionscore lower than 4",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

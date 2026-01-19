@@ -15,4 +15,4 @@
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_name"
 "date_updated","Date","","Recommended","Date record updated","","","edit_date"
 "site","String","101","Recommended","Site","","Study Site","site_uid"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visit_name"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visit_name"

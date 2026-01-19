@@ -10,4 +10,4 @@
 "carrot_trial3","Integer","","Recommended","Trial 3: Number of Cards Sorted","0::60","",""
 "carrot_reward","Float","","Recommended","Reward","","In dollars",""
 "carrot_score","Float","","Recommended","CARROT Score","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

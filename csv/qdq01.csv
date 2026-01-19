@@ -19,4 +19,4 @@
 "qdqpc_9","Integer","","Recommended","P: Having to wait for things makes my child feel stressed and tense., S:  Having to wait for things makes me feel stressed and tense.","1::5","1 = Very Like Person Asked About; 2 = Somewhat Like Person Asked About; 3 = Neutral; 4 = Not Much Like Person Asked About; 5 = Not Like Person Asked About At All","qdq_ado_9,qdq_adu_9"
 "qdqpc_10","Integer","","Recommended","P: The future is not important to my child; he/she only considers the immediate consequences of his/her actions., S:  The future is not important to me, I only consider the immediate consequences of my actions.","1::5","1 = Very Like Person Asked About; 2 = Somewhat Like Person Asked About; 3 = Neutral; 4 = Not Much Like Person Asked About; 5 = Not Like Person Asked About At All","qdq_ado_10,qdq_adu_10"
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","pi_staff"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

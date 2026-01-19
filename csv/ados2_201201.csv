@@ -76,7 +76,7 @@
 "ados_sa_css","Integer","","Recommended","ADOS-2 Social Affect (SA) domain total Calibrated Severity Score (CSS)","1::10; 999","","cs_severity_score_2010,severityscore,soc_affect_severity_score"
 "ados_rrb_css","Integer","","Recommended","ADOS-2 Restricted and Repetitive Behaviors (RRB) domain total Calibrated Severity Score (CSS)","1::10; 999","","cs_severity_score_2010,restricted_repet_behav_severity_,rrb_severity"
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "algorithm","String","50","Recommended","algorithm used for scoring","","","adm2alg,cs_algorithm_used"
 "phenotype","String","400","Recommended","Phenotype/diagnosis for the subject","","e.g., Healthy, Control, Suicidal","adm2dxoutcome"
 "ados2_m2_alg_age_level","Integer","","Recommended","Chronological age group","1;2","1=younger than 5 years; 2=Aged 5 years or older",""

@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "site","String","101","Recommended","Site","","Study Site",""
 "stusdy","String","40","Recommended","Study ID","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "tow_a_2_t1_moves","Integer","","Recommended","3 Rings Start 2 Trial 1 Number Moves","","",""
 "tow_a_2_t1_time","Integer","","Recommended","3 Rings Start 2 Trial 1 Time","","",""
 "tow_a_2_t1_err","Integer","","Recommended","3 Rings Start 2 Trial 1 Errors","","",""

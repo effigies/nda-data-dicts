@@ -96,7 +96,7 @@
 "addadltc","Integer","","Recommended","add adult current","0;1;-7","0=No; 1=Yes; -7=Refused",""
 "addadltp","Integer","","Recommended","add adult past","0;1;-7","0=No; 1=Yes; -7=Refused",""
 "site","String","101","Recommended","Site","","Study Site","asite,siteid"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","wave"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","wave"
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
 "days_baseline","Integer","","Recommended","Days since baseline","","","date,los,los_mini"
 "vis_type","Integer","","Recommended","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","phone"

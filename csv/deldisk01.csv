@@ -97,7 +97,7 @@
 "session_id","String","20","Recommended","session ID/screening ID","","","delaydisc_sittingid"
 "cbgroup","Integer","","Recommended","Counterbalancing Group","","","delaydisc_group"
 "aurora_device","Integer","","Recommended","Device Used","1 :: 6","1=iPad; 2=iPhone; 3=Tablet; 4=Android Smartphone; 5=Desktop; 6=Laptop","delaydisc_device"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","delaydisc_timepoint"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","delaydisc_timepoint"
 "delaydisc_catch_score","Float","","Recommended","Proportion of Correct Responses Across All Trials","","",""
 "delaydisc_lnk","Float","","Recommended","Natural Log Of K Parameter Averaged Across Conditions","","",""
 "delaydisc_twoweeks_lnk","Float","","Recommended","Natural Log Of K Parameter For Two Week Delays","","",""

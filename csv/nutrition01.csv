@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "ageyears","Integer","","Recommended","Age in years","","",""
 "pctswt","Float","","Recommended","Daily Percent Of Calories From Sweets, Desserts (Kcal)","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "supvite","Float","","Recommended","Average Daily Nutrients From Vitamin Supplements, Vitamin E (A-Te)","","",""
 "strtbcv","Integer","","Recommended","Stress- Tabs Or B- Complex Type Multivitamins, How Often Past 12 Months","0::5","0=No vitamins/minerals taken in past year; 1= Didn't take; 2= A few days per month; 3= 4-6 days per week; 4= Every day; 5= 1-3 days per week",""
 "dtlut","Float","","Recommended","Daily Nutrients From Food, Lutein Carotenoid","","",""

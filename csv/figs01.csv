@@ -681,7 +681,7 @@
 "chrfigs_fam_dapdef","Integer","","Recommended","Family member - definite affective psychosis diagnosis (depression)","","-900 = Missing; -300 = N/A; if([chrfigs_fam_info]='1',if([chrfigs_fam_pdx]='3',if([chrfigs_fam_p17]='0',if([chrfigs_fam_ddx]='3',if([chrfigs_fam_d12]='1',3,0),0),0),0),'')",""
 "chrfigs_fam_mapdef","Integer","","Recommended","Family member - definite affective psychosis diagnosis (mania)","","-900 = Missing; -300 = N/A; if([chrfigs_fam_info]='1',if([chrfigs_fam_pdx]='3',if([chrfigs_fam_p17]='0',if([chrfigs_fam_mdx]='3',if([chrfigs_fam_m12]='1',3,0),0),0),0),'')",""
 "chrfigs_fam_apdef","Integer","","Recommended","Family member - definite affective psychosis diagnosis","","-900 = Missing; -300 = N/A; if([chrfigs_fam_info]='1',if([chrfigs_fam_dapdef]='3',3,if([chrfigs_fam_mapdef]='3',3,0)),'')",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "psy_alcdrginpt","Integer","","Recommended","Drug and alcohol inpatient or partial hospitalization","0;1;9","0=No; 1=Yes; 9=Missing",""
 "psy_medication","Integer","","Recommended","Medication","0;1;9","0=No; 1=Yes; 9=Missing",""
 "psy_ect","Integer","","Recommended","ECT","0;1;9","0=No; 1=Yes; 9=Missing",""

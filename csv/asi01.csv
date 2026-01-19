@@ -224,4 +224,4 @@
 "dawba_n3","String","255","Recommended","Strengths - Other good points","","","tea_strength1"
 "general_comments_1","String","200","Recommended","What are the behavioral and/or emotional strengths of this child?","","","tea_strength2"
 "mabc2_summary_17","String","100","Recommended","Overalll profile of child's strengths and weaknesses","","","tea_strength3"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

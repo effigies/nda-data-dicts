@@ -66,7 +66,7 @@
 "life_deprinterfere","Integer","","Recommended","How Much does depression interfere","0 :: 4; -5; -7; -8;-97;-98","0=Not at all; 1=A little; 2=Some; 3=A lot; 4=Extremely; -98=DON‘’T KNOW; -97=REFUSED; -8=DON‘’T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "life_howoldfirstdepr","Integer","","Recommended","NCS-R Dep: First Depression Episode - Age","","","depr_ageonset"
 "life_howmanyyearsdepr","Integer","","Recommended","NCS-R Dep: Depression Episode - Number of Years","","","depr_numyrs"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "panic","Integer","","Recommended","does participant meet for panic disorder? 0 = no; 1 = yes","0;1","0 = No; 1 = Yes",""
 "panicd","Integer","","Recommended","Panic disorder diagnosis","0;1","0 = No; 1 = Yes",""
 "socdx","Integer","","Recommended","Social anxiety disorder diagnosis","0;1","0 = No; 1 = Yes",""

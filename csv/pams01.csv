@@ -27,7 +27,7 @@
 "time_hr","String","20","Recommended","In an average week (7 days), I usually spend about ______ hours in activities related to my son/daughter's academics (please give an exact estimate, not a range).
  Example responses: 6 (for six hours); 0.5 (for 1/2 an hour); 0 (for zero hours); 20 (for 20 hours).","","Number of hours per week the activity takes place",""
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","pi_staff"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "fs_history","Integer","","Recommended","Since two weeks ago, how many Fs does the student have in History? ","","",""
 "zs_english","Integer","","Recommended","Since two weeks ago, how many Zs does the student have in English?","","",""
 "fs_english","Integer","","Recommended","Since two weeks ago, how many Fs does the student have in English? ","","",""

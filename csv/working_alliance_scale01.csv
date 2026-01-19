@@ -91,7 +91,7 @@
 "wai_c07","Integer","","Recommended","I have some disagreements with my therapist about the goals of these sessions. ","1::7","1= Never; 2= Rarely; 3= Occasionnally; 4= Sometimes; 5= Often; 6= Very Often; 7= Always",""
 "walis_01","Integer","","Recommended","The current goals of these sessions are important for me","1::7","1 = never; 2 = rarely; 3 = occasionally; 4 = sometimes; 5 = often; 6 = very often; 7 = always",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ptwai3","Integer","","Recommended","I believe that my therapist likes me.","1::7","1 = Never ; 2 = Rarely ; 3 = Occasionally ; 4 = Sometimes ; 5 = Often ; 6 = Very Often ; 7 = Always",""
 "ptwai4","Integer","","Recommended","My therapist does not understand what I am trying to accomplish in therapy.","1::7","1 = Never ; 2 = Rarely ; 3 = Occasionally ; 4 = Sometimes ; 5 = Often ; 6 = Very Often ; 7 = Always",""
 "ptwai5","Integer","","Recommended","I am confident in my therapist's ability to help me.","1::7","1 = Never ; 2 = Rarely ; 3 = Occasionally ; 4 = Sometimes ; 5 = Often ; 6 = Very Often ; 7 = Always",""

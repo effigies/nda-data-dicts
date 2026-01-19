@@ -114,7 +114,7 @@
 "shawl_barriers8","Integer","","Recommended","Reasons why you may not have gotten the medical care you needed or that was recommended for you - I don't really care about taking care of myself at this time","0;1;99","0 = No (Disagree); 1 = Yes (Agree); 99 = Refused",""
 "shawl_barriers9","Integer","","Recommended","Reasons why you may not have gotten the medical care you needed or that was recommended for you - I did not have child care","0;1;99","0 = No (Disagree); 1 = Yes (Agree); 99 = Refused",""
 "shawl_barriers10","Integer","","Recommended","Reasons why you may not have gotten the medical care you needed or that was recommended for you - I was too drunk or high","0;1;99","0 = No (Disagree); 1 = Yes (Agree); 99 = Refused",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "shawl_visit_gp_past6mo","Integer","","Recommended","When did you most recently see a general practitioner or visit a polyclinic?","0::2;99","0 = Never; 1 = More than six months ago; 2 = In the past six months; 99 = Refused",""
 "shawl_seek_mhs_past6mo","Integer","","Recommended","When did you most recently seek mental health services?","0::2;99","0 = Never; 1 = More than six months ago; 2 = In the past six months; 99 = Refused",""
 "shawl_receive_mhs_past6mo","Integer","","Recommended","When did you most recently receive mental health services?","0::2;99","0 = Never; 1 = More than six months ago; 2 = In the past six months; 99 = Refused",""

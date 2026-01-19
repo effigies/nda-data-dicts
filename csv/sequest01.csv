@@ -30,4 +30,4 @@
 "peer_rejection","Float","","Recommended","Score for Peer Rejection","","",""
 "num_friends","Float","","Recommended","Score for Number of Friends","","",""
 "peer_attachment","Float","","Recommended","Score for Peer Attachment","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

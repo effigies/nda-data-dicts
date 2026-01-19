@@ -140,7 +140,7 @@
 "ksads_gad_rest_2p","Integer","","Recommended","GAD Restlessness Past (Parent/Child/Clinician)","1::3;5;-99;77;88","1 = Not present; 2 = Sub-threshold; 3 = Present; 5 = Rule Out; -99 = N/A ; 88 = Missing; 77= Refused","k2sads_gad_rest_2b,k2sads_gad_rest_2c,k2sads_gad_rest_2p"
 "ksads_gad_musc_1p","Integer","","Recommended","GAD Muscle Tension Current (Parent/Child/Clinician)","1::3;5;-99;77;88","1 = Not present; 2 = Sub-threshold; 3 = Present; 5 = Rule Out; -99 = N/A ; 88 = Missing; 77= Refused","k2sads_gad_musc_1b,k2sads_gad_musc_1c,k2sads_gad_musc_1p"
 "ksads_gad_musc_2p","Integer","","Recommended","GAD Muscle Tension Past (Parent/Child/Clinician)","1::3;5;-99;77;88","1 = Not present; 2 = Sub-threshold; 3 = Present; 5 = Rule Out; -99 = N/A ; 88 = Missing; 77= Refused","k2sads_gad_musc_2b,k2sads_gad_musc_2c,k2sads_gad_musc_2p"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
 "site","String","101","Recommended","Site","","Study Site",""
 "ksads_mde_leth_1p","Integer","","Recommended","Suicide Lethality Current (Parent/Child/Clinician)","1::5;-99;88;77","1= Not present ; 2= Sub-threshold ; 3= Present ;-99= N/A ; 88= Missing ; 77= Refused;4=No information; 5=Threshold",""

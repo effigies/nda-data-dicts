@@ -131,5 +131,5 @@
 "pesqcrit","Float","","Recommended","Adolescent age: 19-year criterion","0;1","0 = Under 19.0; 1 = 19.0 or older",""
 "dsmvers","String","10","Recommended","version/name of assessment","","","pesqform"
 "pesqcorr","Integer","","Recommended","PESQ: correct form administered","0;1","0 = No; 1 = Yes",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "probseva","Integer","","Recommended","Problem Severity Scale using imputed values (25 items)","","PROBSEVA = PESQA1 + PESQA2 + PESQA3 + PESQA4 +PESQA5 + PESQA6 + PESQA7 + PESQA8 + PESQA9 +PESQA10 + PESQA11 + PESQA12 + PESQA13 + PESQA14 +PESQA15+ PESQA16 + PESQA17 + PESQA18 + PESQA19 +PESQA20 +PESQA21 + PESQA22 + PESQA23 + PESQA24 +PESQA25","honmo"

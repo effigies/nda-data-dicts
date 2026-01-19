@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "experiment_id","Integer","","Required","ID for the Experiment/settings/run","","",""
 "file_source","String","1024","Required","File name/location","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visit_nbr"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visit_nbr"
 "phenotype","String","400","Recommended","Phenotype/diagnosis for the subject","","e.g., Healthy, Control, Suicidal",""
 "medication_notes","String","1000","Recommended","notes or observations regarding medication","","","med"
 "faces_condition","String","25","Recommended","FU (Face Upright; Correct Inhibition condition)","","",""

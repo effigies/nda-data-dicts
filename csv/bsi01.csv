@@ -163,7 +163,7 @@
 "bsi54","Integer","","Recommended","Discomfort using alcohol","0::4","0 = not at all;1 = a little bit;2 = moderately;3 = quite a bit;4 = extremely",""
 "bsi55","Integer","","Recommended","Discomfort using ""street drugs""","0::4","0 = not at all;1 = a little bit;2 = moderately;3 = quite a bit;4 = extremely",""
 "bsitotaln","Integer","","Recommended","Brief Symptom Inventory  Number of Items 1 - 53 that have a value of 0 - 4 ","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","wave"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","wave"
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","",""
 "imputation","Integer","","Recommended","Indicator noting imputed data set number ","1::20","",""
 "site","String","101","Recommended","Site","","Study Site","asite"

@@ -21,7 +21,7 @@
 "saps_ad9","Float","","Recommended","Version number","","","cogbias_version"
 "mpdat","Float","","Recommended","days from enrollment","","","studyday"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","cogbias_version"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ptie","Float","","Recommended","Percent threat interpretations endorsed","","",""
 "faces_bias_score","Float","","Recommended","Faces Bias score","","",""
 "cats_summary1","Integer","","Recommended","CATS Total Score","","",""

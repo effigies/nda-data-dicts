@@ -124,3 +124,4 @@
 "version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "respond","Integer","","Required","Respondent","1::7;999","1 = Parent; 2 = Teacher; 3=Self; 4= Other; 5= Significant other; 6 = Parent 1; 7 = Parent 2; 999 = Not available",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
+"sens_people_mov","Integer","","Recommended","Watches people as they move around the room","0::5","0=Does not apply; 1=Almost never; 2=Occasionally; 3=Half the time; 4=Frequently; 5=Almost always",""

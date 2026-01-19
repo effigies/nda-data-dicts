@@ -23,7 +23,7 @@
 "tsst_speech_rating_6","Integer","","Recommended","Hwo well did you perform as an experimenter providing near word for word instructions?","1 :: 4","1 = Conceptual errors in instructions; 2 = Repeated wording errors in instructions; 3 = Minor wording errors in instructions; 4 = Near perfect administration","1_tsst_speech_rating_6,2_tsst_speech_rating_6"
 "tsst_speech_rating_7","Integer","","Recommended","How well did you adhere to the protocol that required minimal feedback from the experimenter during the speech (e.g., smiling, head nodding, reassurance)?","1 :: 4","1 = Very poorly; 2 = Moderate; 3 = Quite well; 4 = Extremely well","1_tsst_speech_rating_7,2_tsst_speech_rating_7"
 "examiner","String","3","Recommended","Examiner","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "tsst_m01","Integer","","Recommended","How distressing was the speech task to you?","0::100","0 = Not distressing at all; 100 = Worst distress imaginable",""
 "tsst_m02","Integer","","Recommended","How anxious do you feel right now?","0::100","0 = Least; 100 = Most",""
 "tsst_m03","Integer","","Recommended","How strong is your desire to leave this situation?","0::100","0 = Least; 100 = Most",""

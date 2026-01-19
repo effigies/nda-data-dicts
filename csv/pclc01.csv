@@ -25,7 +25,7 @@
 "site","String","101","Recommended","Site","","Study Site","asite,siteid"
 "clinicid","Integer","","Recommended","Clinic ID","","","aclinic"
 "interv","Integer","","Recommended","Intervention Status","0;1","1=ITV, intervention; 0=TAU, treatment as usual",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","wave"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","wave"
 "days_baseline","Integer","","Recommended","Days since baseline","","","lof"
 "ipclc","Integer","","Recommended","Imputed PCLC ","0;1","(Post Traumatic Stress Disorder CheckList � Civilian Version with substitution for missing data)",""
 "rmtmpclc","Integer","","Recommended","Change Score PCLC","0;1","1:less than 34",""

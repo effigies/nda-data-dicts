@@ -21,4 +21,4 @@
 "atxonset06_2","String","225","Recommended","Specify Other (second)","","",""
 "atxonset06_3","String","225","Recommended","Specify Other (third)","","",""
 "atxonset06_4","String","225","Recommended","Specify Other (fourth)","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

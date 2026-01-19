@@ -98,7 +98,7 @@
 "ucsd_6_19","Integer","","Recommended","For what symptoms do you use cannabis? (select all that apply) - Seizures","0;1","0=Unselected; 1=Selected",""
 "ucsd_6_20","Integer","","Recommended","For what symptoms do you use cannabis? (select all that apply) - Sleep/Insomnia","0;1","0=Unselected; 1=Selected",""
 "ucsd_6_21","Integer","","Recommended","For what symptoms do you use cannabis? (select all that apply) - Spasms","0;1","0=Unselected; 1=Selected",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ucsd_6_22","Integer","","Recommended","For what symptoms do you use cannabis? (select all that apply) - Spasticity","0;1","0=Unselected; 1=Selected",""
 "ucsd_6_23","Integer","","Recommended","For what symptoms do you use cannabis? (select all that apply) - Stress/tension","0;1","0=Unselected; 1=Selected",""
 "ucsd_6_24","Integer","","Recommended","For what symptoms do you use cannabis? (select all that apply) - Sweating at night","0;1","0=Unselected; 1=Selected",""

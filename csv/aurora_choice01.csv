@@ -21,7 +21,7 @@
 "testid","Integer","","Recommended","Identifier of Current Test","","","crt_testid"
 "cbgroup","Integer","","Recommended","Counterbalancing Group","","","crt_group"
 "aurora_device","Integer","","Recommended","Device Used","1 :: 6","1=iPad; 2=iPhone; 3=Tablet; 4=Android Smartphone; 5=Desktop; 6=Laptop","crt_device"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","crt_timepoint"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","crt_timepoint"
 "crt_catch_score","Float","","Recommended","Proportion Correct Responses Across All Trials","","",""
 "behnbackalltotalcorrt","String","30","Recommended","Mean reaction time for all correct responses","","","crt_meanrt"
 "choicert_mdn_corr_rt","Float","","Recommended","Choice Reaction Time Task: Median reaction time for correct responses","","","crt_medianrt"

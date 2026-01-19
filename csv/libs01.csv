@@ -47,7 +47,7 @@
 "libs_41","Integer","","Recommended","You get a bad evaluation at work/school, and you know someone close to you will be:","0;1","0 = Worried; 1 = Encouraging",""
 "libs_42","Integer","","Recommended","You miss work/school, and you know someone close to you will be:","0;1","0 = Irritated; 1 = Kind",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "condition_ca","Integer","","Recommended","Condition label","0;1","0=Control; 1 = Active",""

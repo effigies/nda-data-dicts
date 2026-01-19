@@ -529,7 +529,7 @@
 "eedp_covid11a","Integer","","Recommended","P: Have any of the your child''s family members fallen ill physically because of Coronavirus/COVID-19?","0;1","0=No; 1=Yes",""
 "eedp_covid11b","Integer","","Recommended","P: Have any of your child''s family members been hospitalized because of Coronavirus/COVID-19?","0;1","0=No; 1=Yes",""
 "eedp_covid11c","Integer","","Recommended","P: Have any of your child''s family members been put into self-quarantine with symptoms of Coronavirus/COVID-19?","0;1","0=No; 1=Yes",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "eedp_covid11d","Integer","","Recommended","P: Have any of your child''s family members been put into self-quarantine without symptoms (e.g., due to possible exposure) of Coronavirus/COVID-19?","0;1","0=No; 1=Yes",""
 "eedp_covid11e","Integer","","Recommended","P: Have any of your child''s family members lost a job because of Coronavirus/COVID-19?","0;1","0=No; 1=Yes",""
 "eedp_covid11f","Integer","","Recommended","P: Have any of your child''s family members had reduced ability to earn money because of Coronavirus/COVID-19?","0;1","0=No; 1=Yes",""

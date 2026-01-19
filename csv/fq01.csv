@@ -33,6 +33,6 @@
 "fqsoc","Integer","","Recommended","Social","","Sum of questions 3,7,9,11,14",""
 "fqtot","Integer","","Recommended","Total","","AG plus BL plus SOC",""
 "fqtp","Integer","","Recommended","Troubled by problems","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "dayscons","Integer","","Recommended","days since consent","","",""
 "site","String","101","Recommended","Site","","Study Site","site_id,siteid"

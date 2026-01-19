@@ -63,7 +63,7 @@
 "srmt_17_persons___5","Integer","","Recommended","Go to bed: Person(s) Involved (choice=Other Relative)","0;1","0= Uncheck; 1=Checked",""
 "srmt_reg","Integer","","Recommended","Regularity Score","0::17","Sum of srmt_1_occur through srmt_17_occur",""
 "srmt_frq","Float","","Recommended","Average Frequency Score","","Average of srmt_1_occur through srmt_17_freq",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "srmt_2_persons___2","Integer","","Recommended","First contact with another person (in person or by phone): Person(s) Involved (choice=Significant Other)","0;1","0= Uncheck; 1=Checked",""
 "srmt_2_persons___3","Integer","","Recommended","First contact with another person (in person or by phone): Person(s) Involved (choice=Friend(s))","0;1","0= Uncheck; 1=Checked",""
 "srmt_2_persons___4","Integer","","Recommended","First contact with another person (in person or by phone): Person(s) Involved (choice=Parent(s))","0;1","0= Uncheck; 1=Checked",""

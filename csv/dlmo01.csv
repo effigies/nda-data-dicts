@@ -14,4 +14,4 @@
 "dlmo_onsettime","String","8","Recommended","Dim Light Melatonin Onset - clock time of melatonin onset in dim light ","","HH:MM AM/PM",""
 "dlmo_onset","Float","","Recommended","Melatonin onset","","",""
 "phase_angle","Float","","Recommended","Phase angle","","Interval between DLMO or melatonin onset and bedtime",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

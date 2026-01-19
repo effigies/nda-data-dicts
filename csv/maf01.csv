@@ -44,7 +44,7 @@
 "maf2_xcrssovr","Integer","","Recommended","crossover variable","0::2","1=Yes; 2=Healthy control; 0=No",""
 "subject_description","String","4000","Recommended","Subject related information (e.g the affection, phenotype, disease information, etc.).","","",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timept"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","timept"
 "fseqno","Integer","","Recommended","Sequence Number","0::999","The FSEQNO variable in the ADJ form has a special interpretation compared to other forms.
 For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' can be thought of as
 being '002', and FSEQNO of '3' can be thought of as being '003'.

@@ -137,4 +137,4 @@
 "box_sad","String","1","Recommended","Box Task - How much did [child] feel sad?","a;b;c","a = Not sad; b = A little sad; c = Sad a lot",""
 "box_afraid_nervous","String","1","Recommended","Box Task - How much did [child] feel afraid or nervous?","a;b;c","a = Not afraid or nervous; b = A little afraid or nervous; c = Afraid or nervous a lot",""
 "box_happy","String","1","Recommended","Box Task - How much did [child] feel happy?","a;b;c","a = Not happy; b = A little happy; c = Happy a lot",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

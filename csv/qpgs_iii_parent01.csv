@@ -74,7 +74,7 @@
 "qpgs_d6c","String","200","Recommended","Does your child usually feel nausea and vomit when this happens?","No;Yes","",""
 "qpgs_d6d","String","200","Recommended","Does it usually hurt your child when the food comes back up into his or her mouth?","No;Yes","",""
 "qpgs_d6e","String","200","Recommended","What does your child usually do with the food that comes back up into his or her mouth?","Swallow it;Spit it out","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "rome3_q_23","Integer","","Recommended","Did this pain or burning usually get better or stop after a bowel movement (pain or burning in the middle of your abdomen, above your belly button but not in your chest)?","0::4; 88; 999","0=Never or rarely; 1=Sometimes; 2=Often; 3=Most of the time; 4=Always; 88=Not applicable; 999=Missing",""
 "rcm3famulcrcolitscrohndisind","Integer","","Recommended","Do you have a parent, brother, or sister who has (or had) one or more of the following conditions: ulcerative colitis or Crohn's disease","0;1","0 = No; 1 = Yes",""
 "rcm3pnbuildupstdysevrelvlfreq","Integer","","Recommended","Did this pain build up to a steady, severe level?","0::4","0 = Never or rarely; 1 = Sometimes; 2 = Often; 3 = Most of the time; 4 = Always",""

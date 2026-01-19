@@ -34,4 +34,4 @@
 "ocycbehavinhib","Integer","","Recommended","OCYC Behavioral inhibition Subscale","","",""
 "ocyctotal","Integer","","Recommended","OCYC Total","","",""
 "respond","Integer","","Recommended","Respondent","1::7;999","1 = Parent; 2 = Teacher; 3=Self; 4= Other; 5= Significant other; 6 = Parent 1; 7 = Parent 2; 999 = Not available",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

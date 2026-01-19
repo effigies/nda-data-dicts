@@ -337,7 +337,7 @@ things which happened even if they were unremarkable� Event 2","","",""
 occurred during this rating period. If there were no noteworthy events, describe 3
 things which happened even if they were unremarkable� Event 3","","",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "childmeas_compby","Integer","","Recommended","Imformant's relationship to child","0::10;99","0 = Self/subject; 1 = Mother; 2 = Father; 3 = Parent(s) (details unknown); 4 = Other relative (describe); 5 = Other female primary caregiver (describe); 6 = Other male primary caregiver (describe); 7 = Teacher; 9 = Other professional/Therapist/etc. (describe); 9 = Other (describe); 99 = Unknown/Missing",""
 "fh18b","String","40","Recommended","(specify relationship)","","",""
 "year_mta","Integer","","Recommended","Year in study","","","visit_year,visit_year�"

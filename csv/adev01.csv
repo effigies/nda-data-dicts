@@ -16,7 +16,7 @@
 "aeout","Integer","","Recommended","Outcome","1 :: 20;-9;999","1 = Resolved without effects; 2 = Resolved with effects; 3 = Ongoing; 4 = Death; 5 = Unknown; 6=AE Still Present-No Treatment; 7=AE Still Present-Being Treated; 8=Residual Effect(s) Present-No Treatment; 9=Residual Effect(s) Present-Being Treated; 10=Change in severity, status, or characteristic ; 11=Lost to follow up; 12=Other; 13= not recovered/not resolved; 14= recovered/resolved with sequelae; 15= recovered/resolving; 16= returned to baseline; 17 = Recovered/Resolved; 18 = Recovering/Resolving ; 19 = Worsened; 20= Unresolved; -9=unknown; 999= Missing","ae_outc,ae_outcome,ae_outcome_1,aef009,aeoutcm,aeoutcome,ecp_aeoutcome,outcome"
 "aeser","Integer","","Recommended","Serious","0;1; -9","0 = No; 1 = Yes; -9=unknown","ae_sade,ae_sae,ae_sae_1,ae_serious,aef007,aesae,aeseryn,ecp_aesae,serious"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","AESINFO,ae_comment,comments,emnetnarrative_1"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","int1,interval,timept,visitn,vtypae"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","int1,interval,timept,visitn,vtypae"
 "ae","String","4000","Recommended","Adverse event Description","","","AES1,adverse_event,ae_event_1,ae_name,ae_sym,aedesc,aef002a,aeid,ael02sd1,aesa21a,descriptionofevent,ecp_ae,event_desc"
 "aes","Integer","","Recommended","Have you had any physical or mental health problems since your last visit?","0;1","0 = No; 1 = Yes",""
 "aes2","String","500","Recommended","Description of Adverse Event2","","","ae_event_2,aesa17,aesa21b"

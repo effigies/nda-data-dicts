@@ -93,7 +93,7 @@ or more when, although you were feeling unusually happy and intensely energetic 
 "comqother","String","255","Recommended","Respondent - Other (text)","","",""
 "rt_","Float","","Recommended","The number of milliseconds since the start of the questionnaire until completed","","",""
 "time_elapsed","Float","","Recommended","The number of milliseconds since the start of the experiment until the questionnaire was completed","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "gbi_hypomania","Float","","Recommended","GBI - Hypomania Score","","Sum of gbi_4, 7, 8, 11, 15, 17, 22, 27, 30, 31, 38, 42, 43, 46, 51, 54, 61, 64, 66; 999= NA/Missing",""
 "gbi_biphasic","Float","","Recommended","GBI - Biphasic Score","","Sum of gbi_2, 19, 24, 35, 40, 48, 53, 58; 999= NA/Missing",""
 "gbi_h_b","Float","","Recommended","GBI - Hypomania and Biphasic Score","","Sum of gbi_hypomania and gbi_biphasic; 999= NA/Missing",""

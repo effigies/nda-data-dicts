@@ -25,7 +25,7 @@
 "alert_sideffects","Integer","","Recommended","Alerting side effects. New medication","0::3 ; -7 ; -9","0 = None; 1 = Mild; 2 = Moderate; 3 = Severe; -7 N/A; -9 = missing or not reported",""
 "sed_sideffects","Integer","","Recommended","Sedating side effects. New medication","0::3 ; -7 ; -9","0 = None; 1 = Mild; 2 = Moderate; 3 = Severe; -7 N/A; -9 = missing or not reported",""
 "notes","String","200","Recommended","Any additional notes","","","change_notes"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ldosetm","String","10","Recommended","Time of last dose","","","cdr002"
 "ma3_reason","String","500","Recommended","Reason Medication Was Not Taken As Prescribed or How Dose Was Lost","","","cdr001a"
 "cdr001","Integer","","Recommended","Was the AM study medication dose taken in clinic?","0;1","0 = No; 1 = Yes",""

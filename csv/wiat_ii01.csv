@@ -703,7 +703,7 @@
 "wiat_tot_prc","Float","","Recommended","WIAT Total Percentile","","",""
 "wiat_tot_nce","Integer","","Recommended","WIAT Total Normal curve equivalent","","",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "site","String","101","Recommended","Site","","Study Site",""
 "resp_source","Integer","","Recommended","Respondent Source","1::6","1= subject; 2= parent; 3= clinician; 4= teacher; 5= trainer; 6= fidelity reviewer","source"
 "visit_year","Integer","","Recommended","Year of visit","","",""

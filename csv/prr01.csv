@@ -11,7 +11,7 @@
 "prr_1","Integer","","Recommended","At this moment, how important is it that you change your (P: current parenting practices)/(A: your academic habits)?","0::10","0 = Not Important At All; 5 = About As Important As Other Things In My Life Right Now; 10 = Most Important Thing In My Life Right Now","arr_1"
 "prr_2","Integer","","Recommended","At this moment, how confident are you that you will change your your (P: current parenting practices)/(A: your academic habits)?","0::10","0 = Not Confident At All; 5 = 50% Confident; 10 = 100% Confident","arr_2"
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","pi_staff"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "mmav01","Integer","","Recommended","How likely are you are to use alcohol, even a little, while you are still pregnant?","0::10","0 = Not at all likely ; 10 = Very likely",""
 "mmav02","Integer","","Recommended","How confident are you that you could avoid alcohol completely for the rest of your pregnancy, if you really wanted to? If you already made a quit goal, how confident are you that you will be successful with your goal?","0::10","0 = Not confident at all ; 10 = Very confident",""
 "mmav03","Integer","","Recommended","When a pregnant woman drinks alcohol, how much could it hurt the baby?","0::10","0 = Not at all ; 10 = Very much",""

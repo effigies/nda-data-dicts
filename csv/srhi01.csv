@@ -106,7 +106,7 @@
 "srhi6_r","Integer","","Recommended","Restricting is something: that would require effort not to do it.","1::5; 888","1= Strongly Agree; 2= Agree; 3 = Neutral; 4= Disagree; 5= Strongly Disagree; 888 = missing",""
 "srhi7_r","Integer","","Recommended","Restricting is something: that belongs to my daily, weekly, monthly routine.","1::5; 888","1= Strongly Agree; 2= Agree; 3 = Neutral; 4= Disagree; 5= Strongly Disagree; 888 = missing",""
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "srhi_alcohol_1","Integer","","Recommended","Drinking alcohol is something I do automatically.","1::7","1= Strongly Agree; 2= Agree; 3= Agree Somewhat; 4= Undecided; 5= Disagree Somewhat; 6= Disagree; 7= Strongly Disagree",""
 "srhi_alcohol_2","Integer","","Recommended","Drinking alcohol is something I do without having to consciously remember.","1::7","1= Strongly Agree; 2= Agree; 3= Agree Somewhat; 4= Undecided; 5= Disagree Somewhat; 6= Disagree; 7= Strongly Disagree",""
 "srhi_alcohol_3","Integer","","Recommended","Drinking alcohol is something I do without thinking.","1::7","1= Strongly Agree; 2= Agree; 3= Agree Somewhat; 4= Undecided; 5= Disagree Somewhat; 6= Disagree; 7= Strongly Disagree",""

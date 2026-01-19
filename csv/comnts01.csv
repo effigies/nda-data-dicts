@@ -7,7 +7,7 @@
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","cmnt_frmcomp"
 "visitday","Integer","","Recommended","day of visit","","","cmnt_visitdat_x"
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections","cmnt_studyid"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","cmnt_interval"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","cmnt_interval"
 "site","String","101","Recommended","Site","","Study Site","cmnt_site_x"
 "form1","String","35","Recommended","Name of Case Report Form 1","","","cmnt_rptfrm1"
 "comments1","String","1000","Recommended","Comments 1","","","cmnt_comment1"

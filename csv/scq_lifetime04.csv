@@ -53,7 +53,7 @@
 "scq_total_score","Integer","","Recommended","SCQ total score","","","ASQ_total,SCQ_LIFETIME_SCORE,SCQ_TOTAL,score,scq_lifetime_total_score,scq_total_score_l,summary_score,total"
 "test_type","String","50","Recommended","Type of event (Pre-Test or Post-Test)","Pre-Test;Post-Test","",""
 "validity_of_data","Integer","","Recommended","Validity of data","0::4; 999","0= raw; 1 = Valid or clean; 2 = Question validity; 3 = Invalid data; 4 = Not answered; 999= missing",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","scql_apt"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","scql_apt"
 "site","String","101","Recommended","Site","","Study Site",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "phenotype","String","400","Recommended","Phenotype/diagnosis for the subject","","e.g., Healthy, Control, Suicidal","asd_diagnosis"

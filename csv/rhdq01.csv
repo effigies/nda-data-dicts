@@ -29,5 +29,5 @@
 "rfdq06","Integer","","Recommended","I felt ill or in pain or uncomfortable because I wanted a drink.","0 :: 10","0= Not At All Important; 10= Very Important",""
 "rfdq07","Integer","","Recommended","I was in a good mood and felt like getting high.","0 :: 10","0= Not At All Important; 10= Very Important",""
 "visit_name","String","20","Recommended","session ID/screening ID","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "question_visit","Integer","","Recommended","Was the questionnaire administered during this visit?","0;1","0 = No; 1 = Yes",""

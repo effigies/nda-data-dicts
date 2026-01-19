@@ -487,7 +487,7 @@
 "snvfr_fr_ss","Integer","","Recommended","Sum of NV FR + V KN scaled scores","","",""
 "pr_elg_viq","Integer","","Recommended","""VIQ EQ, LT, GT (Percentage Rank)""","0;1;2;999","0=0-EQ;1=1-LT;2=2-GT",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "visitday","Integer","","Recommended","day of visit","","",""
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable",""
 "iqaiq","Integer","","Recommended","IQ and Factor Index

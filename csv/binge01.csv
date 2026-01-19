@@ -22,6 +22,6 @@
 "bingees16","Integer","","Recommended","Eating Habit #16","0::2; -7","0=I usually know whether or not I'm physically hungry. I take the right portion of food to satisfy me; 1=Occasionally, I feel uncertain about knowing whether or not I'm physically hungry. At these times it's hard to know how much food I should take to satisfy me; 2=Even though I might know how many calories I should eat, I don't have any idea what is a ""normal"" amount of food for me; -7=missing","bes16"
 "bingees_sev","Integer","","Recommended","Binge Eating Scale Severity Score","1::3","1= None; 2= Moderate; 3= Severe",""
 "bingess_tot","Integer","","Recommended","Binge Eating Scale Total Score","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","treatment"
 "ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2;-1","1=Patient; 2=Partner; -1=Not applicable",""

@@ -47,7 +47,7 @@
 "p_gain","Float","","Recommended","Phase Specific Percent Wt Gain","","Phase-specific percent weight gain (100 * C_WT / phase- specific baseline weight)",""
 "bmi_cat","Integer","","Recommended","Body Mass Index Categorized","1::6","1 = Underweight (BMI < 18.5); 2 = Normal (BMI 18.5-24.9); 3 = Overweight (BMI 25-29.9); 4 = Obesity I (BMI 30-34.9); 5 = Obesity II (BMI 35-39.9); 6 = Obesity III (BMI >=40)",""
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","eventname,int1,session,visit_name,visitnum,vtypvs"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","eventname,int1,session,visit_name,visitnum,vtypvs"
 "truncvis","Integer","","Recommended","Truncated Visit Number","","""Created variable: provides a numeric visit number for all visits, including unscheduled and end of phase""",""
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","vsfa0b"
 "base1","Integer","","Recommended","Flag Baseline Phase 1/1A Visit","","1=Yes for all records meeting this criteria",""

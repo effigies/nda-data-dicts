@@ -15,7 +15,7 @@
 "crsctotal","Integer","","Recommended","Credibility Scale-Modified Total","","",""
 "crscmean","Float","","Recommended","Credibility Scale-Modified Mean","","",""
 "crscsd","Float","","Recommended","Credibility Scale-Modified Standard Deviation","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ceq_i_1","Integer","","Recommended","1. At this point, how logical does the therapy offered to you seem?","1 :: 9;999","1 = Not at all; 5 = Somewhat; 9 = Very; 999 = Prefer no to respond",""
 "ceq_i_2","Integer","","Recommended","2. At this point, how successfully do you think this treatment will be in reducing your symptoms?","1 :: 9;999","1 = Not at all; 5 = Somewhat; 9 = Very; 999 = Prefer no to respond",""
 "ceq_i_3","Integer","","Recommended","3. How confident would you be in recommending this treatment to a friend who experiences similar problems?","1 :: 9;999","1 = Not at all; 5 = Somewhat; 9 = Very; 999 = Prefer no to respond",""

@@ -111,7 +111,7 @@
 "cont12","Integer","","Recommended","drug 12 continued","0;1;-7","0=No (discontinued); 1=Yes; -7=Refused",""
 "med12drz","Integer","","Recommended","med 5 discont days since randomization","","",""
 "site","String","101","Recommended","Site","","Study Site","cntr_site_x,site_no,site_uid,siteid"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","cntr_interval,int1,interval,timept,visit_name"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","cntr_interval,int1,interval,timept,visit_name"
 "dsmvers","String","10","Recommended","version/name of assessment","","","form_name"
 "date_updated","Date","","Recommended","Date record updated","","","edit_date"
 "session_id","String","20","Recommended","session ID/screening ID","","","screeningid,session"

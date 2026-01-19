@@ -45,7 +45,7 @@
 "session_id","String","20","Recommended","session ID/screening ID","","","screeningid"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","assessment_name,form_name,ps_version"
 "site","String","101","Recommended","Site","","Study Site","site_uid,siteid"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment,visit_name"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","assessment,visit_name"
 "status","String","50","Recommended","Status","","","tstst"
 "sc011_theta","Float","","Recommended","sc011 Theta","","",""
 "sc011_tscore","Float","","Recommended","sc011 T Score","","",""

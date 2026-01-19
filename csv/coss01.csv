@@ -93,4 +93,4 @@
 "coss_conf2","Integer","","Recommended","How much conflict with remembering schedules and due dates?","1::4","1= None; 2= A small amount; 3= Pretty much; 4= Very much",""
 "coss_conf3","Integer","","Recommended","How much conflict failure to take special steps to organize actions or failure to use special tools to organize materials?","1::4","1= None; 2= A small amount; 3= Pretty much; 4= Very much",""
 "coss_conf4","Integer","","Recommended","How much conflict with planning?","1::4","1= None; 2= A small amount; 3= Pretty much; 4= Very much",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

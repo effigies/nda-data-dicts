@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","age,intvage"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender,iec13a,rdm13,sex"
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","IECCODE"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","inex_interval,interval,timept,visit_name,vtypscrn"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","inex_interval,interval,timept,visit_name,vtypscrn"
 "iec1","Integer","","Recommended","Has the patient demonstrated adequate decisional capacity to make a choice about participating in this research study AND provided informed consent to participate?","0;1","0=No; 1= Yes","elg_ct_can_consent,elg_p_can_consent,ieca1b,ieca3_1,incic,rdm1"
 "iec2","Integer","","Recommended","Is the patient older than 18 years of age?","0;1","0=No; 1= Yes","agege18,ieca3"
 "iec3","Integer","","Recommended","""Does the patient have a diagnosis of schizophrenia or schizoaffective disorder (DSM-IV-TR), confirmed by SCID?""","0;1","0=No; 1= Yes","ieca2,ieca4_1,rdm3"

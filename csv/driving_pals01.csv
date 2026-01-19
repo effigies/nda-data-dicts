@@ -117,7 +117,7 @@
 "alcaid_2","Integer","","Recommended","Would you drive a distance of 1 mile right now?","0;1","0= No; 1= Yes",""
 "alcaid_3","Integer","","Recommended","Would you drive a distance of 3 miles right now?","0;1","0= No; 1= Yes",""
 "alcaid_4","Integer","","Recommended","Would you drive a distance of 10 miles right now?","0;1","0= No; 1= Yes",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "yadq1","Integer","","Recommended","In the past year, how many times have you driven after consuming 1 drink within 2 hours?","0::99","Number of times",""
 "yadq2","Integer","","Recommended","In the past year, how many times have you driven after consuming 3 drinks within 2 hours?","0::99","Number of times",""
 "yadq3","Integer","","Recommended","In the past year, how many times have you driven after consuming 5 drinks or more within 2 hours?","0::99","Number of times",""

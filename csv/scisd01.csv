@@ -250,4 +250,4 @@
 "narcolepsy6","Date","","Recommended","Narcolepsy disorder CSF date","","",""
 "crsd_sev","Integer","","Recommended","Circadian Rhythm Sleep-Wake Disorder Severity","1::3","1 = Mild; 2 = Moderate; 3 = Severe",""
 "crsd_dur","Integer","","Recommended","Circadian Rhythm Sleep-Wake Disorder Duration","1;2","1 = Episodic; 2 = Persistent/Chronic",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

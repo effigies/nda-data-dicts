@@ -61,7 +61,7 @@
 "mar01_6mo","Integer","","Recommended","In the past 6 months, have you used marijuana?","0;1;888;999","0=No; 1=Yes; 888=N/A - condition skipped; 999=Missing/No answer",""
 "sub_lifetime_01","Integer","","Recommended","In your lifetime, have you used alcohol (e.g., beer, wine, hard liquor)","0;1;888;999","0=No/Unchecked; 1=Yes/Checked; 888=N/A - condition skipped; 999 = Missing/No answer",""
 "sub_lifetime_02","Integer","","Recommended","In your lifetime, have you used tobacco (e.g., cigarettes, vapes, chewing tobacco)","0;1;888;999","0=No/Unchecked; 1=Yes/Checked; 888=N/A - condition skipped; 999 = Missing/No answer",""
-"sub_lifetime_03","Integer","","Recommended","In your lifetime, have you used marijuana (e.g., joints, vapes, edibles)","0;1;888;999","0=No/Unchecked; 1=Yes/Checked; 888=N/A - condition skipped; 999 = Missing/No answer",""
+"sub_lifetime_03","Integer","","Recommended","In your lifetime, have you used marijuana (e.g., joints, vapes, edibles)","0;1;88;99;888;999","0=No/Unchecked; 1=Yes/Checked; 88=Don't know; 99=Refuse to answer; 888=N/A - condition skipped; 999 = Missing/No answer",""
 "mtf_vape_ever","Integer","","Recommended","Have you ever vaped?","0;1","0=No; 1=Yes",""
 "mtf_vape_days_lifetime","Integer","","Recommended","On how many days (if any) have you vaped nicotine in your lifetime?","0::5;777","0= 0 Days; 1= 1-2 Days; 2= 3-5 Days; 3= 6-9 Days; 4= 10-19 Days; 5= 20 or More; 777= Refuse to Answer",""
 "mtf_vape_days_12mo","Integer","","Recommended","On how many days (if any) have you vaped nicotine during the last 12 months?","0::5;777","0= 0 Days; 1= 1-2 Days; 2= 3-5 Days; 3= 6-9 Days; 4= 10-19 Days; 5= 20 or More; 777= Refuse to Answer",""

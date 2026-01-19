@@ -27,5 +27,5 @@
 "mse21","Integer","","Recommended","Impaired sexual performance","0;1","0 = No;1 = Yes","SE1U"
 "mse_total","Integer","","Recommended","Medication Side Effects total score","0::16","","sum_SE"
 "days_baseline","Integer","","Recommended","Days since baseline","","","sedays"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timept"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","timept"
 "site","String","101","Recommended","Site","","Study Site",""

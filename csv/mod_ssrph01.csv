@@ -10,5 +10,5 @@
 "mod_ssrph03","Integer","","Recommended","People will see a person in a less favorable  way if they come to know that he/she has seen a psychologist.","0::3;99","0 = Strongly disagree; 1 = Disagree; 2 = Agree; 3 = Strongly agree; 99 = Refused",""
 "mod_ssrph04","Integer","","Recommended","It is advisable for a person to hide from people that he/she has seen a psychologist","0::3;99","0 = Strongly disagree; 1 = Disagree; 2 = Agree; 3 = Strongly agree; 99 = Refused",""
 "mod_ssrph05","Integer","","Recommended","People tend to like less those who are receiving  professional psychological help.","0::3;99","0 = Strongly disagree; 1 = Disagree; 2 = Agree; 3 = Strongly agree; 99 = Refused",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ssrph1","Integer","","Recommended","People seeing a psychologist for emotional or interpersonal problems are regarded as less valuable","0::3;99","0 =  Strongly Disagree; 1 = Disagree; 2 = Agree; 3 =  Strongly Agree; 99 = Refused",""

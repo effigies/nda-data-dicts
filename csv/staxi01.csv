@@ -124,7 +124,7 @@
 "s_ang_v_lev","Integer","","Recommended","State Anger- Verbal (S-Ang/V) Score Level","1::6","1 = Low; 2 = Low-Moderate; 3 = Moderate; 4 = Moderate-High; 5 = High; 6 = Very high",""
 "s_ang_p_per","Integer","","Recommended","State Anger- Physical (S-Ang/P) Percentile","0::100","",""
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "stae1_8","Integer","","Recommended","How do you feel right now? - Feel like hitting someone","1::4;999","1 = Not at all; 2 = Somewhat; 3 = Moderately so; 4 = Very much so; 999 = No answer",""
 "stae1_9","Integer","","Recommended","How do you feel right now? - Feel like swearing","1::4;999","1 = Not at all; 2 = Somewhat; 3 = Moderately so; 4 = Very much so; 999 = No answer",""
 "stae1_10","Integer","","Recommended","How do you feel right now? - Feel annoyed","1::4;999","1 = Not at all; 2 = Somewhat; 3 = Moderately so; 4 = Very much so; 999 = No answer",""

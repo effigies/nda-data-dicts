@@ -39,4 +39,4 @@
 "dhs33","Integer","","Recommended","In the past month, how often has being preoccupied with crime been a hassle?","1::5","1 = Did not occur; 2 = Sometimes; 3 = Moderately often; 4 = Often; 5 = Extremely often",""
 "dhs34","Integer","","Recommended","In the past month, how often has objects lost or misplaced been a hassle?","1::5","1 = Did not occur; 2 = Sometimes; 3 = Moderately often; 4 = Often; 5 = Extremely often",""
 "dhs35","Integer","","Recommended","In the past month, how often has concerns about being dependent on others been a hassle?","1::5","1 = Did not occur; 2 = Sometimes; 3 = Moderately often; 4 = Often; 5 = Extremely often",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

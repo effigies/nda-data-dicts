@@ -20,4 +20,4 @@
 "es_1a","Integer","","Recommended","Number of effective strategies to stop feeling so happy","","",""
 "es_5a","Integer","","Recommended","Number of effective strategies to stop feeling so angry","","",""
 "es_9a","Integer","","Recommended","Number of effective strategies to stop feeling so sad","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

@@ -108,4 +108,4 @@
 "dshi_q17d","Float","","Recommended","If yes, how many years have you been doing this? (If you are no longer doing this, how many years did you do this before you stopped?)","","",""
 "dshi_q17e","String","50","Recommended","If yes, has this behavior ever resulted in hospitalization or injury severe enough to require medical treatment?","","",""
 "dshi_totalscore","Integer","","Required","DSHI total score","","-999=Missing;N/A","severity_totscore"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

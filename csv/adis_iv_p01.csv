@@ -65,7 +65,7 @@
 "clinician_anxdiag9_sev","Integer","","Recommended","Clinician diagnosis-severity","0;1;2;3;4;5;6;7;8","","CLINICIAN_ADIS_DX9_SEVERITY"
 "clinician_anxdiag10","String","100","Recommended","Clinician diagnosis","Separation Anxiety Disorder; Social Phobia; Specific Phobia; Panic Disorder; Agoraphobia; Generalized Anxiety Disorder; Obsessive Compulsive Disorder; Post Traumatic Stress Disorder; Dysthymia; Major Depressive Disorder; Attention Deficit Hyperactivity Disorder- Inattentive Type; Attention Deficit Hyperactivity Disorder- Hyperactive Type; Attention Deficit Hyperactivity Disorder- Combined Type;Conduct Disorder; Oppositional Defiant Disorder; Selective Mutism; Enuresis; Sleep Terror Disorder; A-typical Social Fear; A-typical Specific Fear; A-typical OCD; Special Interest Fear; Fear of Change; Negative Reaction to Change","","CLINICIAN_ADIS_DX10"
 "clinician_anxdiag10_sev","Integer","","Recommended","Clinician diagnosis-severity","0;1;2;3;4;5;6;7;8","","CLINICIAN_ADIS_DX10_SEVERITY"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timept"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","timept"
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","dayadis,dayphob"
 "sad_pdx","Integer","","Recommended","Parent/Child/Clinician diagnostic code for Separation Anxiety Disorder","0;1","0 = Does NOT meet DSM-5 criteria; 1 = Meets full criteria for DSM-5 ","sad_cdx,sad_edx"
 "sad_pcsr","Integer","","Recommended","Parent/Child/Clinician Clinical Severity Rating for Separation Anxiety Disorder","0::8","0 = Not at all;1 = A little bit;4 = Some;6 = A lot;8 = Very, very much","sad_ccsr,sad_ecsr"

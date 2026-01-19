@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","",""
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "emd1","Integer","","Recommended","I have a biological abnormality (e.g., chemical or hormonal imbalance)","0::10","0 = Not at all; 5 = Quite a bit; 10 = Definitely",""
 "emd2","Integer","","Recommended","I was born with genes that make me more prone to developing depression","0::10","0 = Not at all; 5 = Quite a bit; 10 = Definitely",""
 "emd3","Integer","","Recommended","The way I evaluate or think about my experiences caused my depression.","0::10","0 = Not at all; 5 = Quite a bit; 10 = Definitely",""

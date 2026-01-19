@@ -799,7 +799,7 @@
 "scidv_e347","Integer","","Recommended","Past Substance Use Disorder: Remission Status HALLUCINOGENS","0;2","0= Not in remission (one Substance Use criterion has been present in the past 12 mo); 2= In sustained remission (after full Substance Use Disorder criteria were previously met, none of the criteria have been met at any time during the past 12 mo or longer except craving)",""
 "scidv_e348","Integer","","Recommended","Past Substance Use Disorder: Remission Status OTHER/UNKNOWN","0;2","0= Not in remission (one Substance Use criterion has been present in the past 12 mo); 2= In sustained remission (after full Substance Use Disorder criteria were previously met, none of the criteria have been met at any time during the past 12 mo or longer except craving)",""
 "scidvdv_e99x106n","String","4000","Recommended","Current Substance Use Disorder: A7 Important social, occupational, or recreational activities given up or reduced because of substance use","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
 "teen_subject_id","String","20","Recommended","Teen subject ID the parent is reporting on","","",""

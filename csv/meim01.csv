@@ -30,7 +30,7 @@
 "meimc3","Integer","","Recommended","I understand pretty well what my ethnic group membership means to me./ Entiendo bastante bien lo que significa para mì pertenecer a mi grupo étnico.","0::4;-99;77;88","0= Neutral; 1= Strongly Disagree; 2= Disagree; 3= Agree; 4= Strongly Agree; -99= N/A; 77= Refused ; 88= Missing","meim04,meim_3_p,meim_7"
 "meimc4","Integer","","Recommended","I have often done things that will help me understand my ethnic background better. /Muchas veces he hecho cosas que me ayudarán a comprender mejor a mi grupo étnico.","0::4;-99;77;88","0= Neutral; 1= Strongly Disagree; 2= Disagree; 3= Agree; 4= Strongly Agree; -99= N/A; 77= Refused ; 88= Missing","meim_4_p"
 "accult_select_language","Integer","","Recommended","Test given in Spanish? ¿Español?","0 ; 1","0 = No; 1 = Yes","meim_select_language___1"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","eventname"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","eventname"
 "fesm_ethnicity","String","200","Recommended","Please write what you consider to be your ethnicity here, and refer to this ethnicity as you answer the questions below.","","","meim_ethnicity"
 "meim_tot","Float","","Recommended","MEIM Total Mean Items 1-12","0::5","",""
 "meim_search","Float","","Recommended","Mean Ethnic Identity Search Factor; Items 1, 2, 4, 8, 10","1::5","",""

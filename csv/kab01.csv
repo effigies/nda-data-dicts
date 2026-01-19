@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","eventname"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","eventname"
 "mk_1___1","String","25","Recommended","Have you seen or heard any information about mental health or mental illness issues in the last year? Select all ways you have heard about these","","1 = Newspaper; 2 = TV ; 3 = Radio ; 4 = Magazine ; 5 = Poster/leaflet ; 6 = Health centre ; 7 = People talking about it ; 8 = Not seen ; 9 = Other","mk_1___2,mk_1___3,mk_1___4,mk_1___5,mk_1___6,mk_1___7,mk_1___8,mk_1___9"
 "mk_1_1","String","60","Recommended","Specify other way you have seen or heard any information about mental health or mental illness issues in the last year","","",""
 "mk_2___1","String","20","Recommended","Where do people in this community first go to seek care for mental illness? Select all that apply","","1 = Nowhere/care is not available ; 2 = Traditional healer ; 3 = Neighbour/community member ; 4 = Local clinic ; 5 = Hospital ; 6 = Don't Know ; 7 = Other","mk_2___2,mk_2___3,mk_2___4,mk_2___5,mk_2___6,mk_2___7"

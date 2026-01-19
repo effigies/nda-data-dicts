@@ -36,7 +36,7 @@
 "antipsychotics_name","String","100","Recommended","Antipsychotics","","",""
 "hypnotic_agents","String","100","Recommended","Hypnotic agents","","",""
 "treatment_response","Integer","","Recommended","Treatment response","1::4","1 = no effect; 2 =partial response; 3 =complete response; 4 = inadequate trial/ poor med tolerance/ unknown",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visitnum,vtypbima,vtypbprs"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visitnum,vtypbima,vtypbprs"
 "site","String","101","Recommended","Site","","Study Site","siteid"
 "mood_stabilizer_trtrsp","String","100","Recommended","Treatment response mood stabilizer ","0;1","0=No; 1=Yes",""
 "benzo_trtrsp","String","100","Recommended","Treatment response Benzodiazepines","","",""

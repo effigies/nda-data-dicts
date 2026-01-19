@@ -94,7 +94,7 @@
 "poms40__vig","Float","","Recommended","Vigor sub-score (Past 24 hours)","0::4","Scale is mean scored",""
 "poms40__con","Float","","Recommended","Confusion sub-score (Past 24 hours)","0::4","Scale is mean scored",""
 "poms40__tmd","Float","","Recommended","POMS Total Mood Disturbance score (Past 24 hours)","0::4","Scale is mean scored",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "poms40_001","Integer","","Recommended","Past 24 Hours: Tense","0::4","0=Not at all; 1=A little; 2=Moderately; 3=Quite a bit; 4=Extremely",""
 "poms40_002","Integer","","Recommended","Past 24 Hours: Angry","0::4","0=Not at all; 1=A little; 2=Moderately; 3=Quite a bit; 4=Extremely",""
 "poms40_003","Integer","","Recommended","Past 24 Hours: Worn out","0::4","0=Not at all; 1=A little; 2=Moderately; 3=Quite a bit; 4=Extremely",""

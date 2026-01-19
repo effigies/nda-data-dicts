@@ -116,7 +116,7 @@
 "spai_social","Integer","","Recommended","Social Phobia subscore","","",""
 "spai_agora","Integer","","Recommended","Agoraphobia subscore","","",""
 "spai_total","Integer","","Recommended","SPAI total score","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","spai_apt"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","spai_apt"
 "sp_1","Integer","","Recommended","Social Phobia subscore 1","","",""
 "sp_2","Integer","","Recommended","Social Phobia subscore 2","","",""
 "sp_3","Integer","","Recommended","Social Phobia subscore 3","","",""

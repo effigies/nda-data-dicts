@@ -189,7 +189,7 @@
 "masc_mfps","Integer","","Recommended","MASC Physical Symptoms Main Factor","","sum(masc_sftr, masc_sfsa);",""
 "masc_mfha","Integer","","Recommended","MASC Harm Avoidance Main Factor","","sum(masc_sfp, masc_sfac);",""
 "masc_mfsop","Integer","","Recommended","MASC Social Anxiety MainFactor","","sum(masc_sfhf, masc_sfpf);",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","mas_interval"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","mas_interval"
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "imputation","Integer","","Recommended","Indicator noting imputed data set number ","1::20","",""
 "dms_tense_ct","Integer","","Recommended","Item Count in Tense Score","","",""

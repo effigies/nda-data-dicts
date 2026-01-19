@@ -41,7 +41,7 @@
 "ils_persev","Float","","Recommended","Rewards for evidence-based practice (mean 10,11,12)","0::4; 999","999=missing",""
 "ils_tot","Float","","Recommended","Total (mean 1-12, no reverse-scores)","0::4; 999","999=missing",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "ils_1","Integer","","Recommended","Leadership has developed a plan to facilitate implementation of evidence-based practice for behavioral health ","0::4;999","0=Not at all; 1=Slight extent; 2=Moderate extent; 3=Great extent; 4=Very great extent; 999 = Missing",""
 "ils_2","Integer","","Recommended","Leadership has removed obstacles to the implementation of evidence-based practice for behavioral health ","0::4;999","0=Not at all; 1=Slight extent; 2=Moderate extent; 3=Great extent; 4=Very great extent; 999 = Missing",""

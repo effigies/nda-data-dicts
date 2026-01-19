@@ -113,7 +113,7 @@
 "cope02","Integer","","Recommended","I try to lose myself for a while by drinking alcohol or taking drugs.","1::4","1=I never do this; 2=I do this sometimes; 3=I do this often; 4=I do this very often",""
 "cope03","Integer","","Recommended","I drink alcohol or take drugs in order to think about a stressful event less.","1::4","1=I never do this; 2=I do this sometimes; 3=I do this often; 4=I do this very often",""
 "cope04","Integer","","Recommended","I use alcohol or drugs to help me get through a stressful event.","1::4","1=I never do this; 2=I do this sometimes; 3=I do this often; 4=I do this very often",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "cope_past8","Integer","","Recommended","I laughed about the situation","1::4","1=I didn''t do this at all; 2=I did this a little bit; 3=I did this a medium amount; 4=I did this a lot",""
 "cope_past9","Integer","","Recommended","I admitted to myself that I cant deal with it and quit trying","1::4","1=I didn''t do this at all; 2=I did this a little bit; 3=I did this a medium amount; 4=I did this a lot",""
 "cope_past10","Integer","","Recommended","I restrained myself from doing anything too quickly","1::4","1=I didn''t do this at all; 2=I did this a little bit; 3=I did this a medium amount; 4=I did this a lot",""

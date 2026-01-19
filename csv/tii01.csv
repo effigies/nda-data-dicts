@@ -57,4 +57,4 @@
 "tii_51","Integer","","Recommended","I feel amazed","1::5; -99","1=not at all; 2= a little; 3= moderately; 4= quite a bit; 5= extremely; -99 = missing",""
 "tii_52","Integer","","Recommended","I feel sad","1::5; -99","1=not at all; 2= a little; 3= moderately; 4= quite a bit; 5= extremely; -99 = missing",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

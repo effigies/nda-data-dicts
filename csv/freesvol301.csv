@@ -651,7 +651,7 @@
 ","","",""
 "fsv_subcort_t1wcc_mid_ant","Float","","Recommended","Average intensity of the normalized T1-weighted image within ASEG ROI CC-Mid-Anterior","","","fsv_subcort_t1wcc_mid_anterior"
 "fsv_subcort_t1wcc_ant","Float","","Recommended","Average intensity of the normalized T1-weighted image within ASEG ROI CC-Anterior","","","fsv_subcort_t1wcc_anterior"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","eventname"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","eventname"
 "fsv_subcort_volrightaccumbarea","Float","","Recommended","Volume in mm^3 of ASEG ROI Right-Accumbens-Area","","","fsv_subcort_volrightaccumbensarea"
 "fsv_subcort_t1wleftcerebralwm","Float","","Recommended","Average intensity of the normalized T1-weighted image within ASEG ROI Left-Cerebral-White-Matter","","","fsv_subcort_t1wleftcerebralwhitematter"
 "fsv_subcort_t1wleftcercortex","Float","","Recommended","Average intensity of the normalized T1-weighted image within ASEG ROI Left-Cerebral-Cortex","","","fsv_subcort_t1wleftcerebralcortex"

@@ -23,7 +23,7 @@
 "tatts_10","Integer","","Recommended","How many sessions did you have with this family?","","",""
 "tatts_11","String","1000","Recommended","If you are still working with this family, what will you be working on with them for the remainder of their sessions?","","",""
 "comments","String","4000","Recommended","Comments about assessment","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "tc_2","Integer","","Recommended","I have a clearer sense of what I would do with an adolescent with ADHD in treatment.","1::5","1= Strongly Disagree; 2= Disagree; 3= Neutral; 4= Agree; 5= Strongly Agree",""
 "tc_3","Integer","","Recommended","I am more confident in my ability to work with teenagers with ADHD.","1::5","1= Strongly Disagree; 2= Disagree; 3= Neutral; 4= Agree; 5= Strongly Agree",""
 "tc_4","Integer","","Recommended","I increased my knowledge of key organization, time management, and planning strategies that can help a teen with ADHD.","1::5","1= Strongly Disagree; 2= Disagree; 3= Neutral; 4= Agree; 5= Strongly Agree",""

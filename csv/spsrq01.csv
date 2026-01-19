@@ -58,7 +58,7 @@
 "spsrq_sr_red","Integer","","Recommended","Sensitivity to Reward Revised","","",""
 "form_completed","Integer","","Recommended","Was the form completed?","1::4","1=Yes; 2=No; 3=Unverified; 4 = N/A-Not in age range","sensitivity_to_punishment_and_sensitivity_to_rewar_complete,spsrq_complete"
 "spsrq_total","Integer","","Recommended","SPSRQ Total","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","timepoint"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "vis_type","Integer","","Recommended","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","visit_type,visit_type_12,visit_type_6"

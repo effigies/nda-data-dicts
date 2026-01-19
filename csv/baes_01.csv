@@ -21,7 +21,7 @@
 "baes_stim","Integer","","Recommended","Stimulation Subscale","","Sum of items: BAES_03 + BAES_04 + BAES_05 + BAES11 + BAES12 + BAES13 +BAES14",""
 "baes_sed","Integer","","Recommended","Sedation Subscale","","Sum of items: BAES_01 + BAES_02 + BAES_06 + BAES_07 + BAES_08 + BAES_09 + BAES10",""
 "stime","String","20","Recommended","Session time","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "slowthoughtsbeforedrink","Integer","","Recommended","Please rate the extent to which slow thoughts described your feelings PRIOR TO THE DRINK","0::10","0 = not at all; 10 = extremely",""
 "energizedbeforedrink","Integer","","Recommended","Please rate the extent to which energized described your feelings PRIOR TO THE DRINK","0::10","0 = not at all; 10 = extremely",""
 "upbeforedrink","Integer","","Recommended","Please rate the extent to which up described your feelings PRIOR TO THE DRINK","0::10","0 = not at all; 10 = extremely",""

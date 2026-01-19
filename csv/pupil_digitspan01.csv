@@ -47,7 +47,7 @@
 "digibac","Integer","","Recommended","Digit span backward","0::16","",""
 "digitaltotal","Integer","","Recommended","Digit span total score","0::32","",""
 "t1wk","Integer","","Recommended","Weeks since Treatment Session 1","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","time_point"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","time_point"
 "ds4c","Integer","","Recommended","Digit Span: # of correct Digits Recalled out of 4 in Trial C","0::4","Pupil is recorded while ppt recall digits","s4c"
 "ds5c","Integer","","Recommended","Digit Span: # of correct Digits Recalled out of 5 in Trial C","0::5","Pupil is recorded while ppt recall digits","s5c"
 "ds7c","Integer","","Recommended","Digit Span: # of correct Digits Recalled out of 7 in Trial C","0::7","Pupil is recorded while ppt recall digits","s7c"

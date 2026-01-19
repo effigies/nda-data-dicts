@@ -37,4 +37,4 @@
 "gts_score_ocd","Integer","","Recommended","GTS Obsessive-Compulsive Score","","([gts_7] + [gts_8] + [gts_15] + [gts_10] + [gts_9])/5",""
 "gts_score_cognitive","Integer","","Recommended","GTS Cognitive Score","","([gts_12] + [gts_11] + [gts_13] + [gts_14])/4",""
 "gts_score_total","Integer","","Recommended","GTS Total","","([gts_score_psychological] + [gts_score_adl] + [gts_score_ocd] + [gts_score_cognitive])/4",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

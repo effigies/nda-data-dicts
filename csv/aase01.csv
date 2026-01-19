@@ -72,7 +72,7 @@
 "crave_alc","Integer","","Recommended","How much do I crave alcohol right now?","0::100","Sliding percent scale 0-100",""
 "crave_sub","Integer","","Recommended","How much do I crave illicit substances, including marijuana (NOT alcohol) right now?","0::100","Sliding percent scale 0-100",""
 "good_life","Integer","","Recommended","Overall, how good is life?","0::6","0 = Not at all; 6 = Extremely",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "aaset08","Integer","","Recommended","Describe your feelings of temptation to drink alcohol in each of the following situations (during the past week). When I am being offered a drink in a social situation?","1::5","1 = Not at all; 2 = Not very; 3 = Moderately; 4 = Very; 5 = Extremely",""
 "aaset09","Integer","","Recommended","Describe your feelings of temptation to drink alcohol in each of the following situations (during the past week). When I dream about taking a drink?","1::5","1 = Not at all; 2 = Not very; 3 = Moderately; 4 = Very; 5 = Extremely",""
 "aaset03","Integer","","Recommended","Describe your feelings of temptation to drink alcohol in each of the following situations (during the past week). When I am feeling depressed?","1::5","1 = Not at all; 2 = Not very; 3 = Moderately; 4 = Very; 5 = Extremely",""

@@ -282,7 +282,7 @@
 "cbcl_ptsd","Integer","","Recommended","Post-Traumatic Stress Problems T Score","0::99; 999","999 = Missing value/NA","ysr_post_pro_ts"
 "ysr_aca_per_ts","Integer","","Recommended","Academic Performance Total Score","","999 = Missing",""
 "cbcl56h_des","String","500","Recommended","Physical problems without known medical cause: Other (describe)","","","ysr_56h_desc,ysra_item56_8_2"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "cbcl12_6_text","String","500","Recommended","Describe: Sleeps more than most kids during day and/or night","","","ysra_item77_2"
 "abcl_other_total","Integer","","Recommended","Total score for Other Problems","0 :: 34","","ysra_scale9"
 "cbcl_adhd","Integer","","Recommended","Attention Deficit/Hyperactivity T Score","0::99; 999; -999","999 = Missing value; -999=N/A","ysra_dsm5_atn_t_value"

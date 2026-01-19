@@ -45,7 +45,7 @@
 "chrhealth_pcos","Integer","","Recommended","How about polycystic ovary syndrome (PCOS)?","0;1;-900;-300","0 = No; 1 = Yes; -900 = Missing; -300 = N/A",""
 "chrhealth_other","Integer","","Recommended","Any other health conditions we haven't discussed?","0;1;-900;-300","0 = No; 1 = Yes; -900 = Missing; -300 = N/A",""
 "chrhealth_otheroth","String","50","Recommended","Specific other health conditions",""," ",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "scq_15","Integer","","Recommended","Rheumatoid arthritis","0;1;-900;-300","0=No; 1=Yes; -900 = Missing; -300 = N/A","chrhealth_arthcond___2"
 "chrhealth_arthcond___99","Integer","","Recommended","Specific arthritis - Other","0;1;-900;-300","0 = No; 1 = Yes; -900 = Missing; -300 = N/A",""
 "hhb_med_yn_dt1","Integer","","Recommended","Diabetes Type 1","0;1;-900;-300","0= No; 1= Yes; -900 = Missing; -300 = N/A","chrhealth_endocond___1"

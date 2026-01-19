@@ -108,7 +108,7 @@
 "version_form","String","121","Recommended","","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "srsa52","Integer","","Recommended","","I get overly loud without realizing it.","1::4","1 = Not true; 2 = Sometimes true; 3 = Often true; 4 = Almost always true",""
 "comqother","String","255","Recommended","","Respondent - Other (text)","","",""
-"visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "race","String","100","Recommended","","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
 "srs_total_adj_ss","Integer","","Recommended","","Social Responsiveness Scale total raw score adjusted for demographic and clinical factors, presented as a Standard Score","0 :: 200","SRS total raw score adjusted for age, sex, race/ethnicity, child behavior checklist scale scores, full scale IQ or receptive language score, and co-occurring clinical diagnoses",""
 "srs_sci_adj_ss","Integer","","Recommended","","Social Responsiveness Scale social communication and interaction raw score adjusted for demographic and clinical factors, presented as a Standard Score","0 :: 200","SRS social communication and interaction raw score adjusted for age, sex, race/ethnicity, child behavior checklist scale scores, full scale IQ or receptive language score, and co-occurring clinical diagnoses",""

@@ -23,7 +23,7 @@
 "bceoa_sp","Float","","Recommended","Self-Perception/Cognitive and Behavioral Impairment Subscale","","Mean Score of items: 10, 11, 12, 15",""
 "bceoa_sx","Float","","Recommended","Sexuality Subscale","","Mean Score of items: 1 and 4",""
 "bceoa_tr","Float","","Recommended","Tension Reduction Subscale","","Mean Score of items: 3 and 7",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ceoa_pals08","Integer","","Recommended","If I were under the influence from drinking alcohol... I would have difficulty thinking","0::3;-555","0= Disagree; 1= Slightly disagree; 2= Slightly agree; 3= Agree; -555= Prefer not to answer","ceoa_8"
 "ceoa_pals09","Integer","","Recommended","If I were under the influence from drinking alcohol... I would not be responsible (I would neglect (my) obligations)","0::3;-555","0= Disagree; 1= Slightly disagree; 2= Slightly agree; 3= Agree; -555= Prefer not to answer","ceoa_9"
 "ceoa_pals10","Integer","","Recommended","If I were under the influence from drinking alcohol... I would be dominant or take charge of things","0 :: 3","0= Disagree; 1= Slightly disagree; 2= Slightly agree; 3= Agree","ceoa_10"

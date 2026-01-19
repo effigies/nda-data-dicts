@@ -423,7 +423,7 @@
 "smd005","Date","","Recommended","Date of first dose of study medication (mm/dd/yyyy)","","",""
 "smd006","String","20","Recommended","Time of last dose of study medication (hh:mm, 24-hour clock)","","",""
 "smd007","String","500","Recommended","Comments regarding medication dispensation (optional)","","","cmnt,mpd004"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visit_name"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visit_name"
 "daysrz","Integer","","Recommended","days since randomization","","","date,sad0b"
 "medication1_name","String","500","Recommended","Name first medication that the participant has taken","","0 = No medication; 999= Legitimately skipped","sad6a"
 "medication2_name","String","500","Recommended","Name second medication that the participant has taken","","0 = No medication; 999= Legitimately skipped","sad6b"

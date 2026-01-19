@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "q1_malestaff","Integer","","Recommended","1. How safe or unsafe do you think it has been in this prison for male staff members who have a lot of contact with inmates?","0::8","0=Very safe, 1=Safe, 2=Somewhat safe, 3=Somewhat unsafe, 4=Unsafe, 5=Very unsafe, 7=Refused, 8=Don't Know",""
 "q2_femalestaff","Integer","","Recommended","2. How safe or unsafe do you think it has been in this prison for female staff members who have a lot of contact with inmates?","0::8","0=Very safe, 1=Safe, 2=Somewhat safe, 3=Somewhat unsafe, 4=Unsafe, 5=Very unsafe, 7=Refused, 8=Don't Know",""
 "q3_inmates","Integer","","Recommended","3. How safe or unsafe do you think it has been in this prison for inmates?","0::8","0=Very safe, 1=Safe, 2=Somewhat safe, 3=Somewhat unsafe, 4=Unsafe, 5=Very unsafe, 7=Refused, 8=Don't Know",""

@@ -616,7 +616,7 @@
 "criticism_self","Integer","","Recommended","How critical of yourself were you today? ","1::7","1=Not at all critical; 7=Extremely critical",""
 "selfhate_today","Integer","","Recommended","I hate myself today","1::7","1=Not at all; 7=Very much",""
 "compassion","Integer","","Recommended","I can forgive myself for my short comings/weaknesses today ","1::7","1=Not at all true; 7=Very much true",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "daily15","String","10","Recommended","What time did you start your physical activity today? Please indicate time started in military time.","","In military time, e.g., 8:00PM= 20:00",""
 "daily16","String","10","Recommended","What time did you stop your physical activity today? Please indicate time stopped in military time.","","In military time, e.g., 8:00PM= 20:00",""
 "daily17a","Float","","Recommended","How many total minutes do you spend doing aerobic exercise today? Moderate to vigorous-intensity aerobic exercise is an activity that noticeably increases your heart rate and breathing rate (e.g., brisk walking, running, swimming laps, climbing a flight of stairs, hiking up hills, interval training, cycling, basketball, soccer, etc.)","","",""

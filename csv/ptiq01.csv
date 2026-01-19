@@ -35,3 +35,8 @@
 "ptiq_subscale3","Integer","","Recommended","Score on Parent's Endorsement of Child's School Scale","","",""
 "ptiq_subscale4","Integer","","Recommended","Score on Frequency of Parent-Teacher Contact Scale","","",""
 "ptiq_total_score","Integer","","Recommended","Total Score","","",""
+"ptiq_t1","Integer","","Recommended","How much is this parent interested in getting to know you?","0::4;-888","0 = Not at all; 1 = A little; 2 = Somewhat; 3 = Interested; 4 = Very interested; -888 = Missing",""
+"ptiq_t2","Integer","","Recommended","How well do you feel you can talk to and be heard by this parent?","0::4;-888","0 = Not at all; 1 = A little; 2 = Somewhat; 3 = Well; 4 = Very well; -888 = Missing",""
+"ptiq_t3","Integer","","Recommended","If you had a problem with this child, how comfortable would you feel talking to his/her parent about it?","0::4;-888","0 = Not at all; 1 = A little; 2 = Somewhat; 3 = Comfortable; 4 = Very comfortable; -888 = Missing",""
+"ptiq_t4","Integer","","Recommended","How often does this parent ask questions or make suggestions about his/her child?","0::5;-888","0 = Never; 1 = A little; 3 = Some; 4 = A lot; 5 = A whole lot; -888 = Missing",""
+"ptiq_t5","Integer","","Recommended","How much do you feel this parent has the same goals for his/her child that the school does?","0::5;-888","0 = Never; 1 = A little; 3 = Some; 4 = A lot; 5 = A whole lot; -888 = Missing",""

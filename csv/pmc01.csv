@@ -22,3 +22,5 @@
 "steroid_ever","Integer","","Recommended","Has your child ever taken a steroid or used an asthma inhaler?","0;1","0=No; 1=Yes",""
 "steroid_current","Integer","","Recommended","Is your child currently using a steroid or asthma inhaler?","0;1","0=No; 1=Yes",""
 "steroid_name","String","50","Recommended","Type (Medication brand (e.g., Albuterol)) of Inhaler or Steroid","","",""
+"psychmeds_ever_n","Integer","","Recommended","Have you ever taken any mood or behavioral medications?","0;1","0=No; 1=Yes",""
+"psych_treatment_ever","Integer","","Recommended","Have you ever received outpatient treatment for mental health reasons?","0;1","0=No; 1=Yes",""

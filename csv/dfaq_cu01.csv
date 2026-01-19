@@ -66,3 +66,4 @@
 "dfaq_cu_14_3","Integer","","Recommended","Which of the following other methods to ingest cannabis do you use regularly (at least 25% of the time you use cannabis)? Hand pipe","0;1","0=No; 1=Yes",""
 "dfaq_cu_14_4","Integer","","Recommended","Which of the following other methods to ingest cannabis do you use regularly (at least 25% of the time you use cannabis)? Bong (water pipe)","0;1","0=No; 1=Yes",""
 "dfaq_cu_14_5","Integer","","Recommended","Which of the following other methods to ingest cannabis do you use regularly (at least 25% of the time you use cannabis)? Hookah","0;1","0=No; 1=Yes",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

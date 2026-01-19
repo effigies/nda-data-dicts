@@ -15,4 +15,4 @@
 "care_q9","Integer","","Recommended","Regarding today's consultation, how good was the practitioner at helping you to take control (exploring with you what you can do to improve your health yourself; encouraging rather than ""lecturing"" you)","1::5; 99","1= Poor ; 2= Fair ; 3= Good ; 4= Very Good ; 5= Excellent ; 99= Does not apply",""
 "care_q10","Integer","","Recommended","Regarding today's consultation, how good was the practitioner at making a plan of action with you (discussing the options, involving you in decisions as much as you want to be involved; not ignoring your views)","1::5; 99","1= Poor ; 2= Fair ; 3= Good ; 4= Very Good ; 5= Excellent ; 99= Does not apply",""
 "care_q11","Integer","","Recommended","Total CARE Measure Score from lowest to highest","10::50","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

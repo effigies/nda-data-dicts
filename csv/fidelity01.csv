@@ -7,7 +7,7 @@
 "daysrz","Integer","","Recommended","days since randomization","","",""
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable",""
 "bpg1","Integer","","Recommended","Behavioral Principles Session Integrity Goals: Introduce overall goals of parent training, format, and requirements.","0::2","0 = Goal was not introduced or covered by clinician; 1 = Goal was partially achieved; 2 = Goal was fully achieved",""
 "bpg1days","Integer","","Recommended","BPG1 Rating applies to ___ days since randomization?","","",""

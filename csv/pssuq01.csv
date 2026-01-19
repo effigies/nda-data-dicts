@@ -69,4 +69,4 @@
 "interacting","Integer","","Recommended","I liked interacting with the [intervention_name] app/program","1::7","1= Strongly disagree; 7= Strongly agree",""
 "needed_learn","Integer","","Recommended","I needed to learn a lot of things before I could get going with [intervention_name]","1::5","1= Strongly disagree; 5= Strongly agree",""
 "intervention_name","String","50","Recommended","Name of intervention used","","e.g., Mobile App, Daily Reminders, Support Group",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

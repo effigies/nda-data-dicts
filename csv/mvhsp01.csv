@@ -7,7 +7,7 @@
 "site","String","101","Recommended","Site","","Study Site","asite,siteid"
 "clinicid","Integer","","Recommended","Clinic ID","","","aclinic"
 "interv","Integer","","Recommended","Intervention Status","0;1","1=ITV, intervention; 0=TAU, treatment as usual",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visitnum,wave"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visitnum,wave"
 "days_baseline","Integer","","Recommended","Days since baseline","","","lof"
 "vis1","Integer","","Recommended","How many times in the past 6 months have you been a patient overnight or longer in a hospital?","","",""
 "vis1a","Integer","","Recommended","During the past 6 months, how many total nights did you stay overnight or longer in a hospital.","","",""

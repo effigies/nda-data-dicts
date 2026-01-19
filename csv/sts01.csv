@@ -13,7 +13,7 @@
 "startle_6","String","10","Recommended","Startle Testing completion time","","hh:mm","erp_startle_07"
 "site","String","101","Recommended","Site","","Study Site","siteid,sitenumber"
 "visit_name","String","20","Recommended","session ID/screening ID","","","visitnumber"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visitlabel"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visitlabel"
 "subjecttype","String","20","Recommended","Subject Type","Control;Prodromal; Enhanced; Non-Enhanced","",""
 "dataquality","Integer","","Recommended","Data quality","0::5","0=No data (cancelled); 1=Data entered but only once, has missing data; 2=Data entered but only once, no missing data; 3=Double entered; 4=Data frozen for cleaning; 5=Data clean/locked",""
 "elig_inclusion_check","Integer","","Recommended","Checks for a pass/fail on Elig for Inclusion","0::3","0=Failed (Ineligible); 1=Passed (Eligible); 2=In screening; 3=NA",""

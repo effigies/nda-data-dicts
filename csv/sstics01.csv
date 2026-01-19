@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "study_level","Integer","","Recommended","Last degree succeeded","1;2;3","Level 1: school leaving certification; level 2: high school study level; level 3: high school diploma and higer education",""
 "ttt_arms","String","3","Recommended","Treatment arms of this study. Individualized therapy (RECOS program) compared with the more general Cognitive Remediation Therapy (CRT)","CRT;REC","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","follow_up"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","follow_up"
 "sstics_1","Integer","","Recommended","Have you notice
 d any 
 difficulty

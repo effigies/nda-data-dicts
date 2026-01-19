@@ -30,4 +30,4 @@
 "csq_total","Integer","","Recommended","Child Sensory Questionnaire: Total","0::24","",""
 "csq_sensitivity","Integer","","Recommended","Child Sensory Questionnaire: Sensitivity Subscore","0::12","",""
 "csq_24","Integer","","Recommended","My child avoids, if at all possible, situations in which his/her senses will be stressed.","0;1","0 = False; 1 = True","csq024"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

@@ -173,7 +173,7 @@
 "avoidm1_days","Integer","","Recommended","On how many days over the past four weeks have you gone for periods of eight or more waking hours without eating anything? Number of days over preceding 3 months; month 1","0::28; 99","99 = No such behavior",""
 "avoidm2_days","Integer","","Recommended","On how many days over the past four weeks have you gone for periods of eight or more waking hours without eating anything? Number of days over preceding 3 months; month 2","0::28; 99","99 = No such behavior",""
 "avoidm3_days","Integer","","Recommended","On how many days over the past four weeks have you gone for periods of eight or more waking hours without eating anything? Number of days over preceding 3 months; month 3","0::28; 99","99 = No such behavior",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "bf1","Integer","","Recommended","How many times have you had a binge episode, eating what other people would regard as an unusually large amount of food given the circumstances WHILE having a sense of having lost control over your eating, in the past week?","","",""
 "vis_type","Integer","","Recommended","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","visit_type,visit_type_12,visit_type_6"
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""

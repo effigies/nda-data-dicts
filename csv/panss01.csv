@@ -278,7 +278,7 @@
 "c1_pneg","Integer","","Recommended","Phase 1 CFB PANSS Negative Scale Score","","Change from Phase 1/1A baseline",""
 "c1_ppsy","Integer","","Recommended","Phase 1 CFB PANSS Psychopathology Scale","","Change from Phase 1/1A baseline",""
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment_number,follow_up,timept,visitnum"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","assessment_number,follow_up,timept,visitnum"
 "truncvis","Integer","","Recommended","Truncated Visit Number","","""Created variable: provides a numeric visit number for all visits, including unscheduled and end of phase""",""
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","",""
 "base1","Integer","","Recommended","Flag Baseline Phase 1/1A Visit","","1=Yes for all records meeting this criteria",""

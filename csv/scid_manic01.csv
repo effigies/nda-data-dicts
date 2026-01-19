@@ -84,7 +84,7 @@
 "age_ons","Integer","","Recommended","age of onset","","",""
 "ageons_details","String","100","Recommended","Age at onset details","","",""
 "scid_f18_f156b_1","Integer","","Recommended","Alcohol-Induced or Substance-Induced","1;2","1=ALCOHOL-INDUCED; 2=SUBSTANCE-INDUCED",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "hosp_trouble_scid","Integer","","Recommended","Any other time when really different from usual","0::3","0=Inadequate information; 1=Absent or false; 2=Subthreshold; 3=Threshold or true",""
 "more_sxs_scid","Integer","","Recommended","Any other time with even more Sxs","","0=No;1=Yes",""

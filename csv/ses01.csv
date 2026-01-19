@@ -73,7 +73,7 @@
 "vr_comfort_move_date","Date","","Recommended","Date Signed:","","","rs_date_ses"
 "q44_daterev","Date","","Recommended","Date Reviewed","","","score_staff_date_ses"
 "father","Integer","","Recommended","Father's employment level","1::9","1 = Farm Laborers/Menial Service Workers, Welfare Recipients; 2 = Unskilled Workers; 3 = Machine Operators, Semi-Skilled Workers; 4 = Smaller Business Owners, Skilled Manual Workers, Craftsmen, Tenant Farmers; 5 = Clerical and Sales Workers, Small Farm and Business Owners; 6 = Technicians, Semi-Professionals and Small Business Owners; 7 = Smaller Business Owners, Farm Owners, Managers, Minor Professionals; 8 = Administrators, Lesser Professionals, Proprietors of Medium-Sized Businesses; 9 = Higher Executives, Proprietors of Large Businesses, Major Professionals",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "occupation_self","String","100","Recommended","Subject Occupation Code","","",""
 "ses_seft","Float","","Recommended","Participant''s/Self SES Score","","sum(([education_self]*3), ([occupation_self]*5))",""
 "special_ed_partner","Integer","","Recommended","Did your partner ever attend a special school (i.e., special education)","0::2","0= No; 1= Yes; 2= Unknown",""

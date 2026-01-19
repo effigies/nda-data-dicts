@@ -54,7 +54,7 @@
 "sf36_cih","Integer","","Recommended","Change in Health","","",""
 "bodypain","Integer","","Recommended","bodily pain have you had","1::6;-7","1=Definitely true; 2=Mostly true; 3=Neither false nor true; 4=Mostly false; 5=Definitely false;-7=Refused",""
 "soc4wks","Integer","","Recommended","past week emotional problem","1::6;-7","1=Not at all; 2=A little bit; 3=Moderately; 4=Quite a bit; 5=Extremely; -7=Refused",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "dayscons","Integer","","Recommended","days since consent","","","daysrz"
 "site","String","101","Recommended","Site","","Study Site","siteid"
 "sf3607b","Integer","","Recommended","How much bodily pain have you had during the past 4 weeks?","1 :: 6","1= Not at all; 2= Slightly; 3= Moderately; 4= Quite a bit; 5= Extremely; 6=Extremely severe

@@ -81,7 +81,7 @@
 "yfas_1_score14","Integer","","Recommended","Score of continuous scale","","Specify number of symptoms",""
 "yfas_1_score15","Integer","","Recommended","Score of dichotomous scale","0;1","0 = Criteria not met; 1 = Criteria met",""
 "yfas_1_score16","Integer","","Recommended","Diagnostic score","1::5","1 = No Food Addiction (1 or fewer symptoms); 2 = No Food Addiction (Does not meet criteria for clinical significance); 3 = Mild Food Addiction (2 or 3 symptoms and clinical significance); 4 =  Moderate Food Addiction (4 or 5 symptoms and clinical significance); 5 = Severe Food Addiction (6 or more symptoms and clinical significance)",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","assessment"
 "yfas1_1","Integer","","Recommended","In the past year/past 12 months: When I started to eat certain foods, I ate much more than planned.","0::7","0 = Never; 1 = Less than monthly; 2 = Once a month; 3 = 2-3 times a month; 4 = Once a week; 5 = 2-3 times a week; 6 = 4-6 times a week; 7 = Every day",""
 "yfas2_2","Integer","","Recommended","In the past year/past 12 months: I continued to eat certain foods even though I was no longer hungry.","0::7","0 = Never; 1 = Less than monthly; 2 = Once a month; 3 = 2-3 times a month; 4 = Once a week; 5 = 2-3 times a week; 6 = 4-6 times a week; 7 = Every day",""
 "yfas5_5","Integer","","Recommended","In the past year/past 12 months: I spent a lot of time feeling sluggish or tired from overeating.","0::7","0 = Never; 1 = Less than monthly; 2 = Once a month; 3 = 2-3 times a month; 4 = Once a week; 5 = 2-3 times a week; 6 = 4-6 times a week; 7 = Every day",""

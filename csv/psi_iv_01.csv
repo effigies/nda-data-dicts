@@ -83,7 +83,7 @@
 "psi54","Integer","","Recommended","Which of these statements describes how easy it is for you to understand what your twins want or need? Is it: 1 very easy, 2 easy, 3 somewhat difficult, 4 very hard, or 5 usually I can=t figure out what the problem is","1::5","1=very easy; 2=easy; 3=somewhat difficult; 4 very hard; 5=can't figure",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "psi_1_percent","Integer","","Recommended","Defensive Responding Percentile","","",""
 "psi_2_percent","Integer","","Recommended","Parental Distress (PD) Percentile","","",""
 "psi_3_percent","Integer","","Recommended","Parent-Child Dysfunctional Interaction (P-CDI) Percentile","","",""

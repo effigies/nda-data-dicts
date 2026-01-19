@@ -62,6 +62,6 @@
 "inas56","Integer","","Recommended","Reported Abnormalities: Problems with handwriting","0::3;999","0=None; 1=Mild; 2=Moderate; 3=Severe; 999=NA",""
 "inas57","Integer","","Recommended","Reported Abnormalities: Spontaneous cramps(without physical exercise)","0::3;999","0=None; 1=Mild; 2=Moderate; 3=Severe; 999=NA",""
 "inas58","Integer","","Recommended","Inventory of Non-Ataxia Signs Count","","To be automatically calculated in the electronic database",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "inas59","Integer","","Recommended","Dystonia: Upper Limbs","0::3;999","0=None; 1=Mild; 2=Moderate; 3=Severe; 999=NA",""
 "inas60","Integer","","Recommended","Dystonia: Lower Limbs","0::3;999","0=None; 1=Mild; 2=Moderate; 3=Severe; 999=NA",""

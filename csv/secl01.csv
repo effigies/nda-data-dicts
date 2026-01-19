@@ -88,7 +88,7 @@
 "uku47a","String","250","Recommended","Other Side Effects Describe","","","sec041"
 "sec041a","Integer","","Recommended","Other Specific  Side Effect  2 - Severity","1::4; 9; -9;","1 = None; 2 = Mild; 3 = Moderate; 4 = Severe; 9 = Not Rated; -9 = Unknown",""
 "sec041b","Integer","","Recommended","Other Specific  Side Effect  2 - Drug Related","1::4; -9;","1 = No; 2 = Remote; 3 = Possible; 4 = Probable; -9 = Unknown",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "sec_wtloss_sev","Integer","","Recommended","Weight Loss","1::4; 9","1=NONE; 2=MILD;3=MODERATE; 4=SEVERE;9=NOT RATED",""
 "sec_wtloss_r","String","1","Recommended","Weight Loss: RELATED TO STUDY DRUG","A;B;C;D","",""
 "sec_tremor_sev","Integer","","Recommended","Tremor","1::4; 9","1=NONE; 2=MILD;3=MODERATE; 4=SEVERE;9=NOT RATED",""

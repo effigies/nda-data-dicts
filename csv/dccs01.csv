@@ -163,7 +163,7 @@
 "prob_admin","Integer","","Recommended","Flagged for potentially problematic test administration","1","1=Flagged","flag_cognition_dccs"
 "overallrt","Integer","","Recommended","Mean reaction time from Flanker congruent and DCCS dominant trials (ms)","","",""
 "accult_select_language","Integer","","Recommended","Test given in Spanish? ¿Español?","0 ; 1","0 = No; 1 = Yes","nihtbx_cardsort_language"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","eventname"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","eventname"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","assessment_name,nihtbx_cardsort_v"
 "wcst_ni","Integer","","Recommended","Number of Items","","","itmcnt,nihtbx_cardsort_itmcnt"
 "nih_tlbx_theta","Float","","Recommended","Theta","","999=NA/NK/missing","nihtbx_cardsort_theta"

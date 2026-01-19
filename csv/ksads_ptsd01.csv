@@ -80,7 +80,7 @@
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "site","String","101","Recommended","Site","","Study Site",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "wvcrime","Integer","","Recommended","Traumatic Event: Witness of a violent crime","0;1","0 = No; 1 = Yes",""
 "witdis","Integer","","Recommended","Traumatic Event: Witness of a disaster","0;1","0 = No; 1 = Yes",""

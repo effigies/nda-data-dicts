@@ -66,7 +66,7 @@
 "s2smoke_ammt","String","1000","Recommended","How much do you smoke each day (e.g., one pack)?","","","smoke_ammt"
 "s2smoke_breaks","Integer","","Recommended","Will you need smoke breaks during the study?","0;1","0 = No; 1 = Yes","smoke_breaks"
 "s2smoke_breaks_freq","String","1000","Recommended","How often do you require smoke breaks during the study?","","","smoke_breaks_freq"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","assessment"
 "fspgod","String","70","Recommended","Subject's gender OTHER describe","","",""
 "drugs_48hrs","Integer","","Recommended","In the last 48 hours, have you used any type of recreational drugs (e.g., marijuana, cocaine, heroin, meth, pain pills)? ","0;1","0 = No; 1 = Yes",""
 "drugs_hours","String","100","Recommended","If, in the last 48 hours, you used any type of recreational drugs, how many hours ago approximately did you last use recreational drugs (e.g., marijuana, cocaine, heroin, meth, pain pills)? ","","",""

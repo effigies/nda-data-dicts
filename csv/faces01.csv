@@ -62,7 +62,7 @@ High: many highly intense and longer expressions","1::5","1 = Low ; 2 = Fairly l
 "fcs3e2","Float","","Recommended","Mean negative intensity:","","",""
 "fcs3e3","Float","","Recommended","Mean neutral intensity:","","",""
 "fcs_4","Integer","","Recommended","What was the predominant emotion being expressed throughout the interview?","1::7","1 = Interest ; 2 = Sadness ; 3 = Anger ; 4 = Surprise ; 5 = Fear / Disgust ; 6 = Neutral / Indifferent ; 7 = Happiness","fcs4"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "mouth_left_corner_imp_y","Integer","","Recommended","The Y coordinate of the left corner of the participant's mouth (imputed)","","",""
 "q4_endp_sec_s1","Integer","","Recommended","The second in the BAT video that the participant stopped responding to the fourth question in set one.","0::60","",""
 "q5_startc_min_s1","Integer","","Recommended","The minute in the BAT video that the confederate began responding to the fifth question in set one.","0::60","",""

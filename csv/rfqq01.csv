@@ -74,7 +74,7 @@
 "rfqalc23","Integer","","Recommended","You want to quit drinking at this time because you will receive a special gift if you quit","0;1","0 = No; 1 = Yes",""
 "rfqalc24","Integer","","Recommended","You want to quit drinking at this time because there is a alcohol/drug-testing policy in detention, probation, parole, your job, or school","0;1","0 = No; 1 = Yes",""
 "rfqalc25","Integer","","Recommended","You want to quit drinking at this time because of legal problems related to your alcohol use","0;1","0 = No; 1 = Yes",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "rfqalc01","Integer","","Recommended","You want to quit drinking at this time because you will be able to think more clearly","0;1","0 = No; 1 = Yes",""
 "rfqalc02","Integer","","Recommended","You want to quit drinking at this time because you will like yourself better if you quit","0;1","0 = No; 1 = Yes",""
 "rfqalc03","Integer","","Recommended","You want to quit drinking at this time so that your memory will improve","0;1","0 = No; 1 = Yes",""

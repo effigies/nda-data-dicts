@@ -272,4 +272,4 @@
 "unc_md","Float","","Recommended","The mean of Mean diffusivity in the uncinate fasciculus (bilateral average) (mmA^2/s)","0::0.003","",""
 "unc_l_md","Float","","Recommended","The mean of Mean diffusivity in the uncinate fasciculus left (mmA^2/s)","0::0.003","",""
 "unc_r_md","Float","","Recommended","The mean of Mean diffusivity in the uncinate fasciculus right (mmA^2/s)","0::0.003","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

@@ -74,7 +74,7 @@
 "aosi_q21_socialrefnotes","String","1000","Recommended","Social Referencing Notes","","","q21_social_referencing_notes"
 "validity_of_data","Integer","","Recommended","Validity of data","0::4; 999","0= raw; 1 = Valid or clean; 2 = Question validity; 3 = Invalid data; 4 = Not answered; 999= missing",""
 "dode","String","10","Recommended","Date of Data Entry","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","strdatapt1"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","strdatapt1"
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","strcoder"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "baseline_a_002","String","100","Recommended","Interview Start Time:","","",""

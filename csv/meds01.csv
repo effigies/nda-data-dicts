@@ -197,7 +197,7 @@
 "begin_mta","Integer","","Recommended","Days from baseline psychiatric medication began in this interval at this dose?","","",""
 "end_mta","Integer","","Recommended","Days from baseline psychiatric medication ended in this interval at this dose?","","",""
 "medcon","String","100","Recommended","Medical Condition for which Concomitant Medication was taken","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","assessment"
 "concom","Integer","","Recommended","Since the last assessment, have you used any medications other than the study meds?","0;1","0=No; 1=Yes",""
 "days_baseline","Integer","","Recommended","Days since baseline","","",""
 "med_taken","String","20","Recommended","medication taken. Time","","24-hour clock; enter 55:55 if unknown)",""

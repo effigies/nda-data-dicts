@@ -60,7 +60,7 @@
 "adas_ts","Float","","Recommended","ADAS Total Score","0::5000","Created variable with 20% missing data rule applied: First, we created 2 intermediate variables: M_RECALL (mean number of words not recalled in the 3 trials): Average of (10-ADAS01A), (10-ADAS01B), (10- ADAS01C).
 M_RECOG (mean number of words not recognized in the 3 trials): Average of ADAS07A, ADAS07B, ADAS07C. Total score is calculated as follows: Sum of M_RECALL, ADAS02, ADAS03, ADAS04, ADAS05, ADAS06, M_RECOG, ADAS08, ADAS09, ADAS10, ADAS11",""
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
 "phase_ct","String","20","Recommended","Current Phase. Phase patient was in at the time of the assessment Phase 4 refers to the follow-up phase.","Pre-Rand; Phase 1/1A; Phase 2; Phase 3; Phase 4; Phase 1B; Open-Choice Phase; Screening; Phase 1","",""
 "last1","Integer","","Recommended","Flag Last Phase 1/1A Visit","","1=Yes for all records meeting this criteria",""

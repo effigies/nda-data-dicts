@@ -37,7 +37,7 @@
 "pq_tf16","Integer","","Recommended","I feel that parts of my body have changed in some way, or that parts of my body are working differently than before","0;1","0=False; 1=True","pqb16,pqb16_1,prodq16tf,qft16"
 "pq_dis16","Integer","","Recommended","I feel that parts of my body have changed in some way, or that parts of my body are working differently than before. If true: how much distress did you experience?","0::3","0=No; 1=Mild; 2=Moderate; 3=Severe",""
 "pq_totscore","Integer","","Recommended","PQ Total score","","","pqbtotalscore"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","fktimepointid"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","fktimepointid"
 "prodq1tf","Integer","","Recommended","Do familiar surroundings sometimes seem strange, confusing, threatening or unreal to you?","0;1;-9","0= No; 1= Yes; -9= Missing","pqb1,pqb1_1"
 "prodq1concern","Integer","","Recommended","Do familiar surroundings sometimes seem strange, confusing, threatening or unreal to you? When this happens, I feel frightened, concerned, or it causes problems for me.","1::5;-9","1= Strongly disagree; 2= Disagree; 3= Neutral; 4= Agree; 5= Strongly agree; -9= Missing","pqb1_2,pqb1_yes"
 "prodq2concern","Integer","","Recommended","Have you heard unusual sounds like banging, clicking, hissing, clapping or ringing in your ears? When this happens, I feel frightened, concerned, or it causes problems for me.","1::5;-9","1= Strongly disagree; 2= Disagree; 3= Neutral; 4= Agree; 5= Strongly agree; -9= Missing","pqb2_2,pqb2_yes"

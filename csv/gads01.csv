@@ -7,7 +7,7 @@
 "site","String","101","Recommended","Site","","Study Site","asite"
 "clinicid","Integer","","Recommended","Clinic ID","","","aclinic"
 "interv","Integer","","Recommended","Intervention Status","0;1","1=ITV, intervention; 0=TAU, treatment as usual",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","wave"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","wave"
 "days_baseline","Integer","","Recommended","Days since baseline","","","lof"
 "gads1","Integer","","Recommended","Frequency of worries. During the past week, on average, how much of each day was occupied with excessive, unrealistic worries (about the future, your health, other's health, family well-being, finances, social relationships, intimate relationships, work, school, or routine daily activities)?","0::4","0 = no worries; 1 = slight - worry occupies less than 1 hour per day; 2 = moderate - worries for one to three hours per day; 3 = severe - worries occur three to eight hours per day; 4 = very severe - more than eight hours of worry per day",""
 "gads2","Integer","","Recommended","Distress due to worrying. During the past week, how upset or uncomfortable did you feel when you were worrying","0::4","0 = none; 1 = mild, not too disturbing; 2 = moderate, definitely disturbing but still manageable; 3 = severe, very intense and disturbing; 4 = very severe, incapacitating",""

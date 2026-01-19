@@ -332,7 +332,7 @@
 "ysr17_4","Integer","","Recommended","I try to help other people when I can.","1::3; 999; 77; 88","1= Not True;2= Somewhat or Sometimes True;3= Very True or Often True  ; 999= N/A ; 77= Refused ; 88= Missing","ysr17_115"
 "ysr17_5","Integer","","Recommended","I wish I were one of the opposite sex.","1::3; 999; 77; 88","1= Not True;2= Somewhat or Sometimes True;3= Very True or Often True  ; 999= N/A ; 77= Refused ; 88= Missing","ysr17_116"
 "ysr17_7","Integer","","Recommended","I worry a lot.","1::3; 999; 77; 88","1= Not True;2= Somewhat or Sometimes True;3= Very True or Often True  ; 999= N/A ; 77= Refused ; 88= Missing","ysr17_118"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","cbcl_interval,eventname"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","cbcl_interval,eventname"
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","cbcl_visitdat_x"
 "sports_totnum","Integer","","Recommended","Total Number of Sports (Does child take part in Sports?)","0::3;9","0 = Does not take part in any sports;1 = One sport;2 = Two sports;3 = Three sports;9 = Missing","c01,cbcl_number_of_sports,cbcl_q01,tnsport"
 "activities_tot","Integer","","Recommended","Total Number of Activities (Child's favorite Activities?)","0::3;9","0 = Does not take part in any activities;1 = One activity;2 =Two activities;3 =Three activities;9 = Missing","c08,cbcl_number_hobbies,cbcl_q02,tnact"

@@ -58,7 +58,7 @@ upset by personal limitations such as forgetting, losing things, or getting conf
 "adrqle05","Integer","","Recommended","He/She is upset or unsettled in his/her living environment","0;1","0=Disagree; 1= Agree",""
 "adrqle06","Integer","","Recommended","He/She is comfortable moving around where he/she lives","0;1","0=Disagree; 1= Agree",""
 "adrqle07","Integer","","Recommended","He/She talks about wanting to leave or go home","0;1","0=Disagree; 1= Agree",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
 "phase_ct","String","20","Recommended","Current Phase. Phase patient was in at the time of the assessment Phase 4 refers to the follow-up phase.","Pre-Rand; Phase 1/1A; Phase 2; Phase 3; Phase 4; Phase 1B; Open-Choice Phase; Screening; Phase 1","","phase"
 "si_total","Float","","Recommended","Social Interaction Domain Total Score","0::100","Refer to the following document for complete scoring

@@ -27,7 +27,7 @@
 "srisk_21","Integer","","Recommended","I tried to kill myself on purpose and thought I might die","0::2;888;999","0 = Never; 1 = One time; 2 = Two or more times; 888 = N/A: condition skipped; 999 = Missing/no answer",""
 "srisk_22","Integer","","Recommended","I hurt myself on purpose but knew I wouldn't die","0::2;888;999","0 = Never; 1 = One time; 2 = Two or more times; 888 = N/A: condition skipped; 999 = Missing/no answer",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "condition_ca","Integer","","Recommended","Condition label","0;1","0=Control; 1 = Active",""

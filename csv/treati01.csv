@@ -84,7 +84,7 @@
 "q45_22d","String","10","Recommended","Social Skills Training  SST  Date began","","""Complete only if """"Type of Intervention Changed since last visit"""" = 1""","socialskillsstart"
 "q45_24d","String","10","Recommended","Special Education  SPED  Date began","","""Complete only if """"Type of Intervention Changed since last visit"""" = 1""","specializededustart"
 "q45_8d","String","10","Recommended","Speech Therapy  ST  Date began","","""Complete only if """"Type of Intervention Changed since last visit"""" = 1""","speechlangstart"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "agestartmths1_1","Integer","","Recommended","Age at Start of Treatment 1 Months","","","treatmentstartmm1_1"
 "ageendmths1_1","Integer","","Recommended","Age at End of Treatment 1 Months","","","treatmentendmm1_1"
 "agestartyrs1_1","Integer","","Recommended","Age at Start of Treatment 1 Years","","","treatmentstartyy1_1"

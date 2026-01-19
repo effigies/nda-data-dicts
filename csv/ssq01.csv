@@ -29,7 +29,7 @@
 "ssq_019","Integer","","Recommended","Parent: I am confident that my adolescent will continue  with changes he/she made.  Teen: I am confident that my parent will continue  with changes he/she made.","1::5","1 = Strongly Disagree; 2 = Disagree; 3 = Neutral; 4 = Agree; 5 = Strongly Agree","ssq_19,tss_19"
 "ssq_020","Integer","","Recommended","Parent: If things get worse for my adolescent, I feel  better prepared to deal with them.  Teen: If things get worse for me, I feel better  prepared to deal with them.","1::5","1 = Strongly Disagree; 2 = Disagree; 3 = Neutral; 4 = Agree; 5 = Strongly Agree","ssq_20,tss_20"
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","pi_staff"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ssq_stripes8","Integer","","Recommended","I feel better prepared to talk to teachers about my school problems","1::5","1 =  Strongly Disagree; 2 =  Disagree; 3 =  Neutral; 4 = Agree; 5 = Strongly Agree",""
 "ssq_stripes9","Integer","","Recommended","I learned valuable lessons from trying out new strategies in school","1::5","1 =  Strongly Disagree; 2 =  Disagree; 3 =  Neutral; 4 = Agree; 5 = Strongly Agree",""
 "ssq_stripes10","Integer","","Recommended","I feel better prepared to be independent of my parents and teachers","1::5","1 =  Strongly Disagree; 2 =  Disagree; 3 =  Neutral; 4 = Agree; 5 = Strongly Agree",""

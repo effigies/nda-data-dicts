@@ -122,7 +122,7 @@
 "masq90_q89","Integer","","Recommended","Slept very well","0::4","0 = Not at all; 1 = A little bit; 2 = Moderately; 3 = Quite a bit; 4 = Extremely",""
 "poms038","Integer","","Recommended","Felt cheerful","0::4;-9","0=Not at all; 1=A little; 2=Moderately; 3=Quite a bit; 4=Extremely; -9=Unknown","a4masq1,masq02,masq62_3"
 "masq_41","Integer","","Recommended","Felt really good","1::5","1 = Not at all, 2 = A little bit, 3 = Moderately, 4 = Quite a bit, 5 = Extremely","masq21"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
 "masq_001","Integer","","Recommended","Felt Sluggish or Tired","1::5","1=Not at all; 2=A little bit; 3=Moderately; 4=Quite a bit; 5=Extremely","masq62_38"

@@ -52,7 +52,7 @@
 "rcads_45","String","20","Recommended","I worry when I go to bed at night","Never; Sometimes; Often; Always; 999","999 = Missing","RCADS_CHILD45,c_rcads_45,p_rcads_45"
 "rcads_46","String","20","Recommended","I would feel scared if I had to stay away from home overnight","Never; Sometimes; Often; Always; 999","999 = Missing","RCADS_CHILD46,c_rcads_46,p_rcads_46"
 "rcads_47","String","20","Recommended","I feel restless","Never; Sometimes; Often; Always; 999","999 = Missing","RCADS_CHILD47,c_rcads_47,p_rcads_47"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
 "rcads_tot","Integer","","Recommended","RCADS total raw score","","",""
 "rcads_ars","Integer","","Recommended","Total Anxiety subscale score","","","p_rcads_total_anxiety"

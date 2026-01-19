@@ -30,7 +30,7 @@
 "site","String","101","Recommended","Site","","Study Site",""
 "rcpentry","Integer","","Recommended","consent days since randomization","","",""
 "time_assess","String","20","Recommended","Time of day the assessment was taken. Hour:minutes","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "consent8","Integer","","Recommended","All study publications will mention me by name.","0;1","0= False; 1= True",""
 "consent9","Integer","","Recommended","I will be expected to give blood through a finger stick at each visit.","0;1","0= False; 1= True",""
 "consent10","Integer","","Recommended","I will receive an experimental medication in this study.","0;1","0= False; 1= True",""

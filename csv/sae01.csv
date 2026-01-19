@@ -72,7 +72,7 @@
 "saers","Integer","","Recommended","Has the event been resolved?","0;1","0=No; 1= Yes","resolve,saea13a,saea18,saea7"
 "stdate","Date","","Recommended","Study Treatment stop date","","",""
 "suicide","Integer","","Recommended","Was the death because of a suicide?","0;1; 999","0 = No; 1 = Yes; 999 = Legitimately Skipped","dsuicide,sae_06,saea20"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","month,saetmpt1,timept,visit_name"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","month,saetmpt1,timept,visit_name"
 "crcid","String","40","Recommended","CRC ID/ROA ID","","",""
 "level","String","10","Recommended","Treatment level","","",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14","saes_01_3"

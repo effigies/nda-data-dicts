@@ -22,4 +22,4 @@
 "pabs_balance","Integer","","Recommended","Patient Attitudes and Beliefs Scale: Decisional balance score (pro minus con)","-18::30","",""
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

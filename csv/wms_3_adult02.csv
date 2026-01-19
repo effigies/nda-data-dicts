@@ -598,7 +598,7 @@
 "wms3_logicalmemoryi_ss","Integer","","Recommended","Logical Memory I - Scaled Score","","",""
 "wms3_mc_rs","Integer","","Recommended","Mental Control Raw score","","",""
 "wms3_mc_ss","Integer","","Recommended","Mental Control scaled score","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment_number"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","assessment_number"
 "wms3_logicalmemoryi_p","Float","","Recommended","Logical memory I, percentile","","","wechsler_scale_logical_memory_i_percentile_ss"
 "wms3_logicalmemoryii_p","Float","","Recommended","Logical memory II, percentile","","","wechsler_scale_logical_memory_ii_percentile_ss"
 "scoring_digitspan_raw","Float","","Recommended","Digit Span Raw Score","","","ds_totalraw,wechsler_scale_digit_span_raw,wms3_digitspan_rs"

@@ -28,6 +28,6 @@
 "cia_21","Integer","","Recommended","Over the past 28 days, to what extent have your eating habit, exercising, or feelings about your eating/shape/weight interfered with your relationships with others?","0::3; 999","0 = Not at all; 1 = A little; 2 = Quite a bit; 3 = A lot; 999 = Missing","cia15"
 "cia_22","Integer","","Recommended","Over the past 28 days, to what extent have your eating habit, exercising, or feelings about your eating/shape/weight made you worry?","0::3; 999","0 = Not at all; 1 = A little; 2 = Quite a bit; 3 = A lot; 999 = Missing","cia16"
 "cia_total","Integer","","Recommended","Global Rating of Clinical Impairment Assessment","","","ciatotal"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "vis_type","Integer","","Recommended","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","visit_type,visit_type_12,visit_type_6"
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

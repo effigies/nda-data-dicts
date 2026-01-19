@@ -18,7 +18,7 @@
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data",""
 "site","String","101","Recommended","Site","","Study Site",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timepoint_label"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","timepoint_label"
 "marsrxyn","Integer","","Recommended","Are you prescribed any medications?","0;1","0= No; 1= Yes",""
 "serviceuse1","Integer","","Recommended","Are you currently taking psychiatric medications?","0;1","0= No, 1= Yes",""
 "mars_ab1","Integer","","Recommended","Psychiatric medications - I forget to take them","1::4","1 = Always; 2 = Often; 3 = Sometimes; 4 = Rarely",""

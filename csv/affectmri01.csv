@@ -35,5 +35,5 @@
 "affectrating_s6_3","Integer","","Recommended","How irritated, annoyed, or mad are you?","1::5;88;99","1=Not at All, 2=Not Really, 3=Neutral/Undecided, 4=Somewhat, 5=Very Much,  88= N/A , 99= Missing",""
 "affectrating_s6_4","Integer","","Recommended","How sad, down, or unhappy are you?","1::5;88;99","1=Not at All, 2=Not Really, 3=Neutral/Undecided, 4=Somewhat, 5=Very Much,  88= N/A , 99= Missing",""
 "affectrating_s6_5","Integer","","Recommended","How overwhelmed, unable to control things or discouraged are you?","1::5;88;99","1=Not at All, 2=Not Really, 3=Neutral/Undecided, 4=Somewhat, 5=Very Much,  88= N/A , 99= Missing",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","affectrating_visit"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","affectrating_visit"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""

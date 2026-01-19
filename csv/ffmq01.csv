@@ -52,7 +52,7 @@
 "ffmq_factor5","Integer","","Recommended","Five Facet Mindfulness Questionnaire Subscale Nonreactivity to inner experience","5::40;999","For 39-item ffmq, items 4, 9, 19, 21, 24, 29, 33 are summed. For the the 24-item ffmq, items 3, 9, 13, 18, 21 are summed; 999= Missing Data","ffmq24_nonreact,ffmq_nonreact,ffmq_rs"
 "ffmq_total","Integer","","Recommended","FFMQ total score","39 :: 195;999","999= Missing Data",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "aurora_feelingswithoutreaction","Integer","","Recommended","FFMQ: Experience Emo w/out Reacting (2 wks)","0 :: 4; -5; -7; -8","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Very Often;-8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "aurora_sensations","Integer","","Recommended","FFMQ: Pay Attention Sensations (2 wks)","0 :: 4; -5; -7; -8","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Very Often;-8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""
 "aurora_distressingthoughts","Integer","","Recommended","FFMQ: Distress Thoughts w/out React (2 wks)","0 :: 4; -5; -7; -8","0=Never; 1=Rarely; 2=Sometimes; 3=Often; 4=Very Often; -8=DON''T KNOW; -7=REFUSED; -5=Presented, not answered",""

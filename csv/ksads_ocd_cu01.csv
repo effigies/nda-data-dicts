@@ -74,7 +74,7 @@
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "site","String","101","Recommended","Site","","Study Site",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "s4_adhd_impairment_social","Integer","","Recommended","social impairment with peers.","0 :: 2","0 = No information; 1 = Not present; 2 = Present","cce_conduct_11a,cmsp_conduct_11a,pce_conduct_11a,pmsp_conduct_11a,sce_conduct_11a,smsp_conduct_11a"
 "s4_adhd_impairment_family","Integer","","Recommended","impairment with family.","0 :: 2","0 = No information; 1 = Not present; 2 = Present","cce_conduct_11b,cmsp_conduct_11b,pce_conduct_11b,pmsp_conduct_11b,sce_conduct_11b,smsp_conduct_11b"
 "s4_adhd_impairment_school","Integer","","Recommended","impairment with school","0 :: 2","0 = No information; 1 = Not present; 2 = Present","cce_conduct_11c,cmsp_conduct_11c,pce_conduct_11c,pmsp_conduct_11c,sce_conduct_11c,smsp_conduct_11c"

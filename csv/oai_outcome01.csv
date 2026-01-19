@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "ageyears","Integer","","Recommended","Age in years","","",""
 "version","String","20","Recommended","Version/code of assessment","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "rntcnt","Integer","","Recommended","Most recent OAI contact","0::14; 66","0= Baseline; 1= 12-month; 2= 18-month; 3= 24-month; 4= 30-month; 5= 36-month; 6= 48-month; 7= 60-month; 8= 72-month; 9= 84-month; 10= 96-month; 11= 108-month; 12= 120/132-month; 13= Year 14(168 months); 14=Year 16(192 months); 66= No post-replacement follow-up x-ray",""
 "lhblrp","Integer","","Recommended","left hip, hip replacement seen on baseline OAI x-ray","0::2","0= No; 1= Yes; 2= Not sure",""
 "lhdate","Date","","Recommended","left hip, date of follow-up hip replacement","","",""

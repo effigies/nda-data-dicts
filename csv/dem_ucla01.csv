@@ -40,7 +40,7 @@
 "demo_chgparentmaritaldesc","Integer","","Recommended","Parents marital status","1::6","1 = Married; 2 = Separated; 3 = Divorced; 4 = Widowed; 5 = Single; 6 = Other","marital"
 "demo_chgcustody","Integer","","Recommended","""During the past year, has there been a change in child custody?""","0;1","0 = No; 1 = Yes",""
 "demo_chgcustodydesc","String","250","Recommended","""If yes, briefly explain:""","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "mother_age","Integer","","Recommended","Mother's age","0 :: 1200","",""
 "bio_mother_employed","String","5","Recommended","Biological Mother Employed?","Yes;No","","momemp"
 "father_age","Integer","","Recommended","Father's age","0 :: 1200","",""

@@ -26,7 +26,7 @@
 "cbgroup","Integer","","Recommended","Counterbalancing Group","","","strn_group"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","strn_version"
 "aurora_device","Integer","","Recommended","Device Used","1 :: 6","1=iPad; 2=iPhone; 3=Tablet; 4=Android Smartphone; 5=Desktop; 6=Laptop","strn_device"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","strn_timepoint"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","strn_timepoint"
 "strn_accuracy","Float","","Recommended","Prop Correct Responses Across All Trials","","",""
 "strn_meanrtc","Float","","Recommended","Mean Reaction Time For All Correct Trials (ms)","","",""
 "strn_medrtc","Float","","Recommended","Median Reaction Time For All Correct Trials (ms)","","",""

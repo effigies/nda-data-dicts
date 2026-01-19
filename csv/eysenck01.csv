@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","testdate"
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","age"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visitnum"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visitnum"
 "eysenck1","Integer","","Recommended","1. Would you enjoy water skiing?","0;1","1=True; 0=False",""
 "eysenck2","Integer","","Recommended","2. Usually do you prefer to stick to brands you know are reliable, to trying new ones on the chance of finding something better?","0;1","1=True; 0=False",""
 "eysenck3","Integer","","Recommended","3. Would you feel sorry for a lonely stranger?","0;1","1=True; 0=False",""

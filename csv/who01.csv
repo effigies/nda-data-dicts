@@ -43,7 +43,7 @@
 "who_h1","Integer","","Recommended","Overall, in the past 30 days, how many days were these difficulties present","","","dayspresent,fnc_19_c,whodas_13,whodas_days_present,whodas_h3,whodas_proxy_h1,whodash1"
 "who_h2","Integer","","Recommended","In the past 30 days, for how many days were you totally unable to carry out your usual activities or work because of an health condition?","","","daysunable,fnc_20_c,h4,whodas_14,whodas_days_incapacitated,whodas_h4,whodas_proxy_h2,whodash2"
 "who_h3","Integer","","Recommended","In the past 30 days, not counting the days that you were totally unable, for how many days did you cut back or reduce your usual activities or work because of any health condition?","","","daysreduce,fnc_21_c,h5,whodas_15,whodas_d56,whodas_days_reduce,whodas_h5,whodas_proxy_h3,whodash3"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","eventname"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","eventname"
 "who_cog","Integer","","Recommended","WHO- Cognition sub-score","","",""
 "who_mob","Integer","","Recommended","WHO- Mobility sub-score","","",""
 "who_self","Integer","","Recommended","WHO- Self-care sub-score","","",""

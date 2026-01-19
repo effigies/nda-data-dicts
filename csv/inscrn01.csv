@@ -40,7 +40,7 @@
 "advprintdt","Date","","Recommended","Date Nurelm Advanced Report available","","MM/DD/YYYY",""
 "advmhrec","Integer","","Recommended","Was mental health treatment recommended in the Nurelm Advanced Report?","0;1","0= No (ineligible); 1= Yes",""
 "t2cinterested","Integer","","Recommended","Would you be interested in screening for the Text2Conect study?","0;1","0= No (ineligible); 1= Yes",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "site","String","101","Recommended","Site","","Study Site",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

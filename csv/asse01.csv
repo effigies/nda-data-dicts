@@ -26,5 +26,5 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "intrt","Integer","","Recommended","Treatment Status Code","0::2","0=Baseline; 1=In Treatment; 2=In Follow-up",""
 "trtgrp_p","Integer","","Recommended","Treatment Group","1;2","1=Long-Acting Injectable Risperidone Microspheres; 2=Second Generation Oral Antipsychotic Medication",""
 "days_visit1","Integer","","Recommended","Days from Visit 1","","","dav1asex"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","vtypasex"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","vtypasex"
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""

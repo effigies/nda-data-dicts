@@ -98,7 +98,7 @@
 "srs_2005_female_raw4","Integer","","Recommended","","Social Motivation Raw Score: Female","","","female_mannerisms"
 "srs_2005_female_raw5","Integer","","Recommended","","Autistic Mannerisms Raw Score: Female","","","female_motivation"
 "phenotype","String","400","Required","","Phenotype/diagnosis for the subject","","e.g., Healthy, Control, Suicidal",""
-"visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","srs_apt,srs_apt"
+"visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","srs_apt,srs_apt"
 "com_ts","Integer","","Recommended","","Communication T-Score","","",""
 "mot_rs","Integer","","Recommended","","Motivation Raw Score","","",""
 "mot_ts","Integer","","Recommended","","Motivation T-Score","","",""

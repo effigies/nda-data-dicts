@@ -393,7 +393,7 @@
 "wasi_matrxs","Integer","","Recommended","WASI matrix reasoning, scaled score","","",""
 "wasi_fsiq_tscore","Integer","","Recommended","WASI, sum of vocabulary and matrix reasoning T scores","","","sub_t,total_tscore"
 "wasi_fsiq_iq2","Integer","","Recommended","WASI, two-subtest full scale intelligence quotient (FSIQ-2)","","","iq,wasi_fsiq_iq"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment_number,tpoint"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","assessment_number,tpoint"
 "vocab_1to8score","Integer","","Recommended","Vocabulary. Combine item 1 to 8 score","0::16","",""
 "matrix_1to4_s","Integer","","Recommended","Matrix item. Combine item 1 to 4","","",""
 "comment","String","500","Recommended","Miscellaneous comments about assessment","","","notdone,wasi_matrixnotes"

@@ -132,5 +132,5 @@
 "bsl_126","Integer","","Recommended","I suffered from voices and noises from inside or outside my head.","0::4","0=not at all; 1=once; 2=2-3 times; 3=4-6 times; 4=daily or more often",""
 "bsl_127","Float","","Recommended","Total - BSL-23","","",""
 "session_time","Integer","","Recommended","Pretreatment, mid-treatment, post-treatment","1::4","1 = pre-treatment; 2 = mid-treatment; 3 = post-treatment; 4 = follow-up",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "bsl23_15","Integer","","Recommended","In the course of last week, I suffered from voices and noises from inside or outside my head","0::4","0= Not at all; 1= A little; 2= Rather; 3= Much; 4= Very strong",""

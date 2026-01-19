@@ -31,7 +31,7 @@
 "mos_totscore","Integer","","Recommended","MSSS Total Score","","999=missing/NA",""
 "interviewmonth","Integer","","Recommended","Interview Month","","",""
 "mos_avgscore","Float","","Recommended","MOS SS Average Score","1::5","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "onewhosharejoysorrow","Integer","","Recommended","Someone with whom you can share joys and sorrows.","1::5; 7; 8","1=None of the time; 2= A little of the time; 3= Some of the time; 4=Most of the time; 5=All of the time; 7=Refused; 8=Don''t Know",""
 "onesourceofcomfort","Integer","","Recommended","Someone who is a real source of comfort to me.","1::5; 7; 8","1=None of the time; 2= A little of the time; 3= Some of the time; 4=Most of the time; 5=All of the time; 7=Refused; 8=Don''t Know",""

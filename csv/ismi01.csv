@@ -69,7 +69,7 @@
 "stigma01","Integer","","Recommended","Most people would willingly accept someone who has received mental health treatment as a close friend","1::6","1=Strongly Disagree; 2=Disagree; 3=Somewhat Disagree; 4=Somewhat Agree; 5=Agree; 6=Strongly Agree",""
 "stigma02","Integer","","Recommended","Most people feel that receiving mental health treatment is a sign of personal failure","1::6","1=Strongly Disagree; 2=Disagree; 3=Somewhat Disagree; 4=Somewhat Agree; 5=Agree; 6=Strongly Agree",""
 "stigma03","Integer","","Recommended","Most people think less of a person who has received mental health treatment","1::6","1=Strongly Disagree; 2=Disagree; 3=Somewhat Disagree; 4=Somewhat Agree; 5=Agree; 6=Strongly Agree",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "fam_stig_1","Integer","","Recommended","I am excluded from family events.","1::4","1 = Strongly Disagree; 2 = Disagree; 3 = Agree; 4 = Strongly Agree",""
 "fam_stig_2","Integer","","Recommended","When I''m having active symptoms, my family will use binds to control me.","1::4","1 = Strongly Disagree; 2 = Disagree; 3 = Agree; 4 = Strongly Agree",""
 "fam_stig_3","Integer","","Recommended","My family becomes unnecessarily angry with me.","1::4","1 = Strongly Disagree; 2 = Disagree; 3 = Agree; 4 = Strongly Agree",""

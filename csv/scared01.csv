@@ -61,7 +61,7 @@
 "scared_ssa_score","Integer","","Required","Significant School Avoidance score","0 :: 8; 999; 888","999=Missing; 888=Invalid","SignificantSchoolAvoidanceScore,child_scared_schoolavoidance,parent_scared_schoolavoidance,scaredssatot,scch_school,scpa_school"
 "scared_ssa_res","String","3","Recommended","Significant school avoidance","yes;no","","SignificantSchoolAvoidance"
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","dayscared,scch_visitdat_x,scpa_visitdat_x"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","scch_interval,scpa_interval,tpoint"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","scch_interval,scpa_interval,tpoint"
 "anxtriad00","Integer","","Recommended","Primary Diagnosis","1::8","1 = SAD Only; 2 = SP Only; 3 = GAD Only; 4 = SAD and SP Only; 5 = SAD and GAD Only; 6 = SP and GAD Only; 7 = SAD, SP, and GAD; 8 = No Primary Diagnosis",""
 "imputation","Integer","","Recommended","Indicator noting imputed data set number ","1::20","",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections","scch_studyid,scpa_studyid"

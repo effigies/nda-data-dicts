@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "multi_1","Integer","","Recommended","The therapist set an agenda or established specific goals for the therapy session.","1::5","1=Not at all typical of the session; 2=Slightly typical of the session; 3=Somewhat typical of the session; 4=Typical of the session; 5=Very typical of the session",""
 "multi_2","Integer","","Recommended","The therapist made connections between the client's current situation and his/her past.","1::5","1=Not at all typical of the session; 2=Slightly typical of the session; 3=Somewhat typical of the session; 4=Typical of the session; 5=Very typical of the session",""
 "multi_3","Integer","","Recommended","The therapist worked to give the client hope or encouragement.","1::5","1=Not at all typical of the session; 2=Slightly typical of the session; 3=Somewhat typical of the session; 4=Typical of the session; 5=Very typical of the session",""

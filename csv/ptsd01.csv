@@ -234,7 +234,7 @@
 "caps_bsx_5","Integer","","Recommended","Cued Physiological Reactions Symptom Severity greater than or equal to 2 ","0;1;999","0 = No; 1 = Yes; 999 = Missing",""
 "caps_csx_6","Integer","","Recommended","Avoidance of Memories, Thoughts, Feelings Symptom Severity greater than or equal to 2 ","0;1;999","0 = No; 1 = Yes; 999 = Missing",""
 "caps_csx_7","Integer","","Recommended","Avoidance of External Reminders Symptom Severity greater than or equal to 2 ","0;1;999","0 = No; 1 = Yes; 999 = Missing",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "caps5_2wk_d1_sev","Integer","","Recommended","Past 2 Weeks D1: Inability to Recall Important Aspect of Event Symptom Severity","0::4; 999","0 = Absent; 1 = Mild/subthreshold; 2 = Moderate/threshold; 3 = Severe/markedly elevated; 4 = Extreme/incapacitating; 999= Did not collect data",""
 "caps5_2wk_d2_sev","Integer","","Recommended","Past 2 Weeks D2: Exaggerated Negative Beliefs or Expectations Symptom Severity","0::4; 999","0 = Absent; 1 = Mild/subthreshold; 2 = Moderate/threshold; 3 = Severe/markedly elevated; 4 = Extreme/incapacitating; 999= Did not collect data",""
 "caps5_2wk_d3_sev","Integer","","Recommended","Past 2 Weeks D3: Distorted Cognitions Leading to Blame Symptom Severity","0::4; 999","0 = Absent; 1 = Mild/subthreshold; 2 = Moderate/threshold; 3 = Severe/markedly elevated; 4 = Extreme/incapacitating; 999= Did not collect data",""

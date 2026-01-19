@@ -62,7 +62,7 @@
 "subject_description","String","4000","Recommended","Subject related information (e.g the affection, phenotype, disease information, etc.).","","",""
 "site","String","101","Recommended","Site","","Study Site","siteid"
 "session_id","String","20","Recommended","session ID/screening ID","","","screeningid"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visit_name,visitn,visitnum,vtypbima,vtypbprs"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visit_name,visitn,visitnum,vtypbima,vtypbprs"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_name"
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","tstst"
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections","vistyp"

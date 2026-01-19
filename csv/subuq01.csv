@@ -408,7 +408,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "dusa10","Integer","","Recommended","Clinical Acohol Use Scale","1;2;3;4;5","1= Absitnent ; 2= Use without impairment; 3=Abuse; 4=Dependence; 5= Dependence with Institutionalization",""
 "dusa7","Integer","","Recommended","; In the past month have you used amphetamines?","1;2","1=No; 2=Yes",""
 "smoker","Integer","","Recommended","Smoker?","0::4;9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing","pt_smoke"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visitlabel,vtyppmc"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visitlabel,vtyppmc"
 "daysrz","Integer","","Recommended","days since randomization","","","auqa0b"
 "subuse1","Integer","","Recommended","Past Month: Tobacco rate use","1::5","1=Abstinent; 2=Use without impairement; 3=Abuse; 4=Dependence; 5=Dependence with institutionalization","ausdus1"
 "subuse_f1","Integer","","Recommended","Past Month: Tobacco frequency","0::4","0=No use; 1=Occasionally;2=Less than 10 per day; 3=11-25 per day; 4=more than 25 per day","ausdusfreq1"

@@ -76,7 +76,7 @@
 "acsq_12c","Integer","","Recommended","12c. Do you think the reason you don't have a boyfriend/girlfriend will also cause you to not have a boyfriend/ girlfriend in the future?","1::7","1=Will never again cause me to not have a boyfriend/ girlfriend; 7=Will always cause me to not have a boyfriend/girlfriend in the future",""
 "acsq_12d","Integer","","Recommended","12d. Do you think other bad things will happen to you because you don't have a boyfriend/girlfriend?","1::7","1=Nothing bad will happen; 7=Very bad things will happen",""
 "acsq_12e","Integer","","Recommended","12e. Do you think there is something wrong with you because you don't have a boyfriend/girlfriend?","1::7","1=Doesn't mean anything is wrong with me; 7=Definitely means something is wrong with me",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "acsq_con","Float","","Recommended","Consequences score (average)","","",""
 "acsq_sel","Float","","Recommended","Self-worth score (average)","","",""
 "acsq_tot","Float","","Recommended","Total score (average)","","",""

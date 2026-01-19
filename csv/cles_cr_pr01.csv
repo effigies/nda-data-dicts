@@ -115,5 +115,5 @@
 "cles_ph","Float","","Recommended","CLES CR-PR- Parental Hardship","0::8","Items cles_cr_1, cles_cr_4, cles_cr_21,cles_cr_29, cles_cr_32, cles_cr_37, cles_cr_39, cles_cr_40",""
 "cles_dep","Float","","Recommended","CLES CR-PR- Dependent Events","0::16","Items cles_cr_3, cles_cr_12, cles_cr_13, cles_cr_14, cles_cr_15, cles_cr_16, cles_cr_17, cles_cr_25, cles_cr_30, cles_cr_35, cles_cr_38, cles_cr_41, cles_cr_42, cles_cr_43, cles_cr_46, cles_cr_47",""
 "cles_ind","Float","","Recommended","CLES CR-PR- Independent Events","0::36","Items cles_cr_1, cles_cr_2, cles_cr_4, cles_cr_5, cles_cr_6, cles_cr_7, cles_cr_8, cles_cr_9, cles_cr_10, cles_cr_11, cles_cr_18, cles_cr_19, cles_cr_20, cles_cr_21, cles_cr_22, cles_cr_23, cles_cr_24, cles_cr_26, cles_cr_27, cles_cr_28, cles_cr_29, cles_cr_31, cles_cr_32, cles_cr_33, cles_cr_34, cles_cr_36, cles_cr_37, cles_cr_38, cles_cr_39, cles_cr_40, cles_cr_44, cles_cr_45, cles_cr_48, cles_cr_49, cles_cr_50",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "teen_subject_id","String","20","Recommended","Teen subject ID the parent is reporting on","","",""

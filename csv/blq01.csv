@@ -85,7 +85,7 @@
 "blq_ff2","Integer","","Recommended","Do you live with the patient, even part of the time?","0;1;9","0 = No; 1 = Yes; 9 = Refused",""
 "blq_ff4","Integer","","Recommended","If you live with the patient (even part of the time), then are there firearms in the home where you and the patient live?","0;1;8;9","0 = No; 1 = Yes; 9 = Refused; 8 = Don't know/not sure",""
 "blq_ff6e1","Integer","","Recommended","If there is more than one gun stored in the patient's home, then how many guns are stored both unlocked and loaded?","0::2;8","0 = None; 1 = One; 2 = More than one; 8 = Don't Know",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "fpq1","Integer","","Recommended","At the end of your ER visit were you discharged home or admitted for mental health treatment? ","1;2;8;9","1 = Discharged; 2 = Admitted; 8 = Refused; 9 = Don't Know",""
 "fpq1b","Date","","Recommended","If, after ER visit, you were admitted for mental health treatment, what date were you discharged from the facility?","","",""
 "fpq1c","String","2665","Recommended","If, after ER visit, you were admitted for mental health treatment, what is the name of the facility you were at?","","",""

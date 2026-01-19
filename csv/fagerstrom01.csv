@@ -38,7 +38,7 @@
 "mhx058","Integer","","Recommended","Do you chew if you are so ill that you are in bed most of the day","0;1","0=No; 1=Yes",""
 "chwscore","Integer","","Recommended","Total Score for Chewing Tobacco Section Items (uses re-coded values)","","",""
 "wrstscor","String","25","Recommended","Worst Score (Cigarette vs Tobacco)","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "dusa1a","Integer","","Recommended","If yes, on average, how many cigarettes per day have you smoked in the past 7 days?","0::100; 999","999= Legitimately skipped","ftnd9"
 "first_cig_smoke_reg_age","Integer","","Recommended","How old were you when you first started smoking cigarettes FAIRLY REGULARLY? PX030702_First_Cigarette_Smoking_Regularly_Age","1::99;999","","ftnd10"
 "fgrstrm_packs","Integer","","Recommended","How many packs of cigarettes per day have you smoked at the most?","","",""

@@ -24,7 +24,7 @@
 "k10_v9","Integer","","Recommended","During the last 30 days, about how often did you feel...so sad that nothing could cheer you up.","1::5","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All of the time","k6_d"
 "k10_tf10","Integer","","Recommended","If true, how you have been feeling?...  worthless?","0;1","0=False; 1=True",""
 "k10_v10","Integer","","Recommended","During the last 30 days, about how often did you feel...worthless.","1::5","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All of the time","k6_f"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "k10_total","Integer","","Recommended","K10 test total score","","",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "ref_child_id","String","50","Recommended","Referencing Child ID how it is defined in lab/project","","",""

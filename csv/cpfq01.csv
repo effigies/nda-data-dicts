@@ -16,4 +16,4 @@
 "acuity","Integer","","Recommended","How has your sharpness / mental acuity been over the past month?","1::6","1=Greater than Normal; 2=Normal; 3=Minimally Diminished; 4=Moderately Diminished; 5=Markedly Diminished; 6=Totally Absent","cpfqshar"
 "cpfqscor","Integer","","Recommended","CPFQ Score","","",""
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

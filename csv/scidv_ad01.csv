@@ -55,6 +55,6 @@
 "adxd","Integer","","Recommended","Adjustment Disorder: The symptoms do not represent bereavement","0::2; 9","0=Does not apply; 1=No; 2=Yes; 9=No information",""
 "adxe","Integer","","Recommended","Adjustment Disorder: The symptoms do not persist for more than an additional 6 months","0::2; 9","0=Does not apply; 1=No; 2=Yes; 9=No information",""
 "adxdep","Integer","","Recommended","Adjustment Disorder: With depressed mood","0::2; 9","0=Does not apply; 1=No; 2=Yes; 9=No information",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
 "teen_subject_id","String","20","Recommended","Teen subject ID the parent is reporting on","","",""

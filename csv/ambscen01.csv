@@ -7,7 +7,7 @@
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "respond_detail_oth_spec","String","255","Recommended","Respondent details","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","",""
 "asi_01","Integer","","Recommended","(You notice/Your child notices) at school one day that a favorite book of (yours/theirs) is missing. How bothered/upset or worried (are you/would they be) about this?","0::10","0=Not bothered at all; 10=Very, very bothered",""
 "asi_01_txt","String","1000","Recommended","(You notice/Your child notices) at school one day that a favorite book of (yours/theirs) is missing. What (do you/will your child) think is most likely to have happened to the book?","","",""

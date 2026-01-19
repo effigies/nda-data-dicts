@@ -33,7 +33,7 @@
 "cpz_total","Integer","","Recommended","Chlorpromazine Equivalent Total","","sum([currentmed_1_cpz][currentmed_2_cpz][currentmed_3_cpz][currentmed_4_cpz][currentmed_5_cpz][currentmed_6_cpz][currentmed_7_cpz][currentmed_8_cpz][currentmed_9_cpz])",""
 "currentmed_comments","String","200","Recommended","Comments or Meds greater than 9 (Optional)","","",""
 "currentmed_complete","Integer","","Recommended","Form Complete","1;2","1 = Complete; 2 = Incomplete",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "nocurrent_meds","Integer","","Recommended","(If Current Medication Data Not Entered)","1","1 = No Current Medication; Blank if there is a current medication (see number_currentmeds) ",""
 "number_currentmeds","Integer","","Recommended","Number of Current Medications Listed","","",""
 "cmd001","Integer","","Recommended","Medication number","","-9=Unknown",""

@@ -18,7 +18,7 @@
 "ptst_q12","Integer","","Recommended","Mental health issues","1::6","1=Agree Strongly; 6=Strongly Disagree",""
 "ptst_q13","Integer","","Recommended","Satisfaction","1::6","1=Agree Strongly; 6=Strongly Disagree",""
 "ptst_totscore","Integer","","Recommended","Total PTST Score","","TotScore = ptst(Q1 + Q2 + Q3 + Q4 + Q5 + Q6 + Q7 + Q8 + Q9 + Q10 + Q11 + Q12 + Q13)",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "visitday","Integer","","Recommended","day of visit","","",""
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""

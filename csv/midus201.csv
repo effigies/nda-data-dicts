@@ -519,4 +519,4 @@
 "socrq13","Integer","","Recommended","How close is this person to you","1::7","1= Not at all; 3= A little; 5= Some; 7= A lot",""
 "socrq14","Integer","","Recommended","Choose the pair that best characterizes your relationship with the person you rated above","1::7","1= Not Close; 7= Very Close",""
 "socrq15","Integer","","Recommended","I feel like being around this person right now","1::5","1= Not at all; 5= Very much so",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

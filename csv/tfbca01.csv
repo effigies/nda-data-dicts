@@ -65,7 +65,7 @@
 "tfbca_30","String","20","Recommended","Number of cigarettes 30 days ago","","",""
 "tfbca_30a","String","20","Recommended","Number of drinks 30 days ago","","",""
 "stime","String","20","Recommended","Session time","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""
 "n_days_ago","Integer","","Recommended","Number of days ago","31::60","",""
 "tfbca_na","Integer","","Recommended","Number of drinks N days ago (N between 31 and 60)","","",""

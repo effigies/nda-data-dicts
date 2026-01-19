@@ -50,7 +50,7 @@
 "sessionid","String","50","Recommended","Identifier of Testing Session","","","srt_sittingid"
 "cbgroup","Integer","","Recommended","Counterbalancing Group","","","srt_group"
 "aurora_device","Integer","","Recommended","Device Used","1 :: 6","1=iPad; 2=iPhone; 3=Tablet; 4=Android Smartphone; 5=Desktop; 6=Laptop","srt_device"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","srt_timepoint"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","srt_timepoint"
 "ddt_mn_rt","Float","","Recommended","Mean reaction time for all trials","","","srt_meanrt"
 "ddt_md_rt","Float","","Recommended","Median reaction time for all trials","","","srt_medianrt"
 "ddt_sd_rt","Float","","Recommended","Standard deviation of reaction time for all trials","","","srt_sdrt"

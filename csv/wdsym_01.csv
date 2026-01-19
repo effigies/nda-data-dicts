@@ -22,7 +22,7 @@
 "ema_survey","String","100","Recommended","Which survey collected the EMA data?","","e.g., Morning report; Random; First Drink; Bedtime; Drinking Follow-up; Drinking Follow-up 2; Drinking Follow-up 3; Breathalyzer Test",""
 "wdmusclecramps","Integer","","Recommended","How much have you experienced muscle cramps during the past 24 hours?","1::5","1 = Not at all; 2 = Light; 3 = Moderate; 4 = Significant; 5 = Extreme",""
 "wdnervous","Integer","","Recommended","How much have you experienced nervousness during the past 24 hours?","1::5","1 = Not at all; 2 = Light; 3 = Moderate; 4 = Significant; 5 = Extreme",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ema_studyday","Integer","","Recommended","Day of the EMA collection","1::14","",""
 "emadatetime","String","20","Recommended","Date and time of EMA collection","","",""
 "ema_weekday","Integer","","Recommended","Day of the week for the EMA collection","1::7","1= Sunday; 2= Monday; 3= Tuesday; 4= Wednesday; 5= Thursday; 6= Friday; 7= Saturday",""

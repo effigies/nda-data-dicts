@@ -887,7 +887,7 @@
 "motorskillsdomain_totala","Integer","","Recommended","v-Scale Score","","999=missing",""
 "socializationdomain_totala","Integer","","Recommended","v-Scale Score","","",""
 "validity_of_data","Integer","","Recommended","Validity of data","0::4; 999","0= raw; 1 = Valid or clean; 2 = Question validity; 3 = Invalid data; 4 = Not answered; 999= missing",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","interval,vine_apt"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","interval,vine_apt"
 "site","String","101","Recommended","Site","","Study Site",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections","studyid"
 "daysrz","Integer","","Recommended","days since randomization","","","studyday"

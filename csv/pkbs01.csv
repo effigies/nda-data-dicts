@@ -112,4 +112,4 @@
 "pkbs_fl_b5","Integer","","Recommended","Anxiety/Somatic Problems: Functional level","0::3","0 = No problem; 1 = Average; 2 = Moderate Problem; 3 = Significant problem",""
 "pkbs_fl_int","Integer","","Recommended","Internalizing Problems: Functional level","0::3","0 = No problem; 1 = Average; 2 = Moderate Problem; 3 = Significant problem",""
 "pkbs_fl_bt","Integer","","Recommended","Problem Behavior Total: Functional level","0::3","0 = No problem; 1 = Average; 2 = Moderate Problem; 3 = Significant problem",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

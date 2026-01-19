@@ -41,7 +41,7 @@
 "probe_by_cnt_incorr","Integer","","Recommended","Count of inccorect responses to BY probes","","",""
 "cpt_absolute_percent_xa","Integer","","Recommended","AX absolute percent","","",""
 "cpt_relative_percent_xa","Float","","Recommended","AX relative percent","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment_number"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","assessment_number"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "nc_dp","Float","","Recommended","CPT d Prime Score","","","dprime"
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","completed_ax_cpt"

@@ -7,7 +7,7 @@
 "site","String","101","Recommended","Site","","Study Site","ASITE"
 "clinicid","Integer","","Recommended","Clinic ID","","","ACLINIC"
 "interv","Integer","","Recommended","Intervention Status","0;1","1=ITV, intervention; 0=TAU, treatment as usual",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","WAVE"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","WAVE"
 "days_baseline","Integer","","Recommended","Days since baseline","","","LOF"
 "arx1","Integer","","Recommended","In the past 6 months, have you taken any nonprescription medications or herbal remedies to help with your mood or energy? This includes preparations such as Kava Kava, or St. Johns Wort.","0;1","0=No; 1=Yes",""
 "arx2a","Integer","","Recommended","Taking Chamomile to help you with your mood or energy?","0;1","0=No; 1=Yes",""

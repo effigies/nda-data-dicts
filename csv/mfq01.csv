@@ -42,7 +42,7 @@
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable","whomfq"
 "respond_detail","Integer","","Recommended","Respondent detail","1::8;999","1 = Mother; 2 = Father; 3 = Other relative or custodial adult; 4 = Teacher or caregiver; 5 = Other specialist; 6 = Other; 7 = Child; 8= Spouse; 999 = Not available","nfmfq"
 "respond_detail_oth_spec","String","255","Recommended","Respondent details","","","nfomfq"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visit_number"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visit_number"
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","",""
 "imputation","Integer","","Recommended","Indicator noting imputed data set number ","1::20","",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

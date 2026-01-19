@@ -11,7 +11,7 @@
 "sitedatasource_1","Integer","","Recommended","Source of Data: Site","0;1; -888; -999","0=False; 1=True; -888=Not Applicable; -999=Missing","infosrcr"
 "sitedatasource_phone","Integer","","Recommended","Source of Data: Telephone","0;1; -888; -999","0=False; 1=True; -888=Not Applicable; -999=Missing","infosrct"
 "sitedatasource_physician","Integer","","Recommended","Source of Data: Physician","0;1; -888; -999","0=False; 1=True; -888=Not Applicable; -999=Missing","infosrcp"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","interval,visit_name,visitnum"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","interval,visit_name,visitnum"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","bscpg,form_name"
 "bsctot","Integer","","Recommended","Total number of forms","1::99","",""
 "ldosedy","Integer","","Recommended","Day of last dose","","Number of days from study baseline to date of last dose","datelast"

@@ -92,7 +92,7 @@
 "jobseq","Integer","","Recommended","Job number sequenceof jobs in past 2 years","","",""
 "site","String","101","Recommended","Site","","Study Site",""
 "days_baseline","Integer","","Recommended","Days since baseline","","","eodays,whdays"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ewps_4","Integer","","Recommended","I am self-employed.","0;1","0 = No;1 = Yes","wi14"
 "empcur","Integer","","Recommended","Currently employed","0;1; -99; 77; 88;-999","0 = No; 1 = Yes; -99= N/A ; 88= Missing ; 77= Refused; -999= Do not know","wi3"
 "wi18","Integer","","Recommended","How many months per year {do/did} you usually work at this job","","",""

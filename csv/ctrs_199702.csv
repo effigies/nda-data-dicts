@@ -146,5 +146,5 @@ things which happened even if they were unremarkable� Event 2","","",""
 "clmp_c3","String","500","Recommended","In your own words, describe 3 noteworthy (favorable or unfavorable) events which
 occurred during this rating period. If there were no noteworthy events, describe 3
 things which happened even if they were unremarkable� Event 3","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "year_mta","Integer","","Recommended","Year in study","","","visit_year,visit_year�"

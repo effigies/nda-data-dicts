@@ -36,7 +36,7 @@
 "ethnicity","String","30","Recommended","","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
 "site","String","101","Recommended","","Site","","Study Site",""
 "longform_id","String","50","Recommended","","Long form of Subject ID","","",""
-"visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "fetal_age","Integer","","Recommended","","Age of the fetus (i.e., gestational age) in days","0::322","",""
 "fetal_age_type","Integer","","Recommended","","Type of gestational age used for fetal_age","1;2","1 = Postovulatory gestational age, defined as days since the last ovulation, expected term of 266 days; 2 = Postmenstrual gestational age, days since the last menstrual period, expected term of 280 days",""
 "sample_sent","String","100","Recommended","","Sample sent to: i.e. NRGR","","",""

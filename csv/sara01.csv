@@ -34,6 +34,6 @@
 "sara28","String","250","Recommended","If yes to the above questions; please check the sub scores affected(Fast Alternating Hand Movements Left): Describe","","",""
 "sara29","String","250","Recommended","If yes to the above questions; please check the sub scores affected(Heel shin slide right): Describe","","",""
 "sara30","String","250","Recommended","If yes to the above questions; please check the sub scores affected(Heel shin slide left): Describe","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "sara31","Integer","","Recommended","If there is a change to the SARA score is the SARA score change related to SCA disease","0;1;999","0=No; 1=Yes; 999=NA",""
 "sara32","String","10","Recommended","PRN Imaging Visit SARA Timepoint","","",""

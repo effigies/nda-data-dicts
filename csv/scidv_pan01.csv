@@ -68,7 +68,7 @@
 "anxpan_f16_panicattack_text","String","4000","Recommended","PANIC. - (# of attacks; AT LEAST FOUR ITEMS CODED ?3? AND REACHED THEIR PEAK WITHIN MINUTES): - Text","","",""
 "scid_f1b","Integer","","Recommended","PANIC. - past month; recurrent unexpected panic attacks","1;3","1 = Expected or Absent;3 = Unexpected","anxpan_f17_unexpected"
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "sciddv_f7n","String","4000","Recommended","Panic Disorder: Choking Notes","","",""
 "sciddv_f8n","String","4000","Recommended","Panic Disorder: Chest Pain Notes","","",""
 "sciddv_f9n","String","4000","Recommended","Panic Disorder: Nausea Notes","","",""

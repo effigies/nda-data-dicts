@@ -45,7 +45,7 @@ hospital, or any other community agency or professional?","0;1","0= No; 1= Yes",
 "researchsub","Integer","","Recommended","How many times have you met with each of the following professionals in the past month?  Research participation - other than this study","","",""
 "researchchart","Integer","","Recommended","How many times have you met with each of the following professionals in the past month?  Research participation Chart- other than this study","","",""
 "researchspecify","String","1000","Recommended","How many times have you met with each of the following professionals in the past month?  Research participation - other than this study, specify what study","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "psychiatristsub","Integer","","Recommended","How many times have you met with each of the following professionals in the past month? Psychiatrist","","",""
 "psychiatristchart","Integer","","Recommended","How many times have you met with each of the following professionals in the past month? Psychiatrist Chart","","",""
 "psychologistsub","Integer","","Recommended","How many times have you met with each of the following professionals in the past month? Psychologist","","",""

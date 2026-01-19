@@ -75,7 +75,7 @@
 "ados_sa_css","Integer","","Recommended","ADOS-2 Social Affect (SA) domain total Calibrated Severity Score (CSS)","1::10; 999","","css_severity_score_mod3,soc_affect_severity_score"
 "ados_rrb_css","Integer","","Recommended","ADOS-2 Restricted and Repetitive Behaviors (RRB) domain total Calibrated Severity Score (CSS)","1::10; 999","","ados_rrb_css_mod3,cs_severity_score_2010,restricted_repet_behav_severity_"
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "year_mta","Integer","","Recommended","Year in study","","","visit_year"
 "csadosgdiag","Integer","","Recommended","ADOS Diagnosis Classification:","0;1;2","0 = Not spectrum or autism; 1 = Spectrum; 2 = Autism",""
 "race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""

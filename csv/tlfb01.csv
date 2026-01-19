@@ -11,7 +11,7 @@
 "hvydys_tlfb","Integer","","Recommended","Heavy Drinking Days?","","",""
 "amtspnt_tlfb","Integer","","Recommended","Amount of money spent on alcohol?","","",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visit_01"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visit_01"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "cmstrtdt","Date","","Recommended","Start Date","","","cmstrtdt_01"
 "cmstpdt","Date","","Recommended","Stop Date","","","cmstpdt_01"

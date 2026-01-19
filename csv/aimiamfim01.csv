@@ -69,7 +69,7 @@
 "cte_02_alt","Integer","","Recommended","At this point, how confident are you to deliver the intervention?","1::5;-7;-9","1 = Not confident; 5 = Very confident; -7=Not requested at timepoint; -9 = missing",""
 "faa_overalltext_alt","Integer","","Recommended","How did you feel about the overall content of the intervention?","1::3","1=Not at all/Negative; 2=Moderate/Neutral; 3=Extreme/Positive",""
 "faa_txtimprovement_alt","String","1000","Recommended","What would make the intervention better?","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ebsiam4","Integer","","Recommended","The strategies/programs listed in CollegeAIM seem like a good match.","1::5; 99","1 = Completely disagree; 2 = Disagree; 3 = Neither agree nor disagree; 4 = Agree; 5 = Completely agree; 99 = Missing",""
 "ebsfim1","Integer","","Recommended","The strategies/programs listed in CollegeAIM seem implementable.","1::5; 99","1 = Completely disagree; 2 = Disagree; 3 = Neither agree nor disagree; 4 = Agree; 5 = Completely agree; 99 = Missing",""
 "ebsfim2","Integer","","Recommended","The strategies/programs listed in CollegeAIM seem possible.","1::5; 99","1 = Completely disagree; 2 = Disagree; 3 = Neither agree nor disagree; 4 = Agree; 5 = Completely agree; 99 = Missing",""

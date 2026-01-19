@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","",""
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","vistyp"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","vistyp"
 "sff1","Integer","","Recommended","Locate the screening visit forms packet before the patient arrives.","0;1","0 = No; 1 = Yes",""
 "sff2","Integer","","Recommended","Assign subject ID number","0;1","0 = No; 1 = Yes",""
 "ptcon","Integer","","Recommended","Patient consented","0;1","0=No; 1=Yes","sff3"

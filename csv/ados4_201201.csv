@@ -101,7 +101,7 @@
 "scoresumm_overalltotal","Integer","","Recommended","Overall Total (Social Affect + Restricted and Repetitive Behavior)","","","ados_total,overalltotal,rev_ados_socaff_rrb_ttl"
 "ados2_revised_algo_dx","String","255","Recommended","ADOS-2 Overall (SA+RRB ) revised algorithm Dx","","ADOS-2 SA+RRB Overall total of =>8 Algorithm Dx is ASD (there is no Autism cutoff although for research purposes an Autism cutoff of 10 may be useful)","rev_ados_class_dx"
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "csacommunication","Integer","","Recommended","Communication Autism Cutoff","0;1;9","0 = No; 1 = Yes; 9 = N/A",""
 "csascommunication","Integer","","Recommended","Communication Autism Spectrum Cutoff","0;1;9","0 = No; 1 = Yes; 9 = N/A",""
 "csasocial","Integer","","Recommended","Social Autism Cutoff","0;1;9","0 = No; 1 = Yes; 9 = N/A",""

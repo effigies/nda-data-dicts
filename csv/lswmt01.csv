@@ -124,7 +124,7 @@
 "wmls2l08t1","Integer","","Recommended","List sorting working memory test, two list item","0;1","0=incorrect;1=correct",""
 "prob_admin","Integer","","Recommended","Flagged for potentially problematic test administration","1","1=Flagged","flag_cognition_listsorting"
 "accult_select_language","Integer","","Recommended","Test given in Spanish? ¿Español?","0 ; 1","0 = No; 1 = Yes","nihtbx_list_language"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","eventname"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","eventname"
 "wcst_ni","Integer","","Recommended","Number of Items","","","itmcnt,nihtbx_calist_itmcnt,nihtbx_list_itmcnt,tcb_lstsrt_item"
 "nih_tlbx_theta","Float","","Recommended","Theta","","999=NA/NK/missing","nihtbx_list_theta,tcb_lstsrt_theta"
 "tbx_comsc","Float","","Recommended","Computed score","","","nihtbx_list_computed,nihtbx_list_cs,tcb_lstsrt_compscr"

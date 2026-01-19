@@ -16,7 +16,7 @@
 "alife_marital","Integer","","Recommended","7. Sexual Functioning: Marital status","0::7","0 = No information; 1 = Single; 2 = Married; 3 = Living with someone (opposed sex); 4 = Widowed; 5 = Separated; 6 = Divorced; 7 = Living with someone (same sex)",""
 "age_1st_hosp","Integer","","Recommended","Age at first psychiatric hospitalization (years)","","",""
 "dem_38_a","String","150","Recommended","What was the diagnosis or diagnoses? emotional or psychological problem","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "lineno","Integer","","Recommended","Line number (lines per participant)","0::150","",""
 "hospital","String","100","Recommended","Name of hospital","","",""
 "hospital_address","String","100","Recommended","Address of hospital","","",""

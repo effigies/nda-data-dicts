@@ -32,7 +32,7 @@
 "devs_8","Integer","","Recommended","8. If at the beginning of the treatment you knew as much about the intervention as you do now, how inclined would you have been in still participating?","1::9","1 = None at all; 5 = Somewhat inclined; 9 = Very inclined",""
 "devs_9","Integer","","Recommended","9. How likely are you to recommend this type of treatment to someone with similar problems?","1::9","1 = None at all; 5 = Somewhat likely; 9 = Very likely",""
 "devs_score","Integer","","Recommended","Score","10::90","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "devs_1","Integer","","Recommended","1. How much distress did you experience during the first assessment session?","1::9","1 = None at all; 5 = Somewhat distressed; 9 = Very distressed",""
 "devs_2","Integer","","Recommended","2. How much distress did you experience during the first treatment session?","1::9","1 = None at all; 5 = Somewhat distressed; 9 = Very distressed",""
 "devs_3","Integer","","Recommended","3. On leaving the first treatment session, how much distress did you experience for the next few hours?","1::9","1 = None at all; 5 = Somewhat distressed; 9 = Very distressed",""

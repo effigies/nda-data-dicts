@@ -18,5 +18,5 @@
 "camp_8","Integer","","Recommended","When my child feels scared or worried about something, s/he says s/he will not be able to handle it","0 :: 3","0=never, almost never, or not an issue; 1=sometimes ; 2=often ; 3=almost always",""
 "cams_total","Integer","","Recommended","Child Avoidance Measure Self Report","0 :: 24","","camp_total"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""

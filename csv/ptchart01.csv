@@ -68,7 +68,7 @@
 "gapyn","Integer","","Recommended","ETP Study GAP Code","1;2","1 = Yes = At least one GAP in assessment data of greater than 3.5 months; 2 = No = NOT a gap in assessment data of greater than 3.5 months",""
 "surfnum","Integer","","Recommended","Number of Monthly SURF-M Assessments","0::25","",""
 "surflast","String","5","Recommended","Visit Number of Last SURF-M Assessment Obtained","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","tpid"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","tpid"
 "days_baseline","Integer","","Recommended","Days since baseline","","",""
 "monthsbl","Float","","Recommended","Actual number of months from Baseline","","",""
 "chldyn","Integer","","Recommended","Does the client/subject have children?","0;1;-99","0=No; 1=Yes; -99= Missing",""

@@ -71,7 +71,7 @@
 "date_updated","Date","","Recommended","Date record updated","","","recordeddate"
 "externalreference","String","255","Recommended","External Data Reference","","",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ctq_pre_school","Integer","","Recommended","Please rate how stressful you feel your early life was, compared to that of other children: During Pre-School Years","1::6","1= Essentially Stress-free; 2= Less Stressful than Most Kids; 3= About Average; 4= More stressful than Most Kids; 5= Extremely Stressful; 6= The Most Stressful I'e Ever Know",""
 "ctq_pre_teen","Integer","","Recommended","Please rate how stressful you feel your early life was, compared to that of other children: During Pre-Teen Years","1::6","1= Essentially Stress-free; 2= Less Stressful than Most Kids; 3= About Average; 4= More stressful than Most Kids; 5= Extremely Stressful; 6= The Most Stressful I'e Ever Know",""
 "studyphase","Integer","","Recommended","Study Phase","1::6; -888; -999","1=Phase 1: Treatment as Usual(TAU); 2=Phase 2: Screening Only; 3=Phase 3: Intervention; 4=Focus Groups; 5=Open Trial; 6=Randomized Trial; -888=Not Applicable; -999=Missing;",""

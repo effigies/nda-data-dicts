@@ -14,7 +14,7 @@
 "site","String","101","Recommended","Site","","Study Site","asite"
 "clinicid","Integer","","Recommended","Clinic ID","","","aclinic"
 "interv","Integer","","Recommended","Intervention Status","0;1","1=ITV, intervention; 0=TAU, treatment as usual",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timepoint_label,wave"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","timepoint_label,wave"
 "days_baseline","Integer","","Recommended","Days since baseline","","","lof"
 "eq5d","Float","","Recommended","EQ-5D Index Score","","",""
 "ieq5d","Integer","","Recommended","Imputed Eq5D","0;1","",""

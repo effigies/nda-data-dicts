@@ -323,7 +323,7 @@
 "dsm5_icdcodes_opioid","Integer","","Recommended","ICD-10 Codes for Diagnosis: F11 Opioid use disorder (F11)","0;1","0= No; 1= Yes",""
 "dsm5_icdcodes_cannabis","Integer","","Recommended","ICD-10 Codes for Diagnosis: F12, Cannabis use disorder (F12)","0;1","0= No; 1= Yes",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "trait_yn","Integer","","Recommended","Dichotomous variable indicating that this is a trait measure (administered once at the baseline enrollment)","0;1","0= Other Measurement Schedule; 1= Single Timepoint Baseline Enrollment Measure",""
 "experimentalcondition","Integer","","Recommended","Crossover condition: Active vs. Placebo","1;2","1=Active; 2= Placebo",""
 "scidv_sudalc_lp","Integer","","Recommended","Alcohol Use Disorder - Lifetime Prevalence","0;1;-99","0=Absent; 1=Present; -99 = Missing",""

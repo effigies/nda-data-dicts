@@ -86,7 +86,7 @@
 "alc_start_time","String","11","Recommended","Time subject started drinking","","",""
 "alc_money","Float","","Recommended","Amount of delay money earned","","In Dollars",""
 "manipulation","Integer","","Recommended","Believe received Guanfacine (Intuniv) or Placebo","1;2","1=Guanfacine; 2=Placebo",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "man_reason","String","200","Recommended","Reason why they believe which medication received","","",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "co_reading","Float","","Recommended","Carbon Monoxide (CO) reading","","-99=Missing","co_level"

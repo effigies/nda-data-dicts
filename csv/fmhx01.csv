@@ -198,7 +198,7 @@
 "fmhh_rsd","Integer","","Recommended","First Degree Relative - Substance Dependence?","0::5","0 = No Disorder; 1 = Possible Disorder; 2 = Probable Disorder; 3 = Definite Disorder; 4 = Recurrent; 5 = Unknown",""
 "fmhh_rsui","Integer","","Recommended","First Degree Relative - Significant Suicidal Ideation?","0::5","0 = No Disorder; 1 = Possible Disorder; 2 = Probable Disorder; 3 = Definite Disorder; 4 = Recurrent; 5 = Unknown",""
 "fmhh_rsuicattempt","String","1","Recommended","First Degree Relative - Suicide?","A;C;N;R;X","A = Attempt; C = Completed Suicide; N = No; R = Recurrent Attempts; X = Unknown",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "asi_famhis_adopt","Integer","","Recommended","Was subject adopted?","0;1","0= No; 1= Yes",""
 "fmhh_reltreat","Integer","","Recommended","First Degree Relative - Mental Health Treatment?","0::3","0 = None; 1 = Outpatient; 2 = Inpatient; 3=Both",""
 "fmhh_rdec","Integer","","Recommended","First Degree Relative - Major Depressive Disorder?","0::5","0 = No Disorder; 1 = Possible Disorder; 2 = Probable Disorder; 3 = Definite Disorder; 4 = Recurrent; 5 = Unknown",""

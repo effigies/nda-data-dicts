@@ -16,4 +16,4 @@
 "fas09","Integer","","Recommended","Mentally, I feel exhausted","1::5","1=Never; 2=Almost never; 3=Sometimes; 4=Often; 5=Always",""
 "fas_10","Integer","","Recommended","When I am doing something, I can concentrate quite well","1::5","5=Never; 4=Almost never; 3=Sometimes; 2=Often; 1=Always","fas10"
 "fatigue_total","Integer","","Recommended","Fatigue Assessment Scale Total Score","10::50","","fas_total"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

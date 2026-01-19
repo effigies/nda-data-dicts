@@ -8,5 +8,5 @@
 "depresn02","Integer","","Recommended","Do you (caregiver) believe your mother/father/loved one (study participant) is depressed? Repeat question if necessary, but do not describe depression","0;1","0=No; 1=Yes",""
 "depresn03","Integer","","Recommended","Has your mother/father/loved one (study participant) ever been treated for depression by a professional before? Repeat question if necessary, but do not describe depression","0;1","0=No; 1=Yes",""
 "depresn04","Integer","","Recommended","Do you (caregiver) believe that YOU are depressed? Repeat question if necessary, but do not describe depression","0;1","0=No; 1=Yes",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""

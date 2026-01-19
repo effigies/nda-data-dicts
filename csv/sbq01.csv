@@ -28,7 +28,7 @@
 "sbq_18","Integer","","Recommended","Received medical treatment due to suicide attempt in past 2 years?","1;2","1= Yes; 2= No",""
 "sbq_2a","Integer","","Recommended","In the past 3 months, have you thought about or attempted to kill yourself? (alternate scoring)","1::7","1=No, 2=It was just a passing thought, 3=I briefly considered it, but not seriously, 4=I thought about it and was somewhat serious, 5=I had a plan for killing myself, which I thought would work and seriously considered it, 6=I attempted to kill myself, but I do not think I really meant to die, 7=I attempted to kill myself, and I think I really hoped to die",""
 "sbq_att_life","Integer","","Recommended","How many times have you attempted to kill yourself in your lifetime?","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "sbq1_1","Integer","","Recommended","W1:Have you ever thought about or attempted to kill yourself?","0;1;99","0 = No; 1 = Yes; 99=No data",""
 "sbq2_1","Integer","","Recommended","W1:(IF YES) How often have you thought about killing yourself in the last 12 months? ","0::4;99","0=Never; 1=Rarely (1 time); 2=Sometimes (2 times); 3=Often (3-4 times); 4=Very Often (5 or more times); 99=No data",""
 "sbq3_1","Integer","","Recommended","W1:Have you ever told someone that you were going to commit suicide, or that you might do it?","0;1;99","0 = No; 1 = Yes; 99=No data",""

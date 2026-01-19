@@ -36,7 +36,7 @@
 "session_id","String","20","Recommended","session ID/screening ID","","","probreward_sittingid"
 "cbgroup","Integer","","Recommended","Counterbalancing Group","","","probreward_group"
 "aurora_device","Integer","","Recommended","Device Used","1 :: 6","1=iPad; 2=iPhone; 3=Tablet; 4=Android Smartphone; 5=Desktop; 6=Laptop","probreward_device"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","probreward_timepoint"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","probreward_timepoint"
 "probreward_accuracy","Float","","Recommended","Proportion Correct Responses Across All Trials","","",""
 "probreward_meanrtc","Float","","Recommended","Mean Reaction Time For All Correct Trials (ms)","","",""
 "probreward_medianrtc","Float","","Recommended","Median Reaction Time For All Correct Trials (ms)","","",""

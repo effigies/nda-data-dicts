@@ -156,4 +156,4 @@
 "bisq_18","Float","","Recommended","How much total time does your child spend sleeping during the DAY (between 8 in the morning and 7 in the evening) Hours","","",""
 "bisq_19","Integer","","Recommended","How much total time does your child spend sleeping during the DAY (between 8 in the morning and 7 in the evening) Minutes","","",""
 "bisq_20","Float","","Recommended","How long does it take to put your baby to sleep in the evening?","","Hours and Minutes combined into a decimal",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

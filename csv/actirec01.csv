@@ -45,7 +45,7 @@
 "act_end_day","String","10","Recommended","End day of the actigraphy recording","","",""
 "offwrist","Integer","","Recommended","Off wrist minutes: The number of minutes the participant did not have the wrist actigraph on during ''Duration''","","In minutes",""
 "percentoffwrist","Integer","","Recommended","Percentage of time Offwrist","0::100","Calculated by: Offwrist/Duration*100",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "avg_first_inbed_minutes","String","30","Recommended","Weekly average - First Minute that the participant was identified as being in-bed (but not necessarily asleep)","","24-hour time",""
 "avg_outbed_minutes","String","30","Recommended","Weekly average - First Minute that the participant was identified as being out-bed (but may have woken up prior to this)","","24-hour time",""
 "avg_onsetlat","Float","","Recommended","Weekly average - Onset Latency: The length of time it takes to transition of wakefulness to sleep","","In minutes",""

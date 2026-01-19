@@ -142,7 +142,7 @@
 "respond","Integer","","Recommended","Respondent","1::7;999","1 = Parent; 2 = Teacher; 3=Self; 4= Other; 5= Significant other; 6 = Parent 1; 7 = Parent 2; 999 = Not available",""
 "subjectkey_mother","GUID","","Recommended","The NDAR Global Unique Identifier (GUID) for subject's biological mother","NDAR*","",""
 "subjectkey_father","GUID","","Recommended","The NDAR Global Unique Identifier (GUID) for subject's biological father","NDAR*","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ccnes_2_2","Integer","","Recommended","When my teenager gets down because he/she has had a bad day, I usually: b. try to get him/her to think of good things that happened","1 :: 7;-99","1= Very Unlikely; 2= 2; 3= 3; 4= Medium; 5= 5; 6= 6; 7= Very Likely; -99= Missing Value",""
 "ccnes_2_3","Integer","","Recommended","When my teenager gets down because he/she has had a bad day, I usually: c. listen to him/her talk about his/her feelings","1 :: 7;-99","1= Very Unlikely; 2= 2; 3= 3; 4= Medium; 5= 5; 6= 6; 7= Very Likely; -99= Missing Value",""
 "ccnes_2_4","Integer","","Recommended","When my teenager gets down because he/she has had a bad day, I usually: d. become obviously uncomfortable when I see he/she is feeling down","1 :: 7;-99","1= Very Unlikely; 2= 2; 3= 3; 4= Medium; 5= 5; 6= 6; 7= Very Likely; -99= Missing Value",""

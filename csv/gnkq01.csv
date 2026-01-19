@@ -112,3 +112,4 @@
 "gnkq_5022_17","Integer","","Recommended","Have you taken a course that teaches nutrition knowledge?","1::3","1=Yes; 2=Currently; 3=No",""
 "gnkq_5022_accuracy","Integer","","Recommended","Total number of questions answered correctly","0::15","Total number of correct items (gnkq_5022_1 through gnkq_5022_15)",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"gnkq_5022_accuracy_excl_8","Integer","","Recommended","Total number of questions answered correctly (excluding gnkq_5022_8)","0::14","Count of correct answers from gnkq_5022_1-7 and gnkq_5022_9-15",""

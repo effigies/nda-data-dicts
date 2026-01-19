@@ -49,7 +49,7 @@
 "rmet036","Integer","","Recommended","Question 36","1::4","1=ashamed; 2=nervous; 3=suspicious; 4=indecisive","rmet_36"
 "rmet037","Float","","Recommended","Total score","0::36","","rmet_cvtotal,rmet_total"
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "comments","String","4000","Recommended","Comments about assessment","","","rmet_notes"
 "doa_futdt","String","20","Recommended","Future date entered (Assessment)","","","doa_rmet_futdt"

@@ -806,7 +806,7 @@ Axis II (Personality Disorders/Mental Retardation)","","DSM IV-TR diagnostic cod
 "a_comp_ps_a","Integer","","Recommended","Substance use","0;1; -7; 88;99","1 = Checked; 0 = Unchecked; -7=Refused ; 88 = Don't know ; 99 = Missing","scid5"
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","dx_rater"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","dx_notes"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ageonset","Integer","","Recommended","Age of onset","","",""
 "agefirsthosp","Integer","","Recommended","Age when first hospitalized","","",""
 "confidence_axis1","Integer","","Recommended","Axis-I diagnosis confident or possible","0;1","0=Confident;1=Possible",""

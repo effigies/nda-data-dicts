@@ -16,7 +16,7 @@
 "bvmt_tott","Integer","","Recommended","BVMT- Total Recall  T Score","0::100;-99;-98","0::100 = score range; -99 = participant did not show; -98 = participant showed but data was not collected",""
 "bvmt_delt","Integer","","Recommended","BVMT- Delayed Recall T Score","0::100;-99;-98","0::100 = score range; -99 = participant did not show; -98 = participant showed but data was not collected",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "bvmt_trial1_a","Integer","","Recommended","Brief Visuopatial Memory Test-Revised Trial 1 Figure A","0::2","0= Absent, not recognizable, incorrectly placed; 1= partial credit for accuracy/placement; 2= Accurately drawn/correctly placed",""
 "bvmt_trial1_b","Integer","","Recommended","Brief Visuopatial Memory Test-Revised Trial 1 Figure B","0::2","0= Absent, not recognizable, incorrectly placed; 1= partial credit for accuracy/placement; 2= Accurately drawn/correctly placed",""
 "bvmt_trial1_c","Integer","","Recommended","Brief Visuopatial Memory Test-Revised Trial 1 Figure C","0::2","0= Absent, not recognizable, incorrectly placed; 1= partial credit for accuracy/placement; 2= Accurately drawn/correctly placed",""

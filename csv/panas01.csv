@@ -120,7 +120,7 @@
 "panas_x_58","Integer","","Recommended","","Indicate to what extent you feel this way during the past weeks. Concentrating","1::5;99;88","1= very slightly or not at all; 2= a little; 3= moderately; 4= quite a bit; 5= extremely; 99= N/A ; 77= Refused ; 88= Missing","panasx59"
 "panas_x_59","Integer","","Recommended","","Indicate to what extent you feel this way during the past weeks. Dissatisfied with self ","1::5;99;88","1= very slightly or not at all; 2= a little; 3= moderately; 4= quite a bit; 5= extremely; 99= N/A ; 77= Refused ; 88= Missing","panas9,panasx60"
 "time_assess","String","20","Recommended","","Time of day the assessment was taken. Hour:minutes","","","time"
-"visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","pax_timepoint"
+"visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","pax_timepoint"
 "panas_nes1","Integer","","Recommended","","Basic Negative Emotion Scales: Fear Subscale Score","6::30","",""
 "panas_nes2","Integer","","Recommended","","Basic Negative Emotion Scales: Hostility Subscale Score","6::30","",""
 "panas_nes3","Integer","","Recommended","","Basic Negative Emotion Scales: Guilt Subscale Score","6::30","",""

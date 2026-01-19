@@ -42,7 +42,7 @@ anxious)? Did work or other activities less carefully than usual","1::5","1= All
 work or other regular daily activities as a result of your physical health?","1::5","1= All of the Time; 2=Most of the time; 3= Some of the time; 4 = A little of the time; 5= None of the time",""
 "sfea3b","Integer","","Recommended","During the past 4 weeks, how much of the time have you had any of the following problems with your
 work or other regular daily activities as a result of your physical health?","1::5","1= All of the Time; 2=Most of the time; 3= Some of the time; 4 = A little of the time; 5= None of the time",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","tpid,wave"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","tpid,wave"
 "bsln_mcs","Float","","Recommended","Baseline SF12 mental health score","","",""
 "mcs","Float","","Recommended","Computed SF12 Mental Health Score","","",""
 "chng_mcs","Float","","Recommended","Change from Baseline in SF12 Mental Health Score","","",""

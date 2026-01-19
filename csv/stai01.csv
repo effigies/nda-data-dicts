@@ -54,7 +54,7 @@
 "site","String","101","Recommended","Site","","Study Site",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","",""
 "stait1","Integer","","Recommended","I feel pleasant","1::4","1 = Almost never; 2 = Sometimes; 3 = Often; 4 = Almost always","stai_trait1_i,stait_21"
 "stait2","Integer","","Recommended","I feel nervous and restless","1::4; 99","1 = Almost never; 2 = Sometimes; 3 = Often; 4 = Almost always; 99=Prefer not to answer","stait_22"

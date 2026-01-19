@@ -42,4 +42,4 @@
 "oc_percentage","Float","","Recommended","What percentage of belongings are organized?","","Divide number of ""Yes""es/9 and multiply by 100",""
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","inta_interviewer,pi_staff"
 "demo_ct3_v2_other","String","30","Recommended","If other, enter the RELATIONSHIP they have with the child: ¿Si seleccionaste otro, cual es su relación con el niño(a)?:","","","inta_rela_oth"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

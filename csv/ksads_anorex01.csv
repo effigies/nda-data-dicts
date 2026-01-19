@@ -60,7 +60,7 @@
 "ksads_buli_freqt_2p","Integer","","Recommended","Bulimia Frequency Type Past Parent","1::3;-99;88;77","1=DSM 4 2x weekly; 2=DSM 5 1x weekly; -99=N/A ; 88=  Missing ; 77= Refused","k2sads_buli_freqt_2b,k2sads_buli_freqt_2c,k2sads_buli_freqt_2p,ksads_buli_freqt_2b,ksads_buli_freqt_2c"
 "site","String","101","Recommended","Site","","Study Site",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ksads_buli_method","String","50","Recommended","Describe Weight Loss Method","","",""
 "p21d","Integer","","Recommended","Bulimia Nervosa - Self evaluation is unduly influenced by body shape and weight","1;2","1=no;2=yes",""
 "ksads_eat_dur","Integer","","Recommended","Duration of Eating Disturbance (in weeks)","","",""

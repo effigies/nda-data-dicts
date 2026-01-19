@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "daysrz","Integer","","Recommended","days since randomization","","",""
 "pathway","Integer","","Recommended","step pathway","1::9","1=SCP; 2=AD-Acute Depression; 3=REFD-Refractory Dep; 4=RELP-Relapse Prevent; 5=Psy-AD-Psychosocial; 6=Psy-REL-Psychosocial; 7=Omega 3; 8=LiMRS; 9=PAD-Psychosocial",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "certcode","Integer","","Recommended","stepbd certification code","","",""
 "unablwrk","Integer","","Recommended","Beginning yesterday and going back 30 days, how many days out of the past 30 were you totally unable to work or carry out your normal activities","0::2;-7","0=0; 1=1; 2=greater than 1; -7=Refused",""
 "unablrsn","Integer","","Recommended","Was this due to your emotions, nerves, mental health or your use of alcohol or drugs","0;1;-7","0=No; 1=Yes; -7=Refused",""

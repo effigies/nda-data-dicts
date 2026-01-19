@@ -40,7 +40,7 @@
 "cesd_tf","Integer","","Recommended","Tired(fatigue) score","","items 7;16",""
 "cesd_ma","Integer","","Recommended","Movement(Agitation) score","","items 12;13",""
 "cesd_si","Integer","","Recommended","Suicidal ideation score","","items 14;15",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "version","String","20","Recommended","Version/code of assessment","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "cesdtotal16s","Integer","","Recommended","Number of CESDs with scores greater than 16 this patient has had throughout the course of the study","","",""
 "cesd10_tot","Integer","","Recommended","CESD 10-item Total Score","","",""

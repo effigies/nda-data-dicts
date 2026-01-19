@@ -30,7 +30,7 @@
 "acss_factor4","Integer","","Recommended","ACSS Factor 4; Reverse-scored items","0::20","",""
 "acss_total","Integer","","Required","ACSS Total","0::80;888;999","888= Not applicable; 999= Missing",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "acss_1","Integer","","Recommended","The fact that I am going to die does not affect me","0::6","0= Strongly disagree; 1= Disagree; 2= Somewhat disagree; 3= Neutral; 4= Somewhat agree; 5= Agree; 6= Strongly agree",""
 "acss_2","Integer","","Recommended","I am very much afraid to die","0::6","0= Strongly disagree; 1= Disagree; 2= Somewhat disagree; 3= Neutral; 4= Somewhat agree; 5= Agree; 6= Strongly agree",""
 "acss_3","Integer","","Recommended","It does not make me nervous when people talk about death","0::6","0= Strongly disagree; 1= Disagree; 2= Somewhat disagree; 3= Neutral; 4= Somewhat agree; 5= Agree; 6= Strongly agree",""

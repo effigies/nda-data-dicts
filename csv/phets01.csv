@@ -21,4 +21,4 @@
 "tt03","Integer","","Recommended","Reason Trial 2 not done:","0::3","0=Participant unable to walk due to disease progression; 1=Participant unable to walk due to recent injury; 2=Participant was too fatigued to complete trial; 3=Participant refused to complete trial",""
 "tt04","String","25","Recommended","Trial 1: Timed 25 foot walk","","",""
 "tt05","String","25","Recommended","Trial 2: Timed 25 foot walk","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

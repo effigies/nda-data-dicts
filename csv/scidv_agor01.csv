@@ -31,7 +31,7 @@
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "anxag_f50_agoraphobia","Integer","","Recommended","AGORAPHOBIA.  - past month; significance of agoraphobia","1 :: 4","1 = Absent;2 = Subthreshold;3 = Threshold;4 = Severe",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "sciddv_f49n","String","4000","Recommended","Agoraphobia: Criterion A Notes","","",""
 "sciddv_f49cnt","Integer","","Recommended","Agoraphobia: Criterion A Criterion A Symptom Count","","",""
 "sciddv_agora_b_cb02___f50a","Integer","","Recommended","Agoraphobia: Criterion B unable to escape","0;1","0= Unchecked; 1= Checked/Present ",""

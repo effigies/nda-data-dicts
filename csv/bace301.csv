@@ -37,7 +37,7 @@
 "bace_stigma","Integer","","Recommended","BACE Treatment Stigma Subscale Total Score","","",""
 "bace_instrumental","Integer","","Recommended","BACE Instrumental Subscale Total Score","","",""
 "bace_attitudinal","Integer","","Recommended","BACE Attitudinal Subscale Total Score","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "barrier01","Integer","","Recommended","Barrier to care - There are financial reasons","0;1","0 = No/Not Endorsed; 1 = Yes/Endorsed",""
 "barrier02","Integer","","Recommended","Barrier to care - The location is inconvenient","0;1","0 = No/Not Endorsed; 1 = Yes/Endorsed",""
 "barrier03","Integer","","Recommended","Barrier to care - The hours are inconvenient","0;1","0 = No/Not Endorsed; 1 = Yes/Endorsed",""

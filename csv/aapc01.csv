@@ -35,4 +35,4 @@
 "aapc_ts","Integer","","Required","AAPC total score","","",""
 "tr_class","String","100","Recommended","In which class/subject do you teach this student:","","",""
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","pi_staff"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

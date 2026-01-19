@@ -26,7 +26,7 @@
 "mind_a_2","Integer","","Recommended","In the past 7 days, I allowed myself to be open to my experiences rather than trying to control them","1::5;-9","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much; -9=Missing",""
 "mind_a_3","Integer","","Recommended","In the past 7 days, I experienced my thoughts, emotions and sensations as they were","1::5;-9","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much; -9=Missing",""
 "mind_a_4","Integer","","Recommended","In the past 7 days, I found myself approaching experiences, even difficult ones, with a sense of acceptance","1::5;-9","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much; -9=Missing",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "mind_sk_1","Integer","","Recommended","In the past 7 days, I was kind to myself when things went wrong","1::5;-9","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much; -9=Missing",""
 "mind_sk_2","Integer","","Recommended","In the past 7 days, I took time to care for my mind and body","1::5;-9","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much; -9=Missing",""
 "mind_sk_3","Integer","","Recommended","In the past 7 days, I was kind to myself after noticing self-judgment","1::5;-9","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much; -9=Missing",""

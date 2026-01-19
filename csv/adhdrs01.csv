@@ -81,7 +81,7 @@
 "adhdrs_ha_29","Integer","","Recommended","Controlling behavior in school","0::3","0= No problem; 1= Minor problem; 2= Moderate problem; 3= Severe problem",""
 "adhdrs_ha_30","Integer","","Recommended","Feeling good about himself/herself","0::3","0= No problem; 1= Minor problem; 2= Moderate problem; 3= Severe problem",""
 "year_mta","Integer","","Recommended","Year in study","","","visit_year,visit_year"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "t_c_adhdrs_cdsx","Integer","","Recommended","Number of conduct disorder symptoms","","",""
 "t_c_adhdrs_oddsx","Integer","","Recommended","Number of oppositional defiant disorder symptoms","","",""
 "adhd_pastwk_8","Integer","","Recommended","(Past Week) Is easily distracted by extraneous (outside) stimuli","0 :: 3","0=Never or Rarely; 1=Sometimes; 2-Often; 3= Very Often",""

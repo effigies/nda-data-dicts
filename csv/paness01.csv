@@ -78,4 +78,4 @@
 "pan_tics","Integer","","Recommended","Any notes regarding observed tics (or likely/possible tics)?","0;1","0 = No; 1 = Yes",""
 "pan_dystonia","Integer","","Recommended","Any evidence of dystonia noted?","0;1","0 = No; 1 = Yes",""
 "pan_hemiparetic","Integer","","Recommended","Any hemiparetic postures?","0;1","0 = No; 1 = Yes",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

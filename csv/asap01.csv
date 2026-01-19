@@ -90,7 +90,7 @@
 "globs16","Integer","","Recommended","Post-ASAP suicidal risk assessment: stressor/precipitant present","0::4","1 = Low; 2 = Medium; 3 = High; 4 = Very high; 0=none",""
 "globs17","Integer","","Recommended","Post-ASAP suicidal risk assessment: safekeeping at home","0::4","1 = Low; 2 = Medium; 3 = High; 4 = Very high; 0=none","asaps18"
 "globs18","Integer","","Recommended","Post-ASAP suicidal risk assessment: likelihood of adherence to the no-suicide contract","0::4","1 = Low; 2 = Medium; 3 = High; 4 = Very high; 0=none","asaps19"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timept"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","timept"
 "dayasap","Integer","","Recommended","Study day of ASAP","","",""
 "asapby1","Integer","","Recommended","Staff Type 1","0::5","0 = IE (Independent Evaluator);1 = PT (Pharmacotherapist);2 = CBT (Cognitive Behavioral Therapist);3 = MD (Medical Doctor);4 = PI (Principal Investigator);5 = SC (Steering Committee)      ",""
 "asapby2","Integer","","Recommended","Staff Type 2","0::5","0 = IE (Independent Evaluator);1 = PT (Pharmacotherapist);2 = CBT (Cognitive Behavioral Therapist);3 = MD (Medical Doctor);4 = PI (Principal Investigator);5 = SC (Steering Committee)      ",""

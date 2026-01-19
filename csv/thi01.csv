@@ -617,7 +617,7 @@
 "thifu_c4_noresp","Integer","","Recommended","Other response self-help or support groups outside of inpatient or residential program since the last interview","999","999= No Response/unable to estimate/I don''t know",""
 "thifu_d1","Integer","","Recommended","Since the last interview, have you started taking new medications or if you were previously taking prescribed medications for mental health or substance use concerns, have there been any changes to those medications?","0;1;999","0= No; 1= Yes; 999= No Response/I don''t know",""
 "thib_a17_count","Integer","","Recommended","How many times in your life have you been treated in a residential treatment facility for mental health or substance use reasons?","","999= No Response/I don''t know/unable to estimate",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "thib_b1","Integer","","Recommended","Have you ever, in your life, received mental health or substance use treatment in an intensive outpatient or partial hospitalization setting?","0;1;999","0= No; 1= Yes; 999= No Response/I don''t know",""
 "thib_b1_year","Integer","","Recommended","Have you ever received mental health or substance use treatment in an intensive outpatient or partial hospitalization setting? (past year)","0;1;999","0= No; 1= Yes; 999= No Response/I don''t know",""
 "thib_b2_count","Integer","","Recommended","How many times have you received mental health or substance use treatment in an intensive outpatient or partial hospitalization setting in the past year?","","999= No Response/I don''t know/unable to estimate",""

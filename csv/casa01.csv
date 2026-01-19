@@ -301,7 +301,7 @@
 "casa21y","Integer","","Recommended","Number of days admitted to hospital for medical reasons (past 6 months)","","",""
 "specialg","Integer","","Recommended","General Services Use: Specialist","0;2","0 = No visit to specialist; 2 = One or more visits to a specialist","special"
 "respond_detail_oth_spec","String","255","Recommended","Respondent details","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "site","String","101","Recommended","Site","","Study Site",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
 "btaa3","Float","","Recommended","Length of session (minutes)","","999=Legitmately skipped",""

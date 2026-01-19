@@ -227,7 +227,7 @@ hospitalized for a psychiatric problem or a nervous breakdown?","0;1;9","0=No;1=
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "site","String","101","Recommended","Site","","Study Site","siteid"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visitnum"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visitnum"
 "prevlifemedhist","Float","","Recommended","Lifetime Total Exposure","","Total Lifetime Exposure Measure of Anti-Psychiatric Drugs, measured in grams",""
 "frstpsychdt","Date","","Recommended","Date of the subject�s first episode of psychosis?","","MM/DD/YYYY",""
 "psychtrtdt","Date","","Recommended","Date of first treatment for Psychosis?","","MM/DD/YYYY",""

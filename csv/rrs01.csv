@@ -30,7 +30,7 @@
 "rrs_d","Integer","","Recommended","Depression-Related score","12 :: 48; 9999","sum(1,2,3,4,6,8,9,14,17,18,19,22); 9999=NA/missing","rs_d"
 "rrs_r","Integer","","Recommended","Reflection score","5 :: 20; 9999","sum(,7,11,12,20,21); 9999=NA/missing","rrs10_rscore,rs_r"
 "rrs_total","Integer","","Required","Rumination total score","0::88;9999","9999=NA/missing","rrs_sum,rs_total"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","severity_totscore"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","severity_totscore"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "rsq_q67","Integer","","Recommended","Listen to sad music./S. I listen to sad music","1::4; -99;77;88","1=Almost never; 2=Sometimes; 3=Often; 4=Almost always; -99= N/A ; 77= Refused ; 88= Missing","rsq_20,rsq_d20"
 "rsq_q68","Integer","","Recommended","Isolate yourself and think about the reasons why you feel sad./S. I stay away from others and think about the reasons why I feel upset","1::4; -99;77;88","1=Almost never; 2=Sometimes; 3=Often; 4=Almost always; -99= N/A ; 77= Refused ; 88= Missing","rsq_21,rsq_d21"

@@ -128,7 +128,7 @@
 "t_defens","Integer","","Recommended","T-Score for Defensiveness subscale using imputed values.","12::124","If the Informant is missing or is equal to Other, then T_DEFENS is missing.",""
 "overall","Integer","","Recommended","Overall Rating  Average T-Score for all subscales except Social Desirability and Defensiveness using imputed values.","12::124","Derivation Logic: integer value above average of T_TASKAC, T_ROLEP, T_COMM, T_AFFEXP, T_INVOLV, T_CONTRL, T_VALUES",""
 "controlsubsc","Integer","","Recommended","Control subscale using imputed values","0::15","Items included in score: FAM7, FAM17, FAM27, FAM37, FAM47","control"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timept"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","timept"
 "bsimo","Float","","Recommended","Months from Time 0 to assessment","","","fammo"
 "bsistm","Float","","Recommended","Months from SOFTAD enrollment date to assessment","","","famstm"
 "bfam_totalscore","Integer","","Required","BFAM Total Score","0::42; 999","Sum of items 1-14",""

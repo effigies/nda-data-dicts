@@ -108,7 +108,7 @@
 "glad_8pt","Integer","","Recommended","Glad Mood Rating","1::8","1=Very Little or Not at All; 8=Very Much or Extremely",""
 "happy_8pt","Integer","","Recommended","Happy Mood Rating","1::8","1=Very Little or Not at All; 8=Very Much or Extremely",""
 "angry_8pt","Integer","","Recommended","Angry Mood Rating","1::8","1=Very Little or Not at All; 8=Very Much or Extremely",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "taskid01","Integer","","Recommended","ID of the task","","See protocol documentation for epoch definitions",""
 "nervous_8pt","Integer","","Recommended","Nervous Mood Rating","1::8","1=Very Little or Not at All; 8=Very Much or Extremely",""
 "frustrated_8pt","Integer","","Recommended","Frustrated Mood Rating","1::8","1=Very Little or Not at All; 8=Very Much or Extremely",""

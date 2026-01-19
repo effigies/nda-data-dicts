@@ -7,7 +7,7 @@
 "cl_001","Integer","","Recommended","How motivated are you to quit drinking","0::10","0 = Not at all motivated; 10 = Extremely motivated",""
 "cl_02","Integer","","Recommended","When thinking about quitting drinking, indicate where you are now","0::10","0 = No thought of quitting; 5 = Think I should quit but not quite ready; 10 = Taking action to quit (e.g., setting a quit date)",""
 "stime","String","20","Recommended","Session time","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "drgyn","Integer","","Recommended","Do you use other drugs (e.g., marijuana, opiates, cocaine, non-prescription pills, etc.)?","0;1","0= No;1= Yes",""
 "cl_001_drugs","Integer","","Recommended","How motivated are you to quit using other drugs?","1::10","1=Not at all motivated; 10=Extremely motivated",""
 "cl_02_drugs","Integer","","Recommended","When thinking about quitting other drugs, indicate where you are now:","1::10","1= No thought of quitting;5=Think I should quit but not quite ready;10=Taking action to quit (e.g., setting a quit date)",""

@@ -40,7 +40,7 @@
 "pds_n","Integer","","Recommended","","Number of present PDS scoring items ","","",""
 "pds_sum","Integer","","Recommended","","Total PDS Score","","","pds_pr_score,pds_sub_score"
 "pds_ave","Float","","Recommended","","Average PDS Score","","",""
-"visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","eventname,stais_visit,timepoint"
+"visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","eventname,stais_visit,timepoint"
 "visday","Integer","","Recommended","","Number of days from study baseline to date of visit","","",""
 "pds_7b_pv","Integer","","Recommended","","Do you think your/your child's development is any earlier or later than most boys/girls your/his/her age?","1::5; 999","1=much earlier; 2=somewhat earlier; 3=about the same; 4=somewhat later; 5=much later","amd,pds_6b,pds_mphdev,pds_sub_10,peterson_male_development,pmd"
 "imputation","Integer","","Recommended","","Indicator noting imputed data set number ","1::20","",""

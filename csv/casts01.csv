@@ -22,7 +22,7 @@
 "cast_16","Integer","","Recommended","16.  I find people get on my nerves easily.","0::5","0=Strongly disagree; 1=Disagree; 2=Neither agree nor disagree; 3=Agree; 4=Strongly agree; 5=Not Done","castsr16,nerves"
 "cast_17","Integer","","Recommended","17.  I have been having lots of great ideas.","0::5","0=Strongly disagree; 1=Disagree; 2=Neither agree nor disagree; 3=Agree; 4=Strongly agree; 5=Not Done","castsr17,ideas"
 "cast_score_total","Float","","Recommended","Total Score","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visit_name"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visit_name"
 "site","String","101","Recommended","Site","","Study Site","site_uid"
 "dsmvers","String","10","Recommended","version/name of assessment","","","form_name"
 "date_updated","Date","","Recommended","Date record updated","","","edit_date"

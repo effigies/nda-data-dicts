@@ -63,4 +63,4 @@
 "child_depress27","Integer","","Recommended","Past Two Weeks - Item 27","0 :: 2;  -99; 77; 88","0 = I get along with people; 1 = I get into fights many times; 2 = I get into fights all the time; -99= N/A ; 77= Refused ; 88= Missing",""
 "year_mta","Integer","","Recommended","Year in study","","","visit_year,visit_year�"
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

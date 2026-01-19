@@ -5,7 +5,7 @@
 "interview_date","Date","","Recommended","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Recommended","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "ageyears","Integer","","Recommended","Age in years","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "version","String","20","Recommended","Version/code of assessment","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "a1moar1","Integer","","Recommended","Exercise: (1) Activity code, top 3 activities, number of months per year, 12-18 years","1::3","1=1-4 months/year; 2=5-8 months/year; 3= 9-12 months/year",""
 "a1moar2","Integer","","Recommended","Exercise: (1) Activity code, top 3 activities, number of months per year, 19-34 years","1::3","1=1-4 months/year; 2=5-8 months/year; 3= 9-12 months/year",""

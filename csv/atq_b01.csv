@@ -67,7 +67,7 @@
 "atq_b_ftotal","Integer","","Recommended","Total score for ATQ-B Frequency","","",""
 "atq_b_btotal","Integer","","Recommended","Total score for ATQ-B Degree of belief","","",""
 "atq_negtotal","Integer","","Recommended","ATQ negative subscale total score","","","severity_totscore"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "atq_q2","Integer","","Recommended","I am respected by my peers","1::5","1 = Never; 2 = Once or Twice; 3 = Sometimes; 4 = Frequently; 5 = All the time",""

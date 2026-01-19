@@ -77,7 +77,7 @@
 "na_14","Integer","","Recommended","I am easily disturbed by events ","1::5","1=disagree strongly ;2= disagree some ;3=neither agree nor disagree ;4= agree some ;5=agree strongly",""
 "na_17","Integer","","Recommended","I do NOT worry about things that have already happened","1::5","5=disagree strongly ;4= disagree some ;3=neither agree nor disagree ;2= agree some ;1=agree strongly",""
 "dn_score","Float","","Recommended","Mean of items contributing to Neuroticism Mean and Anxiety Mean","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","pax_timepoint"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","pax_timepoint"
 "neo_1","Integer","","Recommended","Worry about things.","1::5","1 = Disagree strongly; 2 = Disagree a little; 3 = Neither agree nor disagree;  4 = Agree a little; 5 = Strongly agree","na_10"
 "neo_91","Integer","","Recommended","Get stressed out easily.","1::5","1 = Disagree strongly; 2 = Disagree a little; 3 = Neither agree nor disagree;  4 = Agree a little; 5 = Strongly agree","na_15"
 "mini_ipip_9","Integer","","Recommended","Am relaxed most of the time","1::5; 9999","5= Very Inaccurate; 4= Moderately Inaccurate; 3= Neither Inaccurate or Accurate; 2= Moderately Accurate; 1= Very Accurate; 9999= no data","na_9"

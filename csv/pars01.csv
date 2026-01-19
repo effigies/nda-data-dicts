@@ -191,7 +191,7 @@
 "severity_7","Integer","","Required","Interference with peer and adult relationships and/or performance outside of the home","8;9;0;1;2;3;4;5","0 = No symptoms; 1 = 1 symptom; 2 = 2-3 symptoms; 3 = 4-6 symptoms; 4 = 7-10 symptoms; 5 = More than 10 symptoms; 8 = Not applicable; 9 = Does not know","pars_clinician_severity_7,parss7,parss7p,parss7s"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "severity_totscr","Integer","","Recommended","PARS Total Score","","","pars_total_allitems,parstotc,parstoti,parstotp"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","car_interval"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","car_interval"
 "imputation","Integer","","Recommended","Indicator noting imputed data set number ","1::20","",""
 "car_q28spec","String","35","Recommended","Animal Specify","","","pars_clinician_phobia_animal_specify"
 "car_q29spec","String","35","Recommended","Natural environment Specify","","","pars_clinician_phobia_natural_envt_specify"

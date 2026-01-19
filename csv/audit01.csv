@@ -20,7 +20,7 @@
 "au1","Integer","","Recommended","Thinking about the past 6 months, how often do you have a drink containing alcohol?","0::4","0 = never; 1 = monthly or less; 2 = 2 to 4 times a month; 3 = 2 or 3 times a week; 4 = 4 or more times a week","audit01_6mo"
 "au2","Integer","","Recommended","How many drinks containing alcohol do you have on a typical day when you are drinking? By ""a drink,"" I mean a can of beer, a glass of wine, or a shot of hard liquor.","","",""
 "au3","Integer","","Recommended","Thinking about the last 6 months, how often do you have six or more drinks on one occasion?","0::4","0 = never; 1 = less than monthly; 2 = monthly; 3 = weekly; 4 = daily or almost daily","audit03_6mo,audit_3"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","audit12_date,pax_timepoint,wave"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","audit12_date,pax_timepoint,wave"
 "days_baseline","Integer","","Recommended","Days since baseline","","","lof"
 "interv","Integer","","Recommended","Intervention Status","0;1","1=ITV, intervention; 0=TAU, treatment as usual",""
 "alcq","Integer","","Recommended","Sum of Alcohol Use Items","","","audit_score,audit_sum,audit_sum_score,audit_total,audittot_t1,audittot_t2,audittot_t3,audittot_t4,record_the_total_of_spe,record_the_total_of_specif"
@@ -407,3 +407,4 @@
 "opal_auditcpos","Integer","","Recommended","Is participant AUDIT-C positive? (For males, AUDIT-C score is 4 or greater; for females, AUDIT-C score is 3 or greater)","0;1","0=No; 1=Yes",""
 "opal_lasttimedrink","Integer","","Recommended","When is the last time you had a drink of alcohol? Specify number of days","","Number of days since last drink; -2=I don't remember",""
 "audc_2","Integer","","Recommended","How many standard drinks containing alcohol do you have on a typical day?","0::4;99","0= 1 or 2; 1= 3 to 4; 2= 5 to 6; 3= 7 to 9; 4= 10 or more;99= Missing",""
+"vape_brand_alt","Integer","","Recommended","The next questions ask about any e-cigarettes or vaping you may have engaged in in your lifetime. Please indicate which e-cigarette or vaping brand you use/used the most (expanded answer choices).","1::10","1= JUUL; 2= V2; 3= VaporFi; 4= Other; 5 = IGET; 6 = HQD; 7 = BIMO; 8 = Alibarbar; 9 = WAKA; 10 = Kuz",""

@@ -102,4 +102,4 @@
 "trstface_avgabsadj_neg","Float","","Recommended","TrstFace: mean of lower half valences absolute values of Adolph adjusted scores","","mean of absolute values of adjusted scores of slide #s: 2, 3, 4, 5, 8, 9,  11, 12, 13, 16, 18, 20, 21, 23, 24,  25, 29, 35, 38, 39, 40",""
 "trstface_avgabsadj_pos","Float","","Recommended","TrstFace: mean of higher half valences absolute values of Adolph adjusted scores","","mean of absolute values of adjusted scores of slide #s: 1, 6, 7, 10, 14, 15, 17, 19, 22, 26, 27, 28, 30, 31, 32, 33, 34, 36, 37, 41, 42",""
 "size","String","101","Recommended","","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

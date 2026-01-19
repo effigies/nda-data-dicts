@@ -64,7 +64,7 @@
 "fmri_totvisit_time","String","100","Recommended","Total Visit time (not including setup)","","",""
 "fmri_notes","String","4000","Recommended","Notes about Overall Scan Session","","",""
 "fmri_equipment_issues","String","4000","Recommended","Please describe if there were any equipment issues:","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "chat_3a","Integer","","Recommended","How happy did you feel when the other participant was chosen?","1::10","1=Not at all happy; 10=Extremely happy",""
 "chat_3b","Integer","","Recommended","How sad did you feel when the other participant was chosen?","1::10","1=Not at all sad; 10=Extremely sad",""
 "chat_3c","Integer","","Recommended","How nervous did you feel when the other participant was chosen?","1::10","1=Not at all nervous; 10=Extremely nervous",""

@@ -366,7 +366,7 @@ treatment (e.g., stopped early) but received medication for at least 80% of the 
 "bhs_5b","Integer","","Recommended","Baby's problems during birth and hospital stay: Cardiac/heart problem","0;1;-9","0=No; 1=Yes; -9=Unknown",""
 "bhs_5i1","String","500","Recommended","Describe other problems at birth","","",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "a_acad_degree_seek","Integer","","Recommended","5. What degree(s) have you been seeking from these school(s)/program(s)?","1::4","1 =  Bachelors ; 2 =  Associates ; 3 =  Masters ; 4 =  Other",""
 "a_acad_degree_other","String","100","Recommended","If other, please specify:","","",""
 "a_acad_part_or_full","Integer","","Recommended","6. For the most recent school year, were you primarily a part-time or full-time student?","1;2","1 =  Part-time ; 2 =  Full-time",""

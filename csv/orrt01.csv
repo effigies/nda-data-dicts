@@ -322,7 +322,7 @@
 "tlbx_readcount","Integer","","Recommended","English Reading Number of items","","","engreadcount,nihtbx_reading_itmcnt,tcb_read_item"
 "tlbx_readncorr","Integer","","Recommended","English Reading Number Correct","","","engreadncorr"
 "accult_select_language","Integer","","Recommended","Test given in Spanish? ¿Español?","0 ; 1","0 = No; 1 = Yes","nihtbx_reading_language"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","eventname"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","eventname"
 "wcst_ni","Integer","","Recommended","Number of Items","","","itmcnt,nihtbx_reading_itmcnt"
 "tbx_comsc","Float","","Recommended","Computed score","","","nihtbx_demo_rescore_computedengread,nihtbx_reading_computedscore,nihtbx_reading_cs"
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""

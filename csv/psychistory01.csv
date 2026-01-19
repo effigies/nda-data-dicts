@@ -23,6 +23,6 @@
 "trtgrp_p","Integer","","Recommended","Treatment Group","1;2","1=Long-Acting Injectable Risperidone Microspheres; 2=Second Generation Oral Antipsychotic Medication",""
 "days_visit1","Integer","","Recommended","Days from Visit 1","","","dav1dhs"
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","vtypdhs"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","vtypdhs"
 "site","String","101","Recommended","Site","","Study Site",""
 "age_1st_hosp","Integer","","Recommended","Age at first psychiatric hospitalization (years)","","","age_hosp"

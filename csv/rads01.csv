@@ -85,4 +85,4 @@
 "radsprit_st4","Float","","Recommended","Predicted RADS total scores based on random coefficient regression model results  4 arm ITT Population for Gate C1 through Stage 4","","",""
 "radspit3_st4","Float","","Recommended","Predicted RADS total scores based on random coefficient regression model results  3 arm ITT Population for Gate C1 through Stage 4","","",""
 "daysrz","Integer","","Recommended","days since randomization","","","ntime"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

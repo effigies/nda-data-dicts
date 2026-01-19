@@ -313,6 +313,6 @@
 "cam22_start5","Float","","Recommended","Experienced any other traumatic or severely stressful event which had a big impact on your life or personality- For the fifth time, how old were you when it started?","","Age in years",""
 "cam22_end5","Float","","Recommended","Experienced any other traumatic or severely stressful event which had a big impact on your life or personality- For the fifth time, how old were you when it ended?","","Age in years",""
 "cam_tot","Float","","Recommended","Total Score","","Comprehensive Adversity Measure Total Score- total number of yes responses for yes/no score. 1 for yes, 0 for no. Tscore should range between 0-22.",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "cam_sev","Float","","Recommended","Severity Score","","Comprehensive Adversity Measure- Total of scores provided for each ''How traumatic was this experience?'' question- 1=Not at all traumatic; 7=Extremely traumatic",""

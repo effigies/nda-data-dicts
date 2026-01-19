@@ -25,4 +25,4 @@
 "acs19","Integer","","Recommended","It is easy for me to alternate between two different tasks.","1 :: 4","1= Almost never; 2= Sometimes; 3= Often; 4= Always","atq19"
 "acs20","Integer","","Recommended","It is hard for me to break from one way of thinking about something and look at it from another point of view.","1 :: 4","4= Almost never; 3= Sometimes; 2= Often; 1= Always","atq20"
 "acs_total","Integer","","Required","Attention control scale total score","","999 = Missing",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

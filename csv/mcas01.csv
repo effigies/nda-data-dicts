@@ -24,4 +24,4 @@
 "mcas_total","Integer","","Recommended","MCAS Total Score","","",""
 "groups","Integer","","Recommended","Group","0;1","0=Control; 1=Case",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

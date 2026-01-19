@@ -24,7 +24,7 @@
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","erq_interviewer"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","erq_comments"
 "dode","String","10","Recommended","Date of Data Entry","","","erq_entered"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "erq_si0","String","500","Recommended","What are emotions associated with thoughts that life is not worth living, you wish you were dead, or thoughts of killing yourself?","","",""
 "erq_si1","Integer","","Recommended","When I have suicide-related emotions and I want to feel more positive emotions such as joy or amusement, I change what I'm thinking about","1::7","1=Strongly Disagree;4=Neutral;7=Strongly Agree",""
 "erq_si2","Integer","","Recommended","I keep my suicide-related emotions to myself","1::7","1=Strongly Disagree;4=Neutral;7=Strongly Agree",""

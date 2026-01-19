@@ -24,4 +24,4 @@
 "chrnsipr_asociality_domain","Float","","Recommended","Asociality (NSI-PR)","0::5;-900;-300","-900 = Missing; -300 = N/A; (chrnsipr_item3 + chrnsipr_item4 + chrnsipr_item5)/3",""
 "chrnsipr_anhedonia_domain","Float","","Recommended","Anhedonia (NSI-PR)","0::5;-900;-300","-900 = Missing; -300 = N/A; (chrnsipr_item6 + chrnsipr_item7)/2",""
 "chrnsipr_blunted_affect_domain","Float","","Recommended","Blunted Affect (NSI-PR)","0::5;-900;-300","-900 = Missing; -300 = N/A; (chrnsipr_item8 + chrnsipr_item9 + chrnsipr_item10)/3",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

@@ -134,7 +134,7 @@
 "eatq103","Integer","","Recommended","I prefer friends who are exciting and unpredictable","1::5;-99;77;88","1= Almost always untrue ; 2= Usually untrue ; 3= Sometimes true, sometimes untrue ; 4= Usually true ; 5= Almost always true ; -99= N/A ; 77= Refused ; 88= Missing",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
 "year_mta","Integer","","Recommended","Year in study","","","visit_year,visit_year�"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "eatq_p_ss_attention_nm","Integer","","Recommended","Parent attention number missing","","",""
 "eatq_p_ss_contl_sup","Float","","Recommended","Super Scale Effortful Control Sum Score  Validation: All three scores calculated","","",""
 "eatq_p_ss_contl_sup_nm","Integer","","Recommended","Super Scale Effortful Control Sum Score Number Missing","","",""

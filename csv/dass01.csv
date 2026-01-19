@@ -51,7 +51,7 @@
 "dass_42","Integer","","Recommended","I just couldn't seem to get going","0::3; 999; 99","0=Did not apply to me at all -NEVER; 1=Applied to me to some degree, or some of the time SOMETIMES; 2=Applied to me to a considerable degree, or a good part of time -OFTEN; 3=Applied to me very much, or most of the time ALMOST ALWAYS; 999=not answered/missing; 99=N/A","dass5,dass_5a"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits","visit_number"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "qc_dass_dep_num_items","Integer","","Recommended","Quality Control (QC) DASS Depression subscale Total number of items","","",""
 "qc_dass_dep_num_nonresp","Integer","","Recommended","Quality Control (QC) DASS Depression subscale number of non-response items","","",""
 "qc_dass_anx_num_items","Integer","","Recommended","Quality Control (QC) DASS Anxiety subscale Total number of items","","",""

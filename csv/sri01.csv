@@ -17,7 +17,7 @@
 "sri_ts","Float","","Recommended","Sleep Impairment T-score","","","promis_sf_v10_sleeprelated_impairment_8a_tscore"
 "sri_rs","Integer","","Recommended","Sleep Impairment  rawscore","","","impairment_score,prom_sleep_rs"
 "sri_se","Float","","Recommended","Sleep Impairment standard error","","","promis_sf_v10_sleeprelated_impairment_8a_std_error"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","tpid"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","tpid"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","formid"
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing","timepoint"
 "site","String","101","Recommended","Site","","Study Site","siteid"

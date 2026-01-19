@@ -156,7 +156,7 @@
 "mediaq3e","Integer","","Recommended","Have you set restrictions for the types of video games your child plays?","0;1","0=No; 1=Yes",""
 "mediaq3f","Integer","","Recommended","Have you set restrictions for the music your child listens to?","0;1","0=No; 1=Yes",""
 "mediaq3g","Integer","","Recommended","Have you set restrictions for the websites your child visits online?","0;1","0=No; 1=Yes",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "mediaq3h","Integer","","Recommended","Have you set restrictions for what your child looks at on social media (like Facebook, Twitter, Instagram)?","0;1","0=No; 1=Yes",""
 "mediaq3i","Integer","","Recommended","Have you set restrictions for what your child posts on social media (like Facebook, Twitter, Instagram)?","0;1","0=No; 1=Yes",""
 "mediaq4","Integer","","Recommended","Compared to the restrictions that other parents set, are the restrictions you set for your child''s media use more or less strict?","1::5","1=Much more strict; 2=A little more strict; 3=About the same strictness; 4=A little less strict; 5=A lot less strict",""

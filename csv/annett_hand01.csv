@@ -20,7 +20,7 @@
 "elig_inclusion_check","Integer","","Recommended","Checks for a pass/fail on Elig for Inclusion","0::3","0=Failed (Ineligible); 1=Passed (Eligible); 2=In screening; 3=NA",""
 "dataquality","Integer","","Recommended","Data quality","0::5","0=No data (cancelled); 1=Data entered but only once, has missing data; 2=Data entered but only once, no missing data; 3=Double entered; 4=Data frozen for cleaning; 5=Data clean/locked",""
 "visit_name","String","20","Recommended","session ID/screening ID","","","visitnumber"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visitlabel"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visitlabel"
 "subjecttype","String","20","Recommended","Subject Type","Control;Prodromal; Enhanced; Non-Enhanced","",""
 "q08_broom","String","1","Recommended","Had use to: Broom","l;r;m","l = Left; r = Right; m=Mixed (either)","bhi_broom,hand_sweep,q4-sweep"
 "ca254","Integer","","Recommended","Which hand do you prefer to use for cutting with scissors?","1::3","1=Right; 2=Left; 3=Either","bhi_scissor,hand_scissors,q7-holdscissors"

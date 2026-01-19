@@ -36,7 +36,7 @@
 "addsev30","Float","","Recommended","Drug problem severity","","Severity score: 1 = Not at all;2 = Slightly;3 = Moderately;4 = Considerably;5 = Extremely","meanAS67"
 "site","String","101","Recommended","Site","","Study Site",""
 "days_baseline","Integer","","Recommended","Days since baseline","","","asdays"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timept"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","timept"
 "alc_30day_freqcode","Integer","","Recommended","Think specifically about the past 30 days, from [DATEFILL], up to and including today. During the past 30 days, on how many days did you drink one or more drinks of an alcoholic beverage? PX030301_Alcohol_30Day_Frequency_Coded","","97=Refused;99=Don't know; -99 = Not answered","asia1,asid1"
 "psysoc_94","Integer","","Recommended","Alcohol Lifetime - any use (Years)","0::9999; -99","-99 = Not answered","asid1b"
 "surq_1e","Integer","","Recommended","In the past 30, what is your best estimate for the number of days you got drunk or ""very, very high"" on alcohol","","-99 = Not answered","asid2"

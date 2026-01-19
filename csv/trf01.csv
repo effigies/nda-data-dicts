@@ -296,7 +296,7 @@
 "daysrz","Integer","","Recommended","days since randomization","","",""
 "resp_sex","Integer","","Recommended","gender of respondent","1;2","1=Male; 2=Female",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","eventname"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","eventname"
 "trs7_1d","String","100","Recommended","Specify current school performance in academic subject 1","","",""
 "trs7_2d","String","100","Recommended","Specify current school performance in academic subject 2","","",""
 "trs7_3d","String","100","Recommended","Specify current school performance in academic subject 3","","",""

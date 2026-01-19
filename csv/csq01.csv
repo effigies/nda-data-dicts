@@ -36,7 +36,7 @@
 "bassum","Integer","","Recommended","Sum Total of Items 2  22","","",""
 "bastot","Integer","","Recommended","CSQ Total Score","","",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","","nfbas_d"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","fmbd_interval"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","fmbd_interval"
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","fmbd_visitdat_x"
 "bas1","Integer","","Recommended","Do you feel that your child's problems have affected your family life?","0;1","0=No; 1=Yes",""
 "imputation","Integer","","Recommended","Indicator noting imputed data set number ","1::20","",""

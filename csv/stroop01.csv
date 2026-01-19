@@ -5,7 +5,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","sessiondate,stroop_date"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "group_tr","Integer","","Recommended","treatment or control group","1::3","1=neurocognitive rehab; 2=Control therapy; 3=control no treatment group",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ctask","Float","","Recommended","Total time in seconds to complete colour task","","",""
 "ctaskc","Integer","","Recommended","Colour task: total no. of correct responses (max. =112) given unlimited time","","",""
 "cerror","Integer","","Recommended","Colour task: total number of incorrect responses given unlimited time","","",""

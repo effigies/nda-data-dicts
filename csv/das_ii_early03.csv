@@ -907,7 +907,7 @@
 "specialnvqualdes","Integer","","Recommended","Special Nonverbal Qualitative Description","1::7; 999","1=Very low; 2=Low; 3=Below average; 4=Average; 5=Above average; 6=High; 7=Very high; 999=Unknown","specialnonverbalqualitativedes"
 "patterncontructage","Integer","","Recommended","Alternative Pattern Construction age equivalent","","",""
 "patterncontructtscore","Integer","","Recommended","Alternative Pattern Construction T Score","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "site","String","101","Recommended","Site","","Study Site",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "earlynum_item","String","20","Recommended","Early Number Concepts: Item Set Administered (DAS-II)","","",""

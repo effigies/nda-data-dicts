@@ -88,5 +88,5 @@
 "aaq_r_willingness","Integer","","Recommended","AAQ-R Willingness Factor Score","","",""
 "aaq_9","Integer","","Recommended","AAQ 9-item Single Factor Score","","",""
 "aaq_r_overall","Integer","","Recommended","AAQ-R Overall Score","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "aaq2_08","Integer","","Recommended","It seems like most people are handling their lives better than I am.","1::7","1 = Never true; 2 = Very rarely true; 3 = Seldom true; 4 = Sometimes true; 5 = Frequently true; 6 = Almost always true; 7 = Always true",""

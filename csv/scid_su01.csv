@@ -202,7 +202,7 @@
 "scid_42_2","Integer","","Recommended","At least 1 A criteria coded 3","1; 3","1=False; 3=True",""
 "scid_43_1_2","Integer","","Recommended","Use of another drug is problematic/excessive","0; 1","0=No; 1=Yes",""
 "suala1","Integer","","Recommended","Taken in larger amounts OR for longer than intended","0::3;50;999","0=Inadequate information; 1=Absent or false; 2=Sub-threshold; 3=Threshold or true; 50= Drug is often taken in larger amounts (at least twice as much) OR over a longer period (at least twice as long) than was intended; 999= Not assessed","scidv_sud2_c"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "sc_sd30a","Integer","","Recommended","Substance Use Disorder: Other Substance Remission Specifiers","1::4","1 = Early Full Remission;2 = Early Partial Remission;3 = Sustained Full Remission;4 = Sustained Partial Remission",""
 "suala3","Integer","","Recommended","A great deal of time spent on behalf of alcohol","0::3","0=Inadequate information; 1=Absent or false; 2=Subthreshold; 3=Threshold or true",""
 "suala4","Integer","","Recommended","Recurrent hazardous use OR frequent inappropriate use","0::3","0=Inadequate information; 1=Absent or false; 2=Subthreshold; 3=Threshold or true",""

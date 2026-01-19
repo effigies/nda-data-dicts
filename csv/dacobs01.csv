@@ -54,4 +54,4 @@
 "dacobs_ss6","Integer","","Recommended","Subjective Cognitive problems - Subscale Score","0::42","",""
 "dacobs_ss7","Integer","","Recommended","Safety Behaviors - Subscale Score","0::42","",""
 "dacobs_total","Integer","","Recommended","DACOBS Total Score","0::294","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

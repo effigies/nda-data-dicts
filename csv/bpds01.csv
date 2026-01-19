@@ -49,7 +49,7 @@
 "bpds_scale1","Integer","","Recommended","Total: Parts Smaller","0::7","",""
 "bpds_scale2","Integer","","Recommended","Total: Parts Bigger","0::7","",""
 "bpds_scale3","Integer","","Recommended","Total: Parts Content","0::7","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","assessment"
 "who_raised_explain","String","50","Recommended","If other primary caregiver who raised you, explain","","",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

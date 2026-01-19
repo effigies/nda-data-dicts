@@ -8,7 +8,7 @@
 "v1_lab_hepcscreen","Integer","","Recommended","Lab results Hepatitis C screen","0 :: 1","0 = negative; 1 = positive",""
 "maf_end_date","Date","","Recommended","date of last dose taken","","","avl002"
 "ldosetm","String","10","Recommended","Time of last dose","","","avl003"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "positive_drugs1","Integer","","Recommended","Positive for Cotinine","0 :: 1","0 = No; 1 = Yes","cot002"
 "cot02a","Float","","Recommended","Cotinine level (ng/mL) ","","-9 = Unknown",""
 "hbsag","String","25","Recommended","hepatitis B surface antigen test results HBsAg","","","hep003"

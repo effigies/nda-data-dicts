@@ -31,7 +31,7 @@
 "ptpq21","Integer","","Recommended","My first choice for treatment would be medication without behavior therapy.","1::6","1 = Strongly disagree; 2 = Moderately disagree; 3 = Disagree a little; 4 = Agree a little; 5 = Agree moderately; 6 = Agree a lot",""
 "treatment_prefer","Integer","","Recommended","If your provider were to recommend treatment for depression would you have a preference for:","1::5","1= I would prefer medication only; 2= I would prefer talk therapy only; 3= I would prefer both medication and talk therapy; 4= I have no preference, any recommendation is fine; 5= I am not interested in any treatment at this time",""
 "treatment_prefer_par","Integer","","Recommended","If your child's provider were to recommend treatment for depression would you have a preference for your child's treatment?","1::5","1= I would prefer medication only; 2= I would prefer talk therapy only; 3= I would prefer both medication and talk therapy; 4= I have no preference, any recommendation is fine; 5= I am not interested in any treatment at this time",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "preference_1","Integer","","Recommended","In the coming for treatment of depression, I would prefer to receive:","1::3","1= Drug treatment; 2= Talking treatment; 3= No preference",""

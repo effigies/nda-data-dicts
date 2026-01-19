@@ -49,4 +49,4 @@
 "cases_hs","Float","","Recommended","Helping Skill Self-Efficacy Subscore","0::9","Average of items 1-15",""
 "cases_sm","Float","","Recommended","Session Management Self-Efficacy Subscore","0::9","Average of items 16-25",""
 "cases_cc","Float","","Recommended","Counseling Challenges Self-Efficacy Subscore","0::9","Average of items 26-41",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

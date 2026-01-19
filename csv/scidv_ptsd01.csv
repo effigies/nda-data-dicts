@@ -467,7 +467,7 @@
 "hxtr_otherhxtr_worst","Integer","","Recommended","MODULE L. Dimensional Symptom Ratings, Trauma Disorders Module, Lifetime - Identify the single worst trauma - Other Trauma (please specify):","0;1","0 = No;1 = Yes",""
 "hxtr_otherhxtr_worst_text","String","4000","Recommended","MODULE L. Dimensional Symptom Ratings, Trauma Disorders Module, Lifetime - Identify the single worst trauma - Other Trauma (please specify): - Text","","",""
 "hxtr_war_date","String","30","Recommended","MODULE L. Dimensional Symptom Ratings, Trauma Disorders Module, Lifetime - Beg. Date(s)/End Date(s) - War Zone/Combat -","","(mm/yy) :: (mm/yy)",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "sciddv_l92n","String","4000","Recommended","Posttraumatic Stress Disorder: Criterion A: Criterion A Notes","","",""
 "sciddv_l120n","String","4000","Recommended","Posttraumatic Stress Disorder: Criterion D: D5 Past Month Notes","","",""
 "sciddv_l121s","Integer","","Recommended","Posttraumatic Stress Disorder: Criterion D: D6 Detachment Severity () ","1;4;-8","1= False; 4= True  (Would you say that you became totally unable to get emotionally close to others anymore?); -8= Missing",""

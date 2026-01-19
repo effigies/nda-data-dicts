@@ -48,4 +48,4 @@
 "lifesi42","Integer","","Recommended","Major holidays","12","Select value if event has happened. Leave blank if event has not happened.",""
 "lifesi43","Integer","","Recommended","Minor violations of the law (traffic tickets, jaywalking, disturbing the peace, etc.)","0::3;9;11","Select value if event has happened. Leave blank if event has not happened. Alternatively 0=Did Not Happen;1=Not Upsetting;2=Upsetting;3=Very Upsetting;9=Missing","law_u"
 "lifesi44","Integer","","Recommended","Life Stress Inventory Score","","Add the points you have for each event that happened to you. 150 points or less means a relatively low amount of life change and a low susceptibility to stress-induced health breakdown; 150 to 300 points implies about a 50% chance of a major health breakdown in the next 2 years; 300 points or more raises the odds to about 80%, according to the Holmes-Rahe statistical predication model",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

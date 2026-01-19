@@ -65,7 +65,7 @@
 "strreason28","String","50","Recommended","Reason for prescription 28","","",""
 "strreason29","String","50","Recommended","Reason for prescription 29","","",""
 "strreason30","String","50","Recommended","Reason for prescription 30","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "con_med_for_ae_1","Integer","","Recommended","Medication 1 given for Adverse Event?","0;1","0= No; 1= Yes",""
 "con_med_for_ae_2","Integer","","Recommended","Medication 2 given for Adverse Event?","0;1","0= No; 1= Yes",""
 "con_med_for_ae_3","Integer","","Recommended","Medication 3 given for Adverse Event?","0;1","0= No; 1= Yes",""

@@ -7,7 +7,7 @@
 "site","String","101","Recommended","Site","","Study Site","asite"
 "clinicid","Integer","","Recommended","Clinic ID","","","aclinic"
 "interv","Integer","","Recommended","Intervention Status","0;1","1=ITV, intervention; 0=TAU, treatment as usual",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","wave"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","wave"
 "days_baseline","Integer","","Recommended","Days since baseline","","","lof"
 "hd1_days","Integer","","Recommended","Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical health not good?","0::30;77;88;99","Number of days; 77 = Don't know/Not sure; 88 = None; 99 = Refused","cqol_2,hdph"
 "hd2_days","Integer","","Recommended","Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good?","0::30;77;88;99","Number of days; 77 = Don't know/Not sure; 88 = None; 99 = Refused","cqol_3,hdmh"

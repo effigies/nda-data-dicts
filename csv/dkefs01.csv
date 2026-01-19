@@ -426,7 +426,7 @@
 "dkefs_tt_scaled","Integer","","Recommended","Tower Test: Scaled Score","","",""
 "dkefs_tt_per","Float","","Recommended","Tower Test: Percentile","","",""
 "dkefs_tmtc4_per","Float","","Recommended","Trail Making Test: Condition 4 (number-letter switching): Percentile","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "visit_year","Integer","","Recommended","Year of visit","","",""
 "dk_df_sw_sda","Integer","","Recommended","Design Fluency Test : Condition 3: Switching - Practice Item - item","","",""
 "dkefs_c_wrd_con3_sce","Float","","Recommended","Color-Word Interference Test : Condition 3: Inhibition - Test : Self-corrected Errors","","",""

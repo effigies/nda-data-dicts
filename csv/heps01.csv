@@ -210,7 +210,7 @@
 "rela_frndcomt","Integer","","Recommended","How often do your close friends comment on their weight or eating?","0 :: 4","0= Never; 1= Rarely; 2= Sometimes; 3= Often; 4= Always",""
 "rela_frndcomy","Integer","","Recommended","How often do your close friends comment on your weight or eating?","0 :: 4","0= Never; 1= Rarely; 2= Sometimes; 3= Often; 4= Always",""
 "rela_child","Integer","","Recommended","Do you have children?","0;1;77;88;-99","0= No; 1= Yes; 77= Refused; 88= Missing; -99= NA",""
-"rela_childnum","Integer","","Recommended","How many children do you have?","","Number of Children",""
+"rela_childnum","Integer","","Recommended","How many children do you have?","","Number of Children; 99= Refuse to answer",""
 "rela_childage1","Integer","","Recommended","Age of Child 1","","Age in Years",""
 "rela_childage2","Integer","","Recommended","Age of Child 2","","Age in Years",""
 "rela_childage3","Integer","","Recommended","Age of Child 3","","Age in Years",""

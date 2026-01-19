@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "dayscons","Integer","","Recommended","days since consent","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "certcode","Integer","","Recommended","stepbd certification code","","",""
 "obstime","Float","","Recommended","Time Occupied by Obsessive Thoughts","0::4;-7","0=None; 1=Mild; 2=Moderate; 3=Severe; 4=Extreme; -7=Refused","yb00_1,yb1_1,yb2_1,ybocsbe1"
 "obsinter","Float","","Recommended","Interference Due to Obsessive Thoughts","0::4;-7","0=None; 1=Mild; 2=Moderate; 3=Severe; 4=Extreme; -7=Refused","yb00_2,yb1_2,yb2_2,ybocsbe2"

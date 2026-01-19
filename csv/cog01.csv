@@ -84,6 +84,6 @@
 "hinting_total","Integer","","Recommended","Hinting total score","0::20","",""
 "rses_total","Integer","","Recommended","Scale total","","",""
 "sevscore","Integer","","Recommended","Total Movement Severity score","","Created variable with 20% missing data rule applied: AIMS Sum of AIMS01-AIMS07",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timept"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","timept"
 "site","String","101","Recommended","Site","","Study Site",""
 "bacs_vm_agt","Integer","","Recommended","BACS Verbal Memory (corrected T-score)","","",""

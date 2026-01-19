@@ -105,7 +105,7 @@
 "naponset5","String","10","Recommended","For nap/doze 5, what time did this nap begin?","","",""
 "napdur5","Integer","","Recommended","For nap/doze 5, about how many minutes did you sleep during this nap?","","Number of minutes",""
 "schoolday","Integer","","Recommended","Did you go to school today?","-1::2","-1 = Not a school day; 0 = No; 1 = Yes - I attended school in person; 2 = Yes - I attended school virtually/on-line",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "gotintobed","String","10","Recommended","Last night, I got into bed at:","","",""
 "wenttosleep","String","10","Recommended","Last night, I actually tried to go to sleep at (aka Lights Out):","","",""
 "nightmares","Integer","","Recommended","does the parent think the subject has nightmares","0 :: 2","",""

@@ -105,7 +105,7 @@
 "sub_tob3","Float","","Recommended","Amount (in # of packs per day)","","1 pack equals 20 cigarettes/cigarillos","cci_31a"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","charlson_comments"
 "dode","String","10","Recommended","Date of Data Entry","","","charlson_entered"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "charlson1_ssw","Integer","","Recommended","At present time, do you have any of the following: asthma, emphysema, or chronic bronchitis?","","Lowest Charlson Weight is 1; Highest Charlson Weight is 1. Study-specific weights may lie outside these ranges.",""
 "charlson2_ssw","Integer","","Recommended","At present time, do you have any of the following: arthritis or rheumatism?","","Lowest Charlson Weight is 0; Highest Charlson Weight is 1. Study-specific weights may lie outside these ranges.",""
 "charlson3_ssw","Integer","","Recommended","At present time, do you have any of the following: cancer, diagnosed in the past 3 years?","","Lowest Charlson Weight is 2; Highest Charlson Weight is 6. Study-specific weights may lie outside these ranges.",""

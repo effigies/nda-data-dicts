@@ -59,7 +59,7 @@
 "fqq_hg","Integer","","Recommended","Help and Guidance Score","","",""
 "fqq_car","Integer","","Recommended","Companionship and Recreation Score","","",""
 "fqq_ie","Integer","","Recommended","Intimate Exchange Score","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
 "childfriend1","Integer","","Recommended","1. Do you have a closest (or best) friend?","0;1","0 = No; 1 = Yes",""
 "childfriend3","Integer","","Recommended","3. How happy are you with your friendship with your best friend?","1::4","1 = Not at all happy; 4 = Very happy",""

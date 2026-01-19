@@ -533,7 +533,7 @@
 "smh_40a","Integer","","Recommended","Is there a history in your family of loud snoring","0;1","0= No; 1= Yes",""
 "smh_40b","String","20","Recommended","If yes to family history of loud snoring, which family members?","","",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","comments"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "smh_27","String","20","Recommended","If you have lost or gained a substantial amount of weight within the last 2 years, how much?","","Indicate gained weight with '+' and lost weight with '-' and indicate how much weight in pounds",""
 "mhx004a","Integer","","Recommended","History of: Cardiovascular disorder","1::3;9","1=No; 2=Yes; 3=Yes, Inactive;9=not evaluated","smh_28a"
 "dem_54_seizure","Integer","","Recommended","Do you have a history of seizures or convulsions?","0;1;-9","1=Yes; 0=No; -9 = Not applicable or Missing","smh_28b"

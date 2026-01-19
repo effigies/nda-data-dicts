@@ -97,7 +97,7 @@
 "academ_5","Integer","","Recommended","I believe my GPA reflects the effort I put into my academics","1::5; 999","1= Strongly disagree; 2= Disagree; 3= Neutral; 4= Agree; 5= Strongly agree; 999= N/A (have not taken classes in past four weeks)",""
 "academ_mhealth","Integer","","Recommended","My mental health impacts my GPA and school participation","1::5; 999","5= Strongly disagree; 4= Disagree; 3= Neutral; 2= Agree; 1= Strongly agree; 999= N/A (have not taken classes in past four weeks)",""
 "academ_total","Integer","","Recommended","Academic Competence Total","5::25","Sum of academ_1 to academ_5",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "aaasa_phase","Integer","","Recommended","Trial of study","1 :: 3","1 = Feasibility; 2 = Open; 3 = Clinical",""
 "aaasa_session","Integer","","Recommended","Session of trial","0 :: 3","0 = Baseline; 1 = Session one; 2 = Session two; 3 = One-month follow-up",""
 "test_site","String","100","Recommended","Location of study","","",""

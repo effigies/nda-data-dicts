@@ -38,7 +38,7 @@
 "depression_tscore","Integer","","Recommended","Depression NIH T-score","","","depression_conversion_score,pc_depression_tscore"
 "respond","Integer","","Recommended","Respondent","1::7;999","1 = Parent; 2 = Teacher; 3=Self; 4= Other; 5= Significant other; 6 = Parent 1; 7 = Parent 2; 999 = Not available",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","tpid"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","tpid"
 "depression_9","Integer","","Recommended","Have you had thoughts that you would be better off dead or of hurting yourself in some way","","",""
 "pain_1","Integer","","Recommended","How much did pain interfere with your day-to-day activities?","0::4","0= Never; 1= Rarely; 2= Sometimes; 3= Often; 4= Always",""
 "pain_2","Integer","","Recommended","How much did pain interfere with work around the home?","0::4","0= Not at all; 1= A little bit; 2= Somewhat; 3= Quite a bit; 4= Very Much",""

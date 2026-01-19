@@ -201,7 +201,7 @@ or the active phase of Schizophrenia; 6=Situations in which the clinician has co
 "scid_d33_j16","Integer","","Recommended","No MDE or Dysthymia","1; 2; 3","1=Absent; 2=Subthreshold; 3=Threshold",""
 "scid_d33_j17","Integer","","Recommended","No Manic, Mixed, or Hypomanic episodes and no Cyclothymia","1; 2; 3","1=Absent; 2=Subthreshold; 3=Threshold",""
 "scid_d33_j19","Integer","","Recommended","Criteria A, B, C, & D coded 3","1::3; -7; -9; -1","1= absent or false; 2 = subthreshold; 3 = threshold or true; -7 = N/A; -9 = missing or not reported; -1 = Inadequate Information/Unknown",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "dsm4oma2","Integer","","Recommended","Prominent and persistent elevated, expansive, or irritable mood","0::3","0=Inadequate information; 1=Absent or false; 2=Subthreshold; 3=Threshold or true",""
 "ksads_panicd_30_1p","Integer","","Recommended","Panic Disorder Not Due to Other Disorder or Substance Current (Parent/Child/Clinician)","1::3;-99;88;77","1= Not present ; 2= Sub-threshold ; 3= Present ;   -99=N/A ; 88=  Missing ; 77= Refused",""

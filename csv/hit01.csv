@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","hit_date"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","hit_date"
 "hit_1","Integer","","Recommended","1) When you have headaches, how often is the pain severe?","6::13","6=Never; 8=Rarely; 10=Sometimes; 11=Very Often; 13=Always",""
 "hit_2","Integer","","Recommended","2) How often do headaches limit your ability to do usual daily activities including household work, work, school, or social activities?","6::13","6=Never; 8=Rarely; 10=Sometimes; 11=Very Often; 13=Always",""
 "hit_3","Integer","","Recommended","3) When you have a headache, how often do you wish you could lie down?","6::13","6=Never; 8=Rarely; 10=Sometimes; 11=Very Often; 13=Always",""

@@ -52,7 +52,7 @@
 "byaacq05yn","Integer","","Recommended","I have taken foolish risks when I have been drinking.","0::3","0 = No; 1 = Yes; 2 = I don't drink; 3 = I prefer not to answer","foolish_risks_byaacq,yaacq_7"
 "byaacq06yn","Integer","","Recommended","I have passed out from drinking.","0::3","0 = No; 1 = Yes; 2 = I don't drink; 3 = I prefer not to answer","passed_out_byaacq,yaacq_6"
 "byaacq07yn","Integer","","Recommended","I have found that I needed larger amounts of alcohol to feel any effect, or that I could no longer get high or drunk on the amount that used to get me high or drunk.","0::3","0 = No; 1 = Yes; 2 = I don't drink; 3 = I prefer not to answer","larger_doses_byaacq,yaacq_25"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "byaacq32","Integer","","Recommended","I have been unable to remember what happened the night before.","0::12","0=No or not in the past 3 months; 1=1 time; 2=2 times; 3=3 times; 4=4 times; 5=5 times; 6=6 times; 7=7 times; 8=8 times; 9=9 times; 10=10 times; 11=11 times; 12=12 or more times",""
 "byaacq25","Integer","","Recommended","I have been unable to remember a few minutes.","0::12","0=No or not in the past 3 months; 1=1 time; 2=2 times; 3=3 times; 4=4 times; 5=5 times; 6=6 times; 7=7 times; 8=8 times; 9=9 times; 10=10 times; 11=11 times; 12=12 or more times",""
 "byaacq26","Integer","","Recommended","I have been reminded about things I had previously forgotten.","0::12","0=No or not in the past 3 months; 1=1 time; 2=2 times; 3=3 times; 4=4 times; 5=5 times; 6=6 times; 7=7 times; 8=8 times; 9=9 times; 10=10 times; 11=11 times; 12=12 or more times",""

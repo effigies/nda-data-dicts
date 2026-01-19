@@ -93,7 +93,7 @@
 "obc40a7","Integer","","Recommended","301.4 Obsessive -Compulsive (OBCMP). (40A7) Adopts a miserly spending style toward both self and others; money is viewed as something to be hoarded for future catastrophes","0::4; 9","0=Not Present; 1=Sub-threshold; 2=Present; 3=Strongly present; 4=Threshold; 9=Missing data","11056,sidp_obcmp_7"
 "obc40a8","Integer","","Recommended","301.4 Obsessive -Compulsive (OBCMP). (40A8) Shows rigidity and stubbornness","0::4; 9","0=Not Present; 1=Sub-threshold; 2=Present; 3=Strongly present; 4=Threshold; 9=Missing data","11116,sidp_obcmp_8"
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "days_baseline","Integer","","Recommended","Days since baseline","","",""
 "blpddiag","Integer","","Recommended","At least five items are coded ""3"" Borderline Personality Disorder","1;3","1=absent or false; 3=threshold",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

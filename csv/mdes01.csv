@@ -28,7 +28,7 @@
 "mdesneg","Float","","Recommended","Modified Differential Emotions Scale Negative Score","","",""
 "mdes27","Integer","","Recommended","I felt sexual, desiring, flirtatious.","0::4","0 = Never ; 1 = Rarely ; 2 = Some of the time ; 3 = Often ; 4 = Most of the time",""
 "mdes28","Integer","","Recommended","I felt sympathy, concern, compassion.","0::4","0 = Never ; 1 = Rarely ; 2 = Some of the time ; 3 = Often ; 4 = Most of the time",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "mdes21","Integer","","Recommended","I felt bored, disinterested, uninvolved.","0::4","0 = Never ; 1 = Rarely ; 2 = Some of the time ; 3 = Often ; 4 = Most of the time",""
 "mdes22","Integer","","Recommended","I felt control, coping well, on top of things.","0::4","0 = Never ; 1 = Rarely ; 2 = Some of the time ; 3 = Often ; 4 = Most of the time",""
 "mdes23","Integer","","Recommended","I felt excited, eager, enthusiastic.","0::4","0 = Never ; 1 = Rarely ; 2 = Some of the time ; 3 = Often ; 4 = Most of the time",""

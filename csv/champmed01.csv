@@ -25,5 +25,5 @@
 "med_hormone","Integer","","Recommended","Prescribed a Hormone Medication?","0 :: 1","0 = No; 1 = Yes",""
 "med_hyperten","Integer","","Recommended","Prescribed an Antihypertensive Medication?","0 :: 1","0 = No; 1 = Yes",""
 "med_nsaid_analgesic","Integer","","Recommended","Prescribed an NSAID/Analgesic Medication?","0 :: 1","0 = No; 1 = Yes",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""

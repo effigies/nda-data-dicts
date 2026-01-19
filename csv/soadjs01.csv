@@ -113,7 +113,7 @@
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","date"
 "phase","Integer","","Recommended","Phase","","9 =follow up",""
 "occustat","Integer","","Recommended","current employment status","1::9","1=A worker for pay;2=Disabled 3=A housewife/househusband; 4=A student; 5=Unemployed; 6=Retired; 7=employed/student; 8 = Does not apply (lives in institution, etc.); 9 = Not known",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","sas_aptt"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","sas_aptt"
 "sas_tscore","Float","","Recommended","Work Role T Score","","",""
 "sl_tscore","Float","","Recommended","Social and Leisure T Score","","",""
 "ef_tscore","Float","","Recommended","Extended Family T Score","","",""

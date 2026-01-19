@@ -169,7 +169,7 @@
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
 "cb_total_score","Integer","","Recommended","Conflic Behavior total score","","",""
 "baina","Integer","","Recommended","Number of valid answers","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "cbq_1_rate","Integer","","Recommended","My son or daughter is easy to get along with.","1::5","1 = Strongly Agree; 2 = Agree; 3 = Neither Agree nor Disagree; 4 = Disagree; 5 = Strongly Disagree","cbq_1"
 "cbq_2_rate","Integer","","Recommended","My son or daughter is receptive to criticism.","1::5","1 = Strongly Agree; 2 = Agree; 3 = Neither Agree nor Disagree; 4 = Disagree; 5 = Strongly Disagree","cbq_2"
 "cbq_3_rate","Integer","","Recommended","My son or daughter is well behaved in our discussions.","1::5","1 = Strongly Agree; 2 = Agree; 3 = Neither Agree nor Disagree; 4 = Disagree; 5 = Strongly Disagree","cbq_3"

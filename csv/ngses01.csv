@@ -48,7 +48,7 @@
 "ase6","Integer","","Recommended","Plan your schoolwork?","1::7","1= Not well at all; 2= Slightly well; 3= Not too well; 4= Moderately well, 5= Pretty well; 6= Well; 7= Very Well",""
 "ase7","Integer","","Recommended","Organize your schoolwork?","1::7","1= Not well at all; 2= Slightly well; 3= Not too well; 4= Moderately well, 5= Pretty well; 6= Well; 7= Very Well",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "days_since_admit","Integer","","Recommended","Days since admission","","",""
 "smy_grit","Integer","","Recommended","No matter what comes my way, I am usually able to handle it.","1::4","1= Not at all true; 2= Hardly true; 3= Moderately true; 4= Exactly true",""
 "smy_control","Integer","","Recommended","I feel in control of my life and future?","1::4","1= Not at all; 2= Somewhat or sometime; 3= Often or frequently; 4= Always",""

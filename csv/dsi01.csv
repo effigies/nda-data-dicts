@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "site","String","101","Recommended","Site","","Study Site","sitenumber"
 "visit_name","String","20","Recommended","session ID/screening ID","","","visitnumber"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visitlabel"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visitlabel"
 "subjecttype","String","20","Recommended","Subject Type","Control;Prodromal; Enhanced; Non-Enhanced","",""
 "stress1","Integer","","Recommended","Performed poorly at task","0::7","0=did not occur in the past 24 hours; 1=occurred but was not very stressful; 2=caused very little stress; 3=caused a little stress; 4=caused some stress; 5=caused much stress; 6=caused very much stress; 7=cause me to panic","daily_stressor_1"
 "stress2","Integer","","Recommended","Performed poorly due to others","0::7","0=did not occur in the past 24 hours; 1=occurred but was not very stressful; 2=caused very little stress; 3=caused a little stress; 4=caused some stress; 5=caused much stress; 6=caused very much stress; 7=cause me to panic","daily_stressor_2"

@@ -99,7 +99,7 @@
 "tscl_cm_echopraxia_spec","String","300","Recommended","Complex motor tics: copying the action of another (echopraxia): Specific tic(s):","","",""
 "tscl_sm_shlder_jerk_spec","String","500","Recommended","Shoulder jerks/movements: jerking a shoulder: Specific tic(s):","","","exp_specify_6"
 "tscl_sm_shlder_shrug_spec","String","300","Recommended","Shoulder jerks/movements: jerking a shoulder: shrugging the shoulder as if to say, ""I don't know"" Specific tic(s):","","","specify_6_12mo"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "exp_mult_tics_ever","Integer","","Recommended","Have you experienced in the past week multiple discrete tics or multiple sequential tics occurring at the same time? ","0;1","0 = No; 1 = Yes",""
 "exp_if_yes_describe","String","300","Recommended","If you have experienced in the past week multiple discrete tics or multiple sequential tics occurring at the same time please describe:","","",""
 "exp_tic_clusters","String","300","Recommended","If you have more than one cluster of tics that occur at the same time please describe:","","",""

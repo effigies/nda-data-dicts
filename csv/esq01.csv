@@ -35,5 +35,5 @@
 "esq24_sc","Float","","Recommended","Sensitivity to Context Score","","Mean of items 5, 11, 17; 23, which are all reverse scored.",""
 "esq24_a","Float","","Recommended","Attention Score","","Mean of items 6, 12, 18; 24. Items 18 and 24 are reverse scored.",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

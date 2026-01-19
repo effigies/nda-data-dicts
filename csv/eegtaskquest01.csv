@@ -42,4 +42,4 @@
 "caq_8b","Integer","","Recommended","Soft drink - in the last 24 hours, cups (1 cup=8-ounce)","","",""
 "rb_4","Integer","","Recommended","Investing 10% of your annual income in a moderate growth diversified fund. (F/I)","1::7","1 = Not benefits at all;  4 = Moderate benefits; 7 = Great benefits",""
 "rb_5","Integer","","Recommended","Drinking heavily at a social function. (H/S)","1::7","1 = Not benefits at all;  4 = Moderate benefits; 7 = Great benefits",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

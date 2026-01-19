@@ -241,7 +241,7 @@
 "mhx021","String","250","Recommended","Specify Other History 2","","","mhx16,mhxs_q16b"
 "mhx021b","String","250","Recommended","If YES, Enter onset/resolved date indicate ongoing with treatment or not. If NOT EVALUATED, explain or describe below: Other","","","mhx16b"
 "site","String","101","Recommended","Site","","Study Site","asite,mhxs_site_x,site_uid,siteid"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","int1,interval,mhxs_interval,visit_name,wave"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","int1,interval,mhxs_interval,visit_name,wave"
 "daysrz","Integer","","Recommended","days since randomization","","","mdga0b,mhxa0b,visitdt"
 "fseqno","Integer","","Recommended","Sequence Number","0::999","The FSEQNO variable in the ADJ form has a special interpretation compared to other forms.
 For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' can be thought of as

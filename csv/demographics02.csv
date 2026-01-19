@@ -71,7 +71,7 @@
 "sib1_src_subject_id","String","20","Recommended","Study Study ID (sibling 1)","","","demo_sibling_id"
 "site","String","101","Recommended","Site","","Study Site","sitenumber"
 "visit_name","String","20","Recommended","session ID/screening ID","","","visit_number_demo,visitnum,visitnumber"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timept,visitlabel"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","timept,visitlabel"
 "subjecttype","String","20","Recommended","Subject Type","Control;Prodromal; Enhanced; Non-Enhanced","",""
 "ethnic_group","String","255","Recommended","Ethnic group","","","demo_racial,digs_ethnic_cat,ethniother"
 "livein_father","Integer","","Recommended","Does father live in home with child?","0;1","0=No; 1=Yes","livein_father_r03"

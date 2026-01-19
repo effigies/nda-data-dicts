@@ -40,5 +40,5 @@
 "aqol34","Integer","","Recommended","Your close and intimate relationships (including any sexual relationships) make you:","1::5","1 = very happy; 2 = generally happy; 3 = neither happy nor unhappy; 4 = generally happy; 5 = very unhappy",""
 "aqol35","Integer","","Recommended","How often did you feel in despair over the last seven days?","1::5","1 = never; 2 = occasionally; 3 = sometimes; 4 = often; 5 = all the time",""
 "resspec","String","50","Recommended","Specify other relationship","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "aqol20","Integer","","Recommended","How often do you feel happy","1::5","5 = never; 4 = almost never; 3 = sometimes; 2 = mostly; 1 = all the time",""

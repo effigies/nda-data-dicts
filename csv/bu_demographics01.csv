@@ -45,7 +45,7 @@
 "pubene3","Integer","","Recommended","Did anyone in your household, including yourself, receive WIC last year?","0::2;888","0= No; 1= Yes; 2= I choose not to answer; 888= I do not know",""
 "pubene5","Integer","","Recommended","Did anyone in your household, including yourself, receive disability last year?","0::2;888","0= No; 1= Yes; 2= I choose not to answer; 888= I do not know",""
 "rela_child","Integer","","Recommended","Do you have children?","0;1;77;88;-99","0= No; 1= Yes; 77= Refused; 88= Missing; -99= NA",""
-"rela_childnum","Integer","","Recommended","How many children do you have?","","Number of Children",""
+"rela_childnum","Integer","","Recommended","How many children do you have?","","Number of Children; 99= Refuse to answer",""
 "ses_cur_lunch","Integer","","Recommended","In the last year, did anyone in your household, including yourself, receive any of the following public benefits? Free or reduced price school lunch","0::3","0= No; 1= Yes; 2= Do not know; 3= Prefer not to answer",""
 "ses_cur_welfare","Integer","","Recommended","In the last year, did anyone in your household, including yourself, receive any of the following public benefits? Welfare (AFDC or TANF)","0::3","0= No; 1= Yes; 2= Do not know; 3= Prefer not to answer",""
 "enroll_ft_pt","Integer","","Recommended","Are you currently enrolled in full time or part time","0::2","0= Not currently enrolled; 1= Enrolled full time; 3= Enrolled part time",""

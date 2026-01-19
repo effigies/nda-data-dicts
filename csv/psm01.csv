@@ -140,7 +140,7 @@
 "nih_tlbx_theta","Float","","Recommended","Theta","","999=NA/NK/missing","nihtbx_demo_rescore_thetapsm,nihtbx_picture_theta,psmtheta,tcb_picseq_theta,theta"
 "nih_tlbx_se","Float","","Recommended","Standard Error","","999=NA/NK/missing","nihtbx_picture_se,psmse,se,tcb_picseq_se"
 "accult_select_language","Integer","","Recommended","Test given in Spanish? ¿Español?","0 ; 1","0 = No; 1 = Yes","nihtbx_picture_language"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","eventname"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","eventname"
 "wcst_ni","Integer","","Recommended","Number of Items","","","itmcnt,nihtbx_picture_itmcnt"
 "nih_tlbx_fctsc","Float","","Recommended","Fully-Corrected T-Score","0::120","","nihtbx_demo_rescore_fulltpsm,nihtbx_picture_fc,nihtbx_picture_fullycorrected,tcb_picseq_full_tscr"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","assessment_name,nihtbx_picture_v"

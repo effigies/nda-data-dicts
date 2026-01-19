@@ -16,7 +16,7 @@
 "eterm6prg","Date","","Recommended","pregnant date","","","pregn_date_reported"
 "subject_description","String","4000","Recommended","Subject related information (e.g the affection, phenotype, disease information, etc.).","","",""
 "site","String","101","Recommended","Site","","Study Site","site_uid"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","prex_interval,visit_name"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","prex_interval,visit_name"
 "session_id","String","20","Recommended","session ID/screening ID","","","screeningid"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_name"
 "pregnant","Integer","","Recommended","Patient is currently pregnant","0::2;-7; 999","0=No; 1=Yes;2=DK;-7= Refused; 999=Legimately skipped","prgntyn"

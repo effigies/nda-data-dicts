@@ -68,4 +68,4 @@
 "sci_q62","Integer","","Recommended","Ruminative flooding subscale score","","",""
 "sci_q63","Integer","","Recommended","Emotional pain subscale score","","",""
 "sci_q64","Integer","","Recommended","Fear of dying subscale score","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

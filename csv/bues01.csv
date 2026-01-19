@@ -40,5 +40,5 @@
 "factor4","Float","","Recommended","Optimism and Control over the Future Mean Score","","",""
 "factor5","Float","","Recommended","Righteous Anger Mean Score","","",""
 "buestotal","Integer","","Recommended","BUES Total Score","24 :: 100","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "groups","Integer","","Recommended","Group","0;1","0=Control; 1=Case","q_arm"

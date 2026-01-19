@@ -44,7 +44,7 @@
 "hormone_scr_ert_rep2_ll","String","30","Recommended","Salimetrics hormone test testosterone (ERT) below lower limit of sensitivity (repetition 2)","","",""
 "hormone_scr_ert_rep2_qns","String","30","Recommended","Salimetrics hormone test testosterone (ERT)  quantity not sufficient (repetition 2)","","",""
 "hormone_scr_ert_rep2_nd","String","30","Recommended","Salimetrics hormone test Salimetrics hormone test testosterone (ERT)  quantity not sufficient (repetition 2) none detected (repetition 2)","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","eventname"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","eventname"
 "lh","Float","","Recommended","LH blood test result","","",""
 "fsh","Float","","Recommended","FSH blood test result","","",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

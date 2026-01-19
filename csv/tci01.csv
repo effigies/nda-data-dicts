@@ -336,7 +336,7 @@
 "excite","Integer","","Recommended","Excitability (rated symptoms)","0;1","0 = 3 or more of 5 excitability symptoms rated never; 1 = 3 or more of 5 excitability symptoms rated occassionally/often",""
 "irrit_sum","Integer","","Recommended","Irritability sum score","0::10","",""
 "irrit","Integer","","Recommended","irritability","0;1;-7","0=No; 1=Yes; -7=Refused",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
 "excirr1","Integer","","Recommended","Does your child get overly happy for very small reasons or no reason at all?","0::2","0 = Never; 1 = Occassionally; 2 = Often",""
 "excirr2","Integer","","Recommended","When your child is very happy or silly do they ever feel like they are a great or marvelous person (i.e., being a superhero, having special powers, or are particularly talented)?","0::2","0 = Never; 1 = Occassionally; 2 = Often",""

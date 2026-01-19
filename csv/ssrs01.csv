@@ -180,7 +180,7 @@
 "ss18oft","Integer","","Recommended","18. Controls temper with you - How Often?","0::2; -9","0 = Never; 1 = Sometimes; 2 = Very often; -9 = Missing value",""
 "ss18imp","Integer","","Recommended","18. Controls temper with you - How Important?","0::2; -9","0 = Not important; 1 = Important; 2 = Critical; -9 = Missing value",""
 "srppq39i","Integer","","Recommended","Acts sad or depressed.  ..How important?","0::2","0=Not Important; 1=Important; 2=Critical",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "sixmo_soc1","Integer","","Recommended","Spend social time with relatives","0::4;999","0=Less than yearly or never; 1=Several times a year (1-10); 2=About once or twice a month; 3=About once a week;  4=Several times a week; 999= Missing","socpart1"
 "sixmo_soc2","Integer","","Recommended","Spend social time with people he/she goes to school or works with, outside of school/working hours","0::4;999","0=Less than yearly or never; 1=Several times a year (1-10); 2=About once or twice a month; 3=About once a week;  4=Several times a week; 999= Missing","socpart2"
 "sixmo_soc3","Integer","","Recommended","Spend social time with friends and neighbors","0::4;999","0=Less than yearly or never; 1=Several times a year (1-10); 2=About once or twice a month; 3=About once a week;  4=Several times a week; 999= Missing","socpart3"

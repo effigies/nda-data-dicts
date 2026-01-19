@@ -71,7 +71,7 @@
 "site","String","101","Recommended","Site","","Study Site","site_uid"
 "session_id","String","20","Recommended","session ID/screening ID","","","screeningid"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_name,formid,version_ic_signed"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","time,visit_name"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","time,visit_name"
 "elgrr","Integer","","Recommended","Subject passed independent rater review","1;2","1=Yes; 2=No",""
 "elgmmapp","Integer","","Recommended","Medical Monitor approved subject for randomization","1;2","1=Yes; 2=No",""
 "elgmdrs","Integer","","Recommended","Baseline MADRS in eligible range","1;2","1=Yes; 2=No",""

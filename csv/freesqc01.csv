@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","fsqc_visit_id"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","fsqc_visit_id"
 "fsqc_container_type","String","30","Recommended","Container type","","",""
 "mexamtp","String","100","Recommended","MRI Series Type","","Possible values: L AXIAL MPR; L COR IW TSE; L COR MPR; L SAG 3D DESS WE; L SAG IW TSE FS; L SAG T2 MAP; OAI Prescription; R AXIAL MPR; R COR IW TSE; R COR MPR; R SAG 3D DESS WE; R SAG IW TSE FS; R SAG T2 MAP; THIGH T1; L COR T1 3D FLASH WE; R COR T1 3D FLASH WE",""
 "fsqc_nrev","Integer","","Recommended","Number of reviews","","",""

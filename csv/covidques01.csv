@@ -101,7 +101,7 @@
 "syn_vacbooster_yn","Integer","","Recommended","Had the participant received a COVID-19 vaccinate booster dose at time of blood draw?","","0= No; 1=Yes received booster","prod_vacbooster_yn"
 "vacbooster_name","String","50","Recommended","Which vaccine?(booster)","","",""
 "vacbooster_date","Date","","Recommended","Date when vaccine booster was received:","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "perceivedinfection_self","Integer","","Recommended","Perceived Infection - Self","1;2","1=Positive; 2=Negative",""
 "syn_vac_yn","Integer","","Recommended","Had the participant received any COVID-19 vaccination at time of blood draw?","0::2","0=No; 1=Yes Fully vaccinated; 2=Yes partially vaccinated ","prod_vac_yn"
 "vacname","String","50","Recommended","Which vaccine?","","",""

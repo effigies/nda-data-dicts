@@ -14,7 +14,7 @@
 "hariri_8","Integer","","Recommended","Nervous","1 :: 5; 88","1 = very slight or not at all; 2 = a little; 3 = moderately; 4 = quite a bit; 5 = extremely; 88 = missing",""
 "hariri_9","Integer","","Recommended","Jittery","1 :: 5; 88","1 = very slight or not at all; 2 = a little; 3 = moderately; 4 = quite a bit; 5 = extremely; 88 = missing",""
 "hariri_10","Integer","","Recommended","Afraid","1 :: 5; 88","1 = very slight or not at all; 2 = a little; 3 = moderately; 4 = quite a bit; 5 = extremely; 88 = missing",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","eventname,session"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","eventname,session"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "curr_time","String","30","Recommended","What is the current time/date? /¿Cuál es la fecha y hora actual?","","","postscan_1_dt,postscan_2_dt,prescan_2_dt,prescan_dt"
 "postscan_relaxed_1","Integer","","Recommended","This is a list of words that describe different feelings and emotions. Indicate how much you feel this way now.  1= little to none; and 5=extremely; Relaxed","1::5","1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely","postscan_relaxed_2,prescan_relaxed_1,prescan_relaxed_2"

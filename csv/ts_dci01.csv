@@ -33,4 +33,4 @@
 "ts_dci_score_27","Integer","","Recommended","No other medical problems that might cause tics (e.g. prior stimulant therapy, history of encephalitis)","1;0","1 = Present ; 0 = Absent",""
 "ts_dci_score","Integer","","Recommended","Total DCI Score","","0::100",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","ts_dci_score_comments"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

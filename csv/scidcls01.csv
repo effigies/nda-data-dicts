@@ -117,7 +117,7 @@
 "chrscid_any_depression","Integer","","Recommended","SCID-5: Any depressive disorder","0;1;-900;-300","0 = Absent; 1 = Full diagnostic criteria; -900 = Missing; -300 = Not applicable",""
 "chrscid_any_mood","Integer","","Recommended","SCID-5: Any mood disorder","0;1;-900;-300","0 = Absent; 1 = Full diagnostic criteria; -900 = Missing; -300 = Not applicable",""
 "chrscid_any_subst_use_disorder","Integer","","Recommended","SCID-5: Any substance use disorder","0::3;-900;-300","0 = Absent; 1 = Mild; 2 = Moderate; 3 = Severe; -900 = Missing; -300 = Not applicable. Combines current and past, highest severity of disorder",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "scid_20","String","60","Recommended","Probable Mental Disorder due to Another Medical Condition Specify:","","",""
 "scid_22","String","60","Recommended","Probable Substance/Medication-Induced Mental Disorder Substance/Medication:","","",""
 "anx_curr","Integer","","Recommended","Generalized Anxiety Disorder: current diagnosis","0::3;-8;-9","0 = Inadequate Information; 1 = Absent; 2 = Sub-Threshold; 3 = Full Diagnostic Criteria/Threshold/Present; -8 = N/A; -9 = Missing",""

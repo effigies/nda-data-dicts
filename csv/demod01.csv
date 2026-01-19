@@ -48,7 +48,7 @@
 "hispanic","Integer","","Recommended","Is subject of Hispanic, Latino, or Spanish origin?","0; 1; 999","0 = No; 1 = Yes; 999= missing","hisp"
 "native","Integer","","Recommended","American Indian or Alaska Native","0;1; 999","1=yes; 0=no; 999= missing","raceai"
 "pacific","String","5","Recommended","Ethnicity: Pacific","Yes;No; 999","999= missing","racenh"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "white","Integer","","Recommended","5. Race","0;1","""1=yes, 0=no""","racew"
 "site","String","101","Recommended","Site","","Study Site","np_fact_where_test_done"
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable",""

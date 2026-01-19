@@ -72,7 +72,7 @@
 "worst7","Integer","","Recommended","Which of the following best describes the overall impact of tics on the child's life? Worst period","1::7","1=None; 2=Minimal; 3=Mild; 4=Moderate; 5=Marked; 6=Severe; 7=Extremely severe",""
 "week7","Integer","","Recommended","Which of the following best describes the overall impact of tics on the child's life? Past week","1::7","1=None; 2=Minimal; 3=Mild; 4=Moderate; 5=Marked; 6=Severe; 7=Extremely severe",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "yt1_q12describ","String","250","Recommended","Please describe unusual postures","","",""
 "yt1_q13adescrib","String","250","Recommended","Please describe rotating or spinning behaviors","","",""
 "yt1_q13brotat","String","250","Recommended","Please indicate direction of rotation","","",""

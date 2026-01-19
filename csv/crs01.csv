@@ -60,7 +60,7 @@
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
 "rbsr_overall_endorsed","Integer","","Recommended","Overall number of items endorsed","","",""
 "cir99f","Integer","","Recommended","Cardiovascular","","Score Heart + Score Vascular",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visitnum,vtypbima,vtypbprs"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visitnum,vtypbima,vtypbprs"
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
 "me2","Integer","","Recommended","Status","0;1","0 = Past [Inactive]; 1 = Active",""
 "mhxa1e","Integer","","Recommended","Heart attack/ myocardial infarction","0;1;9;-9","0=No; 1=Yes; 9=not evaluated; -9=unknown","mh_hrta"

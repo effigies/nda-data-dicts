@@ -46,7 +46,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "daysrz","Integer","","Recommended","days since randomization","","","studyday,visitdt"
 "site","String","101","Recommended","Site","","Study Site","site_uid,siteid"
 "stusdy","String","40","Recommended","Study ID","","","sttx_studyid,studyid"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","atf_3,ctf_3,int1,interval,sttx_interval,visit_name"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","atf_3,ctf_3,int1,interval,sttx_interval,visit_name"
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","formcomp,frmcomp,sttx_frmcomp"
 "subtrial_name","Integer","","Recommended","Name of subtrial","1::3","1=Crossover; 2=Guanfacine; 3= Open Label MPH",""
 "trm_q1","Integer","","Recommended","Date of last clinic visit in days from the randomization/enrollment date (TRM_Q1 = Date of last clinic visit - randomization/enrollment date)","","","at3da,ct3da"

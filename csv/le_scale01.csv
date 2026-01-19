@@ -449,7 +449,7 @@
 "les_11_freq","Integer","","Recommended","Semester or quarter GPA was less than or equal to a C (2.00) or put on academic probation- Number of occurrences between [les_start_date] and [les_end_date].","","",""
 "les_12","Integer","","Recommended","Major change in eating habits (much more or much less food)","0 :: 7","0= did not happen; 1= an extremely negative effect; 2= a negative effect; 3= a semi negative effect; 4= no effect either positive or negative; 5= a semi positive effect; 6= a positive effect; 7= an extremely positive effect",""
 "les_12_freq","Integer","","Recommended","Dropped out or expelled from school- Number of occurrences between [les_start_date] and [les_end_date].","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "les_13","Integer","","Recommended","Foreclosure on mortgage or loan","0 :: 7","0= did not happen; 1= an extremely negative effect; 2= a negative effect; 3= a semi negative effect; 4= no effect either positive or negative; 5= a semi positive effect; 6= a positive effect; 7= an extremely positive effect",""
 "les_13_freq","Integer","","Recommended","Received an ''A'' on an exam or major project/paper in an important class- Number of occurrences between [les_start_date] and [les_end_date].","","",""
 "les_14","Integer","","Recommended","Death of a close friend","0 :: 7","0= did not happen; 1= an extremely negative effect; 2= a negative effect; 3= a semi negative effect; 4= no effect either positive or negative; 5= a semi positive effect; 6= a positive effect; 7= an extremely positive effect",""

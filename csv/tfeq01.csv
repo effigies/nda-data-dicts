@@ -58,7 +58,7 @@
 "ued_score","Integer","","Recommended","Disinhibition Factor","","","disinhibition_scale_score"
 "crd_score","Integer","","Recommended","Cognitive Restraint of Eating Factor","","","cognitive_restraint_score"
 "eed_score","Integer","","Recommended","Hunger Factor","","","hunger_score"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "vis_type","Integer","","Recommended","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","visit_type,visit_type_12,visit_type_6"
 "tfeq21_1","Integer","","Recommended","I deliberately take small helpings as a means of controlling my weight.","1::4","1 = Definitely false; 2 = Mostly false; 3 = Mostly true; 4 = Definitely true",""
 "tfeq21_2","Integer","","Recommended","I start to eat when I feel anxious","1::4","1 = Definitely false; 2 = Mostly false; 3 = Mostly true; 4 = Definitely true",""

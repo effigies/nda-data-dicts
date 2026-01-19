@@ -67,7 +67,7 @@
 "trtmt","Integer","","Recommended","Treatment plan","1::4","1=Continue current level; 2=Go to next level; 3=Go to follow up; 4=Exit study",""
 "fnaid","Integer","","Recommended","Billed to third party","0;1","0=No; 1=Yes",""
 "days_baseline","Integer","","Recommended","Days since baseline","","","date"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","int1,vtype"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","int1,vtype"
 "uvfa1a","Integer","","Recommended","Why did this visit occur:Assessment of possible change in psychiatric symptoms?","0;1","0=No; 1=Yes",""
 "uvfa1b","Integer","","Recommended","Why did this visit occur: Assessment of possible change in drug tolerability, adverse event?","0;1","0=No; 1=Yes",""
 "uvfa1c","Integer","","Recommended","Why did this visit occur: Assessment of possible change in medical status.","0;1","0=No; 1=Yes",""

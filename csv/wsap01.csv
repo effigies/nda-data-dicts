@@ -7,7 +7,7 @@
 "valence","String","10","Recommended","Current Valence","positive; negative; neutral","","stimuli_type"
 "response_type","Integer","","Recommended","Word Sentence Association Paradigm: Response correctness","0;1;9999","0=Incorrect; 1=Correct; 9999=No data",""
 "response_time","Integer","","Recommended","Word Sentence Association Paradigm: Speed of response to sentence stimuli","0::12000","Reaction time recorded in milliseconds",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment_type"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","assessment_type"
 "wsap_ta","Float","","Recommended","Theat Accept subscale: Percentage of threat interpretations accepted","0::100","",""
 "wsap_br","Float","","Recommended","Benign Reject subscale: Percentage of benign interpretations rejected","0::100","",""
 "wsap_total","Float","","Recommended","Threat Interpretation Bias Total Score: Average of Threat Accept and Benign Reject subscales","0::100","",""

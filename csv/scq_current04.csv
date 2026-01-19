@@ -53,7 +53,7 @@
 "scq_total_score","Integer","","Required","SCQ total score","","","ASQ_total,SCQ_CURR_SCORE,score,scq_current_total_score,total_score"
 "test_type","String","50","Recommended","Type of event (Pre-Test or Post-Test)","Pre-Test;Post-Test","",""
 "validity_of_data","Integer","","Recommended","Validity of data","0::4; 999","0= raw; 1 = Valid or clean; 2 = Question validity; 3 = Invalid data; 4 = Not answered; 999= missing","clean"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","scqc_apt"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","scqc_apt"
 "missing","Integer","","Recommended","""Number of responses missing (left blank). Greater than 6 is considered unscorable by the publisher. If record was scored by SCANTRON, missing values were recoded and might be missing on the form. Non-SCANTRON records have a (-1) for missing values.""","","","cs_number_unanswered,nbr_missing"
 "phenotype","String","400","Recommended","Phenotype/diagnosis for the subject","","e.g., Healthy, Control, Suicidal","diagnosis"
 "cs_total_score","Integer","","Recommended","Total Score - Calculated in the following way:  For Verbal children - Questions 2 - 40 are used For non-verbal children Questions 8 - 40 are used In those, a Yes = 0 and No = 1 for the following questions (2,9,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40) and a Yes = 1 and a No =  0 for the following questions (3,4,5,6,7,8,10,11,12,13,14,15,16,17,18) Blank on Form should be scored -1.  The total score is summed across items 2 - 40 for verbal and 8 - 40 for non-verbal. ","-1::40","",""

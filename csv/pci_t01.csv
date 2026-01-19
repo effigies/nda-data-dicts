@@ -35,7 +35,7 @@
 "ht_8yn","Integer","","Recommended","Have you disagreed about child''s cursing/saying bad words in the past month?","0;1","0=No; 1=Yes",""
 "ht_8freq","Integer","","Recommended","If you have disagreed about child''s cursing/saying bad words in the past month, how often have you disagreed?","1::6","1=Never last week, once last month; 2=1-2 times in last month; 3=3 or 4 times in last week; 4=5-6 times in last week; 5=Every day; 6=More than once a day",""
 "ht_8dgr","Integer","","Recommended","If you have disagreed about child''s cursing/saying bad words in the past month, how bad was the disagreement?","1::5","1=Not at all bad; 2=A little bad; 3=Somewhat bad; 4=Very bad; 5=Extremely bad",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ht_9yn","Integer","","Recommended","Have you disagreed about child''s household routines (bedtime, mealtimes, etc.) in the past month?","0;1","0=No; 1=Yes",""
 "ht_9freq","Integer","","Recommended","If you have disagreed about child''s household routines (bedtime, mealtimes, etc.) in the past month, how often have you disagreed?","1::6","1=Never last week, once last month; 2=1-2 times in last month; 3=3 or 4 times in last week; 4=5-6 times in last week; 5=Every day; 6=More than once a day",""
 "ht_9dgr","Integer","","Recommended","If you have disagreed about child''s household routines (bedtime, mealtimes, etc.) in the past month, how bad was the disagreement?","1::5","1=Not at all bad; 2=A little bad; 3=Somewhat bad; 4=Very bad; 5=Extremely bad",""

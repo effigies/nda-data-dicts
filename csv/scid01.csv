@@ -764,7 +764,7 @@
 "certpsyc","Integer","","Recommended","Psychotic Disorders.Codes for Certainty of Presence of >= 1 or Absence of ANY Disorder in Diagnostic Class 
 ","1::3","1=Poor; 2=Fair; 3=Good",""
 "subject_description","String","4000","Recommended","Subject related information (e.g the affection, phenotype, disease information, etc.).","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","gaf_apt,strs_interval,timept,tpoint,visit_name,visitnum,vtypscid"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","gaf_apt,strs_interval,timept,tpoint,visit_name,visitnum,vtypscid"
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","strs_frmcomp,tstst"
 "session_id","String","20","Recommended","session ID/screening ID","","","screeningid"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_name"

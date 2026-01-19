@@ -75,7 +75,7 @@
 "living1","Integer","","Recommended","Living situation","0;1","0=Other type of living situation; 1=Independent Living",""
 "strata","String","1","Recommended","O/Q/R ? Incoming Study Medication","O;Q;R","O=Olanzapine; Q=Quetiapine; R=Risperidone",""
 "trt","Integer","","Recommended","Treatment code","1;2","1: Switch; 2: Stay",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","week,wk"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","week,wk"
 "fseqno","Integer","","Recommended","Sequence Number","0::999","The FSEQNO variable in the ADJ form has a special interpretation compared to other forms.
 For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' can be thought of as
 being '002', and FSEQNO of '3' can be thought of as being '003'.
@@ -252,3 +252,13 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "sr4_demo","Integer","","Recommended","What is your annual income?","0::5","0=Less than $25,000; 1=$25,000 to $50,000; 2=$50,000 to $75,000; 3=$75,000 to $100,000; 4=$100,000 to $200,000; 5=More than $200,000",""
 "iba_marital2","Integer","","Recommended","What is your marital status?","1::7;666;777","1=Single; 2=Married; 3=Cohabiting; 4=Separated/Divorced; 5= Engaged; 6=Widowed; 7=Never married; 666=Missing; 777=NA",""
 "dem_13","Integer","","Recommended","Number of years married / living together","","",""
+"marijuana_30d","Integer","","Recommended","In the past 30 days, how many days have you used marijuana (Chamba)?","0::30;88;99","Number of days; 88= Don't know; 99= Refuse to answer",""
+"relationship_status","Integer","","Recommended","What is your current relationship status?","1::6;99","1= Single (never married) and not living with a partner; 2= Currently married; 3= Living with a partner, but not married; 4= Separated; 5= Divorced; 6= Widowed; 99= Refuse to answer",""
+"highest_school","Integer","","Recommended","What is the highest level of schooling you have completed?","0::5;99","0= Never attended school; 1= Completed primary school; 2= Completed secondary school; 3= Completed professional training; 4= Completed university; 5= Other; 99= Refuse to answer",""
+"riaya_gen13","String","60","Recommended","Specify highest level of education","","",""
+"income_mwk","Integer","","Recommended","What is your monthly household income?","0::7;99","0= Below 25,000; 1= 25,000-49,999; 2= 50,000-99,999; 3= 100,000-124,999; 4= 125,000-149,999; 5= 150,000-199,999; 6= 200,000-249,999; 7= 250,000 above; 99= Refuse to answer",""
+"income_3m","Integer","","Recommended","Have you earned an income in the last 3 months?","0;1;99","0= No; 1= Yes; 99= Refuse to answer",""
+"rela_childnum","Integer","","Recommended","How many children do you have?","","Number of Children; 99= Refuse to answer",""
+"sub_lifetime_03","Integer","","Recommended","In your lifetime, have you used marijuana (e.g., joints, vapes, edibles)","0;1;88;99;888;999","0=No/Unchecked; 1=Yes/Checked; 88=Don't know; 99=Refuse to answer; 888=N/A - condition skipped; 999 = Missing/No answer",""
+"sds3_use","Integer","","Recommended","In the last 3 months: Have you used marijuana during the past 3 months?","0;1;88;99","0= No; 1= Yes; 88= Don't know; 99= Refuse to answer",""
+"regalc1st","Integer","","Recommended","How old were you when you first started to drink regularly (at least once a month)?","","Age in years; 99=Refuse to answer",""

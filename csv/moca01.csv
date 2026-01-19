@@ -21,7 +21,7 @@
 "attention_subtraction","Integer","","Recommended","Serial 7 subtraction score","0::3","",""
 "mull_el_rs2","Integer","","Recommended","Repeats sentences II","0; 1; 2","0 = Fail; 1 = Repeats one sentence; 2 = Repeats two sentences","language_repetition"
 "language_letter","Integer","","Recommended","Maximal one-minute recall of words beginning with 'F'","0;1","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "moca_edu","Integer","","Recommended","Years of education completed","0::21;77;99","0= never attended/kindergarten only;  1= 1st grade; 2= 2nd grade; 3= 3rd grade; 4= 4th grade; 5= 5th grade; 6= 6th grade; 7= 7th grade; 8= 8th grade; 9= 9th grade; 10= 10th grade; 11= 11th grade; 12= 12th grade, no diploma; 13= high school graduate; 14= GED or equivalent; 15= some college, no degree; 16= associate degree: occupational, technical, or vocational program; 17= associate degree: academic program; 18= bachelor's degree (BA, AB, BS, BBA); 19= master's degree (MA,  MS, MENG, MED, MBA); 20= professional school degree (MD, DDS, DVM, JD); 21= doctoral degree (PhD, EDD); 77= refused; 99= don't know",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "memory_2nd___3","Integer","","Recommended","Words Correctly Repeated (2nd Trial): Church","0;1","0= Unchecked; 1= Checked",""

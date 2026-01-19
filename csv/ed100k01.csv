@@ -364,3 +364,6 @@
 "an_health_p","Integer","","Recommended","Did your low weight or eating behaviors cause problems with your physical health?","0;1","0 = No; 1 = Yes",""
 "an_treat","Integer","","Recommended","Have you ever received treatment for anorexia nervosa?","0;1","0 = No; 1 = Yes",""
 "an_treat_type___1","Integer","","Recommended","What kind of treatment have you received for anorexia nervosa? Select all that apply: Inpatient treatment - general hospital","0;1","0 = Unchecked; 1 = Checked",""
+"arfid_score","Integer","","Recommended","Lifetime avoidant/restrictive food intake disorder (ARFID) diagnosis score (derived in-house)","0;1","0 = No; 1 = Yes",""
+"aan_score","Integer","","Recommended","Lifetime atypical anorexia nervosa diagnosis score (derived in-house)","0;1","0 = No; 1 = Yes",""
+"other_methods","String","500","Recommended","If you used other methods to lose weight, lose fat, or prevent yourself from gaining weight/fat, what were the other methods?","","",""

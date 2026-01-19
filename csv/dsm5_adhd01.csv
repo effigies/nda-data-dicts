@@ -22,5 +22,5 @@
 "ydsm16","Integer","","Recommended","Often blurts out an answer before a question has been completed (e.g., completes people's sentences; cannot wait turn in conversations).","0::3","0=Not at all; 1=Just a little; 2=Pretty; 3=Very much",""
 "ydsm17","Integer","","Recommended","Often has difficulty waiting his or her turn (e.g., while waiting in line).","0::3","0=Not at all; 1=Just a little; 2=Pretty; 3=Very much",""
 "ydsm18","Integer","","Recommended","Often interrupts or intrudes on others (e.g., butts into conversations, games, or activities; may start using other people's things without asking or receiving permission; for adolescents or adults may intrude into or take over what others are doing).","0::3","0=Not at all; 1=Just a little; 2=Pretty; 3=Very much",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "respondents","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Physician","",""

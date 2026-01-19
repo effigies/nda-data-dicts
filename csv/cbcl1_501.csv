@@ -203,7 +203,7 @@
 "vi_y_worried_lang_develop","String","500","Recommended","If yes to above, why are you worried?","","",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "cbp_4","Integer","","Recommended","Does your child have any illness, physical disability or mental handicap?","0;1","0=No; 1=Yes","cbcl_103,cbclpre101,child_illness"
 "adis_concern_what","String","2000","Recommended","What concerns you the most right now about child's behavior or development?","","","cbclpre102,most_concern,parent_mostconcern_1,parent_mostconcern_2,parent_mostconcern_3,parent_mostconcern_4,ycbcl_concerns"
 "trf_best","String","2000","Recommended","Please describe the best things about this child:","","","best_things,cbclpre103,ycbcl_bestthings"

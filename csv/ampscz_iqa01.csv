@@ -9,7 +9,7 @@
 "ampscz_entry_date","Date","","Recommended","Date of Data Entry","","MM/DD/YYYY","chriq_entry_date"
 "chriq_assessment","Integer","","Recommended","Which IQ assessment was administered?","1::5;-900;-300","1 = WASI-II; 2 = WAIS-IV (ages 16-30); 3 = WISC-V (ages 12-15); 4 = WAIS-R (ages 16-90); 5 = C-WISC (ages 6-16); -900 = Missing; -300 = N/A",""
 "chriq_fsiq","Float","","Recommended","Composite score Full Scale IQ 2 (FSIQ-2)","42::160; -900; -300","-900 = Missing; -300 = N/A",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "bestest1_nvma","Integer","","Recommended","Nonverbal Mental Age (in months)","","",""
 "bestest1_fstest","Integer","","Recommended","Full Scale Test","1;3;4;6;10::15;888","1=Bayley; 3=DAS-II - Early Years (upper or lower level); 4=DAS-II - School Age; 6=Mullen Scales of Early Learning; 10=SB-5; 11=WAIS; 12=WASI; 13=WISC-V; 14=WPPSI; 15=Other; 888=Not Applicable",""
 "bestest1_fstest_other","String","100","Recommended","Full Scale Test, other (specify)","","",""

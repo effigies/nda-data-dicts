@@ -500,7 +500,7 @@
 "soc_phob_past","Integer","","Recommended","Past Social Phobia?","0; 1; 9999","0=No; 1=Yes; 9999 = Missing",""
 "tic_curr","Integer","","Recommended","Current Tic Disorder?","0; 1; 9999","0=No; 1=Yes; 9999 = Missing",""
 "tic_past","Integer","","Recommended","Past Tic Disorder?","0; 1; 9999","0=No; 1=Yes; 9999 = Missing",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visit_number"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visit_number"
 "ksads_pl_mania02_b","Integer","","Recommended","Explosive Irritability/Anger: Parent-Past","0::3","0=No Information; 1=Not Present; 2=Subthreshold; 3=Threshold",""
 "ksads_pl_anxiety01e_f","Integer","","Recommended","Specific Phobias: Summary-Past","0::3","0=No Information; 1=Not Present; 2=Subthreshold; 3=Threshold",""
 "ksads_pl_anxiety02e_a","Integer","","Recommended","Distress/Avoidance (Specific Phobias): Parent-Current","0::3","0=No Information; 1=Not Present; 2=Subthreshold; 3=Threshold",""

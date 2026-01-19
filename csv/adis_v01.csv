@@ -236,7 +236,7 @@
 "sub_use_disorder1_sev","Integer","","Recommended","substance use disorder 1 severity rating 1","","0 = not applicable; 1 = Normal; 2 = Borderline; 3 = Mild; 4 = Moderate; 5 = Marked; 6 = Severe; 7 = Extreme","substance_use_disorder1_severity"
 "adhd_severity","Integer","","Recommended","ADHD severity rating 1","","0 = not applicable; 1 = Normal; 2 = Borderline; 3 = Mild; 4 = Moderate; 5 = Marked; 6 = Severe; 7 = Extreme",""
 "prim_dx","Integer","","Recommended","Primary Diagnosis","0::7","0 = None, 1 = Generalized anxiety disorder, 2 = Social anxiety disorder, 3 = Panic disorder, 4 = Agoraphobia, 5 = Specific phobia, 6 = OS Anxiety disorder, 7 = Unspecified anxiety disorder","primary_dx"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "yad1y","Integer","","Recommended","ADHD. Inattention type","0 :: 1","0 = Absent; 1 = Present",""
 "asia1sev","Float","","Recommended","ADHD Inattentive - Severity Score","","-9 = Missing value",""
 "yad2y","Integer","","Recommended","ADHD. Hyperactive type","0 :: 1","0 = Absent; 1 = Present",""

@@ -9,7 +9,7 @@
 "nhood1_3","Integer","","Recommended","Is there graffiti on the buildings or walls of the buildings on the block or within 100 yards of the respondent's home?","1::4;-2;-99;77;88","1= None ; 2= Yes, but not a lot ; 3= Yes, quite a bit ; 4= Yes, almost everywhere ; -2, -2 2 Not Observed ; -99= N/A ; 77= Refused ; 88= Missing","nhood2_3"
 "nhood1_4","Integer","","Recommended","Are there vacant, abandoned, or boarded-up buildings, on the block or within 100 yards of the respondent's home?","1::4;-2;-99;77;88","1= No ; 2= Yes 1 building fits this description ; 3= Yes 2-3 buildings fit this description ; 4= Yes= or  more buildings fit this description ;-2= Not Observed ; -99= N/A ; 77= Refused ; 88= Missing","nhood2_4"
 "nhood1_5","Integer","","Recommended","Are there abandoned vehicles on the block or within 100 yards of the respondent's home?","1::4;-2;-99;77;88","1= No ; 2= Only one ; 3= 2-3 ; 4= 4 or more ;-2= Not observed ; -99= N/A ; 77= Refused ; 88= Missing","nhood2_5"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "safe8","Integer","","Recommended","I rely on myself to protect my personal safety.","1::5","1= Never; 2= Seldom; 3= About half the time; 4= Usually; 5= Always",""
 "safe9","Integer","","Recommended","I rely on my mate to protect my personal safety.","1::5","1= Never; 2= Seldom; 3= About half the time; 4= Usually; 5= Always",""
 "safe1","Integer","","Recommended","Would you say the safety of your neighborhood is (Select one answer)","1::5","1= Poor; 2= Fair; 3= Good; 4= Very Good; 5= Excellent",""

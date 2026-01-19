@@ -33,7 +33,7 @@
 "tvr","Float","","Recommended","Male Right Testicle Volume (mL) - Orchidometer Bead Number","","Testicular volume in milliliters ","r2tvr"
 "tvl","Float","","Recommended","Male Left Testicle Volume (mL) - Orchidometer Bead Number","","Testicular volume in milliliters ","r2tvl"
 "r2rem","Integer","","Recommended","Rater 2: Was pubic hair removed?","0;1","0 = No; 1 = Yes",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timepoint"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","timepoint"
 "whr2","Float","","Recommended","Waist to Hip Ratio 2","","Ratio of waist to hip circumference in inches",""
 "whr3","Float","","Recommended","Waist to Hip Ratio 3","","Ratio of waist to hip circumference in inches",""
 "whr_avg","Float","","Recommended","Average Waist to Hip Ratio ","","Average ratio of waist to hip circumference in inches",""

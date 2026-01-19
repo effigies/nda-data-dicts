@@ -24,7 +24,7 @@
 "heart_rate8","Float","","Recommended","Average heart rate for task epoch 8","","",""
 "heart_rate9","Float","","Recommended","Average heart rate for task epoch 9","","",""
 "heart_rate10","Float","","Recommended","Average heart rate for task epoch 10","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "fhrv","Float","","Recommended","Standard deviation of fetal heart rate across a set time period.","","999=Missing",""
 "fhrtime","Float","","Recommended","Duration of fetal heart rate collection period in minutes","","","time"
 "hrv_power_hfb","Float","","Recommended","Average Heart Rate Variability in the High Frequency Band (HFB)","0::10000","milliseconds squared",""

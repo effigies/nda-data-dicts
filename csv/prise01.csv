@@ -63,7 +63,7 @@
 "site","String","101","Recommended","Site","","Study Site","siteid"
 "ooth","Integer","","Recommended","Other Symptom: Other","0;1","0=No; 1=Yes","prother8"
 "monthsbl","Float","","Recommended","Actual number of months from Baseline","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "saldr","Integer","","Recommended","Having too much saliva or drooling","0;1","0=No,1=Yes",""
 "appf","Integer","","Recommended","Increase in your appetite for food","0;1","0=No,1=Yes",""
 "weig","Integer","","Recommended","Weight gain","0;1","0=No,1=Yes",""

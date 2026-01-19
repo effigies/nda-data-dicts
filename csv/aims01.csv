@@ -44,7 +44,7 @@
 "aims_14_date1","Integer","","Recommended","Movements disappear with sleep - Date 1","0; 1","0 = No; 1 = Yes","aims_14"
 "phase_ct","String","20","Recommended","Current Phase. Phase patient was in at the time of the assessment Phase 4 refers to the follow-up phase.","Pre-Rand; Phase 1/1A; Phase 2; Phase 3; Phase 4; Phase 1B; Open-Choice Phase; Screening; Phase 1","","phase"
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","interval,vtypaims"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","interval,vtypaims"
 "truncvis","Integer","","Recommended","Truncated Visit Number","","""Created variable: provides a numeric visit number for all visits, including unscheduled and end of phase""",""
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","bsldays"
 "aims07","Integer","","Recommended","""7. Neck, shoulders, hips""","0 :: 4","0 = None; 1 = Minimal; 2 = Mild; 3 = Moderate ; 4 = Severe","aimstm7,amsa7,q07"

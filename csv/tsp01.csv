@@ -17,6 +17,6 @@
 "drz_problm_tic_cnt","Integer","","Recommended","Problem with tic counts that will require manual editing of TicTimer output files?","0;1","0 = False; 1 = True",""
 "drz_spec_prob","String","600","Recommended","If problem with tic counts that will require manual editing of TicTimer output files, specify: ","","",""
 "tsp_tfi","Integer","","Recommended","Number of tic-free intervals (no observed tics)","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "tic_free","Integer","","Recommended","Tics per minute when ticking freely ","","",""
 "tic_suppression","Integer","","Recommended","Tics per minute when trying to suppress","","",""

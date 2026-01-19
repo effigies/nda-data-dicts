@@ -55,7 +55,7 @@
 "ref_child_id","String","50","Recommended","Referencing Child ID how it is defined in lab/project","","",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","treatment"
 "ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2;-1","1=Patient; 2=Partner; -1=Not applicable",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "bai_youth8","Integer","","Recommended","In the past two weeks... I''m afraid I might get hurt","0::3;999","0= Never; 1= Sometimes; 2= Often; 3= Always; 999= Missing/NA",""
 "bai_youth9","Integer","","Recommended","In the past two weeks... I worry I might get bad grades","0::3;999","0= Never; 1= Sometimes; 2= Often; 3= Always; 999= Missing/NA",""
 "bai_youth10","Integer","","Recommended","In the past two weeks... I worry about the future","0::3;999","0= Never; 1= Sometimes; 2= Often; 3= Always; 999= Missing/NA",""

@@ -64,4 +64,4 @@
 "ccas058","Integer","","Recommended","Affect: Pass/Fail","0;1","0=Pass; 1=Fail",""
 "ccas059","Integer","","Recommended","CCAS: Raw Total Score","0::120","",""
 "ccas60","Integer","","Recommended","CCAS: Total Failed Tests","0::10","1 failed test=CCAS possible; 2 or more failed tests=CCAS probable",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

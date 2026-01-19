@@ -93,7 +93,7 @@
 "usaudit_q28_1","Integer","","Recommended","In the past year: I have passed out from drinking.","0;1","0=No; 1=Yes",""
 "usaudit_q3_v3","Integer","","Recommended","How often do you have four or more drinks on one occasion?","0::4","0=Never; 1=Less than monthly; 2=Monthly; 3=Weekly; 4=Daily or almost daily",""
 "usaudit_treatment","Integer","","Recommended","Have you ever been in treatment for an alcohol problem?","0::2","0=Never; 1=Currently; 2=In the past",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "usaudit_q3_v4","Integer","","Recommended","How often do you have five or more drinks on one occasion?","0::4","0=Never; 1=Less than monthly; 2=Monthly; 3=Weekly; 4=Daily or almost daily",""
 "drnk13","Integer","","Recommended","With whom do you usually drink alcohol?","1 :: 7;99","1= Friends; 2= Spouse; 3= Other Sexual Partners; 4= Neighbor; 5= Realtives; 6= Strangers; 7= Drink Alone; 99= Do Not Know",""
 "drnk13a","Integer","","Recommended","With whom do you usually drink alcohol? Friends","0;1","0= No; 1= Yes",""

@@ -10,7 +10,7 @@
 "height_met","String","50","Recommended","Height - Metric Unit","","999 = Missing; -999 = No Data","ap1,height,weight_met_scan1,weight_met_scan2"
 "weight_met","Float","","Recommended","Weight - Metric Unit","","999 = Missing; -999 = No Data","ap2,weight"
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timept"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","timept"
 "c_waist","Float","","Recommended","Waist (cm)","","","ap3"
 "days_baseline","Integer","","Recommended","Days since baseline","","","apdays"
 "accult_select_language","Integer","","Recommended","Test given in Spanish? ¿Español?","0 ; 1","0 = No; 1 = Yes",""

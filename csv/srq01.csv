@@ -65,3 +65,4 @@
 "srq_enjoy5","Integer","","Recommended","I enjoy being nice to someone only if I gain something out of it","1::7","1= Strongly disagree; 2= Disagree; 3= Slightly disagree; 4= Neither agree nor disagree; 5= Slightly agree; 6= Agree; 7= Strongly agree",""
 "srq_enjoy6","Integer","","Recommended","I enjoy feeling emotionally close to someone","1::7","1= Strongly disagree; 2= Disagree; 3= Slightly disagree; 4= Neither agree nor disagree; 5= Slightly agree; 6= Agree; 7= Strongly agree",""
 "srq_enjoy7","Integer","","Recommended","I enjoy it if others look up to me","1::7","1= Strongly disagree; 2= Disagree; 3= Slightly disagree; 4= Neither agree nor disagree; 5= Slightly agree; 6= Agree; 7= Strongly agree",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

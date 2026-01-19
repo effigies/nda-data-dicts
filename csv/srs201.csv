@@ -162,7 +162,7 @@
 "srss00s7b","Integer","","Recommended","DSM-5 Compatible Scale: SCI: T Score","","-9=Unknown","cs_tscore_dsm5_sci,sci_tscore_parent"
 "srss00s8a","Integer","","Recommended","DSM-5 Compatible Scale: RRB: Raw Score","","-9=Unknown","raw_dsm5_rrb"
 "srss00s8b","Integer","","Recommended","DSM-5 Compatible Scale: RRB: T Score","","-9=Unknown","cs_tscore_dsm5_rrb"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ageequivalentyears","Integer","","Recommended","PPVT age equivalent in years","","",""
 "grade","String","50","Recommended","Current Grade","","",""
 "ihprovider","String","50","Recommended","name of school/service provider","","",""

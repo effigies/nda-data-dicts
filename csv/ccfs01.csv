@@ -11,4 +11,4 @@
 "ccfs05","Float","","Recommended","Click Test: Trial 1 in seconds","","",""
 "ccfs06","Integer","","Recommended","Click test: Reason not completed","0::3","0=Participant Unable to use hand; 1=Participant unable to complete; 2=Participant was too fatigued to complete trial; 3=Participant refused to complete trial",""
 "ccfs07","Float","","Recommended","Total Composite Cerebellar Functional Severity Score (CCFS)","","To be automatically calculated in the electronic database",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

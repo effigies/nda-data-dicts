@@ -7,7 +7,7 @@
 "site","String","101","Recommended","Site","","Study Site",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "daysrz","Integer","","Recommended","days since randomization","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","interval"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","interval"
 "sitedatasource_1","Integer","","Recommended","Source of Data: Site","0;1; -888; -999","0=False; 1=True; -888=Not Applicable; -999=Missing","infosrcr"
 "sitedatasource_phone","Integer","","Recommended","Source of Data: Telephone","0;1; -888; -999","0=False; 1=True; -888=Not Applicable; -999=Missing","infoscrct"
 "sitedatasource_physician","Integer","","Recommended","Source of Data: Physician","0;1; -888; -999","0=False; 1=True; -888=Not Applicable; -999=Missing","infoscrp"

@@ -8,7 +8,7 @@
 "pgi_2","Integer","","Recommended","Check the one number that best describes how your symptoms are now","1::4","1=normal; 2=mild; 3=moderate; 4=severe",""
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","pgi_complete"
 "pgis1","Integer","","Recommended","Please choose the response below that best describes the overall severity of your mental health symptoms over the past 7 days.","1 :: 5","1= No symptoms/normal; 2= Mild; 3= Moderate; 4= Severe; 5= Very Severe",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "pgi_3","Integer","","Recommended","Patient Global Impression since last visit or last 6 months:  Disease Status","1::3","1=Worse; 2=Stable/same; 3=Improved/better",""
 "pgi_4","Integer","","Recommended","Patient Global Impression since last visit or last 6 months:  Walking Status","1::3","1=Worse; 2=Stable/same; 3=Improved/better",""
 "pgi_5","Integer","","Recommended","Patient Global Impression since last visit or last 6 months:  Hand Function Status","1::3","1=Worse; 2=Stable/same; 3=Improved/better",""

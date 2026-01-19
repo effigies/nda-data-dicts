@@ -16,7 +16,7 @@
 "hbp_yn","Integer","","Recommended","High blood pressure diagnosis","0; 1","0= No; 1= Yes","hbp_dx01"
 "diabetes_dx01","Integer","","Recommended","Diabetes Diagnosis","0;1","0 = No; 1 = Yes",""
 "highchol_yn","Integer","","Recommended","High cholestrol diagnosis","0; 1","0= No; 1= Yes","high_col_dx"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "school_type","Integer","","Recommended","What kind of school?","1::6","1 = 2-year college; 2 = 4-year college; 3 = Technical school; 4 = Graduate school; 5 = High school; 6 = Other",""
 "bgender","Integer","","Recommended","What is your current gender identity?","0::7","0=Man; 1=Woman; 2=Transgender man; 3=Genderqueer/gender non-conforming; 4=A gender not listed here (please specify); 5=No answer; 6=Non-binary; 7=Transgender woman",""

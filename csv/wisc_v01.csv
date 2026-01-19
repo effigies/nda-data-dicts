@@ -762,7 +762,7 @@
 "st_ci","Integer","","Recommended","Confidence interval ST","","",""
 "retreival_ci","Integer","","Recommended","Confidence intervalConfidence intervalConfidence intervalival","","",""
 "status","String","50","Recommended","Status","","","pea_assessment_status"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","eventname"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","eventname"
 "pea_wiscv_item_a_rs","Integer","","Recommended","WISC-V Matrix Reasoning Sample Item A (Matrix) Raw Score","","",""
 "pea_wiscv_item_b_rs","Integer","","Recommended","WISC-V Matrix Reasoning Sample Item B (Serial Order) Raw Score","","",""
 "subtesttypedk","Float","","Recommended","Subtest Type Don't Know (DK),Total","","",""

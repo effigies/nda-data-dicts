@@ -78,7 +78,7 @@
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "medhx9a","String","100","Recommended","Do you use other recreational ""street"" drugs? If yes, please specify - 1","","","assistother"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "preg_due","Date","","Recommended","Pregnancy due date","","",""
 "assist_oth_freq_m","Integer","","Recommended","In the past month, how often have you used the substances you mentioned (FIRST DRUG, SECOND DRUG, ETC)? Other (cocaine, amphetamines, inhalants, sedatives, hallucinogens, opioids, etc)","0;2;3;4;6;999","0= Never; 2= Once or Twice; 3= A Few Times; 4= Weekly; 6= Daily or Almost Daily; 999= NA or Prefer Not to Answer",""
 "assist_oth_freq_specify_m","String","500","Recommended","If other, please specify: ","","",""

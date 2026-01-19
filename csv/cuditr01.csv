@@ -18,7 +18,7 @@
 "cudit11","Integer","","Recommended","How often during the past 6 months did you have a feeling of guilt or remorse after using cannabis or marijuana?","0::4","0 = Never; 1 = Less than monthly; 2 = Monthly; 3 = Weekly; 4 = Daily or almost daily",""
 "cudit12","Integer","","Recommended","Have you or someone else been injured as a result of your use of cannabis or marijuana over the past 6 months?","0;1","0 = No; 1 = Yes",""
 "cudit13","Integer","","Recommended","Has a relative, friend or a doctor or other health worker been concerned about your use of cannabis or marijuana or suggested you cut down over the past 6 months?","0;1","0 = No; 1 = Yes",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "bcuditr1","Integer","","Recommended","Have you used any cannabis over the past six months?","0;1","0 = No; 1 = Yes",""
 "cuditr_12m2","Integer","","Recommended","Over the past 12 months, how many hours were you stoned on a typical day when you had been using cannabis or marijuana products?  ","0::4","0=Less than 1; 1=1 or 2; 2=3 or 4; 3=5 or 6; 4=7 or more","cuditr_2"
 "cuditr_12m3","Integer","","Recommended","How often during the past 12 months did you find that you were not able to stop using cannabis or marijuana once you had started?","0::4","0=Never; 1=Less than monthly; 2=Monthly; 3=Weekly; 4=Daily or almost daily","cuditr_3"

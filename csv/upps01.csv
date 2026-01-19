@@ -121,7 +121,7 @@
 "fspgod","String","70","Recommended","Subject's gender OTHER describe","","",""
 "site","String","101","Recommended","Site","","Study Site","siteid"
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing","timepoint"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "losecontrol","Integer","","Recommended","Short Impulse Behavior Scale: Lose Control When Great Mood","1::5; -7; -8;-555","5= Never; 4= Almost never; 3= Sometimes; 2= Almost all the time; 1= All the time; -8= Do not know; -7= Refused;-555= Prefer not to answer",""
 "actwithoutthinkexcited","Integer","","Recommended","Short Impulse Behavior Scale: Act Without Think When Excited","1::5; -7; -8;-555","5= Never; 4= Almost never; 3= Sometimes; 2= Almost all the time; 1= All the time; -8= Do not know; -7= Refused;-555= Prefer not to answer",""
 "pum_1","Integer","","Recommended","Others are shocked or worried about the things I do when I am feeling very excited.  ","1::5;-555","1= I disagree a lot; 2= I disagree a little; 3= I neither agree nor disagree; 4= I agree a little; 5= I agree a lot; -555= Prefer not to answer","supps_pos17"

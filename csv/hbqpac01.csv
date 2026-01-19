@@ -312,7 +312,7 @@
 "hbqt9b","Integer","","Recommended","Has this child ever had vision problems?","0;1","0=No; 1=Yes",""
 "hbqt9c","Integer","","Recommended","Has this child ever had a learning disorder?","0;1","0=No; 1=Yes",""
 "hbqt9d","Integer","","Recommended","Has this child ever had a speech disorder?","0;1","0=No; 1=Yes",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "hbqt10","Integer","","Recommended","During the past six months, has this child had any emotional or behavioral problems?","0;1","0=No; 1=Yes",""
 "hbqt11","Integer","","Recommended","During the past six months, did this child tend to have more emotional or behavioral problems than other kids of the same gender and age?","0;1","0=No; 1=Yes",""
 "hbqt12","Integer","","Recommended","Do you think that this child needs any professional help with any emotional or behavioral problems?","0;1","0=No; 1=Yes",""

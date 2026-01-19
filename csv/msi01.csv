@@ -38,7 +38,7 @@
 "msi32","Integer","","Recommended","My partner keeps most of his or her feelings inside.","0;1;-7","0=False; 1=True; -7=Refused",""
 "psc_sum","Integer","","Recommended","Problem-Solving Communication subscale sum score","0::19","",""
 "afc_sum","Integer","","Recommended","Affective Communication subscale sum score","0::13","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","treatment"
 "ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2;-1","1=Patient; 2=Partner; -1=Not applicable",""
 "w_mr_askedadv_c","Integer","","Recommended","In the past month, you have sought your husband's advice/support in making important decisions. / In the past month, you have sought your wife’s advice/support in making important decisions.","0;1;88","0= Disagree; 1= Agree; 88= I don't know",""

@@ -58,4 +58,4 @@
 "org_address","String","4000","Recommended","Lines of the adddress are separated by a semi-colon, for example: Street Address; City, State; Zip Code","","","con_ccf_add_en"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","con_tdesc_en"
 "auth_besttime","String","8","Recommended","Best Time to Reach Parent","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

@@ -80,7 +80,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "asaps01g","Integer","","Recommended","Suicide attempt","0;1","0 = No;1 = Yes",""
 "sub_use_disorder","Integer","","Recommended","Substance Use Disorder","0::4","0=None; 1=Current; 2=Past; 3=Both Current and Lifetime; 4=Lifetime",""
 "findrisc_8","Integer","","Recommended","Have any members of your patient's immediate family or other relatives (only blood relatives) been diagnosed with diabetes (type 1 or type 2)?","0;3;5","0=No; 3=Yes; grandparent, aunt, uncle, or first cousin; 5=Yes: parent, brother, sister, or own child",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "site","String","101","Recommended","Site","","Study Site","site_id"
 "das1ms","String","200","Recommended","Marital status","","","maritalstatus"
 "ed_1_y","Integer","","Recommended","Are you currently in school?","0;1;77;88;-99;998;999","0= No; 1= Yes; 77= Refused; 88= Missing; -99= NA;998=Don't know; 999=No answer","education"

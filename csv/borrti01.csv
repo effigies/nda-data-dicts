@@ -108,4 +108,4 @@
 "q88_trouble_coping","Integer","","Recommended","""88. I have a hard time accepting the reality of tragic events in my life, like a death in the family.""","0;1","0 = false;1 = true",""
 "q89_please_child","Integer","","Recommended","89. I believe that a good mother should always please her children.","0;1","0 = false;1 = true",""
 "q90_sees_what_wants","Integer","","Recommended","90. Sometimes I see only what I want to see.","0;1","0 = false;1 = true",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

@@ -23,4 +23,4 @@
 "date_hospital","Date","","Recommended","If yes to have you ever been hospitalized for psychiatrics reasons, date of last psychiatric hospitalization (text entry box MM/DD/YYYY).","","",""
 "outptyn","Integer","","Recommended","Have you ever had any outpatient psychotherapy or counseling?","1;2","1 = No; 2 = Yes",""
 "months_outpt","String","250","Recommended","If yes to have you ever had any outpatient psychotherapy or counseling, how many total months of psychotherapy or counseling have you received? (number entry box)","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

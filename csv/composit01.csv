@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","adate"
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","tpoint"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","tpoint"
 "comp1","Integer","","Recommended","Considering only your own ""feeling best"" rhythm, at what time would you get up if you were entirely free to plan your day?","0::5","0 = 12:00pm (noon)- 5:00 a.m.; 1 = 5:00- 6:30 a.m.; 2 = 6:30- 7:45 a.m.; 3 = 7:45- 9:45 a.m.; 4 = 9:45- 11:00 a.m.; 5 = 11:00 a.m.- 12:00 (noon)","morning1,q122,q144,q2,rmeq_q142"
 "comp2","Integer","","Recommended","Considering only your own ""feeling best"" rhythm, at what time would you go to bed if you were entirely free to plan your evening?","0::5","0 = 3:00 a.m.- 8:00 p.m.; 1 = 8:00- 9:00 p.m.; 2 = 9:00- 10:15 p.m.; 3 = 10:15- 12:30 a.m.; 4 = 12:30- 1:45 a.m.; 5 = 1:45- 3:00 a.m.","morning2,q123,q145,q3"
 "comp3","Integer","","Recommended","Assuming normal circumstances, how easy do you find getting up in the morning?","1::4","1 = Very easy; 2 = Fairly easy; 3 = Slightly easy; 4 = Not at all easy","morning3,q124,q146,q4"

@@ -48,7 +48,7 @@
 "weekterm","String","20","Recommended","Last visit attended","","","tpid"
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","userid"
 "dode","String","10","Recommended","Date of Data Entry","","","dtcomplete"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visits"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visits"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "treatmentgroup","String","30","Recommended","Treatment condition","","e.g., Control, Intervention, Experimental, Placebo",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

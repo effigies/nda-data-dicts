@@ -7,7 +7,7 @@
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","strx_frmcomp"
 "visitday","Integer","","Recommended","day of visit","","","strx_visitdat_x"
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections","strx_studyid"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","strx_interval"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","strx_interval"
 "medication1_dosage","String","150","Recommended","First medication dosage","","0 = No medication; 999 = Missing","strx_meddose"
 "strx_changes","Integer","","Recommended","Any Medication dosing changes","1;0","1= Yes; 0= No",""
 "stdate1","String","20","Recommended","Medication start date 1","","mm/dd/yyyy or write out month year","strx_medstdat_x"

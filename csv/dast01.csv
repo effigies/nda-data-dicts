@@ -62,7 +62,7 @@
 "dasttot_t4","Integer","","Recommended","DAST total score","0::10","","t1dsttot"
 "dast_t4x","Integer","","Recommended","Level of drug abuse on DAST-10","0::4","0= No problems reported
 1= Low level; 2= Moderate level; 3= Substantial level; 4= Severe level. ","t1dstx4"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "dast_a_17","Integer","","Recommended","Have you ever been kicked out of school or lost a job because of drug abuse?","0;1","0 = No; 1 = Yes",""
 "dast_a_total","Integer","","Recommended","DAST-Adolescent Total score","0 :: 28","",""
 "dast_a_10","Integer","","Recommended","Does your boyfriend/girlfriend or parents ever complain about your involvement with drugs?","0;1","0 = No; 1 = Yes",""

@@ -179,7 +179,7 @@
 "rsas_apathytot","Integer","","Recommended","Social Apathy Subscale","","",""
 "rsas_withdrawaltot","Integer","","Recommended","Social Withdrawal Subscale","","",""
 "inf5","Integer","","Recommended","There have been times when I have dialed a telephone number, but the call went to voicemail.","0::1","0=true; 1=false",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "mis_20","Integer","","Recommended","I have sometimes had the passing thought that strangers are in love with me.","0::1","0 = No; 1 = Yes","wss_mi_8"
 "mis_21","Integer","","Recommended","The hand motions that strangers make seem to influence me at times.","0::1","0 = No; 1 = Yes","wss_mi_9"
 "mis_23","Integer","","Recommended","I have sometimes been fearful of stepping on sidewalk cracks.","0::1","0 = No; 1 = Yes","wss_mi_10"

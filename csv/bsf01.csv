@@ -26,7 +26,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "drdat","Integer","","Recommended","Date blood drawn","","","gpfa4"
 "gpfa6","Integer","","Recommended","Saturday or Holiday Delivery?","0;1","0=No; 1=Yes",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","visitlabel"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visitlabel"
 "sample_taken","String","50","Recommended","Was a sample taken at this interview/during this project time","Yes;No","","gen001"
 "gen001a","Integer","","Recommended","Was DNA collected?","0;1","0=No; 1=Yes",""
 "gen001b","Integer","","Recommended","Was RNA collected?","0;1","0=No; 1=Yes",""

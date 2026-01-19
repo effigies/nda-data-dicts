@@ -33,5 +33,5 @@
 "sads_27","Integer","","Recommended","27. I usually go to whatever social engagements I have. (F)","0;1","0=True; 1=False",""
 "sads_28","Integer","","Recommended","28. I find it easy to relax with other people. (F)","0;1","0=True; 1=False",""
 "sads_total","Integer","","Required","Social Avoidance and Distress Scale (SADS), total","0::28","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment_number"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","assessment_number"
 "study_condition","Integer","","Recommended","Study condition to which participant was assigned","1::7","1 = Cognitive remediation; 2 = Comparison condition; 3 = Other; 4= treatment as usual; 5= Computers first; 6= CRT first; 7=SCIT",""

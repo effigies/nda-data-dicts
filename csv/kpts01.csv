@@ -79,5 +79,5 @@
 "kptsct","Float","","Recommended","Factor C Physiological (total score)","","Includes Items KPTS9 thru KPTS12",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""

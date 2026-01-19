@@ -53,4 +53,4 @@
 "fh_5_other_relative_800","Integer","","Recommended","5th Other relative age (in months):","","","fh_other_5_age"
 "fh_other_5_mvoa_800","String","15","Recommended","5th Other relative Diagnosis:","","1 = Motor tics ; 2 = Vocal tics ; 3 = OCD ; 4 = ADHD ; 0 = None of the above","fh_other_5_mvoa"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","fh_comments,fh_comments_800"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

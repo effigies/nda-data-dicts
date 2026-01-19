@@ -23,7 +23,7 @@
 "session_id","String","20","Recommended","session ID/screening ID","","","digitsymbol_sittingid"
 "cbgroup","Integer","","Recommended","Counterbalancing Group","","","digitsymbol_group"
 "aurora_device","Integer","","Recommended","Device Used","1 :: 6","1=iPad; 2=iPhone; 3=Tablet; 4=Android Smartphone; 5=Desktop; 6=Laptop","digitsymbol_device"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","digitsymbol_timepoint"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","digitsymbol_timepoint"
 "digitsymbol_num_correct","Integer","","Recommended","Number Of Correct Matches In 90 Seconds","","",""
 "digitsymbol_num_responses","Integer","","Recommended","Number Of Total Responses In 90 Seconds","","","digsym.dscor"
 "digitsymbol_meanrtc","Float","","Recommended","Mean Reaction Time For All Correct Trials (ms)","","",""

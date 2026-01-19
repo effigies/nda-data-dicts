@@ -18,7 +18,7 @@
 "sabuse","Integer","","Recommended","Traumatic Event: Sexual abuse","0;1","0 = No; 1 = Yes",""
 "otrauma","Integer","","Recommended","Traumatic Event: Other","0;1","0 = No; 1 = Yes","vst_othrevnt"
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections","vst_studyid"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","vst_interval"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","vst_interval"
 "blood_ps","Integer","","Recommended","systolic blood pressure","","-99=Missing","vst_systolic"
 "blood_pd","Integer","","Recommended","diastolic blood pressure","","-99=Missing","vst_diastol"
 "q20_3","Integer","","Recommended","Pulse Rate","","""Safety range is 45 to 130. Levels outside of this range will be flagged as an adverse event. Field should not be left blank. If missing, please use -7,-8, -9.""","vst_pulse"

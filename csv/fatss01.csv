@@ -15,4 +15,4 @@
 "fss_9","Integer","","Recommended","Fatigue interferes with my work, family, or social life.","1::7","1=Strongly Disagree; 7=Strongly Agree",""
 "fss_total","Integer","","Recommended","Fatigue Severity Scale Total","","999 = Missing",""
 "vafs","Integer","","Recommended","Visual Analogue Scale (VAFS) for Fatigue","0::10","0=normal;10=worst",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

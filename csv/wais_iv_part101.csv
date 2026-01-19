@@ -635,7 +635,7 @@
 "iq3picc","Float","","Recommended","Picture completion subtest","","",""
 "iq4bloc","Float","","Recommended","Block design subtest","","",""
 "iqlang","Integer","","Recommended","Questionable validity of test based on language","1;2","1=No; 2=Yes",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "scoring_conv_confidence_wm","String","10","Recommended","Working Memory Confidence Interval-range","","",""
 "scoring_conv_confidence_ps","String","10","Recommended","Processing Speed Confidence Interval- range","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"

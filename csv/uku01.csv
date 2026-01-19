@@ -140,7 +140,7 @@
 "study_id","Integer","","Recommended","Study ID number","","46=Acute Phase; 47=Stabilization Phase",""
 "neuro_gaitdescribe","String","255","Recommended","Gait - Describe","","",""
 "dysm_hair_alop","Integer","","Recommended","Hair - Sparse/Alopecia","0::5","0 = No; 1 = Yes; 2=None or no change; 3=Minimal or questionable change; 4=Moderate; 5=Severe, marked increase",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "days_baseline","Integer","","Recommended","Days since baseline","","",""
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
 "me2","Integer","","Recommended","Status","0;1","0 = Past [Inactive]; 1 = Active",""

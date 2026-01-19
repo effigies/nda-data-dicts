@@ -108,7 +108,7 @@
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","brief_notes"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","pi_staff"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
 "brief_inhibit_raw","Integer","","Recommended","Inhibit Index - Raw Score","","","brief_in_raw,brief_p_inhib_raw"
 "brief_inhibition_percentile","Integer","","Recommended","BRIEF: Inhibition subscale percentile","","",""

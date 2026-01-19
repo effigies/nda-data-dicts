@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "site","String","101","Recommended","Site","","Study Site",""
 "stusdy","String","40","Recommended","Study ID","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "asas_01","Integer","","Recommended","Child keeps to himself when free to play (e.g.,lunchtime, recess)","0::3","0=Not at all/Rarely; 1=Sometimes; 2=Frequently; 3=Almost always",""
 "asas_02","Integer","","Recommended","Child is not interested in team sports or interactiveboard or playground games","0::3","0=Not at all/Rarely; 1=Sometimes; 2=Frequently; 3=Almost always",""
 "asas_03","Integer","","Recommended","Child lacks pretend play involving other kids","0::3","0=Not at all/Rarely; 1=Sometimes; 2=Frequently; 3=Almost always",""

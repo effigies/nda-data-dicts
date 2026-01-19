@@ -17,4 +17,4 @@
 "puts_10","Integer","","Recommended","I am able to stop my tics, even if only for a short period of time.","0::3","0 = not at all true ; 1 = little true ; 2 = pretty much true ; 3 = very much true",""
 "puts_total","Integer","","Recommended","PUTS Total: Sum all items used (see version_form data for 9-item or 10-item scale)","","",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","puts_comments"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

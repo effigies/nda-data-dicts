@@ -14,7 +14,7 @@
 "sesslate","Integer","","Recommended","Arrived late","0 ; 1 ; -7 ; -9","0 = No(N) ; 1 = Yes(Y) ; -7 = N/A ; -9 = missing or not reported",""
 "sesshowlate","Integer","","Recommended","Minutes that participant arrived late to session","1::60 ; -7 ; -9","1 = 1 Minute... -7 = N/A ; -9 = missing or not reported",""
 "sessreason","String","250","Recommended","Reason for arriving late to session","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","scmts1"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","scmts1"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","scmts7"
 "scmts2","Integer","","Recommended","In Attendance","1::3","1 = Patient only ; 2 = Caregiver only ; 3 = Patient and Caregiver",""
 "scmts3","Integer","","Recommended","Appointment Location","1::4","1 = Office ; 2 = Phone Session ; 3 = Home Delivered ; 4 = Missed",""

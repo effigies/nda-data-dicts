@@ -22,7 +22,7 @@
 "connections_used","String","4000","Recommended","Description of how participants were connected to the data collection hardware","","",""
 "scan_assess","Integer","","Recommended","When was this assessment administered?","1 :: 3","1= Pre Scan; 2= Post Scan; 3= During Scan",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "handedness","String","29","Recommended","handedness","R;L;B;999;888;777;555","R = Right; L = Left; B = Both; 999= No Answer; 888= Skipped; 777= Condition Skipped; 555= Missing",""
 "imaging_present","Integer","","Recommended","Indicates presence or absense of simultaneous imaging with psychophysiological data collection","0;1","0 = no simultaneous imaging; 1 = imaging performed during psychophysiological data collection",""
 "image_modality","String","30","Recommended","Image modality","MRI; PET; CT; SPECT; ultrasound; FA; X-Ray; spectroscopy; microscopy; DEXA; fNIRS; External Camera Photography","Computed Radiography; Computed Tomography; External Camera Photography; FA; General Microscopy; MRI; Magnetic Resonance; Magnetic Resonance Spectroscopy; Nuclear Medicine; Single Photon Emission Computed Tomography; Ultrasound",""

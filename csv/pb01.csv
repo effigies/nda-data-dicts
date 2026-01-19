@@ -16,4 +16,4 @@
 "orgerr_pbx","Integer","","Recommended","Pill Box Test Number of Orange Errors","0::40;-98;-99","0::40 =  range of errors; -99 = participant did not show; -98 = participant showed but data was not collected, N/A",""
 "ttlerr_pbx","Integer","","Recommended","Pill Box Test Total Number of Errors","0::75;-98;-99","0::53 =  range of errors; -99 = participant did not show; -98 = participant showed but data was not collected, N/A",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

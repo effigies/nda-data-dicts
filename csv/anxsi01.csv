@@ -7,7 +7,7 @@
 "site","String","101","Recommended","Site","","Study Site","ASITE,siteid"
 "clinicid","Integer","","Recommended","Clinic ID","","","ACLINIC,aclinic"
 "interv","Integer","","Recommended","Intervention Status","0;1","1=ITV, intervention; 0=TAU, treatment as usual",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","WAVE,wave"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","WAVE,wave"
 "days_baseline","Integer","","Recommended","Days since baseline","","","LOF,lof"
 "asi1","Integer","","Recommended","To what extent is this statement true for you... It is very important for me not to appear nervous.","0::4;999","0 = Very little; 1 = A little; 2 = Some; 3 = Much; 4 = Or very much; 999 = Prefer not to answer/Left blank","asi_r_13"
 "asi2","Integer","","Recommended","To what extent is this statement true for you: When I cannot keep my mind on a task, I worry that I might be going crazy.","0::4;999","0 = Very little; 1 = A little; 2 = Some; 3 = Much; 4 = Or very much; 999 = Prefer not to answer/Left blank","asi_r_34,worrygoingcrazy"

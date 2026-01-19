@@ -50,7 +50,7 @@
 "hcc","Float","","Recommended","Hair Cortisol Concentrations","","",""
 "car","Float","","Recommended","Cortisol awakening response  (salivary cortisol)","","",""
 "gr_sens","Float","","Recommended","Glucocorticoid Receptor Sensitivity (Area Under the Curve)","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "est4_1","Float","","Recommended","Estradiol data collected 5 minutes before (-5) consumption of ad lib meal","0 :: 2000; 8888;7777; 9999","pg/ml (picograms per milliliter), 8888 = on hormonal contraceptives. This code will ONLY be entered for estradiol for all participants on hormonal contraceptives. 7777 = became ineligible; 9999 = dropped out","est,est4_1_12,est4_1_6"
 "days_mens","Integer","","Recommended","Days since first day of last menstrual cycle","0 :: 100;7777; 8888; 9999"," 7777 = became ineligible; 8888 = on hormonal contraceptives. This code will ONLY be entered for estradiol for all participants on hormonal contraceptives.; 9999 = dropped out","day_mens,days_mens_12,days_mens_6"
 "assay_num","Integer","","Recommended","Assay number code/ID for assay kit used (as of Study Visit 4)","1 :: 100","","assay_num_12,assay_num_6"

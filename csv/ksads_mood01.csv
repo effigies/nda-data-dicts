@@ -154,7 +154,7 @@
 "ksads2_phobia_always_2p","Integer","","Recommended","Phobia Almost Always Provokes Fear/Anxiety Past Parent","1::3;-99;88;77","1=Not present; 2=Sub-threshold; 3=Present; -99=N/A ; 88=  Missing ; 77= Refused","k2sads_phobia_always_2b,k2sads_phobia_always_2c,k2sads_phobia_always_2p,ksads_phobia_always_2b,ksads_phobia_always_2c"
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "site","String","101","Recommended","Site","","Study Site",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","tpoint"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","tpoint"
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
 "ksapho","String","20","Recommended","Specify most intense phobia ","","",""
 "ksas1s","Integer","","Recommended","Distress ","1::3","1=Not present; 2=Sub-threshold; 3=Present",""

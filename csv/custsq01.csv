@@ -24,7 +24,7 @@
 "csq_q17","Integer","","Recommended","Have your rights as an individual been respected?","1::4","1 = No, almost never respected; 2 = No, sometimes not respected; 3 = Yes, generally respected; 4 = Yes, almost always respected",""
 "psq8","Integer","","Recommended","C: If you were to seek help again, would you come back to our program? P: If you were to seek help again for your child, would you come back to our program?","1::4","1 = No, definitely not; 2 = No, I don't think so; 3 = Yes, I think so; 4 = Yes, definitely","csq8a,csq8b,csq_q18"
 "csq_totalscore","Integer","","Recommended","Customer Satisfaction Questionnaire total score","","","severity_totscore"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "csq9a","Integer","","Recommended","To what degree did the treatment program help you to better understand your disorder?","1::4; -9","1=It was not at all helpful; 2=It was a little helpful; 3=It was quite helpful; 4=It was very helpful; -9=missing","csq9b"
 "csq10a","Integer","","Recommended","To what degree did the treatment program help you and your partner support each other through the experience?","1::4; -9","1=It was not at all helpful; 2=It was a little helpful; 3=It was quite helpful; 4=It was very helpful; -9=missing","csq10b"
 "csq11a","Integer","","Recommended","How would you rate the extent to which your partner was included in the treatment program?","1::3; -9","1=It was not enough; 2=It was just about right; 3=It was too much; -9=missing","csq11b"

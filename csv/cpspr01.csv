@@ -12,4 +12,4 @@
 "cpspr_05","Integer","","Recommended","Had a history of multiple suicide attempts","0;1","0 = No; 1 = Yes",""
 "cpspr_06","Integer","","Recommended","Implicit Association Test (IAT) score of association between death/suicide and self","","D score > 0",""
 "cpspr_07","Integer","","Recommended","Implication Association Test (IAT) score of association between life and self","","D score < 0",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

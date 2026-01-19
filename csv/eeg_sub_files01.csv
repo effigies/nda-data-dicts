@@ -29,7 +29,7 @@
 "site","String","101","Recommended","","Site","","Study Site",""
 "qeeg","Float","","Recommended","","QEEG Results: microvolt2","","",""
 "pqeeg","Float","","Recommended","","Post QEEG Results: microvolt2","","",""
-"visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "completed","Integer","","Recommended","","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","eeg001"
 "lab020","Date","","Recommended","","Date of PI/clinician signature","","","eeg004"
 "task_name","String","100","Recommended","","Name of task being rated","","",""

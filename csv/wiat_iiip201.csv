@@ -400,5 +400,5 @@
 "stage","Integer","","Recommended","Study stage","0::5; 51::53; 67; -888; -999","0 = Pre-Randomization (TADS) 1 = Stage 1 (TADS) 2 = Stage 2 (TADS) 3 = Stage 3 (TADS) 4 = Stage 4 (TADS) 5 = Stage 5 (SOFTAD); 51=Treatmentas Usual; 52=Screening Alone; 53=Intervention; 67=Unknown; -888=Not Applicable; -999=Missing;",""
 "wech6","Integer","","Recommended","WIAT Screener Test Results: Basic reading standard score","","",""
 "wech7","Integer","","Recommended","WIAT Screener Test Results: Teen requires assistance with reading materials","0;1","0 = No; 1 = Yes",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

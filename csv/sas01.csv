@@ -23,7 +23,7 @@ The first digit of FSEQNO relates to the corresponding ENF sequence number at th
 digit relates to the specific adjudicator who completed the adjudication form.",""
 "visitday","Integer","","Recommended","day of visit","","","sasa0b,studyday"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","vers"
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","interval,vtypsas"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","interval,vtypsas"
 "daysrz","Integer","","Recommended","days since randomization","","","sasa0ba"
 "sas07b","Integer","","Recommended","Head Rotation","0::4; 9","0=Loose, no resistance; 1=Slight resistance to movement although the time to rotate may be normal; 2=Resistance is apparent and the time of rotation is shortened; 3=Resistance is obvious and rotation is slowed; 4=Head appears stiff and rotation is difficult to carry out; 9=Not ratable","sas6_head_rotation,sas_6"
 "site","String","101","Recommended","Site","","Study Site",""

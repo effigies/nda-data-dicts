@@ -35,7 +35,7 @@
 "ius_pas","Integer","","Recommended","Prospective Anxiety Subscale (sum of items- ius: 7,8,10,11,18,19,21)","","",""
 "ius_ias","Integer","","Recommended","Inhibitory Anxiety Subscale (sum of items- ius: 9,12,15,20,25)","","",""
 "ius_shorttot","Integer","","Recommended","Total Score of IUS-12 (Short-Form)","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","pax_timepoint"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","pax_timepoint"
 "ius_20","Integer","","Recommended","The smallest doubt can stop me from acting","1::5","1 = not at all characteristic of me; 3 = somewhat characteristic of me; 5 = entirely characteristic of me","iusf_10"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "ius_factor1","Integer","","Recommended","Uncertainty has negative behavioral and self-referent implications","","",""

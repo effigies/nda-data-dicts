@@ -16,4 +16,4 @@
 "total_dietary_fiber_g","Integer","","Recommended","Total Dietary Fiber (g)","","",""
 "soluble_diet_fiber_g","Integer","","Recommended","Soluble Dietary Fiber (g)","","",""
 "insol_diet_fiber_g","Integer","","Recommended","Insoluble Dietary Fiber (g)","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

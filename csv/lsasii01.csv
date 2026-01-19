@@ -179,4 +179,4 @@
 "lsasii_19a","String","500","Recommended","Non-suicidal self injuries. Please list incident dates and methods used:","","",""
 "lsasii_20","Integer","","Recommended","How Many Suicidal self injuries in past year?","","Number of Times",""
 "lsasii_20a","String","500","Recommended","Suicidal self injuries. Please list incident dates and methods used:","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

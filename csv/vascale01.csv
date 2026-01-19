@@ -5,7 +5,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "concern_1","String","250","Recommended","Concern Number 1. The sign or symptom causing concern is:","","",""
 "line_total_1_cm","Integer","","Recommended","Total length of line.","","","vas"
 "severity_1_cm","Integer","","Recommended","How severe is the sign or symptom today? Please place a vertical mark on the line below to indicate how bad you think the sign or symptom is today. Length from end of line to mark.","","Severity measured from Completely Absent (0cm) to Very Severe.",""

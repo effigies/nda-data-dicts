@@ -58,7 +58,7 @@
 "bdi_tot","Integer","","Recommended","BDI-II Total Score, based on all 21 questions using imputed values. [Note: This score is missing if less than 17 of the 21 items are answered]Items included in score:BDI1, BDI2, BDI3, BDI4, BDI5, BDI6, BDI7, BDI8, BDI9, BDI10, BDI11, BDI12, BDI13, BDI14, BDI15, BDI16, BDI17, BDI18, BDI19, BDI20, BDI21","0::63","","bdi_tsc"
 "bdi_cat","Integer","","Recommended","BDI-II Total Score categorized by severity using imputed values","1::4","1 = Minimal (BDI-II Total Score = 0 � 13) 2 = Mild (BDI-II Total Score = 14 � 19)3 = Moderate (BDI-II Total Score = 20 � 28) 4 = Severe (BDI-II Total Score = 29 � 63)",""
 "pathway","Integer","","Recommended","step pathway","1::9","1=SCP; 2=AD-Acute Depression; 3=REFD-Refractory Dep; 4=RELP-Relapse Prevent; 5=Psy-AD-Psychosocial; 6=Psy-REL-Psychosocial; 7=Omega 3; 8=LiMRS; 9=PAD-Psychosocial",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","bdi_apt,visitn"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","bdi_apt,visitn"
 "daysrz","Integer","","Recommended","days since randomization","","",""
 "site","String","101","Recommended","Site","","Study Site","site_id,siteid,sitenum"
 "bsit0","Float","","Recommended","Weeks from Time 0/baseline to assessment","","",""

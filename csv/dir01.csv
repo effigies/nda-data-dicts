@@ -10,6 +10,6 @@
 "dr1d","Integer","","Recommended","Reducing confusion and difficulty concentrating resulting in difficulty paying attention or thinking clearly","1::5","1 = Not at all;2 = A little bit;3 = Somewhat;4 = Quite a bit;5 = Very Much",""
 "dr1e","Integer","","Recommended","Reducing medication side effects, such as feeling fidgety, restless, or stiff","1::5","1 = Not at all;2 = A little bit;3 = Somewhat;4 = Quite a bit;5 = Very Much",""
 "dr1f","Integer","","Recommended","Increasing productive activities, such as having a job, going to school, or doing chores such as shopping or cleaning the house","1::5","1 = Not at all;2 = A little bit;3 = Somewhat;4 = Quite a bit;5 = Very Much",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","timept"
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","timept"
 "site","String","101","Recommended","Site","","Study Site",""
 "days_baseline","Integer","","Recommended","Days since baseline","","","qlrdidays"

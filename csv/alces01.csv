@@ -17,7 +17,7 @@
 "ales_11","Integer","","Recommended","Please indicate the want more that you are experiencing RIGHT NOW.","0::100","0 = Not at all; 100 = Extremely",""
 "ales_12","Integer","","Recommended","Please indicate the nauseous that you are experiencing RIGHT NOW.","0::100","0=Not at all; 100=Extremely",""
 "stime","String","20","Recommended","Session time","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""
 "like_effects","Integer","","Recommended","How much do you like the effects you are experiencing right now?","1::100","1 = None at all; 100 = Very much",""
 "stimulation_level","Integer","","Recommended","How stimulated do you feel right now?","1::100","1 = None at all; 100 = Very much",""

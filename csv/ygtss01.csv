@@ -85,7 +85,7 @@
 "ygtss_tics_complexity","Integer","","Recommended","All Tics: Complexity","0::10","Total of Motor and Phonic",""
 "ygtss_tics_interference","Integer","","Recommended","All Tics: Interference","0::10","Total of Motor and Phonic",""
 "ygtss_tics_total","Integer","","Recommended","All Tics: Total","0::50","Total of Motor and Phonic",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "complexvocal14","Integer","","Recommended","Other complex vocal tics","0;1","0=No; 1=Yes",""
 "complexvocal15","String","1000","Recommended","Describe any orchestrated patterns or sequences of phonic tic behaviors","","",""
 "tscl_sm_nstwitch_spec","String","500","Recommended","Nose, mouth, tongue movements, or facial grimacing: nose twitching, biting the tongue, chewing on the lip or licking the lip, lip pouting, teeth baring, or teeth grinding: Specific tic(s):","","",""

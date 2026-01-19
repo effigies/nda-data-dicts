@@ -900,7 +900,7 @@ Criteria:
 "bed_partrem","Integer","","Recommended","Binge Eating Disorder: Partial Remission","0;1","0=No, 1=Yes",""
 "bed_fullrem","Integer","","Recommended","Binge Eating Disorder: Full Remission","0;1","0=No, 1=Yes",""
 "bed_sev","Integer","","Recommended","Binge-Eating Disorder - severity","1::4;-9","1=Mild; 2=Moderate; 3=Severe; 4=Extreme; -9=Missing",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","treatment"
 "ptpr","Integer","","Recommended","Please indicate the status of the participant","1;2;-1","1=Patient; 2=Partner; -1=Not applicable",""
 "mde_status","Integer","","Recommended","Major depressive episode","1::7","1=Current; 2=Past; 3=Recurrent; 4=Current and Past; 5=Current and Recurrent; 6=Past and Recurrent; 7=Current, Past, and Recurrent",""

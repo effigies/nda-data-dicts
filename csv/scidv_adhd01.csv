@@ -111,3 +111,7 @@
 "clincutoffa3a","Integer","","Recommended","Clinical Cutoff Score (yes/no) ADHD, combined","0;1; 9","0 = No; 1 = Yes; 9 = Missing value",""
 "clincutoffa2","Integer","","Recommended","Clinical Cutoff Score (yes/no) ADHD, hyperactive","0;1; 9","0 = No; 1 = Yes; 9 = Missing value",""
 "clincutoffa1","Integer","","Recommended","Clinical Cutoff Score (yes/no) ADHD, Inattentive","0;1; 9","0 = No; 1 = Yes; 9 = Missing value",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"teen_subject_id","String","20","Recommended","Teen subject ID the parent is reporting on","","",""

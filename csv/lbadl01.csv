@@ -43,7 +43,7 @@
 "lawtonadl20","Integer","","Recommended","If you are having more difficulty than you used to with the above tasks, approximately when did the difficulties begin?","1::5; 8","1 = Within the last month; 2 = 1 to 6 months ago; 3 = 6 months to 2 years ago; 4 = 2 to 5 years ago; 5 = More than 5 years ago; 8 = I am not having any difficulties",""
 "form_completed","Integer","","Recommended","Was the form completed?","1::4","1=Yes; 2=No; 3=Unverified; 4 = N/A-Not in age range",""
 "date_updated","Date","","Recommended","Date record updated","","",""
-"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "dode","String","10","Recommended","Date of Data Entry","","",""
 "lbadl_currtot","Integer","","Recommended","L & B Activities of Daily Living Scale total of current items","","","iadl_score"

@@ -69,7 +69,7 @@
 "study","String","100","Recommended","","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections","group"
 "week","Float","","Recommended","","Week in level/study","","99=week 10-week 14",""
 "experiment_description","String","4000","Recommended","","Description of experiment/sequence/event","","","name"
-"visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2","assessment,visitid"
+"visit","String","60","Recommended","","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","assessment,visitid"
 "slice_timing","String","2000","Conditional","scan_type == 'fMRI' && image_file_format != 'DICOM'","The time at which each slice was acquired during the acquisition. Slice timing is not slice order - it describes the time (sec) of each slice acquisition in relation to the beginning of volume acquisition. It is described using a list of times (in JSON format) referring to the acquisition time for each slice. The list goes through slices along the slice axis in the slice encoding dimension
 ","","!=DICOM means not equal DICOM",""
 "bvek_bval_files","String","5","Conditional","scan_type == 'MR diffusion' || scan_type == 'multi-shell DTI' || scan_type == 'single-shell DTI'","bvec and bval files provided as part of image_file or manifest","Yes; No","",""

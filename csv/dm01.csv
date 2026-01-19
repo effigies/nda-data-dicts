@@ -49,7 +49,7 @@
 "gender_other_spec","String","100","Recommended","Gender identity of subject, if other","","",""
 "psych_p52","Integer","","Recommended","Primary sexual orientation","1::13","1=Heterosexual; 2=Homosexual; 3=Bisexual; 4=Mostly heterosexual; 5=Mostly homosexual; 6=Pansexual; 7=Pansexual; 8=Asexual; 9=Other; 10=Demisexual; 11=Queer; 12=Unlabeled; 13=Not sure",""
 "demo_sex_orient_other","String","20","Recommended","If you selected Other for sexual orientation, please specify.","","",""
-"rela_childnum","Integer","","Recommended","How many children do you have?","","Number of Children",""
+"rela_childnum","Integer","","Recommended","How many children do you have?","","Number of Children; 99= Refuse to answer",""
 "fs18b","Integer","","Recommended","How many children are under age 18?","","",""
 "fs18c","Integer","","Recommended","How many children are living with you in your home?","","",""
 "fs18d","Integer","","Recommended","For how many children, if any, have you lost legal custody?","","",""
