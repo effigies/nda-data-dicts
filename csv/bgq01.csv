@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "grief_1","Integer","","Recommended","Have you lost someone significant to you?","0;1","0=No; 1=Yes",""
-"grief_2","Integer","","Recommended","How many months has it been since your significant other died?","1::3","1=Not at all; 2=Somewhat; 3=A lot",""
+"grief_2","Integer","","Recommended","How many months has it been since your significant other died?","0::100","Number of months",""
 "grief_3","Integer","","Recommended","How much are you having trouble accepting the death of your significant other?","1::3","1=Not at all; 2=Somewhat; 3=A lot",""
 "grief_4","Integer","","Recommended","How much does your grief still interfere with your life?","1::3","1=Not at all; 2=Somewhat; 3=A lot",""
 "grief_5","Integer","","Recommended","How much are you having trouble accepting the death of [about_whom]?","1::3","1=Not at all; 2=Somewhat; 3=A lot",""

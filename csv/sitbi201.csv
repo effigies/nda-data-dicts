@@ -205,3 +205,7 @@
 "sitbir_si_2e","Integer","","Recommended","Please select each of the following thoughts you've ever had: I wish I were dead","0;1","0 = No; 1 = Yes",""
 "sitbir_si_2f","Integer","","Recommended","Please select each of the following thoughts you've ever had: Maybe I should kill myself","0;1","0 = No; 1 = Yes",""
 "sitbir_si_2g","Integer","","Recommended","Please select each of the following thoughts you've ever had: I should kill myself","0;1","0 = No; 1 = Yes",""
+"motivationsp_01","Integer","","Recommended","How confident are you that you will use your safety plan if you have thoughts of suicide?","0::10;-9","0=Not at all confident; 5=Somewhat confident; 10=Completely confident; -9=Missing",""
+"motivationsp_02","Integer","","Recommended","Please mark the number that best describes how ready you are to use your safety plan/recovery action plan?","0::10;-9","0=I am not ready to do this / I never think about doing this; 3=Sometimes I think about doing this; 5=I will try doing this; 7=I am already trying to do this; 10=I do this regularly; -9=Missing",""
+"motivationsp_03","Integer","","Recommended","How helpful has the safety plan/recovery action plan been to you?","1::5;-9","1=Not at all helpful; 5=Extremely helpful; -9=Missing",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

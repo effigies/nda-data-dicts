@@ -26,5 +26,5 @@
 "bid_snack_number","Integer","","Recommended","Snack Number","1::60","",""
 "bid_snack","Integer","","Recommended","Monetary bid for snack #","1::4","1 = 1 USD; 2 = 2 USD; 3 = 3 USD; 4 = 4 USD",""
 "median_bid","Float","","Recommended","Median of monetary bids of 60 snacks","1::4","",""
-"choice_snack","Integer","","Recommended","Amount of times participants chose snack during the 60 trials","1::60","",""
-"choice_cost","Integer","","Recommended","Amount of times participants chose cost during the 60 trials","1::60","",""
+"choice_snack","Integer","","Recommended","Amount of times participants chose snack during the 60 trials","0::60","",""
+"choice_cost","Integer","","Recommended","Amount of times participants chose cost during the 60 trials","0::60","",""
