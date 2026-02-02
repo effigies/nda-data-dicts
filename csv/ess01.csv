@@ -5,25 +5,19 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "visit","String","60","Required","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","ess_date"
-"ess_1","Integer","","Recommended","How likely are you to doze off or fall asleep in the situations described below, in contrast to feeling just tired? Sitting and Reading","0::3","0=Would  never doze; 1 =Slight  change of dozing; 2 =Moderate  chance of dozing; 3 =High chance of dozing",""
-"ess_2","Integer","","Recommended","How likely are you to doze off or fall asleep in the situations described below, in contrast to feeling just tired? Watching TV","0::3","0=Would  never doze; 1 =Slight  change of dozing; 2 =Moderate  chance of dozing; 3 =High chance of dozing",""
-"ess_3","Integer","","Recommended","How likely are you to doze off or fall asleep in the situations described below, in contrast to feeling just tired? Sitting, inactive in a public place (e.g. a theatre or a meeting)","0::3","0=Would  never doze; 1 =Slight  change of dozing; 2 =Moderate  chance of dozing; 3 =High chance of dozing",""
+"ess_1","Integer","","Recommended","How likely are you to doze off or fall asleep in the situations described below, in contrast to feeling just tired? Sitting and Reading","0::3;-999","0=Would never doze; 1 =Slight change of dozing; 2 =Moderate chance of dozing; 3 =High chance of dozing; -999=Not Applicable",""
+"ess_2","Integer","","Recommended","How likely are you to doze off or fall asleep in the situations described below, in contrast to feeling just tired? Watching TV","0::3;-999","0=Would never doze; 1 =Slight change of dozing; 2 =Moderate chance of dozing; 3 =High chance of dozing; -999=Not Applicable",""
+"ess_3","Integer","","Recommended","How likely are you to doze off or fall asleep in the situations described below, in contrast to feeling just tired? Sitting, inactive in a public place (e.g. a theatre or a meeting)","0::3;-999","0=Would never doze; 1 =Slight change of dozing; 2 =Moderate chance of dozing; 3 =High chance of dozing; -999=Not Applicable",""
 "ess_4","Integer","","Recommended","How likely are you to doze off or fall asleep in the situations described below, in contrast to feeling just tired? As a passenger in a car for an hour without a break
-","0::3","0=Would  never doze; 1 =Slight  change of dozing; 2 =Moderate  chance of dozing; 3 =High chance of dozing
-",""
+","0::3;-999","0=Would never doze; 1 =Slight change of dozing; 2 =Moderate chance of dozing; 3 =High chance of dozing; -999=Not Applicable",""
 "ess_5","Integer","","Recommended","How likely are you to doze off or fall asleep in the situations described below, in contrast to feeling just tired? Lying down to rest in the afternoon when circumstances permit
-","0::3","0=Would  never doze; 1 =Slight  change of dozing; 2 =Moderate  chance of dozing; 3 =High chance of dozing
-",""
-"ess_6","Integer","","Recommended","How likely are you to doze off or fall asleep in the situations described below, in contrast to feeling just tired? Sitting and talking to someone","0::3","0=Would  never doze; 1 =Slight  change of dozing; 2 =Moderate  chance of dozing; 3 =High chance of dozing
-",""
+","0::3;-999","0=Would never doze; 1 =Slight change of dozing; 2 =Moderate chance of dozing; 3 =High chance of dozing; -999=Not Applicable",""
+"ess_6","Integer","","Recommended","How likely are you to doze off or fall asleep in the situations described below, in contrast to feeling just tired? Sitting and talking to someone","0::3;-999","0=Would never doze; 1 =Slight change of dozing; 2 =Moderate chance of dozing; 3 =High chance of dozing; -999=Not Applicable",""
 "ess_7","Integer","","Recommended","How likely are you to doze off or fall asleep in the situations described below, in contrast to feeling just tired? Sitting quietly after a lunch without alcohol
-","0::3","0=Would  never doze; 1 =Slight  change of dozing; 2 =Moderate  chance of dozing; 3 =High chance of dozing
-",""
+","0::3;-999","0=Would never doze; 1 =Slight change of dozing; 2 =Moderate chance of dozing; 3 =High chance of dozing; -999=Not Applicable",""
 "ess_8","Integer","","Recommended","How likely are you to doze off or fall asleep in the situations described below, in contrast to feeling just tired? In a car, while stopped for a few minutes in traffic
-","0::3","0=Would  never doze; 1 =Slight  change of dozing; 2 =Moderate  chance of dozing; 3 =High chance of dozing
-",""
-"ess_total","Integer","","Required","ESS score","","[ess_1] + [ess_2] + [ess_3] + [ess_4] + [ess_5] + [ess_6] + [ess_7] + [ess_8]
-",""
+","0::3;-999","0=Would never doze; 1 =Slight change of dozing; 2 =Moderate chance of dozing; 3 =High chance of dozing; -999=Not Applicable",""
+"ess_total","Integer","","Required","ESS score","","[ess_1] + [ess_2] + [ess_3] + [ess_4] + [ess_5] + [ess_6] + [ess_7] + [ess_8]; -999=Not Applicable",""
 "ess_1child","Integer","","Recommended","Over the last month, how likely have you been to fall asleep while doing these things that are described below? Sitting and reading","0::3","0 = Would never fall asleep; 1 = Slight chance of falling asleep; 2 = Moderate chance of falling asleep; 3 = High chance of falling asleep",""
 "ess_2child","Integer","","Recommended","Over the last month, how likely have you been to fall asleep while doing these things that are described below? Sitting and watching TV or a video","0::3","0 = Would never fall asleep; 1 = Slight chance of falling asleep; 2 = Moderate chance of falling asleep; 3 = High chance of falling asleep",""
 "ess_3child","Integer","","Recommended","Over the last month, how likely have you been to fall asleep while doing these things that are described below? Sitting in a classroom at school during the morning ","0::3","0 = Would never fall asleep; 1 = Slight chance of falling asleep; 2 = Moderate chance of falling asleep; 3 = High chance of falling asleep",""
@@ -31,3 +25,4 @@
 "ess_5child","Integer","","Recommended","Over the last month, how likely have you been to fall asleep while doing these things that are described below? Lying down to rest in the afternoon","0::3","0 = Would never fall asleep; 1 = Slight chance of falling asleep; 2 = Moderate chance of falling asleep; 3 = High chance of falling asleep",""
 "ess_6child","Integer","","Recommended","Over the last month, how likely have you been to fall asleep while doing these things that are described below? Sitting and talking to someone","0::3","0 = Would never fall asleep; 1 = Slight chance of falling asleep; 2 = Moderate chance of falling asleep; 3 = High chance of falling asleep",""
 "ess_7child","Integer","","Recommended","Over the last month, how likely have you been to fall asleep while doing these things that are described below? Sitting quietly by yourself after lunch","0::3","0 = Would never fall asleep; 1 = Slight chance of falling asleep; 2 = Moderate chance of falling asleep; 3 = High chance of falling asleep",""
+"ess_totalchild","Integer","","Recommended","ESS-CHAD score (Epworth Sleepiness Scale for Children and Adolescents)","","[ess_1child] + [ess_2child] + [ess_3child] + [ess_4child] + [ess_5child] + [ess_6child] + [ess_7child]",""

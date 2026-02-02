@@ -42,3 +42,5 @@
 "sample_sent","String","100","Recommended","","Sample sent to: i.e. NRGR","","",""
 "sample_sent_id","String","100","Recommended","","Sample Sent ID","","",""
 "teen_subject_id","String","20","Recommended","","Teen subject ID the parent is reporting on","","",""
+"race_other","String","100","Recommended","","Race of Respondent Specify","","",""
+"comments_misc","String","4000","Recommended","","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""

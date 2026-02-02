@@ -206,3 +206,4 @@
 "x74ng_sum_ill","Float","","Recommended","Scale: Illnesses in past 12 months","0::58; -99","Sum of 2 point items x74ng_hlth_q1_1 through x74ng_hlth_q1_29; -99 = Missing",""
 "x74ng_med_conditions","Float","","Recommended","Scale: Taken prescription medication in past 30 days","0::70; -99","Sum of 5 point items x74ng_hlth_q2_1 through x74ng_hlth_q2_14; -99 = Missing",""
 "x74ng_health_access","Float","","Recommended","Scale: Access to health care (Higher score = more access)","0::100; -99","Composite of items dealing with having insurance and access to health professionals; recoded items (to 0-100 scale) x74ng_hlth_p3_1 through x74ng_hlth_p3_5 and x74ng_hlth_p3_6d; -99 = Missing",""
+"sf3601_2weeks","Integer","","Recommended","In the past two weeks, would you say that your health was:","1::5;-9","1 = Excellent; 2 = Very good; 3 = Good; 4 = Fair; 5 = Poor; -9 = Missing value",""

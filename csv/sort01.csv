@@ -232,7 +232,7 @@
 "sort_gradestanine","Float","","Recommended","Stanine based on grade","","",""
 "sort_agence","Float","","Recommended","Normal Curve Equivalent based on age","","",""
 "sort_gradence","Float","","Recommended","Normal Curve Equivalent based on grade","","",""
-"sort_agepercentile","Float","","Recommended","Percentile based on age","","",""
+"sort_agepercentile","Float","","Recommended","Percentile based on age","","999 = Greater than 99th percentile",""
 "sort_gradepercentile","Float","","Recommended","Percentile based on grade","","",""
 "sort_confidenceinterv","Integer","","Recommended","Confidence interval used","1;2","1= 95%; 2= 99%",""
 "sort_gradeconfidenceintervfrom","Float","","Recommended","Confidence interval lower limit value based on grade","","",""

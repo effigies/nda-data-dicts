@@ -61,4 +61,4 @@
 "tops3_adminj","Integer","","Recommended","J. Rapport","0;1","0= Not Interfering; 1= Interfering",""
 "tops3_admink","Integer","","Recommended","K. Perseverance","0;1","0= Not Interfering; 1= Interfering",""
 "tops3_adminl","String","500","Recommended","L. Other interferences (specify)","","",""
-"tops3_ageequiv","Integer","","Recommended","Age equivalent in months","72::213;606;1818","606= Less than 6-0/72; 1818= Greater than 17-9/213",""
+"tops3_ageequiv","Integer","","Recommended","Age equivalent in months","72::213;606;1313; 1818","606= Less than 6-0/72; 1818= Greater than 17-9/213; 1313 = Greater than 12-9/153",""

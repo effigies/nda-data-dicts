@@ -28,3 +28,5 @@
 "uhfhnew05","Integer","","Recommended","How well does this each statement describe you or your situation? I am concerned that the money I have or will save won?t last ","1::5","1 = Completely; 2 = Very well; 3 = Somewhat; 4 = Very little; 5 = Not at all",""
 "uhfhnew06","Integer","","Recommended","How often does this each statement apply to you? I have money left over at the end of the month ","1::5","1 = Always; 2 = Often; 3 = Sometimes; 4 = Rarely; 5 = Never",""
 "uhfhnew07","Integer","","Recommended","How often does this each statement apply to you? My finances control my life","1::5","1 = Always; 2 = Often; 3 = Sometimes; 4 = Rarely; 5 = Never",""
+"unemp_pastyr","Integer","","Recommended","In the past year, have you experienced any months of unemployment?","0;1","0= No; 1= Yes",""
+"unemp_pastyr_months","Integer","","Recommended","If yes (experienced any month of unemployment in the past year), how many months were you unemployed?","1::12","Number of months",""

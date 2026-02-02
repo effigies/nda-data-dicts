@@ -40,7 +40,7 @@
 "primemd_j2c","Integer","","Recommended","In the past 12 months, During the times when you drank alcohol, did you end up drinking more than you planned when you started?","0;1","0= No; 1= Yes",""
 "primemd_j2d","Integer","","Recommended","In the past 12 months, Have you tried to reduce or stop drinking alcohol but failed?","0;1","0= No; 1= Yes",""
 "primemd_j2e","Integer","","Recommended","In the past 12 months, On the days that you drank, did you spend substantial time in obtaining alcohol, drinking, or in recovering from the effects of alcohol?","0;1","0= No; 1= Yes",""
-"primemd_j2f","Integer","","Recommended","In the past 12 months, Did you spend less time working, enjoying hobbies, or being with others because of you drinking?","0;1","0= No; 1= Yes",""
+"primemd_j2f","Integer","","Recommended","In the past 12 months, Did you spend less time working, enjoying hobbies, or being with others because of your drinking?","0;1","0= No; 1= Yes",""
 "primemd_j2g","Integer","","Recommended","In the past 12 months, Have you continued to drink even though you knew that the drinking caused you health or mental problems?","0;1","0= No; 1= Yes",""
 "primemd_j2h","Integer","","Recommended","Are 3 or more alcohol dependence questions coded yes?","0;1","0= No; 1= Alcohol Dependence Current",""
 "primemd_j3a","Integer","","Recommended","Have you been intoxicated, high, or hungover more than once when you had other responsibilities at school, at work, or at home? Did this cause any problems?","0;1","0= No; 1= Yes",""

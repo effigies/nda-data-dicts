@@ -127,3 +127,4 @@
 "apt_typicalday_05","Integer","","Recommended","How many drinks would you buy on a ''typical day'' to be consumed in a 24-hour period at the following prices? - How many drinks would you consume if they were $1.50 each?","","Number of drinks",""
 "apt_typicalday_06","Integer","","Recommended","How many drinks would you buy on a ''typical day'' to be consumed in a 24-hour period at the following prices? - How many drinks would you consume if they were $2.00 each?","","Number of drinks",""
 "apt_typicalday_07","Integer","","Recommended","How many drinks would you buy on a ''typical day'' to be consumed in a 24-hour period at the following prices? - How many drinks would you consume if they were $3.00 each?","","Number of drinks",""
+"demand3bs","Float","","Recommended","What is the maximum amount of money you would pay for a single standard drink?","0::25","Amount in Dollars",""
