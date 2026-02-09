@@ -221,7 +221,7 @@
 "num_sessions","Integer","","Recommended","Number of sessions completed","","",""
 "site","String","101","Recommended","Site","","Study Site",""
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","pi_staff,wasi_rater,wtar_assessor"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "perrsn_tsum","Float","","Recommended","Perceptual Reasoning:  Sum of T Scores","","","wasi2_percrsng"
 "perrsn_iq","Float","","Recommended","Perceptual Reasoning: IQ","","",""
 "scoring_conv_perc_perc_rsng","Float","","Recommended","Perceptual Reasoning Percentile Rank","","",""

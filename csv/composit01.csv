@@ -29,7 +29,7 @@
 "meqscore","Integer","","Recommended","Morningness/Eveningness score","1::3","1=Evening Type 22 and less; 2=Intermediate Type 23-43; 3=Morning Type 44 and above",""
 "meqscore_rev","Integer","","Recommended","Morningness/Eveningness score Reversed","1::3","1=Morning type 24 and less; 2= Intermediate type 25-45; 3= Evening type 46 and above",""
 "rmeq_q145","Integer","","Recommended","At what time of the day do you think you reach your ''feeling best'' peak?","1::6","1 = 10pm - 5am; 2 = 5pm - 10pm; 3 = 10am - 5pm; 4 = 8am - 10am; 5 = 5am - 8am; 6 = No answer",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "mads_score","Integer","","Recommended","Morning activation deficit score based off items comp3, comp4, compt6, comp12","1::12","1= Severe morning activation deficits; 12= Less morning activation deficits",""
 "instance_date","String","30","Recommended","Date and Time EMA survey was completed","","",""
 "meq_totalscore","Integer","","Recommended","Morningness/Eveningness Total score (actual)","13::57","Sum of [(6 - Comp1), (6 - Comp2), Comp3, Comp4, Comp5, (5 - Comp6), (6 - Comp7), (5 - Comp8), (5 - Comp9), (5 - Comp10), Comp11, (5 - Comp12), (5 - Comp13)]; Evening Type 22 and less; Intermediate Type 23-43; Morning Type 44 and above",""

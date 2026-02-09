@@ -50,4 +50,4 @@
 "gas_g3_7","Integer","","Recommended","Goal 3 Item 7: Who is the primary person who works on this skill with the student?","1::6; 888; 999","1 = you (special ed. teacher); 2 = regular ed. teacher; 3 = resource teacher; 4 = teaching assistant; 5 = other; 6 = combination/more than one person; 888 = not applicable; 999 = missing",""
 "gas_g3_8","Float","","Recommended","Goal 3 Item 8: How often is this skill worked on? (# of times each week)","","888 = not applicable; 999 = missing",""
 "gas_g3_9","Integer","","Recommended","Goal 3 Item 9: Are data being kept on this skill?","0;1; 888; 999","0 = no; 1 = yes; 888 = not applicable; 999 = missing",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""

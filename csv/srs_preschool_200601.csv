@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"respondent","String","20","Required","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable","p7902completedform,rel_child"
+"respondent","String","20","Required","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable","p7902completedform,rel_child"
 "respondent_other","String","50","Recommended","FIGS Y1: Respondent other than mother or father","","",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","","p7902completedformother"
 "srsprs_q1","Integer","","Required","1. Seems much more fidgety in social situations than when alone","1;2;3;4;999","1 = Not true; 2 = Sometimes true; 3 = Often true; 4 = Almost always true","fidgety_soc_situation,seemsmuchmorefidgety"

@@ -33,3 +33,8 @@
 "csst_response","Integer","","Recommended","Response","1::3","1=Shape1; 2=Shape2; 3= Shape3",""
 "correct","Integer","","Recommended","Was the judgment correct or incorrect","0;1","0 = Incorrect; 1 = Correct",""
 "latency","Integer","","Recommended","Latency","","(in seconds)",""
+"dsst_nst_rt","Float","","Recommended","Non-shift reaction time","","",""
+"dsst_st_rt","Float","","Recommended","Shift reaction time","","",""
+"dsst_nst_acc","Float","","Recommended","Non-shift accuracy","0::100","",""
+"dsst_st_acc","Float","","Recommended","Shift accuracy","0::100","",""
+"time_unit","String","25","Recommended","Time Unit","","",""

@@ -19,7 +19,7 @@
 "hu013","Integer","","Recommended","With which hand do you stir a can of paint?","0::2","0=Left; 1= Either Hand; 2=Right","hand_q13,handed12,huq_13"
 "hu014","Integer","","Recommended","On which shoulder do you rest a bat before swinging?","0::2","0=Left; 1= Either Hand; 2=Right","handed13,huq_14"
 "hand_sum","Integer","","Recommended","Handedness summary score score","0::28","","handed_total,sum"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "handsr","Integer","","Recommended","I would classify myself as:","0::2","0=Left; 1= Either Hand; 2=Right",""
 "handfam","Integer","","Recommended","Is anyone in your family left-handed?","0;1","0 = No; 1 = Yes",""

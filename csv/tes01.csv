@@ -36,4 +36,4 @@
 "tes29","Integer","","Recommended","School staff and other adults who try to help me ask what services I want.","1::5; 999","1= Not True; 2= Mostly Not True; 3= Somewhat True; 4= Mostly True; 5= Very True; 999= Missing",""
 "tes30","Integer","","Recommended","I have a good understanding of my disability.","1::5; 999","1= Not True; 2= Mostly Not True; 3= Somewhat True; 4= Mostly True; 5= Very True; 999= Missing",""
 "tes31","Integer","","Recommended","I feel I am a good person.","1::5; 999","1= Not True; 2= Mostly Not True; 3= Somewhat True; 4= Mostly True; 5= Very True; 999= Missing",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""

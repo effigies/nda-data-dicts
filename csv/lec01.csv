@@ -354,7 +354,7 @@
 "gle24_y","Integer","","Recommended","24. Other","0;1","1 = Happened to me in the past year, 0 = Did not happen in the past year",""
 "gle_other_y","String","500","Recommended","If you selected, 'Other' above (gle23_y), please specify:","","Open Response",""
 "gle1","Integer","","Recommended","1. Divorce","0::3","0 = Did not happen; 1 = You; 2 = Spouse/partner; 3 = ASD youth",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "gle2","Integer","","Recommended","2. Marital reconciliation","0::3","0 = Did not happen; 1 = You; 2 = Spouse/partner; 3 = ASD youth",""
 "gle3","Integer","","Recommended","3. Marriage","0::3","0 = Did not happen; 1 = You; 2 = Spouse/partner; 3 = ASD youth",""
 "gle4","Integer","","Recommended","4. Break up (of a romantic relationship) or separation","0::3","0 = Did not happen; 1 = You; 2 = Spouse/partner; 3 = ASD youth",""

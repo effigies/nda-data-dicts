@@ -25,4 +25,4 @@
 "bas2_pf_05_n","Integer","","Recommended","I am attentive to my body's needs","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always",""
 "bas2_pf_06_n","Integer","","Recommended","I feel love for my body","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always",""
 "bas2_pf_07_n","Integer","","Recommended","I appreciate the different and unique characteristics of my body","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""

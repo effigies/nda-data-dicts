@@ -40,7 +40,7 @@
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "ius_factor1","Integer","","Recommended","Uncertainty has negative behavioral and self-referent implications","","",""
 "ius_factor2","Integer","","Recommended","Uncertainty is unfair and spoils everything","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "ius7_7","Integer","","Recommended","Unexpected events upset me greatly.","1::7","1= Strongly disagree; 2= Disagree; 3= Somewhat disagree; 4= Neutral; 5= Somewhat Agree; 6= Agree; 7= Strongly agree",""
 "ius15_7","Integer","","Recommended","When I am uncertain I can�t function very well.","1::7","1= Strongly disagree; 2= Disagree; 3= Somewhat disagree; 4= Neutral; 5= Somewhat Agree; 6= Agree; 7= Strongly agree",""
 "iusc_3","Integer","","Recommended","Not knowing what will happen in the future makes life hard.","1 :: 5","1 = Not at all characteristic of me; 2 = A little characteristic of me; 3 = Somewhat characteristic of me; 4 = Very characteristic of me; 5 = Entirely characteristic of me",""

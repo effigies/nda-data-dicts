@@ -32,5 +32,5 @@
 "cansas_a","Integer","","Recommended","Total Met needs - count the number of ''1=Met Need'' in the column","","",""
 "cansas_b","Integer","","Recommended","Total Unmet needs - count the number of ''2=Unmet Need'' in the column","","",""
 "cansas_c","Integer","","Recommended","Total number of needs - Sum of cansas_a and cansas_b","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""

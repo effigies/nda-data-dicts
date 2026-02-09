@@ -7,7 +7,7 @@
 "interview_adj_age","Integer","","Recommended","Interview Adjusted Age","0 :: 1200","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","SEX,gender"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","cmsl_comments"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "ihinterviewer","String","20","Recommended","interviewer","","",""
 "ihtype","String","75","Recommended","type of intervention","None; ABA/discrete trial/Lovaas/intensive early intervention; Occupational therapy; Physical therapy; Speech therapy; Counseling/psychological services for child; Play therapy; Music therapy; Auditory integration training; TEACCH; Developmental play therapy (Hanen, RDI); Social skills training; Special education; Parent-child socialization/skill building support; Recreational sports for child; Typical class; Home program (not ABA); Biomedical/Nutritional; Parenting class/seminar; Counseling/psychological services for parent; Parent-child recreation; ESDM; Inclusion class","",""
 "ihprovider","String","50","Recommended","name of school/service provider","","",""

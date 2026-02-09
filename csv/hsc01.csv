@@ -28,7 +28,7 @@
 "hopeless_4pt_4","Integer","","Recommended","I don?t have good luck now, and there is no reason to expect that I will in the future","1::4","1=Strongly disagree; 2=Disagree; 3=Agree; 4=Strongly agree",""
 "hopeless_4pt_5","Integer","","Recommended","I never get what I want, so it is dumb to want anything","1::4","1=Strongly disagree; 2=Disagree; 3=Agree; 4=Strongly agree",""
 "hopeless_4pt_6","Integer","","Recommended","I don?t expect to live a very long life","1::4","1=Strongly disagree; 2=Disagree; 3=Agree; 4=Strongly agree",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "life_enough_5","Integer","","Recommended","I have enough time to finish the things I really want to do ","0;1","0=True; 1=False",""
 "life_more_good_than_bad_16","Integer","","Recommended","I will have more good times than bad times","0;1","0=True; 1=False",""
 "hsc_2","Integer","","Recommended","I might as well give up, because I cannot make things better for myself.","0;1","1=True; 0=False",""

@@ -95,5 +95,5 @@
 "sciddv_l64n","String","4000","Recommended","Acute Stress Disorder: A3 Learning About Notes","","",""
 "scidvdv_asd_b12_cb03_l78b","Integer","","Recommended","Acute Stress Disorder: B12 Hypervigilance Check if only more aware of surroundings only more aware of surroundings","0;1","0= Unchecked; 1= Checked/Present ",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "teen_subject_id","String","20","Recommended","Teen subject ID the parent is reporting on","","",""

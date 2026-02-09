@@ -79,7 +79,7 @@
 "bpss20","Integer","","Recommended","Please rate your satisfaction/dissatisfaction with these body parts. Thighs","1::7","1=Very unsatisfied; 4=Neither satisfied nor unsatisfied; 7=Very satisfied",""
 "bpss21","Integer","","Recommended","Please rate your satisfaction/dissatisfaction with these body parts. Calves","1::7","1=Very unsatisfied; 4=Neither satisfied nor unsatisfied; 7=Very satisfied",""
 "bpss22","Integer","","Recommended","Please rate your satisfaction/dissatisfaction with these body parts. Feet","1::7","1=Very unsatisfied; 4=Neither satisfied nor unsatisfied; 7=Very satisfied",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "bpss01","Integer","","Recommended","Please rate your satisfaction/dissatisfaction with these body parts. Facial features overall","1::7","1=Very unsatisfied; 4=Neither satisfied nor unsatisfied; 7=Very satisfied",""
 "bpss02","Integer","","Recommended","Please rate your satisfaction/dissatisfaction with these body parts. Eyes","1::7","1=Very unsatisfied; 4=Neither satisfied nor unsatisfied; 7=Very satisfied",""
 "bpss03","Integer","","Recommended","Please rate your satisfaction/dissatisfaction with these body parts. Nose","1::7","1=Very unsatisfied; 4=Neither satisfied nor unsatisfied; 7=Very satisfied",""

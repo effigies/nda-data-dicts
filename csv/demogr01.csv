@@ -130,7 +130,7 @@
 "ses","Integer","","Recommended","Hollingshead SES Score","","SES at age of entry to study",""
 "sestot","Integer","","Recommended","Socio-Economic Status (SES)","1::5","1 = SES score of 08 to 19;2 = SES score of 20 to 29;3 = SES score of 30 to 39;4 = SES score of 40 to 54;5 = SES score of 55 to 66",""
 "refothers","String","50","Recommended","Referral source: specify","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","","nfogeninfo"
 "race_c","Integer","","Recommended","Race in two category (white only vs. other)","1;2","1=White alone; 2=other","racebi,racebi_m"
 "sestotbi","Integer","","Recommended","Dichotomous SES variable","0;1","0 = SES 1-3;1 = SES 4-5",""

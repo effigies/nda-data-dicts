@@ -362,7 +362,7 @@
 "rhythm_w","Integer","","Recommended","In the past year, did you use the rhythm method with your wife/husband (counting down the days in your menstrual cycle on a calendar)?","0;1","0= No; 1= Yes",""
 "rhythm_o","Integer","","Recommended","In the past year, did you use the rhythm method with other partners (counting down the days in your menstrual cycle on a calendar)?","0;1;666","0= No; 1= Yes; 666= Not applicable to wife, only asked of husband",""
 "extramarital","Integer","","Recommended","In the past year, did you have sex with someone else than your wife?","0;1;99;666","0= No; 1= Yes; 99= Decline to answer; 666= Not applicable to wife, only asked of husband",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "condom_w","Integer","","Recommended","In the past year, did you/your husband use condoms?","0;1","0= No; 1= Yes",""
 "condom_o","Integer","","Recommended","In the past year, did you use condoms with other partners?","0;1;666","0= No; 1= Yes; 666= Not applicable to wife, only asked of husband",""
 "femcond_w","Integer","","Recommended","In the past year, did your wife/you use female condoms?","0;1","0= No; 1= Yes",""

@@ -10,4 +10,4 @@
 "taqrsyouth_4","Integer","","Recommended","In this session, did you feel that your counselor would stick with you no matter how you behaved?","1::5","1 = Not at all; 2 = Only a little; 3 = Somewhat; 4 = Quite a bit; 5 = Totally",""
 "taqrsyouth_5","Integer","","Recommended","In this session, did you feel that your counselor understood what it feels like to be you?","1::5","1 = Not at all; 2 = Only a little; 3 = Somewhat; 4 = Quite a bit; 5 = Totally",""
 "taqrtot","Float","","Recommended","TAQR Total Score","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""

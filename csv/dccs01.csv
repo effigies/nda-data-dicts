@@ -170,7 +170,7 @@
 "nih_tlbx_fctsc","Float","","Recommended","Fully-Corrected T-Score","0::120","","dimchangetscore,nihtbx_cardsort_fc,nihtbx_cardsort_fullycorrected,nihtbx_demo_rescore_fulltdccs"
 "acc","Float","","Recommended","Accuracy","","-1 = NaN","nihtbx_demo_rescore_dccsaccuracy"
 "rt","Float","","Recommended","Reaction Time","","-1 = NaN","nihtbx_demo_rescore_dccsreactiontime"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "dode","String","10","Recommended","Date of Data Entry","","",""
 "interview_language","String","255","Recommended","Language Used in the Interview","","","language,nihtbx_cardsort_language"
 "comqother","String","255","Recommended","Respondent - Other (text)","","",""

@@ -119,7 +119,7 @@
 "at41","Integer","","Recommended","Phone. You use time out as a punishment","","How many times in past 3 days",""
 "at42","Integer","","Recommended","Phone. You give your child extra chores as a punishment","","How many times in past 3 days",""
 "admalat","Integer","","Recommended","1st or 2nd Administration","1;2","1=First; 2=Second",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "c_apq43","Integer","","Recommended","My child knows what household rules are (they are written down at home and/or have been clearly explained to him/her).","1::5","1= Never; 2= Almost Never; 3= Sometimes; 4= Often; 5= Always",""
 "c_apq44","Integer","","Recommended","My child knows what the consequences are for breaking household rules (they are written down or have been clearly explained to him/her).","1::5","1= Never; 2= Almost Never; 3= Sometimes; 4= Often; 5= Always",""

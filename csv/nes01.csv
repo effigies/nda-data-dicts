@@ -26,7 +26,7 @@
 "necohtrt","Float","","Recommended","Social cohesion/trust total score","","Includes Items: 6 to 10",""
 "necolefx","Float","","Recommended","Collective efficacy mean score","","Average of Social Control and Social Cohesion/Trust",""
 "necoleft","Float","","Recommended","Collective efficacy total score","","Average of Social Control and Social Cohesion/Trust",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
 "ne11","Integer","","Recommended","The fire station closest to their home was threatened with budget cuts.","1::5;-99;77;88","1=Very unlikely; 2=Unlikely; 3=Neither likely nor unlikely; 4=Likely; 5=Very likely; -99= N/A; 77= Refused; 88= Missing",""

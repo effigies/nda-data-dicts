@@ -283,7 +283,7 @@
 "pars_asd_21","Integer","","Recommended","Everyday/General - During the past week, has your child been worried or upset about everyday sorts of things? Fearful of being alone","0;1","0=No; 1=Yes",""
 "pars_asd_gen","String","1000","Recommended","Everyday/General - Comments","","",""
 "pars_asd_22","Integer","","Recommended","Specific Fears - During the past week, are you aware of specific fears? Animals or insects","0;1","0=No; 1=Yes",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "pars_asd_22_txt","String","500","Recommended","Specific Fears - During the past week, are you aware of specific fears? Animals or insects (specify)","","",""
 "pars_asd_23","Integer","","Recommended","Specific Fears - During the past week, are you aware of specific fears? Environmental (e.g., loud noises, sirens, storms)","0;1","0=No; 1=Yes",""
 "pars_asd_23_txt","String","500","Recommended","Specific Fears - During the past week, are you aware of specific fears? Environmental (specify)","","",""

@@ -103,7 +103,7 @@
 "offense_parent_3","Integer","","Recommended","How many times has your child been locked up in a detention center or jail?","","",""
 "offense_parent_4","Integer","","Recommended","How many times has your child been to a placement?","","",""
 "offense_parent_5","Integer","","Recommended","How many times has your child participated in the Community Intensive Supervision Program (CISP)?","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "offense_youth_1","Integer","","Recommended","How many times have you been arrested in your lifetime?","","",""
 "offense_youth_2","Integer","","Recommended","How old were you the first time you were arrested?","","",""
 "offense_youth_3","Integer","","Recommended","How many times have you been locked up in a detention center or jail?","","",""

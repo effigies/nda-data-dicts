@@ -28,7 +28,7 @@
 "site","String","101","Recommended","Site","","Study Site",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

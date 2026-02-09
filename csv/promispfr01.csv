@@ -15,7 +15,7 @@
 "promis_fam_rel_6","Integer","","Recommended","My family treated me fairly","1::5;99","1= Never, 2= Rarely, 3= Sometimes, 4= Often, 5= Always; 99=I prefer not to answer",""
 "promis_fam_rel_7","Integer","","Recommended","My parents listened to me","1::5;99","1= Never, 2= Rarely, 3= Sometimes, 4= Often, 5= Always; 99=I prefer not to answer",""
 "promis_fam_rel_8","Integer","","Recommended","My family paid a lot of attention to me","1::5;99","1= Never, 2= Rarely, 3= Sometimes, 4= Often, 5= Always; 99=I prefer not to answer",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "ssfam01","Integer","","Recommended","I feeI I have a strong relationship with my family.","1::5;888;999","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always; 888=N/A: condition skipped; 999=Missing/no answer",""
 "ssfam02","Integer","","Recommended","I feel really important to my family.","1::5;888;999","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always; 888=N/A: condition skipped; 999=Missing/no answer",""
 "ssfam03","Integer","","Recommended","I get all the help I need from my family.","1::5;888;999","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always; 888=N/A: condition skipped; 999=Missing/no answer",""

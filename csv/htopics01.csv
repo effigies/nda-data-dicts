@@ -76,5 +76,5 @@
 "ht24ap","Integer","","Recommended","Have you disagreed about: Bothering caregiver/step mom/dad when they want to be left alone?","1::2;-99;7;88","1= Yes ; 2= No ;-99,  -99 N/A ; 88=  Missing ; 77= Refused","ht24a"
 "ht24bp","Integer","","Recommended","Have you disagreed about: Borther caregiver: How often have you disagreed","1::6;-99;88;77","1= More than once a day ; 2= Every day ; 3= 5-6 times in the last week ; 4= 3-4 times in the last week ; 5= Once or twice in last month ; 6= None, last week, at least once in last month ; -99,  N/A ; 88= Missing ; 77= Refused","ht24b"
 "ht24cp","Integer","","Recommended","Bother caregiver: How bad was/were the disagreements(s)?","1::5;-99;88;77","1= Extremely bad ; 2= Very bad ; 3= Somewhat bad ; 4= A little bad ; 5= Not bad at all ; -99,  N/A ; 88=  Missing ; 77= Refused","ht24c"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""

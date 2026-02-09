@@ -170,3 +170,4 @@
 "custom_src_id","String","30","Recommended","","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""
 "pin_id","String","6","Recommended","","PIN ID","","",""
 "mctfr_twin_pair_id","Integer","","Recommended","","Twin Pair ID","","",""
+"gender_identity_alt","Integer","","Recommended","","Gender identity: Do you identify as:","1::5","1=Male; 2=Female; 3=Non-binary; 4=Transgender; 5=Other",""

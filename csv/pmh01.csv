@@ -245,7 +245,7 @@ hospitalized for a psychiatric problem or a nervous breakdown?","0;1;9","0=No;1=
 "stopmed","Integer","","Recommended","Has the subject stopped any medications (i.e. pills, vitamins, topical, patches, etc)in the past 4 weeks? (If yes, record on Concomitant Medications/Therapy log)","0;1","1=Yes; 0=No",""
 "prevalac","Integer","","Recommended","Have you ever taken Valacyclovir or Acyclovir?","0;1","1=Yes; 0=No",""
 "elig_23","Integer","","Recommended","Suicidal","0;1","0=No; 1=Yes","aemarksuicid"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "su1","Integer","","Recommended","Prior to this hospitalization, have you gone anywhere or seen anyone for mental health services
 or alcohol/drug use treatment - a physician, social worker, drug or alcohol detox clinic, a
 hospital, or any other community agency or professional?","0;1","0= No; 1= Yes","psychhist_mentalhealth"

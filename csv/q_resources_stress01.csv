@@ -7,7 +7,7 @@
 "interview_adj_age","Integer","","Recommended","Interview Adjusted Age","0 :: 1200","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","SEX,gender"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "hol101","String","20","Recommended","1.  (child) demands that others do things for him/her more","Strong agreement;Partial agreement;Partial disagreement;Strong disagreement;missing","",""
 "hol102","String","20","Recommended","2.  (child) understands the idea of time.","Strong agreement;Partial agreement;Partial disagreement;Strong disagreement;missing","",""
 "hol103","String","20","Recommended","3.  I have had to give up education (or a job) because of","Strong agreement;Partial agreement;Partial disagreement;Strong disagreement;missing","",""

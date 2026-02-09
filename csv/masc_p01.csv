@@ -184,7 +184,7 @@
 "masc_oc_tscore","Integer","","Recommended","MASC Obsessions/Compulsions T score","","999=NA/NK/missing","masc_obsesscompulsion_tscore"
 "masc_p_totalscore","Integer","","Recommended","MASC Physical Symptoms: Panic raw score","","999=NA/NK/missing","masc_panic_totalscore"
 "masc_p_tscore","Integer","","Recommended","MASC Physical Symptoms: Panic T score","","999=NA/NK/missing","masc_panic_tscore"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable","nfmasc"
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable","nfmasc"
 "respond_detail","Integer","","Recommended","Respondent detail","1::8;999","1 = Mother; 2 = Father; 3 = Other relative or custodial adult; 4 = Teacher or caregiver; 5 = Other specialist; 6 = Other; 7 = Child; 8= Spouse; 999 = Not available","nfomasc"
 "masc_mfps","Integer","","Recommended","MASC Physical Symptoms Main Factor","","sum(masc_sftr, masc_sfsa);",""
 "masc_mfha","Integer","","Recommended","MASC Harm Avoidance Main Factor","","sum(masc_sfp, masc_sfac);",""

@@ -210,7 +210,7 @@
 "nih_tlbx_theta","Float","","Recommended","Theta","","999=NA/NK/missing","nihtbx_flanker_theta,tcb_flnkr_theta"
 "acc","Float","","Recommended","Accuracy","","-1 = NaN","nihtbx_demo_rescore_flankeraccuracy,trial_acc"
 "rt","Float","","Recommended","Reaction Time","","-1 = NaN","nihtbx_demo_rescore_flankerreactiontime,trial_rt"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "dode","String","10","Recommended","Date of Data Entry","","",""
 "interview_language","String","255","Recommended","Language Used in the Interview","","","language,nihtbx_flanker_language"
 "nih_tlbx_fctsc","Float","","Recommended","Fully-Corrected T-Score","0::120","","fully_corrected_t,nihtbx_flanker_fc,tcb_flnkr_full_tscr"

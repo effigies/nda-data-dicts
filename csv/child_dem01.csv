@@ -249,7 +249,7 @@
 "sec_caregiver8","Integer","","Recommended","Who is the secondary caregiver of your child? You may answer yourself in this question if appropriate (check all that apply): Aunt","0;1","0=No; 1=Yes",""
 "sec_caregiver9","Integer","","Recommended","Who is the secondary caregiver of your child? You may answer yourself in this question if appropriate (check all that apply): Uncle","0;1","0=No; 1=Yes",""
 "sec_caregiver10","Integer","","Recommended","Who is the secondary caregiver of your child? You may answer yourself in this question if appropriate (check all that apply): Grandmother","0;1","0=No; 1=Yes",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "sec_caregiver11","Integer","","Recommended","Who is the secondary caregiver of your child? You may answer yourself in this question if appropriate (check all that apply): Grandfather","0;1","0=No; 1=Yes",""
 "sec_caregiver12","Integer","","Recommended","Who is the secondary caregiver of your child? You may answer yourself in this question if appropriate (check all that apply): Legal Guardian","0;1","0=No; 1=Yes",""
 "sec_caregiver13","Integer","","Recommended","Who is the secondary caregiver of your child? You may answer yourself in this question if appropriate (check all that apply): Other","0;1","0=No; 1=Yes",""

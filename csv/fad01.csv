@@ -65,7 +65,7 @@
 "fad59","Integer","","Recommended","When we don't like what someone has done, we tell them","1::4","1= Strongly Agree; 2= Agree; 3= Disagree; 4= Strongly Disagree","fad_59"
 "fad60","Integer","","Recommended","We try to think of different ways to solve problems","1::4","1= Strongly Agree; 2= Agree; 3= Disagree; 4= Strongly Disagree","fad_60"
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","timepoint"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "parent_subject_id","String","45","Recommended","Parent Subject ID how it's defined in lab/project","","",""
 "subjectkey_mother","GUID","","Recommended","The NDAR Global Unique Identifier (GUID) for subject's biological mother","NDAR*","",""
 "subjectkey_father","GUID","","Recommended","The NDAR Global Unique Identifier (GUID) for subject's biological father","NDAR*","",""

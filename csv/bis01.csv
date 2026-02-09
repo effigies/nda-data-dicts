@@ -70,7 +70,7 @@
 "total_attended","Integer","","Recommended","Total number of sessions attended","0 :: 100","",""
 "condition_c","Integer","","Recommended","Patient Condition","-1::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing; -1 = Not applicable","condition.c"
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","assessment.c,visit"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "ca10","Float","","Recommended","Age (years)","","","subject_age"
 "ccc2datecomp","Date","","Recommended","Date Completed","","","bis_date"
 "imp02","Integer","","Recommended","I have a lot of accidents.:  ","1 :: 5 ;444; 555; 777; 888; 999","1 = Not at all true ; 2 = A little true ; 3 = Somewhat true ; 4 = Pretty true ; 5 = Very true ;444 = Do not wish to respond ;999 = No Answer ; 888 = Skipped ; 777 = Condition Skipped ; 555 = Missing",""

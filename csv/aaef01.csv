@@ -31,7 +31,7 @@
 "tspe01_clinician","Integer","","Recommended","How suitable do you think the treatment is/was for your client's problem?","0::10","0=Not at all; 5=Moderate; 10=Extremely",""
 "tspe02_clinician","Integer","","Recommended","How successful do you think the treatment will be/was for your client?","0::10","0=Not at all; 5=Moderate; 10=Extremely",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "tspe03","Integer","","Recommended","Having your therapist provide guidance and coaching to your parents on how to manage your eating disorder symptoms (e.g., meals/snacks, exercise, purging behaviors)","0::10","0=Not at all helpful; 5=Moderately helpful; 10=Extremely helpful",""

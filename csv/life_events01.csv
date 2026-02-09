@@ -7,7 +7,7 @@
 "interview_adj_age","Integer","","Recommended","Interview Adjusted Age","0 :: 1200","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","SEX,gender,sex"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "le1oc01","String","20","Recommended","1.  Major change in sleeping habits (much more or m","NA;Good;Bad;missing; 0; 1;888","NA = Not applicable; 0=No; 1=Yes; 888=Refused","les37,les_37,par_ales_dn13"
 "le1oc02","String","20","Recommended","2.  Major change in eating habits (much more or muc","NA;Good;Bad;missing; 0; 1;888","NA = Not applicable; 0=No; 1=Yes; 888=Refused","les39,les_39"
 "le1oc03","String","20","Recommended","3.  Pregnancy","NA;Good;Bad;missing; 0; 1;888","NA = Not applicable; 0=No; 1=Yes; 888=Refused","les12,les_12,lifeevents_appraisal_25"

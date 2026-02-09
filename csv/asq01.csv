@@ -56,7 +56,7 @@
 "raiseinf","Integer","","Recommended","some influence in life","1::7;-7","1=totally due to the other person or circumstances; 7=totally due to me; -7=Refused",""
 "raiseimp","Integer","","Recommended","important situation to you","1::7;-7","1=totally due to the other person or circumstances; 7=totally due to me; -7=Refused",""
 "site","String","101","Recommended","Site","","Study Site","site_id,siteid"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "respondent_other","String","50","Recommended","FIGS Y1: Respondent other than mother or father","","",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "attri1","Integer","","Recommended","In the United States, if black people don''t do well in life, it is because","1::4","1= They do not work hard to get ahead; 2= They are kept back because of their race; 3= Both listed above; 4= Neither listed above",""

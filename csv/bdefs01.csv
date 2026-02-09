@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","bdefs_o_date,bdefs_self1"
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","bdefs_ca4,bdefs_o_subj_age,bdefs_self2"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","bdefs_ca3,bdefs_o_subj_sex,bdefs_self3"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable","bdefs_ca5,bdefs_o_rater"
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable","bdefs_ca5,bdefs_o_rater"
 "respond_detail_oth_spec","String","255","Recommended","Respondent details","","","bdefs_ca6,bdefs_o_other"
 "bdefs_ca7","Integer","","Recommended","Procrastinates or puts off doing things until the last minute","1::4","1= Never or rarely; 2= Sometimes; 3= Often; 4= Very often","bdefs_o_1,bdefs_s_1,bdefs_self5"
 "bdefs_ca8","Integer","","Recommended","Has a poor sense of time","1::4","1= Never or rarely; 2= Sometimes; 3= Often; 4= Very often","bdefs_o_2,bdefs_s_2,bdefs_self6"

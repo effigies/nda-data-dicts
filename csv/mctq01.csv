@@ -85,7 +85,7 @@
 "free_sleeptime_am_pm","Integer","","Recommended","Sleep time on free days: AM/PM","1;2","1=AM; 2=PM","mctq_free_fallasleepam/pm"
 "free_wakeup_am_pm","Integer","","Recommended","Wake up time on free days: AM/PM","1;2","1=AM; 2=PM","mctq_free_wakeupam/pm,mctq_sr_q09_ampm"
 "wkalarm_before","Integer","","Recommended","I/they regularly wake up before the alarm rings (on work days)","0;1","0 = No; 1 = Yes","munich_workschool_alarm2"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "wkwakup_min","Integer","","Recommended","Work/School Days - Wake up minute","0::11","0 = 00; 1 = 05; 2 = 10; 3 = 15; 4 = 20; 5 = 25; 6 = 30; 7 = 35; 8 = 40; 9 = 45; 10 = 50; 11 = 55","mctq_workschool_wakeupmin"
 "frbed_hr","Integer","","Recommended","Free Days - Goes to bed hour (12-hour time)","1::12","","mctq_free_bedtimehr,mctq_sr_q15a_hour"
 "frbed_min","Integer","","Recommended","Free Days - Goes to bed minute","0::11","0 = 00; 1 = 05; 2 = 10; 3 = 15; 4 = 20; 5 = 25; 6 = 30; 7 = 35; 8 = 40; 9 = 45; 10 = 50; 11 = 55","mctq_free_bedtimemin"

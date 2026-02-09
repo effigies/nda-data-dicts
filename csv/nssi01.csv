@@ -24,7 +24,7 @@
 "nssi_13","Integer","","Recommended","Frequency of cutting/carving skin in the past year","0::5;999","0=never; 1=<5x; 2=5-10x; 3=1-2x per month; 4=1-2x per week; 5=once a day; 999=Prefer not to answer/missing",""
 "nssi_14","Integer","","Recommended","Frequency of hitting self in the past year","0::5;999","0=never; 1=<5x; 2=5-10x; 3=1-2x per month; 4=1-2x per week; 5=once a day; 999=Prefer not to answer/missing",""
 "nssi_15","Integer","","Recommended","Frequency of pulling hair in the past year","0::5;999","0=never; 1=<5x; 2=5-10x; 3=1-2x per month; 4=1-2x per week; 5=once a day; 999=Prefer not to answer/missing",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "nssi_q4e","Integer","","Recommended","Which method/s have you used to hurt yourself? Picking at wound or other areas to draw blood","0;1","0=No; 1=Yes",""
 "nssi_q4f","Integer","","Recommended","Which method/s have you used to hurt yourself? Pulling out own hair","0;1","0=No; 1=Yes",""
 "nssi_q4g","Integer","","Recommended","Which method/s have you used to hurt yourself? Burning self","0;1","0=No; 1=Yes",""

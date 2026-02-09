@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "visitnummgh","Integer","","Required","Visit number","1::6","1 = Baseline; 2-6 = treament",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "appraisees","String","20","Recommended","Target person to be evaluated","CG;RP","CG= caregiver, RP=research personnel",""
 "measurementtime","String","20","Recommended","Measurement time for DTS","Pre;t5;t6","Pre=Pre-oxytocin, t5=before scanning, t6=after scanning",""
 "dts01","Integer","","Recommended","He(she) is primarily interested in his/her own welfare.","1::7","1= Very Strongly Agree, 2 = Strongly Agree, 3=Mildly Agree, 4=Neutral, 5=Mildly Disagree, 6=Strongly Disagree, 7=Very Strongly Disagree",""

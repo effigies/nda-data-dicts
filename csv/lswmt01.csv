@@ -128,7 +128,7 @@
 "wcst_ni","Integer","","Recommended","Number of Items","","","itmcnt,nihtbx_calist_itmcnt,nihtbx_list_itmcnt,tcb_lstsrt_item"
 "nih_tlbx_theta","Float","","Recommended","Theta","","999=NA/NK/missing","nihtbx_list_theta,tcb_lstsrt_theta"
 "tbx_comsc","Float","","Recommended","Computed score","","","nihtbx_list_computed,nihtbx_list_cs,tcb_lstsrt_compscr"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "dode","String","10","Recommended","Date of Data Entry","","",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "interview_language","String","255","Recommended","Language Used in the Interview","","","language,nihtbx_list_language"

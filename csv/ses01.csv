@@ -21,7 +21,7 @@
 "site","String","101","Recommended","Site","","Study Site",""
 "height_st","Float","","Recommended","Body height (inches)[Caution: Beware of extreme outliers]","","","height"
 "weight_std","Float","","Recommended","Weight - Standard Unit","","-1 = Not known; 999 = Missing","weight"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable","parachild"
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable","parachild"
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","","parachildoth"
 "parent_id","String","20","Recommended","Parent ID","","","parachildid"
 "livwith","Integer","","Recommended","With whom is subject currently living (choose one)? ","1::25; 88; 99","1 = Both natural parents; 2 = Both natural parents, but joint custody; 3 = Natural mother and stepfather; 4 = Natural father and stepmother; 5 = Natural mother and boyfriend/girlfriend; 6 = Natural father and boyfriend/girlfriend; 7 = Natural mother only; 8 = Natural father only; 10 = Stepmother only; 11 = Stepfather only; 12 = Grandparent; 13 = Adoptive parent; 14 = Other relative/friend; 15 = Foster home; 16 = Group home; 17 = Residential institution; 18 = Boarding home; 19 = Runaway; 20 = College student; 21 = Lives independently; 22=Aunt/Uncle; 23=Legal Guardian;24 = Military; 25 = Spouse/significant other88 = other; 99 = missing",""

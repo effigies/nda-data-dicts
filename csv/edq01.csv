@@ -112,5 +112,5 @@
 "social_losses","Integer","","Recommended","The number of yes responses between the elements fam_interest_loss, smile_response_loss, reach_parent_loss, eye_contact_loss, game_interest_loss and pretend_play_loss","0::6","",""
 "social_scale","Integer","","Recommended","Social Scale for EDQ","","",""
 "ethnicity","String","30","Required","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
-"respondent","String","20","Required","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Required","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "phenotype","String","400","Required","Phenotype/diagnosis for the subject","","e.g., Healthy, Control, Suicidal",""

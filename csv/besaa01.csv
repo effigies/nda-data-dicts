@@ -31,4 +31,4 @@
 "besaa_factor2","Float","","Recommended","BESAA Weight subscale mean","1::5","",""
 "besaa_factor3","Float","","Recommended","BESAA Attribution subscale mean","1::5","",""
 "besaa_mean","Float","","Recommended","Body Esteem Scale for Adolescents and Adults mean","1::5","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""

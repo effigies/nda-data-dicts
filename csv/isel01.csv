@@ -52,7 +52,7 @@
 "isel_selfe","Integer","","Recommended","Self -esteem scale","","3, 4, 8, 13, 20, 24, 28, 32, 37, 40","selfscore"
 "isel_belong","Integer","","Recommended","Belonging scale","","5, 7, 10, 12, 15, 21, 25, 27, 31, 34","belscore"
 "site","String","101","Recommended","Site","","Study Site","site_id,siteid"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""

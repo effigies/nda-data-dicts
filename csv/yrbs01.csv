@@ -263,7 +263,7 @@
 "rbs27","Integer","","Recommended","Since the war, have you ever had trouble holding a job?","0;1; 98; 99","0= No; 1= Yes; 98= Do not know; 99= Refused",""
 "crbs22b_6_roc","Integer","","Recommended","Does subject lie a lot?","0;1; 98; 99","0= No; 1= Yes; 98= Do not know; 99= Refused",""
 "crbs22b_7_roc","Integer","","Recommended","Has subject ever run around with other women/men or deserted the family?","0;1; 98; 99","0= No; 1= Yes; 98= Do not know; 99= Refused",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "rbs4","Integer","","Recommended","When was the last time you took any alcohol? Read response and pick one","0::5; 98; 99","0= Today; 1= 2-6 days ago; 2= 1 week ago; 3= 1 month ago; 4= 1 year ago or more; 5= Other; 98= Do not know; 99= Refused",""
 "rbs5","Integer","","Recommended","How many times do you take alcohol in a week?","0::3; 98; 99","0= Never; 1= Sometimes; 2= Often; 3= Always; 98= Do not know; 99= Refused",""
 "rbs6","Integer","","Recommended","How many drinks do you usually take per day? Record number of cups","0::25; 98; 99","Number of drinks (in cups); 98= Do not know; 99= Refused",""

@@ -20,7 +20,7 @@
 "meim_tot","Float","","Recommended","MEIM Total Mean Items 1-12","0::5","",""
 "meim_search","Float","","Recommended","Mean Ethnic Identity Search Factor; Items 1, 2, 4, 8, 10","1::5","",""
 "meim_affirm","Float","","Recommended","Mean Affirmation, Belonging, Commitment; Items 3, 5, 6, 7, 8, 11, 12","0::5","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "meimn_15","Integer","","Recommended","15. I don''t try to become friends with people from other ethnic groups.","1::5","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree",""
 "meimn_17","Integer","","Recommended","17. I am involved in activities with people from other ethnic groups. ","1::5","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree",""
 "meimn_19","Integer","","Recommended","19. I enjoy being around people from ethnic groups other than my own.","1::5","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree",""

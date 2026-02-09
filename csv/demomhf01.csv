@@ -120,7 +120,7 @@
 "hormonalprep","Integer","","Recommended","Use hormonal preparations?","0;1","0 = No; 1 = Yes",""
 "antiinflam","Integer","","Recommended","Use anti-inflammatory agents?","0;1","0 = No; 1 = Yes",""
 "surg_surgtype4","String","255","Recommended","Type of surgery 4","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "cfmh_othr_cancer","Integer","","Recommended","Cancer","1;0","0 = No; 1 = Yes","medhist_cancer"
 "thyroid","Integer","","Recommended","Thyroid disease","1;0;-7","0=No; 1=Yes;-7=Refused","medhist_thyroid"
 "daily_diary_8","Integer","","Recommended","Do you have asthma?","0;1","0=No; 1=Yes","medhist_asthma"

@@ -86,7 +86,7 @@
 "cellphone_use_5","Integer","","Recommended","What do you use your cellphone for? Check all that apply: Social networking/chatting","0;1","0=No; 1=Yes",""
 "cellphone_use_6","Integer","","Recommended","What do you use your cellphone for? Check all that apply: Watching online videos","0;1","0=No; 1=Yes",""
 "cellphone_use_7","Integer","","Recommended","What do you use your cellphone for? Check all that apply: Listening to music","0;1","0=No; 1=Yes",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "comfortable","Integer","","Recommended","I feel comfortable operating a computerized tablet.","1::5; -99","1=Not at all;2=Less likely;3=Likely;4=More likely;5=Very much;-99=Missing N/A",""
 "polarbeat","Integer","","Recommended","I had difficulties logging into and/or using the Polar Beat app to record my heart rate for my exercise sessions.","1::5; -99","1=Not at all;2=Less likely;3=Likely;4=More likely;5=Very much;-99=Missing N/A",""
 "cardahealth","Integer","","Recommended","I had difficulties logging into and/or using the Carda Health app to watch the exercise videos.","1::5; -99","1=Not at all;2=Less likely;3=Likely;4=More likely;5=Very much;-99=Missing N/A",""

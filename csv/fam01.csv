@@ -151,7 +151,7 @@
 "phase","Integer","","Recommended","Phase","","9 =follow up",""
 "site","String","101","Recommended","Site","","Study Site","siteid"
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable","nfbfamg1"
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable","nfbfamg1"
 "respond_detail","Integer","","Recommended","Respondent detail","1::8;999","1 = Mother; 2 = Father; 3 = Other relative or custodial adult; 4 = Teacher or caregiver; 5 = Other specialist; 6 = Other; 7 = Child; 8= Spouse; 999 = Not available","nfbfamg2"
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","","nfobfamg"
 "bfamgtot","Integer","","Recommended","Brief Family Assessment Measure - General Scale Total Score","","",""

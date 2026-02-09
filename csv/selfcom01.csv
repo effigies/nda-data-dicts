@@ -117,7 +117,7 @@
 "scs_child10","Integer","","Recommended","When I feel like I'm not good enough at something, I try to remind myself that everyone feels that way sometimes.","1::5","1=Never; 2=Almost never; 3=Sometimes; 4=Often; 5=Almost Always",""
 "scs_child11","Integer","","Recommended","I am hard on myself about my own flaws and weaknesses.","1::5","1=Never; 2=Almost never; 3=Sometimes; 4=Often; 5=Almost Always",""
 "scs_child12","Integer","","Recommended","I get frustrated or upset about the things about myself I don't like.","1::5","1=Never; 2=Almost never; 3=Sometimes; 4=Often; 5=Almost Always",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "scs_1_alt_n","Integer","","Recommended","When I fail at something important to me I become consumed by feelings of inadequacy.","1::5","1=Never; 2=Almost never; 3=Sometimes; 4=Almost always; 5=Always",""
 "scs_2_alt_n","Integer","","Recommended","I try to be understanding and patient towards those aspects of my personality I do not like.","1::5","1=Never; 2=Almost never; 3=Sometimes; 4=Almost always; 5=Always",""
 "scs_3_alt_n","Integer","","Recommended","When something painful happens I try to take a balanced view of the situation.","1::5","1=Never; 2=Almost never; 3=Sometimes; 4=Almost always; 5=Always",""

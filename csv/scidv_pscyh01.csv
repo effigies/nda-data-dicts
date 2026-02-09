@@ -715,5 +715,5 @@
 "mddxc","Integer","","Recommended","Mood Differential: Severity of Major Depressive Disorder (1,2,3,4,5)","0::5;9","0=Not Applicable; 1=Mild; 2=Moderate; 3=Severe but not psychotic; 4=Severe, mood-congruent psychotic; 5=Severe, mood-incongruent psychotic; 9=Unknown",""
 "mddxd","Integer","","Recommended","Mood Differential: Status of current or most recent Major Depressive Disorder episode","0::2;9","0=No remission; 1=Partial remission; 2=Complete remission; 9=Missing",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "teen_subject_id","String","20","Recommended","Teen subject ID the parent is reporting on","","",""

@@ -602,5 +602,5 @@
 "scid_mania_4","Integer","","Recommended","During that time when you weren''t sleeping, did people say that you wouldn''t stop talking, or did they say it was difficult to interrupt you?","0;1;666","0 = No; 1 = Yes; 666 = I do not know",""
 "scid_mania_5","Integer","","Recommended","During that time you weren''t sleeping, did you have thoughts moving quickly through your head, or did people say you jumped from one idea to the next?","0;1;666","0 = No; 1 = Yes; 666 = I do not know",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "teen_subject_id","String","20","Recommended","Teen subject ID the parent is reporting on","","",""

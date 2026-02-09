@@ -268,5 +268,5 @@
 "paud_6","Integer","","Recommended","Past AUD: Continued alcohol use despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of alcohol","0;1;99;999","0 = Absent; 1 = Threshold or true; 99 = NA; 999= Missing",""
 "paud_7","Integer","","Recommended","Past AUD: Important social, occupational, or recreational activities given up or reduced because of alcohol use.","0;1;99;999","0 = Absent; 1 = Threshold or true; 99 = NA; 999= Missing",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "teen_subject_id","String","20","Recommended","Teen subject ID the parent is reporting on","","",""

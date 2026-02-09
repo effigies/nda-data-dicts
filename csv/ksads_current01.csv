@@ -300,7 +300,7 @@
 "w1_m_c_lt_sldsx","Float","","Recommended","sleep disorder - parent report lifetime symptoms","","","c_pa_ksad_sldsx,w1_m_c_lt_ksad_sldsx"
 "w1_m_c_sldon","String","25","Recommended","sleep disorder - parent report age of onset","","","c_ksad_sldon,w1_m_c_ksad_sldon"
 "w1_m_c_sldoff","String","25","Recommended","sleep disorder - parent report age of offset","","88=ongoing","c_ksad_sldoff,w1_m_c_ksad_sldoff"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "year_mta","Integer","","Recommended","Year in study","","","visit_year,visit_year�"
 "comqother","String","255","Recommended","Respondent - Other (text)","","","relationship"

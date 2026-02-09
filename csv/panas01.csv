@@ -145,7 +145,7 @@
 "vses_tmp","Integer","","Recommended","","Within-session Timepoint Reference","1::7","1=Baseline measure; 2=Pre-FIPD assessment; 3=Post-FIPD assessment; 4=Pre- social interaction anticipation; 5=Social interaction Anticipation; 6=Post-interaction assessment; 7= fMRI session measure",""
 "panas_x_60","Integer","","Recommended","","Indicate to what extent you feel this way during the past week. Depressed.","1::5;99;77;88","1= very slightly or not at all; 2= a little; 3= moderately; 4= quite a bit; 5= extremely; 99= N/A ; 77= Refused ; 88= Missing","panas00_9,panas1_9,panas2_9"
 "study","String","100","Recommended","","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
-"respondent","String","20","Recommended","","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "vis_type","Integer","","Recommended","","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","visit_type,visit_type_12,visit_type_6"
 "timepoint","Integer","","Recommended","","Timepoint","0::8","0=Screening; 1=Intake; 2=3 months; 3=6 months; 4=9 months; 5=12 months; 6=24 months; 7 = pre-intervention; 8 = post-intervention",""
 "panas_ex14","Integer","","Recommended","","Indicate to what extent you feel this way right now. Hostile","0::100","0 = not at all; 100 = extremely",""

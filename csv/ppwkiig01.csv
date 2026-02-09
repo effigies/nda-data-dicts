@@ -59,5 +59,5 @@
 "prog_18","String","4000","Recommended","What do you think is the best way to recruit pregnant and breastfeeding mothers into this programme? How do we ensure they remain in the programme for the duration once signed up?","","",""
 "prog_19","String","4000","Recommended","What should we tell mothers about the programme to gain their interest in enrolling?","","",""
 "prog_20","String","4000","Recommended","Any other comments on this programme?","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""

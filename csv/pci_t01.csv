@@ -57,7 +57,7 @@
 "ht_14dgr","Integer","","Recommended","If you have disagreed about child''s bothering you when you want to be left alone in the past month, how bad was the disagreement?","1::5","1=Not at all bad; 2=A little bad; 3=Somewhat bad; 4=Very bad; 5=Extremely bad",""
 "ht_time","Integer","","Recommended","Was this this the participant''s first or second time completing this task at this wave?","1;2","1=1st; 2=2nd",""
 "ht_topic1","Integer","","Recommended","To discuss: 1. Child''s behavior toward mom, dad, or brothers/sisters","0;1","0=No; 1=Yes",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "ht_topic2","Integer","","Recommended","To discuss: 2. Child''s attitude","0;1","0=No; 1=Yes",""
 "ht_topic3","Integer","","Recommended","To discuss: 3. Child''s waking up in the morning","0;1","0=No; 1=Yes",""
 "ht_topic4","Integer","","Recommended","To discuss: 4. Child''s TV/internet/phone/tablet use","0;1","0=No; 1=Yes",""

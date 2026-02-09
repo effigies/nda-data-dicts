@@ -466,7 +466,7 @@ treatment (e.g., stopped early) but received medication for at least 80% of the 
 "acad04b","Integer","","Recommended","How many times have you been suspended?","1::30","",""
 "demo_11a","Integer","","Recommended","11. Have you ever been expelled from school? (An expulsion is a permanent restriction from attending school or any portion of your school program) ","1;2; 99","1=Yes; 2=No; 99=I don''t know",""
 "demo_11b","Integer","","Recommended","How many times have you been expelled from school? ","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "excused_absences","Integer","","Recommended","How many days in the last month were you / was your child absent from school for an entire day with an excused absence (for example, you were / he/she was home sick)? Choose a number up to 23","0::24","Number of days (up to 23); 24 = I don't know",""
 "unexcused_absences","Integer","","Recommended","How many days in the last month were you / was your child absent from school for an entire day with an unexcused absence (or without a valid reason)? Choose a number up to 23","0::24","Number of days (up to 23); 24 = I don't know",""
 "excused_late","Integer","","Recommended","How many days in the last month did you / your child have an excused late arrival to school (for a morning doctor's appointment, for example)? Choose a number up to 23","0::24","Number of days (up to 23); 24 = I don't know",""

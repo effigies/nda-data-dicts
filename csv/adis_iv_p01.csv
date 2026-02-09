@@ -374,7 +374,7 @@
 "adisqb12","Integer","","Recommended","Fails to administer lifetime section","0::4","0 = Did NOT Occur; 1 = Occurred 1x; 2 = Occurred 2x; 3 = Occurred 3x; 4 = Occurred >3x",""
 "adisqb13","Integer","","Recommended","Excessive comments or questions beyond protocol (e.g., provides therapeutic intervention, editorial comments about the study or interview","0::4","0 = Did NOT Occur; 1 = Occurred 1x; 2 = Occurred 2x; 3 = Occurred 3x; 4 = Occurred >3x",""
 "q14_qty","Float","","Recommended","Dose: Quantity","0.0 :: 325; -7; -8; -9;999","-7 = Don't know; -8 = Refused to answer; -9 = Does not apply; 999 = Missing value",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "dur_sadm_m","Float","","Recommended","Mean SAD Duration (months)","","",""
 "dur_spm_m","Float","","Recommended","Mean SP Duration (months)","","",""

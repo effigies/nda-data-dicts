@@ -61,6 +61,6 @@
 "conflict_avoidance_score","Integer","","Recommended","Conflict Avoidance Mean Score","1::5","mean (of spsrq_q6, spsrq_q22)",""
 "sensory_reward_score","Integer","","Recommended","Sensory Reward Mean Score","1::5","mean (of spsrq_q29, spsrq_q31)",""
 "social_approval_score","Integer","","Recommended","Responsiveness to social approval mean score","1::5","mean (of spsrq_q7, spsrq_q11, spsrq_q13, spsrq_q19)",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""

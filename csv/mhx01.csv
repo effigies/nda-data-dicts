@@ -232,3 +232,7 @@
 "figs_interviewer","Integer","","Recommended","Interviewers judgement on reliability of information: ","1::3","1= Good; 2= Fair; 3= Poor","apd_quality"
 "lifetime_apd_exp_cat","Integer","","Recommended","Lifetime Antipsychotic Drug Exposure (categorical):","1::7","1 = None; 2 = Less than or equal to 1 month; 3 = More than 1 and under 6 months; 4 = Greater than six and less than 12 months; 5 = More than 12 and less than or equal to 24 months; 6 = More than 24 and less than or equal to 60 months; 7 = More than 60 months",""
 "apd_chlor_method","String","1000","Recommended","Method used to calculate Chlorpromazine Equivalence (mg/d) of current antipsychotic drug","","",""
+"rdcarc_demo_16","Integer","","Recommended","In the past 3 months, have you taken any medications for your mental health and wellbeing?","0;1;999","0 = No; 1 = Yes; 999 = Missing",""
+"rdcarc_demo_16a","String","40","Recommended","If you have taken medications for your mental health and wellbeing in the past 3 months, please list the medications. Specify dosage and schedule if possible (e.g. 20mg 1 per a day):","","",""
+"rdcarc_demo_17","Integer","","Recommended","In the past 3 months, have you taken any other medications? (prescription or over-the-counter)","0;1;999","0 = No; 1 = Yes; 999 = Missing",""
+"rdcarc_demo_17a","String","40","Recommended","If you have taken any other medications in the past 3 months, please list the medications. Specify dosage and schedule if possible (e.g. 20mg 1 per a day):","","",""

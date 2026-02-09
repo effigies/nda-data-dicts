@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "ace_birth3","Integer","","Recommended","Birth-3 Services?","1;2;3","1=Current; 2=Past; 3=Never","birth3"
 "ifsp","Integer","","Recommended","Individual Family Service Plan over time period?","1;2;3","1=Current; 2=Past; 3=Never",""
 "iep","Integer","","Recommended","Individualized Education Program over time period?","1;2;3","1=Current; 2=Past; 3=Never",""

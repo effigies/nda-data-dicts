@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","interviewyear,pp_date"
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","age_a"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender,sex_a"
-"respondent","String","20","Required","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Required","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "icu_1","Integer","","Recommended","1. Child. I express my feelings openly. Parent. Expresses his/her feelings openly.","0::3; 999; -99; 77","3=not at all true; 2=somewhat true; 1=very true; 0=definitely true; -99= N/A ; 77= Refused ; 999= Missing","icu_p_1,icuc1_1,icup1_1"
 "icu_2","Integer","","Recommended","2.  Child. What I think is ""right"" and ""wrong"" is different from what other people think. Parent. Does not seem to know ""right"" from ""wrong.""","0::3; 999; -99; 77","0=not at all true; 1=somewhat true; 2=very true; 3=definitely true; -99= N/A ; 77= Refused ; 999= Missing","icu_p_2,icuc1_2,icup1_2"

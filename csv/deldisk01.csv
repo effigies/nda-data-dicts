@@ -115,7 +115,7 @@
 "stime","String","20","Recommended","Session time","","","sessiontime"
 "block_number","Integer","","Recommended","Block Number","","","block"
 "handedness","String","29","Recommended","handedness","R;L;B;999;888;777;555","R = Right; L = Left; B = Both; 999= No Answer; 888= Skipped; 777= Condition Skipped; 555= Missing",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "sv_6mo_200","Float","","Recommended","Subject for Delay / Indifference Point 6mo, Delay Amount $200","","","ddisc.sv_6mo_200,ddisc_sv_6mo_200"
 "sv_3yr_200","Float","","Recommended","Subject for Delay / Indifference Point 3yr, Delay Amount $200","","","ddisc.sv_3yr_200,ddisc_sv_3yr_200"
 "sv_1mo_200","Float","","Recommended","Subject for Delay / Indifference Point 1mo, Delay Amount $200","","","ddisc.sv_1mo_200,ddisc_sv_1mo_200"

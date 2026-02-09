@@ -13,7 +13,7 @@
 "ldnb_fapgar","String","50","Recommended","What were the babys APGAR scores - first APGAR (at 1 minute)","","","ssapgar1"
 "ldnb_sapgar","String","50","Recommended","What were the babys APGAR scores - second APGAR (at 5 minutes)","","","ssapgar5"
 "ssgage00","Integer","","Recommended","Gestational age (weeks)","","",""
-"respondent","String","20","Required","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable","ssqres00"
+"respondent","String","20","Required","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable","ssqres00"
 "comments","String","4000","Recommended","Comments about assessment","","","ssqrsn00"
 "ssmars00","Integer","","Recommended","Parental marital status","1::6","1= Single; 2= Married; 3= Cohabitating; 4= Widowed; 5= Separated; 6= Divorced",""
 "pregn_01h","Integer","","Recommended","miscarriage","0;1; -9","0=No; 1=Yes; -9=Incomplete","ssmcar00"

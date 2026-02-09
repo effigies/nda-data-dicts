@@ -8,3 +8,6 @@
 "bhls_2","Integer","","Recommended","How often do you have someone help you read hospital materials?","1::5","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All of the time",""
 "bhls_3","Integer","","Recommended","How often do you have problems learning about your medical condition because of difficulty understanding written information?","1::5","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All of the time",""
 "bhls_score","Integer","","Recommended","Brief Health Literacy Screen Score","3::15","Sum of bhls_1, bhls_2, and bhls_3. Higher scores indicate higher subjective health literacy",""
+"help_read","Integer","","Recommended","How often do you have someone help you read hospital materials?","1::5","1=Always; 2=Often; 3=Sometimes; 4=Occasionally; 5=Never",""
+"bhls_2_alt","Integer","","Recommended","How often do you have problems learning about your medical condition because of difficulty understanding written information?","1::5","1= Always; 2= Often; 3= Sometimes; 4= Occasionally; 5= Never",""
+"understanding_verbal","Integer","","Recommended","How often do you have a problem understanding what is told to you about your medical condition?","1::5","1=Always; 2=Often; 3=Sometimes; 4=Occasionally; 5=Never",""

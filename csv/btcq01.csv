@@ -66,7 +66,7 @@
 "bcq_q22","Integer","","Recommended","Worrying that doctors and nurses will not do what is right for your child.","0;25;50;75;100","0 = Very big problem; 25 = Big problem; 50 = Problem; 75 = Small problem; 100 = No problem",""
 "bcq_q23","Integer","","Recommended","Doctors treating the symptom without finding out the cause of the illness.","0;25;50;75;100","0 = Very big problem; 25 = Big problem; 50 = Problem; 75 = Small problem; 100 = No problem",""
 "bcq_q24","Integer","","Recommended","Getting a thorough examination.","0;25;50;75;100","0 = Very big problem; 25 = Big problem; 50 = Problem; 75 = Small problem; 100 = No problem",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable","relationship_to_child"
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable","relationship_to_child"
 "bcq_q25","Integer","","Recommended","Lack of communication between my child's doctor and others in the health care system.","0;25;50;75;100","0 = Very big problem; 25 = Big problem; 50 = Problem; 75 = Small problem; 100 = No problem",""
 "baq_q26","Integer","","Recommended","Lack of communication between different parts of the health care system.","0;25;50;75;100","0 = Very big problem; 25 = Big problem; 50 = Problem; 75 = Small problem; 100 = No problem",""
 "baq_q27","Integer","","Recommended","Disagreeing with the doctor's orders.","0;25;50;75;100","0 = Very big problem; 25 = Big problem; 50 = Problem; 75 = Small problem; 100 = No problem",""

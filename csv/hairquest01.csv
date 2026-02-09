@@ -30,5 +30,5 @@
 "quitmonths","Integer","","Recommended","Longest number of months quit","0 :: 1200","","c_quit,p_quit"
 "height_std","Float","","Recommended","Height - Standard Unit","","-1 = Not known; 999 = Missing","c_hheight,p_hheight"
 "weight_std","Float","","Recommended","Weight - Standard Unit","","-1 = Not known; 999 = Missing","c_hweight,p_hweight"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""

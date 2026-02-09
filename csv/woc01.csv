@@ -97,7 +97,7 @@
 "cq1type","Integer","","Recommended","Type of situation 1","1::6","1 = Academic / performance concerns;2 = Social / evaluation concerns;3 = Physical / natural danger;4 = School phobia / refusal;5 = Specific fear;6 = Separation concerns",""
 "cq2type","Integer","","Recommended","Type of situation 2","1::6","1 = Academic / performance concerns;2 = Social / evaluation concerns;3 = Physical / natural danger;4 = School phobia / refusal;5 = Specific fear;6 = Separation concerns",""
 "cq3type","Integer","","Recommended","Type of situation 3","1::6","1 = Academic / performance concerns;2 = Social / evaluation concerns;3 = Physical / natural danger;4 = School phobia / refusal;5 = Specific fear;6 = Separation concerns",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable","whocq"
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable","whocq"
 "respond_detail","Integer","","Recommended","Respondent detail","1::8;999","1 = Mother; 2 = Father; 3 = Other relative or custodial adult; 4 = Teacher or caregiver; 5 = Other specialist; 6 = Other; 7 = Child; 8= Spouse; 999 = Not available","nfcq"
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","","nfocq"
 "cqmean","Float","","Recommended","Mean coping skill","","mean(CQ1, CQ2, CQ3)",""

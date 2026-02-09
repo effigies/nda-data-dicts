@@ -42,5 +42,5 @@
 "trs_p_academic","Integer","","Required","Academic Subscale (2,3,4,12,13,14,22,23,24)","0 :: 100;999","999 = missing","trs_s_academic,trs_sp_academic"
 "trs_p_independence","Integer","","Required","Independence Subscale (5,6,7,15,16,17,25,26,27)","0 :: 100;999","999 = missing","trs_s_independence,trs_sp_independence"
 "trs_p_social","Integer","","Required","Social Subscale (8,9,10,18,19,20,28,29,30)","0 :: 100;999","999 = missing","trs_s_social,trs_sp_social"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "respond_detail_oth_spec","String","255","Recommended","Respondent details","","",""

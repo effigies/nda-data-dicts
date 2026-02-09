@@ -113,7 +113,7 @@
 "mhsu_child_2b","Integer","","Recommended","In the past month, has your child obtained outpatient therapy or counseling? ","0;1","0=No; 1=Yes",""
 "mhsu_child_3","Integer","","Recommended","How many times has your child visited an emergency department for a mental health or behavioral concern?  ","","",""
 "mhsu_child_4","Integer","","Recommended","How many times has your child been psychiatrically hospitalized?","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "c_mht1","Integer","","Recommended","In the past 30 days, from (datefill_30dy) up to and including today, have you received professional therapy or counseling for depression or difficulties with your mood?","0;1;888;999","0 = No; 1 = Yes; 888 = Don''t know; 999 = Refuse",""
 "c_mht2","Integer","","Recommended","In the past 30 days, from (datefill_30dy) up to and including today, have you received professional therapy or counseling for PTSD (Post-Traumatic Stress Disorder) or difficulties related to a traumatic event?","0;1;888;999","0 = No; 1 = Yes; 888 = Don''t know; 999 = Refuse",""
 "c_mht3","Integer","","Recommended","In the past 30 days, have you taken prescription medication that was prescribed for depression or difficulties with your mood?","0;1;888;999","0 = No; 1 = Yes; 888 = Don''t know; 999 = Refuse",""

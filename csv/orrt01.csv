@@ -325,7 +325,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","eventname"
 "wcst_ni","Integer","","Recommended","Number of Items","","","itmcnt,nihtbx_reading_itmcnt"
 "tbx_comsc","Float","","Recommended","Computed score","","","nihtbx_demo_rescore_computedengread,nihtbx_reading_computedscore,nihtbx_reading_cs"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "dode","String","10","Recommended","Date of Data Entry","","",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "comqother","String","255","Recommended","Respondent - Other (text)","","",""

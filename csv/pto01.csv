@@ -44,7 +44,7 @@
 "npillgiv","Integer","","Recommended","Number of pills given","","",""
 "dosage","Float","","Recommended","Prescribed Dose in Phase (mg)","","",""
 "complianc_p","Integer","","Recommended","Childs overall treatment compliance","1::7","1 = Non-Compliant; 2 = Poor; 3 = Poor to Intermediate; 4 = Intermediate; 5 = Intermediate to Good; 6 = Good; 7 = Completely Compliant",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "keepdose","Integer","","Recommended","Keep dose stable despite above symptoms?","0;1","0 = No; 1 = Yes",""
 "asap","Integer","","Recommended","Scheduled Adjunctive Services and Attrition Prevention session?","0;1","0 = No; 1 = Yes",""
 "otr_action","Integer","","Recommended","Other action in response to symptoms?","0;1","0 = No; 1 = Yes","other"

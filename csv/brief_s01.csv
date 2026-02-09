@@ -65,7 +65,7 @@
 "brief_valid_t","Integer","","Recommended","Inconsistency T score","","","BRIEF_S_Validty_Inconsistency"
 "brief_incon_cp","String","25","Recommended","Inconsistency Scale - Cumulative Percentile","","",""
 "brief_incon_pc","String","25","Recommended","Inconsistency Scale - Protocol Classification","Acceptable; Elevated; Highly Elevated; Inconsistent","Acceptable (score<=4; percentile <=90); Elevated (score 5 to 6; percentile 91-98); Highly elevated (score>=7; percentile>98); ; Inconsistent - BRIEF-A","inconsistencyscore"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable","whocompletedthisform"
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable","whocompletedthisform"
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","","whocompletedthisformother"
 "initiaterawscore","Integer","","Recommended","Initiate Index - Raw Score","","",""
 "initiatetscore","Integer","","Recommended","Initiate Index - T Score","","",""

@@ -37,7 +37,7 @@
 "pswqc_child_12","Integer","","Recommended","Once I start worrying, I can't stop.","0::3; 99","0= Never True; 1= Sometimes True; 2= Most Times True; 3= Always True; 99= Choose not to answer",""
 "pswqc_child_13","Integer","","Recommended","I worry all the time.","0::3; 99","0= Never True; 1= Sometimes True; 2= Most Times True; 3= Always True; 99= Choose not to answer",""
 "pswqc_child_14","Integer","","Recommended","I worry about things until they are done.","0::3; 99","0= Never True; 1= Sometimes True; 2= Most Times True; 3= Always True; 99= Choose not to answer",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "rt_","Float","","Recommended","The number of milliseconds since the start of the questionnaire until completed","","",""

@@ -52,6 +52,6 @@
 "p_psc6","Integer","","Recommended","Less interested in school","0::2","0= Never; 1= Sometimes; 2= Often",""
 "p_psc7","Integer","","Recommended","Acts as if driven by a motor","0::2","0= Never; 1= Sometimes; 2= Often","ppsc10"
 "p_psc8","Integer","","Recommended","Daydreams too much","0::2","0= Never; 1= Sometimes; 2= Often",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "p_psc_help","Integer","","Recommended","Does your child have any emotional or behavioral problems for which she/he needs help?","0;1","0= No; 1 = Yes",""
 "y_psc_distract","Integer","","Recommended","Distract easily","0::2","0= Never; 1= Sometimes; 2= Often",""

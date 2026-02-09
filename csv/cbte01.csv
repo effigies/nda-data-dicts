@@ -23,7 +23,7 @@
 "nfptx","Integer","","Recommended","Parent : Pre-Treatment Expectancies Informant Informant(s)","2;3;5;7;8;9","2 = mother; 3 = father; 5 = both parents; 7 = aunt/uncle; 8 = grandparent; 9 = other",""
 "nfoptx","String","100","Recommended","Parent : Pre-Treatment Expectancies Informant Other Informant(s)","","",""
 "nfptx_d","Integer","","Recommended","Parent : Pre-Treatment Expectancies Informant Derived","2;3;5;7;8;9","2 = mother; 3 = father; 5 = both parents; 7 = aunt/uncle; 8 = grandparent; 9 = other",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "oscr_respondent_relationship","String","250","Recommended","The relationship of the respondent to subject","","",""
 "tx_m","Integer","","Recommended","Treatment Condition","1::4;9","1 = Sertraline/Cognitive Behavioral Therapy; 2 = Sertraline only; 3 = Cognitive Behavioral Therapy only; 4 = Placebo; 9 = Completely uncertain (GUESE only)",""

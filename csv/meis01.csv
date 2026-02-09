@@ -32,7 +32,7 @@
 "scfs27","Integer","","Recommended","I use social media to let someone know I am mad at them.","1::5","1 = Not at all true;2 = A little bit true; 3 = Somewhat true ;4 = Very true ;5 = Extremely true ",""
 "scfs28","Integer","","Recommended","I use social media to try to feel better when I am sad/upset.","1::5","1 = Not at all true;2 = A little bit true; 3 = Somewhat true ;4 = Very true ;5 = Extremely true ",""
 "scfs29","Integer","","Recommended","I use social media to make social plans with my dating partners.","1::5","1 = Not at all true;2 = A little bit true; 3 = Somewhat true ;4 = Very true ;5 = Extremely true ",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "scfs5_alt","Integer","","Recommended","When online, I compare my body shape to the body shape of other people","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Very often",""
 "scfs35","Integer","","Recommended","When online, I compare how I am doing socially (for example, social skills, popularity) with other people","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Very often",""
 "scfs36","Integer","","Recommended","When online, I compare my physical appearance to the appearance of other people","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Very often",""

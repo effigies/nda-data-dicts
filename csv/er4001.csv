@@ -225,7 +225,7 @@
 "wcst_confidence_40","Integer","","Recommended","Trial 40: Confidence Rating","1::5","1=0%; 2=25%; 3=50%; 4=75%; 5=100%","er40_confidence_40"
 "wcst_ia_40","Integer","","Recommended","Trial 40: Do you think you were correct?","0; 1","0=no; 1=yes","er40_ia_40"
 "er40_emotion_40","Integer","","Recommended","Trial 40: Participant Answer","1::5","1=happy; 2=sad; 3=anger; 4=fear; 5=no emotion",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "er40_d_fc","Integer","","Recommended","ER40 Correct Female Identifications","0::20","","er40_d_er40d_fc,k_er40d.er40_fc,k_er40d_er40_fc"
 "er40_d_mc","Integer","","Recommended","ER40 Correct Male Identifications","0::20","","er40_d_er40d_mc,k_er40d.er40_mc,k_er40d_er40_mc"
 "er40_d_angrt","Float","","Recommended","Median Response Time for ER40 Correct Anger Identifications (ms)","","","er40_d_er40d_angrt,k_er40d.er40angrt,k_er40d_er40angrt"

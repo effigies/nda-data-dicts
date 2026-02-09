@@ -358,7 +358,7 @@
 "ses_pr_emergency_cash_category","Integer","","Recommended","Cash for unexpected emergency (in category)","1::10","1=Less than $500; 2=$500 - $4,999; 3=$5,000 - $9,999; 4=$10,000 - $19,999; 5=$20,000 - $49,999; 6=$50,000 - $99,999; 7=$100,000 - $199,999; 8=$200,000 - $499,999; 9=$500,000 and higher; 10=I do not know (by choice)",""
 "ses_pr_immigration","Integer","","Recommended","Did the teen's family immigrate to the United States (during their childhood)?","0;1","0=No; 1=Yes",""
 "ses_pr_country","String","100","Recommended","Did the teen's family immigrate to the United States (during their childhood)?- If yes, From which country?","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "teen_subject_id","String","20","Recommended","Teen subject ID the parent is reporting on","","",""
 "sibling_sex_fm","Integer","","Recommended","Sibling #: Sex","0;1","0=Male; 1=Female",""

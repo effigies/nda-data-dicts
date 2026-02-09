@@ -7,7 +7,7 @@
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections","fhe_studyid"
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","fhe_interval"
 "visitday","Integer","","Recommended","day of visit","","","fhe_visitdat_x"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "resp_age","Integer","","Recommended","Respondent's age","0::1200; -777","-777=Not applicable","fhe_q1a"
 "sclgender","String","15","Recommended","respondent's gender","M;F","M = Male; F = Female","fhe_q1b"

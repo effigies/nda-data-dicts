@@ -405,7 +405,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "mrs002","Date","","Recommended","When was the Glx MRS performed?","","",""
 "mrs003","String","200","Recommended","Glx MRS: Comments","","",""
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","daymedhxc"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable","nfmedhxc"
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable","nfmedhxc"
 "respond_detail_oth_spec","String","255","Recommended","Respondent details","","","infrmoth,respiratory_detail"
 "fh07","Integer","","Recommended","7. Subject adopted","0;1;9","","adopted"
 "cmedhx3","Integer","","Recommended","Take any medications other than vitamins and iron?","0;1","0 = No;1 = Yes",""

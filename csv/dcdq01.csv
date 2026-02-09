@@ -23,6 +23,6 @@
 "dsqc_totalfinemotorhw","Integer","","Recommended","Total  Fine MotorHandwriting","0::20","","fine_motor_handwriting,totalfinemotorhandwriting"
 "dsqc_totalgencoordination","Integer","","Recommended","Total  General Coordination","0::25","","general_corrdination,totalgeneralcoordination"
 "dsqc_totalsumofcolumns","Integer","","Recommended","Total Sum of columns","0::75","","total,totalsumofcolumns"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable","whocompletedthisform"
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable","whocompletedthisform"
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","","whoother"
 "calculation_method","String","10","Recommended","Calculation Method","Automatic; Manual","","total"

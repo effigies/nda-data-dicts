@@ -19,7 +19,7 @@
 "cabr_spec_amp_low","Float","","Recommended","Spectral Amplitude - Low","","",""
 "cabr_spec_amp_mid","Float","","Recommended","Spectral Amplitude - Mid","","",""
 "cabr_resp_consis","Float","","Recommended","Response Consistency","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "cabr_clk_wave5_lat","Float","","Recommended","Latency for ABR Wave V","","",""
 "cabr_wavev_lat","Float","","Recommended","Latency for cABR Wave V","","",""
 "cabr_wavea_lat","Float","","Recommended","Latency for cABR Wave A","","",""

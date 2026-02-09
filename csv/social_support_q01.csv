@@ -7,7 +7,7 @@
 "interview_adj_age","Integer","","Recommended","Interview Adjusted Age","0 :: 1200","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","SEX,gender"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable","relssi"
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable","relssi"
 "soc11num","Integer","","Recommended","to be dependable when you need help: # of people you can count on","","","ssin1"
 "soc11a","String","4","Recommended","to be dependable when you need help: person 1 (initial)","","",""
 "soc11b","String","4","Recommended","to be dependable when you need help: person 2 (initial)","","",""

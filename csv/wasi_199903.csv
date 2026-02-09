@@ -404,4 +404,4 @@
 "wasiqual","Integer","","Recommended","Overall Quality","1::5","1= Very Good; 2= Good; 3= Fair; 4= Poor; 5= Very Poor","overall"
 "resp_source","Integer","","Recommended","Respondent Source","1::6","1= subject; 2= parent; 3= clinician; 4= teacher; 5= trainer; 6= fidelity reviewer","source"
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""

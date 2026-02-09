@@ -54,7 +54,7 @@
 "fam_other1_specify","String","50","Recommended","Interpersonal Relations with Family: Other important relatives #1 - Specify Relative","","",""
 "fam_other2_specify","String","50","Recommended","Interpersonal Relations with Family: Other important relatives #2 - Specify Relative","","",""
 "fam_other3_specify","String","50","Recommended","Interpersonal Relations with Family: Other important relatives #3 - Specify Relative","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "alife_lastvisit","String","50","Recommended","Last Visit Name","","","lastvisit"
 "lastvisit_date","Date","","Recommended","Last Visit Date","","",""
 "month_num","Integer","","Recommended","Month number since last visit","","",""

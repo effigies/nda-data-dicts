@@ -57,7 +57,7 @@
 "w_mr_resolmoney_oth","String","150","Recommended","In what other way did you resolve the conflict about money?","","",""
 "w_mr_arguekids","Integer","","Recommended","In the past 3 months, did you have arguments with your husband about having children?","0;1","0= No; 1= Yes",""
 "w_mr_resolkids","Integer","","Recommended","How did you resolve the conflict about having children?","1::4;66","1= We did not resolve it; 2= We agreed upon a solution together; 3= He agreed with me; 4= I agreed with him; 66= Other (specify)",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "w_mr_resolkids_oth","String","150","Recommended","In what other way did you resolve the conflict about having children?","","",""
 "w_mr_arguedrink","Integer","","Recommended","In the past 3 months, did you have arguments with your husband about drinking?","0;1","0= No; 1= Yes",""
 "w_mr_resoldrink","Integer","","Recommended","How did you resolve the conflict about drinking?","1::4;66","1= We did not resolve it; 2= We agreed upon a solution together; 3= He agreed with me; 4= I agreed with him; 66= Other (specify)",""

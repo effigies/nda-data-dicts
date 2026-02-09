@@ -76,7 +76,7 @@
 "stait18","Integer","","Recommended","I take disappointments so keenly that I cant put them out of my mind","1::4; 99","1 = Almost never; 2 = Sometimes; 3 = Often; 4 = Almost always; 99=Prefer not to answer","stai_trait18_i,stait_38"
 "stait19","Integer","","Recommended","I am a steady person","1::4","1 = Almost never; 2 = Sometimes; 3 = Often; 4 = Almost always","stai_trait19_i,stait_39"
 "stait20","Integer","","Recommended","I get in a state of tension or turmoil as I think over my recent concerns and interests","1::4; 99","1 = Almost never; 2 = Sometimes; 3 = Often; 4 = Almost always; 99=Prefer not to answer","stai_trait20_i,stait_40"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable","completed_by"
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable","completed_by"
 "respond_detail_oth_spec","String","255","Recommended","Respondent details","","",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","","completed_by_other"
 "staittot","Integer","","Recommended","STAIT-S Total Score","","Note: prorated when any are missing � one missing 6 items (30%), others missing 1 or 2 items.sum(5-STAIT1, 5-STAIT3, 5-STAIT6, 5-STAIT7, 5-STAIT10, 5-STAIT13,5-STAIT14, 5-STAIT16, 5-STAIT19, STAIT2, STAIT4, STAIT5, STAIT8, STAIT9, STAIT11, STAIT12, STAIT15, STAIT17, STAIT18, STAIT20)","stai_t_total,stai_total"

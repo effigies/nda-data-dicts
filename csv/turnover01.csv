@@ -1,0 +1,8 @@
+"ElementName","DataType","Size","Required","ElementDescription","ValueRange","Notes","Aliases"
+"subjectkey","GUID","","Required","The NDAR Global Unique Identifier (GUID) for research subject","NDAR*","",""
+"src_subject_id","String","45","Required","Subject ID how it's defined in lab/project","","",""
+"interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
+"interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
+"turnover_int_1","Integer","","Recommended","How often have you seriously considered leaving your job (in the mental health field) in the past six months? (please select one)","1::6;999","1= Never; 2= Once every few months; 3= Once a month; 4= Several times a month; 5= Once a week; 6= Several times a week; 999= NA/NK/missing",""
+"turnover_int_2","Integer","","Recommended","How likely are you to leave your job (in the mental health field) in the next six months? (please select one)","1::4;999","1= Not likely at all; 2= Not very likely; 3= Somewhat likely; 4= Very likely; 999= NA/NK/missing",""

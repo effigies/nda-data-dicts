@@ -291,7 +291,7 @@
 "scid_spa_ageon","Integer","","Recommended","Age at onset of Separation Anxiety Disorder","","99=Unknown",""
 "scid_spa_onset","Date","","Recommended","Separation anxiety onset date","","MM/DD/YYYY",""
 "scid_spa_offset","Date","","Recommended","Separation anxiety offset date","","MM/DD/YYYY",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "teen_subject_id","String","20","Recommended","Teen subject ID the parent is reporting on","","",""
 "scid_spa_screen","Integer","","Recommended","In the past six months, have you been especially anxious about being separated from people you're attached to (like your parents, children, or partner)?","0;1;-9","0=No; 1=Yes; -9 = Missing",""
 "scid_spa_ind","Integer","","Recommended","In the past six months, since (SIX MONTHS AGO), you have been especially anxious about being separated from people you're attached to, like your parents, children, or partner?","1::3;-9","1= Absent or False; 2= Sub-threshold; 3= Threshold or True; -9= Not applicable or Missing",""

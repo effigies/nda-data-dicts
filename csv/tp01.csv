@@ -13,7 +13,7 @@
 "tp1_rate","Integer","","Recommended","Problem Area or Concern 1: Please rate this problem","1::4","1= Not a problem; 2= A small problem; 3= A medium problem; 4= A very big problem",""
 "tp2_rate","Integer","","Recommended","Problem Area or Concern 2: Please rate this problem","1::4","1= Not a problem; 2= A small problem; 3= A medium problem; 4= A very big problem",""
 "tp3_rate","Integer","","Recommended","Problem Area or Concern 3: Please rate this problem","1::4","1= Not a problem; 2= A small problem; 3= A medium problem; 4= A very big problem",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "tp1_rate01","Integer","","Recommended","Problem Area or Concern 1: Please rate this problem","0::4;-2;-9","0 = Not a problem at all; 1 = Slight problem; 2 = Moderate problem; 3 = Big problem;  4 = A very big problem; -2 = No problem reported; -9 = Missing",""
 "tp1_rate02","Integer","","Recommended","Problem Area or Concern 2: Please rate this problem","0::4;-2;-9","0 = Not a problem at all; 1 = Slight problem; 2 = Moderate problem; 3 = Big problem;  4 = A very big problem; -2 = No problem reported; -9 = Missing",""
 "tp1_rate03","Integer","","Recommended","Problem Area or Concern 3: Please rate this problem","0::4;-2;-9","0 = Not a problem at all; 1 = Slight problem; 2 = Moderate problem; 3 = Big problem;  4 = A very big problem; -2 = No problem reported; -9 = Missing",""

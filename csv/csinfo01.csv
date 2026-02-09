@@ -43,4 +43,4 @@
 "healthy_pathway_03","Integer","","Recommended","In the past 4 weeks, how did the child do in reading?","1::5;-7;-8","1= Poor; 2= Fair; 3= Good; 4= Very good; 5= Excellent; -7= Refused; -8= Don't know",""
 "healthy_pathway_04","Integer","","Recommended","In the past 4 weeks, how did the child do on his or her homework?","1::5;-7;-8","1= Poor; 2= Fair; 3= Good; 4= Very good; 5= Excellent; -7= Refused; -8= Don't know",""
 "healthy_pathway_05","Integer","","Recommended","In the past 4 weeks, how did the child do at remembering things he/she learned in school?","1::5;-7;-8","1= Poor; 2= Fair; 3= Good; 4= Very good; 5= Excellent; -7= Refused; -8= Don't know",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""

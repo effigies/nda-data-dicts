@@ -58,4 +58,4 @@
 "k6_4","Integer","","Recommended","Not counting the days you reported in the previous question, how many days in the past 30 were you able to do only half or less of what you would normally have been able (but NOT totally unable) to do, because of these feelings?","0::30","Number of days",""
 "k6_5","Integer","","Recommended","During the past 30 days, how many times did you see a doctor or other health professional about these feelings?","","Number of times",""
 "timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::4","1 = Wave 1; 2 = Wave 2; 3 = Wave 3; 4= Wave 4",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""

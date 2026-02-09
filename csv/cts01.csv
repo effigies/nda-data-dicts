@@ -231,7 +231,7 @@
 "ctsc_46","Integer","","Recommended","Physical assertiveness ? perpetrator; minor","","",""
 "ctsc_47","Integer","","Recommended","Physical assertiveness ? victim;minor","","",""
 "ctsc_42","Integer","","Recommended","Physical assertiveness - perpetrator","","",""
-"respondent","String","20","Required","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Required","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "relation1","String","255","Required","Relationship to subject 1","","999=Missing",""
 "t1ctcm17","Integer","","Recommended","17. You were not able to make sure your child got to a doctor or hospital when he or she needed it.","0::7; -999","0 = None; 1 = Once; 2 = Twice; 3 = 3 - 5 times; 4 = 6 - 10 times; 5 = 11 - 20 times; 6 = More than 20 times; 7 = Not in the past year, but it happened before; -999 = Prefer not to answer",""
 "t1ctp37","Integer","","Recommended","37. I needed to see a doctor because of a fight with my partner, but I didn't.","0::7; -999","0 = None; 1 = Once; 2 = Twice; 3 = 3 - 5 times; 4 = 6 - 10 times; 5 = 11 - 20 times; 6 = More than 20 times; 7 = Not in the past year, but it happened before; -999 = Prefer not to answer","cts21a"

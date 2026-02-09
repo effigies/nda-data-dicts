@@ -15,4 +15,4 @@
 "taqrcare_9","Integer","","Recommended","In this session, did you feel like this youth's counselor understood you as a person?","1::5","1 = Not at all; 2 = Only a little; 3 = Somewhat; 4 = Quite a bit; 5 = Totally",""
 "taqrcare_10","Integer","","Recommended","Did this youth's counselor make you feel like you could truly be yourself in this session?","1::5","1 = Not at all; 2 = Only a little; 3 = Somewhat; 4 = Quite a bit; 5 = Totally",""
 "taqrtot","Float","","Recommended","TAQR Total Score","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""

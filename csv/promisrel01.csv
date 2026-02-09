@@ -25,7 +25,7 @@
 "promps_7","Integer","","Recommended","In the past 7 days, other kids wanted to be with me.","1 :: 5","1 = Never; 2 = Almost Never; 3 = Sometimes; 4 = Often; 5 = Almost Always",""
 "promps_6_v2","Integer","","Recommended","In the past 4 weeks, other kids wanted to be my friend.","1 :: 5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Almost Always",""
 "promps_7_v2","Integer","","Recommended","In the past 4 weeks, other kids wanted to be with me.","1 :: 5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Almost Always",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "promps_8_v2","Integer","","Recommended","In the past 4 weeks, other kids wanted to talk to me.","1 :: 5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Almost Always",""
 "promps_1_v2","Integer","","Recommended","In the past 4 weeks, I felt accepted by other kids my age.","1 :: 5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Almost Always",""
 "promps_2_v2","Integer","","Recommended","In the past 4 weeks, I was able to count on my friends.","1 :: 5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Almost Always",""

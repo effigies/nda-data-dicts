@@ -212,7 +212,7 @@
 "ohc_know___1","Integer","","Recommended","How do you know this information? (Check all that apply.) They told me (in whatever mode they communicate)","0;1","0 = No; 1 = Yes",""
 "ohc_know___2","Integer","","Recommended","How do you know this information? (Check all that apply.) I have observed the action, behavior, or event","0;1","0 = No; 1 = Yes",""
 "ohc_know___3","Integer","","Recommended","How do you know this information? (Check all that apply.) I can interpret their behaviors and/or vocalizations","0;1","0 = No; 1 = Yes",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "ohc_know___4","Integer","","Recommended","How do you know this information? (Check all that apply.) Someone else told me","0;1","0 = No; 1 = Yes",""
 "ohc_know___5","Integer","","Recommended","How do you know this information? (Check all that apply.) I feel like I can guess because I have known them for a long time","0;1","0 = No; 1 = Yes",""
 "ohc_know___6","Integer","","Recommended","How do you know this information? (Check all that apply.) I feel like I can guess because I spend a lot of time with them","0;1","0 = No; 1 = Yes",""

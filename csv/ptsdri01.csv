@@ -45,7 +45,7 @@
 "ptsdri_progression","Integer","","Required","PTSDRI progression. Clinically significant","0; 1; 999; 888","0= No; 1= Yes; 999= Not Answered; 888= Missing",""
 "ptsdri_school","Integer","","Required","PTSDRI school. Clinically significant","0; 1; 999; 888","0= No; 1= Yes; 999= Not Answered; 888= Missing",""
 "ptsdri_schoolbehavior","Integer","","Required","PTSDRI school behavior. Clinically significant","0; 1; 999; 888","0= No; 1= Yes; 999= Not Answered; 888= Missing",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
 "ucla_ptsd1","Integer","","Recommended","Being in a big earthquake that badly damaged the building you were in","0;1;999","0=Did not happen to subject; 1=Happened to subject; 999=N/A or Prefer Not to Answer",""
 "ucla_ptsd2","Integer","","Recommended","Being in another kind of disaster, like a fire, tornado, flood, or hurricane","0;1;999","0=Did not happen to subject; 1=Happened to subject; 999=N/A or Prefer Not to Answer",""

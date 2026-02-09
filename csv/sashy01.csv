@@ -24,4 +24,4 @@
 "sash02","Integer","","Recommended","What was the language(s) you used as a child?","1::5","1=Only Spanish; 2=More Spanish than English; 3= Both equally; 4=More English than Spanish; 5=Only English ",""
 "sash12","Integer","","Recommended","If you could choose your children''s friends you would want them to be:","1::5","1=All Latinos/Hispanics; 2=More Latinos/Hispanics than Americans; 3=About half and half; 4=More Americans than Latinos/Hispanics; 5=All Americans",""
 "bash_lang3","Integer","","Recommended","What language do you read in?","1::6","1=Only Spanish; 2=Spanish better than English; 3=Both equally; 4=English better than Spanish; 5=Only English; 6=Language other than English or Spanish",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""

@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","date_taken"
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","candidate_age"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"respondent","String","20","Required","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable","completed_by"
+"respondent","String","20","Required","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable","completed_by"
 "comqother","String","255","Recommended","Respondent - Other (text)","","","completed_by_other"
 "total_apsi_score","Integer","","Recommended","Total Score: Autism Parent Screen for Infants (APSI)","0::52","",""
 "apsi_1","Integer","","Recommended","Does your child have difficulty visually tracking a moving object, that is, smoothly moving his/her eyes to follow an object's direction of movement?","0::2","0 = Definitely; 1 = Possibly; 2 = No",""

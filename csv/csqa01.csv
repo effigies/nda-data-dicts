@@ -32,7 +32,7 @@
 "psq6","Integer","","Recommended","C:  Has the help you have received helped you to deal more effectively with your problems? P: Has the help your child received helped your child to deal more effectively with his her problems?","1::4","1 = No, they seemed to make things worse; 2 = No, they really didn't help; 3 = Yes, they helped somewhat; 4 = Yes, they helped a great deal","csq8_06,end_11,eos_6"
 "psq7","Integer","","Recommended","C: In an overall, general sense, how satisfied are you with the help you have received? P: In an overall, general sense, how satisfied are you with the help your child has received?","1::4","1 = Quite dissatisfied; 2 = Indifferent or mildly dissatisfied; 3 = Mostly satisfied; 4 = Very satisfied","cs2,csq8_07,csq_2,end_12,eos_7"
 "psq8","Integer","","Recommended","C: If you were to seek help again, would you come back to our program? P: If you were to seek help again for your child, would you come back to our program?","1::4","1 = No, definitely not; 2 = No, I don't think so; 3 = Yes, I think so; 4 = Yes, definitely","cs3,csq8_08,end_13,eos_8"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "respondent_other","String","50","Recommended","FIGS Y1: Respondent other than mother or father","","",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "site","String","101","Recommended","Site","","Study Site",""

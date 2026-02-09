@@ -242,7 +242,7 @@
 "suic_fam_hx_surv_acquaint","Integer","","Recommended","What was/were their relationship(s) to you?  Acquaintance PX640501_Suicide_Family_History_Survived_Acquaintance","1;2","1=Yes; 2=No",""
 "suic_fam_hx_surv_other","Integer","","Recommended","What was/were their relationship(s) to you?  Other PX640501_Suicide_Family_History_Survived_Other","1;2","1=Yes; 2=No",""
 "suic_fam_hx_surv_othersp","String","25","Recommended","What was/were their relationship(s) to you?  Other, specify PX640501_Suicide_Family_History_Survived_OtherSpecify","","",""
-"nonsuic_selfinj_thoughts","Integer","","Recommended","Have you ever had thoughts of purposely hurting yourself without wanting to die? (for example, cutting or burning) PX640501_NonSuicidal_Self_Injury_Thoughts","0;1","0=No;1=Yes",""
+"nonsuic_selfinj_thoughts","Integer","","Recommended","Have you ever had thoughts of purposely hurting yourself without wanting to die? (for example, cutting or burning) PX640501_NonSuicidal_Self_Injury_Thoughts","0;1;999","0=No;1=Yes; 999= N/A or Prefer Not to Answer ",""
 "nonsuic_selfinj_thgt_age_first","Integer","","Recommended","How old were you the first time you thought of purposely hurting yourself without wanting to die? PX640501_NonSuicidal_SelfInjuryThoughts_Age_First_Time","","years",""
 "nonsuic_selfinj_thgts_age_last","Integer","","Recommended","How old were you the last time? PX640501_NonSuicidal_SelfInjuryThoughts_Age_Last_Time","","years",""
 "nonsuic_selfinj_thgts_lifetime","Integer","","Recommended","How many days in your life have you had thoughts of purposely hurting yourself without wanting to die? (Please give your best estimate) PX640501_NonSuicidal_SelfInjuryThoughts_Days_Lifetime","","days",""

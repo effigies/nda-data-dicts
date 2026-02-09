@@ -58,7 +58,7 @@ aggressive, or intrusive acts by others.","1::4; -1; -7; -8; -9","1= Rarely/ Nev
 "erc24","Integer","","Recommended","Displays negative emotions when attempting to
 engage others in play.","1::4; -1; -7; -8; -9","1= Rarely/ Never; 2= Sometimes; 3= Often; 4= Almost Always; -1= Unanswered questions; -7= Skipped or left unanswered; -8= I don't know the answer to the question; -9= I don't want to answer the question","emoreg_check_24,erc_24,p_erc_24,t_erc_24"
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing","tds_time,wave"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "p_erc_lab_neg_score","Integer","","Recommended","Lability Negativity Subscale Score","","","erclab"
 "p_erc_emotion_reg_score","Integer","","Recommended","Emotion Regulation Subscale Score","","","ercer"
 "p_erc_total_score","Integer","","Recommended","ERC Total Score","","","erctot"

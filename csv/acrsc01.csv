@@ -57,7 +57,7 @@
 "father_closeness","Float","","Recommended","Father average score for closeness","1.0::5.0","acrsc_closeness divided by 10",""
 "mom_conflict","Float","","Recommended","Mother conflict average score","1.0::5.0","acrsc_conflict divided by 12",""
 "father_conflict","Float","","Recommended","Father conflict average score","1.0::5.0","acrsc_conflict divided by 12",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "acrsc_03","Integer","","Recommended","If upset, my child will seek comfort from me","1::5","1= Definitely does not apply; 2= Not really; 3= Neutral, not sure; 4= Applies somewhat; 5= Definitely applies",""
 "acrsc_04","Integer","","Recommended","My child is uncomfortable with physical affection or touch from me","1::5","1= Definitely does not apply; 2= Not really; 3= Neutral, not sure; 4= Applies somewhat; 5= Definitely applies",""
 "acrsc_05","Integer","","Recommended","My child values his/her relationship with me","1::5","1= Definitely does not apply; 2= Not really; 3= Neutral, not sure; 4= Applies somewhat; 5= Definitely applies",""

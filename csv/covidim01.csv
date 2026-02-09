@@ -540,7 +540,7 @@
 "eedp_covid13c","Integer","","Recommended","P: Does your work require you to go out (e.g., medical professional, delivery), while others are required to stay home?","0;1","0=No; 1=Yes",""
 "eedp_covid13d","Integer","","Recommended","P: Does your partner''s work require them to go out (e.g., medical professional, delivery), while others are required to stay home?","0;1","0=No; 1=Yes",""
 "eedp_covid13e","Integer","","Recommended","P: Is your child attending daycare or school because your or your partner are required to work?","0;1","0=No; 1=Yes",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "eedp_covid13f","Integer","","Recommended","P: Is your child at home due to their school or daycare being closed?","0;1","0=No; 1=Yes",""
 "eedp_covid14","Integer","","Recommended","P: Has your child''s classes resumed online?","0;1","0=No; 1=Yes",""
 "eedp_covid15","Integer","","Recommended","P: Does your child have easy access to the internet and a computer?","0;1","0=No; 1=Yes",""

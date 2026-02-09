@@ -594,7 +594,7 @@
 "cntipv_aff","Integer","","Recommended","In the past one year, did the following situation lead to violence between you and your spouse? Wife had an extramarital affair","0;1","0= No; 1= Yes",""
 "cntipv_els","Integer","","Recommended","In the past one year, did the following situation lead to violence between you and your spouse? Other situation (specify)","0;1","0= No; 1= Yes",""
 "cntipv_oth","String","100","Recommended","Please specify the other situation that led to violence between you and your spouse","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "cntipv_mon","Integer","","Recommended","In the past one year, did the following situation lead to violence between you and your spouse? Argument over money","0;1","0= No; 1= Yes",""
 "cntipv_tlk","Integer","","Recommended","In the past one year, did the following situation lead to violence between you and your spouse? Wife talked back to husband","0;1","0= No; 1= Yes",""
 "cntipv_drk","Integer","","Recommended","In the past one year, did the following situation lead to violence between you and your spouse? Drinking","0;1","0= No; 1= Yes",""

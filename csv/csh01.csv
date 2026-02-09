@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","date"
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "sleep_bt","String","50","Recommended","Child's bedtime","","","bedtime,csh_time_01"
 "sleep_1","Integer","","Recommended","1. Same bedtime","1::3;-9","3 = Usually; 2 = Sometimes; 1 = Rarely; -9 = Missing value","bt1_same_time,csh_01,ssr4,ssr_4"
 "sleep_2","Integer","","Recommended","2. Asleep in 20 min","1::3;-9","3 = Usually; 2 = Sometimes; 1 = Rarely; -9 = Missing value","bt2_20_mins,csh_03,ssr8,ssr_8"

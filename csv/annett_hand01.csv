@@ -31,4 +31,4 @@
 "hand_shovel","Integer","","Recommended","Hand Preference: Shovel","0::2","0=Right; 1=Mixed (either); 2=Left","bhi_shovel,q5-shovel"
 "hand_unscrew","Integer","","Recommended","Hand Preference: Unscrew","0::2","0=Right; 1=Mixed (either); 2=Left","bhi_unscrew,q12-unscrewlid"
 "total_mixed","Integer","","Recommended","Mixed Total","0::12","","totalboth"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""

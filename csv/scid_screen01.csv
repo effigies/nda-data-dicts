@@ -62,6 +62,6 @@
 "scr4b","Integer","","Recommended","4b. Have you experienced these symptoms in the past 6 months?(screening for Social Anxiety Disorder)","0;1","0=No; 1=Yes","scid_scn_4b"
 "scr5b","Integer","","Recommended","5b. Have you experienced these symptoms in the past 6 months?(screening for Specific Phobia)","0;1","0=No; 1=Yes","scid_scn_5b"
 "scid_scn_8","Integer","","Recommended","8. Over the last 3 months have you been feeling depressed or down for a lot of the time?(screening for Current Major Depressive Episode)","0;1","0=No; 1=Yes",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "teen_subject_id","String","20","Recommended","Teen subject ID the parent is reporting on","","",""
 "scid_scr_sepanx","Integer","","Recommended","7a. In the past six months, have you been especially anxious about being separated from people you're attached to (like your parents, children, or partner)?","0;1","0=No; 1=Yes",""

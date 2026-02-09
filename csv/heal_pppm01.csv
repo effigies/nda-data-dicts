@@ -19,4 +19,4 @@
 "pppm_flush","Integer","","Recommended","Observation: Looks more flushed than usual","0;1","0 = No; 1 = Yes",""
 "pppm_close","Integer","","Recommended","Observation: Wants to be close to you more","0;1","0 = No; 1 = Yes",""
 "pppm_medication","Integer","","Recommended","Observation: Takes medications when normally refuses","0;1","0 = No; 1 = Yes",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""

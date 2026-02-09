@@ -81,7 +81,7 @@
 "hsr7","String","200","Recommended","Have been ill or disabled for three months or more in the last year - what is your illness or disability?","","",""
 "hsr8","String","200","Recommended","How often in the past one month were you unable to do the work you usually do because of a health related, emotional or psychological problem?","","",""
 "hsr9","Integer","","Recommended","During the past month, how much difficulty did you have in taking care of your household responsobilities because of your health or psychological problem?","0::3;98;99","0= Not at all; 1= A little; 2= Some; 3= A lot; 98= Do not know; 99= Refused",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "hsr1","Integer","","Recommended","In general, would you describe your overall health as excellent, good, or poor?","1::3;98;99","1= Poor; 2= Good; 3= Excellent; 98= Do not know; 99= Did not answer",""
 "he_1_c","Integer","","Recommended","Compared to another person of your age, would you say your health is:","1 :: 3;998;999","1= Worse than others; 2= Same as others; 3= Better than others; 998= Do Not Know; 999= No Answer",""
 "hsr3","Integer","","Recommended","Have you been ill or had medical ailment in the last year?","0;1;98;99","0= No; 1= Yes; 98= Do not know; 99= Refused",""

@@ -47,4 +47,4 @@
 "ysdis19","Integer","","Recommended","I take action when new opportunities come my way.","0::100; 999","0= Disagree; 100= Agree; 999= Missing",""
 "ysdis20","Integer","","Recommended","I know my strengths.","0::100; 999","0= Disagree; 100= Agree; 999= Missing",""
 "ysdis21","Integer","","Recommended","I come up with ways to reach my goals.","0::100; 999","0= Disagree; 100= Agree; 999= Missing",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""

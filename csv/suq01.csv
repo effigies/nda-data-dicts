@@ -196,7 +196,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "su_parent7a","Integer","","Recommended","Since your last contact with the study on (timeframe): If your teen has received any outpatient mental health services, such as an evaluation or treatment from a psychiatrist, how many visits or sessions?","","",""
 "su_parent8","Integer","","Recommended","Since your last contact with the study on (timeframe): Has your teen received services from any other sources, for emotional, behavioral, or substance use problems?","0::2","0 = No; 1 = Yes; 2 = Do not know",""
 "su_parent9","Integer","","Recommended","Since your last contact with the study on (timeframe): Has your teen taken any medication for a mental health or behavioral concern?","0::2","0 = No; 1 = Yes; 2 = Do not know",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "su_ad1","Integer","","Recommended","Have you been to any Emergency Department (ED) for evaluation since the last time we spoke?","0;1","0 = No; 1 = Yes",""
 "su_ad1a","Integer","","Recommended","If you have been to the Emergency Department (ED) for evaluation since the last time we spoke, how many times?","","",""
 "su_ad2","Integer","","Recommended","Have you been admitted to any hospital since the last time we spoke?","0;1","0 = No; 1 = Yes",""

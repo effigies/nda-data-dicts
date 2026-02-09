@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "p_pdss_1","Integer","","Recommended","How often does/do your child/you fall asleep or get drowsy during class periods?","0::4","0 = Never; 1 = Seldom; 2 = Sometimes; 3 = Often, Frequently; 4 = Very often, Always",""
 "p_pdss_2","Integer","","Recommended","How often does/do your child/you get sleepy or drowsy during class periods/doing their/your homework?","0::4","0 = Never; 1 = Seldom; 2 = Sometimes; 3 = Often, Frequently; 4 = Very often, Always",""
 "p_pdss_3","Integer","","Recommended","Is/Are your child/you alert most of the day? (reverse score)","0::4","4 = Never; 3 = Seldom; 2 = Sometimes; 1 = Often, Frequently; 0 = Very often, Always",""

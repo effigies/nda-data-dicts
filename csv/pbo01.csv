@@ -51,7 +51,7 @@
 "behav_outcome_a7","Integer","","Recommended","How much has your parent offered emotional support to you (such as listen to you, tell you you're important, give you a hug)?","1::5","1= Not at all; 3= Somewhat; 5= A great deal",""
 "behav_outcome_a8","Integer","","Recommended","Since our last contact on [timepoint_label] have you shared suicidal thoughts (thoughts about wanting to be dead or killing self) with your parent?","0;1","0= No; 1= Yes",""
 "behav_outcome_a8a","Integer","","Recommended","In the last [timepoint_label] weeks, how often have you shared suicidal thoughts with your parents?","1::4","1= Once or twice; 2= Several days; 3= More than half the days; 4= Nearly every day",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "behav_outcome_b2_v2","Integer","","Recommended","Have you [or someone else] taken steps to limit your childs access to pills and or medications in your home?","0::2","0= No; 1= Yes; 2= Do not know",""
 "behav_outcome_b1c_v2","Integer","","Recommended","Have you [or someone else] taken steps to limit your childs access to the firearms in your home or on your property?","0::2","0= No; 1= Yes; 2= Do not know",""
 "behav_outcome_b1d_removed","Integer","","Recommended","Which of the following best describes (to limit your childs access to the firearms in your house or on your property)? Select all that apply. Removed ammunition from the firearm","0;1","0= Unchecked; 1= Checked",""

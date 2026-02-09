@@ -365,7 +365,7 @@
 "week92_dep","Integer","","Recommended","Depression since baseline: Week 92","0::6","6 = Extreme ; 5 = Severe ; 4 = Moderate ; 3 = Mild ; 2 = Slight ; 1 = Not at all ; 0 = Missing code for status ratings prior to introduction of a new diagnosis",""
 "week93_dep","Integer","","Recommended","Depression since baseline: Week 93","0::6","6 = Extreme ; 5 = Severe ; 4 = Moderate ; 3 = Mild ; 2 = Slight ; 1 = Not at all ; 0 = Missing code for status ratings prior to introduction of a new diagnosis",""
 "week94_dep","Integer","","Recommended","Depression since baseline: Week 94","0::6","6 = Extreme ; 5 = Severe ; 4 = Moderate ; 3 = Mild ; 2 = Slight ; 1 = Not at all ; 0 = Missing code for status ratings prior to introduction of a new diagnosis",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "alife_lastvisit","String","50","Recommended","Last Visit Name","","",""
 "lastvisit_date","Date","","Recommended","Last Visit Date","","",""
 "week_num","Integer","","Recommended","Week number since last visit","","",""

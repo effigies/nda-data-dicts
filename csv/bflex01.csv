@@ -51,7 +51,7 @@
 "bisciavoi","Integer","","Recommended","Avoidance score","0::4;999","",""
 "biscidist","Integer","","Recommended","Child distress score","0::4;999","",""
 "bisciscor","Integer","","Recommended","Overall score","0::28;999","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
 "otherrace","String","200","Recommended","specify other race","","The following questions are about you or the child's family.",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""

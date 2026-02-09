@@ -501,7 +501,7 @@
 "prescan_008","Integer","","Recommended","Have you consumed alcohol in the last 24 hours?","","",""
 "cbcl1_2_text","String","500","Recommended","Describe alcohol use","","Touching in patterns (Current)",""
 "marital_status_specify","String","255","Recommended","Other marital status - Please describe:","","99=No data",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable","medhist_relation"
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable","medhist_relation"
 "medhist_relation_other","String","250","Recommended","What is the relationship?","","",""
 "mhx001aa","Integer","","Recommended","History of: Allergies - Drugs","1;2; 9","1=No; 2=Yes; 9=not evaluated","medhist_1a"
 "mhx001ab","String","250","Recommended","If YES, Enter onset/resolved date indicate ongoing with treatment or not. If NOT EVALUATED, explain or describe below: Allergies - Drugs","","","medhist_1a_desc"

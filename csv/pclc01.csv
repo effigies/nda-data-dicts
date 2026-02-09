@@ -50,7 +50,7 @@
 "pcl5_cutoffdx_t2","Integer","","Recommended","Meeting PTSD dx ","0;1","0= Yes; 1= No","pcl5_cutoffdx_t3,pclc_cutoffdx_t1,pclc_cutoffdx_t4"
 "les_howoldfirstptsd","Integer","","Recommended","age at onset of PTSD","","",""
 "les_howmanyyearsptsd","Integer","","Recommended","Number of years, PTSD","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "pcl21","Integer","","Recommended","Feeling as if you were separated from yourself, watching yourself or your thoughts and feelings as if you were another person (feeling as if you were in a dream, even though you were awake? Feeling as if something about you wasn’t real? Feeling as if time was moving more slowly?)","1::5","1=not at all; 2=a little bit; 3=moderately; 4=quite a bit; 5=extremely",""
 "pcl22","Integer","","Recommended","Feeling that things going on around you seemed unreal or very strange and unfamiliar? (like a dream or like a scene from a movie?)","1::5","1=not at all; 2=a little bit; 3=moderately; 4=quite a bit; 5=extremely",""
 "lec34a","Integer","","Recommended","Taking too many risks or doing things that could cause you harm?","1::5; 999","1=not at all; 2= a little bit; 3=moderately; 4=quite a bit; 5= extremely; 999=NA/NK/missing/refused",""

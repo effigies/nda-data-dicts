@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "jvq1","Integer","","Recommended","At any time in your childs life, did anyone use force to take something away from your child that your child was carrying or wearing?","0;1; 88; 99","0=No; 1=Yes; 88=N/A, 99=missing/not answered","jvqr2_1,p_jvqr2_1_base"
 "jvq2","Integer","","Recommended","At any time in your childs life, did anyone steal something from your child and never give it back? Things like a backpack, money, watch, clothing, bike, stereo, or anything else?","0;1; 88; 99","0=No; 1=Yes; 88=N/A, 99=missing/not answered","jvqr2_2,p_jvqr2_2_base"
 "jvq3","Integer","","Recommended","At any time in your childs life, did anyone break or ruin any of your childs things on purpose?","0;1; 88; 99","0=No; 1=Yes; 88=N/A, 99=missing/not answered","jvqr2_3,p_jvqr2_3_base"

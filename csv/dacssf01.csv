@@ -42,7 +42,7 @@
 "uncoop_freq","Integer","","Recommended","Uncooperative. Frequency rating","1::5","1 = less than once a month; 2 = 1-3 times a month; 3 = 1-6 times a week; 4 = 1-10 times a day; 5 = 1 or more times/hour",""
 "uncoop_sever","Integer","","Recommended","Uncooperative. Severity rating","1::5","1 = not serious; 2 = slightly serious; 3 = moderately serious; 4 = very serious; 5 = extremely serious",""
 "ethnic_group","String","255","Recommended","Ethnic group","","",""
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "birthlocation","Integer","","Recommended","Where was your son or daughter born?","1::3","1=Latin America Country or Puerto Rico; 2= United States; 3= Other",""
 "birthlocationsp","String","50","Recommended","Birth location specify","","",""
 "resp_race","String","150","Recommended","Respondent's race","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported","",""

@@ -94,7 +94,7 @@
 "bisbas_r_18","Integer","","Recommended","I have very few fears compared to my friends.","1 :: 4","1= Strongly Disagree; 2= Disagree; 3= Agree; 4= Strongly Agree","phenx_srp_18"
 "bisbas_r_19","Integer","","Recommended","It would excite me to win a contest.","1 :: 4","4= Strongly Disagree; 3= Disagree; 2= Agree; 1= Strongly Agree","phenx_srp_19"
 "bisbas_r_20","Integer","","Recommended","I worry about making mistakes.","1 :: 4","4= Strongly Disagree; 3= Disagree; 2= Agree; 1= Strongly Agree","phenx_srp_20"
-"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;NA","NA=Not Applicable",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "bisbas_16a","Integer","","Recommended","Nobody can stop me when I want something.","1 :: 4","4= Very true for me; 3= Somewhat true for me; 2= Somewhat false for me; 1= Very false for me","bis_bas_child_16"
 "bisbas_19a","Integer","","Recommended","I get really excited when I see an opportunity to get something I like.","1 :: 4","4= Very true for me; 3= Somewhat true for me; 2= Somewhat false for me; 1= Very false for me",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""

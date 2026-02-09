@@ -38,3 +38,4 @@
 "sp010c","Integer","","Recommended","My child had problems sleeping because there was too much light in their room.","1::5","1= Never; 2= Almost Never; 3= Sometimes; 4= Almost Always; 5= Always",""
 "sp013c","Integer","","Recommended","My child had problems sleeping because their room was too hot.","1::5","1= Never; 2= Almost Never; 3= Sometimes; 4= Almost Always; 5= Always",""
 "sp014c","Integer","","Recommended","My child had problems sleeping because their room was too cold.","1::5","1= Never; 2= Almost Never; 3= Sometimes; 4= Almost Always; 5= Always",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
