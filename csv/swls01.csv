@@ -80,3 +80,8 @@
 "slpf2","Integer","","Recommended","How happy have you been with your living situation in the past 90 days (3 months)?","0;1","0 = Unhappy; 1 = Happy",""
 "slpf3","Integer","","Recommended","How happy have you been with relationships in the past 90 days (3 months)?","0;1","0 = Unhappy; 1 = Happy",""
 "slpf4","Integer","","Recommended","Did you feel satisfied with leisure/social/recreational activities in the past 90 days (3 months)?","0;1","0 = Dissatisfied; 1 = Satisfied",""
+"swls1_2wk_5scale","Integer","","Recommended","In the past 2 weeks, in most ways my life was close to my ideal","1::5","1= Not at all true; 2= A little true; 3= Somewhat true; 4= Quite a bit true; 5= Very much true",""
+"swls2_2wk_5scale","Integer","","Recommended","In the past 2 weeks, the conditions of my life were excellent","1::5","1= Not at all true; 2= A little true; 3= Somewhat true; 4= Quite a bit true; 5= Very much true",""
+"swls3_2wk_5scale","Integer","","Recommended","In the past 2 weeks, I was satisfied with my life","1::5","1= Not at all true; 2= A little true; 3= Somewhat true; 4= Quite a bit true; 5= Very much true",""
+"swls4_2wk_5scale","Integer","","Recommended","In the past 2 weeks, I got the important things I wanted in life","1::5","1= Not at all true; 2= A little true; 3= Somewhat true; 4= Quite a bit true; 5= Very much true",""
+"swls5_2wk_5scale","Integer","","Recommended","In the past 2 weeks, if I could have lived my life over, I would have changed almost nothing","1::5","1= Not at all true; 2= A little true; 3= Somewhat true; 4= Quite a bit true; 5= Very much true",""

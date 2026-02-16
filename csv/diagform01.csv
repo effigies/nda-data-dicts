@@ -20,7 +20,7 @@
 "dmddd_pdx","Integer","","Recommended","Disruptive Mood Dysregulation Disorder Diagnosis","0;1; 999; 998","0=No; 1=Yes; 999=missing","dx_dmdd"
 "dmdd_onset","Integer","","Recommended","DMDD age of onset","","",""
 "cast39_other","Integer","","Recommended","Other diagnosis (please specify)","0; 1","0 = No; 1 = Yes","dx_other_1"
-"other_1_list","String","50","Recommended","Other diagnosis 1","","",""
+"other_1_list","String","1000","Recommended","Other diagnosis 1","","",""
 "other_1_onset","Integer","","Recommended","Other diagnosis1 onset","","",""
 "q52_17aa3","Integer","","Recommended","Other 2: Formal diagnosis","0;1;-7;-8;-9","0 = No; 1 = Yes; -7 = Don't know; -8 = Refused to answer; -9 = Does not apply","dx_other_2"
 "other_2_list","String","50","Recommended","Other diagnosis 2","","",""

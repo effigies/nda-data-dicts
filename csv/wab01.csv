@@ -27,3 +27,5 @@
 "s_time","String","20","Recommended","What time did you do this? If you just put on or removed the sensor, select the current time.","","",""
 "s_reason1","Integer","","Recommended","Why are you removing your sensor?","1::5","1= To shower; 2= To charge; 3= Because it's Sunday morning; 4= Other; 5= Because it is the end of the 3 week data collection period",""
 "s_reason2","String","500","Recommended","Please specify why are you removing your sensor.","","",""
+"sweat_impair","Integer","","Recommended","Do you have a diagnosis or disorder that impairs ability to sweat?","0;1","0=No; 1=Yes",""
+"sweat_impair_txt","String","100","Recommended","Do you have a diagnosis or disorder that impairs ability to sweat? Specify","","",""

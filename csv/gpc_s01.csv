@@ -213,3 +213,4 @@
 "scr_med24_other","Integer","","Recommended","Any other medical or health problem?","1;2","1= Yes; 2= No",""
 "scr_med24_other_describe","String","1000","Recommended","Any other medical or health problem - Please describe:","","",""
 "scr_med_other_notes","String","1000","Recommended","Medical history - Any other notes for this section:","","",""
+"suicide_fam","Integer","","Recommended","Do you know of anyone in your family (including siblings, parents, aunts, uncles, cousins) who has died from suicide?","0;1","0= No family history of suicide; 1= Family history of suicide",""

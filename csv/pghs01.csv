@@ -63,3 +63,6 @@ average?","0::10; -999","0=No pain; 10=Worst imaginable pain; -999 = Missing","p
 "pedglobal2r1","Integer","","Recommended","How often do you feel really sad?","1::5;999","1= Always; 2= Often; 3= Sometimes; 4= Rarely; 5= Never; 999= I prefer not to answer",""
 "pedglobal5r1","Integer","","Recommended","How often do you have fun with friends?","1::5;999","1= Always; 2= Often; 3= Sometimes; 4= Rarely; 5= Never; 999= I prefer not to answer",""
 "pedglobal6r1","Integer","","Recommended","How often do your parents listen to your ideas?","1::5;999","1= Always; 2= Often; 3= Sometimes; 4= Rarely; 5= Never; 999= I prefer not to answer",""
+"promis_youth_health_8","Integer","","Recommended","I/my child got tired easily","1::5","1=Never; 2=Almost Never; 3=Sometimes; 4=Often; 5=Almost Always",""
+"promis_youth_health_9","Integer","","Recommended","I/my child had trouble sleeping when I/he or she had pain","1::5","1=Never; 2=Almost Never; 3=Sometimes; 4=Often; 5=Almost Always",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

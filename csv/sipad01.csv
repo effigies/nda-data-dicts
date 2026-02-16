@@ -208,3 +208,4 @@
 "sip_alc_month_11_v2","Integer","","Recommended","During the past month, a friendship or close relationship has been damaged by my drinking.","0::3;999","0= Not at all; 1= A little; 2= Somewhat; 3= Very much; 999= Missing",""
 "sip_alc_month_12_v2","Integer","","Recommended","During the past month, my drinking has gotten in the way of my growth as a person.","0::3;999","0= Not at all; 1= A little; 2= Somewhat; 3= Very much; 999= Missing",""
 "sip_alc_month_13_v2","Integer","","Recommended","During the past month, my drinking has damaged my social life, popularity, or reputation.","0::3;999","0= Not at all; 1= A little; 2= Somewhat; 3= Very much; 999= Missing",""
+"sip_alc_3m_accident","Integer","","Recommended","During the past 3 months, I have had an accident while drinking or intoxicated.","0::3;-8;-9","0 = No; 1 = Almost; 2 = Yes, once; 3 = Yes, more than once; -8 = Don't know; -9 = Declined",""

@@ -9,3 +9,7 @@
 "smcsw02","Integer","","Recommended","I feel worthwhile when others like or comment on my social media posts","1::6","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree; 6=I don't use social media",""
 "smcsw03","Integer","","Recommended","When my social media posts or comments go unnoticed, I feel badly about myself","1::6","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree; 6=I don't use social media",""
 "smcsw04","Integer","","Recommended","My self-esteem depends on how popular and active my social media profiles are","1::6","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree; 6=I don't use social media",""
+"smcsw_2wk_01","Integer","","Recommended","In the past 2 weeks, When I get a lot of likes and new followers on social media, my self-esteem increases","1::5","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree",""
+"smcsw_2wk_02","Integer","","Recommended","In the past 2 weeks, I feel worthwhile when others like or comment on my social media posts","1::5","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree",""
+"smcsw_2wk_03","Integer","","Recommended","In the past 2 weeks, When my social media posts or comments go unnoticed, I feel badly about myself","1::5","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree",""
+"smcsw_2wk_04","Integer","","Recommended","In the past 2 weeks, My self-esteem depends on how popular and active my social media profiles are","1::5","1=Strongly disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree",""

@@ -363,3 +363,6 @@
 "ddq_female_3mo","Integer","","Recommended","FOR FEMALES: During the last 3 months, how many times did you have 4 or more drinks in a two-hour sitting?","","Number of high episodic drinking instances (female)",""
 "ddq_male_drinks","Integer","","Recommended","FOR MALES: During the last 3 months, how many times did you have 10 or more drinks in a two-hour sitting?","","Number of high intensity drinking instances (male)",""
 "ddq_female_drinks","Integer","","Recommended","FOR FEMALES: During the 3 months, how many times did you have 8 or more drinks in a two-hour sitting?","","Number of high intensity drinking instances (female)",""
+"f8_numdrinks_mo","Integer","","Recommended","On how many days in the last month have you had 4 or more drinks on one occasion?","0::31","Number of days",""
+"f9_mostdrinks_mo","Float","","Recommended","Think of the one day during the last month on which you consumed more drinks than on any other day.  How many drinks did you have on that day?","","",""
+"f10_mostdrinks_hrs","Float","","Recommended","Think of the one day during the last month on which you consumed more drinks than on any other day. Approximately how many hours passed from the beginning of the first drink to the finishing of the last?","","Number of hours. For example, if you started drinking at 8:00 p.m. and stopped at 10:00 p.m., input 2",""

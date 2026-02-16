@@ -73,3 +73,5 @@
 "newtime3","String","10","Recommended","What time do you usually go to bed on weekends/days off work? Military Time","","HH:MM","smh_05"
 "newtime4","String","10","Recommended","What time do you usually wake up on weekends/days off work? Military Time","","HH:MM","smh_06"
 "smh_07a","Integer","","Recommended","How many hours of sleep do you usually get on weekdays (or days you work)?","0::24","Number of hours",""
+"slp01_1","Integer","","Recommended","In the past two weeks, how many hours, approximately, did you usually sleep during a workday/school day/weekday night?","0::5;999","0 = Less than 5 hours; 1 = 5 hours; 2 = 6 hours; 3 = 7 hours; 4 = 8 hours; 5 = Greater than or equal to 9 hours; 999 = No Answer",""
+"slp01_2","Integer","","Recommended","In the past two weeks, how many hours, approximately, did you usually sleep per night on days off/weekends?","0::5;999","0 = Less than 5 hours; 1 = 5 hours; 2 = 6 hours; 3 = 7 hours; 4 = 8 hours; 5 = Greater than or equal to 9 hours; 999 = No Answer",""

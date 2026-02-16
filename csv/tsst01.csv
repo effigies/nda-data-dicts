@@ -78,3 +78,6 @@
 "tsst01_4","String","4000","Recommended","Can you describe the strategy or strategies you used to reduce feelings of stress during the speech part of the experiment?","","",""
 "tsst01_5","Integer","","Recommended","Did you find the speech portion of the experiment to be stressful?","1::4","1 = Not at all; 2 = Somewhat; 3 = Moderately so; 4 = Very much so",""
 "tsst01_6","String","4000","Recommended","Can you describe what you found to be stressful about the speech portion of the experiment?","","",""
+"timepoint_1","Integer","","Recommended","Before task: Please tell me the number that best answers the question ''How stressed do you feel''?","0::10","0 = Not stressed at all; 10 = Very stressed",""
+"timepoint_2","Integer","","Recommended","During task: Please tell me the number that best answers the question ''How stressed do you feel''?","0::10","0 = Not stressed at all; 10 = Very stressed",""
+"timepoint_3","Integer","","Recommended","After task: Please tell me the number that best answers the question ''How stressed do you feel''?","0::10","0 = Not stressed at all; 10 = Very stressed",""

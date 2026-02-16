@@ -113,3 +113,4 @@
 "p_poms_7","Integer","","Recommended","Full of energy","0::4","0 = Not at all; 1 = A little; 2 = Moderately; 3 = Quite a bit; 4 = Extremely",""
 "p_poms_20","Integer","","Recommended","Drained","0::4","0 = Not at all; 1 = A little; 2 = Moderately; 3 = Quite a bit; 4 = Extremely",""
 "p_poms_21","Integer","","Recommended","Mixed-up","0::4","0 = Not at all; 1 = A little; 2 = Moderately; 3 = Quite a bit; 4 = Extremely",""
+"p_poms_irritable","Integer","","Recommended","Irritable","0::4","0 = Not at all; 1 = A little; 2 = Moderately; 3 = Quite a bit; 4 = Extremely",""
