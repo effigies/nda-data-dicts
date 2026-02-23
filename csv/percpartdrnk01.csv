@@ -25,3 +25,8 @@
 "help_reduce4","Integer","","Recommended","It will put a serious strain on our relationship","1::7","1 = Strongly Disagree; 2 = Disagree; 3 = Disagree A Little; 4 = Neither Agree or Disagree; 5 = Agree A Little; 6 = Agree; 7 = Strongly Agree",""
 "help_reduce5","Integer","","Recommended","I will feel good that I did something for him/her/them","1::7","1 = Strongly Disagree; 2 = Disagree; 3 = Disagree A Little; 4 = Neither Agree or Disagree; 5 = Agree A Little; 6 = Agree; 7 = Strongly Agree",""
 "help_reduce6","Integer","","Recommended","I am going to end up being frustrated, hurt, or upset","1::7","1 = Strongly Disagree; 2 = Disagree; 3 = Disagree A Little; 4 = Neither Agree or Disagree; 5 = Agree A Little; 6 = Agree; 7 = Strongly Agree",""
+"tpd3","Integer","","Recommended","I have considered leaving my partner because of their drinking","1::7;999","1=Strongly Disagree; 2=Disagree; 3=Slightly Disagree; 4=Neutral; 5=Slightly Agree; 6=Agree; 7=Strongly Agree",""
+"tpd4","Integer","","Recommended","To what extent do you think your partner has an alcohol problem?","1::7;999","1=Not at all; 2=Slightly; 3=A bit; 4=Neutral; 5=Fairly certain; 6=Pretty certain; 7=Very much so",""
+"tpd_score","Float","","Recommended","Total score on all TPD Items","4::28;999","Sum of tpd1, tpd2, tpd3, tpd4; 999=Choose Not to Respond",""
+"participanttype","Integer","","Recommended","Indicates which member of the dyad completed","1;2","1= Concerned Partner; 2= Service Member",""
+"timepoint_complete","Integer","","Recommended","Indicates which timepoint in the study this measure was completed","1::4","1=Baseline; 2=Two Month Follow-Up; 3=4 Month Follow-Up; 4=6 Month Follow-Up",""

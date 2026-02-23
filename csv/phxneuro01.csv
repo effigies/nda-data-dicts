@@ -59,7 +59,7 @@
 "head_faciala","String","50","Recommended","Facial Asymmetry","Yes;No;NK","NK = Not known","istherefacialasymmetry"
 "head_faciala_cor","String","15","Recommended","Is there any facial asymmetry  If yes is there any correction","Yes; No","","istherefacialasymmetryifyesany"
 "cardio_murmur","String","50","Recommended","Is there a heart murmur or abnormal heart examination?","Yes;No;NK","NK = Not known","isthereheartmurmur"
-"dysm_heart_murm_desc","String","50","Recommended","Heart - Murmur - Comments","","","abnormalheartspecify"
+"dysm_heart_murm_desc","String","1000","Recommended","Heart - Murmur - Comments","","","abnormalheartspecify"
 "eyes_nystagmus","String","50","Recommended","Nystagmus","Yes;No;NK","NK = Not known","istherenystagmus"
 "neck_pect","String","10","Recommended","Is there a pectus deformity (breastbone scooped in or prominent)?","Yes;No;NK","NK = Not known","istherepectusdeformity"
 "eyes_ptosis","String","50","Recommended","Ptosis","Yes;No;NK","NK = Not known","isthereptosis"

@@ -31,3 +31,6 @@
 "cc2_rt","String","20","Recommended","Letters Collect Click Time Block 2 (all clicks)","","",""
 "cc3_rt","String","20","Recommended","Letters Collect Click Time Block 3 (all clicks)","","",""
 "suj_type","Integer","","Recommended","Subject type","1;2;9","1= patient; 2 =control; 9= pilot",""
+"k","Float","","Recommended","Working Memory Capacity","","",""
+"a","Float","","Recommended","Attention Parameter","","",""
+"pu","Float","","Recommended","Partial Unit Score","","",""

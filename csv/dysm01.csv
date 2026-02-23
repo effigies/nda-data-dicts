@@ -110,7 +110,7 @@
 "neck_pect","String","10","Recommended","Is there a pectus deformity (breastbone scooped in or prominent)?","Yes;No;NK","NK = Not known",""
 "dysm_heart","Integer","","Recommended","Heart","0; 1","0 = Normal; 1 = Murmur",""
 "cardio_murmur","String","50","Recommended","Is there a heart murmur or abnormal heart examination?","Yes;No;NK","NK = Not known",""
-"dysm_heart_murm_desc","String","50","Recommended","Heart - Murmur - Comments","","",""
+"dysm_heart_murm_desc","String","1000","Recommended","Heart - Murmur - Comments","","",""
 "dysm_heart_clic_desc","String","25","Recommended","Heart - Click - Comments","","",""
 "dysm_heart_rhyt_desc","String","25","Recommended","Heart - Rhythm - Comments","","",""
 "cardio_pulses","String","50","Recommended","Pulses","Normal;Decreased;Bounding","",""

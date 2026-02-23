@@ -67,3 +67,5 @@
 "promis_t_physical_4a","Float","","Recommended","PROMIS Physical Function 4A: T-Score","0::80","",""
 "promis_t_physical_6b","Float","","Recommended","PROMIS Physical Function 6B: T-Score","0::80","",""
 "promis_pi_tscore","Float","","Recommended","PROMIS Pain Interference T-score","","",""
+"q4_promis_d_sf","Integer","","Recommended","I felt sad.","1::6;-999","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Always; 6= Rather not answer; -999= Missing",""
+"raw_total_promis_d_sf","Integer","","Recommended","Raw Total Score PROMIS-Depression Short Form","8::40","Sum of all items (promis57_eddep04, promis57_eddep05, promis57_eddep06, q4_promis_d_sf, promis57_eddep22, promis57_eddep29, promis57_eddep36, promis57_eddep41)",""

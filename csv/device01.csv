@@ -255,3 +255,5 @@
 "act15","String","1000","Recommended","Readiband/Readiwatch Actigraphy 3pm-4pm","","",""
 "act16","String","1000","Recommended","Readiband/Readiwatch Actigraphy 4pm-5pm","","",""
 "act17","String","1000","Recommended","Readiband/Readiwatch Actigraphy 5pm-6pm","","",""
+"walking_time","Integer","","Recommended","Total walking time (in seconds)","","",""
+"cadence","Float","","Recommended","Average cadence in time window (daily or hourly)","","",""

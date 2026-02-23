@@ -23,3 +23,6 @@
 "span_7_corr","Integer","","Recommended","Number of trials successfully answered (all grids recalled) at list length 7","","-888 = Not Applicable (no trials at this list length administered)",""
 "span_8_corr","Integer","","Recommended","Number of trials successfully answered (all grids recalled) at list length 8","","-888 = Not Applicable (no trials at this list length administered)",""
 "span_9_corr","Integer","","Recommended","Number of trials successfully answered (all grids recalled) at list length 9","","-888 = Not Applicable (no trials at this list length administered)",""
+"k","Float","","Recommended","Working Memory Capacity","","",""
+"a","Float","","Recommended","Attention Parameter","","",""
+"pu","Float","","Recommended","Partial Unit Score","","",""

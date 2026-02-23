@@ -181,3 +181,5 @@
 "dcs_physag_part","Integer","","Recommended","Dimensions of Conflict Strategies: Physical Aggression: Partner","0::21;999","999=NA/NK/missing",""
 "dcs_chilv_part","Integer","","Recommended","Dimensions of Conflict Strategies: Child Involvement: Partner","0::18;999","999=NA/NK/missing",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"conflictproblemsolving_q1","Integer","","Recommended","During the past six months... How often do you and your partner have minor conflicts (''spats'', get on each others' nerves)?","1::6","1=Once a year or less; 2=Every 4-6 months; 3=Every 2-3 months; 4=Once or twice a month; 5=Once or twice a week; 6=Just about every day",""
+"conflictproblemsolving_q2","Integer","","Recommended","During the past six months... How often do you and your partner have major conflicts (big fights, ''blow-ups'')?","1::6","1=Once a year or less; 2=Every 4-6 months; 3=Every 2-3 months; 4=Once or twice a month; 5=Once or twice a week; 6=Just about every day",""
