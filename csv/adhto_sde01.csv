@@ -55,6 +55,6 @@ were piling up so high that you could not overcome them?","1::5;888","1 = Never;
 "ge4","Integer","","Recommended","These next questions are about how you see yourself and your personality. In general, how masculine do you think you are?","1::7;888","1 = Not at all; 7 = Extremely; 888 = No response",""
 "sn12esm","Integer","","Recommended","How many times have you been made fun of, called names or been insulted because of who you are?","1::4;888","1 = Never; 2 = Once; 3 = 2-3 times; 4 = 4 or more times; 888 = No response",""
 "sn12fsm","Integer","","Recommended","How many times have you been picked on, pushed, shoved, hit or threatened with harm because of who you are?","1::4;888","1 = Never; 2 = Once; 3 = 2-3 times; 4 = 4 or more times; 888 = No response",""
-"sde_a3","Integer","","Recommended","How many years have you lived in the United States?","1::96;98;888","Number of years; 98 = Born in USA/all my life; 888 = No response",""
+"sde_a3","Integer","","Recommended","How many years have you lived in the United States?","0::96;98;888","Number of years; 0 = Less than 1 year; 98 = Born in USA/all my life; 888 = No response",""
 "m18_r","Integer","","Recommended","Do you think that marijuana use should be legal for adults?","1;2;97;888","1 = Yes; 2 = No; 97 = Don't know; 888 = No response",""
 "m20_r","Integer","","Recommended","How risky do you think regular marijuana use is for a person's health?","1::5;97;888","1 = Very risky; 2 = Somewhat risky; 3 = A little risky; 4 = Not at all risky; 5 = Good for health; 97 = Don't know; 888 = No response",""

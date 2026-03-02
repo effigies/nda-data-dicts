@@ -15,7 +15,7 @@
 "earli_ss_anger","Integer","","Recommended","""In the last month, how often have you been angered because of things that were outside of your control? ""","0::4;98;99","0= Never; 1= Almost never; 2= Sometimes; 3= Fairly often; 4= Very often; 98= Do not know; 99= No answer","sc011,sc011m,scpxy011m"
 "earli_ss_difficulties","Integer","","Recommended","""In the last month, how often have you felt difficulties were piling up so high that you could not overcome them? ""","0::4;98;99","0= Never; 1= Almost never; 2= Sometimes; 3= Fairly often; 4= Very often; 98= Do not know; 99= No answer","sc014,sc014m,scpxy014m,stress7"
 "nih_pin","String","25","Recommended","PIN number assigned by the NIH Toolbox","","",""
-"nih_tlbx_rawscore","Integer","","Required","RawScore","","",""
+"nih_tlbx_rawscore","Integer","","Required","RawScore","","999=NA/NK/missing",""
 "nih_tlbx_tscore","Float","","Recommended","T-score","0::200; 999","999=NA/NK/missing",""
 "nih_tlbx_se","Float","","Recommended","Standard Error","","999=NA/NK/missing",""
 "sc004","Integer","","Recommended","""Uses words or signs to ask questions such as """"Where's Mommy?"""" or """"What's that?""""""","1 :: 5;999","COMMUNICATION: 1 = Unable; Can't do, doesn't know how or is too young. 2 = Hard; Does with a lot of help, extra time, or effort. 3 = A little hard; Does with a little help, extra time or effort. 4 = Easy; Does with no help, extra time or effort, or child's skills are past this level. 5 = I don't know; 999 = Missing","sc004m,scpxy004m"

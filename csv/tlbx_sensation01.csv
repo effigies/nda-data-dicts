@@ -163,7 +163,7 @@
 "hhie_ss_3_12","Integer","","Recommended","Do you have difficulty hearing when someone speaks in a whisper?","1::3","1=Yes; 2=Sometimes; 3=No",""
 "hhie_ss_6_11","Integer","","Recommended","Does a hearing problem cause you to attend religious services less often than you would like?","1::3","1=Yes; 2=Sometimes; 3=No",""
 "nih_tlbx_agegencsc","Float","","Required","Age-Gender-Corrected T-score","0::250; 999","999=NA/NK/missing","fully_corrected_t_score"
-"nih_tlbx_rawscore","Integer","","Required","RawScore","","","rawscore"
+"nih_tlbx_rawscore","Integer","","Required","RawScore","","999=NA/NK/missing","rawscore"
 "nih_tlbx_se","Float","","Required","Standard Error","","999=NA/NK/missing","nihtbx_pain_se,se"
 "nih_tlbx_theta","Float","","Required","Theta","","999=NA/NK/missing","nihtbx_pain_theta,theta"
 "nih_tlbx_tscore","Float","","Required","T-score","0::200; 999","999=NA/NK/missing",""

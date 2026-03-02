@@ -85,3 +85,4 @@
 "nas_a5nan_alt","Integer","","Recommended","What is your race? Mark all that apply (Prefer not to answer) - Mail survey only","0;1","0= No; 1= Yes",""
 "a6no","String","100","Recommended","Which one of these groups best describes your ethnic identification? - Text Response","","",""
 "nas_ph1","Integer","","Recommended","What's the largest number of people who have lived in your household at any one time in the last 12 months?","0::96; 99","Number of people (up to 96);  99=No answer",""
+"nas_q24_r","Integer","","Recommended","Which of the following best represents how you think of yourself?","1;3;5;6;888","1 = Straight, that is, not gay or lesbian; 3 = Bisexual; 5 = Gay or lesbian; 6 = Something else (specify); 888 = No response",""

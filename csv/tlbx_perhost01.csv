@@ -20,7 +20,7 @@
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","asrsra"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","notes"
 "sd2h","Integer","","Recommended","Past Month: Perceived Hostility: Tease me in a mean way","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Usually; 5 = Always","soc288"
-"nih_tlbx_rawscore","Integer","","Recommended","RawScore","","","nihtbx_perchostil_rawscore,rawscore"
+"nih_tlbx_rawscore","Integer","","Recommended","RawScore","","999=NA/NK/missing","nihtbx_perchostil_rawscore,rawscore"
 "interview_language","String","255","Recommended","Language Used in the Interview","","","language"
 "nih_tlbx_fctsc","Float","","Recommended","Fully-Corrected T-Score","0::120","","fully_corrected_t_score"
 "wcst_ni","Integer","","Recommended","Number of Items","","","itmcnt"

@@ -22,3 +22,6 @@
 "fspgod","String","70","Recommended","Subject's gender OTHER describe","","",""
 "lon_1","Integer","","Recommended","In the past 7 days, how often have you felt alone and apart from others?","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always",""
 "lon_2","Integer","","Recommended","In the past 7 days, how often have you felt lonely?","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always",""
+"uwmad1","Integer","","Recommended","I feel alone and apart from others.","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always",""
+"uwmad2","Integer","","Recommended","I feel alone.","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always",""
+"uwmad3","Integer","","Recommended","I feel lonely.","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always",""

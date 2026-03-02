@@ -14,7 +14,7 @@
 "gse08m","Integer","","Recommended","Self-report: When I have a problem, I can find several ways to solve it. / Parent Report: When your child is confronted with a problem, he/she can usually find several solutions","1::5;99","1= Never; 2= Almost Never; 3= Sometimes; 4= Fairly Often; 5= Very Often; 99= I prefer not to answer","pxygse08m"
 "gse09","Integer","","Recommended","Self-report: If I am in trouble, I can think of a solution. / Parent Report: If your child is in trouble, he/she can usually think of a solution","1::5;99","1= Never; 2= Almost Never; 3= Sometimes; 4= Fairly Often; 5= Very Often; 99= I prefer not to answer","pxygse09"
 "gse10","Integer","","Recommended","Self-report: I can handle whatever comes my way. / Parent Report: Your child can usually handle whatever comes his/her way","1::5;99","1= Never; 2= Almost Never; 3= Sometimes; 4= Fairly Often; 5= Very Often; 99= I prefer not to answer","pxygse10"
-"nih_tlbx_rawscore","Integer","","Required","RawScore","","","nihtbx_selfeff_par_rawscore,nihtbx_selfeff_rawscore,rawscore"
+"nih_tlbx_rawscore","Integer","","Required","RawScore","","999=NA/NK/missing","nihtbx_selfeff_par_rawscore,nihtbx_selfeff_rawscore,rawscore"
 "nih_tlbx_tscore","Float","","Required","T-score","0::200; 999","999=NA/NK/missing","nihtbx_selfeff_par_tscore,nihtbx_selfeff_tscore,tscore"
 "nih_tlbx_se","Float","","Required","Standard Error","","999=NA/NK/missing","nihtbx_selfeff_par_se,nihtbx_selfeff_se,se"
 "nih_tlbx_theta","Float","","Recommended","Theta","","999=NA/NK/missing","nihtbx_selfeff_par_theta,nihtbx_selfeff_theta,selfefficacy13_17,selfefficacy18_85,selfefficacy8_12,selfefficacyprox8_12,theta"

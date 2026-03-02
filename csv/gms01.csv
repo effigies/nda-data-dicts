@@ -19,3 +19,6 @@
 "it_q1","Integer","","Recommended","I can develop skills to manage my use of alcohol or drugs.","1::7","1=Strongly Disagree; 2=Disagree; 3=Somewhat Disagree; 4=Neither Agree Nor Disagree; 5=Somewhat Agree; 6=Agree; 7=Strongly Agree",""
 "it_q2","Integer","","Recommended","I can learn strategies to manage my use of alcohol or drugs.","1::7","1=Strongly Disagree; 2=Disagree; 3=Somewhat Disagree; 4=Neither Agree Nor Disagree; 5=Somewhat Agree; 6=Agree; 7=Strongly Agree",""
 "it_q3","Integer","","Recommended","I can change my ability to manage my use of alcohol or drugs.","1::7","1=Strongly Disagree; 2=Disagree; 3=Somewhat Disagree; 4=Neither Agree Nor Disagree; 5=Somewhat Agree; 6=Agree; 7=Strongly Agree",""
+"gmwb1","Integer","","Recommended","You can learn new habits, but you can't really change your well-being.","1::6","1=Strongly Disagree;2=Disagree;3=Mostly disagree;4=Mostly agree;5=Agree;6=Strongly Agree",""
+"gmwb2","Integer","","Recommended","Your well-being is something about you that you cannot change very much.","1::6","1=Strongly Disagree;2=Disagree;3=Mostly disagree;4=Mostly agree;5=Agree;6=Strongly Agree",""
+"gmwb3","Integer","","Recommended","You have a certain amount of well-being and you really cannot do much to change it.","1::6","1=Strongly Disagree;2=Disagree;3=Mostly disagree;4=Mostly agree;5=Agree;6=Strongly Agree",""

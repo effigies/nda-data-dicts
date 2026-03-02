@@ -12,3 +12,7 @@
 "correct_accuracy","Float","","Recommended","Proportion correct responses across all trials","","",""
 "meanrtc","Float","","Recommended","Mean reaction time for all correct trials (in milliseconds)","","",""
 "sdrtc","Float","","Recommended","Standard deviation of reaction times across all correct trials","","",""
+"sartpractrt","Integer","","Recommended","Practice trial reaction time","0::10000","",""
+"sartactrt","Integer","","Recommended","Actual trial reaction time","0::10000","",""
+"tproberes","Integer","","Recommended","Thought probe response","2::6","2 = Future; 4 = Present; 6 = Past",""
+"tprobert","Integer","","Recommended","Thought probe reaction time","","",""

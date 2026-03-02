@@ -34,7 +34,7 @@
 "pa074","Integer","","Recommended","My life has been productive.","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much",""
 "pa075m","Integer","","Recommended","I feel a sense of purpose in my life.","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much",""
 "pa076","Integer","","Recommended","My life lacks meaning and purpose.","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much",""
-"nih_tlbx_rawscore","Integer","","Required","RawScore","","","gls_score,gls_score_par,lifesatisfacprox3_12,nihtbx_lifesat_par_rawscore,nihtbx_lifesat_rawscore,rawscore"
+"nih_tlbx_rawscore","Integer","","Required","RawScore","","999=NA/NK/missing","gls_score,gls_score_par,lifesatisfacprox3_12,nihtbx_lifesat_par_rawscore,nihtbx_lifesat_rawscore,rawscore"
 "nih_tlbx_se","Float","","Required","Standard Error","","999=NA/NK/missing","gls_se_par,gls_se_score,nihtbx_lifesat_se,se"
 "pa001","Integer","","Recommended","Self-report: In the past 7 days; I felt cheerful / Parent report: In the past 7 days, my child was cheerful","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much","pa1,papxy001"
 "pa002","Integer","","Recommended","Self-report: In the past 7 days; I felt attentive / Parent report: In the past 7 days, my child was attentive","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much","pa2,papxy002"

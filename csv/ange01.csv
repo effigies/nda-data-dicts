@@ -23,7 +23,7 @@
 "ange108","Integer","","Recommended","Choose the answer that best describes your child, or shows how your child usually feels. My child gets very impatient if he/she has to wait for something.","0::2","0 = Never or not true; 1 = Sometimes or somewhat true; 2 = Often or very true",""
 "ange109","Integer","","Recommended","Choose the answer that best describes your child, or shows how your child usually feels. My child gets very angry if his/her parent or teacher criticizes him/her.","0::2","0 = Never or not true; 1 = Sometimes or somewhat true; 2 = Often or very true",""
 "ange110","Integer","","Recommended","Choose the answer that best describes your child, or shows how your child usually feels. My child feels grouchy or irritable.","0::2","0 = Never or not true; 1 = Sometimes or somewhat true; 2 = Often or very true",""
-"nih_tlbx_rawscore","Integer","","Recommended","RawScore","","","nih_tlbx_anger_rawscore"
+"nih_tlbx_rawscore","Integer","","Recommended","RawScore","","999=NA/NK/missing","nih_tlbx_anger_rawscore"
 "nih_tlbx_tscore","Float","","Recommended","T-score","0::200; 999","999=NA/NK/missing","nih_tlbx_anger_tscore"
 "pedproxang02","Integer","","Recommended","Please indicate how often or true the behavior is of your child. Argues a lot with adults.","0::2","0=Never or not true; 1=Sometimes or somewhat true; 2=Often or very true",""
 "pedproxang03","Integer","","Recommended","Please indicate how often or true the behavior is of your child. Argues a lot with peers.","0::2","0=Never or not true; 1=Sometimes or somewhat true; 2=Often or very true",""

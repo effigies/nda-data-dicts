@@ -200,3 +200,5 @@
 "anticholinergic_n","Integer","","Recommended","Anticholinergic Drug Name","1::5","1= None; 2= Benzatropin (Cogentin); 3= Trihexyphenidyl (Artane); 4= Diphenhydramine (Benadryl); 5= Other","anticholinergics_name"
 "anticholinergic_name","String","50","Recommended","Anticholinergic medication name?","","","anticholinergic_other"
 "anticholinergic_dose","String","100","Recommended","Anticholinergic Dose","","",""
+"spouse_school","Integer","","Recommended","Spouse's Educational Level (Years of schooling)","","",""
+"spouse_occupation","String","100","Recommended","Spouse's Occupation","","",""

@@ -22,7 +22,7 @@
 "pedproxanx44","Integer","","Recommended","Please indicate how often or true the behavior is of your child. Complains of feeling sick before separating from those he/she is close to.","0::2","0=Never or not true; 1=Sometimes or somewhat true; 2=Often or very true",""
 "pedproxanx45","Integer","","Recommended","Please indicate how often or true the behavior is of your child. Is overly upset when leaving someone he/she is close to.","0::2","0=Never or not true; 1=Sometimes or somewhat true; 2=Often or very true",""
 "pedproxanx47","Integer","","Recommended","Please indicate how often or true the behavior is of your child. Is afraid of being away from home.","0::2","0=Never or not true; 1=Sometimes or somewhat true; 2=Often or very true",""
-"nih_tlbx_rawscore","Integer","","Required","RawScore","","","nihtbx_fear_par_rawscore,nihtbx_fear_rawscore,rawscore"
+"nih_tlbx_rawscore","Integer","","Required","RawScore","","999=NA/NK/missing","nihtbx_fear_par_rawscore,nihtbx_fear_rawscore,rawscore"
 "nih_tlbx_theta","Float","","Required","Theta","","999=NA/NK/missing","fear8_17,fearaffect18_85,fearoveranxprox3_7,fearprox8_12,fearsepanxprox3_7,fearsomatarous18_85,nihtbx_fear_par_theta,nihtbx_fear_theta,theta"
 "nih_tlbx_tscore","Float","","Required","T-score","0::200; 999","999=NA/NK/missing","nihtbx_anxiety_par_tscore,nihtbx_fear_par_tscore,nihtbx_fear_tscore,tscore"
 "nih_tlbx_se","Float","","Required","Standard Error","","999=NA/NK/missing","nihtbx_fear_par_se,nihtbx_fear_se,se"
