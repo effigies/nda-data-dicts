@@ -104,7 +104,7 @@
 "childgen","String","2","Recommended","Child gender","M;F","M=Male; F= Female",""
 "accult_q1_y","Integer","","Recommended","How well do you speak English?","1 ; 2 ; 3 ; 4","1 = Poor; 2 = Fair; 3 = Good; 4 = Excellent","imm_language_1"
 "span_level","Integer","","Recommended","How well do you feel you speak Spanish","1::4","1=poor; 2=fair; 3=good; 4= excellent","imm_langugae_7"
-"imm_uscitizen","Integer","","Recommended","Are you a citizen of the United States?","0;1","0=no; 1=yes",""
+"imm_uscitizen","Integer","","Recommended","Are you a citizen of the United States?","0;1;3","0=No; 1=Yes; 3=Unknown",""
 "imm_bornuscitizen","Integer","","Recommended","Were you born a United States citizen?","0;1","0=no; 1=yes",""
 "immcountry_paternalgrandfather","String","100","Recommended","In what country, - was your father's father (paternal grandfather) born? - Country","","",""
 "immcountry_paternalgrandmother","String","100","Recommended","In what country, - was your father's mother (paternal grandmother) born? - Country","","",""

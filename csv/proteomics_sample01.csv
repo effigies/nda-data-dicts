@@ -19,7 +19,7 @@
 "data_file4_type","String","100","Recommended","Data file 4 type","","",""
 "data_file4","File","255","Recommended","Data file 4","","Path to data file, e.g., Users/username/Documents/subjectABC_file4.csv",""
 "storage_protocol","String","255","Recommended","Description of Storage Protocol","","","proteom_storage_protocol"
-"data_file_location","String","50","Recommended","dbGaP; NDAR; NIMH Genetics; AGRE; Sfari; Proteomics DB name","","","proteom_data_file_location"
+"data_file_location","String","50","Recommended","dbGaP; NDAR; NIMH Genetics; AGRE; Sfari; Proteomics DB name; SRA","","","proteom_data_file_location"
 "biorepository","String","100","Recommended","Sample provider: i.e. NIMH_Genetics; ATP; Correil","","","proteom_biorepository"
 "patient_id_biorepository","String","100","Recommended","Biorepository Patient ID","","","proteom_patient_id_biorepository"
 "sample_id_biorepository","String","100","Required","Biorepository Sample ID","","","proteom_sample_id_biorepository"

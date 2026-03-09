@@ -197,3 +197,4 @@
 "mis_9","Integer","","Recommended","At times I perform certain little rituals to ward off negative influences.","0::1","0 = No; 1 = Yes","wss_mi_5"
 "mis_12","Integer","","Recommended","I have sometimes felt that strangers were reading my mind.","0::1","0 = No; 1 = Yes","wss_mi_6"
 "mis_13","Integer","","Recommended","If reincarnation were true, it would explain some unusual experiences I have had.","0::1","0 = No; 1 = Yes","wss_mi_7"
+"sasr_s_tot","Integer","","Recommended","SASR (Social Interaction Anxiety Scale - Straightforward Items) Total Score, based on all 17 questions. Items included in score: q100,  q44,  q15, q81, q101, q99, q68, q27, q54, q26, q07, q80, q58, q36, q34","0::15","q36,q54, q58, q80 are reverse scored",""

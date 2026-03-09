@@ -183,7 +183,7 @@
 "cope_heal_37i___2","Integer","","Recommended","None apply (choice=Child)","0;1","0=Unchecked; 1=Checked;",""
 "cope_heal_37i___3","Integer","","Recommended","None apply (choice=Other member of household)","0;1","0=Unchecked; 1=Checked;",""
 "cope_heal_38","Integer","","Recommended","Which best describes where you currently live:","1::5","1=A studio dwelling; 2=A 1-bedroom dwelling; 3=A multi-bedroom dwelling; 4=I do not have a stable housing arrangement; 5=I decline to answer;",""
-"cope_heal_39","Integer","","Recommended","Has your living environment changed since the beginning of the pandemic?","0::2","1=Yes; 0=No; 2=Prefer not to respond;",""
+"cope_heal_39","Integer","","Recommended","Has your living environment changed since the beginning of the pandemic?","0::2;-999","0=No; 1=Yes; 2=Prefer not to respond; -999= Missing",""
 "cope_heal_39a","Integer","","Recommended","If yes, Has the change to your living environment had a positive or negative impact?","1::5","1=Very positive; 2=Somewhat positive; 3=Somewhat Negative; 4=Very Negative; 5=No impact;",""
 "cope_heal_40","Integer","","Recommended","Do you currently own or rent your residence?","1::10","1=Owned by you or someone in the household; 2=Rented; 3=Occupied without payment of rent; 4= Transitional or supportive housing; 5=Emergency shelter; 6=Temporarily living with others; 7=g.Car; van; truck; or other vehicle; 8=h.Tent; encampment; or tiny house village; 9=i.Other; 10=j.I decline to answer;",""
 "cope_heal_41a","Integer","","Recommended","Number of children:","","",""

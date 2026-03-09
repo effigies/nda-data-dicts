@@ -65,3 +65,6 @@
 "mctfr_grip_dom","Float","","Recommended","Grip Strength Dominant Hand (maximum of 3 measurements)","","-99 = Missing",""
 "mctfr_grip_non","Float","","Recommended","Grip Strength Non-Dominant Hand (maximum of 3 measurements)","","-99 = Missing",""
 "meters_1","Float","","Recommended","W1:Height in meters","","99=No data",""
+"orch_1_handedness","Integer","","Recommended","Are you right handed, or left handed?","1::3","1=Right handed; 2=Left handed; 3=Both",""
+"orchi_2_left_testicle","Integer","","Recommended","Which bead number matches the size of your left testicle?","","",""
+"orchi_3_right_testicle","Integer","","Recommended","Which bead number matches the size of your right testicle?","","",""
