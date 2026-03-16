@@ -15,3 +15,6 @@
 "labdate","Date","","Recommended","Date PEth test sent to lab","","MM/DD/YYY",""
 "pethdetect","Integer","","Recommended","PEth test: ''> 8'' level detected","0;1;9","0= No; 1= Yes; 9= Result not available",""
 "pethresultna","String","100","Recommended","PEth result not available - explain","","",""
+"peth_result","Float","","Recommended","Phosphatidylethanol (PEth) result","","",""
+"peth_units","String","50","Recommended","Units of phosphatidylethanol (PEth) result","","",""
+"peth_collect","Integer","","Recommended","How was the blood collected that was tested for phosphatidylethanol (Peth)?","1;2","1 = Venipuncture; 2 = Finger prick",""

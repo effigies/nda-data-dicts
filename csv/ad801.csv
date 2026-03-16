@@ -21,3 +21,4 @@
 "ad8_6mo_6","Integer","","Recommended","On average in the past 6-months has your relative with dementia had any of the following problems? Had trouble handling complicated financial affairs?   (e.g. balancing checkbook, income taxes, paying bills)","0;1","0= No; 1= Yes",""
 "ad8_6mo_7","Integer","","Recommended","On average in the past 6-months has your relative with dementia had any of the following problems? Had trouble remembering appointments?","0;1","0= No; 1= Yes",""
 "ad8_6mo_8","Integer","","Recommended","On average in the past 6-months has your relative with dementia had any of the following problems? Had daily problems with thinking and/or memory?","0;1","0= No; 1= Yes",""
+"respondents","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Physician","",""

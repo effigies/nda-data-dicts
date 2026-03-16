@@ -58,3 +58,4 @@
 "tmconsent","String","8","Recommended","Adolescent Consent Time","","HH:MM AM/PM",""
 "dtconsent","Date","","Recommended","Adolescent Consent Date","","MM/DD/YYYY",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
+"baseline_a_002","String","100","Recommended","Interview Start Time:","","",""

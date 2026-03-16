@@ -193,3 +193,4 @@
 "waudit_c1","Integer","","Recommended","How many standard drinks containing alcohol do you have on a typical day?","0::4","0=1 to 2;1=3 to 4;2=5 to 6;3=7 to 9;4=10 or more",""
 "waudit_c2","Integer","","Recommended","How often do you have six or more drinks on one occasion?","0::4","0=Never; 1=Less than monthly; 2=Monthly; 3=Weekly; 4=Daily or almost daily",""
 "waudit_c3","Integer","","Recommended","How often do you have a drink containing alcohol?","0::4","0 = Never; 1 = Monthly or less; 2 = 2-4 times a month; 3 = 2-3 times a week; 4 = 4 or more times a week",""
+"drnk5ge5","Integer","","Recommended","Considering all types of alcoholic beverages, how many times during the past 30 days did you have X [CATI X = 5 for men, X = 4 for women] or more drinks on an occasion?","","Number of times; 77=Don't Know/Not sure; 88=No times; 99=Refused",""

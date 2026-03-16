@@ -65,3 +65,4 @@
 "csbb_lwmcs","Float","","Recommended","Cogstate Brief Battery - Learning/ working memory composite score","","",""
 "csbb_apfcs","Float","","Recommended","Cogstate Brief Battery - Attention/ processing speed composite score","","",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"symbol_sc_score","Integer","","Recommended","Symbol Cancelation Task - Difference between the number of correct and incorrect cancelations","0::30","",""

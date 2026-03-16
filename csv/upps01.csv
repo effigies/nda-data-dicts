@@ -398,3 +398,5 @@
 "uppsurg05","Integer","","Recommended","When I am very happy, I can't stop myself from going overboard","1::5","1= Not at all true of me; 5 = Very true of me",""
 "uppsurg06","Integer","","Recommended","When I am really happy, I tend to get out of control","1::5","1= Not at all true of me; 5 = Very true of me",""
 "uppsurg07","Integer","","Recommended","I tend to lose control when I am in a great mood","1::5","1= Not at all true of me; 5 = Very true of me",""
+"coga_upps11","Integer","","Recommended","I finish what I start.","1::4;8;9","1= Agree Strongly; 2= Agree Some; 3= Disagree Some; 4= Disagree Strongly; 8= Refuse to answer; 9= Don't know",""
+"coga_upps2","Integer","","Recommended","My thinking is usually careful and purposeful.","1::4;8;9","1= Agree Strongly; 2= Agree Some; 3= Disagree Some; 4= Disagree Strongly; 8= Refuse to answer; 9= Don't know",""
