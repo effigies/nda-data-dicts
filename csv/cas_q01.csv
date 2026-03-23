@@ -23,3 +23,4 @@
 "casq_q16","Integer","","Recommended","I fall asleep when I do schoolwork at home in the evening.","1::5; 9999","1=Never (0 times per month); 2=Rarely (less than 3 times per month); 3=Sometimes (1-2 times per week); 4=Often (3-4 times per week); 5=Almost every day (5 or more times per week); 9999=No data",""
 "casq_score","Integer","","Recommended","Cleveland Adolescent Sleepiness Questionnaire Total score","16::80","Total score: minimum 16 = Less sleepy;  maximum 80 = More sleepy",""
 "site","String","101","Recommended","Site","","Study Site",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

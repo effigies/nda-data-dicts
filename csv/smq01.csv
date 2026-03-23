@@ -111,3 +111,4 @@
 "shq05","Float","","Recommended","When smoking the heaviest, how many days per week did you have at least one cigarette on average?","1::7","Average number of days",""
 "shq06","Float","","Recommended","When smoking the heaviest, on average how many cigarettes did you smoke per day?","1::1000","Amount of cigarettes",""
 "shq07","Integer","","Recommended","How many times in your life have you made an attempt to quit smoking? Please enter a number","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

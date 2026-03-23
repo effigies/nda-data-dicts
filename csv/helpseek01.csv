@@ -43,3 +43,6 @@
 "helpseek_24","Integer","","Recommended","Would you talk to an adult about this: You felt very lonely and wanted more friends?","1::4","1 = Definitely yes; 2 = Probably; 3 = Probably not; 4 = Definitely no",""
 "helpseek_25","Integer","","Recommended","Would you talk to an adult about this: You were very worried about a friend or family member who was using drugs?","1::4","1 = Definitely yes; 2 = Probably; 3 = Probably not; 4 = Definitely no",""
 "helpseek_26","Integer","","Recommended","Would you talk to an adult about this: You were very sad because someone in your family was sick?","1::4","1 = Definitely yes; 2 = Probably; 3 = Probably not; 4 = Definitely no",""
+"helpseek1","Integer","","Recommended","How often have you wanted to talk to your partner about starting mental health treatments for drinking?","0::4","0 = Never; 1 = Rarely; 2 = Sometimes; 3 = Often; 4 = Frequently",""
+"helpseek2","Integer","","Recommended","How often did you talk with your partner about starting mental health treatments for drinking?","0::4","0 = Never; 1 = Rarely; 2 = Sometimes; 3 = Often; 4 = Frequently",""
+"helpseek3","Integer","","Recommended","How often did you talk about your partner getting into care with other people in your life (friends)?","0::4","0 = Never; 1 = Rarely; 2 = Sometimes; 3 = Often; 4 = Frequently",""

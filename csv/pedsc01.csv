@@ -55,3 +55,4 @@
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "p_psc_help","Integer","","Recommended","Does your child have any emotional or behavioral problems for which she/he needs help?","0;1","0= No; 1 = Yes",""
 "y_psc_distract","Integer","","Recommended","Distract easily","0::2","0= Never; 1= Sometimes; 2= Often",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

@@ -102,3 +102,6 @@
 "aaasa_session","Integer","","Recommended","Session of trial","0 :: 3","0 = Baseline; 1 = Session one; 2 = Session two; 3 = One-month follow-up",""
 "test_site","String","100","Recommended","Location of study","","",""
 "txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""
+"gpa1","String","10","Recommended","What was your fall semester GPA?","","",""
+"gpa2","String","10","Recommended","What was your spring semester GPA?","","",""
+"gpa3","String","10","Recommended","What was your cumulative GPA?","","",""

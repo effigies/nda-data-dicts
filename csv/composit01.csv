@@ -33,3 +33,4 @@
 "mads_score","Integer","","Recommended","Morning activation deficit score based off items comp3, comp4, compt6, comp12","1::12","1= Severe morning activation deficits; 12= Less morning activation deficits",""
 "instance_date","String","30","Recommended","Date and Time EMA survey was completed","","",""
 "meq_totalscore","Integer","","Recommended","Morningness/Eveningness Total score (actual)","13::57","Sum of [(6 - Comp1), (6 - Comp2), Comp3, Comp4, Comp5, (5 - Comp6), (6 - Comp7), (5 - Comp8), (5 - Comp9), (5 - Comp10), Comp11, (5 - Comp12), (5 - Comp13)]; Evening Type 22 and less; Intermediate Type 23-43; Morning Type 44 and above",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

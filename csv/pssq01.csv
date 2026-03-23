@@ -69,3 +69,4 @@
 "ssm_05","Integer","","Recommended","I rely on my friends for emotional support.","0;1;99","0=No; 1=Yes; 99=Don't Know",""
 "ssm_06","Integer","","Recommended","If I felt that one or more of my friends were upset with me, I’d just keep it to myself.","0;1;99","0=No; 1=Yes; 99=Don't Know",""
 "ssm_07","Integer","","Recommended","I feel that I’m on the fringe in my circle of friends.","0;1;99","0=No; 1=Yes; 99=Don't Know",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

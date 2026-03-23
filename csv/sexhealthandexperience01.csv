@@ -87,3 +87,4 @@
 "sti_hist_m2a","Integer","","Recommended","Have you ever been diagnosed with gonorrhea?","0;1;88;99","0=No; 1=Yes; 88=Refuse to answer; 99=Don't know",""
 "sti_hist_m2b","Integer","","Recommended","Have you had a positive gonorrhea test in the past 12 months?","0;1;88;99","0=No; 1=Yes; 88=Refuse to answer; 99=Don't know",""
 "sti_hist_m3","Integer","","Recommended","Before your recent PrEP visit, have you ever been tested for chlamydia?","0;1;88;99","0=No; 1=Yes; 88=Refuse to answer; 99=Don't know",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

@@ -32,3 +32,4 @@
 "wwid26","Integer","","Recommended","If someone were being mean to you, would you hurt the kid back?","0::2","0 = Never; 1 = Sometimes; 2 = Most of the time",""
 "wwid27","Integer","","Recommended","If someone were being mean to you, would you worry that other kids would not like you?","0::2","0 = Never; 1 = Sometimes; 2 = Most of the time",""
 "wwid28","Integer","","Recommended","If someone were being mean to you, would you ask the teacher what to do?","0::2","0 = Never; 1 = Sometimes; 2 = Most of the time",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

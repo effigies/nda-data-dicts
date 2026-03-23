@@ -526,3 +526,4 @@
 "add_srd05","Integer","","Recommended","Thinking of yourself during the past six months, how many times have you…Stolen something worth more than $5 but less than $100?","0::4","0=Never; 1=1-2 times; 2=3-5 times; 3=6-9 times; 4=10 or more times",""
 "add_srd06","Integer","","Recommended","Thinking of yourself during the past six months, how many times have you…Stolen something worth more than $100?","0::4","0=Never; 1=1-2 times; 2=3-5 times; 3=6-9 times; 4=10 or more times",""
 "add_srd07","Integer","","Recommended","Thinking of yourself during the past six months, how many times have you…Gone into or tried to go into a building to steal something?","0::4","0=Never; 1=1-2 times; 2=3-5 times; 3=6-9 times; 4=10 or more times",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

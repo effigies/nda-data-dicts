@@ -860,3 +860,5 @@
 "csra_7_frequency_thoughts","Integer","","Recommended","How often have you had these thoughts of killing yourself?","1::4","1=Once a week or less; 2=2-5 times per week; 3=Daily or almost daily; 4=Many times each day",""
 "csra_8_duration_thoughts","Integer","","Recommended","When you have these thoughts of killing yourself, how long do they last?","1::5","1=Fleeting; 2=Less than an hour; 3=1-4 hours; 4=4-8 hours; 5=More than 8 hours",""
 "csra_9_control_thoughts","Integer","","Recommended","How hard was it to control thinking about killing yourself?","1::4","1=Easy to control; 2=Difficult to control; 3=Unable to control; 4=Did not try to control",""
+"cssrs_3m_6b","Integer","","Recommended","In the last 3 months, have you ever done anything, started to do anything, or prepared to do anything to end your life?","0;1","0 = No; 1 = Yes",""
+"cssrs_lt_6_a","Integer","","Recommended","In your lifetime, have you ever done anything, started to do anything, or prepared to do anything to end your life?","0;1","0 = No; 1 = Yes",""

@@ -25,3 +25,4 @@
 "vam_19","Integer","","Recommended","Over the past 7 days I missed my dose because I was feeling too sick to take it","1::5","1 = Not at all;  5 = completely agree",""
 "vam_20","Integer","","Recommended","Over the past 7 days I missed my dose because I could not get answers to my questions about the
 medication","1::5","1 = Not at all;  5 = completely agree",""
+"timepoint_datacoll","Integer","","Recommended","Time point of data collection","0::4","0=Screening; 1=Baseline; 2=6 weeks; 3=12 weeks; 4=12 weeks follow-up",""
