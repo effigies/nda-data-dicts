@@ -185,3 +185,4 @@
 "nssib_q4bmth","Integer","","Recommended","Have you scraped/scratched your skin to the point of drawing blood within the past month?","0;1","0 = No; 1 = Yes",""
 "nssib_q4cyr","Integer","","Recommended","Have you inserted objects under your skin or nails within the past 12 months?","0;1","0 = No; 1 = Yes",""
 "nssib_q4cmth","Integer","","Recommended","Have you inserted objects under your skin or nails within the past month?","0;1","0 = No; 1 = Yes",""
+"m6sh_03","Integer","","Recommended","On how many occasions did this (NSSI) occur in the past 6 months?","1::5","1 = Once; 2 = 2-3 times; 3 = 4-10 times; 4 = 11-20 times; 5 = 20 or more times",""

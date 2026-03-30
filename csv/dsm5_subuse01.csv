@@ -456,3 +456,4 @@
 "dsm_cannabis_3a","Integer","","Recommended","In the last year, did you go to school or work when you were high, or use cannabis while you were at school or work - Did you do this more than once?","0;1;-99","0=No; 1=Yes; -99=Decline to Answer",""
 "dsm_cannabis_4","Integer","","Recommended","In the last year, did you get into trouble at school or work, or did you have problems with your schoolwork or doing your job because of using cannabis?","0;1;-99","0=No; 1=Yes; -99=Decline to Answer",""
 "dsm_cannabis_4a","Integer","","Recommended","In the last year, did you get into trouble at school or work, or did you have problems with your schoolwork or doing your job because of using cannabis - Did this happen more than once?","0;1;-99","0=No; 1=Yes; -99=Decline to Answer",""
+"dsm_cannabis__2a","Integer","","Recommended","Did you miss school or work more than once because of using cannabis?","0;1;-99","0=No; 1=Yes; -99=Decline to Answer",""

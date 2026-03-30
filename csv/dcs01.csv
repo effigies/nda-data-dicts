@@ -32,3 +32,6 @@
 "ema_studyday","Integer","","Recommended","Day of the EMA collection","1::14","",""
 "ema_weekday","Integer","","Recommended","Day of the week for the EMA collection","1::7","1= Sunday; 2= Monday; 3= Tuesday; 4= Wednesday; 5= Thursday; 6= Friday; 7= Saturday",""
 "emadatetime","String","20","Recommended","Date and time of EMA collection","","",""
+"drinkcontext_24","Integer","","Recommended","Based on your personal experience, how would you rate the chances that you might find yourself drinking excessively in the following circumstances?  When I'm alone","1::5","1= Extremely high; 2= High; 3= Moderate; 4= Low; 5= Extremely low",""
+"drinkcontext_25","Integer","","Recommended","Based on your personal experience, how would you rate the chances that you might find yourself drinking excessively in the following circumstances?  When I'm at home","1::5","1= Extremely high; 2= High; 3= Moderate; 4= Low; 5= Extremely low",""
+"drinkcontext_26","Integer","","Recommended","Based on your personal experience, how would you rate the chances that you might find yourself drinking excessively in the following circumstances?  While I'm at work","1::5","1= Extremely high; 2= High; 3= Moderate; 4= Low; 5= Extremely low",""

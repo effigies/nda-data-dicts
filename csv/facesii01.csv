@@ -185,3 +185,4 @@
 "yfrs_6","Integer","","Recommended","Select the answer that most applies to you and your family: I listen to what other family members have to say, even when I disagree.","1::5","1=None of the time; 2=A little of the time; 3=Some of the time; 4=Most of the time; 5=All of the time",""
 "facesiv_38alt2","Integer","","Recommended","When family problems arise, we compromise.","1::5","1= Strongly disagree; 2= Generally disagree; 3= Undecided; 4= Generally agree; 5= Strongly agree",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"facesiv_15_alt","Integer","","Recommended","Family members consult other family members on important decisions.","1::5","1=Almost Never; 2=Once in a While; 3=Sometimes; 4=Frequently; 5=Almost Always",""

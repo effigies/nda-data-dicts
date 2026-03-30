@@ -96,7 +96,7 @@
 "diagupwt","Integer","","Recommended","Weighted Score: Upper Lip Rating greater than or equal to 4?","0;1","0= No; 1= Yes",""
 "phlpal","Float","","Recommended","Palpebral fissures - Left (mm)","","Measured in millimeters (mm)",""
 "phrpal","Float","","Recommended","Palpebral fissures - Right (mm)","","Measured in millimeters (mm)",""
-"diaghtcm","Integer","","Recommended","Growth Deficiency - Height (Take off shoes)","","Measured in cm",""
+"diaghtcm","Float","","Recommended","Growth Deficiency - Height (Take off shoes)","","Measured in cm",""
 "diagpalsum","Integer","","Recommended","Sum Score: Palpebral fissures - either measurement less than or equal to cutoff?","0;1","0= No; 1= Yes",""
 "diagpalwt","Integer","","Recommended","Weighted Score: Palpebral fissures - either measurement less than or equal to cutoff?","0;1","0= No; 1= Yes",""
 "phyeepir","Integer","","Recommended","Epicanthal folds - Right","0;1","0= No; 1= Yes",""

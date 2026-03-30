@@ -469,3 +469,5 @@
 "baseline_a_002","String","100","Recommended","Interview Start Time:","","","intsrttm"
 "stoptime","String","10","Recommended","Stop time","","","intendtm"
 "intlgth","String","100","Recommended","Duration of interview","","",""
+"rectotct","Integer","","Recommended","Time-Limited: Recent - Total Count of Stressors in the Past 12 Months","0::300","",""
+"rectotth","Integer","","Recommended","Time-Limited: Recent - Total Severity of Stressors in the Past 12 Months","0::150","",""

@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
-"ucla11x2","Integer","","Recommended","I feel left out","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always","aqol2"
+"ucla11x2","Integer","","Recommended","I feel left out","1::5;-9","1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always; -9 = Prefer not to answer","aqol2"
 "t_sleep_12","Integer","","Recommended","How often have you had trouble falling asleep at bedtime?","1::5","1 = Never; 2 = Not very often; 3 =Sometimes; 4 =Usually; 5 =Always;","aqol12"
 "eddep04","Integer","","Recommended","In the past 7 days...I felt worthless","1::5;-5;-999","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always; -5= Item seen but not answered; -999= Data not submitted (incomplete, item not seen)","aqol13"
 "pa019","Integer","","Recommended","Self-report: In the past 7 days; I felt enthusiastic / Parent report: In the past 7 days, my child was enthusiastic","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much","aqol17"

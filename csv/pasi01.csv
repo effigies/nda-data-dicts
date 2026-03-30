@@ -20,3 +20,5 @@
 "psi_14_i","Integer","","Recommended","If I felt bored, my parents had suggestions about things to do.","1::4","1= Not at all; 2= Somewhat; 3= Moderately so; 4= Very much",""
 "psi_15_i","Integer","","Recommended","If I had a problem with a friend, my parent would have advice about what to do.","1::4","1= Not at all; 2= Somewhat; 3= Moderately so; 4= Very much",""
 "psi_total","Integer","","Recommended","Parental Support Inventory (PSI) score- Sum of all emotional support and instrumental support items' raw scores","15::60","Sum of psi_1_e to psi_7_e and psi_8_i to psi_15_i",""
+"psi_3_e_reverse","Integer","","Recommended","If I told my parent about a problem, they would probably blame me for it.","1::4","1=Very much; 2=Moderately so; 3=Somewhat; 4=Not at all",""
+"psi_total_reverse","Integer","","Recommended","Parental Support Inventory (PSI) score - Sum of all emotional support and instrumental support items' raw scores, with item 3 reverse scored","15::60","Sum of psi_1_e, ps_2_e, ps_3_e_reverse, ps_4_e to psi_7_e, and psi_8_i to psi_15_i",""

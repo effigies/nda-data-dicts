@@ -326,3 +326,5 @@
 "cbvs_aauw_6mo_24_e","Integer","","Recommended","Sexual Harassment - How much did this affect you? Did not go to school","1::4","1= Not at all; 2= A little bit; 3= Somewhat; 4= A great deal",""
 "cbvs_aauw_6mo_24_f","Integer","","Recommended","Sexual Harassment - How much did this affect you? I had problems with my family","1::4","1= Not at all; 2= A little bit; 3= Somewhat; 4= A great deal",""
 "cbvs_aauw_6mo_24_g","Integer","","Recommended","Sexual Harassment - How much did this affect you? I had problems with a teacher, school administrator, or other school personnel","1::4","1= Not at all; 2= A little bit; 3= Somewhat; 4= A great deal",""
+"cbvs_097","Integer","","Recommended","For which of these experiences do you believe you that you were targeted because of your sexual or gender identity? None of the above","0;1","0= No; 1= Yes",""
+"cbvs_2011","Integer","","Recommended","For which, if any, of these experiences do you believe that you were targeted because of your sexual or gender identity? None of the above","0;1","0= No; 1= Yes",""
