@@ -6,3 +6,6 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "change_progress","Integer","","Recommended","Are you not prepared to change, already changing or somewhere in the middle?","1::10;77","1=Not prepared to change; 10=Already changing; 77= Refused",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
+"bready1","Integer","","Recommended","How important is it to you to change the experiences you have during and after drinking?","1::10;-5","1 = Not at all important; 10 = Extremely important; -5 = Skipped",""
+"bready2","Integer","","Recommended","How important is it to you to have positive experiences during and after drinking?","1::10;-5","1 = Not at all important; 10 = Extremely important; -5 = Skipped",""
+"bready3","Integer","","Recommended","Do you want to have more positive experiences during and after drinking than what you recently have had?","0;1;-5","0 = No; 1= Yes; -5 = Skipped",""

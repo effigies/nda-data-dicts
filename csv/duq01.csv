@@ -332,3 +332,4 @@
 "mj_3month","Integer","","Recommended","Did you use marijuana in the past 3 months?","0;1","0= No; 1= Yes",""
 "drug_hookah_ever","Integer","","Recommended","Have you ever used Hookah (Shisha)","0;1","0=No; 1=Yes",""
 "drug_hookah_3m","Integer","","Recommended","Have you used Hookah (Shisha) in the past 3 months","0;1","0=No; 1=Yes",""
+"studypt1","Integer","","Recommended","Are you currently actively participating in any research studies focused on mental health?","0;1","0= No; 1= Yes",""

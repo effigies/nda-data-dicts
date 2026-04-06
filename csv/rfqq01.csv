@@ -82,3 +82,4 @@
 "rfqalc05","Integer","","Recommended","You want to quit drinking at this time because you want to have more energy","0;1","0 = No; 1 = Yes",""
 "rfqalc06","Integer","","Recommended","You want to quit drinking at this time because you are concerned that drinking alcohol or drugs will shorten your life","0;1","0 = No; 1 = Yes",""
 "rfqalc07","Integer","","Recommended","You want to quit drinking at this time so that your hair and clothes won''t smell","0;1","0 = No; 1 = Yes",""
+"secc","Integer","","Recommended","In general, how ready are you to make a change (quit or cut down) in your use of marijuana or cannabis?","1::10","Higher scores indicate more readiness to change (including already actively trying to change)",""

@@ -228,3 +228,4 @@
 "drinking_g11e","Integer","","Recommended","Drinking improves interpersonal connection (makes me feel included when gathering with my family, friends, and colleagues)","0;1;88;99","0=No; 1=Yes; 88=Refuse to answer; 99=Don't know",""
 "drinking_g11f","Integer","","Recommended","I feel pressure to drink when gathering with other people (e.g. my family, friends, and colleagues)","0;1;88;99","0=No; 1=Yes; 88=Refuse to answer; 99=Don't know",""
 "drinking_g11g","Integer","","Recommended","Drinking is part of my daily routine (e.g. after work or with meals)","0;1;88;99","0=No; 1=Yes; 88=Refuse to answer; 99=Don't know",""
+"dmqr_pastmo_excite","Integer","","Recommended","In the past month, how often did you drink because it was exciting?","1::5;999","1 = Almost never/Never; 2 = Some of the time; 3 = Half of the time; 4 = Most of the time; 5 = Almost always/always; 999 = Prefer not to say",""

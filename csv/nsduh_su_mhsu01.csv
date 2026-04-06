@@ -426,3 +426,4 @@
 "aod_tx5","Integer","","Recommended","During the past 12 months, have you received treatment for drug or alcohol use... in a residential facility where you stayed overnight or longer?","0;1","0= No; 1= Yes",""
 "aod_tx6","Integer","","Recommended","During the past 12 months, have you received treatment for drug or alcohol use... as an outpatient?","0;1","0= No; 1= Yes",""
 "aod_tx7","Integer","","Recommended","During the past 12 months, have you received treatment for drug or alcohol use... in an emergency room?","0;1","0= No; 1= Yes",""
+"audcoun3m","Integer","","Recommended","In the past 3 months (including currently), have you received psychotherapy or counseling for your alcohol or other substance use? Note, this DOES NOT include support groups such as Alcoholics Anonymous (AA), Narcotics Anonymous (NA), SMART Recovery, etc.","0;1","0= No; 1= Yes",""

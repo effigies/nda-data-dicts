@@ -212,7 +212,7 @@
 "antibiotics_which_one","String","1000","Recommended","(Receive multiple antibiotics as a child/teen) If yes, which antibiotic(s)? ","","",""
 "antibiotics_conditions","String","1000","Recommended","(Receive multiple antibiotics as a child/teen) For what condition(s)?","","",""
 "antibiotics_how_long","String","100","Recommended","(Receive multiple antibiotics as a child/teen) Approximately how long? ","","",""
-"dsi01","Integer","","Recommended","Marital Status (check one):","1::6","1 = Single; 2 = Married; 3 = Live-in Partner; 4 = Divorced; 5 = Separated; 6 = Widowed","marital_status"
+"dsi01","Integer","","Recommended","Marital Status (check one):","1::6;444;555;777;888;999","1 = Single; 2 = Married; 3 = Live-in Partner; 4 = Divorced; 5 = Separated; 6 = Widowed; 444= Do not wish to respond; 555= Missing; 777= Condition Skipped; 888= Skipped; 999= No Answer","marital_status"
 "mayo_bio393","Integer","","Recommended","Were you born in the United States?","0;1","0= No; 1= Yes","residence_history"
 "residence_in_the_us","Integer","","Recommended","Have you lived in the United States for the past 10 years?","0;1","0 = No; 1 = Yes",""
 "occupation_history","Integer","","Recommended","Occupation (current or previous)","1::6","1 = Full time; 2 = Part time; 3 = Unemployed; 4 = Retired; 5 = Student; 6 = Homemaker",""

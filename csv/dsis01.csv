@@ -4,7 +4,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"dsi01","Integer","","Recommended","Marital Status (check one):","1::6","1 = Single; 2 = Married; 3 = Live-in Partner; 4 = Divorced; 5 = Separated; 6 = Widowed",""
+"dsi01","Integer","","Recommended","Marital Status (check one):","1::6;444;555;777;888;999","1 = Single; 2 = Married; 3 = Live-in Partner; 4 = Divorced; 5 = Separated; 6 = Widowed; 444= Do not wish to respond; 555= Missing; 777= Condition Skipped; 888= Skipped; 999= No Answer",""
 "dsi02","Integer","","Recommended","Ethnic Background (check one):","1::6","1 = African American; 2 = Asian/Pacific Islander; 3 = Hispanic; 4 = Native American; 5 = White, not of Hispanic origin; 6 = Other",""
 "dsi03","String","50","Recommended","If you selected ""Other"" for ethnic background, please describe","","",""
 "dsi04","Integer","","Recommended","Number of children","","",""

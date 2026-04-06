@@ -13,3 +13,5 @@
 "sses7","Integer","","Recommended","Indicate how confident you are that you can: Feel refreshed upon waking in the morning","1::5","1= Not confident at all; 5= Very confident",""
 "sses8","Integer","","Recommended","Indicate how confident you are that you can: Wake after a poor night's sleep without feeling upset about it","1::5","1= Not confident at all; 5= Very confident",""
 "sses9","Integer","","Recommended","Indicate how confident you are that you can: Not allow a poor night's sleep to interfere with daily activities","1::5","1= Not confident at all; 5= Very confident",""
+"sses10","Integer","","Recommended","How confident are you that you can: Go to sleep without using cannabis","1::5","1=Not confident at all; 5=Very confident",""
+"sses11","Integer","","Recommended","How confident are you that you can: Have a good quality sleep without using cannabis","1::5","1=Not confident at all; 5=Very confident",""

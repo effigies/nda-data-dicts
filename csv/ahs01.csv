@@ -44,3 +44,6 @@
 "hope_5_alt","Integer","","Recommended","I feel more positive about things","1::5","1 = Strongly Disagree; 5 = Strongly Agree",""
 "hope_6_alt","Integer","","Recommended","I'm fearful about how s/he will get on","1::5","1 = Strongly Disagree; 5 = Strongly Agree",""
 "hope_7_alt","Integer","","Recommended","S/he isn't looking at things seriously enough","1::5","1 = Strongly Disagree; 5 = Strongly Agree",""
+"hope1a","Integer","","Recommended","Please indicate how much these statements describe you. I expect good things to happen to me.","1::5","1 = Not at all like me;  2 = A little like me; 3 = Neutral; 4 = A lot like me; 5 = Exactly like me",""
+"hope2a","Integer","","Recommended","Please indicate how much these statements describe you. I am excited about my future.","1::5","1 = Not at all like me;  2 = A little like me; 3 = Neutral; 4 = A lot like me; 5 = Exactly like me",""
+"hope3a","Integer","","Recommended","Please indicate how much these statements describe you. I trust my future will turn out well.","1::5","1 = Not at all like me;  2 = A little like me; 3 = Neutral; 4 = A lot like me; 5 = Exactly like me",""

@@ -333,3 +333,4 @@
 "bs_meth_mar_4","Integer","","Recommended","In the past 28 days, how did you use cannabis? Tincture (oil)","0;1","0=No; 1=Yes",""
 "bs_meth_mar_5","Integer","","Recommended","In the past 28 days, how did you use cannabis? Other","0;1","0=No; 1=Yes",""
 "tlfb_cal_scr_smj_ud_","Float","","Recommended","Number of smoked MJ use days","","",""
+"bs_food","Integer","","Recommended","Approximately how many days out of the past 28 days did you consume cannabis in drinks or food?","0::28","",""
