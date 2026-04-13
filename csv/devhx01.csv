@@ -330,7 +330,7 @@
 "bm_devhx_drugs","Integer","","Recommended","Have you taken any illegal drugs or medications that were not prescribed to you?","0;1","0 = No; 1 = Yes",""
 "bm_devhx_pregsmoke_2","Integer","","Recommended","Have you smoked tobacco since finding out you were pregnant?","0;1","0 = No; 1 = Yes",""
 "bm_devhx_pregmj_2","Integer","","Recommended","Have you used marijuana since finding out that you were pregnant?","0;1","0 = No; 1 = Yes",""
-"demo_arc02","Integer","","Recommended","Are you currently taking any medications?","0;1","0= No; 1= Yes",""
+"demo_arc02","Integer","","Recommended","Are you currently taking any medications?","0;1;-99","0=No; 1=Yes; -99=Missing",""
 "bm_devhx_pregsmoke5","Integer","","Recommended","Did you smoke more than 5 cigarettes during this pregnancy?","0;1","0 = No; 1 = Yes",""
 "bm_devhx_pregsmoke5_2","Integer","","Recommended","Did you smoke more than 5 cigarettes since finding out that you were pregnant?","0;1","0 = No; 1 = Yes",""
 "bm_devhx_ecig","Integer","","Recommended","Have you ever used a hookah, an electronic cigarette, or other electronic nicotine products?","0;1","0 = No; 1 = Yes",""

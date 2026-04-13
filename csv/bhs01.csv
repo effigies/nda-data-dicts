@@ -88,3 +88,7 @@
 "bhs_dark_typ","Integer","","Recommended","Please indicate how typical each statement is of you: My future seems dark to me","0::3","0=Not typical; 1=Rarely typical; 2=Typical; 3=Very typical",""
 "bhs_workout_typ","Integer","","Recommended","Please indicate how typical each statement is of you: Things just will not work out the way I want them to","0::3","0=Not typical; 1=Rarely typical; 2=Typical; 3=Very typical",""
 "bhs_trying_typ","Integer","","Recommended","Please indicate how typical each statement is of you: There is no use in really trying to get something I want because I probably will not get it","0::3","0=Not typical; 1=Rarely typical; 2=Typical; 3=Very typical",""
+"hope_01","Integer","","Recommended","I thought there was nothing good for me in the future","1::3","1=Not true; 2=Sometimes; 3=True",""
+"hope_02","Integer","","Recommended","I felt worthless","1::3","1=Not true; 2=Sometimes; 3=True",""
+"hope_03","Integer","","Recommended","I believed things will improve","1::3","1=Not true; 2=Sometimes; 3=True",""
+"hope_04","Integer","","Recommended","I believed I will accomplish what I set out to do","1::3","1=Not true; 2=Sometimes; 3=True",""

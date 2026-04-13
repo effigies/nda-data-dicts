@@ -100,7 +100,7 @@
 "oeas_28","Integer","","Recommended","What is your marital status?","1::5","1= Married or living with a partner; 2= Single; 3= Divorced; 4= Separated; 5= Widowed",""
 "demo_18a","Integer","","Recommended","18. Are you of Hispanic, Latino/a, or Spanish origin?  ","1;2","1=Yes; 2=No",""
 "oeas_29_yes","String","100","Recommended","What is your country of ancestry or ethnic origin?","","",""
-"demog3_5","Integer","","Recommended","What is your race? You may choose more than one. (Choice: White)","0;1","0= No; 1= Yes",""
+"demog3_5","Integer","","Recommended","What is your race? You may choose more than one. (Choice: White)","0;1;99","0= No; 1= Yes; 99= No data",""
 "riaya_gen7","Integer","","Recommended","What is your race/ethnicity? (Check all that apply) Black/African American","0;1","0=No; 1=Yes",""
 "race_4a","Integer","","Recommended","What is your racial identity (check all that apply)? American Indian","0;1","0 = No; 1 = Yes",""
 "oeas_30d","Integer","","Recommended","Please choose one or more of the following categories to describe your race: Asian or Pacific Islander","0;1","0= No; 1= Yes",""

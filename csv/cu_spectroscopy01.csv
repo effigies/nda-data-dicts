@@ -20,7 +20,7 @@
 "mrs_task","Integer","","Recommended","fMRS Task","1::3","1= Basal; 2= Associative memory-learning; 3= Rest",""
 "mrs_task_trial_measurement","Integer","","Recommended","Task condition of the trial measuremnet","1::4","1=checkerboard;2=rest;3=encoding;4=retrieval",""
 "mrs_trial_measurement_number","Integer","","Recommended","Trial measurement number","","",""
-"mri_repetition_time_pd","Float","","Recommended","Repetition Time (seconds)","","!=DICOM means not equal DICOM","mrs_repetition_time"
+"mri_repetition_time_pd","Float","","Recommended","Repetition Time (seconds)","","!=DICOM means not equal DICOM; -99 = Refer to supplemental data_file","mrs_repetition_time"
 "mri_echo_time_pd","String","100","Recommended","Echo Time (seconds)","","!=DICOM means not equal DICOM","mrs_echo_time"
 "mrs_complex_data_points","Integer","","Recommended","Number of Complex data points","","",""
 "mrs_dwell_time","Float","","Recommended","Dwell period between sampled points (microseconds)","","",""

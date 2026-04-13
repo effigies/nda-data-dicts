@@ -556,7 +556,7 @@
 "covid_self","Integer","","Recommended","The amount of times the study subjact had COVID.","1 :: 6;9998","1 = 0; 2 = 1; 3 = 2; 4 = 3; 5 = 4; 6 = 5 or more; 9998 = Do not want to answer",""
 "covid_determine_dx","Integer","","Recommended","How the study subject learned they had COVID.","1 :: 4;9998","1 = I had a positive at home COVID-19 test; 2 = I had a positive COVID-19 test I took at a clinic or pharmacy; 3 = I was diagnosed by a doctor; 4 = I had symptoms (but did not get a test or a doctors diagnosis); 9998 = Do not want to answer",""
 "same_demographics10","Integer","","Recommended","How would you describe your ancestry: Indigenous Australian?","0;1","0 = No; 1 = Yes",""
-"same_demographics11","Integer","","Recommended","How would you describe your ancestry: Pacific Islander?","0;1","0 = No; 1 = Yes",""
+"same_demographics11","Integer","","Recommended","How would you describe your ancestry: Pacific Islander?","0;1;99","0 = No; 1 = Yes; 99= No data",""
 "same_demographics12","String","250","Recommended","How would you describe your ancestry: Other, specify","","",""
 "same_demographics13","String","250","Recommended","What country were you born in?","","",""
 "same_demographics14","String","250","Recommended","What country was your mother born in?","","",""

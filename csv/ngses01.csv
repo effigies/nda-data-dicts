@@ -54,3 +54,7 @@
 "smy_control","Integer","","Recommended","I feel in control of my life and future?","1::4","1= Not at all; 2= Somewhat or sometime; 3= Often or frequently; 4= Always",""
 "smy_future","Integer","","Recommended","I feel good about my future?","1::4","1= Not at all; 2= Somewhat or sometime; 3= Often or frequently; 4= Always",""
 "smy_purpose","Integer","","Recommended","I am thinking about what my purpose is in life?","1::4","1= Not at all; 2= Somewhat or sometime; 3= Often or frequently; 4= Always",""
+"gse_1","Integer","","Recommended","I can always manage to control my thoughts and feelings if I try hard enough.","1::4","1=Not at all True; 2=Hardly True; 3=Moderately True; 4=Completely True",""
+"gse_2","Integer","","Recommended","Even when things are tough, I can find ways to cope effectively.","1::4","1=Not at all True; 2=Hardly True; 3=Moderately True; 4=Completely True",""
+"gse_3","Integer","","Recommended","It is easy for me to cope when things get tough.","1::4","1=Not at all True; 2=Hardly True; 3=Moderately True; 4=Completely True",""
+"gse_total","Integer","","Recommended","GSE total score","10::40","","sumofgse_1"

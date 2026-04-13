@@ -131,3 +131,4 @@
 "ecr_s12","Integer","","Recommended","I worry that romantic partners won't care about me as much as I care about them.","1::7","1 = Strongly Disagree; 7 = Strongly Agree",""
 "ecr_sanx","Float","","Recommended","Experience in Close Relationship Scale-Short Form (ECR-S) - Anxious subscale","6::42","Sum of items ecr_reassurance, ecr_13anx, ecr_15anx, ecr_s8, ecr_frustrated, ecr_s12; Higher scores assume insecure adult attachment orientation",""
 "ecr_sav","Float","","Recommended","Experience in Close Relationship Scale-Short Form (ECR-S) - Avoidant subscale","6::42","Sum of items ecr_s1, ecr_pullback, ecr_turnto, ecr_avoidclose, ecr_s9, ecr_33av_r; Higher scores assume insecure adult attachment orientation",""
+"ecrr__4anx","Integer","","Recommended","I often worry that my partner doesn't really love me.","1::7; 9999","1=Strongly disagree; 2=Disagree; 3=Somewhat disagree; 4=Neutral; 5=Somewhat agree; 6=Agree; 7=Strongly agree",""

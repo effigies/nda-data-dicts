@@ -108,7 +108,7 @@
 "mri_relaxometry_0_nii_file","File","","Recommended","MRI Variables: Relaxometry native file (file name) nifti","","",""
 "mri_relaxometry_1_mnc_file","File","","Recommended","MRI Variables: Relaxometry native file (file name) minc2","","",""
 "mri_relaxometry_1_nii_file","File","","Recommended","MRI Variables: Relaxometry native file (file name) nifti","","",""
-"mri_repetition_time_pd","Float","","Recommended","Repetition Time (seconds)","","!=DICOM means not equal DICOM",""
+"mri_repetition_time_pd","Float","","Recommended","Repetition Time (seconds)","","!=DICOM means not equal DICOM; -99 = Refer to supplemental data_file",""
 "mri_repetition_time_t1","Float","","Recommended","MRI T1 Repetition Time (seconds)","","",""
 "mri_repetition_time_t2","Float","","Recommended","MRI T2 Repetition Time (seconds)","","",""
 "mri_stx_brain_mask_mnc_file","File","","Recommended","MRI Variables: Brain mask in stereotaxic space (file name) minc2","","",""

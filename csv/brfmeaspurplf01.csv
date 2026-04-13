@@ -13,3 +13,7 @@
 "purp_life2","Integer","","Recommended","I plan for the future.","0::6","0=Strongly disagree; 1=Disagree; 2=Somewhat disagree; 3=Neutral; 4=Somewhat agree; 5=Agree; 6=Strongly agree",""
 "purp_life3","Integer","","Recommended","I am currently involved in activities related to my goals and dreams.","0::6","0=Strongly disagree; 1=Disagree; 2=Somewhat disagree; 3=Neutral; 4=Somewhat agree; 5=Agree; 6=Strongly agree",""
 "purp_life4","Integer","","Recommended","I spend a significant amount of time doing activities related to my life goal.","0::6","0=Strongly disagree; 1=Disagree; 2=Somewhat disagree; 3=Neutral; 4=Somewhat agree; 5=Agree; 6=Strongly agree",""
+"es_01","Integer","","Recommended","I know someone who has attempted suicide","1;2","1=Yes; 2=No",""
+"purpose_02","Integer","","Recommended","I plan for the future","1::5","1=Strongly disagree; 2=Disagree; 3=Uncertain; 4=Agree; 5=Strongly Agree",""
+"purpose_03","Integer","","Recommended","I am currently involved in activities related to my goals and dreams","1::5","1=Strongly disagree; 2=Disagree; 3=Uncertain; 4=Agree; 5=Strongly Agree",""
+"purpose_04","Integer","","Recommended","I spend a significant amount of time doing activities related to my life goal","1::5","1=Strongly disagree; 2=Disagree; 3=Uncertain; 4=Agree; 5=Strongly Agree",""

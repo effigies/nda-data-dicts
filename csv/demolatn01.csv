@@ -23,7 +23,7 @@
 "bmi","Float","","Recommended","body mass index of subject","","-9=Missing; -5=Item/Instrument not collected; -2=Not collected at this time point",""
 "demo_arc08","Date","","Recommended","Opiates: Date of last use","","MM/DD/YYYY",""
 "demo_arc01","Integer","","Recommended","What is your usual pattern of employment over the past 3 years?","1 :: 9","1= Full time (40 hours per week); 2= Part time (regular hours); 3= Part time (irregular hours); 4= Student; 5= Military service; 6= Retired, disability; 7= Homemaker; 8= Unemployed ;9= In controlled environment",""
-"demo_arc02","Integer","","Recommended","Are you currently taking any medications?","0;1","0= No; 1= Yes",""
+"demo_arc02","Integer","","Recommended","Are you currently taking any medications?","0;1;-99","0=No; 1=Yes; -99=Missing",""
 "demo_arc03","Integer","","Recommended","Have you used THC in the past 12 months?","0;1","0= No; 1= Yes",""
 "demo_arc04","Date","","Recommended","THC: Date of last use","","MM/DD/YYYY",""
 "demo_arc05","Integer","","Recommended","Have you used Cocaine in the past 12 months?","0;1","0= No; 1= Yes",""

@@ -69,3 +69,7 @@
 "promis_pi_tscore","Float","","Recommended","PROMIS Pain Interference T-score","","",""
 "q4_promis_d_sf","Integer","","Recommended","I felt sad.","1::6;-999","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Always; 6= Rather not answer; -999= Missing",""
 "raw_total_promis_d_sf","Integer","","Recommended","Raw Total Score PROMIS-Depression Short Form","8::40","Sum of all items (promis57_eddep04, promis57_eddep05, promis57_eddep06, q4_promis_d_sf, promis57_eddep22, promis57_eddep29, promis57_eddep36, promis57_eddep41)",""
+"pf11","Integer","","Recommended","Are you able to do chores such as vacuuming or yard work?","1::5","5= Without any difficulty; 4= With a little difficulty; 3= With some difficulty; 2= With much difficulty; 1= Unable to do",""
+"pf21","Integer","","Recommended","Are you able to go up and down stairs at a normal pace?","1::5","5= Without any difficulty; 4= With a little difficulty; 3= With some difficulty; 2= With much difficulty; 1= Unable to do",""
+"pf23","Integer","","Recommended","Are you able to go for a walk for at least 15 minutes?","1::5","5= Without any difficulty; 4= With a little difficulty; 3= With some difficulty; 2= With much difficulty; 1= Unable to do",""
+"pf53","Integer","","Recommended","Are you able to run errands and shop?","1::5","5= Without any difficulty; 4= With a little difficulty; 3= With some difficulty; 2= With much difficulty; 1= Unable to do",""
