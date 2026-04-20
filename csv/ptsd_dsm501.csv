@@ -82,7 +82,7 @@
 "caps_finalcrita","Integer","","Recommended","Final Criterion A:","0;1","0=No, 1=Yes","_criteriaascore"
 "caps_crita1_1","String","500","Recommended","The event you said was the worst was (EVENT). What I�d like for you to do is briefly describe what happened.","","","criterionaspecify"
 "caps_crita1_2","String","100","Recommended","Exposure type:","","Experienced; Witnessed; Learned about; Exposed to aversive details","criterionaexp"
-"capsptsd8","Integer","","Recommended","Stressful/Traumatic Event 1: Life threat?","0::2","0 = No; 1 = Yes (self); 2 = Yes (other)","criterionalifethreat"
+"capsptsd8","Integer","","Recommended","Stressful/Traumatic Event 1: Life threat?","0::3","0 = No; 1 = Yes (self); 2 = Yes (other); 3 = Yes (self and other)","criterionalifethreat"
 "capsptsd9","Integer","","Recommended","Stressful/Traumatic Event 1: Serious injury?","0::2","0 = No; 1 = Yes (self); 2 = Yes (other)","criterionainjury"
 "caps_crita1_5","Integer","","Recommended","Sexual violence?","0;1","0=No, 1=Yes","criterionasexviolence"
 "caps_critb1_2","String","100","Recommended","How much do these memories bother you?Are you able to put them out of your mind and think about somethingelse?[If not clear:] (Overall, how much of a problem is this for you? How so?)","","Circle: Distress = Minimal Clearly Present Pronounced Extreme","criterionb1bother"

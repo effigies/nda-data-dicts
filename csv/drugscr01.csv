@@ -220,3 +220,4 @@
 "urine_lab_opiate","Integer","","Recommended","Were sent out samples positive or negative for a substance: Opiates?","0::2","0= Negative; 1= Positive; 2= N/A, not sent out for analysis",""
 "urine_lab_amphetamine","Integer","","Recommended","Were sent out samples positive or negative for a substance: Amphetamines?","0::2","0= Negative; 1= Positive; 2= N/A, not sent out for analysis",""
 "urine_lab_meth","Integer","","Recommended","Were sent out samples positive or negative for a substance: Meth?","0::2","0= Negative; 1= Positive; 2= N/A, not sent out for analysis",""
+"k2","Integer","","Recommended","Positive for K2?","1;2","1=Yes; 2=No",""

@@ -9,3 +9,4 @@
 "ios_fc","Float","","Recommended","Feeling Close Factor","","",""
 "ios_bc","Float","","Recommended","Behaving Close Factor","","",""
 "ios_long","Float","","Recommended","Longevity-Closeness Correlation","","",""
+"closeness_overlap","Integer","","Recommended","Venn diagram illustration selected to depict self-other overlap","1::7","1 = No overlap; 7 = Maximal overlap",""

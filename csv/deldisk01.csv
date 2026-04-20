@@ -578,3 +578,6 @@
 "data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "data_file1_type","String","300","Recommended","type of data file 1","","",""
 "data_file2","File","255","Recommended","Data file 2","","Path to data file, e.g., Users/username/Documents/subjectABC_file2.csv",""
+"itc_perclater","Integer","","Recommended","Percentage of delayed choices","0::100;-999","Percentage; -999 = NA or Missing",""
+"itc_percimmediate","Integer","","Recommended","Percentage of immediate choices","0::100;-999","Percentage; -999 = NA or Missing",""
+"itc_discount_rate","Float","","Recommended","Discounting rate applied to choices","","",""

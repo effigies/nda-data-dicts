@@ -157,7 +157,7 @@
 "disagr_13","Integer","","Recommended","We break up with each other for a time.","0::3","0=Never; 1=Rarely; 2=Sometimes; 3=Usually",""
 "disagr_14","Integer","","Recommended","How satisfied are you with the strategies that you have for resolving your conflicts","1::5","1=Very staisfied; 2=works OK most of the time; 3=works sometimes but could be better; 4=mostly dissatisfied; 5= extremely dissatisfied",""
 "disagr_15","Integer","","Recommended","""Overall, how happy are you with this relationship""","1::7","1=extremely unhappy; 2=fairly unhappy; 3=a little unhappy; 4=a little happy; 5=fairly happy; 6=extremely happy; 7 =perfect",""
-"freq_score","Integer","","Required","Frequency: sum of items 1 (minor disagreements) and 2 (major disagreements)","3::18","",""
+"freq_score","Integer","","Required","Frequency: sum of items 1 (minor disagreements) and 2 (major disagreements)","2::18","",""
 "sev_score","Float","","Required","Severity: average rating for Degree of Problem for 21 content areas (1-21)","0::100; 999","999=NA/NK/missing",""
 "resol_score","Integer","","Required","Resolution score"," -48::24; 999","Weight frequency scores by resolution quality, and then sum. Items 1,2,3 x 2; Items 4,5 x 1; Items 6-13 x -2; 999=NA/NK/missing
 ",""

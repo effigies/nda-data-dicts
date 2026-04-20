@@ -20,3 +20,7 @@
 "opt1","Integer","","Recommended","How hopeful and optimistic are you about the future?","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Quite a bit; 5= Very much",""
 "und1","Integer","","Recommended","How much do people in your family understand you?","1::5","1= Not at all; 2= Just a little; 3= Somewhat; 4= Quite a bit; 5= Very much",""
 "attn1","Integer","","Recommended","How much does your family pay attention to you?","1::5","1= Not at all; 2= Just a little; 3= Somewhat; 4= Quite a bit; 5= Very much",""
+"self_1","Integer","","Recommended","How confident are you that you WILL NOT attempt suicide in the future?","0::7","0=Not at all confident; 3=Somewhat confident; 7=Completely confident",""
+"self_2","Integer","","Recommended","If you have thoughts of killing yourself in the future, how confident are you that you WILL BE ABLE to keep yourself from attempting suicide?","0::7","0=Not at all confident; 3=Somewhat confident; 7=Completely confident",""
+"self_3","Integer","","Recommended","If you have thoughts of killing yourself in the future, how confident are you that you WILL tell someone?","0::7","0=Not at all confident; 3=Somewhat confident; 7=Completely confident",""
+"friends_close1","Integer","","Recommended","I have friends I'm really close to and trust completely","1::5","1=Not at all; 2=Not really; 3=Sort of; 4=True; 5=Very true",""

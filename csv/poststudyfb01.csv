@@ -140,3 +140,8 @@
 "feedback_1_5","Integer","","Recommended","For this study, saliva sampling occurred every 4 days. Given your experiences with saliva sampling in this study, would you have been willing to provide samples: Every 1 day","0;1;-999","0=No; 1=Yes; -999=N/A or Missing data",""
 "feedback_1_6","Integer","","Recommended","For this study, saliva sampling occurred every 4 days. Given your experiences with saliva sampling in this study, would you have been willing to provide samples: Other","0;1;-999","0=No; 1=Yes; -999=N/A or Missing data",""
 "feedback_1_other","String","4000","Recommended","For this study, saliva sampling occurred every 4 days. Given your experiences with saliva sampling in this study, would you have been willing to provide samples: Other (specify)","","",""
+"h2h_fb_q1","String","1000","Recommended","What were two things you liked the most about today?","","",""
+"h2h_fb_q2","String","1000","Recommended","If you could change anything about today, what would it be?","","",""
+"h2h_fb_q3","String","1000","Recommended","Are there any topics you would be interested in for future hackathons?","","",""
+"h2h_fb_q4","Integer","","Recommended","If there is an opportunity to stay involved in developing your intervention idea after today, would you be interested in this?","0;1;-99","0=No; 1=Yes; -99=No response",""
+"h2h_fb_q5","Integer","","Recommended","Would you like to be contacted via email about future TYDE events that could be relevant for you?","0;1;-99","0=No; 1=Yes; -99=No response",""

@@ -85,3 +85,4 @@
 "bpaq_verbagr","Integer","","Recommended","BPAQ - Verbal Aggression Score (using items rated 1-7)","5::35","Sum of items 10-14",""
 "bpaq_anger","Integer","","Recommended","BPAQ - Anger Score (using items rated 1-7)","7::49","Sum of items 15-21 (after reversing item 18)",""
 "bpaq_hostility","Integer","","Recommended","BPAQ - Hostility Score (using items rated 1-7)","8::56","Sum of items 22-29",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""

@@ -462,3 +462,5 @@
 "txtype_hotline___4","Integer","","Recommended","Crisis Hotline: Currently","0;1","0 = No; 1 = Yes",""
 "txtype_online___0","Integer","","Recommended","Online tools, including websites, mobile apps or texting services: Never","0;1","0 = No; 1 = Yes",""
 "txtype_online___1","Integer","","Recommended","Online tools, including websites, mobile apps or texting services: Lifetime","0;1","0 = No; 1 = Yes",""
+"edstars_su_1","Integer","","Recommended","Has your child visited an emergency department (obtained emergency services) for a mental health or behavioral reason?","0;1","0=No; 1=Yes",""
+"d_hospitalized","Integer","","Recommended","Has your child been hospitalized for psychiatric/mental health reasons (e.g., safety concerns, psychotic episode)?","0;1","0=No; 1=Yes",""

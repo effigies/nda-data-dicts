@@ -22,3 +22,4 @@
 "eligible_approach","Integer","","Recommended","Eligible to approach","0;1","0= No; 1= Yes",""
 "date_approach","Date","","Recommended","Date approached","","MM/DD/YYYY",""
 "site","String","101","Recommended","Site","","Study Site",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
