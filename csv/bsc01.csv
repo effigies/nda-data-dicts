@@ -222,3 +222,7 @@
 "aliquotid_vpost","Integer","","Recommended","ID number of aliquot (post scan)","","",""
 "metabolite_vpost","String","50","Recommended","Blood level of metabolite (post scan)","","<LLOQ means too low to detect in blood",""
 "drug_vpost","String","50","Recommended","Blood level of study drug (post scan)","","<LLOQ means too low to detect in blood",""
+"interleukin1b","Float","","Recommended","Interleukin-1 beta blood test result","","",""
+"interleukin1b_unit","String","10","Recommended","Unit for the Interleukin-1 beta blood test result","","",""
+"cortisol","Float","","Recommended","Cortisol blood test result","","",""
+"cortisol_unit","String","10","Recommended","Unit for the cortisol blood test result","","",""

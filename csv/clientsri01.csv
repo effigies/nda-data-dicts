@@ -263,3 +263,7 @@
 "csria_eruc","String","100","Recommended","In the past 12 weeks, how many times did you visit an emergency department or urgent care center?","","",""
 "csria_erucvisit","Integer","","Recommended","Were any of these (emergency department or urgent care center) visits related to stress, anxiety, mood, or sleep problems?","0;1","0= Yes; 1= No",""
 "csria_overnight","Integer","","Recommended","In the past 12 weeks, were you admitted to a hospital overnight?","0;1","0= Yes; 1= No",""
+"intent_scale_b","String","250","Recommended","Are you planning to attend the next research visit? It will be at ________ .","","",""
+"intent_scale","Integer","","Recommended","How likely is it that you will complete that visit?","0::10","0 = Not at all; 3 = Mildly; 6 = Moderately; 9 = Markedly; 10 = Extremely",""
+"intent_contact","Integer","","Recommended","We will reach out to you a week before to schedule the meeting. Is that okay?","0;1","0=No; 1= Yes",""
+"caseworker_contact","Integer","","Recommended","(For Weeks 6 & 9 only) Over the course of this program, how many times have you spoken with your case worker either in person or over telephone?","0;10;20","0= Never; 10=10; 20=20+",""

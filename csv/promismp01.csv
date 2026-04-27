@@ -11,7 +11,7 @@
 "meaning5","Integer","","Recommended","I experience deep fulfillment in my life....","1::5","1= Not at all ; 2= A little bit ; 3= Somewhat ; 4= Quite a bit ; 5= Very much","pa232_c"
 "meaning6","Integer","","Recommended","My life has purpose....","1::5","1= Not at all ; 2= A little bit ; 3= Somewhat ; 4= Quite a bit ; 5= Very much","pa237_c"
 "promismp","Integer","","Recommended","Total of PROMIS Meaning and Purpose items","","",""
-"promismp_tsc","Integer","","Recommended","PROMIS Meaning and Purpose T-Score","","",""
+"promismp_tsc","Float","","Recommended","PROMIS Meaning and Purpose T-Score","","",""
 "promismp_se","Float","","Recommended","PROMIS Meaning and Purpose Standard Error","","",""
 "promismp_rel","Float","","Recommended","PROMIS Meaning and Purpose Reliability","0::1","",""
 "pa205_c","Integer","","Recommended","I generally feel that what I do in my life is valuable and worthwhile","1::5","1= Strongly disagree ; 2= Disagree ; 3= Neither agree nor disagree ; 4= Agree ; 5= Strongly Agree",""

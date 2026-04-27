@@ -146,3 +146,7 @@
 "bceoa_eval2","Integer","","Recommended","Feeling dizzy - The following effects of alcohol are...","-2::2","-2= Bad; -1= Slightly Bad; 0= Neutral; 1 = Slightly Good; 2= Good",""
 "bceoa_eval3","Integer","","Recommended","Being clumsy - The following effects of alcohol are...","-2::2","-2= Bad; -1= Slightly Bad; 0= Neutral; 1 = Slightly Good; 2= Good",""
 "bceoa_eval4","Integer","","Recommended","Being loud, boisterous, or noisy - The following effects of alcohol are...","-2::2","-2= Bad; -1= Slightly Bad; 0= Neutral; 1 = Slightly Good; 2= Good",""
+"ceoax_1","Integer","","Recommended","If I were under the influence from drinking alcohol...I'd think better","0::3;555","0=Disagree; 1=Disagree a little; 2=Agree a little; 3=Agree; 555=Refuse to answer",""
+"ceoax_2","Integer","","Recommended","If I were under the influence from drinking alcohol...I'd have more fun","0::3;555","0=Disagree; 1=Disagree a little; 2=Agree a little; 3=Agree; 555=Refuse to answer",""
+"ceoax_3","Integer","","Recommended","If I were under the influence from drinking alcohol...I'd feel flush or hot","0::3;555","0=Disagree; 1=Disagree a little; 2=Agree a little; 3=Agree; 555=Refuse to answer",""
+"ceoax_4","Integer","","Recommended","If I were under the influence from drinking alcohol...I'd feel sleepy","0::3;555","0=Disagree; 1=Disagree a little; 2=Agree a little; 3=Agree; 555=Refuse to answer",""

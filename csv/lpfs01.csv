@@ -142,7 +142,7 @@
 "scid_ampd_cpisb_3_5","String","1000","Recommended","Do you generally feel that life is meaningless or dangerous?","","",""
 "scid_ampd_cpisb_4_1","String","1000","Recommended","Is life just an ongoing struggle to survive in any way you can?","","",""
 "scid_ampd_cpisb_4_2","String","1000","Recommended","Are rules irrelevant in this dog-eat-dog world?","","",""
-"socdem_life06","Integer","","Recommended","Do you have any children? ","0 :: 2","0= No; 1= Yes (specify); 3= NA/Unmarried",""
+"socdem_life06","Integer","","Recommended","Do you have any children? ","0::2;888;999","0= No; 1= Yes (specify); 3= NA/Unmarried; 888 = Don't know / Not sure; 999 = Refused",""
 "scid_ampd_cpisb_4_3","String","1000","Recommended","Do you almost always feel like you have no idea about how you should act or what is expected of you?","","",""
 "scid_ampd_cpisb_score","Integer","","Recommended","Constructive, Prosocial Internal Standards of Behavior Score","0::4","0=Little or no impairment; 1=Some impairment; 2=Moderate impairment; 3=Severe impairment; 4=Extreme impairment",""
 "scid_ampd_srf_screen1","String","1000","Recommended","How well do you know how your mind works-that is, how you think about things?","","",""

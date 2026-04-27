@@ -28,3 +28,7 @@
 "avg_score_15","Float","","Recommended","Average score","3::7","total_score_15 divided by 15",""
 "strengths_subscale","Integer","","Recommended","Subscale- Strengths and Adaptability dimension","5::25","Sum of score15_1, score15_3, score15_6, score15_10, score15_15",""
 "overwhelmed_subscale","Integer","","Recommended","Subscale- Overwhelmed by Difficulties dimension","5::25","30- (Sum of score15_5, score15_7, score15_9, score15_11, score15_14)",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
+"score15_severe","Integer","","Recommended","On a scale from 0 to 10, how severe is the problem/challenge that brought you to therapy?","0::10;999","0= No problem at all; 10= Really bad; 999= Missing",""
+"score15_managing","Integer","","Recommended","On a scale from 0 to 10, how well are you managing as a family?","0::10;999","0= Very  well; 10= Very badly; 999= Missing",""
+"score15_help","Integer","","Recommended","On a scale from 0 to 10, how much do you think therapy here will be / has been helpful?","0::10;999","0= Very helpful; 10= Unhelpful; 999= Missing",""
