@@ -149,7 +149,7 @@
 "phys_perp_severe","Integer","","Recommended","Scoring: Physical Assault Perp-Severe","","","20290"
 "victim_total","Integer","","Recommended","Scoring: Victim Points-Total","","","20293"
 "perp_total","Integer","","Recommended","Scoring: Perp Points-Total","","","20294"
-"timepoint","Integer","","Recommended","Timepoint","0::8","0=Screening; 1=Intake; 2=3 months; 3=6 months; 4=9 months; 5=12 months; 6=24 months; 7 = pre-intervention; 8 = post-intervention",""
+"timepoint","Integer","","Recommended","Timepoint","0::10","0 = Screening; 1 = Intake; 2 = 3 months; 3 = 6 months; 4 = 9 months; 5 = 12 months; 6 = 24 months; 7 = pre-intervention; 8 = post-intervention; 9 = 15 months; 10 = 18 months",""
 "cts_k1","Integer","","Recommended","He (insists/insisted) on knowing where you (are/were) at all times?","0;1; 88; 99","0=No; 1=Yes, 88=Prefer not to answer; 99=no response","cts_kc_1"
 "cts_k2","Integer","","Recommended","He (tries/tried) to limit your contact with your family?","0;1; 88; 99","0=No; 1=Yes, 88=Prefer not to answer; 99=no response","cts_kc_2"
 "cts_k3","Integer","","Recommended","He (does/did) not permit you to meet your female friends?","0;1; 88; 99","0=No; 1=Yes, 88=Prefer not to answer; 99=no response",""

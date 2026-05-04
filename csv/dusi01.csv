@@ -313,7 +313,7 @@
 "dusid93","Integer","","Recommended","Did you argue with your spouse or family members a lot?","0;1","0 = No; 1 = Yes",""
 "dusid94","Integer","","Recommended","Were your parents or spouse often unaware of where you were and what you were doing?","0;1","0 = No; 1 = Yes",""
 "dusid95","Integer","","Recommended","Were your parents or your spouse away from home most of the time?","0;1","0 = No; 1 = Yes",""
-"timepoint","Integer","","Recommended","Timepoint","0::8","0=Screening; 1=Intake; 2=3 months; 3=6 months; 4=9 months; 5=12 months; 6=24 months; 7 = pre-intervention; 8 = post-intervention",""
+"timepoint","Integer","","Recommended","Timepoint","0::10","0 = Screening; 1 = Intake; 2 = 3 months; 3 = 6 months; 4 = 9 months; 5 = 12 months; 6 = 24 months; 7 = pre-intervention; 8 = post-intervention; 9 = 15 months; 10 = 18 months",""
 "sbstnc7_1_2","Integer","","Recommended","How old were you (in years) the first time you used Nicotine (cigarettes, vaping, patches, chewing tobacco)?","0::99;-999::-997","Age in years; -997=Missing; -998=Not collected at this time point; -999=Properly skipped",""
 "sbstnc7_1_3","Integer","","Recommended","How many times have you used Nicotine (cigarettes, vaping, patches, chewing tobacco) in the past month?","0::5","0 = 0 times; 1 = 1-2 times; 2 = 3-9 times; 3 = 10-20 times; 4 = Over 20 times; 5 = Over 50 times",""
 "sbstnc7_2_1","Integer","","Recommended","How many times have you used Cocaine (Coke/Crack)?","0::5","0 = 0 times; 1 = 1-2 times; 2 = 3-9 times; 3 = 10-20 times; 4 = Over 20 times; 5 = Over 50 times",""

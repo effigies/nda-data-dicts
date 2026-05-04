@@ -49,3 +49,6 @@
 "ssg_prpcor","Float","","Recommended","Silly Sounds Game - Proportion of Items Correct","0::100","",""
 "ssg_mean_ms","Float","","Recommended","Silly Sounds Game - Mean Reaction Time in Milliseconds","0::5000","In milliseconds",""
 "ssg_stddev_ms","Float","","Recommended","Silly Sounds Game - Standard Deviation Reaction Time in Milliseconds","0::3000","In milliseconds",""
+"arr__numtrfail","Integer","","Recommended","Spatial Conflict Arrows - Number of items failed in the Training task","0::2","",""
+"arr_stddevswitch__ms","Float","","Recommended","Spatial Conflict Arrows - Standard Deviation for the mean reaction time of congruent items","0::1600","In milliseconds",""
+"ssg__numtrfail","Integer","","Recommended","Silly Sounds Game - Number of items failed in Training task","0::2","",""

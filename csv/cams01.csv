@@ -21,3 +21,8 @@
 "cams_inhibition","Integer","","Recommended","Inhibition Score","","",""
 "cams_de","Float","","Recommended","Dysregulation Score","","",""
 "cams_rc","Integer","","Recommended","Coping Score","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"aesc01","Integer","","Recommended","Rate how often each statement is true when you are angry - I keep it to myself","1::4;888;999","1 = Almost never; 2 = Sometimes; 3 = Often; 4 = Almost always; 888 = N/A: Condition skipped; 999 = Missing/no answer",""
+"aesc02","Integer","","Recommended","Rate how often each statement is true when you are angry - I feel it inside, but I don't show it","1::4;888;999","1 = Almost never; 2 = Sometimes; 3 = Often; 4 = Almost always; 888 = N/A: Condition skipped; 999 = Missing/no answer",""
+"aesc03","Integer","","Recommended","Rate how often each statement is true when you are angry - I stay mad at people but keep it secret","1::4;888;999","1 = Almost never; 2 = Sometimes; 3 = Often; 4 = Almost always; 888 = N/A: Condition skipped; 999 = Missing/no answer",""
+"aesc04","Integer","","Recommended","Rate how often each statement is true when you are angry - I hold my anger in","1::4;888;999","1 = Almost never; 2 = Sometimes; 3 = Often; 4 = Almost always; 888 = N/A: Condition skipped; 999 = Missing/no answer",""

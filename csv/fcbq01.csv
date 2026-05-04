@@ -192,7 +192,7 @@
 "bghlthprbs_10","Integer","","Recommended","Please check the box for any health problem that s/he has OR has had: Hearing Problem","0;1","0=No; 1=Yes",""
 "bglangcurr_t","String","50","Recommended","If other, language, please specify:","","",""
 "bglangtime","Integer","","Recommended","How often is another language used with (current child) (not English)?","1 :: 4","1= Rarely (less than 25 percent of the time); 2= Sometimes (25 50 percent of the time); 3= Often (more than 50 percent of the time); 4= Always (100 percent of the time)",""
-"bgmstu","Integer","","Recommended","Are you currently a student?","0;1","0=No; 1=Yes",""
+"bgmstu","Integer","","Recommended","Are you currently a student?","0;1;888;999","0 = No; 1 = Yes; 888 = N/A: condition skipped; 999 = Missing/no answer",""
 "bgmstuftpt","Integer","","Recommended","Are you currently studying full time or part time?","1;2","1= Full time; 2= Part time",""
 "bgmemply","Integer","","Recommended","What is your curent employment status?","1 :: 3","1= Working full time (35 or more hours); 2= Working part time (less than 35 hours); 3= Not Working",""
 "bgmrom","Integer","","Recommended","Are you currently involved in a romantic relationship (regardless of whether or not you are married or living together)?","0;1","0=No; 1=Yes",""

@@ -20,7 +20,7 @@
 "data_file1","File","255","Required","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv","image_file"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "experiment_id","Integer","","Recommended","ID for the Experiment/settings/run","","",""
-"timepoint","Integer","","Recommended","Timepoint","0::8","0=Screening; 1=Intake; 2=3 months; 3=6 months; 4=9 months; 5=12 months; 6=24 months; 7 = pre-intervention; 8 = post-intervention",""
+"timepoint","Integer","","Recommended","Timepoint","0::10","0 = Screening; 1 = Intake; 2 = 3 months; 3 = 6 months; 4 = 9 months; 5 = 12 months; 6 = 24 months; 7 = pre-intervention; 8 = post-intervention; 9 = 15 months; 10 = 18 months",""
 "mover_accuracy","Float","","Recommended","Mean rate of successful navigation","0::1","Proportion of successful trials (1 = 100%)",""
 "mover_latency","Float","","Recommended","Mean time to start navigation during the active navigation conditions","0::2","(in seconds)",""
 "mover_mood_ratings","Float","","Recommended","Mean self-reported mood assessed between trials","1::4","1-4 Likert scale",""

@@ -16,3 +16,8 @@
 "geo_ed_level_8","Float","","Recommended","Highest level of education estimate from geocoded census data (Proportion doctorate degree)","0::1","Percentage",""
 "return_to_jail","Integer","","Recommended","Return to jail detention (from correctional records data).","0;1; -888; -999","0=No; 1=Yes; -888=Not Applicable; -999=Missing",""
 "any_mh_su","Integer","","Recommended","Receipt of outpatient mental health or substance use services (past and prospective; from claims data)","0;1; -888; -999","0=No; 1=Yes; -888=Not Applicable; -999=Missing",""
+"fbq_primary_english","Integer","","Recommended","Is English the primary language spoken in the home? (Y/N)","0 :: 1","0= No; 1=Yes",""
+"psychotrop","Integer","","Recommended","Use psychotropic medication?","0;1","0 = No; 1 = Yes",""
+"scrn_si","Integer","","Recommended","Suicide ideation, current and past","0;1; -888; -999","0=No; 1=Yes; -888=Not Applicable; -999=Missing",""
+"aervst","Integer","","Recommended","any emergency room visists","0;1","0=No; 1=Yes",""
+"ed_visit_claims","Integer","","Recommended","ED visits (from claims data)","0;1;999","0=No; 1=Yes; 999=Unknown",""

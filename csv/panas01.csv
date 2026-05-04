@@ -147,7 +147,7 @@
 "study","String","100","Recommended","","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "respondent","String","20","Recommended","","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "vis_type","Integer","","Recommended","","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","visit_type,visit_type_12,visit_type_6"
-"timepoint","Integer","","Recommended","","Timepoint","0::8","0=Screening; 1=Intake; 2=3 months; 3=6 months; 4=9 months; 5=12 months; 6=24 months; 7 = pre-intervention; 8 = post-intervention",""
+"timepoint","Integer","","Recommended","","Timepoint","0::10","0 = Screening; 1 = Intake; 2 = 3 months; 3 = 6 months; 4 = 9 months; 5 = 12 months; 6 = 24 months; 7 = pre-intervention; 8 = post-intervention; 9 = 15 months; 10 = 18 months",""
 "panas_ex14","Integer","","Recommended","","Indicate to what extent you feel this way right now. Hostile","0::100","0 = not at all; 100 = extremely",""
 "panas_ex15","Integer","","Recommended","","Indicate to what extent you feel this way right now. Enthusiastic","0::100","0 = not at all; 100 = extremely",""
 "panas_ex16","Integer","","Recommended","","Indicate to what extent you feel this way right now. Proud","0::100","0 = not at all; 100 = extremely",""

@@ -190,7 +190,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "batt04","Integer","","Recommended","What day comes after Saturday?","1::4","1=Friday; 2=Sunday; 3=Monday; 4=Tuesday",""
 "age","String","20","Recommended","Age (years: months: days)","","",""
 "d_hispanic","Integer","","Recommended","Are you Hispanic or Latina/Latino/Latinx?","0;1;-888;999","0 = No; 1 = Yes; -888 = Decline to Answer;  999 = Prefer not to say",""
-"bgmstu","Integer","","Recommended","Are you currently a student?","0;1","0=No; 1=Yes",""
+"bgmstu","Integer","","Recommended","Are you currently a student?","0;1;888;999","0 = No; 1 = Yes; 888 = N/A: condition skipped; 999 = Missing/no answer",""
 "bheightf","Integer","","Recommended","Height (Feet)","","",""
 "bheighti","Integer","","Recommended","Height (Inches)","","",""
 "bweight","Integer","","Recommended","Weight (lbs)","","",""

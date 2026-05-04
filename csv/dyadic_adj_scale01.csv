@@ -62,7 +62,7 @@
 "actbdic","Integer","","Recommended","Active status","-1::5","0=Inactive-Data collected after the 14 month treatment phase/after early termination from treatment phase/prior to treatment phase; 1=Active-Data collected during the 14 month treatment phase while subject received originally assigned treatment regardless of degree of compliance; 2=Active-This is the last active assessment for subjects who were about to violate treatment arm by receiving alternate treatment; 3=Active-This is the last active assessment for subjects who were about to leave the study by moving away; 4=Yes, Active; 5=No, Not Active; -1=Not applicable","actdas"
 "site","String","101","Recommended","Site","","Study Site","sitenum"
 "sjtyp","Integer","","Recommended","Subject type","1;2;-1","1=MTA randomized trial subject; 2=Local normative comparison group (LNCG) subject; -1= Not applicable",""
-"timepoint","Integer","","Recommended","Timepoint","0::8","0=Screening; 1=Intake; 2=3 months; 3=6 months; 4=9 months; 5=12 months; 6=24 months; 7 = pre-intervention; 8 = post-intervention",""
+"timepoint","Integer","","Recommended","Timepoint","0::10","0 = Screening; 1 = Intake; 2 = 3 months; 3 = 6 months; 4 = 9 months; 5 = 12 months; 6 = 24 months; 7 = pre-intervention; 8 = post-intervention; 9 = 15 months; 10 = 18 months",""
 "das_relation","Integer","","Recommended","Are you currently in a relationship with the romantic partner with whom you enrolled in this study?","1;2","1=Yes, 2=No",""
 "das_cons_m","Float","","Recommended","Scoring: Consensus (mean)","","","11357"
 "das_sati_m","Float","","Recommended","Scoring: Satisfaction (mean)","","","11358"
