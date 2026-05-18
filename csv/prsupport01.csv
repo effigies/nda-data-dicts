@@ -108,3 +108,6 @@
 "socsup_enjoy","Integer","","Recommended","Do you have someone with whom you can do something enjoyable?","1::5;-10","1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always; -10=Missing","l15_enjoywith"
 "socup_companion","Integer","","Recommended","Can you find companionship when you want it?","1::5;-10","1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always; -10=Missing","l16_companionwith"
 "prloneliness02_5pt","Integer","","Recommended","I feel left out.","1::5;-10","1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always; -10=Missing","l17_lonely1"
+"socsup_care","Integer","","Recommended","I have people who care about what happens to me","1::4;-8;-9","1 = As much as I would like; 2 = Less than I would like; 3 = Much less than I would like; 4 = Never; -8 = Do not know; -9 = Declined",""
+"socsup_love","Integer","","Recommended","I get love and affection","1::4;-8;-9","1 = As much as I would like; 2 = Less than I would like; 3 = Much less than I would like; 4 = Never; -8 = Do not know; -9 = Declined",""
+"socsup_advice","Integer","","Recommended","I get useful advice about important things in life","1::4;-8;-9","1 = As much as I would like; 2 = Less than I would like; 3 = Much less than I would like; 4 = Never; -8 = Do not know; -9 = Declined",""

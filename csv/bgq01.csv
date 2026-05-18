@@ -13,3 +13,4 @@
 "grief_7","Integer","","Recommended","Are there things you used to do when [about_whom] was alive that you don't feel comfortable doing anymore, or that you avoid? For example, going to places you went together, doing activities you enjoyed together, looking at pictures, or talking about [about_whom]. How much are you avoiding these things?","1::3","1=Not at all; 2=Somewhat; 3=A lot",""
 "grief_8","Integer","","Recommended","How much are you feeling cut off or distant from other people since [about_whom] died, even from people you used to be close to like family or friends?","1::3","1=Not at all; 2=Somewhat; 3=A lot",""
 "about_whom","String","100","Recommended","Description of person or group of people about whom participant is answering questions","","e.g., Partner 1, Friend 2, neighbors",""
+"grief_2a","Integer","","Recommended","How many months has it been since your significant other died?","0::3000","Number of months",""

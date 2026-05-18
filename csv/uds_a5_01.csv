@@ -198,7 +198,7 @@
 "hist_psych_none","Integer","","Recommended","Do you have a history of any of the following conditions? No psychological conditions","0;1","0= No/Unchecked; 1= Yes/Checked","ecp_pmhpsych_none"
 "dx_other_neurological","Integer","","Recommended","General Health: Neurological Disorder - Other","0;1","0= No; 1=Yes","ecp_pmhotheryn"
 "hhb_psy_other","String","200","Recommended","Specify Other Psychiatric Illness Diagnosis","","hhb_psy = 15","ecp_pmhother"
-"tmssc_25","Integer","","Recommended","Does anyone in your family have epilepsy?","0;1; -99","0 = No; 1 = Yes; -99 = N/A","ecp_fhepilepsy"
+"tmssc_25","Integer","","Recommended","Does anyone in your family have epilepsy?","0;1;-99;999","0 = No; 1 = Yes; -99 = N/A; 999=DK/Missing","ecp_fhepilepsy"
 "acha2011_65f","Integer","","Recommended","Do you have any of the following? Partial sightedness/Blindness","0;1","0= No; 1= Yes","ecp_pmhdevel_blind"
 "famhx_epilepsy_grandparent","String","20","Recommended","Number of biologically related grandparents with epilepsy","","","ecp_fhgrandparent"
 "famhx_epilepsy_parent","String","20","Recommended","Number of biologically related parents with epilepsy","","","ecp_fhparent"

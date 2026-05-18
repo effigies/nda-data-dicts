@@ -91,3 +91,6 @@
 "ch_cdi_5","Integer","","Recommended","In the past two weeks my child: Cries or looks tearful.","0::3","0 = Not at all; 1 = Some of the time; 2 = Often; 3 = Much or most of the time",""
 "ch_cdi_6","Integer","","Recommended","In the past two weeks my child: Is cranky or irritable.","0::3","0 = Not at all; 1 = Some of the time; 2 = Often; 3 = Much or most of the time",""
 "ch_cdi_7","Integer","","Recommended","In the past two weeks my child: Enjoys being with people.","0::3","0 = Not at all; 1 = Some of the time; 2 = Often; 3 = Much or most of the time",""
+"cdi2_total","Float","","Recommended","CDI 2 Total Score","","",""
+"cdi2_total_tscore","Float","","Recommended","CDI 2 Total Score - t-score","","",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""

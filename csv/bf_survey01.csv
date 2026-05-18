@@ -17,3 +17,6 @@
 "bfs10","Integer","","Recommended","How much have you/your child had the following problems during the past week? 10. Being rude or disrespectful to people","0::4","0=Not a problem; 4= Very big problem",""
 "bfs11","Integer","","Recommended","How much have you/your child had the following problems during the past week? 11. Arguing with people / I argue with people","0::4","0=Not a problem; 4= Very big problem",""
 "bfs12","Integer","","Recommended","How much have you/your child had the following problems during the past week? 12. Breaking rules at home or at school / I break rules at school or at home","0::4","0=Not a problem; 4= Very big problem",""
+"bafs_intl","Integer","","Recommended","Behavior and Feelings Survey - Internalizing problems score","0::24","Sum of bfs1 through bfs6",""
+"bafs_extl","Integer","","Recommended","Behavior and Feelings Survey - Externalizing problems score","0::24","Sum of bfs7 through bfs12",""
+"bafs_total","Integer","","Recommended","Behavior and Feelings Survey - Total problems score","0::48","Sum of bfs1 through bfs12",""

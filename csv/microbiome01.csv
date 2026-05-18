@@ -18,3 +18,4 @@
 "mb_igm","Float","","Recommended","Prevalence of Herpes simplex virus Type 1 Immunoglobulin M","-1000::1000","CV%",""
 "mb_igm_bi","Integer","","Recommended","Herpes positive status based on Immunoglobulin M (HSV1 IgM)","0;1","0= Negative; 1= Positive",""
 "mb_gdna","Float","","Recommended","Microbiome gDNA","","In ug/uL",""
+"mb_bpss_perc","Float","","Recommended","Percent abundance of the butyrate producing species/strains","0::100","",""

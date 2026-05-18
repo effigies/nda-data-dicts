@@ -94,7 +94,7 @@
 "bussdk_73","Integer","","Recommended","Lately, I have been kind of grouchy.","0;1;999","1= TRUE; 0= FALSE; 999= DO NOT WISH TO ANSWER",""
 "bussdk_75","Integer","","Recommended","I sometimes show my anger by banging on the table.","0;1;999","1= TRUE; 0= FALSE; 999= DO NOT WISH TO ANSWER",""
 "golden1","Integer","","Recommended","I have not lived the right kind of life.","0;1","1=True; 0=False",""
-"mcsds_6","Integer","","Recommended","I sometimes feel resentful when I don't get my way","0;1;999","1= False; 0= True; 999= Not applicable/No answer",""
+"mcsds_6","Integer","","Recommended","I sometimes feel resentful when I don't get my way","0;1;999;-8;-9","1= False; 0= True; 999= Not applicable/No answer; -8=Declined; -9=Don't Know",""
 "bussdk_s_as","Integer","","Recommended","Assault Score:","","",""
 "bussdk_s_gu","Integer","","Recommended","Guilt Score:","","",""
 "bussdk_s_in","Integer","","Recommended","Indirect Score:","","",""

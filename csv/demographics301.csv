@@ -236,7 +236,7 @@
 "dd_access1","Integer","","Recommended","Do you have a way to fill out a daily online survey? The daily online survey can be filled out on a computer, laptop, tablet, or smartphone and requires daily internet access","0;1","0=No; 1=Yes",""
 "dd_access2","Integer","","Recommended","Do you have a working email address? ","0;1","0=No; 1=Yes",""
 "inpatnt1","Integer","","Recommended","Over the past 6 months, have you been in an inpatient facility for psychiatric support?","0;1","0=No; 1=Yes",""
-"q07_pregnant","Integer","","Recommended","""If you are female, are you pregnant or suspect that you are pregnant?""","0;1","0 = No; 1 = Yes",""
+"q07_pregnant","Integer","","Recommended","""If you are female, are you pregnant or suspect that you are pregnant?""","0;1;999 ","0 = No; 1= Yes; 999 = DK/Missing ",""
 "f_7","Integer","","Recommended","Are you currently breastfeeding?","0;1","0 = No; 1 = Yes",""
 "democ24a5","Integer","","Recommended","How would you best describe YOUR race? (Please check all that apply): Middle Eastern or North African?","0;1","0 = No; 1 = Yes",""
 "demo_employ8","Integer","","Recommended","Which of the following categories best describes your employment status? (check all that apply) Disabled, not able to work","0;1;99","0=No; 1=Yes; 99=No data","employed8_2"

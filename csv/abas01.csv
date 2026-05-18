@@ -118,7 +118,7 @@
 "abas_soc_critical","Float","","Recommended","Social Skill - Critical Value","","",""
 "abas_soc_sw","Integer","","Recommended","Social Skill - Strength or Weakness","0; 1","0 = Weakness; 1 = Strength",""
 "abas_soc_baserate","String","25","Recommended","Social Skill - Base Rate Standardization Sample","","",""
-"abas_sl_meanscaled","Float","","Required","School Living Skill - Mean Scaled Score","","",""
+"abas_sl_meanscaled","Float","","Required","School Living Skill - Mean Scaled Score","","999=NA",""
 "abas_sl_diffmean","Float","","Recommended","School Living Skill - Difference from Mean","","",""
 "abas_sl_critical","Float","","Recommended","School Living Skill - Critical Value","","",""
 "abas_sl_sw","Integer","","Recommended","School Living Skill - Strength or Weakness","0; 1","0 = Weakness; 1 = Strength",""

@@ -48,7 +48,7 @@
 "rlhq22ds","String","50","Recommended","Other birth control dose","","",""
 "rlhq22dc","Date","","Recommended","Date of last birth control dose change","","",""
 "rlhq22lp","Date","","Recommended","Date of last Ring/Patch placement/injection","","",""
-"q25_intrauterine_device","Integer","","Recommended","Presence of: Intrauterine Device","0;1","0 = No; 1 = Yes","rlhq2q3"
+"q25_intrauterine_device","Integer","","Recommended","Presence of: Intrauterine Device","0;1;999 ","0 = No; 1= Yes; 999 = DK/Missing ","rlhq2q3"
 "rlhq23dp","Date","","Recommended","Date placed","","",""
 "rlhq23tp","Integer","","Recommended","Type of IUD","1;2","1=Copper IUD; 2=Mirena / Progesterone IUD",""
 "rlhq2q4","Integer","","Recommended","Current use of testosterone, DHEA, or methyltestosterone?","1;2","1=Yes; 2=No",""

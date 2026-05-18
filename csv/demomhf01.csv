@@ -135,7 +135,7 @@
 "cmedhx18","Integer","","Recommended","Are any current medications taken regularly?","0;1","0 = No;1 = Yes","meds_current"
 "cmedhx19","Integer","","Recommended","Are there any past medications which were taken regularly?","0;1","0 = No;1 = Yes","meds_past"
 "strconheartdis","String","5","Recommended","Does the child/patient have heart disease?","Yes; No;999;Ref","Ref=refused; 999=NA/NK/missing","medhist_heartcond"
-"phne_sc_18","String","5","Recommended","11. Do you wear glasses or contact lenses?","Yes;No","","medhist_glasses_contacts"
+"phne_sc_18","String","5","Recommended","11. Do you wear glasses or contact lenses?","Yes;No;999","999 = Missing/NA","medhist_glasses_contacts"
 "visionproblemdetail","String","300","Recommended","Details of the vision problem","","","medhist_visualprob_text"
 "scq_37_sp","String","300","Recommended","Specify any other medical condition","","","medhist_othermed_text"
 "current_medication","String","300","Recommended","subject's current medications","","","medication_current_notes,meds_current_text"

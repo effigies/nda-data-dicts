@@ -28,7 +28,7 @@
 "livewith","Integer","","Recommended","Does this child currently live with you?","0;1","0=No; 1=Yes",""
 "resarr","Integer","","Recommended","Please specify residential arangement for child:","1::4","1=Lives at home with parents; 2=Lives in residential setting including weekends; 3=Lives in residential setting excluding weekends; 4=Other",""
 "resarr_sp","String","100","Recommended","Please specify:","","",""
-"spoken_eng","Integer","","Recommended","Are you fluent in spoken English?","0;1","0 = No;  1 = Yes","NATIVESPK"
+"spoken_eng","Integer","","Recommended","Are you fluent in spoken English?","0;1;999","0 = No; 1 = Yes; 999 = NA/Missing","NATIVESPK"
 "ccalanguage","Integer","","Recommended","""Is English the main language spoken at home?""","0;1;-9","0 = No; 1 = Yes; -9 = Missing value","ENGHOUSE,fdi_q29___1"
 "language_specify","String","255","Recommended","Language in the home - Specify if other than standard english","","","OTHLANG"
 "sibyn","Integer","","Recommended","Does this child have any siblings?","0;1","0=No; 1=Yes",""

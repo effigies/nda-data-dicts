@@ -49,3 +49,7 @@
 "mri_dmri","Integer","","Recommended","Check if diffusion MRI is available","0;1","0=Available; 1 = NA",""
 "mri_rsfmri","Integer","","Recommended","Check if resting-state fMRI is available","0;1","0=Available; 1 = NA",""
 "coil_orientation","String","500","Recommended","A 4x4 matrix for coil position and orientation","","",""
+"blind_admin_02","Integer","","Recommended","Which TMS do you believe you applied today?","0;1;999","0 = Active; 1= Sham; 999 = DK/Missing",""
+"blind_admin_03","Integer","","Recommended","Which TMS do you believe you applied today - How confident are you in your rating?","0::10;999","0 = Not at all; 10= Very confident; 999 = DK/Missing",""
+"blind_admin_04","String","500","Recommended","Did you mind change on any of these days after you completed the study? If so, specify on what days, for what purpose, and in what way your mind changed","","",""
+"painassmt_01","Integer","","Recommended","How would you rate your pain level during the TBS administration?","0::10;999","0=No pain; 10=Worst pain; 999 = DK/Missing",""

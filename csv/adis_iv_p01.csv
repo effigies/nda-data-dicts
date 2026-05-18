@@ -465,3 +465,4 @@
 "adissocphob19past_sev","Integer","","Recommended","Social Phobia Checklist 19. Does your child get more nervous or scared having their picture taken (e.g., for the yearbook) than other kids their age? Severity - Past","0::8","0 = Not at all; 1 = A little bit; 4 = Some; 6 = A lot; 8 = Very, very much",""
 "adissocphob2_sev","Integer","","Recommended","Social Phobia Checklist 2. Does your child get more nervous or scared giving a report aloud in front of the class than other kids their age? Severity - Current","0::8","0 = Not at all; 1 = A little bit; 4 = Some; 6 = A lot; 8 = Very, very much",""
 "adissocphob2past","Integer","","Recommended","Social Phobia Checklist 2. Did your child get more nervous or scared giving a report aloud in front of the class than other kids their age? - Past","0;1","0 = No; 1 = Yes",""
+"bdd_dx","Integer","","Recommended","Body Dysmorphic Disorder","0;1","0=Does NOT meet DSM-V criteria; 1=Meets full criteria for DSM-V",""

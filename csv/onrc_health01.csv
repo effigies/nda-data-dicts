@@ -10,7 +10,7 @@
 "handedness","String","29","Recommended","handedness","R;L;B;999;888;777;555","R = Right; L = Left; B = Both; 999= No Answer; 888= Skipped; 777= Condition Skipped; 555= Missing","q12_hand"
 "hispanic","Integer","","Recommended","Is subject of Hispanic, Latino, or Spanish origin?","0; 1; 999","0 = No; 1 = Yes; 999= missing","q13_hispanic"
 "race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","","q14_race"
-"spoken_eng","Integer","","Recommended","Are you fluent in spoken English?","0;1","0 = No;  1 = Yes","spoken_eng"
+"spoken_eng","Integer","","Recommended","Are you fluent in spoken English?","0;1;999","0 = No; 1 = Yes; 999 = NA/Missing","spoken_eng"
 "written_eng","Integer","","Recommended","Are you fluent in written English?","0;1","0 = No;  1 = Yes","q16_written_eng"
 "eng_first","Integer","","Recommended","Is English your first language?","0;1;999","0 = No;  1 = Yes; 999 = Prefer not to respond","q17_eng_first"
 "lang_raised","String","150","Recommended","What language were you raised with?","","","q18_lang_raised"

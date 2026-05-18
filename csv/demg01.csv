@@ -24,7 +24,7 @@
 "su2a_11","Integer","","Recommended","Drug or alcohol treatment program?","0;1","0= No; 1= Yes",""
 "figs_40","Integer","","Recommended","(Was anyone) hospitalized for psychiatric problems, or for drug or alcohol problems","0;1;9","0=No; 1=Yes; 9=NK",""
 "demg_21","String","50","Recommended","What was the reason for being admitted as a patient in a psychiatric hospital? How many times were you hospitalized?","","",""
-"demg_22","Integer","","Recommended","Do you take any medications or vitamins?","0;1","0 = No; 1 = Yes",""
+"demg_22","Integer","","Recommended","Do you take any medications or vitamins?","0;1;999","0 = No; 1 = Yes; 999=DK/Missing",""
 "currentmed_prescription","String","255","Recommended","Prescription (Medication, Dose, Frequency, Reason)","","",""
 "demg_24","Integer","","Recommended","In the past 30 days, how much has your physical health interfered with your ability to perform daily activities of living?","1::4","1 = not at all or rarely; 2 = some of the time; 3 = about half of the time; 4 = most of the time",""
 "demg_25","Integer","","Recommended","In the past 30 days, how much has your mental health interfered with your ability to perform daily activities of living?","1::4","1 = not at all or rarely; 2 = some of the time; 3 = about half of the time; 4 = most of the time",""

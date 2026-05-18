@@ -24,7 +24,7 @@
 "post_hard","Float","","Recommended","total hard choice for postscan","","",""
 "post_switch","Float","","Recommended","number of choices switched","","",""
 "post_comp","Float","","Recommended","% completed","","","complete_total"
-"perc_to","Integer","","Recommended","% timeout","0;1; -99","-99=missing",""
+"perc_to","Float","","Recommended","% timeout","0::1;-99","-99=missing",""
 "data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
 "eefrt_pe_1","Integer","","Recommended","# of taps in 7 seconds","","Practice trial, used to determine target score",""
 "eefrt_ph_2","Integer","","Recommended","# of taps in 21 seconds","","Practice trial, used to determine target score",""

@@ -36,3 +36,7 @@
 "brq29","Integer","","Recommended","In the past month, in the hour before going to bed, how often did your child put on pajamas?","1::5","1=Almost never; 2=Occasionally; 3=Half of the time; 4=Often; 5=Nearly always",""
 "brq30","Integer","","Recommended","In the past month, in the hour before going to bed, how often did your child say prayers?","1::5","1=Almost never; 2=Occasionally; 3=Half of the time; 4=Often; 5=Nearly always",""
 "brq31","Integer","","Recommended","In the past month, in the hour before going to bed, how often did your child cuddle with caregiver?","1::5","1=Almost never; 2=Occasionally; 3=Half of the time; 4=Often; 5=Nearly always",""
+"consistency_td_score","Integer","","Recommended","Bedtime Routines: Routine Consistency score","10::50","",""
+"reactivity_td_score","Integer","","Recommended","Bedtime Routines: Reactivity to Changes in Routine score","5::25","",""
+"adaptive_activities_td_score","Integer","","Recommended","Bedtime Routines: Adaptive Activities score","10::50","",""
+"maladaptive_activ_td_score","Integer","","Recommended","Bedtime Routines: Maladaptive Activities score","6::30","",""

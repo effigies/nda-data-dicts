@@ -61,7 +61,7 @@
 "pubbook_loan_who___4","Integer","","Recommended","Who did you loan the puberty book to? (check all that apply): A cousin","0;1","0=No; 1=Yes",""
 "pubbook_loan_who___5","Integer","","Recommended","Who did you loan the puberty book to? (check all that apply): Another relative","0;1","0=No; 1=Yes",""
 "pubbook_loan_who___6","Integer","","Recommended","Who did you loan the puberty book to? (check all that apply): A friend","0;1","0=No; 1=Yes",""
-"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","timepoint_vitaa"
 "pubbook_loan_who___7","Integer","","Recommended","Who did you loan the puberty book to? (check all that apply): A teacher","0;1","0=No; 1=Yes",""
 "pubbook_loan_who___555","Integer","","Recommended","Who did you loan the puberty book to? (check all that apply): Another adult","0;1","0=No; 1=Yes",""
 "pubbook_got_yn","Integer","","Recommended","Did you receive a puberty booklet [Vipindi Vya Maisha/Kuwa Kijana]?","0;1;666;888","0=No; 1=Yes; 666= Don't know; 888=Refused",""
@@ -70,3 +70,4 @@
 "pubbook_discuss_who___1","Integer","","Recommended","Who did you discuss the puberty book with? (check all that apply): A parent or caregiver","0;1","0=No; 1=Yes",""
 "pubbook_discuss_who___2","Integer","","Recommended","Who did you discuss the puberty book with? (check all that apply): A sibling (sister or brother)","0;1","0=No; 1=Yes",""
 "pubbook_discuss_who___3","Integer","","Recommended","Who did you discuss the puberty book with? (check all that apply): An aunt or uncle","0;1","0=No; 1=Yes",""
+"pubbook_discuss_who___6","Integer","","Recommended","Who did you discuss the puberty book with? (check all that apply): A cousin","0;1","0=No; 1=Yes",""

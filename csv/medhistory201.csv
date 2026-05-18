@@ -795,7 +795,7 @@
 "cidi_q7","Integer","","Recommended","A heart attack?","0;1;777","0 = No; 1 = Yes; 777 = Unknown",""
 "cidi_q8","Integer","","Recommended","Heart disease?","0;1;777;-900;-300","0 = No; 1 = Yes; 777 = Unknown; -900 = Missing; -300 = N/A",""
 "cidi_q9","Integer","","Recommended","High Blood Pressure?","0;1;777","0 = No; 1 = Yes; 777 = Unknown",""
-"q10_cardiac_pacemaker","Integer","","Recommended","Presence of: Cardiac Pacemaker","0;1","0 = No; 1 = Yes",""
+"q10_cardiac_pacemaker","Integer","","Recommended","Presence of: Cardiac Pacemaker","0;1;999 ","0 = No; 1= Yes; 999 = DK/Missing ",""
 "pmh_parkinsons","Integer","","Recommended","Parkinson''s Disease diagnosis","0;1","0=No; 1=Yes",""
 "mhxa14b","Integer","","Recommended","Musculoskeletal: Osteoporosis","0;1","0=No; 1=Yes",""
 "wk_backpain","Integer","","Recommended","Back pain","0;1","No = 0; Yes = 1;",""

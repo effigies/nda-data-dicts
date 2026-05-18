@@ -109,7 +109,7 @@
 "extakmed","Integer","","Recommended","Current meds contraindicate study meds","0;1","0=No; 1=Yes",""
 "exreqmed","Integer","","Recommended","Require meds that contraindicate study meds","0;1","0=No; 1=Yes",""
 "exreqant","Integer","","Recommended","Condition requiring anticonvulsant","0;1","0=No; 1=Yes",""
-"exseiz","Integer","","Recommended","History of having a seizure","0;1","0=No; 1=Yes",""
+"exseiz","Integer","","Recommended","History of having a seizure","0;1;999","0=No; 1=Yes; 999=DK/Missing",""
 "exstim","Integer","","Recommended","Have received somatic antidepressant treatment","0;1","0=No; 1=Yes",""
 "ex30med","Integer","","Recommended","Have taken exclusionary meds last 30 days","0;1","0=No; 1=Yes",""
 "expsycho","Integer","","Recommended","Antidepressant med for MDD or other purposes","0;1","0=No; 1=Yes",""

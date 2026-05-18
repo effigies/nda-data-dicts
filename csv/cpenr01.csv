@@ -102,7 +102,7 @@
 "epileptogenic_lesion","Integer","","Recommended","Epileptogenic lesion other than MTS?","0;1","0= No; 1= Yes","ecp_criterionmass"
 "infectious_inflammatory","Integer","","Recommended","Active infectious or inflammatory etiology (for seizures)?","0;1","0= No; 1= Yes","ecp_criterioninflammatory"
 "age_18_60","Integer","","Recommended","Age between 18-60 (inclusive)?","0;1","0= No; 1= Yes","ecp_criterionage"
-"spoken_eng","Integer","","Recommended","Are you fluent in spoken English?","0;1","0 = No;  1 = Yes","ecp_criterionenglishspeaker"
+"spoken_eng","Integer","","Recommended","Are you fluent in spoken English?","0;1;999","0 = No; 1 = Yes; 999 = NA/Missing","ecp_criterionenglishspeaker"
 "fsiq_over69","Integer","","Recommended","Full-Scale IQ (FSIQ) greater than 69?","0;1","0= No; 1= Yes","ecp_criterioniq"
 "undergo_3t_hcp_mri","Integer","","Recommended","Able to undergo 3T HCP protocol MRI?","0;1","0= No; 1= Yes","ecp_criterionmrisafe"
 "iec16","Integer","","Recommended","Eligibility status","1::3","1=Eligible; 2= Ineligible; 3=Pending","ecp_eligibility"

@@ -137,3 +137,4 @@
 "pcptsd_3","Integer","","Recommended","Since your last assessment, have you had any of the following related to past traumatic experiences: Been constantly on guard or watchful","1;2","1= No; 2= Yes",""
 "pcptsd_4","Integer","","Recommended","Since your last assessment, have you had any of the following related to past traumatic experiences: Felt numb or detached from others","1;2","1= No; 2= Yes",""
 "pcptsd_5","Integer","","Recommended","Since your last assessment, have you had any of the following related to past traumatic experiences: Felt guilty","1;2","1= No; 2= Yes",""
+"ptsd_outburst","Integer","","Recommended","Feeling irritable or having outbursts?","1::5;999","1 = Not at all; 2 = A little bit; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; 999 = NA/missing/refused",""

@@ -811,3 +811,5 @@
 "who_6","Integer","","Recommended","In the past 12 months, how often did you use Prescription Painkillers taken not as prescribed (e.g., Vicodin, Oxycontin)?","1::5","1=None; 2=Monthly; 3=Weekly; 4=Daily; 5=Multiple times daily",""
 "who_7","Integer","","Recommended","In the past 12 months, how often did you use Prescription Sleep Aids taken not as prescribed (e.g., Ambien, Lunesta, Seroquel)?","1::5","1=None; 2=Monthly; 3=Weekly; 4=Daily; 5=Multiple times daily",""
 "retrospective_5b","Integer","","Recommended","In the past 28 days, how often have you used E-cigarettes (electronic cigarettes/vaporizers)?","0::9; 555","0=Never; 1=Less than once per month; 2=Once per month; 3=2-3 times per month; 4=Once per week; 5=2-3 times per week; 6=4-5 times per week; 7=6 times per week; 8=Almost daily; 9=Daily; 555=Refuse to answer",""
+"whoassist_use11","Integer","","Recommended","Substance used 11","0;1;-9","0=No; 1=Yes; -9=Missing",""
+"whoassist_use12","Integer","","Recommended","Substance used 12","0;1;-9","0=No; 1=Yes; -9=Missing",""
