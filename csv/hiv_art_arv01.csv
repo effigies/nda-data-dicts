@@ -167,3 +167,6 @@
 "m3co3c","Integer","","Recommended","How many of your antiretroviral pills did you forget to take OR decide to skip on Tuesday?","","",""
 "m3do3d","Integer","","Recommended","How many of your antiretroviral pills did you forget to take OR decide to skip on Wednesday?","","",""
 "m3eo3e","Integer","","Recommended","How many of your antiretroviral pills did you forget to take OR decide to skip on Thursday?","","",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"event_hivbaseline","Integer","","Recommended","Had HIV testing after baseline","0;1","0=No; 1=Yes",""
+"fweeks","Float","","Recommended","Number of Weeks to first HIV testing after baseline","0::1000","",""

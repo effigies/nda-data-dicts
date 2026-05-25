@@ -18,7 +18,7 @@
 "cg_lang_think","Integer","","Recommended","In what langauge do you (caregiver) think?","1::7","1=[language] all the time; 2=[language] most of the time; 3=[language] and english equaly; 4=english most of the time; 5=english all the time; 6=don't know; 7=refused",""
 "cg_race","Integer","","Recommended","Please select the option below that best describes your [the parent's/guiardian's] race","1::8","1=White; 2= Black or African American; 3=Asian; 4=American Indian/Alaska Native; 5=Native Hawaiian or Other Pacific Islander; 6= Unknown/not reported; 7=Mixed race; 8=Other",""
 "cg_race_other","String","50","Recommended","Description of parent's/guardian's race if other","","",""
-"cg_ethnicity","Integer","","Recommended","Ethnicity of parent/guardian","0; 1","0=Non-Hispanic; 1=Hispanic",""
+"cg_ethnicity","Integer","","Recommended","Ethnicity of parent/guardian","0;1;888;999;9999","0=Non-Hispanic; 1=Hispanic; 888= Prefer not to answer; 999= Don't know; 9999= Missing",""
 "cg_country","String","50","Recommended","In what country were you (caregiver)  born?","","",""
 "cg_insurance","Integer","","Recommended","caregiver's health insurance status","1::4","1=Private; 2=Public; 3=None/Self-pay; 4=Other",""
 "cg_insurance_other","String","50","Recommended","Description of caregiver's insurance if other","","",""

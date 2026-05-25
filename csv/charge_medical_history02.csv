@@ -182,5 +182,5 @@
 "rev_immunoinfluenzvacc5_h1n1","String","15","Required","Indicate whether the vaccine 5 given was the H1N1 vaccine","Yes;No;999","999=NA/missing","Charge_medicalhist_rev_immunoinfluenzvacc5_h1n1"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "visitnum","Integer","","Recommended","Visit number","","",""
-"drug_name","String","25","Recommended","Drug Name","","",""
+"drug_name","String","25","Recommended","Drug Name","","M=Missing; NA=Not Applicable",""
 "drug_dosage","Integer","","Recommended","Drug Dosage","0;1","0 = Pre-dose; 1 = Post-dose",""

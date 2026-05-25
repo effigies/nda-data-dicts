@@ -1015,4 +1015,4 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "med_howoftenfreq_28","Integer","","Recommended","how often take medication 28","","",""
 "med_howoftenfreq_29","Integer","","Recommended","how often take medication 29","","",""
 "med_howoftenfreq_30","Integer","","Recommended","how often take medication 30","","",""
-"drug_name","String","25","Recommended","Drug Name","","",""
+"drug_name","String","25","Recommended","Drug Name","","M=Missing; NA=Not Applicable",""

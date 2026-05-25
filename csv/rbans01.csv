@@ -293,7 +293,7 @@
 "rbanspn_ict4","Integer","","Recommended","Picture Naming : Item 4. giraffe : item Completion Time","","","rbansa_picturenaming_item4_ict"
 "rbanspn_ict5","Integer","","Recommended","Picture Naming : Item 5. sailboat : item Completion Time","","","rbansa_picturenaming_item5_ict"
 "visitnum","Integer","","Recommended","Visit number","","",""
-"drug_name","String","25","Recommended","Drug Name","","",""
+"drug_name","String","25","Recommended","Drug Name","","M=Missing; NA=Not Applicable",""
 "drug_dosage","Integer","","Recommended","Drug Dosage","0;1","0 = Pre-dose; 1 = Post-dose",""
 "rbansll_1rs","String","1500","Recommended","List Learning : Trial 1 : responses","","",""
 "rbansll_2cor","Integer","","Recommended","List Learning : Trial 2 : Total Correct Responses","","",""

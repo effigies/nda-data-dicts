@@ -51,7 +51,7 @@
 "p_demo_ph_1_01","Integer","","Recommended","Has your child ever been diagnosed with: Depression","0;1","0= No; 1= Yes",""
 "p_demo_ph_1_02","Integer","","Recommended","Has your child ever been diagnosed with: Anxiety/OCD","0;1","0= No; 1= Yes",""
 "p_demo_ph_1_03","Integer","","Recommended","Has your child ever been diagnosed with: ADHD","0;1","0= No; 1= Yes",""
-"scrn_asd","Integer","","Recommended","Has your child been diagnosed with... Autism spectrum disorder / Trastorno del espectro autista","1 ; 0","1 = Yes; 0 = No","p_demo_ph_1_04"
+"scrn_asd","Integer","","Recommended","Has your child been diagnosed with... Autism spectrum disorder / Trastorno del espectro autista","0;1;-9","0 = No; 1 = Yes; -9= Prefer not to answer","p_demo_ph_1_04"
 "p_demo_ph_1_05","Integer","","Recommended","Has your child ever been diagnosed with: Oppositional Defiant Disorder","0;1","0= No; 1= Yes",""
 "p_demo_ph_1_06","Integer","","Recommended","Has your child ever been diagnosed with: Conduct Disorder","0;1","0= No; 1= Yes",""
 "p_demo_ph_1_07","Integer","","Recommended","Has your child ever been diagnosed with: PTSD","0;1","0= No; 1= Yes",""

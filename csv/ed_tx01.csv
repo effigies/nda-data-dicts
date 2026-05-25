@@ -197,3 +197,4 @@
 "c_iep_reason_11","Integer","","Recommended","Here are some categories why a child may qualify for an IEP. Other Classification","0;1","0= No; 1= Yes","iep_reason_11"
 "c_iep_reason_oth","String","250","Recommended","Other classification, why a child may qualify for an IEP: (please describe)","","","iep_reason_other"
 "c_iep_satisfy","Integer","","Recommended","How satisfied are you with the school services on your childs current IEP?","1 :: 5","1= Very unsatisfied; 2= Unsatisfied; 3= Neutral; 4= Satisfied; 5= Very Satisfied","iep_satisfy"
+"iy_intervention","Integer","","Recommended","Type of intervention","1;2","1=IY Program group; 2=Usual Care control group",""

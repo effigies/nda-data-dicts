@@ -120,7 +120,7 @@
 "frq_sev2c","String","250","Recommended","Frequency and Severity 2 - 3rd section","","","frq_sev5"
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
 "visitnum","Integer","","Recommended","Visit number","","",""
-"drug_name","String","25","Recommended","Drug Name","","",""
+"drug_name","String","25","Recommended","Drug Name","","M=Missing; NA=Not Applicable",""
 "drug_dosage","Integer","","Recommended","Drug Dosage","0;1","0 = Pre-dose; 1 = Post-dose",""
 "parent_subject_id","String","45","Recommended","Parent Subject ID how it's defined in lab/project","","",""
 "subjectkey_mother","GUID","","Recommended","The NDAR Global Unique Identifier (GUID) for subject's biological mother","NDAR*","",""

@@ -308,7 +308,7 @@
 "date_phosp7","Date","","Recommended","Date of 7th Visit to Hospital for Psychiatric reasons","","MM/DD/YYYY","date_nphosp7"
 "date_phosp8","Date","","Recommended","Date of 8th Visit to Hospital for Psychiatric reasons","","MM/DD/YYYY","date_nphosp8"
 "nonpsyc_hosp","String","3","Recommended","If participant has stayed in a hospital overnight for physical complaints","","N/No = No, Y/Yes = Yes","psych_hospital"
-"therapist","Integer","","Recommended","Have you seen a therapist in the past month?","0;1","0= No; 1= Yes",""
+"therapist","Integer","","Recommended","Have you seen a therapist in the past month?","0;1;77","0= No; 1= Yes; 77=Missing ",""
 "therapistdatesreason","String","250","Recommended","Reason for seeking a mental health professional","","",""
 "smoker","Integer","","Recommended","Smoker?","0::4;9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing",""
 "cig_smoking","Integer","","Recommended","Have you ever smoked part or all of a cigarette? PX030601_Cigarette_Smoking","1;2;97","1=Yes; 2=No; 97=Don't Know/Refused","cigarettes"

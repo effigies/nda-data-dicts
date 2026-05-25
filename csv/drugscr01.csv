@@ -221,3 +221,8 @@
 "urine_lab_amphetamine","Integer","","Recommended","Were sent out samples positive or negative for a substance: Amphetamines?","0::2","0= Negative; 1= Positive; 2= N/A, not sent out for analysis",""
 "urine_lab_meth","Integer","","Recommended","Were sent out samples positive or negative for a substance: Meth?","0::2","0= Negative; 1= Positive; 2= N/A, not sent out for analysis",""
 "k2","Integer","","Recommended","Positive for K2?","1;2","1=Yes; 2=No",""
+"subjecttype_asd","String","20","Recommended","Is the subject in the control group or the autism spectrum disorder (ASD) group?","0;1;-999","0=Control; 1=ASD; -999=NA/Missing",""
+"macipds_20","Integer","","Recommended","Positive for buprenorphine?","0::4;9;-999","0=No; 1=Yes; 2=Unclear or Equivocal; 3=Results not valid; 4=Not assessed; 9=Did not perform; -999=Don't Know/Missing Data",""
+"tox_medreview","Integer","","Recommended","Medications reviewed as part of tox screen?","0;1;-999","0=No; 1=Yes; -999=NA/Missing",""
+"tox_medchanges","Integer","","Recommended","Medication changes indicated?","0;1;-999","0=No; 1=Yes; -999=NA/Missing",""
+"tox_medchanges_desc","String","250","Recommended","Medication changes indicated? If yes, please explain","","",""

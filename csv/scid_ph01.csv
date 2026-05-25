@@ -265,7 +265,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "arrow43","Integer","","Recommended","Please indicate, whether this child has ever been diagnosed with any of following disorders Bulimia Nervosa","0;1","0 = No; 1 = Yes",""
 "arrow44","String","20","Recommended","Bulimia Nervosa age of onset:","","",""
 "arrow45","Integer","","Recommended","Bulimia Nervosa: Currently a problem?","0;1","0 = No; 1 = Yes",""
-"arrow46","Integer","","Recommended","Please indicate, whether this child has ever been diagnosed with any of following disorders Attention Deficit Hyperactivity Disorder","0;1","0 = No; 1 = Yes",""
+"arrow46","Integer","","Recommended","Please indicate, whether this child has ever been diagnosed with any of following disorders Attention Deficit Hyperactivity Disorder","0;1;-9","0 = No; 1 = Yes; -9= Prefer not to answer",""
 "arrow47","String","20","Recommended","Attention Deficit Hyperactivity Disorder age of onset:","","",""
 "arrow3","Integer","","Recommended","Panic Disorder: Currently a problem?","0;1","0 = No; 1 = Yes",""
 "arrow48","Integer","","Recommended","Attention Deficit Hyperactivity Disorder :Currently a problem?","0;1","0 = No; 1 = Yes",""

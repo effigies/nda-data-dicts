@@ -67,7 +67,7 @@
 "t1srv1","Integer","","Recommended","Has your child ever been evaluated for a developmental delay, mental retardation, autism, or Pervasive Developmental Disorder (PDD)?","0;1;-888;-999","0=No; 1=Yes; -888=Don't Know; -999=Prefer not to answer",""
 "t1srv2","Integer","","Recommended","Has your child ever been diagnosed or identified by a professional as having a developmental delay, mental retardation, autism, or Pervasive Developmental Disorder (PDD)?","0;1;-888;-999","0=No; 1=Yes; -888=Don't Know; -999=Prefer not to answer",""
 "child_speech","String","25","Recommended","Has child been diagnosed with or experiencing symptoms of speech problems?","No; Experiencing Symptoms; Diagnosed","Parent report","t1srv2a___1"
-"scrn_asd","Integer","","Recommended","Has your child been diagnosed with... Autism spectrum disorder / Trastorno del espectro autista","1 ; 0","1 = Yes; 0 = No","t1srv2a___2"
+"scrn_asd","Integer","","Recommended","Has your child been diagnosed with... Autism spectrum disorder / Trastorno del espectro autista","0;1;-9","0 = No; 1 = Yes; -9= Prefer not to answer","t1srv2a___2"
 "strconmotordelay","String","5","Recommended","Does the child have motor delays or slow motor development?","Yes; No","","t1srv2a___3"
 "cfmh_chd_devdelay","Integer","","Recommended","Does (did) the Child have a Developmental Delay?","1;0","0 = No; 1 = Yes","t1srv2a___4"
 "t1srv2a___5","Integer","","Recommended","Does your child have any other diagnosis?","0;1","2a. If yes, what were the diagnoses? Check all that apply. 1=checked; 0=not checked",""

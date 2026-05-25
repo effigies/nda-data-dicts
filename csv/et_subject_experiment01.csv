@@ -25,7 +25,7 @@
 "data_file6","File","","Recommended","Data file 6","","Path to data file, e.g., Users/username/Documents/subjectABC_file6.csv",""
 "data_file6_type","String","100","Recommended","data file 6 type/description","","",""
 "visitnum","Integer","","Recommended","Visit number","","",""
-"drug_name","String","25","Recommended","Drug Name","","",""
+"drug_name","String","25","Recommended","Drug Name","","M=Missing; NA=Not Applicable",""
 "drug_dosage","Integer","","Recommended","Drug Dosage","0;1","0 = Pre-dose; 1 = Post-dose",""
 "et_condition","String","250","Recommended","Eye-Tracking Test Name","","","et_test_name"
 "prompting","Integer","","Recommended","Please indicate the level of prompting given to the subject to attend to the protocol stimuli:","1::4","1=None;2=Occassional;3=Often;4=Nearly constant",""

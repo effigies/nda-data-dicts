@@ -46,3 +46,6 @@
 "vas2","Integer","","Recommended","In the past week, I would rate my desire to drink alcohol happened:","0 :: 100","0= Not at all; 50= Some of the time; 100= All of the time",""
 "vas3","String","20","Recommended","In the past week, when I had a desire to drink alcohol, it typically lasted: (time in minutes)","","Time in Minutes",""
 "vas4","Integer","","Recommended","In the past week, how hard was it for you to resist drinking alcohol?","0 :: 100","0= Not at all; 50= Moderately; 100= Extremely",""
+"vascraving_craving","Integer","","Recommended","What would you rate your CRAVING for methamphetamine right now?","0::10","0=None at all; 10=A lot",""
+"vascraving_desire","Integer","","Recommended","What would you rate your DESIRE for methamphetamine right now?","0::10","0=None at all; 10=A lot",""
+"vascraving_resist","Integer","","Recommended","What would you rate your ability to RESIST methamphetamine right now?","0::10","0=None at all; 10=A lot",""

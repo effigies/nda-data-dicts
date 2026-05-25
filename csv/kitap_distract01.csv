@@ -61,5 +61,5 @@
 "kitapgo6","Integer","","Recommended","KiTAP Go/No-Go Number of Omissions","","",""
 "kitapgo7","Float","","Recommended","KiTAP Go/No-Go Outliers","","",""
 "visitnum","Integer","","Recommended","Visit number","","",""
-"drug_name","String","25","Recommended","Drug Name","","",""
+"drug_name","String","25","Recommended","Drug Name","","M=Missing; NA=Not Applicable",""
 "drug_dosage","Integer","","Recommended","Drug Dosage","0;1","0 = Pre-dose; 1 = Post-dose",""

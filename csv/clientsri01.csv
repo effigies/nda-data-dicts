@@ -163,7 +163,7 @@
 "csri43","String","50","Recommended","Over the last 3 months, each time that you visited your peer helper or peer navigator, how long was the visit?","","",""
 "csri44","Float","","Recommended","Over the last 3 months, each time that you visited your peer helper or peer navigator, how much (in dollars) did you pay out-of-pocket?","","",""
 "csri45","Integer","","Recommended","Over the last 3 months, when you visited your peer helper or peer navigator, were the visit(s) done via telehealth?","0;1","0 = No; 1 = Yes",""
-"conmeds02","String","75","Recommended","Med 1: Medication","","",""
+"conmeds02","String","75","Recommended","Med 1: Medication","","M=Missing; NA=Not Applicable",""
 "csri47","String","250","Recommended","Medication 1: Please indicate dosage, frequency, number of days taken, and out-of-pocket cost. If a participant does not remember a certain detail, write Does Not Know in that respective line","","",""
 "csri03","String","50","Recommended","Over the last 3 months, each time that you visited your primary care provider, about how long did the visit last?","","",""
 "conmeds14","String","75","Recommended","Med 2: Medication","","",""

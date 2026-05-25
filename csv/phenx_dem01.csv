@@ -243,7 +243,7 @@
 "phenx_sexorot","String","50","Recommended","Parent/Adult Other sexual orientation","","",""
 "phenx_race","Integer","","Recommended","Parent/Adult Subject's Race","1::6;888;999","1= American Indian/Alaskan Native; 2= Asian; 3= Black or African American; 4= Native Hawaiian or Other Pacific Islander; 5= White; 6= Other; 888= Prefer not to answer; 999= Missing",""
 "phenx_raceoth","String","50","Recommended","Parent/Adult Other race","","",""
-"cg_ethnicity","Integer","","Recommended","Ethnicity of parent/guardian","0; 1","0=Non-Hispanic; 1=Hispanic",""
+"cg_ethnicity","Integer","","Recommended","Ethnicity of parent/guardian","0;1;888;999;9999","0=Non-Hispanic; 1=Hispanic; 888= Prefer not to answer; 999= Don't know; 9999= Missing",""
 "phenx_pro_y","Integer","","Recommended","Youth/Child Subject's Pronouns","1::4;888;999","1= He/him/his; 2= She/her/hers; 3= They/them/theirs; 4= Other; 888= Prefer not to answer; 999= Missing",""
 "phenx_prooth_y","String","50","Recommended","Youth/Child Other pronouns","","",""
 "phenx_gen_y","Integer","","Recommended","Youth/Child Subject's Gender","1::5;888;999","1= Man; 2= Non-Binary; 3= Transgender; 4= Woman; 5= Other; 888= Prefer not to answer; 999= Missing",""
@@ -279,3 +279,4 @@
 "phenx_gen","Integer","","Recommended","Parent/Adult Subject's Gender","1::5;888;999","1= Man; 2= Non-Binary; 3= Transgender; 4= Woman; 5= Other; 888= Prefer not to answer; 999=Missing",""
 "phenx_genoth","String","50","Recommended","Parent/Adult Other gender","","",""
 "phenx_sexor","Integer","","Recommended","Parent/Adult Subject's Sexual Orientation","1::5;888;999","1= Asexual; 2= Bisexual; 3= Gay/homosexual/lesbian; 4= Heterosexual/straight; 5= Other; 888= Prefer not to answer; 999= Missing",""
+"phenx_eth_y","Integer","","Recommended","Youth/Child Subject's Ethnicity","1;2;888;999;9999","1= Hispanic/Latinx; 2= NOT Hispanic/Latinx; 999= Don't Know; 888= Prefer not to answer; 9999= Missing",""

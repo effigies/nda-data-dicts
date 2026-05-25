@@ -36,7 +36,7 @@
 "image_description","String","512","Recommended","","Image description, i.e. DTI, fMRI, Fast SPGR, phantom, EEG, dynamic PET","","","task_description"
 "manifest","Manifest","","Conditional","isNull(data_file1)","Manifest file","","Path to manifest file, e.g., Users/username/SubjectABC_Manifest.json",""
 "visitnum","Integer","","Recommended","","Visit number","","",""
-"drug_name","String","25","Recommended","","Drug Name","","",""
+"drug_name","String","25","Recommended","","Drug Name","","M=Missing; NA=Not Applicable",""
 "drug_dosage","Integer","","Recommended","","Drug Dosage","0;1","0 = Pre-dose; 1 = Post-dose",""
 "custom_src_id","String","30","Recommended","","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""
 "mmn_fz_duration_voltage","Float","","Recommended","","Event Related Potential: Mismatch Negativity Response (Duration Deviant -Standard) averaged from 150 and 230 from Sensor FZ","-999 :: 999","",""

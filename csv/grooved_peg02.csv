@@ -47,7 +47,7 @@
 "b_gpnd_avg_correct","Float","","Recommended","Average Number of Pegs Placed Correctly by Non Dominant Hand","","","b_gpegboard_ndominant_avg_correct"
 "b_gpnd_avg_dropped","Float","","Recommended","Average Number of Pegs Dropped by Non Dominant Hand","","","b_gpegboard_ndominant_avg_dropped"
 "b_gpnd_avg_time","Float","","Recommended","Average Time to complete by Non Dominant Hand","","","b_gpegboard_ndominant_avg_time"
-"drug_name","String","25","Recommended","Drug Name","","",""
+"drug_name","String","25","Recommended","Drug Name","","M=Missing; NA=Not Applicable",""
 "drug_dosage","Integer","","Recommended","Drug Dosage","0;1","0 = Pre-dose; 1 = Post-dose",""
 "dom_slerror","Integer","","Recommended","Dominant Hand: Directional Set-Loss Error","0::50","",""
 "non_dom_slerror","Integer","","Recommended","Non Dominant Hand: Directional Set-Loss Error","0::50","",""
