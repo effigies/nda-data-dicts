@@ -92,7 +92,7 @@
 "delaydisc_type_num","Integer","","Recommended","Trial # In Set of Six (0-6)","","",""
 "delaydisc_current_a","Float","","Recommended","Amount of Money Receive Immediately","","",""
 "delaydisc_current_k","Float","","Recommended","How Deeply Value Decreased w/Time","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","ddisc.experimentname,delaydisc_batteryid"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","ddisc.experimentname,delaydisc_batteryid"
 "testid","Integer","","Recommended","Identifier of Current Test","","","delaydisc_testid"
 "session_id","String","20","Recommended","session ID/screening ID","","","delaydisc_sittingid"
 "cbgroup","Integer","","Recommended","Counterbalancing Group","","","delaydisc_group"

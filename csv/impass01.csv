@@ -47,7 +47,7 @@
 "iat_pt5_responsecorrect","Float","","Recommended","Words related to both concepts and evaluation, combinations switched - Response Correct (1=Correct)","0 :: 1","0=Incorrect; 1=Correct",""
 "iatscore","Float","","Recommended","Implicit Association Test raw score","","",""
 "mpdat","Float","","Recommended","days from enrollment","","","studyday"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","iat_version"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","iat_version"
 "iatscore_d","Float","","Recommended","Implicit Association Test D-score","","",""
 "conditionorder_esteem","String","4","Recommended","Esteem Implicit Association Task: Order in which conditions were presented","c-ic; ic-c","c-ic = Consistent then inconsistent; ic-c = Inconsistent then consistent",""
 "da_esteem","Float","","Recommended","Esteem Implicit Association Task: d-score of the first short blocks","-2::2","",""

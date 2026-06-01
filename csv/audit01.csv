@@ -24,7 +24,7 @@
 "days_baseline","Integer","","Recommended","Days since baseline","","","lof"
 "interv","Integer","","Recommended","Intervention Status","0;1","1=ITV, intervention; 0=TAU, treatment as usual",""
 "alcq","Integer","","Recommended","Sum of Alcohol Use Items","","","audit_score,audit_sum,audit_sum_score,audit_total,audittot_t1,audittot_t2,audittot_t3,audittot_t4,record_the_total_of_spe,record_the_total_of_specif"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "audit12_01a","Integer","","Recommended","How often do you have a drink containing alcohol or use other drugs (e.g., marijuana, cocaine, narcotics)?","1;2","1=Never; 2=Less than monthly",""
 "audit12_01b","Integer","","Recommended","If more than once a month: Alcohol","1::3","1= Monthly;2= Weekly;3= Daily or almost daily",""
 "audit12_01c","Integer","","Recommended","If more than once a month: Cocaine","1::3","1= Monthly;2= Weekly;3= Daily or almost daily",""

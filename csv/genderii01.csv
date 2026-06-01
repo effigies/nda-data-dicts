@@ -14,7 +14,7 @@
 "srdemo08","Integer","","Recommended","What grade you are in?","1::8","1= 6th; 2= 7th; 3= 8th; 4= 9th; 5= 10th; 6= 11th; 7= 12th; 8= Other (specify)",""
 "gradesp_mta","String","100","Recommended","Grade in school other specify","","","srdemo09"
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "gia1","Integer","","Recommended","On average, how supportive are your family members of your gender identity?","1::5","1 = Very unsupportive; 2 = Unsupportive; 3 = Neither supportive nor unsupportive; 4 = Supportive; 5 = Very supportive",""
 "gia2","Integer","","Recommended","On average, how supportive are your friends of your gender identity?","1::5","1 = Very unsupportive; 2 = Unsupportive; 3 = Neither supportive nor unsupportive; 4 = Supportive; 5 = Very supportive",""
 "gia3","Integer","","Recommended","On average, how supportive is your relationship partner of your gender identity?","1::5","1 = Very unsupportive; 2 = Unsupportive; 3 = Neither supportive nor unsupportive; 4 = Supportive; 5 = Very supportive",""

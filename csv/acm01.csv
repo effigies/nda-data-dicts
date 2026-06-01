@@ -43,4 +43,4 @@
 "problem_1","Integer","","Recommended","Have these ptsd problems lasted for more than one month?","0;1","0=No;1=Yes",""
 "acute_ptsd","Integer","","Recommended","Have the ptsd problems lasted less than three months?","0;1","0=No;1=Yes",""
 "chronic_ptsd","Integer","","Recommended","Have the ptsd problems lasted three months or more?","0;1","0=No;1=Yes",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","formid"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","formid"

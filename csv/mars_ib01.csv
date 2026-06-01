@@ -87,7 +87,7 @@
 "mars_ib_num","Integer","","Recommended","Matrix Reasoning Item Bank - Number of items completed","0::80","",""
 "mars_ib_acc","Float","","Recommended","Matrix Reasoning Item Bank - Accuracy of items completed (percent)","0::100","",""
 "mars_ib_rt","Float","","Recommended","Matrix Reasoning Item Bank - Total response time (seconds)","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "option2_second_left","String","20","Recommended","Second-from-left choice option (image name)","","",""
 "option3_second_right","String","20","Recommended","Second-from-right choice option (image name)","","",""
 "right_choice_option","String","20","Recommended","Right choice option image","","",""

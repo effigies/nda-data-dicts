@@ -185,7 +185,7 @@
 "su_13","Integer","","Recommended","About how old were you when you first started taking prescription medication that was not your own?","0::1200; 9998; 9999","in years; 9998 = N/A; 9999 = Don't know",""
 "site","String","101","Recommended","Site","","Study Site","siteid"
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing","timepoint"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "first_nicotine_3","Integer","","Recommended","Have you ever used smokeless tobacco like chew, dip, or snus?","1 ; 2 ; 0","1 = Yes; 2 = No; 0 = No","dip,life_dip"
 "sm_3b3","Integer","","Recommended","Tried non-cigarette tobacco or nicotine product  hookah?","0; 1; -5; -7; -8","0=No; 1=Yes; -8=DON'T KNOW; -7=REFUSED; -5=Presented, not answered","hookah,life_hookah"
 "smkamt","Integer","","Recommended","About how many cigarettes smoke per day","","","life_numsmokedaysmkmost,numsmokeperday"

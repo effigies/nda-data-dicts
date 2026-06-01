@@ -310,7 +310,7 @@
 "su_extent_12","Integer","","Recommended","Extent of use (severity)","1::4","1=None; 2= Mild; 3=Moderate; 4=Severe",""
 "su_notes","String","1000","Recommended","Any notes about substance use","","",""
 "su_misc_specify","String","1000","Recommended","Specify type of drug use not mentioned","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "site","String","101","Recommended","Site","","Study Site",""
 "su_yn","Integer","","Recommended","Have you ever used this [version_form] substance in your life?","0;1","0=No;1=Yes",""
 "su_pastcurrent","Integer","","Recommended","if you've used this substance, was it in the past (not current)?","0;1","0=No;1=Yes",""

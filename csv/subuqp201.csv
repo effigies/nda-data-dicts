@@ -135,7 +135,7 @@
 "numdrinksdesired_3","Integer","","Recommended","The participant's response to the question 'Right then if given the opportunity I would like to have had (blank) drinks of [Alcohol_stimulus]' at timepoint #3","","0 to 10 or more",""
 "numdrinksdesired_4","Integer","","Recommended","The participant's response to the question 'Right then if given the opportunity I would like to have had (blank) drinks of [Alcohol_stimulus]' at timepoint #4","","0 to 10 or more",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "total_drinks_acute","Integer","","Recommended","How many drinks did you consume in this session?","0::4","",""
 "total_drinks_long","Integer","","Recommended","How many drinks have you consumed today?","","",""
 "dq3a","Integer","","Recommended","Since the start of the study, how many times have you taken the following substance? PCP or Ketamine (Phencyclidine, Special K, Vitamin K, animal tranquilizer)","","",""

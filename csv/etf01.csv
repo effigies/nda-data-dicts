@@ -33,7 +33,7 @@
 assigned LAI antipsychotic, but the patient, through words and/or actions, refuses to do so.",""
 "rtda9","Integer","","Recommended","Indicate patients reason for study medication discontinuation:","1;2;3;4;5","1=Patient lost to follow-up, no information available; 2=Patient believes he/she does not need any antipsychotic
 medication; 3=Patient willing to take antipsychotic medication, but not the assigned LAI antipsychotic medication; 4=Patient no longer willing to do study procedures such as blood draws or ratings; 5= Other",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","vers"
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","",""
 "fseqno","Integer","","Recommended","Sequence Number","0::999","The FSEQNO variable in the ADJ form has a special interpretation compared to other forms.
 For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' can be thought of as

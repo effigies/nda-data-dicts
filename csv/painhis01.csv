@@ -41,7 +41,7 @@
 "alcq","Integer","","Recommended","Sum of Alcohol Use Items","","",""
 "gad7_raw_score","Float","","Recommended","GAD7 (Generalized Anxiety Dsiorder 7) Score","","",""
 "phqscore","Integer","","Recommended","Total Score PHQ","0::30","phq_1+phq_2+phq_3+phq_4+phq_5+phq_6+phq_7+phq_8; greater than or equal to 10 consistent with current depression. The 15-item version has a score ceiling of 30.",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
 "household_income","Integer","","Recommended","Household income","1 ::5; 999","1= >$90,000; 2=$60,001-$90,000; 3=$40,001-$60,000; 4=$20,000-$40,000; 5=Less than $20,000",""
 "education","Integer","","Recommended","How much education have you completed?","5::20","""5 = Less Than 5 grade; 6 = 6 grade;7 = 7 grade; 8 = 8 grade; 9 = 9grade; 10 = 10 grade; 11 = 11 grade; 12 = 12 grade;13 = Some college, but no degree;14 = Technical Degree;15 = Associates Degree;16 = More than two years, but no degree;17 = Bachelor's Degree;18 = Some graduate level coursework;19 = Master's Degree;20 = Ph.D. or M.D.""",""

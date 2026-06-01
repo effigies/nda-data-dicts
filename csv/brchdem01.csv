@@ -5,7 +5,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","chi_gen,gender"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","cg_comments_misc"
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","","Child_q5"
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","","Child_q5"
 "ses","Integer","","Recommended","Hollingshead SES Score","","SES at age of entry to study",""
 "expcoc","Integer","","Required","Prenatal exposure to cocaine","0::1;999","0 = No exposure; 1 = Exposed",""
 "expopi","Integer","","Required","Prenatal exposure to opiates","0::1;999","0 = No exposure; 1 = Exposed",""

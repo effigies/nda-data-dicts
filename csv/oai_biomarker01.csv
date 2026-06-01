@@ -196,4 +196,4 @@
 "spec_id","String","5","Recommended","SpecID","","",""
 "oai_timepoint","String","3","Recommended","Timepoint","","",""
 "oai_bmi","Float","","Recommended","BMI","","",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""

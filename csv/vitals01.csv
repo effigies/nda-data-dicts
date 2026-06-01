@@ -133,7 +133,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "vssa2b","Float","","Recommended","Repeat standing height measurement to confirm","0::150","in inches",""
 "vssa2c","Float","","Recommended","Computed average height","0::150","in inches",""
 "vssa7b","Float","","Recommended","Repeat waist measurement to confirm","0::150","in inches","vsfa5b,wstcirc2"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_id,form_name,formid,vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","form_id,form_name,formid,vers"
 "vsfa5","Integer","","Recommended","Is this a quarterly follow-up (with labs) or discontinuation visit?","0;1","0=No; 1=Yes",""
 "vsfa6b","Float","","Recommended","Repeat waist measurement to confirm","0::1000","",""
 "daysrz","Integer","","Recommended","days since randomization","","","date,visitdt,vsfa0ba,vssa0b"

@@ -37,7 +37,7 @@
 "ius_shorttot","Integer","","Recommended","Total Score of IUS-12 (Short-Form)","","",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","pax_timepoint"
 "ius_20","Integer","","Recommended","The smallest doubt can stop me from acting","1::5","1 = not at all characteristic of me; 3 = somewhat characteristic of me; 5 = entirely characteristic of me","iusf_10"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "ius_factor1","Integer","","Recommended","Uncertainty has negative behavioral and self-referent implications","","",""
 "ius_factor2","Integer","","Recommended","Uncertainty is unfair and spoils everything","","",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""

@@ -181,7 +181,7 @@
 "moutcm16","Integer","","Recommended","Medication 16 outcome","-1::3;9","",""
 "moutcm17","Integer","","Recommended","Medication 17 outcome","-1::3;9","",""
 "moutcm18","Integer","","Recommended","Medication 18 outcome","-1::3;9","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_id"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","form_id"
 "time_stamp","Integer","","Recommended","Time stamp","","",""
 "stsd1","Float","","Recommended","Prescribed med start date 1","","","mstdt1"
 "stpdate1","Float","","Recommended","Study med stop date1","","","mendt1"

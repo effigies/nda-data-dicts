@@ -45,7 +45,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visit_number"
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","",""
 "imputation","Integer","","Recommended","Indicator noting imputed data set number ","1::20","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""
 "mood_01","Integer","","Recommended","On a scale ranging from 1 through 9, how bad or good do you feel?","1 :: 9","1= Extremely Bad; 9= Extremely Good",""
 "mood_02","Integer","","Recommended","On a scale ranging from 1 through 9, how sad or happy do you feel?","1 :: 9","1= Extremely Sad; 9= Extremely Happy",""

@@ -95,7 +95,7 @@ being '002', and FSEQNO of '3' can be thought of as being '003'.
 The first digit of FSEQNO relates to the corresponding ENF sequence number at that visit and the third
 digit relates to the specific adjudicator who completed the adjudication form.",""
 "daysrz","Integer","","Recommended","days since randomization","","","lvta0b,mefa0b"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","vers"
 "txolan","Integer","","Recommended","treatment olanzapine","1;0;-7","0=No; 1=Yes;-7=Refused","mefa1"
 "olandose","Float","","Recommended","olanzapine daily dose","","-999=legitimately skipped","mefa1a"
 "mefa1b","Integer","","Recommended","Olanzapine: Has the dose been stable for 1 month?","0;1;999","0=No; 1=Yes; 999=Legitimately skipped",""

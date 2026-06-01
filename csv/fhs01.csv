@@ -611,7 +611,7 @@
 "hhb_fam_psy_sub_use","String","100","Recommended","Specify [version_form] Substance Use","","hhb_fam_psy9 = 1",""
 "hhb_fam_psy_other","String","200","Recommended","Specify [version_form] Other Psychiatric Illness","","hhb_fam_psy18 = 1",""
 "hhb_fam_psy_notes","String","4000","Recommended","Notes on Psychiatric Illnesses for [version_form]","","if none, write ''n/a''",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "hhb_fam_psy_yn","Integer","","Recommended","Does/Did the participant have a biological [version_form] with psychiatric illnesses?","1::4","1= Yes; 2= No; 3= Unknown; 4= Declined to answer",""
 "hhb_fam_psy1","Integer","","Recommended","Does your biological [version_form] have: Schizophrenia","0;1","0= No; 1= Yes",""
 "hhb_fam_psy2","Integer","","Recommended","Does your biological [version_form] have: Schizoaffective Disorder, Bipolar Type","0;1","0= No; 1= Yes",""

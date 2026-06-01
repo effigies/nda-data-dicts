@@ -7,7 +7,7 @@
 "cpthtime","String","20","Recommended","Time tested","","HH:MM:SS",""
 "d2_tn","Integer","","Recommended","Total number of symbols processed, raw","","","digit,v10_dsst_total_symbols,v2_dsst_total_symbols,v4_dsst_total_symbols"
 "dsst_errors","Integer","","Recommended","Number of errors","","","v10_dsst_errors,v2_dsst_errors,v4_dsst_errors"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","digitsymbol_version"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","digitsymbol_version"
 "ncaid","Integer","","Recommended","Primary ID of Neurocognitive Test","","",""
 "site","String","101","Recommended","Site","","Study Site","siteid"
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing","timepoint"

@@ -175,7 +175,7 @@
 "sasb_preference_solitude","Integer","","Recommended","SAS Preference for Solitude Total/Raw Score","","",""
 "sasb_socially_aloof","Integer","","Recommended","SAS Socially Aloof Total/Raw Score","","",""
 "sasb_friend_notvalued","Integer","","Recommended","SAS Close Friends Not Valued Total/Raw Score","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "rsas_apathytot","Integer","","Recommended","Social Apathy Subscale","","",""
 "rsas_withdrawaltot","Integer","","Recommended","Social Withdrawal Subscale","","",""
 "inf5","Integer","","Recommended","There have been times when I have dialed a telephone number, but the call went to voicemail.","0::1","0=true; 1=false",""

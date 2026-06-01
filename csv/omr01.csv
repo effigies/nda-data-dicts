@@ -54,7 +54,7 @@
 "amr_m22","Integer","","Recommended","V29 (month 22 or week 108)","0;1","At each study visit, indicate 1=Yes or 0=No if patient is taking medication. If 0, then record date stopped (6b). This completes data collection for this medication. If a medication is re-prescribed, please complete a new line with start date (6a).","omr_m22"
 "amr_m23","Integer","","Recommended","V30 (month 23 or week 112)","0;1","At each study visit, indicate 1=Yes or 0=No if patient is taking medication. If 0, then record date stopped (6b). This completes data collection for this medication. If a medication is re-prescribed, please complete a new line with start date (6a).","omr_m23"
 "amr_m24","Integer","","Recommended","V31 (month 24 or week 116)","0;1","At each study visit, indicate 1=Yes or 0=No if patient is taking medication. If 0, then record date stopped (6b). This completes data collection for this medication. If a medication is re-prescribed, please complete a new line with start date (6a).","omr_m24"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","vers"
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","",""
 "omra3a","Integer","","Recommended","Start date of medication, calculated from randomization date","-999::999","",""
 "omra3b","Integer","","Recommended","Stop date of medication, calculated from randomization date","-999::999","",""

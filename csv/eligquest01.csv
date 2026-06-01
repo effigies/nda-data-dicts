@@ -26,7 +26,7 @@
 "mri_diabetes","Integer","","Recommended","Do you have diabetes?","0;1","0=No; 1=Yes","diabetes"
 "ncq1","Integer","","Recommended","Do you smoke cigarettes?","0;1;999","0=No; 1=Yes; 999=Prefer not to answer","currsmoke"
 "hispanic","Integer","","Recommended","Is subject of Hispanic, Latino, or Spanish origin?","0; 1; 999","0 = No; 1 = Yes; 999= missing",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "otherrace","String","200","Recommended","specify other race","","The following questions are about you or the child's family.","rcother"
 "strf_cholesterol_total","Float","","Recommended","Cholesterol total","","","totchol"
 "d_totchol","Date","","Recommended","Date of labs","","",""

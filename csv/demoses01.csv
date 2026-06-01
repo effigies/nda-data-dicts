@@ -15,7 +15,7 @@
 "demoses01i","Integer","","Recommended","In what ways do you regularly have access to the internet?: Other, please specify","0;1","0= Unchecked; 1= Checked",""
 "demoses01j","String","50","Recommended","Specify other way used to regularly access internet","","",""
 "fi06","Integer","","Recommended","6. Are you Spanish/Hispanic/Latino?","0;1;97;98","0 = No; 1 = Yes; 97 = Refused; 98 = Don't know","latin"
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","","raceth"
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","","raceth"
 "demoses04","Integer","","Recommended","Which best describes how you identify your sexual orientation?","1::8","1= Asexual; 2= Bisexual; 3= Heterosexual/Straight; 4= Gay; 5= Lesbian; 6= Pansexual; 7= Questioning; 8= Other (please indicate)","sexual_orientation"
 "demoses05a","Integer","","Recommended","What is your current gender identity?: Man","0;1","0= Unchecked; 1= Checked","gender.ident_man,genderid_a"
 "demoses05b","Integer","","Recommended","What is your current gender identity?: Woman","0;1","0= Unchecked; 1= Checked","gender.ident_woman,genderid_b"

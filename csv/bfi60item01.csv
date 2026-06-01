@@ -69,7 +69,7 @@
 "bfi2_c","Integer","","Recommended","BFI-2: Conscientousness Domain Score","","",""
 "bfi2_n","Integer","","Recommended","BFI-2: Negative Emotionality Domain Score","","",""
 "bfi2_o","Integer","","Recommended","BFI-2: Open-Mindedness Domain Score","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "lassi_anxss","Float","","Recommended","Anxiety Sub-scale mean","","",""
 "na_11","Integer","","Recommended","I am NOT easily bothered by things ","1::5","5=disagree strongly ;4= disagree some ;3=neither agree nor disagree ;2= agree some ;1=agree strongly",""
 "na_12","Integer","","Recommended","I get caught up in my problems ","1::5","1=disagree strongly ;2= disagree some ;3=neither agree nor disagree ;4= agree some ;5=agree strongly",""

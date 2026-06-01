@@ -33,7 +33,7 @@
 "tse_8","Integer","","Recommended","I wish I could have more respect for myself.","1::4;999","1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree; 999 = Missing","rss8"
 "tse_9","Integer","","Recommended","All in all, I am inclined to feel that I am a failure.","1::4;999","1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree; 999 = Missing","rss9"
 "tse_10","Integer","","Recommended","I take a positive attitude toward myself.","1::4;999","4 = Strongly disagree; 3 = Disagree; 2 = Agree; 1 = Strongly agree; 999 = Missing","rss10"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "ttt_arms","String","3","Recommended","Treatment arms of this study. Individualized therapy (RECOS program) compared with the more general Cognitive Remediation Therapy (CRT)","CRT;REC","",""
 "rses_7","Integer","","Recommended","I feel useless at times","1::4","1= Strongly disagree; 2= Disagree; 3= Agree; 4= Strongly agree",""
 "rses_8","Integer","","Recommended","Sometimes I think I am no good at all","1::4","1= Strongly disagree; 2= Disagree; 3= Agree; 4= Strongly agree",""

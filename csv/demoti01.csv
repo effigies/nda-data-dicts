@@ -7,7 +7,7 @@
 "demq3_intersex","Integer","","Recommended","Subject assigned sex at birth if intersex","0;1","0 = male; 1 = female",""
 "demq4_gender","Integer","","Recommended","Subject gender","0::6","0 = Male; 1 = Female; 2 = Transgender male; 3 = Transgender female; 4 = Gender variant/non-conforming; 5=Gender Non-binary/Non-conforming; 6=Not listed",""
 "ethnsubj","Integer","","Recommended","Subject ethnicity","0;1","1 = hispanic or latino; 0 = nonhispanic",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "demq6_relationship","Integer","","Recommended","Subject relationship status","0::5","0 = single; 1 = married; 2 = cohabitating; 3 = separated or divorced; 4 = widowed; 5 = other, specify",""
 "demq6_relationship_o","String","50","Recommended","Specify other subject relationship status","","",""
 "numchild","Integer","","Recommended","number of children","","",""

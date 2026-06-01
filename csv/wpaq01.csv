@@ -15,4 +15,4 @@
 "totfupwv","Integer","","Recommended","Total # of Follow Up waves","","",""
 "wpaqi","Float","","Recommended","Inverse of Probability","","","wpaq06i,wpaq12i,wpaq18i"
 "wpaqd","Float","","Recommended","PAQ Non-response Weight","","(Please refer to weighting documentations. For convenience the cross-sectional weights are included in these files as they apply to analyses using the remission and percent reduction variables.)",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""

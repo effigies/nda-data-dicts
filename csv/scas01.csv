@@ -88,7 +88,7 @@
 "scas_c32","Integer","","Recommended","All of a sudden I feel really scared for no reason at all","0 :: 3","0= Never; 1= Sometimes; 2= Often; 3= Always",""
 "scas_c33","Integer","","Recommended","I am scared of insects or spiders","0 :: 3","0= Never; 1= Sometimes; 2= Often; 3= Always",""
 "scas_c34","Integer","","Recommended","I suddenly become dizzy or faint when there is no reason for this","0 :: 3","0= Never; 1= Sometimes; 2= Often; 3= Always",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "scas_c35","Integer","","Recommended","I feel afraid if I have to talk in front of my class","0 :: 3","0= Never; 1= Sometimes; 2= Often; 3= Always",""
 "scas_c36","Integer","","Recommended","My heart suddenly starts to beat too quickly for no reason","0 :: 3","0= Never; 1= Sometimes; 2= Often; 3= Always",""
 "scas_c37","Integer","","Recommended","I worry that I will suddenly get a scared feeling when there is nothing to be afraid of.","0 :: 3","0= Never; 1= Sometimes; 2= Often; 3= Always",""

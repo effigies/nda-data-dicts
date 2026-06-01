@@ -122,7 +122,7 @@
 "ace_11alt","Integer","","Recommended","While you were growing up, during your first 18 years, did your parent/guardian not give you enough food even when it was available?","1::4","1 = Many times; 2 = A few times; 3 = Once or twice; 4 = Never",""
 "ace_12alt","Integer","","Recommended","While you were growing up, during your first 18 years, was a parent/guardian too drunk or intoxicated by drugs to take care of you?","1::4","1 = Many times; 2 = A few times; 3 = Once or twice; 4 = Never",""
 "ace_13alt","Integer","","Recommended","While you were growing up, during your first 18 years, did a parent/guardian not send you to school even when it was available?","1::4","1 = Many times; 2 = A few times; 3 = Once or twice; 4 = Never",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "brfss_ace_01","Integer","","Recommended","Before you were 18 years of age did you live with anyone who was depressed, mentally ill, or suicidal?","1;2;7;9","1 = Yes; 2 = No; 7 = DK/NS; 9 = Refused",""
 "brfss_ace_02","Integer","","Recommended","Before you were 18 years of age did you live with anyone who was a problem drinker or alcoholic?","1;2;7;9","1 = Yes; 2 = No; 7 = DK/NS; 9 = Refused",""
 "brfss_ace_03","Integer","","Recommended","Before you were 18 years of age did you live with anyone who used illegal street drugs or who abused prescription medications?","1;2;7;9","1 = Yes; 2 = No; 7 = DK/NS; 9 = Refused",""

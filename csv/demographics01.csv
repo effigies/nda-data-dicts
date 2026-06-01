@@ -754,7 +754,7 @@
 "yc_dem_32","Integer","","Recommended","Which of the following best describes your sexual behavior?","1::7","1 = I only have sex with females; 2 = I have sex with mostly females; 3 = I have sex with about equal amounts of females and males; 4 = I only have sex with males; 5 = I have sex with mostly males; 6 = I have never had sex; 7 = Choose not to answer",""
 "yc_dem_33","Integer","","Recommended","Who are you sexually attracted to: women, men, or both?","1::7","1 = Females only; 2 = Females more than males; 3 = Females and males equally; 4 = Males more than females; 5 = Males only; 6 = Neither males nor females; 7 = Choose not to answer",""
 "demo_28a","Integer","","Recommended","28. Which best describes your sexual orientation?","1::5; 88","1=Heterosexual (straight); 2=Homosexual (gay=lesbian=queer); 3=Bisexual; 4=Undecided (questioning); 5 = Choose not to answer; 88=Other","yc_dem_34"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "demo_q53_1","String","50","Recommended","What is your current schooling status? Other. Please specify","","",""
 "demo_q54","Integer","","Recommended","What year are you in school?","1::4;11","1=1st; 2=2nd; 3=3rd; 4=4th; 11=Other (graduate)",""
 "demo_q55","Integer","","Recommended","What is your current living situation?","1::5","1=Off-campus housing, alone; 2=Off-campus housing with roommates; 3=Off-campus housing with family; 4=On-campus housing, alone; 5=On-campus housing with roommates",""

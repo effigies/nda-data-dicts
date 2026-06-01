@@ -711,7 +711,7 @@ A sensory perception without external stimulation of the relevant sensory organ.
 "h12pce","Integer","","Recommended","Evidence of a Precipitant","0::2","0=No Information; 1=Not Present; 2=Present",""
 "pt15pce","Integer","","Recommended","Duration of symptoms (in weeks)","","",""
 "h8pce","Integer","","Recommended","One or combination of hallucinations lasted throughout the day for several days or several times a week for several weeks","1::2","1=No; 2= Yes",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "aesa16","Integer","","Recommended","Weight Gain: Have you had any problems with weight gain? (Severe = new clothes required)","0;1;2;3","0=Absent; 1=Mild; 2=Moderate; 3=Severe",""
 "corn10","Integer","","Recommended","Weight Loss","0::2","0 = Absent; 1 = Mild or Intermittent;  2 = Severe",""
 "diurvar","Integer","","Recommended","Diurnal variation: mood/energy","0::3","0=No variation or not currently present; 1=Mild intensity; 2=Moderate intensity;3=Severe intensity",""

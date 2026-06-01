@@ -73,7 +73,7 @@
 "prodq20concern","Integer","","Recommended","Have you seen things that other people can't see or don't seem to see? When this happens, I feel frightened, concerned, or it causes problems for me.","1::5;-9","1= Strongly disagree; 2= Disagree; 3= Neutral; 4= Agree; 5= Strongly agree; -9= Missing","pqb20_2,pqb20_yes"
 "q07_hard_to_understand","Integer","","Recommended","7. People sometimes find it hard to understand what I am saying.","0;1;-9","0= No; 1= Yes; -9= Missing","pqb21,pqb21_1,prodq21tf"
 "prodq21concern","Integer","","Recommended","Do people sometimes find it hard to understand what you are saying? When this happens, I feel frightened, concerned, or it causes problems for me.","1::5;-9","1= Strongly disagree; 2= Disagree; 3= Neutral; 4= Agree; 5= Strongly agree; -9= Missing","pqb21_2,pqb21_yes"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "pq1","Integer","","Recommended","I have been distracted by noises or other people talking. (Frequency)","0::4;99","0= No; 1= 1 to 2 times; 2= Once per week; 3= A few times per week; 4= Daily; 99 = Prefer not to answer",""
 "pq1a","Integer","","Recommended","Did being distracted by noises or other people talking cause you distress? ","0;1;99","0= No; 1= Yes; 99= Prefer not to answer",""
 "pq2","Integer","","Recommended","The passage of time has felt unnaturally faster or slower than usual. (Frequency)","0::4;99","0= No; 1= 1 to 2 times; 2= Once per week; 3= A few times per week; 4= Daily; 99 = Prefer not to answer",""

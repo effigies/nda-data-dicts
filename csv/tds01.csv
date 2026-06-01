@@ -13,7 +13,7 @@
 "tds08","Integer","","Recommended","How you view your own effectiveness as a teacher of elementary science","0; 1; 2; 3; 4","0 = Superior; 1 = Above average; 2 = Average; 3 = Below average; 4 = Low",""
 "tds09","Integer","","Recommended","Number of college science courses","","",""
 "resp_ethnicity","String","30","Recommended","Respondent's ethnicity","Hispanic or Latino;Not Hispanic or Latino;Unknown or not reported","","cdem_3"
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","","cdem_2"
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","","cdem_2"
 "ftds01","String","20","Recommended","What grade(s) do you teach? ","","",""
 "ftds02","Integer","","Recommended","How many years have you been in your current position? ","","","t_years"
 "ftds03","String","40","Recommended","Please indicate your current role. ","","",""

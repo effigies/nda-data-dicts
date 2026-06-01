@@ -7,7 +7,7 @@
 "admin_clinic","Integer","","Recommended","Clinic","1::10","10 Clinics - names not disclosed",""
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","response_fieldworkerid"
 "log030","Integer","","Recommended","Do you plan on staying where you currently live for the next 12 months?","0;1;-888;-999","0=No; 1=Yes; -888=Not Applicable; -999=Missing;","admin_reside"
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","","dem_ethnicity"
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","","dem_ethnicity"
 "ethnic_group","String","255","Recommended","Ethnic group","","","dem_ethother"
 "dem_ed","Integer","","Recommended","What is the highest level of education you have completed?","1::7;77","1= Never went to school; 2= Grade 1 to 7, primary school; 3= Grade 8 to 11, secondary school; 4= Grade 12, matric completed; 5 = Diploma in nursing; 6 = Bachelors in nursing; 7 = Graduate School; 77 = Other","emp_ed"
 "dem_12_rel_stat","Integer","","Recommended","respondent' relationship status","1::6","1=Married; 2=divorced/separated; 3=widowed; 4= remarried; 5=single; 6 = In relationship, not living together","dem_marstat"

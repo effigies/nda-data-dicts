@@ -22,7 +22,7 @@
 "l2p2q1","Integer","","Recommended","List 2 Presentation 2 Question 2","0;1","0=incorrect;1=correct",""
 "l2p2q2","Integer","","Recommended","List 2 Presentation 2 Question 2","0;1","0=incorrect;1=correct",""
 "l2p2q3","Integer","","Recommended","List 2 Presentation 2 Question 3","0;1","0=incorrect;1=correct",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","assessment_name,nihtbx_list_v,tcb_lstsrt_form"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","assessment_name,nihtbx_list_v,tcb_lstsrt_form"
 "l1p1qa1","Integer","","Recommended","List 1 Presentation 1. Question A1","0;1","0=incorrect;1=correct",""
 "l1p1qa2","Integer","","Recommended","List 1 Presentation 1. Question A2","0;1","0=incorrect;1=correct",""
 "l1p1qb1","Integer","","Recommended","List 1 Presentation 1. Question B1","0;1","0=incorrect;1=correct",""

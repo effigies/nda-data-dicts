@@ -7,7 +7,7 @@
 "sub_type","Integer","","Recommended","Category of Subject","1::4","1 = Subject tested at Georgia State University (Undergraduate over 18); 2 = Child tested at Georgia State University; 3 = Typically developing child tested in Buffalo; 4 = Child with autism tested in Buffalo",""
 "max_sub_id","String","100","Recommended","Institute for Autism Research Subject ID","","",""
 "subethnicity","String","50","Recommended","Ethnicity of Subject","Hispanic; Not Hispanic; Unknown","","ethnicity"
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "maternaledu","String","100","Recommended","Education level of subject's mother","","","maternal_edu"
 "adi_r_social","Integer","","Recommended","Autism Diagnosis Interview - Social scale score","1::500","",""
 "adi_r_comm","Integer","","Recommended","Autism Diagnosis Interview - Communication scale score","1::500","",""

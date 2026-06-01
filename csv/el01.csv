@@ -7,7 +7,7 @@
 "crcid","String","40","Recommended","CRC ID/ROA ID","","",""
 "update","Integer","","Recommended","Updated form","0;1","1= yes; 0= no",""
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","","hspnc"
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "con","Integer","","Recommended","Patient offered consent","0;1","0=No; 1=Yes",""
 "ncbpl","Integer","","Recommended","NC: bipolar disorder","0;1","0=Not checked; 1=Checked",""
 "ncpsy","Integer","","Recommended","NC: schizoprenia/psychosis","0;1","0=Not checked; 1=Checked",""

@@ -52,7 +52,7 @@
 "ctqclass_pa","Integer","","Recommended","Physical Abuse Classification","0::3","0=None; 1=Low; 2=Moderate; 3=Severe","t1ctq_pax4"
 "ctqclass_pn","Integer","","Recommended","Physical Neglect Classification","0::3","0=None; 1=Low; 2=Moderate; 3=Severe","t1ctq_pnx4"
 "ctqclass_sa","Integer","","Recommended","Sexual Abuse Classification","0::3","0=None; 1=Low; 2=Moderate; 3=Severe","t1ctq_sax4"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing","timepoint"
 "childhoodhitorhurt","Integer","","Recommended","How Often Kids Threatened You","1::5; -99; 77; 88","1=Never true; 2=Rarely true; 3=Sometimes true; 4=Often true; 5=Very often true; -99= N/A ; 77= Refused ; 88= Missing",""
 "ctq_33","Integer","","Recommended","I got hit so hard by someone in my family that I had to see a doctor or go to the hospital","1::5; -99; 77; 88","1=Never true; 2=Rarely true; 3=Sometimes true; 4=Often true; 5=Very often true/Always; -99= N/A ; 77= Refused ; 88= Missing","ctq9_t3,ctq_09a,ctq_9,ctq_sf_06"

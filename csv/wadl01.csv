@@ -35,3 +35,4 @@
 "iadl_5","Integer","","Recommended","Preparing meals?","0;1","0= No; 1= Yes",""
 "iadl_6","Integer","","Recommended","Transportation such as driving them places?","0;1","0= No; 1= Yes",""
 "iadl_7","Integer","","Recommended","Using the phone to make or receive phone calls?","0;1","0= No; 1= Yes",""
+"reporter_type","Integer","","Recommended","Was the questionnaire completed by the participant themselves or by a proxy informant?","1;2","1 = Self; 2 = Informant",""

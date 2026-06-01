@@ -143,7 +143,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","eventname"
 "wcst_ni","Integer","","Recommended","Number of Items","","","itmcnt,nihtbx_picture_itmcnt"
 "nih_tlbx_fctsc","Float","","Recommended","Fully-Corrected T-Score","0::120","","nihtbx_demo_rescore_fulltpsm,nihtbx_picture_fc,nihtbx_picture_fullycorrected,tcb_picseq_full_tscr"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","assessment_name,nihtbx_picture_v"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","assessment_name,nihtbx_picture_v"
 "dode","String","10","Recommended","Date of Data Entry","","",""
 "interview_language","String","255","Recommended","Language Used in the Interview","","","language,nihtbx_picture_language"
 "responsetime","Float","","Recommended","Response Time (ms)","","",""

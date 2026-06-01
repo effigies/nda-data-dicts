@@ -159,7 +159,7 @@
 "ocd00_d","Integer","","Recommended","Distress due to ocd","0::8","0= None; 2= Mild; 4= Moderate; 6= Severe; 8= Very Severe","ocd1_d,ocd2_d"
 "ocd00_onset","Date","","Recommended","Date of ocd onset","","MM/DD/YYYY","ocd1_onset,ocd2_onset"
 "ocd00_csr","Integer","","Recommended","OCD CSR","0::8","0= None; 2= Mild; 4= Moderate; 6= Severe; 8= Very Severe","ocd1_csr,ocd2_csr"
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
 "ptsdsy00_beg2","Integer","","Recommended","Avoidance of external reminders - Begin or worsen after event?","0;1","0=No; 1=Yes",""
 "ptsdsy00_beg3","Integer","","Recommended","Inability to recall important aspects of the event - Begin or worsen after event?","0;1","0=No; 1=Yes",""

@@ -19,7 +19,7 @@
 "btb6","Integer","","Recommended","Number 3 Problem in Life rating","0::8","0=Not Serious At All; 8=Most Serious",""
 "btb7","Integer","","Recommended","What was the GAD-7 score obtained on the questionnaire?","","","gad7"
 "btb8","Integer","","Recommended","What was the PHQ-9 score obtained on the questionnaire?","","","phq9"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","formid"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","formid"
 "genad1","Integer","","Recommended","Feeling nervous, anxious or on edge","0::3","0= Not at all; 1= Several days; 2= More than half the days; 3= Nearly every day","nervous"
 "genad2","Integer","","Recommended","Not being able to stop or control worrying","0::3","0= Not at all; 1= Several days; 2= More than half the days; 3= Nearly every day","control_worrying"
 "genad3","Integer","","Recommended","Worrying too much about different things","0::3","0= Not at all; 1= Several days; 2= More than half the days; 3= Nearly every day","worrying_things"

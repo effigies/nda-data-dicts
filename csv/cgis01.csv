@@ -57,7 +57,7 @@
 "imputation","Integer","","Recommended","Indicator noting imputed data set number ","1::20","",""
 "comments","String","4000","Recommended","Comments about assessment","","","cgiscmt"
 "monthsbl","Float","","Recommended","Actual number of months from Baseline","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "cgither","Integer","","Recommended","Role of Therapist Completing Clinical Global Impressions","0::2","0 = IE (Independent Evaluator);1 = PT (Pharmacotherapist);2 = CBT (Cognitive Behavioral Therapist)",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
 "cgi_s_dep","Integer","","Recommended","Severity of Illness.Rate severity of the adolescent's depressive symptoms during the past week","0 :: 7;-99;77;88","0 = Not assessed; 1 = Normal, not at all ill; 2 = Borderline ill; 3 = Mildly ill; 4 = Moderately ill; 5 = Markedly ill; 6 = Severely ill; 7 = Among the most extremely ill patients.; -99= N/A; 77= Refused; 88= Missing",""

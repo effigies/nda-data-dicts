@@ -128,7 +128,7 @@ For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' c
 being '002', and FSEQNO of '3' can be thought of as being '003'.
 The first digit of FSEQNO relates to the corresponding ENF sequence number at that visit and the third
 digit relates to the specific adjudicator who completed the adjudication form.",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","vers"
 "amsglob","Integer","","Recommended","AIMS Global Severity Score (Value of AMSA8: Severity of Abnormal movements)","0::3","0=None, Normal; 1=Minimal (may be extreme normal); 2=Mild; 3=Moderate",""
 "daysrz","Integer","","Recommended","days since randomization","","","amsa0b"
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""

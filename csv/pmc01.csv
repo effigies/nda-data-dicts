@@ -9,7 +9,7 @@
 "child_anymeds","Integer","","Recommended","Did your child take any medications other than vitamins and iron?","0;1","0=No; 1=Yes",""
 "psychmeds_ever","Integer","","Recommended","Has your child ever taken any mood or behavioral medications?","0;1","0=No; 1=Yes",""
 "n_psychmeds_ever","Integer","","Recommended","How many different mood or behavioral medications has your child ever taken?","","",""
-"nth","Integer","","Recommended","Ordinal number","1::15","1 = first; 2 = second; 3 = third; 4 = fourth; 5 = fifth; 6 = sixth; 7 = seventh; 8 = eighth; 9 = ninth; 10 = tenth; 11 = eleventh; 12 = twelfth; 13 = thirteenth; 14 = fourteenth; 15 = fifteenth",""
+"nth","Integer","","Recommended","Ordinal number","","1 = First; 2 = Second; 3 = Third; etc.",""
 "psychmed_ever","String","50","Recommended","What was the [nth] mood or behavioral medication that [childfirst] took?","","",""
 "psychmeds_current","Integer","","Recommended","Is your child currently taking a mood or behavioral medication?","0;1","0=No; 1=Yes",""
 "n_psychmeds_current","Integer","","Recommended","If so, how many mood or behavioral medications is your child CURRENTLY taking?","","",""

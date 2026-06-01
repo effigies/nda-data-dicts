@@ -43,7 +43,7 @@
 "ede_q_shapeconcern","Float","","Recommended","Eating Disorders Examination Questionnaire - Shape Concern","","","edeq_shape,edeq_shape_sr,edeqshap,mean_shape_concern_score,shape_concern_par"
 "ede_q_weightconcern","Float","","Recommended","Eating Disorders Examination Questionnaire - Weight Concern","","","edeq_weight,edeq_weight_sr,edeqwgtc,mean_weight_concern_score,weight_concern_par"
 "day_pertains","Integer","","Recommended","Day question(s) pertain(s) to:","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "breakast","Integer","","Recommended","Over the past four weeks which of these meals or snacks have you eaten on a regular basis? Breakfast","0::6; 8","0 =No days; 1=1-5 days; 2= 6-12 days; 3=13-15 days; 4= 16-22 days; 5= 23-27 days; 6=  Every day; 8 = Difficult to classify",""
 "mmsnack","Integer","","Recommended","Over the past four weeks which of these meals or snacks have you eaten on a regular basis? Mid-morning snack","0::6; 8","0 =No days; 1=1-5 days; 2= 6-12 days; 3=13-15 days; 4= 16-22 days; 5= 23-27 days; 6=  Every day; 8 = Difficult to classify",""
 "equest_lunch","Integer","","Recommended","Over the past four weeks which of these meals or snacks have you eaten on a regular basis? Lunch","0::6; 8","0 =No days; 1=1-5 days; 2= 6-12 days; 3=13-15 days; 4= 16-22 days; 5= 23-27 days; 6=  Every day; 8 = Difficult to classify","lunch"

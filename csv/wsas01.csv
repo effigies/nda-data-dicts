@@ -16,7 +16,7 @@
 "wsastot","Integer","","Recommended","IVR totalled WSAS","0::40","",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
 "vis_type","Integer","","Recommended","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","phone"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","response_type"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","response_type"
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","timepoint"
 "adjust_1","Integer","","Recommended","Think about whether your child is able to go to school, college or work every day, whether the problem makes them late or miss lessons, and if it affects their concentration or writing when they are trying to study, do exams, or work","0::8","0=The problem doesn't affect this at all; 2=The problem affects this slightly; 4=The problem definitely affects this; 6=The problem affects this a lot; 8=The problem affects this very severely",""
 "adjust_2","Integer","","Recommended","Think about whether your child is able to shower, bath, and dress without help, or if they find organizing time difficult. Would your child be able to help with tasks and chores at home? unit/facility?","0::8","0=The problem doesn't affect this at all; 2=The problem affects this slightly; 4=The problem definitely affects this; 6=The problem affects this a lot; 8=The problem affects this very severely",""

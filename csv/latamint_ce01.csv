@@ -27,4 +27,4 @@
 "ce6_childexp4_3","Integer","","Recommended","Before age 18, how often did you have each of these other experiences? You felt loved and cared for","1 :: 5","1= Very Often; 2= Often; 3= Sometimes; 4= Rarely; 5= Never","childexp4_3"
 "ce6_childexp4_4","Integer","","Recommended","Before age 18, how often did you have each of these other experiences? Your parents or caregivers gave you a lot of love and affection","1 :: 5","1= Very Often; 2= Often; 3= Sometimes; 4= Rarely; 5= Never","childexp4_4"
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""

@@ -26,7 +26,7 @@
 "siq_flag","Integer","","Recommended","Indicator of whether SIQ Total Raw Score >= 31 using imputed values","0;1","0 = No; 1 = Yes",""
 "siqrisk","Integer","","Recommended","SIQ risk variable per 6 critical items using imputed values.Critical Variables: SIQ2, SIQ3, SIQ4, SIQ7, SIQ8, SIQ9 . If at least 2 critical items (regardless if all six completed) have a score of 5 or 6 then SIQRISK=1, else if at least 5 of the critical items have a score of 0-4 then SIQRISK=0","0;1","0=No; 1= Yes",""
 "session_id","String","20","Recommended","session ID/screening ID","","","screeningid"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_name"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","form_name"
 "site","String","101","Recommended","Site","","Study Site","site_uid"
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visit_name"
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","sibqst,tstst"

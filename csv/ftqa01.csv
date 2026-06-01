@@ -61,3 +61,4 @@
 "alco_relative02","Integer","","Recommended","Indicate whether you believe any of the following biological relatives have had problems with alcohol or have been alcoholics - Your biological mother","0::4;9","0 = No; 1 = Yes; 2 = Maybe; 3 = I do not know; 4 = I do not know by biological mother; 9 = Not applicable",""
 "alco_relative03","Integer","","Recommended","Indicate whether you believe any of the following biological relatives have had problems with alcohol or have been alcoholics - Your biological father","0::4;9","0 = No; 1 = Yes; 2 = Maybe; 3 = I do not know; 4 = I do not know by biological father; 9 = Not applicable",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
+"bl_fam_knowledge","Integer","","Recommended","If you were adopted, do you have knowledge of any members your biological family and their possible substance use history?","0;1","0=No; 1=Yes",""

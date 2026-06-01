@@ -534,7 +534,7 @@
 "diagf","Integer","","Recommended","Dysthymia Diagnosis Clinical","0;1","0=No; 1=Yes",""
 "w_dysthy","Integer","","Recommended","Dysthymia Diagnosis Web","0;1","0=No; 1=Yes",""
 "errdiagf","Integer","","Recommended","Dysthymia Diagnosis Changed","-1::1","0=No change (DXS remained the same); 1 = changed from ""1"" to ""0""; -1= changed from ""0"" to ""1""",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "baseline_a_002","String","100","Recommended","Interview Start Time:","","","ministm"
 "minietm","String","10","Recommended","Time interview ended","","",""
 "majdepep","Integer","","Recommended","Major Depressive Episode","0::3","0=None; 1=Current 2 weeks; 2=Past; 3=Recurrent","a_mini_mdepisode,major_depressive_episode,mini_depress_epi_tf,mini_mde_a7a,mini_mde_cpr,mini_sum_a"

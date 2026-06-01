@@ -123,7 +123,7 @@
 "scid1_ptsddx_pastvalid_t1","Integer","","Recommended","Count of valid diagnostic criteria groups met on Past PTSD SCID, first index event","0::7","","scid1_ptsddx_pastvalid_t2,scid1_ptsddx_pastvalid_t4,scid2_ptsddx_pastvalid_t4"
 "scid1_ptsddx_pastcount_t1","Integer","","Recommended","Number of criteria endorsed on Past PTSD SCID, first index event","0::7","","scid1_ptsddx_pastcount_t2,scid1_ptsddx_pastcount_t4,scid2_ptsddx_pastcount_t4"
 "scid1_ptsd_pastdx_t1","Integer","","Recommended","Past PTSD dx on SCID (first index event)","1;3","1= No; 3= Yes","scid1_ptsd_pastdx_t4,scid2_ptsd_pastdx_t4"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "scid1_ptsd_gpast_t4","Integer","","Recommended","Lifetime: Significant distress/impairment in social, occupational, or other important areas of functioning","","","scid2_ptsd_gpast_t4"
 "scid2_ptsd11_t2","Integer","","Recommended","Second Trauma: With dissociative symptoms?","0::4","0= No; 1= Depersonalization; 2= Derealization; 3= Both; 4= Declined to Answer ","scid2_ptsd11_t4"
 "scid2_ptsd8_t2","Integer","","Recommended","Second Trauma: Clinicial description of trauma","1::6","1= Combat; 2= MST; 3= Combat and MST; 4= Other Military; 5= Civilan Trauma; 6= No trauma or Missing                                ","scid2_ptsd8_t4"

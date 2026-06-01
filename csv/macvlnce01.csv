@@ -69,7 +69,7 @@
 "mvra18","String","300","Recommended","For specified violent incident: How did the incident end?","","",""
 "mvra19","String","300","Recommended","For specified violent incident: Why do you think this dispute didn't get any worse?","","",""
 "mvra20","Integer","","Recommended","Interviewer: Subject's violence appears legally justified (acted in self-defense)","0;1;98","0 = No; 1 = Yes; 98 = Don't know",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "violentx","String","100","Recommended","Violent Behavior Describe","","",""
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data",""
 "mvra21","Integer","","Recommended","Were these violent thoughts intrusive (Did they feel like they were coming from outside of yourself?)","0;1;98","0 = No; 1 = Yes; 98 = Don't know",""

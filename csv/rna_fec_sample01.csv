@@ -12,7 +12,7 @@
 "ann_self_rep_inc","Integer","","Recommended","Self-reported annual income","1::7","1 = $0-9,999/year; 2 = $10,000-19,999/year; 3 = $20,000-29,999/year; 4 = $30,000-39,999/year; 5 = $40,000-49,999/year; 6 = $50,000-59,999/year; 7 = Greater than $60,000/year",""
 "a18c_1_binary","Integer","","Recommended","Binary self-reported annual income","1;2","1 = Less than $50,000/year; 2 = More than $50,000/year",""
 "demo_mgba17","Integer","","Recommended","How do you define your ethnicity?","1::4","1= Hispanic or Latin/a/o/x/e; 2= Not Hispanic or Latin/a/o/x/e; 3= Another; 4= Do not wish to respond",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "percent_cannabis_days","Integer","","Recommended","Percentage of days cannabis used","0::100","",""
 "sum_tot_ncan_flw_g","Float","","Recommended","Total grams of non-study cannabis flower used","","1 unit = 1 gram",""
 "dd_percent_alc_days","String","4","Recommended","Percentage of days used alcohol","","Percentage of alcohol use days (0-100%) self-reported via daily diary prior to sample collection; (Number of alcohol use days/Number of daily diaries completed)",""

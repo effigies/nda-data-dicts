@@ -5,7 +5,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","visitdate"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "respond","Integer","","Required","Respondent","1::7;999","1 = Parent; 2 = Teacher; 3=Self; 4= Other; 5= Significant other; 6 = Parent 1; 7 = Parent 2; 999 = Not available","form_ext"
-"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "bash_total","Integer","","Recommended","BASH Total Score","5::222","","bash_total_score"
 "bash_1","Integer","","Recommended","My friends would think I was crazy if I saw a therapist","1::6;-99","1 = Strongly Disagree; 2 = Disagree; 3 = Slightly Disagree; 4 = Slightly Agree; 5 = Agree; 6 = Strongly Agree; -99 = Missing",""
 "bash_2","Integer","","Recommended","If I had a problem, my friends could help me more than a therapist","1::6;-99","1 = Strongly Disagree; 2 = Disagree; 3 = Slightly Disagree; 4 = Slightly Agree; 5 = Agree; 6 = Strongly Agree; -99 = Missing",""

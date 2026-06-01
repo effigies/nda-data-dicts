@@ -280,7 +280,7 @@
 "congruency_effect_accuracy","Float","","Recommended","Difference in accuracy between congruent and incongruent trials (congruent accuracy - incongruent accuracy)","-1::1;999","999=Unknown",""
 "congruenct_eff_lat_outli_remov","Float","","Recommended","Difference in latency between congruent and incongruent trials (incongruent latency - congruent latency) after removing outliers (trials with latency greater than 3 standard deviations from the mean)","-1::1;999","999=Unknown",""
 "congruenct_eff_acc_outli_remov","Float","","Recommended","Difference in accuracy between congruent and incongruent trials (congruent accuracy - incongruent accuracy) after removing outliers (trials with latency greater than 3 standard deviations from the mean)","-1::1;999","999=Unknown",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "total_num_trials","Integer","","Recommended","Total number of trials in the stroop task the participant saw that were able to be scored","","999=Unknown",""
 "num_trials_outliers_removed","Integer","","Recommended","Total number of trials after trials with latency greater than 3 standard deviations from the mean were removed","","999=Unknown",""
 "num_congruent_trials","Integer","","Recommended","How many of the total scorable trials were congruent","","999=Unknown",""

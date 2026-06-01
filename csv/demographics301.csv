@@ -80,7 +80,7 @@
 "age_informal_adopt","Integer","","Recommended","Were you adopted (informally), that is, raised by someone other than your biological parents? If yes, how old were you when you were adopted?","","",""
 "parent_marital_child","Integer","","Recommended","Were your parents married (or living together as partners) when you were born or at any time when you were growing up?","0;1","0=No; 1=Yes",""
 "ace_17","Integer","","Recommended","Were your parents ever separated or divorced?","0::1; 999","0=No; 1=Yes; 999=Refused",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "age_parents_sep","Integer","","Recommended","Did your parents ever separate or divorce? If yes, how old were you when this occurred?","","",""
 "parent_argue_5","Integer","","Recommended","How often did your parents argue when you were 5 years old?","0::3; 8","0=Never; 1=Some of the time; 2=Most of the time; 3=All of the time; 8=Do not know",""
 "parent_argue_10","Integer","","Recommended","How often did your parents argue when you were 10 years old?","0::3; 8","0=Never; 1=Some of the time; 2=Most of the time; 3=All of the time; 8=Do not know",""

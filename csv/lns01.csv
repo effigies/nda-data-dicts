@@ -42,7 +42,7 @@
 "lns_exp3b_29","Integer","","Recommended","S - 4 - J - 9 - A - 8 - U - 6","0;1","0= Incorrect; 1= Correct",""
 "lns_exp3b_30","Integer","","Recommended","4 - S - 1 - U - 3 - M - 7 - C","0;1","0= Incorrect; 1= Correct",""
 "lns_exp3b_raw","Integer","","Recommended","Experiment 3B - Raw Score","0::30","Number of correct items lns_exp3b_1 through lns_exp3b_30",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "lns_exp1_9","Integer","","Recommended","7 - N - 4 - L","0;1","0= Incorrect; 1= Correct",""
 "lns_exp1_10","Integer","","Recommended","8 - D - 6 - G - 1","0;1","0= Incorrect; 1= Correct",""
 "lns_exp1_11","Integer","","Recommended","K - 2 - C - 7 - S","0;1","0= Incorrect; 1= Correct",""

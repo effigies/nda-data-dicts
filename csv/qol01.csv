@@ -114,7 +114,7 @@ For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' c
 being '002', and FSEQNO of '3' can be thought of as being '003'.
 The first digit of FSEQNO relates to the corresponding ENF sequence number at that visit and the third
 digit relates to the specific adjudicator who completed the adjudication form.",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","vers"
 "daysrz","Integer","","Recommended","days since randomization","","","iwqa0b"
 "bliwqlpf","Float","","Recommended","Baseline IWQOL Physical Function Score","0::100","",""
 "iwql_pf","Float","","Recommended","IWQOL-Physical Function Score","0::100","",""

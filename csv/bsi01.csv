@@ -277,7 +277,7 @@
 "bsi_7d_05","Integer","","Recommended","DURING THE PAST 7 DAYS, how much were you distressed by... Trouble remembering things.","0::4","0= Not at all; 1= A little bit; 2= Moderately; 3= Quite a bit; 4= Extremely",""
 "bsi_7d_06","Integer","","Recommended","DURING THE PAST 7 DAYS, how much were you distressed by... Feeling easily annoyed or irritated.","0::4","0= Not at all; 1= A little bit; 2= Moderately; 3= Quite a bit; 4= Extremely",""
 "bsi_7d_07","Integer","","Recommended","DURING THE PAST 7 DAYS, how much were you distressed by... Pains in the heart or chest.","0::4","0= Not at all; 1= A little bit; 2= Moderately; 3= Quite a bit; 4= Extremely",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "bsi_month8","Integer","","Recommended","In the past 4 weeks, how much were you distressed by feeling blue?","0::4","0= Not at all; 1= A little bit; 2= Moderately; 3= Quite a bit; 4= Extremely",""
 "bsi_month9","Integer","","Recommended","In the past 4 weeks, how much were you distressed by suddenly feeling scared for no reason?","0::4","0= Not at all; 1= A little bit; 2= Moderately; 3= Quite a bit; 4= Extremely",""
 "bsi_month10","Integer","","Recommended","In the past 4 weeks, how much were you distressed by trouble getting your breath?","0::4","0= Not at all; 1= A little bit; 2= Moderately; 3= Quite a bit; 4= Extremely",""

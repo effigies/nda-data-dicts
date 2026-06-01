@@ -116,7 +116,7 @@
 "upps_p59","Integer","","Recommended","I am surprised at the things I do while in a great mood.","1::4;-555; 999","4=Agree Strongly; 3=Agree Some; 2=Disagree Some; 1=Disagree Strongly; -555= Prefer not to answer; 999= Missing","40858,upps-p_59,upps0059,upps59,uppspum59"
 "upps_negu","Float","","Recommended","Negative Urgency score","","","neg_urgency_score,phenx_upps-p_negativeurgency,supps_negurg_rs,upps_neg,upps_neg_urgency,upps_p_child_score_2"
 "upps_posu","Float","","Recommended","Positive Urgency score","","","phenx_upps-p_positiveurgency,pos_urgency_score,pum_total,upps_p_child_score_5,upps_pos,upps_pos_urgency"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "upps_tot","Integer","","Recommended","Total Impulsivity score","","","supps_impulsive_rs"
 "fspgod","String","70","Recommended","Subject's gender OTHER describe","","",""
 "site","String","101","Recommended","Site","","Study Site","siteid"

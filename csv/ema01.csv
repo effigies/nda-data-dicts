@@ -55,7 +55,7 @@
 "ema_13b_negimport","Integer","","Recommended","How important was the negative event you experienced in the past hour?","0::4; 888; 999","0=Not at all; 1=Slightly ; 2=Moderately; 3=Very ; 4=Extremely; 888=Not Applicable ; 999=Missing",""
 "ema_13c_negdesc","String","200","Recommended","Please briefly describe the negative event in your own words.","","888=Not Applicable; 999=Missing",""
 "ema_14_optional","String","500","Recommended","OPTIONAL: Please briefly describe in your own words what you were doing and how you felt at the time of ping?","","888=Not Applicable; 999=Missing",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "phenotype","String","400","Required","Phenotype/diagnosis for the subject","","e.g., Healthy, Control, Suicidal","group"
 "phenotype_description","String","4000","Required","Description of the phenotype for the subject","","e.g., N/A (Healthy), Attempted suicide","subgroup"
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing","timestamp"

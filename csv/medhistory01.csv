@@ -248,7 +248,7 @@ For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' c
 being '002', and FSEQNO of '3' can be thought of as being '003'.
 The first digit of FSEQNO relates to the corresponding ENF sequence number at that visit and the third
 digit relates to the specific adjudicator who completed the adjudication form.",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_name,vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","form_name,vers"
 "baseline_k_006","Integer","","Recommended","Stroke","0;1; -888; -999","0=No; 1=Yes; -888=Not Applicable; -999=Missing;","mdga1,med_006,mhxa1a,neuro_psych_stroke,stroke_tia,stroke_yn"
 "mhxa1b","Integer","","Recommended","Date crisis resolved (physician determination):","","","mdga2_a"
 "mhxa1c","Integer","","Recommended","Coronary artery disease","0;1; -9;-900;-300","0=No; 1=Yes; -9 =NK; -900 = Missing; -300 = N/A","mdga3,med_010"
@@ -615,7 +615,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "pet003","String","150","Recommended","CPKPET comments","","",""
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits","visit_number_med_hx"
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","rater_med_hx"
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
 "panss_115","String","500","Recommended","G1.Do you have any medical illness or disease?","","",""
 "rev_immunomedallergymed","String","255","Recommended","Medication Allergies: Medications","","",""

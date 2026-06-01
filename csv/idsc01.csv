@@ -48,7 +48,7 @@
 "phase","Integer","","Recommended","Phase","","9 =follow up",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14","week1"
 "site","String","101","Recommended","Site","","Study Site","siteid"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "sleepsum","Integer","","Recommended","Sleep variable summary","","There are times when I feel ""empty"" inside.",""
 "vis_type","Integer","","Recommended","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","phone"
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

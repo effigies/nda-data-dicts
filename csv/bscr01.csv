@@ -48,7 +48,7 @@
 "neg_scr_count","Float","","Recommended","Negative Stimuli: SCR Count","","",""
 "neg_freq","Float","","Recommended","Negative Stimuli: Frequency ","","",""
 "ageyears","Integer","","Recommended","Age in years","","","subject_age"
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","","subject_race"
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","","subject_race"
 "midusii_friend_support","Integer","","Recommended","MIDUS Friend Support","4::16","sum","relationship_quality_assessment"
 "subject_diagnosis","String","300","Recommended","Structured Clinical Interview for DSM-5 (SCID) diagnosis for ANXIOUS GROUP ONLY","","Examples are Social Anxiety Disorder, Depression, PTSD, Other Anxiety Disorder, etc",""
 "social_support_rating","Integer","","Recommended","Subject rating of how much social support is provided by selected figure on a daily basis","1::10","1 = No social support; 10 = A lot of social support",""

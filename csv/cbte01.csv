@@ -30,7 +30,7 @@
 "comorbidity_2","Integer","","Recommended","Any Co-morbidity (0,1,2+)","0::2","0 = no co-morbidity; 1 = one co-morbidity; 2 = two or more co-morbidities",""
 "anyint_2","Integer","","Recommended","Any Internalizing Diagnoses","0;1","0 = no; 1 = yes",""
 "anyext_2","Integer","","Recommended","Any Externalizing Diagnoses","0;1","0 = no; 1 = yes",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "imputation","Integer","","Recommended","Indicator noting imputed data set number ","1::20","",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
 "site","String","101","Recommended","Site","","Study Site",""

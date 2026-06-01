@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "session","Integer","","Recommended","Session","","",""
 "testduration","Float","","Recommended","Seconds Taken To Complete Test","","",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "country_origin","String","100","Recommended","Country of Origin","","",""
 "state_res","String","14","Recommended","State of residence","","",""
 "belief1_covid_risk","Float","","Recommended","Agreement with statement 1: COVID-19 is a major threat to the health of the population in my country","0::10","0=Strongly disagree; 10=Strongly agree",""

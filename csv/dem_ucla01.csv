@@ -9,7 +9,7 @@
 "demo_countlivehome","Integer","","Recommended","How many people live in your house?","0::12","","Demo_countLiveHome,house"
 "demo_countliveover21","Integer","","Recommended","Number of adults over 21 yrs:","0::12","","Demo_countLiveOver21,adults"
 "demo_countliveless21","Integer","","Recommended","Number of children less than 21 yrs:","0::12","","Demo_countLiveLess21,numchild"
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
 "ethnic_group","String","255","Recommended","Ethnic group","","",""
 "mother_ethnicity","String","30","Recommended","Mother ethnicity (choices are Hispanic/Latino or Not Hispanic/Latino)","Hispanic or Latino;Not Hispanic or Latino;Not Provided","","Demo_ethMother"

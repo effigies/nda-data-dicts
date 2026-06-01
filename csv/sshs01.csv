@@ -46,7 +46,7 @@
 "csleep27","Integer","","Recommended","When does your body start to tell you it's time for bed (even if you ignore it) Between:","1::5","1 = 8:00 and 9:00 p.m.; 2 = 9:00 and 10:15 p.m.; 3 = 10:15 p.m. and 12:30 a.m.; 4 = 12:30 and 1:45 a.m.; 5 = 1:45 and 3:00 a.m.",""
 "csleep28","Integer","","Recommended","Say you had to get up at 6:00 a.m. every morning: What would it be like?","1::4","1 = Awful; 2 = Not so great; 3 = Okay (if I have to); 4 = Fine, no problem",""
 "csleep29","Integer","","Recommended","When you wake up in the morning how long does it take for you to be totally ""with it""?","1::4","1 = 0 to 10 minutes; 2 = 11 to 20 minutes; 3 = 21 to 40 minutes; 4 = More than 40 minutes",""
-"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "psqi_06","Integer","","Recommended","During the past month, how would you rate your sleep quality overall?","0::3;-99;77;88;444;777;888; 7777; 9999","0= Very good; 1= Fairly good; 2= Fairly bad; 3= Very bad; -99= N/A; 77= Refused; 88= Missing; 444= Do not wish to respond; 888= Skipped; 777= Condition Skipped; 7777 = participant should have replied but did not (accidental or intentional skip); 9999 = No data (participant did not see/complete that scale)",""
 "sleepq8a_h","Integer","","Recommended","On school nights, I go to bed at: (hour)","1::12","",""
 "sleepq8a_m","Integer","","Recommended","On school nights, I go to bed at: (minute)","0::59","",""

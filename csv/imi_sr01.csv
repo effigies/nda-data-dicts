@@ -15,7 +15,7 @@
 "imi_effort_total","Integer","","Recommended","Intrinsic Motivation Inventory: Effort","","",""
 "imi_pressure","Integer","","Recommended","Intrinsic Motivation Inventory: Pressure and Tension","","",""
 "imi_relatedness","Integer","","Recommended","Intrinsic Motivation Inventory: Relatedness","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "comments","String","4000","Recommended","Comments about assessment","","",""
 "imi_q1","Integer","","Recommended","This activity was fun to do.","1::7","1= Strongly Disagree; 7= Strongly Agree",""
 "imi_q2","Integer","","Recommended","It was important for me to do well at this task.","1::7","1= Strongly Disagree; 7= Strongly Agree",""

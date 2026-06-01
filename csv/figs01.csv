@@ -699,7 +699,7 @@
 "subs_law","Integer","","Recommended","Conflict with law","0;1;9","0=No; 1=Yes; 9=Missing",""
 "subs_health","Integer","","Recommended","Health problems (liver disease, pancreas problems)","0;1;9","0=No; 1=Yes; 9=Missing",""
 "subs_gothlp","Integer","","Recommended","Take part in self-assistance group","0;1;9","0=No; 1=Yes; 9=Missing",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "familybranch","Integer","","Recommended","Family branch","1;2","1=Maternal; 2=Paternal",""
 "subj_sibtype","Integer","","Recommended","Relationship of Child to Proband","1::5;9","1=Sibling; 2=Maternal half-sibling; 3=Paternal half-sibling; 4=Maternal cousin; 5=Paternal cousin; 9=Missing",""
 "subj_causedeath","Integer","","Recommended","Cause of death","0::4;9","0=Alive; 1=Natural death; 2=Accident; 3=Murder; 4=Suicide; 9=Unknown",""

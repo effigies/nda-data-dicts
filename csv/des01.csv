@@ -39,7 +39,7 @@
 "site","String","101","Recommended","Site","","Study Site",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing","timepoint"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "thinknothing","Integer","","Recommended","I find myself staring into space and thinking of nothing.","0::4","0=not at all; 1=once or twice; 2=almost every day; 3=about once a day; 4=more than once a day",""
 "strangeunreal","Integer","","Recommended","People, objects, or the world around me see strange or unreal.","0::4","0=not at all; 1=once or twice; 2=almost every day; 3=about once a day; 4=more than once a day",""
 "norememberdid","Integer","","Recommended","I find that I did things that I do not remember doing.","0::4","0=not at all; 1=once or twice; 2=almost every day; 3=about once a day; 4=more than once a day",""

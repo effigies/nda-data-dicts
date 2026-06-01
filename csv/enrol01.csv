@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","comments,gender"
 "daysrz","Integer","","Recommended","days since randomization","","","studyday,visitdt"
 "certcode","Integer","","Recommended","stepbd certification code","","",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "agege15","Integer","","Recommended","current age ge 15 years","0;1;-7","0=No; 1=Yes; -7=Refused",""
 "inmdd","Integer","","Recommended","IN: meets DSM-IV criteria","0;1;-7;-9","0=No; 1=Yes; -9=unknown; -7=refused","dsmivcri"
 "ptcon","Integer","","Recommended","Patient consented","0;1","0=No; 1=Yes","cnsnt,consent"
@@ -70,7 +70,7 @@
 "crossday","Integer","","Recommended","Days since MPH trial randomization (CROSSDAY = Guanfacine Enrollment Date - MPH Randomization Date)","","Derived variable, not on CRF
 Only applicable to those subjects that participated in both the Randomized MPH Trial and the Guanfacine Trial.  Data are blank for all other subjects.",""
 "session_id","String","20","Recommended","session ID/screening ID","","","screeningid"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_name"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","form_name"
 "randrdy","Integer","","Recommended","Is subject ready for randomization?","0;1","0=No; 1=Yes",""
 "ran004","String","10","Recommended","Randomization number/coding","","","rndnum"
 "date_updated","Date","","Recommended","Date record updated","","","edit_date"

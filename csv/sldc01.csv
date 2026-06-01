@@ -237,7 +237,7 @@
 "sldc230","Integer","","Recommended","Suicidal Behavior: Attempt","0::2;-9999","0= No information;1= No;2= Yes; -9999= Missing","ksads5_suicide_attempt,ksads_sui_att,suic3"
 "sldc231","Integer","","Recommended","Reliability of Information","0::2;-9999","0=Poor; 1=Fair; 2=Good; -9999=Missing","inforeliability,ksads5_reliable_info,ksads_rel,reliab"
 "age_1st_hosp","Integer","","Recommended","Age at first psychiatric hospitalization (years)","","","ksads5_psych_hosp_age,ksads_tx_hist_hosp_age,sldc225,th2a"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "schizoaffect_disorder_depress","Integer","","Recommended","current diagnosis of schizoaffective disorder depressed.","0 :: 5","0 = No information; 1 = Not present; 2 = Probable; 4 = Partial remission; 3 = Definite; 5=Possible","scid_predx13"
 "agoraphobia","Integer","","Recommended","current diagnosis of agoraphobia.","0 :: 5","0 = No information; 1 = Not present; 2 = Probable; 4 = Partial remission; 3 = Definite; 5=Possible","predx22"
 "p25i4","Integer","","Recommended","Agoraphobia - Age at onset of current episode (months)","","","ageon22"

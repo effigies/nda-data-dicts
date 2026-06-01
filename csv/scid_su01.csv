@@ -183,7 +183,7 @@
 "sciddx_022","Integer","","Recommended","Other Lifetime","1::3;-999","1=Absent; 2=Abuse; 3=Dependent; -999=Don't Know/Missing Data",""
 "sciddx_023","Integer","","Recommended","Other Current","1::3;-999","1=Absent; 2=Abuse; 3=Dependent; -999=Don't Know/Missing Data",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","s2cid_summary"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "suala2","Integer","","Recommended","Persistent desire OR unsuccessful effort to cut down","0::3;50;999","0=Inadequate information; 1=Absent or false; 2=Sub-threshold; 3=Threshold or true; 50= Persistent desire or unsuccessful efforts to cut down or control drug use (2+ times tried to stop/cut down); 999= Not assessed","scidv_sud3_c"
 "scid_47_1","Integer","","Recommended","Use continued despite knowledge of problem","-1; 1; 2; 3;50;999","1=Absent; 2=Subthreshold; 3=Threshold; -1=Unknown;  50= Creates or exacerbates psychological or physical problems during use (different from withdrawal) AND person continues to use drug anyway; 999= Inadequate information","scidv_sud10_c"
 "scid_50_1","Integer","","Recommended","At least 3 dependence items coded 3 and occurred in same 12 month period","1; 3","1=False; 3=True",""

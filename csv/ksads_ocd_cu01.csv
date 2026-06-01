@@ -71,7 +71,7 @@
 "ksads_cu_total_2b","Integer","","Recommended","Callous/Unemotional Total Symptoms Past Best","","","k2sads_cu_total_2b,k2sads_cu_total_2c,k2sads_cu_total_2p,ksads_cu_total_2c,ksads_cu_total_2p"
 "ksads_dx_cu_past","Integer","","Recommended","Callous/Unemotional Diagnosis Past","0;1;-99;88;77","0= No ; 1= Yes ;-99 N/A ; 88=  Missing ; 77= Refused","k2sads_dx_cu_past,smsp_conduct_19"
 "ksads_dx_cunos_past","Integer","","Recommended","CU NOS Diagnosis Criteria Met Past","0;1;-99;88;77","0= No ; 1= Yes ;-99 N/A ; 88=  Missing ; 77= Refused","k2sads_dx_cunos_past"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "site","String","101","Recommended","Site","","Study Site",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

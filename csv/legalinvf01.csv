@@ -42,4 +42,4 @@
 "lifa13a","Integer","","Recommended","How many times have you been admitted to rehabilitation facility/residential treatment facility (RTF)?","","","lifc13a,lifp13a,lifs13a"
 "lifa13b_co","Integer","","Recommended","Who ordered the admission to the rehabilitation facility/residential treatment facility (RTF)?","1;2","1= Court Ordered; 2= Voluntarily Admitted","lifc13b_co,lifp13b_co,lifs13b_co"
 "lifa13g_spec","String","255","Recommended","List all reasons for which you have been admitted to the  rehabilitation facility/residential treatment facility (RTF)?","","","lifc13g_spec,lifp13g_spec,lifs13g_spec"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""

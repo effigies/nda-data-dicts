@@ -6,7 +6,7 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "session","Integer","","Recommended","Session","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","feeg_derived_results_version"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","feeg_derived_results_version"
 "feeg_fu_good","Integer","","Recommended","Faces Upright Trials Good","0::71; -999","-999= Invalid",""
 "feeg_fi_good","Integer","","Recommended","Faces Inverted Trials Good","0::72;-999","-999= Invalid",""
 "feeg_hu_good","Integer","","Recommended","Houses Upright Trials Good","0::72;-999","-999= Invalid",""

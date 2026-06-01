@@ -15,7 +15,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "asxa3","Integer","","Recommended","Can you easily get and keep an erection?","1::6; 9","1=extremely strong; 2=very strong; 3=somewhat strong; 4=somewhat weak; 5=very weak; 6=no sex drive; 9=refused","asex_3a,erect"
 "asxa4","Integer","","Recommended","How easily can you reach an orgasm?","1::6; 9","1=extremely strong; 2=very strong; 3=somewhat strong; 4=somewhat weak; 5=very weak; 6=no sex drive; 9=refused","asex_4,rchorg"
 "asxa5","Integer","","Recommended","Are your orgasms satisfying?","1::6; 9","1=extremely strong; 2=very strong; 3=somewhat strong; 4=somewhat weak; 5=very weak; 6=no sex drive; 9=refused","asex_5,satisorg"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","vers"
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","date"
 "site","String","101","Recommended","Site","","Study Site","siteid"
 "phase","Integer","","Recommended","Phase","","9 =follow up",""

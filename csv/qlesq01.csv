@@ -36,7 +36,7 @@
 "qlesq_13a","Integer","","Recommended","Which factor(s) is associated with a lack of satisfaction from: vision?","1;2","1=Your vision in terms of ability to do work; 2=Your vision in terms of ability to do hobbies","visionlif"
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","qlescmnt"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","form"
 "qlesrawscr","Float","","Recommended","Raw Score from items 1-14:","","",""
 "qlesmax","Integer","","Recommended","% Maximum:","","","qlesq_percent_max"
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","finished,qlesqsf_complete"

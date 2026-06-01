@@ -33,7 +33,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "visit_year","Integer","","Recommended","Year of visit","","",""
 "asrs_int","Integer","","Recommended","ASRS Inattentive Sum (sum of sradhd_finaldetail, sradhd_organize, sradhd_remappointment, sradhd_avoidstart, sradhd_diffproj, sradhd_repwork, sradhd_diffconc, sradhd_misplace, sradhd_distract)","0::36","","adhdin"
 "asrs_hyp","Integer","","Recommended","ASRS Hyperactive Sum (sum of sradhd_fidget, sradhd_overactive, sradhd_meeting, sradhd_restl, sradhd_relax, sradhd_soctalk, sradhd_finsent, sradhd_turn, sradhd_inter)","0::36","","adhdhyp"

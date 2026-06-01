@@ -33,7 +33,7 @@
 "ahand_t2","Float","","Recommended","Assembly trial two","","",""
 "ahand_t3","Float","","Recommended","Assembly trial three","","",""
 "ahand_ta","Float","","Recommended","Assembly trial average","","","peg_assembly_60s"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "pptq01dh","Float","","Recommended","Dominant Hand Trial 1","0.0::99.9","",""
 "pptq01nd","Float","","Recommended","Non Dominant Hand Trial 1","0.0::99.9","",""
 "pptq1drh","Float","","Recommended","Drops, Dominant Hand Trial 1","0.0::99.9","",""

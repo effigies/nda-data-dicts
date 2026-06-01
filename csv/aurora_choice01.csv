@@ -15,7 +15,7 @@
 "fneexperesp_cresp","Float","","Recommended","correct response to the experimental response task","","","crt_correct,responsecorrect"
 "crt_dwell","Float","","Recommended","Length of Time Response Key Depressed (ms)","","",""
 "respondedwith","String","25","Recommended","Responded via Keyb/Touch/Mouse","","keyup=Keyboard; mouseup=Mouse (mouseup); pointerup=Mouse (pointerup); timeout=Timed Out; touchend=Touchscreen","crt_state"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "battery_id","Integer","","Recommended","Identifier of Battery","","","crt_batteryid"
 "session_id","String","20","Recommended","session ID/screening ID","","","crt_sittingid"
 "testid","Integer","","Recommended","Identifier of Current Test","","","crt_testid"

@@ -9,7 +9,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "subject_description","String","4000","Recommended","Subject related information (e.g the affection, phenotype, disease information, etc.).","","","label"
 "valid_code","String","2","Recommended","Notes","C; F; S; V","C=concern; F=flag; S=skip; V=valid",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","pmat24_a_form"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","pmat24_a_form"
 "pmat24_a_cr","Integer","","Recommended","PMAT Total Correct Responses","0::24","","pmat24_a.pmat24_a_cr"
 "pmat24_a_si","Integer","","Recommended","Items not presented because maximum errors allowed reached","0::19","",""
 "pmat24_a_rtcr","Float","","Recommended","PMAT Median Response Time for Correct Responses (ms)","","","pmat24_a.pmat24_a_rtcr"

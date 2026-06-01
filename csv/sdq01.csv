@@ -98,7 +98,7 @@
 "sdq_06","Integer","","Recommended","Do the difficulties put a burden on you or the family as a whole?","1::5;666;777","5 = Always; 4 = Most of the time; 3 = Sometimes; 2 = Rarely; 1 = Never; 666=Missing; 777=Not applicable",""
 "sdq_07","Integer","","Recommended","Do the difficulties interfere with your child?s home life?","1::5;666;777","5 = Always; 4 = Most of the time; 3 = Sometimes; 2 = Rarely; 1 = Never; 666=Missing; 777=Not applicable",""
 "year_mta","Integer","","Recommended","Year in study","","","visit_year,visit_year�"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "comqother","String","255","Recommended","Respondent - Other (text)","","",""
 "sdq_c_8","Integer","","Recommended","I worried/worry a lot","0::2;999","0 = Not True; 1 = Somewhat True; 2 = Certainly True; 999 = N/A or Prefer Not to Answer",""
 "sdq_c_9","Integer","","Recommended","I was/am helpful if someone was hurt, upset or feeling ill","0::2;999","0 = Not True; 1 = Somewhat True; 2 = Certainly True; 999 = N/A or Prefer Not to Answer",""

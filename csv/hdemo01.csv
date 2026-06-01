@@ -10,7 +10,7 @@
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","dmg_interval,frmcomp"
 "dmg_referral","Integer","","Recommended","referral source","1::11;99","1=School; 2=Hospital - Pediatric Psychiatry; 3=Hospital - Emergency Room; 4=Hospital - Other Clinic; 5=Other Treatment Center; 6=Friend; 7=Radio; 8=Ad in Paper; 9=Other;10= poster/flyer; 11=Internet; 99=DK",""
 "refothers","String","50","Recommended","Referral source: specify","","","dmg_otherref"
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","","dmg_race"
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","","dmg_race"
 "otherrace","String","200","Recommended","specify other race","","The following questions are about you or the child's family.","dmg_othrrace"
 "birthlocationsp","String","50","Recommended","Birth location specify","","","dmg_brthplce"
 "ustime","String","100","Recommended","How long you lived in US, years","","","dmg_yrsinusa"

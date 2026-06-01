@@ -86,7 +86,7 @@
 "kscd1s_2_2_2_v2_v3","Integer","","Recommended","Highly Restricted, Fixated Interests that are Abnormal in Intensity or Focus - Current","0::3","0 = No information; 1 = Not present; 2 = Subthreshold; 3 = Threshold",""
 "kscd1pas_2_2_2_v2_v3","Integer","","Recommended","Highly Restricted, Fixated Interests that are Abnormal in Intensity or Focus - MSP","0::3","0 = No information; 1 = Not present; 2 = Subthreshold; 3 = Threshold",""
 "kscd1s_2_2_2_2_v2_v3","Integer","","Recommended","Deficits in Nonverbal Communicative Behaviors Used for Social Interaction - Current","0::3","0 = No information; 1 = Not present; 2 = Subthreshold; 3 = Threshold",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "supp4_pc_relationships","Integer","","Recommended","Deficits in developing and maintaining relationships, appropriate to developmental level: Parent - Current","0::3","0=No Information; 1=Not Present; 2=Subthreshold; 3=Threshold",""
 "supp4_asdspec_1e","Integer","","Recommended","Evidence of Autism Spectrum Disorders: Specify (check all that apply) - Associated with a known medical or genetic condition or environmental factor","0;1","0=Unchecked; 1=Checked",""
 "supp4_asdspec_1f","Integer","","Recommended","Evidence of Autism Spectrum Disorders: Specify (check all that apply) - Associated with another neurodevelopmental, mental, or behavioral disorder","0;1","0=Unchecked; 1=Checked",""

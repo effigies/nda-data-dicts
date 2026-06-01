@@ -79,7 +79,7 @@
 "famconfhb23","Integer","","Recommended","How bad was/ were the disagreement(s)? After-school activities","1::5","1= Extremely bad; 2= Very bad; 3= Somewhat bad; 4= A little bad; 5= Not at all bad",""
 "famconfhb24","Integer","","Recommended","How bad was/ were the disagreement(s)? Where to go for school breaks","1::5","1= Extremely bad; 2= Very bad; 3= Somewhat bad; 4= A little bad; 5= Not at all bad",""
 "famconfhb25","Integer","","Recommended","How bad was/ were the disagreement(s)? Taking care of pet(s)","1::5","1= Extremely bad; 2= Very bad; 3= Somewhat bad; 4= A little bad; 5= Not at all bad",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "mess_disagree_severity","Integer","","Recommended","How bad was/ were the disagreement(s)? Messy room","1::5","1= Extremely bad; 2= Very bad; 3= Somewhat bad; 4= A little bad; 5= Not at all bad",""
 "behavior_disagree_freq","Integer","","Recommended","How often have you disagreed? Overall behavior","1::6","1= More than once a day; 2= Every day; 3= 5 or 6 times in last week; 4= 3 or 4 times in last week; 5= Once or twice in last month; 6= Never last week, once last month",""
 "behavior_disagree_severity","Integer","","Recommended","How bad was/ were the disagreement(s)? Overall behavior","1::5","1= Extremely bad; 2= Very bad; 3= Somewhat bad; 4= A little bad; 5= Not at all bad",""

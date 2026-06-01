@@ -92,7 +92,7 @@
 "ksads_ptsd5_total_2b","Integer","","Recommended","PTSD Total DSM 5 Symptoms Past (Parent/Child/Clinician)","","","s2cid_ptsd5_total_2,scid_ptsd5_total_2"
 "ksads_dx_ptsd5_past","Integer","","Recommended","PTSD DSM 5 Diagnosis Criteria Met Past","0;1;-99;88;77","0= No; 1= Yes ; -99= N/A ; 88=  Missing ; 77= Refused","s2cid_dx_ptsd5_past,scid_dx_ptsd5_past"
 "ksads_dx_ptnos_past","Integer","","Recommended","PTSD NOS Diagnosis Criteria Met Past","0;1;-99;88;77","0= No; 1= Yes ; -99= N/A ; 88=  Missing ; 77= Refused","s2cid_dx_ptnos_past,scid_dx_ptnos_past"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "scid_event_5","String","500","Recommended","SCID PTSD Please specify other event 5","","","scid_ptsd5_t1"
 "scid_event_6","String","500","Recommended","SCID PTSD Please specify other event 6","","","scid_ptsd6_t1"
 "scid_event_7","String","500","Recommended","SCID PTSD Please specify other event 7","","","scid_ptsd7_t1"

@@ -162,4 +162,4 @@
 "q13_msp_manic_offset","String","50","Recommended","Mood Lability - Most severe past mania/hypomania period rated: Offset","","","q013_msp_manic_offset"
 "comments","String","4000","Recommended","Comments about assessment","","",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""

@@ -60,7 +60,7 @@
 "age_ons","Integer","","Recommended","age of onset","","","p_c_adhdrs_onset"
 "p_c_adhdrs_tot_rs","Integer","","Recommended","ADHD RS total raw score","","","adhd_current_expert_total"
 "p_c_adhdrs_tot_ts","Integer","","Recommended","ADHD RS total t score","","","adhd_total_tscore"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","adhd_commnts,adhd_current_expert_comments,adhd_current_parent_comments,adhd_lifetime_self_comments"
 "impair1","Integer","","Recommended","Impairment Rating: Getting along with family or teachers (T-score)","0::200","",""
 "impair2","Integer","","Recommended","Impairment Rating: Getting along with other children (T-score)","0::200","",""

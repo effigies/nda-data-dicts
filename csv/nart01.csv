@@ -7,7 +7,7 @@
 "study_level","Integer","","Recommended","Last degree succeeded","1;2;3","Level 1: school leaving certification; level 2: high school study level; level 3: high school diploma and higer education",""
 "ttt_arms","String","3","Recommended","Treatment arms of this study. Individualized therapy (RECOS program) compared with the more general Cognitive Remediation Therapy (CRT)","CRT;REC","",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","follow_up"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "nart_1","Integer","","Recommended","CHORD;  Not a translation. French version: zinc","0;1","1=correct; 0 =incorrect","nartc_5"
 "nart_2","Integer","","Recommended","ACHE;  Not a translation. French version: starter","0;1","1=correct; 0 =incorrect","nartc_1"
 "nart_3","Integer","","Recommended","DEPOT;  Not a translation. French version: agenda","0;1","1=correct; 0 =incorrect","nartc_4"

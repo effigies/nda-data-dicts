@@ -29,7 +29,7 @@
 "cdrs23","Integer","","Recommended","I like challenges","0::4","0= not true at all; 1= rarely true; 2= sometimes true; 3= often true; 4= true nearly all of the time",""
 "cdrs24","Integer","","Recommended","I believe you work to attain your goals","0::4","0= not true at all; 1= rarely true; 2= sometimes true; 3= often true; 4= true nearly all of the time",""
 "cdrs25","Integer","","Recommended","I believe you should have pride in your achievements","0::4","0= not true at all; 1= rarely true; 2= sometimes true; 3= often true; 4= true nearly all of the time",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","cdrs_ver"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","cdrs_ver"
 "cdrs10_tot","Integer","","Recommended","CDRS 10-item Total Score","","","cdrisc10_rs"
 "site","String","101","Recommended","Site","","Study Site","siteid"
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing","timepoint"

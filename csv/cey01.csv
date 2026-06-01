@@ -65,7 +65,7 @@
 "piq_23_03","Integer","","Recommended","With whom have you had sexual contact in the last year??Other","0;1","0= No; 1= Yes",""
 "piq_24","Integer","","Recommended","With how many of the people with whom you had sexual contact were you in an established relationship (i.e., you were sexually active with only a single partner for at least a month)?","","",""
 "piq_25","Integer","","Recommended","How many months in the last year were you in an established sexual relationship (i.e., you were sexually active with only a single partner for at least a month)?","","",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "piq_26","Integer","","Recommended","With how many different women have you had oral sex, but NOT sexual intercourse?","","",""
 "piq_27","Integer","","Recommended","With how many different women have you had sex play (fondling, kissing, or petting), but NOT oral sex or sexual intercourse?","","",""
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""

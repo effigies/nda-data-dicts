@@ -10,7 +10,7 @@
 "live_others","String","200","Recommended","Living other","","","live_other"
 "maritalstatus","Integer","","Recommended","Marital Status:","0::6;-99;77;88","0= Married ; 1= Living together ; 2= Separated ; 3= Divorced ; 4= Single ; 5 = Widowed ; 6 = Civil Union ; -99= N/A ; 77= Refused ; 88= Missing","marital_status"
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "otherrace","String","200","Recommended","specify other race","","The following questions are about you or the child's family.","race_other"
 "religion","String","100","Recommended","Religion","","",""
 "educat","Float","","Recommended","Number of years in formal education","","999=Unknown/Missing","education"

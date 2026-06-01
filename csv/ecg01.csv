@@ -100,7 +100,7 @@
 "ec_q2","Integer","","Recommended","Do items exclude individual from study","0;1","0=No; 1=Yes","ekg_q34,exclude,fuekgq1_34"
 "dateread","Integer","","Recommended","Date the ECG was read in days from the randomization date","","",""
 "session_id","String","20","Recommended","session ID/screening ID","","","screeningid"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_name"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","form_name"
 "ecgstrth","Integer","","Recommended","ECG Start Time Hours","","",""
 "ecgstrtm","Integer","","Recommended","ECG Start Time Minutes","","",""
 "ecgendth","Integer","","Recommended","ECG End Time Hours","","",""

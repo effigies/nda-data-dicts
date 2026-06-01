@@ -204,7 +204,7 @@
 "visitday","Integer","","Recommended","day of visit","","","mas_visitdat_x"
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections","mas_studyid"
 "trtgroup","String","2","Recommended","Treatment Group","N1;N2;R1;R2;R3","N1=Non-Responder Entering Fluvoxamine; N2=Non-Responder Entering Fluoxetine; R1=Maintenance; R2=Responder Entering Fluvoxamine; R3=Responder Entering Fluoxetine",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "masc_pan_rs","Integer","","Recommended","Panic raw score","","",""
 "masc_anxprob","Integer","","Recommended","Anxiety probability score","","",""
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing",""

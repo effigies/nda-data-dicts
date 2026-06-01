@@ -13,7 +13,7 @@
 "a1demo_gender","Integer","","Recommended","What is your current gender identity?","1::9; -888","1 = Female; 2 = Male; 3 = Trans female or trans woman; 4 = Trans male or trans man; 5 = Genderqueer/gender expansive/gender diverse/non-binary; 6 = Other; 7 = Two Spirit; 8 = Gender variant/Gender non-conforming; 9=Agender; -888 = Decline to answer",""
 "demoses05j","String","100","Recommended","Specify other Gender Identity","","",""
 "d_hispanic","Integer","","Recommended","Are you Hispanic or Latina/Latino/Latinx?","0;1;-888;999","0 = No; 1 = Yes; -888 = Decline to Answer;  999 = Prefer not to say",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "otherrace","String","200","Recommended","specify other race","","The following questions are about you or the child's family.",""
 "best_time_call","String","50","Recommended","When is the best time to call you?","","",""
 "time_zone","String","20","Recommended","Time zone (e.g. eastern time)","","",""

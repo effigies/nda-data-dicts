@@ -92,7 +92,7 @@
 "c_ts","Float","","Recommended","Changed from Baseline ADAS Total Score","","Change from Phase 1 baseline",""
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","bdi_complete,finished"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","redcap_event_name,vistyp"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","redcap_event_name,vistyp"
 "bd_017","Integer","","Recommended","Appetite","0::3;-9","0 = My appetite is no worse than usual., 1 = My appetite is not as good as it used to be., 2 = My appetite is much worse now., 3 = I have no appetite at all anymore; -9=Missing;N/A","bdi018,bdi_appetite"
 "bd_004","Integer","","Recommended","Satisfaction","0::3;-9","0 = I am not particularly dissatisfied., 1 = I feel bored most of the time., 1 = I don�t enjoy things the way I used to., 2 = I don�t get satisfaction out of anything anymore., 3 = I am dissatisfied with everything; -9=Missing;N/A","bd0i4,bdi_satisfaction"
 "baina","Integer","","Recommended","Number of valid answers","","",""

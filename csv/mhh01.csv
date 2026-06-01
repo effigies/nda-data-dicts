@@ -91,7 +91,7 @@
 "oth_reason_not","String","300","Recommended","Reason appointment has not yet been attended - Other, specify","","",""
 "site","String","101","Recommended","Site","","Study Site",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "problem_depression","Integer","","Recommended","Most teenagers are depressed at some time. Do you think you/your child had a problem with depression in the last 4 weeks?","0;1","0= No; 1= Yes",""
 "counseling_depression","Integer","","Recommended","Are you/your child currently getting counseling, treatment, or medications for depression?","0;1","0= No; 1= Yes",""

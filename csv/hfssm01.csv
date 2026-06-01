@@ -28,7 +28,7 @@
 "hfssm_6fss","Float","","Recommended","6 question Food Security Scale","0::6","Number of affirmative responses",""
 "hfssm_cfss","Float","","Recommended","U.S. Children's Food Security Scale","0::8","Number of affirmative responses",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "food_lasting","Integer","","Recommended","The food that we bought just didn't last, and we didn't have money to get more","0::4;-99","0=Never True; 2=Sometimes True; 4=Often True; -99=Prefer not to answer",""
 "food_balanced","Integer","","Recommended","We couldn't afford to eat balanced meals.","0::4;-99","0=Never True; 2=Sometimes True; 4=Often True; -99=Prefer not to answer",""
 "food_mealcut","Integer","","Recommended","In the last 12 months, did you or other adults in your household ever cut the size of your meals or skip meals because there wasn't enough money for food?","0::2","0=No; 1=Yes; 2= Don't know","foodsecurity4"

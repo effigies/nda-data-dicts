@@ -190,7 +190,7 @@
 "facesiii_circumplex_adapt","Integer","","Recommended","FACES III Adaptability Circumplex","1::8","1-2 = Rigid; 3-4 = Structured; 5-6 = Flexible; 7-8 = Very Flexible",""
 "facesiii_circumplex_type","Integer","","Recommended","FACES III Family Type/Functioning","1::8","1-2 = Unbalanced; 3-4 = Mid-Range; 5-6 = Moderately Balanced; 7-8 = Balanced",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "facesiii_6","Integer","","Recommended","Different persons act as leaders in our family","1::5","1 = Almost never; 2 = Once in a while; 3 = Sometimes; 4 = Frequently; 5 = Almost always",""
 "facesiii_8","Integer","","Recommended","Our family changes its way of handling tasks","1::5","1 = Almost never; 2 = Once in a while; 3 = Sometimes; 4 = Frequently; 5 = Almost always",""
 "facesiii_10","Integer","","Recommended","Parent(s) and children discuss punishment together","1::5","1 = Almost never; 2 = Once in a while; 3 = Sometimes; 4 = Frequently; 5 = Almost always",""

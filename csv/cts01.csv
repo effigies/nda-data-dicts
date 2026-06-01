@@ -25,7 +25,7 @@
 "cts4_2","Integer","","Recommended","Beat up the other one","1::6;-99;77;88","1= Never ; 2= Once ; 3= 3-5 times ; 4= 6-10 times ; 5= 11-20 times ; 6= More than 20 times ; -99= N/A ; 77= Refused ; 88= Missing","cts4_19"
 "cts4_3","Integer","","Recommended","Threatened with a gun or knife","1::6;-99;77;88","1= Never ; 2= Once ; 3= 3-5 times ; 4= 6-10 times ; 5= 11-20 times ; 6= More than 20 times ; -99= N/A ; 77= Refused ; 88= Missing","cts4_20"
 "cts4_4","Integer","","Recommended","Used a gun or knife","1::6;-99;77;88","1= Never ; 2= Once ; 3= 3-5 times ; 4= 6-10 times ; 5= 11-20 times ; 6= More than 20 times ; -99= N/A ; 77= Refused ; 88= Missing","cts4_21,cts_21,cts_22,cts_inf__21,cts_inf__22"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "wd_nonv","Integer","","Recommended","Weekly Discipline (Past Week): Nonviolent Discipline (Item 23) score:","0::25; 999","",""
 "wd_raw","Integer","","Recommended","Weekly Discipline (Past Week):  Raw Score (Items 24, 25, 26)","0::75; 999","",""
 "wd_endorsed","Integer","","Recommended","Weekly Discipline (Past Week): Number of items 24 - 26 endorsed","0::3; 999","",""

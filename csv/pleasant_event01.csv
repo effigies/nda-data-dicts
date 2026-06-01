@@ -68,7 +68,7 @@
 "pes_12a","Integer","","Recommended","Going to a party - Pleasantness","0::2;-999","0= This event was not pleasant for me; 1=This event was somewhat pleasant for me; 2=This event was very pleasant for me;  - 999= missing or prefer not to answer",""
 "pes_13","Integer","","Recommended","Being popular at a gathering - Number of Occurrences","0::500","",""
 "pes_13a","Integer","","Recommended","Being popular at a gathering - Pleasantness","0::2;-999","0= This event was not pleasant for me; 1=This event was somewhat pleasant for me; 2=This event was very pleasant for me;  - 999= missing or prefer not to answer",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "pes_14","Integer","","Recommended","Seeing old friends  - Number of Occurrences","0::500","",""
 "pes_14a","Integer","","Recommended","Seeing old friends - Pleasantness","0::2;-999","0= This event was not pleasant for me; 1=This event was somewhat pleasant for me; 2=This event was very pleasant for me;  - 999= missing or prefer not to answer",""
 "pes_15","Integer","","Recommended","Meeting someone new of the same sex  - Number of Occurrences","0::500","",""

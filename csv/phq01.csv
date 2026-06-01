@@ -27,7 +27,7 @@
 "xphq","Float","","Recommended","Sum of PHQ 1-8","","(Patient Health Questionnaire) 1-8",""
 "ixphq","Integer","","Recommended","Imputed Sum of  (Patient Health Questionnaire) 1-8","0;1;-1","(Patient Health Questionnaire) 1-8",""
 "interv","Integer","","Recommended","Intervention Status","0;1","1=ITV, intervention; 0=TAU, treatment as usual",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
 "phq_v8_1","Integer","","Recommended","Over the past week, how often have you felt little interest or pleasure in doing things?","0::3; 999","0=Not at all; 1=Several Days; 2=More than half the days; 3=Nearly every day; 999=Missing/NA/NK","interest,lw_phq8_1,phqlitintrstscore"
 "phq_v8_2","Integer","","Recommended","Over the past week, how often have you bothered by feeling down, depressed, or hopeless?","0::3; 999","0=Not at all; 1=Several Days; 2=More than half the days; 3=Nearly every day; 999=Missing/NA/NK","depressed,lw_phq8_2,phqdeprssnscore"

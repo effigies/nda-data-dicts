@@ -4,7 +4,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "wdeq_01_va","Integer","","Recommended","How do you think your labor and delivery will turn out as a whole? (Extremely fantastic/Not at all fantastic)","1::6","1= Extremely fantastic; 6= Not at all fantastic",""
 "wdeq_02_va","Integer","","Recommended","How do you think your labor and delivery will turn out as a whole? (Not at all frightful/Extremely frightful)","1::6","1= Not at all frightful; 6= Extremely frightful",""
 "wdeq_03_va","Integer","","Recommended","How do you think you will feel in general during the labor and delivery? (Not at all lonely/Extremely lonely)","1::6","1= Not at all lonely; 6= Extremely lonely",""

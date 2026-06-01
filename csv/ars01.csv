@@ -42,7 +42,7 @@
 "cars_17","Integer","","Recommended","ARS Child Version - Memories of even minor problems bother me for a while","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Almost Always",""
 "cars_18","Integer","","Recommended","ARS Child Version - When something makes me angry, I turn this matter over and over again in my mind","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Almost Always",""
 "cars_19","Integer","","Recommended","ARS Child Version - I replay what made me angry over and over after it happened","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Almost Always",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "cars_01","Integer","","Recommended","ARS Child Version - I think a lot about other times when I was angry","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Almost Always",""
 "cars_02","Integer","","Recommended","ARS Child Version - I think about the bad things I did not deserve that have been done to me","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Almost Always",""
 "cars_03","Integer","","Recommended","ARS Child Version - I keep thinking about events that angered me for a long time","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Almost Always",""

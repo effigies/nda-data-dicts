@@ -106,7 +106,7 @@
 "misc_pals05","Integer","","Recommended","What is your current height? Feet","","Number in Feet",""
 "misc_pals06","Float","","Recommended","What is your current height? Inches","","Number in Inches",""
 "eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "msna_p1","Float","","Recommended","Muscle Sympathetic Nerve Activity","","Bursts/minute",""
 "chrchs_wake","String","20","Recommended","Date and time participant woke up the morning of the assessment","","MM/DD/YYYY HH:MM",""
 "chrchs_sleep","String","20","Recommended","Date and time participant went to bed the night before the assessment","","MM/DD/YYYY HH:MM",""

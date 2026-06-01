@@ -35,7 +35,7 @@
 "meim_tot","Float","","Recommended","MEIM Total Mean Items 1-12","0::5","",""
 "meim_search","Float","","Recommended","Mean Ethnic Identity Search Factor; Items 1, 2, 4, 8, 10","1::5","",""
 "meim_affirm","Float","","Recommended","Mean Affirmation, Belonging, Commitment; Items 3, 5, 6, 7, 8, 11, 12","0::5","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "ypdm01","String","100","Recommended","In terms of race/ethnicity, you consider yourself to be:","","",""
 "ypdm02","Integer","","Recommended","I have spent time trying to find out more about my race/ethnicity, like history and traditions.","1::4;-99","1=Strongly disagree; 2=Somewhat disagree; 3=Somewhat agree; 4=Strongly agree; -99=Not Applicable",""
 "ypdm03","Integer","","Recommended","I feel like I fit in and I am accepted by other people of my same race/ethnicity.","1::4;-99","1=Strongly disagree; 2=Somewhat disagree; 3=Somewhat agree; 4=Strongly agree; -99=Not Applicable",""

@@ -115,7 +115,7 @@
 "bdefs_self27","Integer","","Recommended","Can't seem to remember what I previously heard or read about.","1::4","1= Never or rarely; 2= Sometimes; 3= Often; 4= Very often","bdefs_s_23"
 "bdefs_self28","Integer","","Recommended","I have trouble organizing my thoughts","1::4","1= Never or rarely; 2= Sometimes; 3= Often; 4= Very often","bdefs_s_24"
 "bdefs_self66","Integer","","Recommended","Cannot inhibit my emotions as well as others.","1::4","1= Never or rarely; 2= Sometimes; 3= Often; 4= Very often","bdefs_s_62"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "bdefs_2","Integer","","Recommended","Can't seem to hold in mind things I need to remember to do","1::4","1 = Never or rarely; 2 = Sometimes; 3 = Often; 4 = Very often","bdefs_s_10"
 "bdefs_4","Integer","","Recommended","Have trouble doing what I tell myself to do","1::4","1 = Never or rarely; 2 = Sometimes; 3 = Often; 4 = Very often","bdefs_s_17"
 "visit_year","Integer","","Recommended","Year of visit","","",""

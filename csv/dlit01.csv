@@ -34,4 +34,4 @@
 "dlit20","Integer","","Recommended","People with depression should stop taking antidepressants as soon as they feel better. (False)","0;1;77","0 = Incorrect; 1 = Correct; 77 = I don't know; Correct answers are shown in parentheses",""
 "dlit21","Integer","","Recommended","Antidepressants are addictive. (False)","0;1;77","0 = Incorrect; 1 = Correct; 77 = I don't know; Correct answers are shown in parentheses",""
 "dlit22","Integer","","Recommended","Antidepressant medications usually work straight away. (False)","0;1;77","0 = Incorrect; 1 = Correct; 77 = I don't know; Correct answers are shown in parentheses","medications"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""

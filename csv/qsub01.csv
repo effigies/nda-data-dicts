@@ -29,5 +29,5 @@
 "qsu_b21","Integer","","Recommended","I would do almost anything for a cigarette now.","1::7","1 = Strongly Disagree; 7 = Strongly Agree",""
 "qsu_b22","Integer","","Recommended","Smoking would make me less depressed.","1::7","1 = Strongly Disagree; 7 = Strongly Agree",""
 "qsu_b23","Integer","","Recommended","I am going to smoke as soon as possible.","1::7","1 = Strongly Disagree; 7 = Strongly Agree",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "custom_src_id","String","30","Recommended","Subject ID how it's defined in lab/project (used for source IDs that change depending on timepoint/visit/etc.)","","",""

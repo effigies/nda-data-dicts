@@ -323,7 +323,7 @@
 "tci_ps4","Integer","","Recommended","Perfectionist vs. pragmatist","","","ps4"
 "tci_val","Integer","","Recommended","Test Validity","","","validity"
 "timepoint","Integer","","Recommended","Timepoint","0::10","0 = Screening; 1 = Intake; 2 = 3 months; 3 = 6 months; 4 = 9 months; 5 = 12 months; 6 = 24 months; 7 = pre-intervention; 8 = post-intervention; 9 = 15 months; 10 = 18 months",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "tci_total","Integer","","Recommended","TCI Total Score","","",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "lvlcomf","Integer","","Recommended","Level of comfort","0::2","0 = No comfort; 1 = Medium Comfort; 2 = High comfort",""

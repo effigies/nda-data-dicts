@@ -75,7 +75,7 @@
 "cosstp_tsc","Integer","","Recommended","COSS Task Planning T-Score","","",""
 "cossoa_tsc","Integer","","Recommended","COSS Organized Actions T-Score","","",""
 "cossmm_tsc","Integer","","Recommended","COSS Memory and Materials Management T-Score","","",""
-"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "cossp7","Integer","","Recommended","When [Subject] has to do something, [Subject] puts it off as long as possible.","1::4","1= Hardly ever or never; 2= Sometimes; 3= Much of the time; 4= Just about all of the time",""
 "cossp27","Integer","","Recommended","[Subject] puts away toys or game pieces in a place where they can be found again.","1::4","1= Hardly ever or never; 2= Sometimes; 3= Much of the time; 4= Just about all of the time",""
 "cossp42","Integer","","Recommended","[Subject] can find what [Subject] is supposed to do for homework.","1::4","1= Hardly ever or never; 2= Sometimes; 3= Much of the time; 4= Just about all of the time",""

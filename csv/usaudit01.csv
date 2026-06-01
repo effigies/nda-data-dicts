@@ -58,7 +58,7 @@
 "l30aod_marj","Integer","","Recommended","Within the last 30 days, on how many days did you use marijuana (pot, weed, hashish, hash oil)","0::8","0=Never used; 1=Have used, but not in last 30 days; 2=1-2 days; 3=3-5 days; 4=6-9 days; 5=10-19 days; 6=20-29 days; 7=Used daily; 8=Prefer not to answer",""
 "l30aod8_pres","Integer","","Recommended","Within the last 30 days, on how many days did you use prescription drugs (not prescribed to you or not for the indicated purpose)","0::8","0=Never used; 1=Have used, but not in last 30 days; 2=1-2 days; 3=3-5 days; 4=6-9 days; 5=10-19 days; 6=20-29 days; 7=Used daily; 8=Prefer not to answer",""
 "l30aod_drug","Integer","","Recommended","Within the last 30 days, on how many days did you use any other drugs including cocaine, methamphetamine, etc.","0::8","0=Never used; 1=Have used, but not in last 30 days; 2=1-2 days; 3=3-5 days; 4=6-9 days; 5=10-19 days; 6=20-29 days; 7=Used daily; 8=Prefer not to answer",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "ever_alcohol","Integer","","Recommended","Have you ever had an alcoholic drink?","0::2","0=No; 1=Yes; 2=Prefer not to answer",""
 "alc_lifetime7","Integer","","Recommended","Age of first use (Alcohol):","0 :: 100","Age in Years",""
 "mini_alci1a","Integer","","Recommended","In the past 12 months, have you drank alcohol?","0::2","0=No; 1=Yes; 2=Prefer not to answer",""

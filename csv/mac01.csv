@@ -147,4 +147,4 @@
 "stds7","Float","","Recommended","","","",""
 "ma1g_ab","Integer","","Recommended","Dose 7: Active or Blinded","1;2","1=Active; 2=Blinded",""
 "ma3_reason","String","500","Recommended","Reason Medication Was Not Taken As Prescribed or How Dose Was Lost","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""

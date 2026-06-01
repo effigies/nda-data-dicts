@@ -21,7 +21,7 @@
 "wsap8","Integer","","Recommended","Worry domain: Finances. Threat word: Paycut. Neutral/positive word: Raise. Ambiguous sentence: There is a change in your salary.","1::4","1 = Threat accept; 2 = Threat reject; 3 = Benign accept; 4 = Benign reject",""
 "wsap9","Integer","","Recommended","Worry domain: Academic performance. Threat word: Stupid. Neutral/positive word: Cautious. Ambiguous sentence: You finish last of everyone on a test.","1::4","1 = Threat accept; 2 = Threat reject; 3 = Benign accept; 4 = Benign reject",""
 "wsap10","Integer","","Recommended","Worry domain: Work competence. Threat word: Criticize. Neutral/positive word: Praise. Ambiguous sentence: Your boss wants to meet with you.","1::4","1 = Threat accept; 2 = Threat reject; 3 = Benign accept; 4 = Benign reject",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "phenotype","String","400","Recommended","Phenotype/diagnosis for the subject","","e.g., Healthy, Control, Suicidal",""
 "wsap11","Integer","","Recommended","Correct? Prime: emergency. Sentence: Someone cuts you off in traffic.","0;1","0 = Incorrect ; 1 = Correct",""
 "wsap12","Integer","","Recommended","Correct? Prime: jerk. Sentence: Someone cuts you off in traffic.","0;1","0 = Incorrect ; 1 = Correct",""

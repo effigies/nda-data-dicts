@@ -18,7 +18,7 @@
 "menstr_phase","Integer","","Recommended","Menstrual Cycle Phase Subject is in","1;2","1 = Follicular/Inactive; 2 = Luteal/Active",""
 "menstr_phase_day","Integer","","Recommended","Days within phase","1::21","Day 1 to Day 21; 1= First day of menses/first day of inactive pill week (follicular/inactive phase) or first day after LH positive urine test/first day of active pill weeks (luteal/active phase)",""
 "alc_dose_amt","Integer","","Recommended","Dose of Alcohol Received","0; 4; 8","0 = Placebo; 4 = Low dose; 8 = High dose",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "deq_effect","Integer","","Recommended","At that time, I would like the effects that I would be feeling.","0::100","0 = Not at all; 100 = Very Much",""
 "deq_want","Integer","","Recommended","At that time, I would want to consume more standard alcohol drinks.","0::100","0 = Not at all; 100 = Very Much",""
 "deq_alc_effects_2","Integer","","Recommended","Did you feel any effects from alcohol?","0::100","0 = Not At All; 100 = Extremely",""

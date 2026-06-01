@@ -46,7 +46,7 @@
 "scidv_f40","Integer","","Recommended","Panic disorder. hoarding-related","1;3; -7; -9","1= absent or false; 3 = threshold or true; -7 = N/A; -9 = missing or not reported","f40,sciddv_pd_expected_cb01___f40"
 "scidv_f41","Integer","","Recommended","Panic disorder. body dysmorphic-disorder-related","1;3; -7; -9","1= absent or false; 3 = threshold or true; -7 = N/A; -9 = missing or not reported","f41,sciddv_pd_expected_cb01___f41"
 "scidv_f42","Integer","","Recommended","Panic disorder. exposure to reminder of trauma","1;3; -7; -9","1= absent or false; 3 = threshold or true; -7 = N/A; -9 = missing or not reported","f42,sciddv_pd_expected_cb01___f42"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "paniccrita_5","Integer","","Recommended","Which of the following reactions did you usually have during attacks? Feeling like you might throw up","0;1","0= No; 1= Yes",""
 "paniccrita_6","Integer","","Recommended","Which of the following reactions did you usually have during attacks? Chest pain or discomfort","0;1","0= No; 1= Yes",""
 "paniccrita_7","Integer","","Recommended","Which of the following reactions did you usually have during attacks? Feelings of choking","0;1","0= No; 1= Yes",""

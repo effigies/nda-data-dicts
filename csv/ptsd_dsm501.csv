@@ -464,7 +464,7 @@
 "capsptsd72","Integer","","Recommended","Global Validity (compliance with interview, mental status, etc.)","0::4; 999","0 = Excellent (no reason to suspect invalid responses); 1 = Good (factors present that may adversely affect validity); 2 = Fair (factors present that definitely reduce validity); 3 = Poor (substantially reduced validity); 4 = Invalid responses (severely impaired mental status or possible deliberate faking bad or faking good); 999= Did not collect data","caps_valid,worstcaps_valid"
 "capsptsd76","Integer","","Recommended","Global Improvement","0::5; 999","0 = Asymptomatic; 1 = Considerable improvement; 2 = Moderate improvement; 3  = Slight improvement; 4 = No improvement; 5 = Insufficient information; 999= Did not collect data","caps_imp"
 "capsptsd101","Integer","","Recommended","Diagnostic Decision: PTSD","0;1","0 = Patient does NOT meet PTSD criteria; 1 = Patient meets PTSD criteria","caps_dx,worstcaps_dx"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "comments","String","4000","Recommended","Comments about assessment","","",""
 "worstcaps_onset","Integer","","Recommended","Worst month: Total number of months delay in onset of PTSD symptoms","","",""
 "worstcaps_dur","Integer","","Recommended","Worst month PTSD Symptoms: Total months duration","","",""

@@ -374,7 +374,7 @@
 "digitspan_bwdtrial7","Integer","","Recommended","Backward - 7 Item Score","0;1;2","0 = Fail; 1 = Partially correct; 2 = Correct",""
 "digitspan_bwdtrial7a","Integer","","Recommended","Backward - 7 Trial 1 Score","0;1","0 = Fail; 1 = Correct",""
 "digitspan_bwdtrial7b","Integer","","Recommended","Backward - 7 Trial 2 Score","0;1","0 = Fail; 1 = Correct",""
-"digitspan_dsfscore","Integer","","Recommended","Digit Span Forward (DSF) Total Raw Score","0 :: 16","",""
+"digitspan_dsfscore","Integer","","Recommended","Digit Span Forward (DSF) Total Raw Score","0::18","0::16 for WISC-IV; 0::18 for WISC-V",""
 "digitspan_dsbscore","Integer","","Recommended","Digit Span Backward (DSB) Total Raw Score","0::18","0::14 for WISC-III; 0::16 for WISC-IV; 0::18 for WISC-V",""
 "digitspan_score","Integer","","Recommended","Total Raw Score","0 :: 54","0::30 for WISC-III; 0::32 for WISC-IV; 54 - WISC V","DigitSpanRaw"
 "scoring_digitspan_scaled","Float","","Recommended","Digit Span Scaled Score","","","DigitSpanScaled,iq11dig"

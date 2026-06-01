@@ -270,7 +270,7 @@
 "aleq_r_6c","Integer","","Recommended","Death of a pet - How much of a role do you feel you had in causing this event(s)?","1::5;-999","1=Very little role; 5=Very large role; -999=NA/Missing/Prefer not to answer",""
 "aleq_r_7","Integer","","Recommended","Please indicate which of the following events you have experienced in the last 6 months. Parent lost job","1;5;-999","1=This event did not happen; 5=This event did happen; -999 = NA/Missing/Prefer not to answer",""
 "aleq_r_7a","Integer","","Recommended","Parent lost job - How stressful was it for you?","1::5;-999","1=Not very stressful; 5=Very stressful; -999=NA/Missing/Prefer not to answer",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "aleq_r_7b","Integer","","Recommended","Parent lost job - How much control did you feel like you had during that time?  (e.g., How much did you feel like you could make things better or less stressful?)","1::5;-999","1=No control/completely out of my control; 5=Completely in my control; -999=NA/Missing/Prefer not to answer",""
 "aleq_r_7c","Integer","","Recommended","Parent lost job - How much of a role do you feel you had in causing this event(s)?","1::5;-999","1=Very little role; 5=Very large role; -999=NA/Missing/Prefer not to answer",""
 "aleq_r_8","Integer","","Recommended","Please indicate which of the following events you have experienced in the last 6 months. You lost job","1;5;-999","1=This event did not happen; 5=This event did happen; -999 = NA/Missing/Prefer not to answer",""

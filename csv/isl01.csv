@@ -29,4 +29,4 @@
 "isl3_sti","Integer","","Recommended","Trial 4 # trials presented","","",""
 "isl3_res","Integer","","Recommended","Trial 4 # of responses made during task","","",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""

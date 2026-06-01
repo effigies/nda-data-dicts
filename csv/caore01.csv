@@ -58,7 +58,7 @@
 "ca18_6months","Integer","","Recommended","playing a betting game; likelihood of engaging in activity in next 6 months","1::7","1=not likely at all, 4=somewhat likely,  7= extremely likely",""
 "ca18_negative","Integer","","Recommended","playing betting games; likelihood of negative consequence","1::7","1=not likely at all, 4=somewhat likely,  7= extremely likely",""
 "ca18_positive","Integer","","Recommended","playing betting games; likelihood of positive consequence","1::7","1=not likely at all, 4=somewhat likely,  7= extremely likely",""
-"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "carersoc_1","Integer","","Recommended","How much do you want people to like you?","1 :: 5","1 = Not at all; 2 = A little; 3 = Somewhat; 4 = A lot; 5 = A ton!; -99= N/A; 77= Refused ; 88= Missing",""
 "carersoc_2","Integer","","Recommended","How much do you NOT want people to DISLIKE you?","1 :: 5","1 = Not at all; 2 = A little; 3 = Somewhat; 4 = A lot; 5 = A ton!; -99= N/A; 77= Refused ; 88= Missing",""

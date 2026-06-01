@@ -16,7 +16,7 @@
 "dem_09b","Integer","","Recommended","Father highest occupation","1::9;99","1=Higher executive, proprietor of large concern, major professional; 2=Business manager or large concern, proprietor of medium-sized business, lesser professiona;l 3=Administrative personnel, owner of small independent business, minor professional; 4=Clerical or sales worker, technician, owner of little business;5=Skilled manual employee; 6=Machine operator, semi-skilled employee; 7=Unskilled employee; 8=farm laborers, menial service workers, students, housewives, (dependent on welfare, no regular occupation); 99=Not ascertained; 9 = Not in household","fat_occcode"
 "preg_age_dad","Integer","","Recommended","Age of father at the time of birth","","In years; 999=Unknown","biofather_age,hh_014"
 "sesscore","Float","","Recommended","Hollingshead SES Score","8.0 :: 66.0","","ses"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "comments","String","4000","Recommended","Comments about assessment","","","ac_ses"
 "site","String","101","Recommended","Site","","Study Site",""
 "height_st","Float","","Recommended","Body height (inches)[Caution: Beware of extreme outliers]","","","height"

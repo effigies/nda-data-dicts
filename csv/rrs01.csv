@@ -84,7 +84,7 @@
 "rsq_q69","Integer","","Recommended","Think, ""I must really have serious problems or I wouldn't feel this way so often.""","1::4; -99;77;88","1=Almost never; 2=Sometimes; 3=Often; 4=Almost always; -99= N/A ; 77= Refused ; 88= Missing",""
 "rsq_q71","Integer","","Recommended","Do something active to get your mind off of your feelings (i.e., jog/aerobics/exercise).","1::4; -99;77;88","1=Almost never; 2=Sometimes; 3=Often; 4=Almost always; -99= N/A ; 77= Refused ; 88= Missing",""
 "rsq_totalscore","Integer","","Recommended","Response Style Questionnaire total score","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "quest_instruct","String","4000","Recommended","Questionnaire Instructions","","Questionnaire Instructions",""
 "respond","Integer","","Recommended","Respondent","1::7;999","1 = Parent; 2 = Teacher; 3=Self; 4= Other; 5= Significant other; 6 = Parent 1; 7 = Parent 2; 999 = Not available",""
 "subjectkey_mother","GUID","","Recommended","The NDAR Global Unique Identifier (GUID) for subject's biological mother","NDAR*","",""

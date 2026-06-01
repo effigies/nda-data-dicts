@@ -20,5 +20,5 @@
 "spq_8a","String","50","Recommended","Awakening Time","","",""
 "spq_9","Integer","","Recommended","Rate your child's sleep quality for the past week.","0::3","0=Poor; 1=Fair; 2=Good; 3=Excellent",""
 "spq_10","Integer","","Recommended","Has your child had tonsils or adenoids removed?","1;2","1=Yes; 2=No",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""

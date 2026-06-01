@@ -7,7 +7,7 @@
 "group","Integer","","Recommended","Study group","1;2","1= Attention shaping; 2 = Control",""
 "site","String","101","Recommended","Site","","Study Site",""
 "edutot","Float","","Recommended","Total years of education","","",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "hispanic","Integer","","Recommended","Is subject of Hispanic, Latino, or Spanish origin?","0; 1; 999","0 = No; 1 = Yes; 999= missing",""
 "pregrpat","Float","","Recommended","Average number of groups attended during 2 weeks prior to Basic Conversation Skills (BCS) group","","",""
 "pregrppt","Float","","Recommended","""Average number of points (as part of token economy system) in groups, during 2 weeks prior to start of BCS groups""","","",""

@@ -285,7 +285,7 @@
 "nffi_7","Integer","","Recommended","I laugh easily.","1::5;-7;999","1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree; -7=Refused; 999 = Prefer not to answer/Left blank","18736,18736r,i_laugh_easily,neo_pi_237"
 "neo_pi_238","Integer","","Recommended","I believe that the ""new morality"" of permissiveness is no morality at all. ","1::5;-7 ","5=Strongly Disagree; 4=Disagree; 3=Neutral; 2=Agree; 1=Strongly agree; -7=Refused ","18737,18737r"
 "neo_pi_239","Integer","","Recommended","I would rather be known as ""merciful"" than as ""just"". ","1::5;-7 ","1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree; -7=Refused ","18738,18738r"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "neo_pi_240","Integer","","Recommended","I never hesitate to assert my rights if I feel I'm being taken advantage of","1::5;-7","1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree; -7=Refused",""
 "neo_pi_241","Integer","","Recommended","I find it hard to get in touch with my feelings","1::5;-7","1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree; -7=Refused",""
 "neo_pi_242","Integer","","Recommended","I prefer small parties to large ones","1::5;-7","1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly agree; -7=Refused",""

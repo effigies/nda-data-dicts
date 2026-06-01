@@ -743,4 +743,4 @@
 "wms_iv_vpa_recall_cor","Integer","","Recommended","Verbal Paired Associates II (Adult) : Word Recall (Optional) : Total Correct Responses","","","wms_iv_verbal_paired_associates_recall_cor"
 "wms_iv_vpa_recall_inc","Integer","","Recommended","Verbal Paired Associates II (Adult) : Word Recall (Optional) : Total Incorrect Responses","","","wms_iv_verbal_paired_associates_recall_inc"
 "wms_iv_vpa_recall_rep","Integer","","Recommended","Verbal Paired Associates II (Adult) : Word Recall (Optional) : Total Repetitions","","","wms_iv_verbal_paired_associates_recall_rep"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""

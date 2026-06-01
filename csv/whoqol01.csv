@@ -36,7 +36,7 @@
 "whoqol_d3","Integer","","Recommended","Domain 3 Raw score","","Q20 + Q21 + Q22",""
 "whoqol_d4","Integer","","Recommended","Domain 4 Raw score","","Q8 + Q9 + Q12 + Q13 + Q14 + Q23 + Q24 + Q25",""
 "whoqol_ts","Integer","","Recommended","WHO-QOL Total score","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "curreducompleted","String","50","Recommended","Current grade education level completed","","","whoqol_edu"
 "cg_relation_status","String","50","Recommended","Caregiver's relationship status","married; widowed;separated;widowed, remarried;divorced, neither remarried;unmarried;divorced, both remarried;other;divorced, one remarried; living as though married; divorced","","whoqol_marital"
 "demosam_042","Integer","","Recommended","Are you currently sick?","0;1;-999; 9","1=Yes; 0=No; -999=NA/Missing Data; 9=DK","ill,whoqol_ill"
@@ -111,3 +111,4 @@
 "whoqol_5bs","Integer","","Recommended","The following questions ask about how much you have experienced certain things in the last two weeks. How much do you enjoy life?","1::5","1=Not at all; 2=A little; 3=A moderate amount; 4=Very much; 5=An extreme amount",""
 "whoqol_6bs","Integer","","Recommended","The following questions ask about how much you have experienced certain things in the last two weeks. To what extent do you find your life to be meaningful?","1::5","1=Not at all; 2=A little; 3=A moderate amount; 4=Very much; 5=An extreme amount",""
 "whoqol_7bs","Integer","","Recommended","The following questions ask about how much you have experienced certain things in the last two weeks. How well are you able to concentrate?","1::5","1=Not at all; 2=A little; 3=A moderate amount; 4=Very much; 5=An extreme amount",""
+"informanttype","Integer","","Recommended","If survey was completed by an informant, what was the relationship between the survey informant and the subject?","1::8","1=Mother; 2=Father; 3=Sibling; 4=Spouse; 5=Friend; 6=Caregiver; 7=Guardian; 8=Other",""

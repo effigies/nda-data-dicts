@@ -184,7 +184,7 @@
 "aeffect85d","Integer","","Recommended","How did problem number 4 affect you?","1::4","1 = Not at all; 2 = A little; 3 = Somewhat; 4 = A lot","ceffect62d,peffect80d"
 "cyes7","Integer","","Recommended","My parents fought with each other.","0;1","0 = No, this did not happen; 1 = Yes, this happened",""
 "ceffect7","Integer","","Recommended","How did it affect you?","1::4","1 = Not at all; 2 = A little; 3 = Somewhat; 4 = A lot",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "crysis20","Integer","","Recommended","20. Did you get married?","0;1","0=No;1=yes","sle_married"
 "sle_brok_eng","Integer","","Recommended","Broken an engagement?","0; 1; -9999","0= Yes; 1= No; -9999= Do not wish to answer",""
 "sle_new_job","Integer","","Recommended","Began a job or changed jobs (not including layoff or loss of job)?","0; 1; -9999","0= Yes; 1= No; -9999= Do not wish to answer",""

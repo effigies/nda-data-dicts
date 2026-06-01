@@ -36,4 +36,4 @@
 "isg_logins","Integer","","Recommended","Number of internet support group logins","","",""
 "isg_posts","Integer","","Recommended","Number of internet support group posts","","",""
 "isg_comments","Integer","","Recommended","Number of internet support group comments","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","formid"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","formid"

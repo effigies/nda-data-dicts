@@ -20,7 +20,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "bsfa7","Integer","","Recommended","Urine Container (Frozen) (Not collected at visit 10) Tubes Collected","","",""
 "bsfa8","Integer","","Recommended","Extra EDTA Tube (Whole Blood) (Refrigerated) Tubes Collected","","",""
 "bsfa9","Integer","","Recommended","Date specimen shipped to Core Lab/biorepository","-999::999","","bsfa5a,gpfa5"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","vers"
 "gpfa1","String","3","Recommended","Did patient consent to participate in the NIMH Genetics Repository Study?","Y;N;N/A","Y=Yes; N=No; N/A=Not Available",""
 "gpfa2","Integer","","Recommended","Date of Genetics consent","","",""
 "drdat","Integer","","Recommended","Date blood drawn","","","gpfa4"

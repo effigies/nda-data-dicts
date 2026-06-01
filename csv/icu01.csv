@@ -39,7 +39,7 @@
 "additional_q43","String","255","Recommended","List a few strengths or assets you observe in your child.","","","par_strength1"
 "dawba_n3","String","255","Recommended","Strengths - Other good points","","","par_strength2"
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","pi_staff"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "c3ps45","String","1000","Recommended","45. What strengths or skills does your child have?","","","par_strength3"
 "cu_51","Integer","","Recommended","Seems to enjoy being mean; Does not care who he/she hurts","0::3","0 = Not at all true ; 1 = Somewhat true ; 2 = Very true ; 3 = Definitely true",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

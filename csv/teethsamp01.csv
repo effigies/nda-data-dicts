@@ -13,7 +13,7 @@
 "date_sample_sent","Date","","Recommended","Date sample sent","","MM/DD/YYYY",""
 "digs_birth_country","String","25","Recommended","In which country were you born?","","Country Name",""
 "ethnic_group","String","255","Recommended","Ethnic group","","",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "fasd_dx","Integer","","Recommended","FASD associated diagnosis","0::4","0 = No FASD (Fetal Alcohol Spectrum Disorder); 1 = FASD/FAS (Fetal Alcohol Syndrome); 2 = FASD/pFAS (partial Fetal Alcohol Syndrome); 3 = FASD/ND-PAE (Neurobehavioral Disorder associated with Prenatal Alcohol Exposure); 4 = Other",""
 "batchnum","String","15","Recommended","Batch number","","",""
 "sample_id_original","String","100","Recommended","Original, user-defined Sample ID","","",""

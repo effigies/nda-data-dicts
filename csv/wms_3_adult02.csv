@@ -641,7 +641,7 @@
 "vpq2_8","Integer","","Recommended","Delayed Recall: Fruit","0;1","0 = Incorrect; 1 = Correct",""
 "vpa2_easy","Integer","","Recommended","Delayed Recall: Easy Total","","",""
 "vpa2_hard","Integer","","Recommended","Delayed Recall: Hard Total","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "ttt_arms","String","3","Recommended","Treatment arms of this study. Individualized therapy (RECOS program) compared with the more general Cognitive Remediation Therapy (CRT)","CRT;REC","",""
 "wms3_lssf","Integer","","Recommended","LSSF Longest Spatial Span Forward","0::9","",""
 "wms3_lssb","Integer","","Recommended","LSSB Longest Spatial Span Backward","0::9","",""

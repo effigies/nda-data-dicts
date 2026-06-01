@@ -154,7 +154,7 @@
 "ssp75","Integer","","Recommended","How often - reports accidents to appropriate persons","0::2","0=Never; 1=Sometimes; 2=Very often","ss36oft"
 "ssp76","Integer","","Recommended","How important - reports accidents to appropriate persons","0::2","0=Not important; 1=Important; 2=Critical","ss36imp"
 "ssp86","Integer","","Recommended","How often - disobeys rules or requests","0::2","0=Never; 1=Sometimes; 2=Very often",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","ssrstver"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","ssrstver"
 "sspcoopx","Float","","Recommended","Cooperation mean score","","","sstcoopx"
 "sspcoopt","Float","","Recommended","Cooperation std score","","","sstcoopt"
 "sspasrtx","Float","","Recommended","Assertiveness mean score","","","sstasrtx"

@@ -45,7 +45,7 @@
 "date_updated","Date","","Recommended","Date record updated","","","recordeddate"
 "externalreference","String","255","Recommended","External Data Reference","","",""
 "sample","Integer","","Recommended","Training or randomized case","1::5;-1","1 = Randomized; 2 = Training; 3= Randomized-control; 4= Randomized-intervention; 5= Concurrent cohort-intervention; -1= Not applicable",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "bads26","Integer","","Recommended","26. I did things that are enjoyable.","0::6","0= Not at all; 2= A little; 4= A lot; 6= Completely",""
 "bads_24hr_8","Integer","","Recommended","In the past 24 hours I spent a long time thinking over and over about my problems.","0::6","0= Not at all; 1; 2= A little; 3; 4= A lot; 5; 6= Completely",""

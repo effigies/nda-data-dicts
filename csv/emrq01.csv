@@ -20,7 +20,7 @@
 "erq_sf_ic","Integer","","Recommended","Suppression factor, internal consistency","","",""
 "erq_reappraisal","Integer","","Recommended","Reappraisal Score","","999= Missing Data","34010,erq10_reappraisal_sum,erq_cog_reappr,erq_reapp,erq_reappraisaltot,erqcogreapptot"
 "erq_suppression","Integer","","Recommended","Suppression Score","","999= Missing Data","34011,erq10_suppression_sum,erq_exp_supp,erq_supp,erq_suppresstot,erqexpsuptot"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","erq_interviewer"
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","erq_comments"
 "dode","String","10","Recommended","Date of Data Entry","","","erq_entered"

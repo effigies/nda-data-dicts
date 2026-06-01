@@ -60,7 +60,7 @@ being '002', and FSEQNO of '3' can be thought of as being '003'.
 The first digit of FSEQNO relates to the corresponding ENF sequence number at that visit and the third
 digit relates to the specific adjudicator who completed the adjudication form.",""
 "visday","Integer","","Recommended","Number of days from study baseline to date of visit","","","cgia0b,daycgi"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","redcap_event_name,vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","redcap_event_name,vers"
 "subject_description","String","4000","Recommended","Subject related information (e.g the affection, phenotype, disease information, etc.).","","",""
 "blcgis","Integer","","Recommended","baseline clinical global impressions severity","1;2;3;4;5;6","1=Normal, not ill; 2=minimally ill; 3=mildly ill; 4=moderately ill; 5=markedly ill; 6=severely ill",""
 "chcgis","Integer","","Recommended","Change from baseline in Clinical Global Impressions Severity","-10::10","",""

@@ -96,5 +96,5 @@
 "kssa2pas_v2_v3","Integer","","Recommended","Fears Harm befalling Attachment Figure - Past","0 :: 5","0= No Information; 1= Not present; 2= Subthreshold; 3= Threshold; 4= Yes; 5= No",""
 "kssa3s_v2_v3","Integer","","Recommended","Fears Sleeping Away From Home/Sleeping Alone - Current","0 :: 5","0= No Information; 1= Not present; 2= Subthreshold; 3= Threshold; 4= Yes; 5= No",""
 "kssa3pas_v2_v3","Integer","","Recommended","Fears Sleeping Away From Home/Sleeping Alone - Past","0 :: 5","0= No Information; 1= Not present; 2= Subthreshold; 3= Threshold; 4= Yes; 5= No",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "ageonset_separation_v2","String","50","Recommended","Separation Anxiety Disorder (SAD): Age of onset that episodes first started","","",""

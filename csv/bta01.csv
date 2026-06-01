@@ -10,7 +10,7 @@ For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' c
 being '002', and FSEQNO of '3' can be thought of as being '003'.
 The first digit of FSEQNO relates to the corresponding ENF sequence number at that visit and the third
 digit relates to the specific adjudicator who completed the adjudication form.",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","vers"
 "btaa2","Integer","","Recommended","Did the patient participate in the behavioral treatment session at this visit?","0;1;999","0=No; 1=Yes; 999=Legitmately skipped","btaa1,btaa8"
 "btaa3","Float","","Recommended","Length of session (minutes)","","999=Legitmately skipped","btaa2a,btaa9,lbta"
 "btaa4","Integer","","Recommended","Did you discuss/review this weeks lesson","0;1; 999","0=No; 1=Yes; 999=Legitmately skipped","btaa3a"

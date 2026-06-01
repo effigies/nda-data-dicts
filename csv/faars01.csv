@@ -37,4 +37,4 @@
 "faars_31","Integer","","Recommended","Total improper examiner prompts, if present","","",""
 "faars_32","String","100","Recommended","BRIEFLY describe any important information not captured by this ratings form:","","",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""

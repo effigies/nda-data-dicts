@@ -33,4 +33,4 @@
 "lotr5_alt","Integer","","Recommended","I really like being with my friends.","0::4","0= Really not like me; 1= Not like me; 2= I am in between; 3= Like me; 4= Really like me",""
 "lotr6_alt","Integer","","Recommended","I like to keep busy.","0::4","0= Really not like me; 1= Not like me; 2= I am in between; 3= Like me; 4= Really like me",""
 "lotr7_alt","Integer","","Recommended","I don''t think that things will turn out good.","0::4","0= Really not like me; 1= Not like me; 2= I am in between; 3= Like me; 4= Really like me",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""

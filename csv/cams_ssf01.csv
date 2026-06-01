@@ -29,4 +29,4 @@
 "imp_die03","String","200","Recommended","Importance 3: Please list your third most important reasons for wanting to die","","",""
 "imp_die04","String","200","Recommended","Importance 4: Please list your fourth most important reasons for wanting to die","","",""
 "imp_die05","String","200","Recommended","Importance 5: Please list your fifth most important reasons for wanting to die","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""

@@ -27,7 +27,7 @@
 "onthego","Integer","","Recommended","Often on the go or acts like driven by a motor","0::4;-7; 9","0=None; 1=Mild; 2=Moderate; 3=Severe; 4=Extreme; -7=Refused; 9=missing","adultadhd14,childadhd14"
 "site","String","101","Recommended","Site","","Study Site","site_id,siteid"
 "hyperactiv","Integer","","Recommended","Hyperactivity/restlessness","0::4;-7; 9","0=None; 1=Mild; 2=Moderate; 3=Severe; 4=Extreme; -7=Refused; 9=missing","hyperact"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "age_onset","Integer","","Recommended","Age Onset (age in mnths)","","","adultadhd20,childadhd20"
 "childadhd1","Integer","","Recommended","Makes a Lot of Careless Mistakes","1::4;6;8;9","1 = Not Present; 2 = Mild; 3 = Moderate; 4 = Severe; 6 = Absent or False due to therapeutic medication; 8 = Present or true due to medical condition; 9 = Missing","adultadhd1"
 "childadhd3","Integer","","Recommended","Doesn't Listen","1::4;6;8;9","1 = Not Present; 2 = Mild; 3 = Moderate; 4 = Severe; 6 = Absent or False due to therapeutic medication; 8 = Present or true due to medical condition; 9 = Missing","adultadhd3"

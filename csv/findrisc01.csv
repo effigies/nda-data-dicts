@@ -15,5 +15,5 @@
 "findrisc_9","Integer","","Recommended","Diet","0;1","0 = eat vegetables, fruit, berries, or dark/whole wheat bread daily; 1 = no vegetables, fruit, berries, or dark/whole wheat bread daily",""
 "findrisc_total","Integer","","Required","FINDRISC Total score","0::30","",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "site","String","101","Recommended","Site","","Study Site",""

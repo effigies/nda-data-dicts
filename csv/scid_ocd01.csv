@@ -45,7 +45,7 @@
 "ksads_dx_ocdnos_past","Integer","","Recommended","OCD NOS Diagnosis Criteria Met Past","0;1;-99;88;77","0= No ; 1= Yes ;-99 N/A ; 88=  Missing ; 77= Refused","s2cid_dx_ocnos_past,scid_dx_ocnos_past"
 "ksads_ocd_sxobsess","Integer","","Recommended","OCD Presents Obsessions","0;1;-99;88;77","0= No ; 1= Yes ;-99 N/A ; 88=  Missing ; 77= Refused","s2cid_ocd_sxobsess,scid_ocd_sxobsess"
 "ksads_ocd_sxcomp","Integer","","Recommended","OCD Presents Compulsions","0;1;-99;88;77","0= No ; 1= Yes ;-99 N/A ; 88=  Missing ; 77= Refused","s2cid_ocd_sxcomp,scid_ocd_sxcomp"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "scid_abce_3","Integer","","Recommended","Criteria A, B, C, & E coded 3","1;3","1=False;3=True","living"
 "scid_f87","Integer","","Recommended","Attempts made to ignore, suppress or neutralize thoughts, impulses, or images","-1; 1; 2; 3","-1=Unknown; 1=Absent; 2=Subthreshold; 3=Threshold",""
 "scid_f88","Integer","","Recommended","Recognition that thoughts, impulses, or images are product of own mind","-1; 1; 2; 3","-1=Unknown; 1=Absent; 2=Subthreshold; 3=Threshold",""

@@ -286,7 +286,7 @@
 "nihtbx_win_itmcnt","String","30","Recommended","Words-In-Noise Test Item Count","","",""
 "nihtbx_win_leftear_threshold","Float","","Recommended","Words-In-Noise Test Left Ear Threshold","0::999","",""
 "nihtbx_win_rightear_threshold","Float","","Recommended","Words-In-Noise Test Right Ear Threshold","0::999","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "nihtbx_dexterity_date","String","30","Recommended","9-Hole Pegboard Dexterity Test Date Finished","","",""
 "nihtbx_dexterity_language","String","30","Recommended","9-Hole Pegboard Dexterity Test Language","","",""
 "nihtbx_dex_uncor_dom","Float","","Recommended","9-Hole Pegboard Dexterity Test Dominant Hand Uncorrected Standard Score","0::999","",""

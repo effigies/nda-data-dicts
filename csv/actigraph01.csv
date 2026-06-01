@@ -144,7 +144,7 @@
 "mfi","Float","","Recommended","Movement and Fragmentation Index","","",""
 "days_of_act","Float","","Recommended","Days of Actigraphy","","",""
 "se_act","Float","","Recommended","Actigraphy - Sleep Efficiency (percent)","0::100","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "waketimemin","Integer","","Recommended","Wake Time: The number of minutes awake after sleep onset","","In minutes",""
 "act_waketime_clock","String","10","Recommended","Actigraphy - Wake time, clock time","","",""
 "trt_assign","Integer","","Recommended","Randomized treatment assignment","0;1","0 = Placebo; 1 = Active",""

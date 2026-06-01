@@ -83,7 +83,7 @@
 "aaperform_avo","Integer","","Recommended","Avoid performance (P) subscore","0::36;-9","-9 = incomplete",""
 "totalanx","Integer","","Recommended","Total anxiety (sum anxiety S and anxiety P subscores)","0::72;-9","-9 = incomplete",""
 "totalav","Integer","","Recommended","Total avoid (sum avoid S and P subscores)","0::72;-9","-9 = incomplete",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "askqs","Integer","","Recommended","Fear P: asking questions in a store","0::3;-9","0 = none; 1 = mild; 2 = moderate; 3 = severe; -9 = incomplete",""
 "askqas","Integer","","Recommended","Avoidance P: asking questions in a store","0::3;-9","0 = none; 1 = mild; 2 = moderate; 3 = severe; -9 = incomplete",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

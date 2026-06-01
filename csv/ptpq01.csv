@@ -33,7 +33,7 @@
 "treatment_prefer_par","Integer","","Recommended","If your child's provider were to recommend treatment for depression would you have a preference for your child's treatment?","1::5","1= I would prefer medication only; 2= I would prefer talk therapy only; 3= I would prefer both medication and talk therapy; 4= I have no preference, any recommendation is fine; 5= I am not interested in any treatment at this time",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "preference_1","Integer","","Recommended","In the coming for treatment of depression, I would prefer to receive:","1::3","1= Drug treatment; 2= Talking treatment; 3= No preference",""
 "preference_2","Integer","","Recommended","In the coming for treatment of depression, my family would prefer if I receive:","1::3","1= Drug treatment; 2= Talking treatment; 3= No preference",""
 "preference_3","Integer","","Recommended","I expect that the most effective treatment for me would be","1::3","1= Drug treatment; 2= Talking treatment; 3= No preference",""

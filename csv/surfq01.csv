@@ -90,7 +90,7 @@ For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' c
 being '002', and FSEQNO of '3' can be thought of as being '003'.
 The first digit of FSEQNO relates to the corresponding ENF sequence number at that visit and the third
 digit relates to the specific adjudicator who completed the adjudication form.",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "sfq15","Integer","","Recommended","Did [patient] work for pay, at a temporary or day job, or as a volunteer in the past month?","0;1","0=No; 1=Yes",""
 "sfq16","Integer","","Recommended","If [patient] did not work in the past month, was he/she looking for work?","0;1;2","0=No; 1=Yes; 2=Working",""
 "sfq29b","Integer","","Recommended","Type of medicare","1;2;3","1 = Traditional medicare; 2 = Traditional Medicare plus supplemental i; 3 = Medicare HMO",""

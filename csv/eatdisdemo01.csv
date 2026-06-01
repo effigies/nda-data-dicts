@@ -8,7 +8,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","assessment"
 "rhanded","Integer","","Recommended","Are you right handed?","0;1;-9","0=No; 1=Yes; -9= Missing",""
 "fspgod","String","70","Recommended","Subject's gender OTHER describe","","",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "otherrace","String","200","Recommended","specify other race","","The following questions are about you or the child's family.",""
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
 "ethnic_group","String","255","Recommended","Ethnic group","","",""

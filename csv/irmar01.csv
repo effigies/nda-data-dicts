@@ -41,7 +41,7 @@
 "irmas_19","Integer","","Recommended","A woman who dresses in skimpy clothes should not be surprised if a man tries to force her to have sex.","1::7","1 = Not at all agree; 7 = Very much agree",""
 "irmas_20","Integer","","Recommended","Rape happens when a mans sex drive gets out of control.","1::7","1 = Not at all agree; 7 = Very much agree",""
 "irm_mean","Float","","Recommended","Mean Score of all items (irmas_1 to irmas_20)","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "irmas_1","Integer","","Recommended","If a woman is raped while she is drunk, she is at least somewhat responsible for letting things get out of control.","1::7","1 = Not at all agree; 7 = Very much agree",""
 "irmas_2","Integer","","Recommended","Although most women would not admit it, they generally find being physically forced into sex a real turn-on.","1::7","1 = Not at all agree; 7 = Very much agree",""
 "irmas_3","Integer","","Recommended","If a woman is willing to make out with a guy, then it is no big deal if he goes a little further and has sex.","1::7","1 = Not at all agree; 7 = Very much agree",""

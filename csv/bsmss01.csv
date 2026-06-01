@@ -21,7 +21,7 @@
 "bsmss12","Float","","Recommended","Total Level of School Completed Score","3::21","Add parent's average level of school completed score and doubled participant/spouse average level of school completed score and divide by 3. If full time student, enter only parents' score",""
 "bsmss16","Float","","Recommended","Total Occupation score","5::45","Add parent's average occupation score and doubled participant/spouse average occupation score and divide by 3. If full time student, enter only parents' score",""
 "bsmss17","Float","","Recommended","Social Status. Total Score","","Add total education score and total occupation score",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "ssfhliv00","String","255","Recommended","Who child lives with","","1= Mother; 2= Father; 3= Grandparent; 4= Other","primary_residence"
 "bio_mother_occupation","String","100","Recommended","Biological Mother Occupation","","","ses_detail_occ_mother"
 "bio_father_occupation","String","100","Recommended","Biological Father Occupation","","","ses_detail_occ_father"

@@ -43,7 +43,7 @@
 "pss9","Integer","","Recommended","9. In the last 24 hours, how often have you been angered because of things that were outside of your control? ","0::4;95","0=Never; 1=Almost Never; 2=Sometimes; 3=Fairly Often; 4=Very Often; 95=Not Done","pss_13r"
 "pss10","Integer","","Recommended","10. In the last 24 hours, how often have you felt difficulties were piling up so high that you could not overcome them? ","0::4;95","0=Never; 1=Almost Never; 2=Sometimes; 3=Fairly Often; 4=Very Often; 95=Not Done",""
 "session_id","String","20","Recommended","session ID/screening ID","","","screeningid"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","assessment_name,form_name,ps_version"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","assessment_name,form_name,ps_version"
 "site","String","101","Recommended","Site","","Study Site","site_uid,siteid"
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","assessment,visit_name"
 "status","String","50","Recommended","Status","","","tstst"

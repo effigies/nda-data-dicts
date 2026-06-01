@@ -135,7 +135,7 @@
 "site","String","101","Recommended","Site","","Study Site","site_id,site_uid,siteid"
 "certcode","Integer","","Recommended","stepbd certification code","","",""
 "session_id","String","20","Recommended","session ID/screening ID","","","screeningid"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_name"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","form_name"
 "pdevid","Integer","","Recommended","Deviation number","","",""
 "pdevdtds","Date","","Recommended","Date Deviation Discovered","","",""
 "pdevdt","Date","","Recommended","Date Deviation Occurred","","",""

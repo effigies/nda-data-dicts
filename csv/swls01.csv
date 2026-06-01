@@ -18,7 +18,7 @@
 "swls4_5scale","Integer","","Recommended","5-point scale: Have gotten the important things I want in life","1::5","1=Disagree strongly; 2=Disagree; 3=Neither agree nor disagree; 4=Agree; 5=Agree Strongly",""
 "swls5_5scale","Integer","","Recommended","5-point scale: If I could live life over, would change almost nothing","1::5","1=Disagree strongly; 2=Disagree; 3=Neither agree nor disagree; 4=Agree; 5=Agree Strongly",""
 "swlstotal_5scale","Integer","","Recommended","Satsifaction with life. Sum score of items. Exact total.","","","swl_total"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "swl1","Integer","","Recommended","In most ways my life is close to my ideal","1 :: 6","1 = Strongly Agree; 2=2; 3=3; 4=4; 5=5; 6 = Strongly Disagree",""
 "swl2","Integer","","Recommended","The conditions of my life are excellent.","1 :: 6","1 = Strongly Agree; 2=2; 3=3; 4=4; 5=5; 6 = Strongly Disagree",""
 "swl3","Integer","","Recommended","I am satisfied with my life. ","1 :: 6","1 = Strongly Agree; 2=2; 3=3; 4=4; 5=5; 6 = Strongly Disagree",""

@@ -50,7 +50,7 @@
 "chf_outcome4","String","250","Recommended","Checks for outcome after 4th attempt","","",""
 "chf_outcome5","String","250","Recommended","Checks for outcome after 5th attempt","","",""
 "asaps01g","Integer","","Recommended","Suicide attempt","0;1","0 = No;1 = Yes","suic2,suic_atmpt_ever"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "suicide_attempt_days","Integer","","Recommended","days baseline to suicide attempt","","",""
 "suicide_attempt2_days","Integer","","Recommended","days baseline to suicide attempt 2","","",""
 "suicide_attempt3_days","Integer","","Recommended","days baseline to suicide attempt 3","","",""

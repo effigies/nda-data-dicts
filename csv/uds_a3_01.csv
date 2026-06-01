@@ -41,7 +41,7 @@
 "uds_a3_7_06","Integer","","Recommended","Child - Method of evaluation","1 :: 7","1= Autopsy; 2= Examination; 3= Medical record review from formal dementia evaluation; 4= Review of general medical records AND co-participant and/or subject telephone interview; 5= Review of general medical records only; 6= Subject and//or co-participant telephone interview; 7= Family report",""
 "uds_a3_7_07","Integer","","Recommended","Child - Age of onset","","999 = Unknown",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "respondents","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Physician","",""
 "respond_detail_oth_spec","String","255","Recommended","Respondent details","","",""
 "eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""

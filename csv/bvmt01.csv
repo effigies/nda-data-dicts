@@ -53,7 +53,7 @@
 "bvmt_false_d","Integer","","Recommended","Brief Visuopatial Memory Test-Revised False Alarms Figure D","0;1","0= Incorrect; 1= Correct","bvmt_recognition8_response"
 "bvmt_false_e","Integer","","Recommended","Brief Visuopatial Memory Test-Revised False Alarms Figure E","0;1","0= Incorrect; 1= Correct","bvmt_recognition10_response"
 "bvmt_false_f","Integer","","Recommended","Brief Visuopatial Memory Test-Revised False Alarms Figure F","0;1","0= Incorrect; 1= Correct","bvmt_recognition11_response"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "stimcorss3","Float","","Recommended","Set size 3 stimuli correct per trial","0::3","","vs_stimcorpertrialss3"
 "stimcorss4","Float","","Recommended","Set size 4 stimuli correct per trial","0::4","","vs_stimcorpertrialss4"
 "stimcorss5","Float","","Recommended","Set size 5 stimuli correct per trial","0::5","","vs_stimcorpertrialss5"

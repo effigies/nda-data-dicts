@@ -45,7 +45,7 @@
 "highest_weight_mn","Float","","Recommended","What has been your highest weight in the past month?","","Weight in pounds.","eddi_28,ede29"
 "highest_weight_yr","Float","","Recommended","What has been your highest weight in the past 12 months?","","Weight in pounds.","eddi_29,ede30"
 "dawba_p2_d","String","10","Recommended","Diet/Weight/Body - What was your highest weight ever?","","","eddi_31,ede31,highest_weight_ever"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "ede7h","Integer","","Recommended","Which ones? Eat large amounts when not physically hungry?","0;1; 888; 999","0 = No; 1 = Yes; 888 = N/A; 999 = Missing",""
 "ede7i","Integer","","Recommended","Which ones? Eat along because you were embarassed of how much you were eating?","0;1; 888; 999","0 = No; 1 = Yes; 888 = N/A; 999 = Missing",""
 "ede7j","Integer","","Recommended","Which ones? Feel depressed or very guilty after overeating?","0;1; 888; 999","0 = No; 1 = Yes; 888 = N/A; 999 = Missing",""

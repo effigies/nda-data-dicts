@@ -21,7 +21,7 @@
 "fh07","Integer","","Recommended","7. Subject adopted","0;1;9","",""
 "dm7","Integer","","Recommended","Are you a twin or other multiple?","1;5","1 = No; 5 = Yes",""
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "fsprg","String","150","Recommended","In your own words, to which race(s) or racial group(s) do you belong?","","",""
 "mat_grandma_cntry","String","255","Recommended","Biological Maternal Grandmother country and/ or tribe","","",""
 "mat_grandfa_cntry","String","255","Recommended","Biological Maternal Grandfather country and/ or tribe","","",""

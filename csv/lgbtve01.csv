@@ -14,7 +14,7 @@
 "lgbtve08","Integer","","Recommended","In the past 3 months/past week, how many times have any of the following things happened to you because you are, or were thought to be, LGBTQ: Had someone chase or follow you","0::3","0= Never; 1= Once; 2= Twice; 3= 3 or more times","ve_8c"
 "lgbtve09","Integer","","Recommended","In the past 3 months/past week, how many times have any of the following things happened to you because you are, or were thought to be, LGBTQ: Had your property damaged","0::3","0= Never; 1= Once; 2= Twice; 3= 3 or more times","ve_9c"
 "lgbtve10","Integer","","Recommended","In the past 3 months/past week, how many times have any of the following things happened to you because you are, or were thought to be, LGBTQ: Been spat on","0::3","0= Never; 1= Once; 2= Twice; 3= 3 or more times","ve_10c"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime","assessment.c"
 "ve_total","Integer","","Recommended","LGBT Victimization Experiences Total Score","","",""
 "condition_c","Integer","","Recommended","Patient Condition","-1::2","0 = Control; 1 = Self-Affirmation; 2 = Expressive Writing; -1 = Not applicable","condition.c"

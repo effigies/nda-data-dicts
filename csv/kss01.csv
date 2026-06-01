@@ -219,5 +219,5 @@
 "cms10","Float","","Recommended","Weight (in kilogram)","","",""
 "head_circum","Float","","Recommended","Head Circumference (in cm)","","-1 = Not known; -999 = No Data",""
 "behavobs_handedness","String","25","Recommended","Handedness","1;2;3;NYE;999","1 = Right-handed; 2 = Left-handed; 3 = Ambidextrous; NYE =not yet established; 999 = missing/refused",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "brac_intox","Integer","","Recommended","How intoxicated do you feel?","0::11","0 = Not at all; 1 = Very slightly; 3 = Mildly; 5 = Moderately; 8 = Drunk as I have ever been; 11 = More drunk than I have ever been",""

@@ -51,7 +51,7 @@
 "data_file4","File","255","Recommended","Data file 4","","Path to data file, e.g., Users/username/Documents/subjectABC_file4.csv",""
 "data_file4_type","String","100","Recommended","Data file 4 type","","",""
 "startle_t_score","Float","","Recommended","Startle test T score","","","t_score_1_must_be_2_8_to_q,t_score_1_must_be_2_8_to_q_2"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "testgrp","String","50","Recommended","Laboratory Test Group","","","group"
 "darklight","String","2","Recommended","order or dark light or light dark startle used","DL; LD","DL = Dark then Light; LD= Light then Dark",""
 "edatver","Integer","","Recommended","indicator whether version 2 edat used","2","",""

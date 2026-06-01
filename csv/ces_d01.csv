@@ -30,7 +30,7 @@
 "occasionally_total","Integer","","Recommended","Occasionally or a moderate amount of time total","0::20; 999","999=NA/NK/missing",""
 "most_time_total","Integer","","Recommended","Most or all of the time total","0::20; 999","999=NA/NK/missing",""
 "cesd_score","Integer","","Recommended","Center for Epidemiological Studies Depression Scale (CES-D) Depression Severity Score","0 :: 60; 999","Sum of items 1-20 (4, 8, 12, 16 reverse scored); 0::14= Mild or no depression symptoms; 15::60= Significant depression symptoms; 999= NA/NK/missing","ces_dc_21,cesd,cesd20_total,cesd_total,cesdc_25,cesdscore,cesdtotal"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "cesd_sd","Integer","","Recommended","Sadness(dysphoria) score","","items 2;4;6",""
 "cesd_li","Integer","","Recommended","Loss of Interest(Anhedonia) score","","items 8; 10",""
 "cesd_ap","Integer","","Recommended","Appetite score ","","items 1;18",""

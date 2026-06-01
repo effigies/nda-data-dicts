@@ -50,7 +50,7 @@
 "stai_pre_final_score","Float","","Recommended","MRI Pre Scan STAI Final Score - min is 20 max is 80","","",""
 "stai_pre_score","Float","","Recommended","MRI STAI Pre Scan TOTAL SCORE","","","staix_state_prescan"
 "stai_eeg_final_score","Float","","Recommended","EEG STAI Final Score","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "site","String","101","Recommended","Site","","Study Site",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""

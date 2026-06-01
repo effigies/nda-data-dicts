@@ -362,7 +362,7 @@
 "cbcl_people","Integer","","Recommended","Upset by new people or situations","0::2;888;999","0 = Not true; 1 = Somewhat or sometimes true; 2 = Very true; 888= Missing/Decline to answer; 999= NA",""
 "cbcl92b_text","String","500","Recommended","Describe: Upset by new people or situations ","","",""
 "cbcl_wand","Integer","","Recommended","Wanders away","0::2;888;999","0 = Not true; 1 = Somewhat or sometimes true; 2 = Very true; 888= Missing/Decline to answer; 999= NA",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "p005","Integer","","Recommended","Behaves like opposite sex ","0::2;9","0 = Not True;1 = Somewhat or Sometimes True;2 = Very True or Often True;9 = Missing",""
 "demo_edu_other","String","100","Recommended","Education other: specify","","",""
 "academic_probspecfy","String","500","Recommended","Any academic or other problems in school, specify","","",""

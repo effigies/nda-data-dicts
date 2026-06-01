@@ -15,7 +15,7 @@
 "demo_parttime","Integer","","Recommended","In the last 12 months, how many weeks were you employed part-time, but not full-time?","","",""
 "demo_incomerange","Integer","","Recommended","What is your present household income range in the past year","1::7","1 = $0 - $9,999/yr; 2 = $10,000 - $19,999/yr; 3 = $20,000 - $29,999/yr; 4 = $30,000 - $39,999/yr; 5 = $40,000 - $49,999/yr; 6 = $50,000 - $59,999/yr, 7 = over $60,000/yr",""
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","","dem16,demo_hispanic"
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","","dem15,demographic_race"
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","","dem15,demographic_race"
 "demo_branch","Integer","","Recommended","In what branch of the military did/do you serve?","1::6;999;888;777;555","1 = U.S. Army; 2 = U.S. Marine Corps; 3 = U.S. Navy; 4 = U.S. Air Force; 5 = U.S. Coast Guard; 6 = Other; 999= No Answer; 888= Skipped; 777= Condition Skipped; 555= Missing","dem17"
 "demo_militjob","String","75","Recommended","What was/is your job in the military?","","",""
 "demo_militrank","String","75","Recommended","What was/is your highest military rank?","","","dem21_rank"

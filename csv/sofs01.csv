@@ -27,7 +27,7 @@
 "ins_plan_17","String","30","Recommended","Type of health insurance XVII","","",""
 "ins_plan_18","String","30","Recommended","Type of health insurance XVIII","","",""
 "ins_plan_19","String","30","Recommended","Type of health insurance XIX","","",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "re_enrollment_epic","Integer","","Recommended","How many times a patient re-enrolled for EPIC data","","",""
 "disposition","String","255","Recommended","Patient disposition","","",""
 "attempt_pss_when","Integer","","Recommended","When did PSS defined attempt happen?","1;30;77;180;360","1 = Within The Past 24 Hours (Including Today); 30 = Within The Last Month (But Not Today); 77 = Unable To Complete/Unknown; 180 = Between 1 And 6 Months Ago Or Within The Last 6 Months (But Not Today); 360 = More Than 6 Months Ago",""

@@ -4,7 +4,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","agedeath"
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender,sex"
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "ethnic_group","String","255","Recommended","Ethnic group","","",""
 "grade_highed","String","50","Recommended","Grade/Highest education","","1= Less than 6th grade; 2= Some high school; 3= High school diploma or GED; 4= Some college, no degree; 5= Associates degree; 6= Bachelors degree; 7= Some graduate school; 8= Masters degree and above; 9= Some post-graduate training, no degree; 10= Completed 8th grade, no high school; 11= High school; 12= College or University; 13= Graduate school; 14= Other; 15= Less than high school; 99= Information not available","education"
 "disorder","String","50","Recommended","Disorder","","","primarydx"

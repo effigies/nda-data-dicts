@@ -16,4 +16,4 @@
 "nsesss_total_raw_score","Integer","","Recommended","NSESSS Total/Partial Raw Score:","0::36","Sum of items nsesss_1 to nsesss_9",""
 "nsesss_prorated_raw_score","Float","","Recommended","NSESSS Prorated Total Raw Score: (if 1-2 items left unanswered):","","The prorated score is calculated by summing the scores of items that were answered to get a partial raw score.  Multiply the partial raw score by the total number of items on the NSESSS PTSD (i.e., 9) and divide the value by the number of items that were actually answered (i.e., 7 or 8).",""
 "nsesss_average_total_score","Float","","Recommended","NSESSS Average Total Score:","0::4","Divide the raw total score by number of items in the measure (9)",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""

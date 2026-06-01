@@ -109,7 +109,7 @@
 "pce_delusions9","Integer","","Recommended","Delusions 9. Message from TV/Radio - Current","0::2","0= No Information; 1= No; 2=  Yes","cce_delusions9,sce_delusions9"
 "pce_delusions11","Integer","","Recommended","Delusions 11. Delusions that others can read his/her mind - Current","0::2","0= No Information; 1= No; 2=  Yes","cce_delusions11,sce_delusions11"
 "pce_delusions12","Integer","","Recommended","Delusions 12. Delusions of Reference - Current","0::2","0= No Information; 1= No; 2=  Yes","cce_delusions12,sce_delusions12"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "respond_detail_oth_spec","String","255","Recommended","Respondent details","","","p5,p6,p7"
 "pmsp_delusions4a","Integer","","Recommended","Delusions 4a. Only during Affective Episode - Most Severe Past","0::2","0= No Information; 1= No; 2=  Yes","cmsp_delusions4a,smsp_delusions4a"
 "pmsp_delusions5","Integer","","Recommended","Delusions 5. Nihilism - Most Severe Past","0::2","0= No Information; 1= No; 2=  Yes","cmsp_delusions5,smsp_delusions5"

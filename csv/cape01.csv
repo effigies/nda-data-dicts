@@ -105,7 +105,7 @@
 "cape_pi_total","Integer","","Recommended","CAPE Persecutory Ideation Subscore","0::20","Sum of capepi_1 through capepi_5",""
 "cape_be_total","Integer","","Recommended","CAPE Bizarre Experiences Subscore","0::28","Sum of capebe_6 through capebe_12",""
 "cape_pa_total","Integer","","Recommended","CAPE Perceptual Abnormalities Subscore","0::12","Sum of capepa_13 through capepa_15",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "capepi_1","Integer","","Recommended","Have you ever felt as if people seem to drop hints about you or say things with a double meaning?","0::4","0=Never; 1=Occasionally; 2=Sometimes; 3=Often; 4=Nearly always",""
 "capepi_2","Integer","","Recommended","Have you ever felt as if some people are not what they seem to be?","0::4","0=Never; 1=Occasionally; 2=Sometimes; 3=Often; 4=Nearly always",""
 "capepi_3","Integer","","Recommended","Have you ever felt that you are being persecuted in any way?","0::4","0=Never; 1=Occasionally; 2=Sometimes; 3=Often; 4=Nearly always",""

@@ -69,7 +69,7 @@
 "sleep201","Integer","","Recommended","In the past 7 days... I had trouble staying asleep","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much",""
 "sleep202","Integer","","Recommended","In the past 7 days... I had trouble sleeping","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much",""
 "sleep203","Integer","","Recommended","In the past 7 days... I got enough sleep","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "promis_sleep_4a","Integer","","Recommended","PROMIS Sleep Disturbance 4A: Raw Score","0::20","",""
 "promis_sleep_6a","Integer","","Recommended","PROMIS Sleep Disturbance 6A: Raw Score","0::30","",""
 "promis_t_sleep_6a","Float","","Recommended","PROMIS Sleep Disturbance 6A: T-Score","0::80","",""

@@ -66,7 +66,7 @@
 "date_updated","Date","","Recommended","Date record updated","","","edit_date"
 "safte41","Integer","","Recommended","Appetite decreased","0::4","0=None; 1=Mild; 2=Moderate; 3=Severe; 4=Not Done",""
 "session_id","String","20","Recommended","session ID/screening ID","","","screeningid"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_name"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","form_name"
 "site","String","101","Recommended","Site","","Study Site","site_uid"
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily","visit_name"
 "status","String","50","Recommended","Status","","","tstst"

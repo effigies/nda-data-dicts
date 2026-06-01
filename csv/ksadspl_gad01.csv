@@ -121,4 +121,4 @@
 "gadsupp_v2_v3","Integer","","Recommended","Manually show supplement questions","1;2","1= Yes; 2= No",""
 "g1sce_v2_v3","Integer","","Recommended","Preoccupation with Appropriateness of Past Behavior - Current","0 :: 5","0= No Information; 1= Not present; 2= Subthreshold; 3= Threshold; 4= Yes; 5= No",""
 "ageonset_gad_v2","String","50","Recommended","GAD - Age of onset that episodes first started","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""

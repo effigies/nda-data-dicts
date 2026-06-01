@@ -82,7 +82,7 @@
 ",""
 "form_completed","Integer","","Recommended","Was the form completed?","1::4","1=Yes; 2=No; 3=Unverified; 4 = N/A-Not in age range",""
 "baseline_l_006","Integer","","Recommended","During the past 4 weeks, how much of the time has your physical health or emotional problems interfered with your social activities (like visiting friends, relatives, etc.)?","1::5; -888; -999; -97; -98","1=All of the time; 2=Most of the time; 3=Some of the time; 4=A little of the time; 5=None of the time; -888=Not Applicable; -999=Missing; -97=Missing Online; -98=Purposely Skipped Online","x74ng_rand_q34"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "mossf37","Integer","","Recommended","I worry about losing my memory.","1::5; -9","1 = Definitely true; 2 = Mostly true; 3 = Don't know; 4 = Mostly false; 5 = Definitely false; -9 = Missing data",""
 "mossf38","Integer","","Recommended","I am aging well.","1::5; -9","1 = Definitely true; 2 = Mostly true; 3 = Don't know; 4 = Mostly false; 5 = Definitely false; -9 = Missing data",""
 "date_updated","Date","","Recommended","Date record updated","","","recordeddate"

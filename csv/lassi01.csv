@@ -165,7 +165,7 @@
 "lassi_ast","Integer","","Recommended","Affective strategies total","","",""
 "lassi_gst","Integer","","Recommended","Goal strategies total","","",""
 "lassi_cmst","Integer","","Recommended","Comprehension monitoring strategies total","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "lassi_sft_raw","Integer","","Recommended","Self-testing Sub-scale total raw score ","","",""
 "lassi_tst_raw","Integer","","Recommended","Test Strategies Sub-scale total raw score ","","",""
 "lassi_tmt_raw","Integer","","Recommended","Time Management Sub-scale total raw score ","","",""

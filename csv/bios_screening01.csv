@@ -146,4 +146,4 @@
 "cmedhx37a","String","100","Recommended","Details about physical and/or sexual abuse","","",""
 "pabuse","Integer","","Recommended","Traumatic Event: Physical abuse","0;1","0 = No; 1 = Yes",""
 "sabuse","Integer","","Recommended","Traumatic Event: Sexual abuse","0;1","0 = No; 1 = Yes",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""

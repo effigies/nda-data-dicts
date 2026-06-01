@@ -36,7 +36,7 @@
 "days_baseline","Integer","","Recommended","Days since baseline","","",""
 "rsn11","String","250","Recommended","Reason for contemplated attempt - Reason Specify TEXT","","",""
 "rsn12","String","250","Recommended","Method: Specificity/Planning of contemplated attempt - Reason Specify TEXT","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","formid"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","formid"
 "sui_c1","Integer","","Recommended","Have you ever tried to take your life?","0;1","0=No; 1=Yes","c1"
 "sui_c2","Integer","","Recommended","When you are very angry, do you sometimes say or do things that you later regret?","0;1","0=No; 1=Yes","c2"
 "sui_c3_1","Integer","","Recommended","How many drinks containing alcohol do you have in the past week?","0::3","0= 0-5; 1= 5-6; 2= 7-13; 3= 14 or more","c3_1"

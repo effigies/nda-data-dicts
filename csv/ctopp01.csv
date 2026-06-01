@@ -259,7 +259,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ctopp_4a","Integer","","Recommended","Section 1 Sound Matching (SM) Raw Score","","",""
 "ctopp_4b","Integer","","Recommended","Section 1 Sound Matching (SM) Standard Scores","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "stimcorss3","Float","","Recommended","Set size 3 stimuli correct per trial","0::3","",""
 "stimcorss4","Float","","Recommended","Set size 4 stimuli correct per trial","0::4","",""
 "stimcorss5","Float","","Recommended","Set size 5 stimuli correct per trial","0::5","",""

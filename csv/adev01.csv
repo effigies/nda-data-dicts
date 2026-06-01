@@ -149,7 +149,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "aesa14","Float","","Recommended","PARTICIPANT PAIN PERCEPTION Note: The following pain perception questions are asked of the patients only at Visit 3 (first injection),Visit 4 (wk 1) and Visit 8 (wk8) following the study medication injection.Record the measurement in millimeters of the patient?s mark above starting from the left hand end of the line to the point that the patient marked, and indicate the value in the space
 provided.","","",""
 "aesa15","Integer","","Recommended","Have you had any other physical or health problems since your last visit? (eg: Has the pt. cut down on normal activities because of not feeling physicallyable since their last visit?) ; go to item 19","0;1","No=0; Yes=1;",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_id,form_name,vers,vistyp"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","form_id,form_name,vers,vistyp"
 "daysrz","Integer","","Recommended","days since randomization","","","aesa0b,visitdt"
 "aesa7f","Integer","","Recommended","Sex Drive: Have you had any problems with your sex drive? (Severe = no interest in sex)","0;1;2;3","0=Absent; 1=Mild; 2=Moderate; 3=Severe",""
 "aesa8f","Integer","","Recommended","Sexual Arousal: Have you had any problems becoming sexually aroused (Severe (men) = inability to achieve erection; Severe (women) = vaginal dryness)","0;1;2;3","0=Absent; 1=Mild; 2=Moderate; 3=Severe",""

@@ -87,7 +87,7 @@
 "hxld","Integer","","Recommended","Learning disorder","1::6","1=No; 2=Probable; 3=Definite;4=Current; 5=In partial remission; 6=Past",""
 "cmedhx37","Integer","","Recommended","Any history of physical and/or sexual abuse?","0;1","0 = No;1 = Yes",""
 "trichotillomania","Integer","","Recommended","Trichotillomania","0;1","0=No; 1=Yes",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "dce_01","Date","","Recommended","Date of Consensus panel","","",""
 "adhdnos_pdx","Integer","","Recommended","Parent/Child/Clinician diagnostic code for ADHD NOS","0;1","0 = Does NOT meet DSM-IV criteria;1 = Meets full criteria for DSM-IV",""
 "scid5_dis1_subtype","String","200","Recommended","Disorder Subtype","","",""

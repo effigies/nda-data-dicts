@@ -399,7 +399,7 @@
 "regmense","Integer","","Recommended","Regular menstrual periods","0;1; 999","0=No;1=Yes; 999=NA","regular"
 "premenst","Integer","","Recommended","Medical history and physical development - If female: Current premenstrual?","0::2","0=N/A (male); 1=no; 2=yes",""
 "menarche","String","50","Recommended","Menarche cycle","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "surg_surgtype1","String","255","Recommended","TYPE OF SURGERY 1","","","surgery"
 "inter_othercond","String","50","Recommended","CLIENTS MEDICAL STATUS: Other","","","other"
 "pu_menstrcd","Integer","","Recommended","Menstrual status code","0::14","1= Regular cycle (periods occur regularly); 2= Irregular cycles and/or bleeding (eg periods occur irregularly, spotting, heavy or prolonged bleeding); 3= Menopause; 4= Surgery (hysterectomy); 5= Hormone imbalance (weight loss, anorexia, strenuous physical activity, stress, decreased body fat); 6= Pharmacologic suppression...(eg depo; 7= Pregnancy (includes three months post; 8= Other reason for Amenorrhea (specify by notation); 9= Unknown; 0 = Not applicable, patient is male; 10 = Not applicable; child/adolescent has not started menstration; 11 = Amenorrheic due to bilateral oophorectomy (ovaries surgically removed); 12 = Amenorrheic due to other surgical procedure -- specify surgery; 13 = 0 to 6 weeks post partum; 14 = More than 6 weeks to 8 months post partum","menstat"

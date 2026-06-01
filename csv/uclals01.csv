@@ -37,7 +37,7 @@
 "uls19","Integer","","Recommended","How often do you feel there are people you can talk to?","0::3;999","0=Never; 1=Rarely; 2=Sometimes; 3=Always; 999=Skipped","loneliness19,loneliness_q19,talkto,uclalsv3_19"
 "uls20","Integer","","Recommended","How often do you feel that there are people you can turn to?","0::3;999","0=Never; 1=Rarely; 2=Sometimes; 3=Always; 999=Skipped","loneliness20,loneliness_q20,uclalsv3_20"
 "uls_total","Integer","","Recommended","UCLA Loneliness Scale Total Score","","","uclalsv3_total"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "alone","Integer","","Recommended","Could go it alone","1::7","1= Strongly Disagree;2 = Somewhat Disagree;3 = Disagree;4 = Neutral or Undecided;5 = Agree;6 = Somewhat Agree;7 = Strongly Agree; I set my personal goals and standards as high as possible
 ",""
 "outgoing","Integer","","Recommended","I am an outgoing person","0::3","0=Never; 1=Rarely; 2=Sometimes; 3=Often",""

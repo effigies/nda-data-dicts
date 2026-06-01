@@ -47,7 +47,7 @@
 "chi_hostility","Integer","","Recommended","hostility subscale score","","",""
 "chi_irritability","Integer","","Recommended","irritability subscale score","","",""
 "chitotal","Integer","","Recommended","Total Raw Score","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "bussdk_15","Integer","","Recommended","I often find myself disagreeing with people.","0;1;999","1= TRUE; 0= FALSE; 999= DO NOT WISH TO ANSWER",""
 "bussdk_18","Integer","","Recommended","When I am angry, I sometimes sulk.","0;1;999","1= TRUE; 0= FALSE; 999= DO NOT WISH TO ANSWER",""
 "bussdk_20","Integer","","Recommended","I am irritated a great deal more than people are aware of.","0;1;999","1= TRUE; 0= FALSE; 999= DO NOT WISH TO ANSWER",""

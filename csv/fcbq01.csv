@@ -8,7 +8,7 @@
 "fsprels","Integer","","Recommended","Which category best describes your current relationship status?","1::10;777","1= Single/never married; 2= Married; 3= Living together; 4= Domestic partnership; 5= Separated; 6= Divorced; 7= Widowed; 8= Engaged; 9=Other; 10 = In a committed relationship; 777=Not applicable",""
 "self_birthsp","String","50","Recommended","Where were you born specify. PX010201_Birthplace_Location","","In the United States - Print name of state.  Outside the United States - Print U.S. Territory (e.g., Puerto Rico, U.S. Virgin Islands, Guam) or name of foreign country etc.","fspwb"
 "fspliv","String","20","Recommended","If born outside of U.S., How many years have you been in the U.S.?","","",""
-"race","String","100","Required","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","","fsgdesr"
+"race","String","100","Required","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","","fsgdesr"
 "fsprg","String","150","Recommended","In your own words, to which race(s) or racial group(s) do you belong?","","",""
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","","fsgdese"
 "fsrimp","Integer","","Recommended","How important is your race to who you are?","1::4","1= (1) Very important to who I am; 2= (2) Somewhat important to who I am; 3= (3) Not very important to who I am; 4= (4) Not at all important to who I am",""

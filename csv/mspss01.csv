@@ -27,7 +27,7 @@
 "mspssmw_4","Integer","","Recommended","I can talk about my problems with my family.","1::5; 888; 999","1 = Strongly agree; 2 = Agree; 3 = Neither Agree nor Disagree; 4 = Disagree 5 = Strongly agree;  888 = not applicable; 999 = missing",""
 "mspssmw_5","Integer","","Recommended","I can count on my friends when things go wrong.","1::5; 888; 999","1 = Strongly agree; 2 = Agree; 3 = Neither Agree nor Disagree; 4 = Disagree 5 = Strongly agree;  888 = not applicable; 999 = missing",""
 "mspssmw_6","Integer","","Recommended","I have friends with whom I can share my joys and sorrows.","1::5; 888; 999","1 = Strongly agree; 2 = Agree; 3 = Neither Agree nor Disagree; 4 = Disagree 5 = Strongly agree;  888 = not applicable; 999 = missing",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "mspss_mfam","Float","","Recommended","Family Subscale mean score","","",""
 "mspss_mfri","Float","","Recommended","Friends Subscale mean score","","",""
 "mspss_mso","Float","","Recommended","Significant others subscale mean score","","",""

@@ -12,7 +12,7 @@
 "errors_total","Integer","","Recommended","Total Errors","","","det_err,err,idn_err,ocl_err,onb_err,sst_err,twb_err"
 "det_presnt","Integer","","Recommended","number of correct plus error moves","","","idn_presnt,ocl_presnt,onb_presnt,presnt,sst_presnt,twb_presnt"
 "det_sti","Integer","","Recommended","numberof trials presented","","","idn_sti,ocl_sti,onb_sti,sst_sti,sti,twb_sti"
-"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "chosen_prob","String","20","Recommended","Reward probability of the chosen stimulus","0;17;25;50;75;83;99;[17, 50];[17, 83];[25, 50];[25, 75];[50, 17];[50, 25];[50, 50];[50, 75];[50, 83];[75, 25];[75, 50];[83, 17];[83, 50]","NULL means the reward probabilty is 0.",""
 "total_probs","String","50","Recommended","Reward probabilities of all stimuli","","The array is composed of reward probability values. Depending on the task version, the low is either 25 or 17; and high is either 75 or 83. Medium is always 50.",""
 "payout","Integer","","Recommended","Reward received by the subject","0;1;99","0= Reward not received; 1= Reward received; 99= No payout was shown to the subject",""

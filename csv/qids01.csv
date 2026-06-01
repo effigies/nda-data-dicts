@@ -37,7 +37,7 @@
 "qids_score_rand","Float","","Recommended","QIDS RAND Total Score","","",""
 "subject_description","String","4000","Recommended","Subject related information (e.g the affection, phenotype, disease information, etc.).","","",""
 "site","String","101","Recommended","Site","","Study Site","siteid"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "study","String","100","Recommended","Study; The code for each individual study","","e.g., the name of the study in multi-grant collections",""
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14","week1"
 "qpgtot2","Integer","","Recommended","QIDS Item 5 + highest 6-9","","",""

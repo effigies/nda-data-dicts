@@ -6,7 +6,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","q02"
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","survey_complete"
 "hispanic","Integer","","Recommended","Is subject of Hispanic, Latino, or Spanish origin?","0; 1; 999","0 = No; 1 = Yes; 999= missing","q03"
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "ethnic_group","String","255","Recommended","Ethnic group","","","q04a"
 "q05","Integer","","Recommended","What is your current clinical position?","1::4; -888; -999","1=Nurse; 2=Staff/Attending physician; 3=Resident physician; 4=Other; -888=Not Applicable; -999=Missing;",""
 "q06","String","50","Recommended","If other, please describe","","",""

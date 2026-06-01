@@ -54,3 +54,4 @@
 "cati_sen","Integer","","Recommended","CATI Sensory Sensitivity","7::35","Sum: 4, 11, 18, 24, 31, 36, 40",""
 "cati_soc","Integer","","Recommended","CATI Social Interaction","7::35","Sum: 10, 17, 30, 35, 8 (rev), 15 (rev), 28 (rev)",""
 "cati_total","Integer","","Recommended","CATI total score","42::210","Sum: 1 - 42; reverse 8, 15, 19, 23, 28",""
+"reporter_type","Integer","","Recommended","Was the questionnaire completed by the participant themselves or by a proxy informant?","1;2","1 = Self; 2 = Informant",""

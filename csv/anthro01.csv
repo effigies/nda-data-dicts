@@ -47,7 +47,7 @@
 "weight_std","Float","","Recommended","Weight - Standard Unit","","-1 = Not known; 999 = Missing","anth_7_weight,fweight_4_text,mweight_4_text"
 "anthro_weight2_lb","Float","","Recommended","Measured Weight 2 (lbs)","","","fweight_5_text,mweight_5_text"
 "anthro_weight3_lb","Float","","Recommended","Measured Weight 3 (lbs)","","","fweight_6_text,mweight_6_text,weight_avg"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "hips","Float","","Recommended","6. Hips","","inches; 999=Legitimately skipped","fhip_12_text,mhip_12_text"
 "bp","String","25","Recommended","Blood Pressure","","",""
 "pulse","Float","","Recommended","Pulse","","",""

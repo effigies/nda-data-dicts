@@ -83,7 +83,7 @@
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","demora"
 "demosam_002","Integer","","Recommended","How many years of education have you had","","0 = No Education ;1 = 1st grade ;2 = 2nd grade ;3 = 3rd grade ;4 = 4th grade ; 5=5 years Completed 5th grade (Grade School) ;6=6 years Completed 6th grade;7=7 years Completed 7th grade ;8=8 years Completed 8th grade (Middle School) ;9 = 9th grade ; 10 = 10th grade ; 11 = 11th grade ; 12 = 12th grade OR GED ; 13 = 1 year of college ; 14 = 2 years of college or associates degree ; 15 = 3 years of college ; 16 = bachelor's degree ; 17 = 1 year of graduate school ; 18 = 2 years of graduate school ; 19 = 3 years of graduate school ; 20 = 4+ years of graduate school","demo5"
 "site_race","String","50","Recommended","Race (Site Provided)","","",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","","demo10"
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","","demo10"
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","","demo9"
 "wrkfrpay","Integer","","Recommended","Work for Pay?","0;1;9;777","0=No; 1=Yes; 9=NK; 777=Not applicable","demo12"
 "resp_occupation","String","255","Recommended","Respondent's occupation","","","demo12a"

@@ -73,7 +73,7 @@
 "masq_d30_26","Integer","","Recommended","Felt like I had a lot of energy (Imputed)","0::4","0=Extremely; 1=Quite a bit; 2=Moderately; 3=A little bit; 4=Not at all",""
 "masq_d30_29","Integer","","Recommended","Felt really good about myself (Imputed)","0::4","0=Extremely; 1=Quite a bit; 2=Moderately; 3=A little bit; 4=Not at all",""
 "masq_d30_gen_distress","Float","","Recommended","General Distress Score","","","masqd30_score_gd"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "masq_diar","Integer","","Recommended","Had diarrhea","0::4","0=Not at all; 1=A little bit; 2=Moderately; 3=Quite a bit; 4=Extremely","masq62_8"
 "bsimo","Float","","Recommended","Months from Time 0 to assessment","","",""
 "baseline_a_002","String","100","Recommended","Interview Start Time:","","",""

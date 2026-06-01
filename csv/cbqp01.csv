@@ -190,7 +190,7 @@
 "cbq_18_rate","Integer","","Recommended","My son or daughter thinks my opinions don't count.","1::5","5 = Strongly Agree; 4 = Agree; 3 = Neither Agree nor Disagree; 2 = Disagree; 1 = Strongly Disagree","cbq_18"
 "cbq_19_rate","Integer","","Recommended","We argue a lot about rules.","1::5","5 = Strongly Agree; 4 = Agree; 3 = Neither Agree nor Disagree; 2 = Disagree; 1 = Strongly Disagree","cbq_19"
 "cbq_20_rate","Integer","","Recommended","My son or daughter tells me he/she thinks I am unfair.","1::5","5 = Strongly Agree; 4 = Agree; 3 = Neither Agree nor Disagree; 2 = Disagree; 1 = Strongly Disagree","cbq_20"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "aescode","Integer","","Recommended","Staff code number of person completing this form","","999= Missing Data","pi_staff"
 "fam_conflict_1","Integer","","Recommended","Past month- We got angry at each other.","1::7; -9","1=Never;  2=Once;  3=Twice;  4=3 times;  5=4 or 5 times;  6=6 or 7 times;  7=More than 7 times; -9=Missing",""
 "fam_conflict_2","Integer","","Recommended","Past month- We argued.","1::7; -9","1=Never;  2=Once;  3=Twice;  4=3 times;  5=4 or 5 times;  6=6 or 7 times;  7=More than 7 times; -9=Missing",""

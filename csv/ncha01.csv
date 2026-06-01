@@ -334,7 +334,7 @@
 "acha2011_65i","Integer","","Recommended","Do you have any of the following? Other disability","0;1","0= No; 1= Yes",""
 "acha2011_66","Integer","","Recommended","Are you currently or have you been a member of the United States Armed Services (Active Duty, Reserve, or National Guard)?","0::2","0= No; 1= Yes and I have deployed to an area of hazardous duty; 2= Yes and I have not deployed to an area of hazardous duty","college_demo_q8"
 "intersex","Integer","","Recommended","Have you ever been diagnosed by a medical professional as having a intersex condition?","0;1;-8;-9","0= No; 1= Yes; -8= Do not know; -9= Prefer not to answer",""
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "race_other","String","100","Recommended","Race of Respondent Specify","","","demq7a_7_text"
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
 "sogi_female","Integer","","Recommended","What is your current gender? (Select one or more responses) - Female","0;1","0= Unchecked; 1= Checked",""

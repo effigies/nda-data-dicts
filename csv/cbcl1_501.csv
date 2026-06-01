@@ -222,7 +222,7 @@
 "cbclpre35_start","Integer","","Recommended","If your child gets into many fights, then describe who starts the fights","1::3","3 = The child usually starts the fights. ; 2 = Sometimes the child starts the fights and sometimes another child starts the fights. ; 1 = The child usually does NOT start the fights.",""
 "cbclpre100","Integer","","Recommended","Please write in any problems the child has that were not listed above - are any present?","0;1","0 = No; 1 = Yes","cbcl3177_100"
 "cbclpre101_des","String","2000","Recommended","Does this child have any illness or disability (either physical or mental)? Please describe","","","cbcl_103_describe"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "cbcl_dsm_affectiveproblems_raw","Integer","","Recommended","CBCL (1.5-5 or 6-18): DSM scale affective problems raw","","","dsm5_1_scale"
 "cbcl_dsm_anxietyproblems_raw","Integer","","Recommended","CBCL (1.5-5 or 6-18): DSM scale anxiety problems raw","","","dsm5_2_scale"
 "kkoddr","Integer","","Recommended","Oppositional Defiant Problems  Raw score ","","","dsm5_5_scale"

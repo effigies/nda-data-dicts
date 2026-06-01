@@ -395,7 +395,7 @@
 "compsch3","Integer","","Recommended","Academic Scale - Repeated Grade","0;1;9","Calculated by Scoring Program; 9 = Missing",""
 "compsch4","Integer","","Recommended","Academic Scale - School Problems","0;1;9","Calculated by Scoring Program; 9 = Missing",""
 "visnum","Float","","Recommended","Numeric Visit Number","","-1.5 = Pre-Screening; -1 = Screening; 0 = Baseline; ## = Visit ## (from 1 to 10); Whole numbers = standard monthly visits; #.001 - #.009 = Unscheduled; #.1 = End of Phase 1; #.2 = End of Phase 2; #.3 = End of Phase 3; #.4 = End of Open Choice Phase; #.5 = End of Study; #.6 = Genetic Analysis; 1000=all visits",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","cbclversion"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","cbclversion"
 "bsimo","Float","","Recommended","Months from Time 0 to assessment","","","monfol"
 "u18avoidpersontscore","Integer","","Recommended","Avoidant Personality Problems T Score","","",""
 "u18avoidprobtotalscore","Integer","","Recommended","Avoidant Personality Problems Total Score","","",""

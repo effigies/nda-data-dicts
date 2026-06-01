@@ -78,7 +78,7 @@
 "mirun1_highreward","Float","","Recommended","Monetary Incentive Delay Run 1 High Reward","","-999 = Missing","midrun2_highreward,sidrun1_highreward,sidrun2_highreward,xidrun_highreward"
 "midrun1_lowreward","Float","","Recommended","Monetary Incentive Delay Run 1 Low Reward","","-999 = Missing","midrun2_lowreward,sidrun1_lowreward,sidrun2_lowreward,xidrun_lowreward"
 "comment","String","500","Recommended","Miscellaneous comments about assessment","","","xid_notes"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "confederate","Integer","","Recommended","Affiliative Confederate ID - act's as participant's partner during visit to build affiliation by completing tasks together.","","",""
 "time_assess","String","20","Recommended","Time of day the assessment was taken. Hour:minutes","","",""
 "timeloss","Float","","Recommended","Reaction time for loss","","msec",""

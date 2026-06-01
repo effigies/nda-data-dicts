@@ -63,7 +63,7 @@
 "rec","Integer","","Recommended","Evaluation of Rectal","1::6; -9","1=Normal 2=Abn. Excludes; 3=Abn. Does Not Exclude; 4=Abnormal; 5=Abnormal, NOT clinically significant; 6=Abnormal, clinically significant;-9=not evaluated","q69"
 "genit","Integer","","Recommended","Evaluation of Genital/Pelvic","1::6; -9","1=Normal 2=Abn. Excludes; 3=Abn. Does Not Exclude; 4=Abnormal; 5=Abnormal, NOT clinically significant; 6=Abnormal, clinically significant;-9=not evaluated",""
 "session_id","String","20","Recommended","session ID/screening ID","","","screeningid"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_name"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","form_name"
 "hdnkpe","Integer","","Recommended","Head/Neck PE Results","1::7; -9","1=Normal; 2=Abnormal and Not Clinically Significant; 3=Abnormal and Clinically Significant; 4=Abnormal; 5=Abnormal, Excludes from Study; 6=Abnormal, Does not Exclude from Study; 7=Other; -9=Not done","head_and_neck,pe_3,phys2"
 "hdnkcmt","String","250","Recommended","Head/Neck comments","","","head_and_neck_comments,pe_3a"
 "eyespe","Integer","","Recommended","Eyes PE Results","1::7; -9","1=Normal; 2=Abnormal and Not Clinically Significant; 3=Abnormal and Clinically Significant; 4=Abnormal; 5=Abnormal, Excludes from Study; 6=Abnormal, Does not Exclude from Study; 7=Other; -9=Not Evaluated","phex_q12,q15"

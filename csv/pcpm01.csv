@@ -14,7 +14,7 @@
 "cmed_mood_stabilizer","Integer","","Recommended","Current med: mood stabilizer","0;1;999","0=No; 1=Yes; 999 = Missing/No info",""
 "cmed_othermed","Integer","","Recommended","Current med: other","0;1","0=no; 1=yes",""
 "v1_mh_cap","String","100","Recommended","Condition/Abnormality/Procedures","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "currentmed_tap","Integer","","Recommended","Typical Antipsychotic Medication","1::10","1 = Chlorpromazine (Thorazine); 2 = Fluphenazine (Prolixin); 3 = Haloperidol (Haldol); 4 = Loxapine (Adasuve); 5 = Molindone (Moban); 6 = Perphenazine (Trilafon); 7 = Pimozide (Orap); 8 = Thioridazine (Mellaril); 9 = Thiothixene (Navane); 10 = Trifluoperazine (Stelazine)",""
 "currentmed_ms","Integer","","Recommended","Mood Stabilizer Medication","1::10","1 = Carbamazepine (Tegretol); 2 = Divalproex Sodium (Depakote); 3 = Gabapentin (Neurontin); 4 = Lamotrigine (Lamictal); 5 = Lithium Carbonate; 6 = Lithium Citrate; 7 = Oxcarbazepine (Trileptal); 8 = Topiramate (Topamax); 9 = Buspirone (Buspar); 10 = Hydroxyzine (Vistaril)",""
 "currentmed_aanb","Integer","","Recommended","Anti-Anxiety Medication","1;2","1 = Buspirone (Buspar); 2 = Hydroxyzine (Vistaril)",""

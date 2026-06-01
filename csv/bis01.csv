@@ -44,7 +44,7 @@
 "bis_fi","Integer","","Recommended","Factor I. Attentional Impulsiveness","","sum of 5, 6, 9,  11, 20, 24, 26, 28","bis_2attimp,o_bis_fi"
 "bis_fii","Integer","","Recommended","Factor II. Motor Impulsiveness","","sum of 2,3,4,16, 17,19,21,22,23,25,30","bis_2motimp,o_bis_fii"
 "bis_fiii","Integer","","Recommended","Factor III. Non-planning Impulsiveness.","","sum of 1, 7, 8, 10,  12,  13, 14, 15, 18, 27, 29","bis_2npimp,bis_nonplan,bis_nonplanning,o_bis_fiii"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","edit_date"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","edit_date"
 "bis_parcel1","Float","","Recommended","1. Acts impulsively ","","mean of item 19 and 17",""
 "bis_parcel2","Float","","Recommended","2. Not planful ","","mean of items 1 and 7",""
 "bis_parcel3","Float","","Recommended","3. Can't sit still ","","mean of items 11 and 28",""

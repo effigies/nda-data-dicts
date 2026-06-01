@@ -36,7 +36,7 @@
 "demo_partner_edu","String","100","Recommended","Spouse/partner highest education level","Less than 8th grade; 9th grade to 11th grade; High School Graduate/GED or equivalent; Some college credit, but less than 1 year; Technical college/vocational school; Associate degree; Bachelor degree; Master degree; Professional degree (MD, PhD, JD)","","demo_p_part_edu_comp,pr_demo16"
 "pr_demo17","Integer","","Recommended","Spouse or partner's employment status:","1::6","1=Working a full time paid job; 2=Working a part time paid job; 3=Full time student; 4= Part time student; 5=Not currently working; 6=Other",""
 "demo_partner_occupation","String","100","Recommended","Spouse/partner Occupation","","","demo_p_part_curr_occup,pr_demo18"
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","","pre_demo4"
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","","pre_demo4"
 "ch_race","String","55","Recommended","Child's/study subject  Race specify","","","pre_demo4a"
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","","pre_demo5"
 "pre_demo7","Integer","","Recommended","Type of Residence","1::3","1=City(large urban area); 2=2 Town(small urban area); 3= Rural Community",""

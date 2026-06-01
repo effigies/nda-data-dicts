@@ -137,7 +137,7 @@
 "yells_p","Integer","","Recommended","Past Behavior 32. Yells or makes loud noises in an unsettled/distressed manner","1::4","1=Same; 2=Worse; 3=Better; 4=New",""
 "avoids_c","Integer","","Recommended","Current Behavior 33. If not pushed, avoids new or unfamiliar activities","1::5","1= Not at all; 2=Mild; 3=Moderate; 4=Severe; 5=Very Severe",""
 "avoids_p","Integer","","Recommended","Past Behavior 33. If not pushed, avoids new or unfamiliar activities","1::4","1=Same; 2=Worse; 3=Better; 4=New",""
-"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Required","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "edi1s","Integer","","Recommended","Appears angry or irritable","0::4","0 = Not at All; 1 = Mild; 2 = Moderate; 3 = Severe; 4 = Very Severe",""
 "edi3s","Integer","","Recommended","Has explosive outbursts","0::4","0 = Not at All; 1 = Mild; 2 = Moderate; 3 = Severe; 4 = Very Severe",""
 "edi4s","Integer","","Recommended","Cries or stays angry for 5 minutes or longer","0::4","0 = Not at All; 1 = Mild; 2 = Moderate; 3 = Severe; 4 = Very Severe",""

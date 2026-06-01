@@ -40,4 +40,4 @@
 "suicide_aborted_total","Integer","","Recommended","Total aborted suicide attempts per subject over follow-up","","","isano"
 "sebevnt","Integer","","Recommended","Masked Suicide eavluation Board (SEB) Event","0::6","0 = No Event;1 = Actual suicide attempt; 2 = Interrupted suicide attempt; 3 = Hospitalization because of thoughts of c; 4 = Emergency evaluation because of thoughts; 5 = Self Injurious Behavior without Suicidal; 6 = Completed Suicide",""
 "sebevday","Integer","","Recommended","Masked Suicide Evaluation Board (SEB) Date (days from baseline)","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""

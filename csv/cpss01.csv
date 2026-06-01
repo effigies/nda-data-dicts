@@ -58,7 +58,7 @@
 "cpssre_5pt","Integer","","Recommended","Child PTSD Symptom Scale (CPSS): Re-Experiencing score (5-point scale)","0::20","Sum of 5-point (rated 0-4) items cpss_1-5",""
 "cpssav_5pt","Integer","","Recommended","Child PTSD Symptom Scale (CPSS): Avoidance score (5-point scale)","0::28","Sum of 5-point (rated 0-4) items cpss_6-12",""
 "cpssia_5pt","Integer","","Recommended","Child PTSD Symptom Scale (CPSS): Increased Arousal score (5-point scale)","0::20","Sum of 5-point (rated 0-4) items cpss_13-17",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "cpss_21_1mo","Integer","","Recommended","Have the problems above been getting in the way of these parts of your life in the past month: Fun things you want to do?","0;1","0=No; 1=Yes",""
 "cpss_22_1mo","Integer","","Recommended","Have the problems above been getting in the way of these parts of your life in the past month: Doing your chores?","0;1","0=No; 1=Yes",""
 "cpss_23_1mo","Integer","","Recommended","Have the problems above been getting in the way of these parts of your life in the past month: Relationships with your friends?","0;1","0=No; 1=Yes",""

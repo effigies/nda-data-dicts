@@ -19,4 +19,4 @@
 "tx_satisfaction_13","Integer","","Recommended","How much did this treatment help with the specific problem that led you to therapy?","1::5","1=Made things a lot better; 2=Made things somewhat better; 3=Made no difference; 4=Made things somewhat worse; 5=Made things a lot worse",""
 "st_score","Integer","","Recommended","Patient's level of Satisfaction With Therapy (ST)","6::30","Sum the scores of all even number items (sttsr2, sttsr4, sttsr6, sttsr8, sttsr10, sttsr12)",""
 "swt_score","Integer","","Recommended","Patient's level of Satisfaction With Therapist (SWT)","6::30","Sum the scores of all odd number items (sttsr1, sttsr3, sttsr5, sttsr7, sttsr9, sttsr11)",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""

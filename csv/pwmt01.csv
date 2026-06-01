@@ -9,7 +9,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "subject_description","String","4000","Recommended","Subject related information (e.g the affection, phenotype, disease information, etc.).","","","label"
 "valid_code","String","2","Recommended","Notes","C; F; S; V","C=concern; F=flag; S=skip; V=valid",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","cpw_form"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","cpw_form"
 "cpw_cr","Float","","Recommended","CPW Total Correct Responses","0::40","","cpw.iwrd_tot,cpw_a_cpw_cr"
 "cpw_w_rtcr","Float","","Recommended","Weighted Median Response Time for CPW Total Correct Responses (ms)","","","cpw.iwrd_rtc,cpw_a_cpw_w_rtcr"
 "cpw_rtcr","Float","","Recommended","CPW Median Total Correct Response Time (ms)","","","cpw_a_cpw_rtcr"

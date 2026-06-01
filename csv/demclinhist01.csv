@@ -8,7 +8,7 @@
 "interviewclinic_date","Date","","Required","Date on which clinic screening interview completed. MM/DD/YYYY","","",""
 "interviewbaseline_date","Date","","Required","Date on which baseline enrollment interview completed. MM/DD/YYYY","","",""
 "enrollage","Integer","","Required","Age in months at the time of baseline enrollment interview.","0 :: 1260","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.","enrollment_age"
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","","ethnic_group"
 "site","String","101","Recommended","Site","","Study Site",""
 "trtarm","String","200","Recommended","Treatment arm","","e.g., Control, Intervention, Experimental, Placebo","arm"

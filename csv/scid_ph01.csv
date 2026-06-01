@@ -98,7 +98,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "scda14","Integer","","Recommended","Antisocial Personality Disorder; Present during past month","0::5","0 = No; 1 = Yes; 2 = Subthreshold; 3 = Yes and meets CD lifetime criteria; 4 = NOS (not otherwise specified); 5 = Rule-out",""
 "scda15","Integer","","Recommended","How old were you when you were first treated by a health care provider for any behavioral or emotional problem?","0::150","In years","scda13a"
 "scda17","Integer","","Recommended","How many times have you (or subject if informant) been hospitalized for psychiatric reasons? (Best estimate)","0::300","","scda15a"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","vers"
 "daysrz","Integer","","Recommended","days since randomization","","","scda0b"
 "scda1","Integer","","Recommended","Schizophrenia: Present in lifetime?","0;1","0 = No; 1 = Yes",""
 "scda2","Integer","","Recommended","Schizoaffective disorder: present in lifetime?","0;1","0 = No; 1 = Yes",""

@@ -7,7 +7,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "englishnotprimarylanguage","Integer","","Recommended","Primary language is NOT English","0;1","1=Yes, 0=No",""
 "jfacility","Integer","","Recommended","Which facility is the individual at? - Number assigned indicating the facility where baseline interview took place","1::10","","facility"
-"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other","",""
+"race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "race_other","String","100","Recommended","Race of Respondent Specify","","","raceother"
 "hispanic","Integer","","Recommended","Is subject of Hispanic, Latino, or Spanish origin?","0; 1; 999","0 = No; 1 = Yes; 999= missing",""
 "marstat","Integer","","Recommended","What is your marital status?","1::8; -99","1=Married; 2=Cohabitatin; 3=Separated; 4=Divorced; 5=Widowed; 6=Never Married; 7=Refused; 8=Don't Know; -99=Missing","marital_status,maritalstatus"

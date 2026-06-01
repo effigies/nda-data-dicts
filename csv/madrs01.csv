@@ -23,7 +23,7 @@
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable","tstst"
 "date_updated","Date","","Recommended","Date record updated","","","edit_date"
 "session_id","String","20","Recommended","session ID/screening ID","","","screeningid"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_name"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","form_name"
 "reportedsadness_length","Integer","","Recommended","Reported Sadness Depressed - How long?","0::6","0= placid. only feelings inner tension; 2= occasional feelings of edginess and ill-defined discomfort; 4= continuous feelings of inner tension or intermittent panic which the patient can master with some difficulty; 6= unrelenting dread or anguish. overwhelming panic","v10_madrs_reportedsadness_length,v1_madrs_reportedsadness_length,v2_madrs_reportedsadness_length,v3_madrs_reportedsadness_length,v4_madrs_reportedsadness_length,v5_madrs_reportedsadness_length,v6_madrs_reportedsadness_length,v7_madrs_reportedsadness_length,v8_madrs_reportedsadness_length,v9_madrs_reportedsadness_length"
 "week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
 "days_baseline","Integer","","Recommended","Days since baseline","","",""

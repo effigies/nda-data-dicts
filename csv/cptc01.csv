@@ -85,7 +85,7 @@
 "responsetscore","Float","","Recommended","Response T Score","","","c_t,conn_resp_style_tscore,cpt_response_style_t"
 "perseverationsrawvalue","Float","","Recommended","Perseverations Raw Value","","","cpt_perseverations_n,pcom_r"
 "perseverationstscore","Float","","Recommended","Perseverations T Score","","","cpt_perseverations_t"
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","whichtestwasadministered"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","whichtestwasadministered"
 "hrtblockchangerawval","Float","","Recommended","HRT Block Change Raw
 Values","","",""
 "hrtblockchangetscores","Float","","Recommended","HRT Block Change

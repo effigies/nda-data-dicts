@@ -359,7 +359,7 @@
 "pasthr_social_acquaintance","Integer","","Recommended","Please indicate anyone you have spent time with in the last hour: Acquaintance","0;1","0= No/Unchecked; 1= Yes/Checked",""
 "yesterday_sa","Integer","","Recommended","Yesterday, did you do anything to hurt yourself with at least some intent to die?","0;1","0= No; 1= Yes",""
 "pasthr_social_stranger","Integer","","Recommended","Please indicate anyone you have spent time with in the last hour: Strangers","0;1","0= No/Unchecked; 1= Yes/Checked",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "context3_nd_txt","String","100","Recommended","Who else did you spend time with yesterday?","","",""
 "d_buzzed_rn","Integer","","Recommended","Right now/Over the past hour/Since the last survey, I feel/have felt buzzed.","0::4","0=Not at all buzzed; 4=Extremely buzzed",""
 "d_drunk_rn","Integer","","Recommended","Right now/Over the past hour/Since the last survey, I feel/have felt drunk.","0::4","0=Not at all drunk; 4=Extremely drunk",""

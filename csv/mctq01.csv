@@ -54,7 +54,7 @@
 "sis6_punct","Integer","","Recommended","Sister6's Punctuality","0::6","0=Extreme Early Type; 1=Moderate Early Type; 2=Slight Early Type; 3=Normal Type; 4=Slight Late Type; 5=Moderate Late Type; 6=Extreme Late Type",""
 "sis7_punct","Integer","","Recommended","Sister7's Punctuality","0::6","0=Extreme Early Type; 1=Moderate Early Type; 2=Slight Early Type; 3=Normal Type; 4=Slight Late Type; 5=Moderate Late Type; 6=Extreme Late Type",""
 "partner_punct","Integer","","Recommended","Partner's (girl/boy friend, spouse) punctuality","0::6","0=Extreme Early Type; 1=Moderate Early Type; 2=Slight Early Type; 3=Normal Type; 4=Slight Late Type; 5=Moderate Late Type; 6=Extreme Late Type",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "mctq_school8","Integer","","Recommended","Past 4 weeks: School Days: If your alarm clock or parents wake you on school days: I regularly wake up BEFORE the alarm rings:","0;1","1 = Yes ; 0 = No",""
 "comqother","String","255","Recommended","Respondent - Other (text)","","",""
 "mctq_shift_worker","Integer","","Recommended","I have been a shift- or night-worker in the past three months","0;1","0=No; 1=Yes","munich15,munich_18"

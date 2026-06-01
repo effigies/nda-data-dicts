@@ -343,7 +343,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "laba125","String","20","Recommended","Nhdl","","",""
 "laba126","Float","","Recommended","Ai","","",""
 "laba127","Float","","Recommended","Aig","","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","form_name,vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","form_name,vers"
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
 "daysrz","Integer","","Recommended","days since randomization","","","laba0a,studyday,visitdt"
 "laba3c","Integer","","Recommended","2-hour Glucose value (mg/dL)","0::400","","glu2,t_120_glucose_1"

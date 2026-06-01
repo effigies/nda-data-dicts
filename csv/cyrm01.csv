@@ -101,7 +101,7 @@
 "cyrm28_factor3","Integer","","Recommended","Majority World Boys (Low Social Cohesion)","","",""
 "cyrm28_factor4","Integer","","Recommended","Majority World Boys (High Social Cohesion)","","",""
 "cyrm28_total","Integer","","Recommended","CYRM Total Score","0::140","",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form",""
 "cyrm_27","Integer","","Recommended","Spiritual beliefs are a source of strength","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Quite a bit; 5= A lot",""
 "cyrm_28","Integer","","Recommended","Proud to be a citizen of the United States","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Quite a bit; 5= A lot",""
 "cyrm01","Integer","","Recommended","I have people I want to be like","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Quite a bit; 5= A lot ",""

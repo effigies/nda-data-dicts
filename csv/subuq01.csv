@@ -392,7 +392,7 @@
 "pei103","Integer","","Recommended","I have a brother or sister who gets drunk or high","0::3","0=Seldom or never; 1=Sometimes; 2=Often; 3=Almost always",""
 "pei104","Integer","","Recommended","A brother or sister of mine has had treatment for alcohol or drug problems","0::2","0=Never; 1=Once or twice; 2=More than once or twice",""
 "pei105","Integer","","Recommended","One of my parents has had treatment for alcohol or drug problems","0::2","0=Never; 1=Once or twice; 2=More than once or twice",""
-"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version","vers"
+"version_form","String","121","Recommended","Form used/assessment name","","e.g., Self-Report, Parent Form, Short Form, Revised Version, Other Informant Form","vers"
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
 "fseqno","Integer","","Recommended","Sequence Number","0::999","The FSEQNO variable in the ADJ form has a special interpretation compared to other forms.
 For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' can be thought of as
