@@ -10,3 +10,8 @@
 "state_paranoia3","Integer","","Recommended","For each of the feelings and thoughts described, please indicate how much they apply/applied to you during [timeframe_spec]: Strangers and friends look at me critically.","0::10","0= Not at all; 10= Very much",""
 "state_paranoia4","Integer","","Recommended","For each of the feelings and thoughts described, please indicate how much they apply/applied to you during [timeframe_spec]: People are laughing at me.","0::10","0= Not at all; 10= Very much",""
 "state_paranoia5","Integer","","Recommended","For each of the feelings and thoughts described, please indicate how much they apply/applied to you during [timeframe_spec]: My actions and thoughts might be controlled by others.","0::10","0= Not at all; 10= Very much",""
+"pcl_brief01","Integer","","Recommended","I need to be on my guard against others","1::5","1=Do not agree; 2=Agree a little; 3=Moderately agree; 4=Agree very much; 5=Totally agree",""
+"pcl_brief02","Integer","","Recommended","People are trying to make me upset","1::5","1=Do not agree; 2=Agree a little; 3=Moderately agree; 4=Agree very much; 5=Totally agree",""
+"pcl_brief03","Integer","","Recommended","Strangers and friends look at me critically","1::5","1=Do not agree; 2=Agree a little; 3=Moderately agree; 4=Agree very much; 5=Totally agree",""
+"pcl_brief04","Integer","","Recommended","People are laughing at me","1::5","1=Do not agree; 2=Agree a little; 3=Moderately agree; 4=Agree very much; 5=Totally agree",""
+"pcl_brief05","Integer","","Recommended","My actions and thoughts might be controlled by others","1::5","1=Do not agree; 2=Agree a little; 3=Moderately agree; 4=Agree very much; 5=Totally agree",""

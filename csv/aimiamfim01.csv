@@ -569,3 +569,8 @@
 "overall_mentor_experience","Integer","","Recommended","How was the overall experience for you of running the Rising Together program?","1::5;-9","1=Very negative; 2=Slightly negative; 3=Neutral; 4=A little positive; 5=Very positive; -9=Prefer not to answer",""
 "prepared_implement_rt","Integer","","Recommended","How prepared did you feel to implement Rising Together?","1::4;-9","1=Not at all; 2=Somewhat; 3=Mostly; 4=Completely; -9=Prefer not to answer",""
 "rec_mentoring","Integer","","Recommended","Would you recommend serving as a mentor in this program to others?","1::5;-9","1=No, definitely not; 2=No, not really; 3=Somewhat; 4=Yes, generally; 5=Yes, definitely; -9=Prefer not to answer",""
+"tool_confidence","Integer","","Recommended","Do you feel confident about using (INSERT INTERVENTION) tool with people living with HIV?","0;1","0= No; 1= Yes",""
+"tool_benefit","Integer","","Recommended","Do you think the (INSERT INTERVENTION) tool has helped you engage with People Living With HIV (PLWH) in a more meaningful way? (e.g., easier to talk to PLWH and understand their experiences with stigma)","0;1","0= No; 1= Yes",""
+"tool_improve_behavior","Integer","","Recommended","Do you feel that using (INSERT INTERVENTION) tool has helped to assess or understand multi-dimensional and multilevel stigma?","0;1","0= No; 1= Yes",""
+"tool_acceptable","Integer","","Recommended","How acceptable do you think (INSERT INTERVENTION) tool is to you?","1::5","1= Completely acceptable; 2= Acceptable; 3= Neither acceptable nor unacceptable; 4= Unacceptable; 5= Completely unacceptable",""
+"tool_recommend","Integer","","Recommended","Do you recommend this (INSERT INTERVENTION) tool to other healthcare workers of other ART Center?","0;1","0= No; 1= Yes",""

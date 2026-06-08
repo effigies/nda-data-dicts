@@ -32,7 +32,7 @@
 "ris_25","Integer","","Recommended","I follow local high school athletics","1::4;8","1 = None of the time; 2 = Some of the time; 3 = Often; 4 = All of the time; 8 = Refuse to answer",""
 "ris_26","Integer","","Recommended","I talk with a country accent","1::4;8","1 = None of the time; 2 = Some of the time; 3 = Often; 4 = All of the time; 8 = Refuse to answer",""
 "ris_27","Integer","","Recommended","I go to the theater, museums, or other cultural activities in my county (Reverse coded item)","1::4;8","1 = None of the time; 2 = Some of the time; 3 = Often; 4 = All of the time; 8 = Refuse to answer",""
-"ris_28","Integer","","Recommended","I feel a sense of belonging with people who live in my county","1::4;8","1 = None of the time; 2 = Some of the time; 3 = Often; 4 = All of the time; 8 = Refuse to answer",""
+"ris_28","Integer","","Recommended","I feel a sense of belonging with people who live in my county","1::4;8;-9","1 = None of the time; 2 = Some of the time; 3 = Often; 4 = All of the time; 8 = Refuse to answer; -9=Prefer not to answer",""
 "ris_29","Integer","","Recommended","I feel I can depend on others within my county","1::4;8","1 = None of the time; 2 = Some of the time; 3 = Often; 4 = All of the time; 8 = Refuse to answer",""
 "ris_30","Integer","","Recommended","Everyone knows one another's business in my county","1::4;8","1 = None of the time; 2 = Some of the time; 3 = Often; 4 = All of the time; 8 = Refuse to answer",""
 "ris_31","Integer","","Recommended","People from my county keep to themselves (Reverse coded item)","1::4;8","1 = None of the time; 2 = Some of the time; 3 = Often; 4 = All of the time; 8 = Refuse to answer",""

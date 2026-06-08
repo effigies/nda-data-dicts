@@ -124,3 +124,5 @@
 "games3","Integer","","Recommended","On occasions when you played drinking games, how many drinks did you typically consume overall (includes drinks consumed during and after playing drinking games)?","0::99","",""
 "live1_1","Integer","","Recommended","Which parent(s) or other adults do you live with? Select all that apply. Mother and Father in one home","0;1","0=No; 1=Yes",""
 "live1_2","Integer","","Recommended","Which parent(s) or other adults do you live with? Select all that apply. Mother and Father equally, at separate homes","0;1","0=No; 1=Yes",""
+"pdrink_m","Integer","","Recommended","In the past year, how many drinks do you think your mother had per drinking occasion?","0::9;999","0=0 drinks; 1=1 drink; 2=2 drinks; 3=3 drinks; 4=4 drinks; 5=5 drinks; 6=6 drinks; 7=7 drinks; 8=8 drinks; 9=9 or more drinks; 999=No answer",""
+"pdrink_f","Integer","","Recommended","In the past year, how many drinks do you think your father had per drinking occasion?","0::9;999","0=0 drinks; 1=1 drink; 2=2 drinks; 3=3 drinks; 4=4 drinks; 5=5 drinks; 6=6 drinks; 7=7 drinks; 8=8 drinks; 9=9 or more drinks; 999=No answer",""

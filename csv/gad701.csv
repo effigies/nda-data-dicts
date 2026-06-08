@@ -53,3 +53,4 @@
 "gad7_q7_lifetime","Integer","","Recommended","In your lifetime, how often have you been bothered by feeling afraid, as if something awful might happen?","0::3","0= Not at all; 1= Several days; 2= More than half of the days; 3= Nearly every day",""
 "days_since_admit","Integer","","Recommended","Days since admission","","",""
 "dem_race","Integer","","Recommended","Race","1::6; 88; 99","1 = American Indian or Alaska Native; 2 = Asian; 3 = Black or African American; 4 = Native Hawaiian or Pacific Islander; 5 = White or Caucasian; 6 = More Than One Race; 88 = Unknown; 99 = Choose not to report",""
+"survey_language","Integer","","Recommended","Language of survey","1;2","1 = English; 2 = Spanish",""

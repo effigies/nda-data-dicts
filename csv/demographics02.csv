@@ -969,7 +969,7 @@
 "democ24a4","Integer","","Recommended","How would you best describe YOUR race? (Please check all that apply): Asian?","0;1","0 = No; 1 = Yes","demog_4a3,demograph_4a3"
 "democ24a5","Integer","","Recommended","How would you best describe YOUR race? (Please check all that apply): Middle Eastern or North African?","0;1","0 = No; 1 = Yes",""
 "age_in_years","Float","","Recommended","Age in Years","","",""
-"eng_well","Integer","","Recommended","How well does the participant speak English?","0::3","0 = Not at all; 1 = Not well; 2 = Well; 3 = Very well",""
+"eng_well","Integer","","Recommended","How well does the participant speak English?","0::3;99","0 = Not at all; 1 = Not well; 2 = Well; 3 = Very well; 99 = Prefer not to say",""
 "country_res","Integer","","Recommended","Country of current residence?","1::3","1 = Canada; 2 = USA; 3 = Other",""
 "state_residence","String","50","Recommended","State or Province of current residence","","",""
 "demog_4a7","Integer","","Recommended","Race (select all that apply) (choice=More than one race)","0;1","0=Unchecked; 1=Checked",""

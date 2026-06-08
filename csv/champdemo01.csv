@@ -23,7 +23,7 @@
 "demo_sex_tgender","Integer","","Recommended","Transgender","0;1;2","0=No;1=Yes;2=Maybe",""
 "ppt_sexori","Integer","","Recommended","What is your sexual orientation?","1::10","1 = Bisexual; 2 = Gay; 3 = Lesbian; 4 = Straight/heterosexual; 5 = Queer; 6 = Questioning; 7 = Other; 8 = Asexual, 9 = Pansexual, 10 = Prefer not to answer",""
 "mayo_bio377","Integer","","Recommended","Do you consider yourself to be Hispanic or Latino?","0;1","0= No; 1= Yes",""
-"demo_race","Integer","","Recommended","What is your race?","1::8; -999","1=White; 2=Black or African American; 3=Asian; 4=American Indian/Alaska Native; 5=Hawaiian or Pacific Islander; 6=Unknown or not reported; 7=Other; 8=More than one race; -999=N/A or Missing",""
+"demo_race","Integer","","Recommended","What is your race?","1::8;-999;-9","1=White; 2=Black or African American; 3=Asian; 4=American Indian/Alaska Native; 5=Hawaiian or Pacific Islander; 6=Unknown or not reported; 7=Other; 8=More than one race; -999=N/A or Missing; -9=Prefer not to answer",""
 "dem6_t1","Integer","","Recommended","Highest level of education","1::11","1= Less than High School; 2= High School or equivalent, GED; 3= Vocational, technical degree post-High School; 4= Some college; 5= Associates degree; 6= College degree, Bachelor's degree; 7= Masters degree; 8= Doctoral degree; 9=Other; 10 = Master's degree or higher; 11 = Grade school or elementary school",""
 "in_school","Integer","","Recommended","Are you in school?","0::3","0 = No; 1 = Yes, currently; 2 = Yes, starting next semester; 3 = Yes, but on summer break",""
 "yc_sex","Integer","20","Recommended","Sex of subject at birth","1::5","1=female; 2=male; 3=intersex; 4=none of these describe me; 5= Unknown",""

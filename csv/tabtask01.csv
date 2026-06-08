@@ -39,3 +39,5 @@
 "choice_t","Integer","","Recommended","Time the choice was made on a 24 hour clock","","000000= 12 am; 235959= 11:59:59 pm",""
 "choice_slot","Integer","","Recommended","Which slot was chosen","0::2","0 = Slot 1; 1 = Slot 2; 2 = Slot 3",""
 "reward_seed_0","Integer","","Recommended","Chance of reward for slot 1","0::100","0= No chance; 100 = Reward guaranteed if chosen",""
+"data_file2","File","255","Recommended","Data file 2","","Path to data file, e.g., Users/username/Documents/subjectABC_file2.csv",""
+"data_file2_type","String","100","Recommended","data file 2 type/description","","",""

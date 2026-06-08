@@ -153,3 +153,7 @@
 "neutral_std","Float","","Recommended","Neutral (percentage) standard deviation","0::100","",""
 "pupil_mean","Float","","Recommended","Pupil diameter mean","","",""
 "pupil_std","Float","","Recommended","Pupil diameter standard deviation","","",""
+"au32_mean","Float","","Recommended","Action unit 32 mean","0::1","",""
+"au32_std","Float","","Recommended","Action unit 32 standard deviation","0::1","",""
+"au32_max","Float","","Recommended","Action unit 32 maximum","0::1","",""
+"au32_min","Float","","Recommended","Action unit 32 minimum","0::1","",""

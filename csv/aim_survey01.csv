@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "subridedem_02","Integer","","Recommended","What is your ethnicity?","1::4;77;88;-99","1= Hispanic or Latino/a;  2= Not Hispanic or Latino/a;  3= Unknown;  4= Choose not to answer; 77= Refused; 88= Missing; -99= NA",""
-"demo_race","Integer","","Recommended","What is your race?","1::8; -999","1=White; 2=Black or African American; 3=Asian; 4=American Indian/Alaska Native; 5=Hawaiian or Pacific Islander; 6=Unknown or not reported; 7=Other; 8=More than one race; -999=N/A or Missing",""
+"demo_race","Integer","","Recommended","What is your race?","1::8;-999;-9","1=White; 2=Black or African American; 3=Asian; 4=American Indian/Alaska Native; 5=Hawaiian or Pacific Islander; 6=Unknown or not reported; 7=Other; 8=More than one race; -999=N/A or Missing; -9=Prefer not to answer",""
 "admin","Integer","","Recommended","Participant is manager, administrator, or center coordinator","0;1","0=No; 1=Yes",""
 "provider","Integer","","Recommended","Participant is clinical provider (NP, CNM, PA, MD, DO)","0;1","0=No; 1=Yes",""
 "nurse","Integer","","Recommended","Nurse/nurse practitioner","0;1","0=Not checked; 1=Checked",""

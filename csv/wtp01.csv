@@ -28,3 +28,7 @@
 "median_bid","Float","","Recommended","Median of monetary bids of 60 snacks","1::4","",""
 "choice_snack","Integer","","Recommended","Amount of times participants chose snack during the 60 trials","0::60","",""
 "choice_cost","Integer","","Recommended","Amount of times participants chose cost during the 60 trials","0::60","",""
+"salience_rating","Integer","","Recommended","Indicates likelihood to share with partner","1::5","1=Not at all likely; 5=Very likely",""
+"stress_level","Integer","","Recommended","Indicates stress level","1::9","1=Bad/more stressed; 9=Good/less stressed",""
+"condition_social","Integer","","Recommended","Indicates social condition","1;2","1= Rejection; 2 = Acceptance",""
+"feedback_photo","Integer","","Recommended","Indicates type of feedback received on photo","1;2","1 = Did like your photo; 2 = Did not like your photo",""

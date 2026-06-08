@@ -794,3 +794,8 @@
 "cbw_hepc_ab","Integer","","Recommended","Positive or negative for hepatitis c antibody with reflex","1::3","1=Positive; 2=Negative; 3=N/A",""
 "cbw_hiv_ab_yn","Integer","","Recommended","Positive or negative for HIV antibody","1::3","1=Positive; 2=Negative; 3=N/A",""
 "cbw_hepc_vrialload","Integer","","Recommended","Hep C viral load (IU/mL)","","0=None detected",""
+"date_vl_test_b","Date","","Recommended","When did the participant have their viral load tested?","","MM/DD/YYYY",""
+"result_vl_test_b","Date","","Recommended","When did the participant receive the results of their viral load test?","","MM/DD/YYYY",""
+"vl_test_time_b","Float","","Recommended","Time since the participant's most recent viral load test (in days)","","",""
+"outcome_vl_test_b","Integer","","Recommended","What was the participant's viral load?","1;2","1= (Less than or equal to 20 copies/ml); 2= (More than 20 copies/ml)",""
+"hhh3","Integer","","Recommended","Was your last viral load test result detectable or undetectable?","0::1; 99","1= Detectable; 0= Undetectable; 99= Do Not Know",""

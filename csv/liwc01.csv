@@ -148,3 +148,6 @@
 "mood_min","Integer","","Recommended","Minimum mood recorded in the app's daily check-in feature during the 30-day or 60-day time period in which journal entries are eligible.","1::6","1=Very Poor; 2=Poor; 3=Neutral; 4=Good; 5=Very Good; 6=Skip, prefer not to answer",""
 "mood_avg","Float","","Recommended","Average mood recorded in the app's daily check-in feature during the 30-day or 60-day time period in which journal entries are eligible.","1::6","1=Very Poor; 2=Poor; 3=Neutral; 4=Good; 5=Very Good; 6=Skip, prefer not to answer",""
 "symptoms_binary","Integer","","Recommended","Binary variable for whether or not the patient reported symptoms in the 30-day or 60-day time period in which journal entries are eligible.","0;1","0=No; 1=Yes",""
+"date_time","String","300","Recommended","Date and time of file","","",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
+"data_file1_type","String","300","Recommended","type of data file 1","","",""
