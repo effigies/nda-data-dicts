@@ -393,3 +393,6 @@
 "phq15_2weeks_13","Integer","","Recommended","In the past month, how much have you been bothered by any of the following problems? Nausea, gas, or indigestion","1::4","1=Not bothered at all; 2=Bothered a little; 3=Quite a bit bothered; 4=Extremely bothered",""
 "phq15_2weeks_14","Integer","","Recommended","In the past month, how much have you been bothered by any of the following problems? Feeling tired or having low energy","1::4","1=Not bothered at all; 2=Bothered a little; 3=Quite a bit bothered; 4=Extremely bothered",""
 "phq15_2weeks_15","Integer","","Recommended","In the past month, how much have you been bothered by any of the following problems? Trouble sleeping","1::4","1=Not bothered at all; 2=Bothered a little; 3=Quite a bit bothered; 4=Extremely bothered",""
+"phqdeprssn_score","Integer","","Recommended","PHQ-8 (Item 2): Feeling down, depressed, or hopeless","0::3","0 = Not at all; 1 = Several days; 2 = More than half the days; 3 = Nearly every day",""
+"survey_language","Integer","","Recommended","Language of survey","1;2","1 = English; 2 = Spanish",""
+"phqlitintrst_score","Integer","","Recommended","PHQ-8 (Item 1): Little interest or pleasure in doing things","0::3","0 = Not at all; 1 = Several days; 2 = More than half the days; 3 = Nearly every day",""

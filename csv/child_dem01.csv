@@ -374,7 +374,7 @@
 "demo11_alt","Integer","","Recommended","What is the total number of years of education the primary caregiver has received? (years)","","",""
 "caregiver_1_income","String","100","Recommended","Caregiver: Please indicate your estimated annual household income (free text)","","",""
 "an_1_c","Integer","","Recommended","What is the childs age?","","Age in Years",""
-"fmf_child_sex","Integer","","Recommended","What is your child's sex (assigned at birth)?","1::3","1= Male; 2= Female; 3= Other",""
+"fmf_child_sex","Integer","","Recommended","What is your child's sex (assigned at birth)?","1::4","1= Male; 2= Female; 3= Other; 4= Intersex",""
 "fmf_child_race","Integer","","Recommended","What is your child's race?","1::8","1= Caucasian/White; 2= African American/Black; 3= Native American; 4= Alaskan Native; 5= Asian; 6= Pacific Islander; 7=Mixed Race; 8= Other",""
 "fmf_child_race_mixed","String","100","Recommended","What is your child's race? Mixed Race, specify","","",""
 "nsch_j03","Integer","","Recommended","Caregiver 1: What is your age?","","Age in years",""
