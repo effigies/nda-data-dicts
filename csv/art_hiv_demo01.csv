@@ -78,3 +78,5 @@
 "a06_sexpref1","Integer","","Recommended","Which best describes how your sexual preference? Select all that apply.  -- Male","0;1;-10","0=No; 1=Yes; -10=Missing",""
 "a06_sexpref2","Integer","","Recommended","Which best describes how your sexual preference? Select all that apply. -- Female","0;1;-10","0=No; 1=Yes; -10=Missing",""
 "a06_sexpref3","Integer","","Recommended","Which best describes how your sexual preference? Select all that apply.  -- Both male and female","0;1;-10","0=No; 1=Yes; -10=Missing",""
+"hiv_vl_result","Integer","","Recommended","Viral load test result in copies/ mL","","",""
+"hiv_vl_log10","Float","","Recommended","HIV Viral load result (log10 value)","","",""

@@ -848,3 +848,7 @@
 "suhx_etoh_upd_90d","String","100","Recommended","On days that you had alcohol in the last 90 days, how much did you drink?","","",""
 "suhx_etoh_regular_flag","Integer","","Recommended","Have you ever used alcohol regularly (i.e. at least once a week for 6 months)?","0;1","0=No; 1=Yes",""
 "suhx_etoh_ever_binge","Integer","","Recommended","Have you ever drunk more than 5 drinks in 2 hours (males) or more than 4 drinks in 2 hours (females)?","0;1","0=No; 1=Yes",""
+"bingem","Float","","Recommended","During the prior 3-months, on days when you drank any kind of alcohol besides Malwa, how many days did you have 7 or more drinks within a time span of about 2 hours? {interviewer convert participants response to standard # of drinks}","","Amount of days",""
+"bingef","Float","","Recommended","During the prior 30-days, on days when you drank any kind of alcohol besides Malwa, how many days did you have 5 or more drinks? {interviewer convert participants response to standard # of drinks}","","Amount of days",""
+"druguse_01","String","500","Recommended","During the last year, have you used any of the following?","","",""
+"otherdrugs01","String","500","Recommended","What other drugs did you use during the last year?","","",""

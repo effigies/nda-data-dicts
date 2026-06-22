@@ -323,7 +323,7 @@
 "subriderace_01j","Integer","","Recommended","What is your race (select all that apply)? Latinx or Hispanic","0;1","0=No;1=Yes",""
 "demo_relig6","Integer","","Recommended","About how often do you attend religious services now?","0::4","0=Never; 1=Less than once a month; 2=Once or twice a month; 3=Once a week; 4=More than once a week",""
 "demo_school7","Integer","","Recommended","Compared to other students in your class, what kind of student would you say you are?","1::7","1=One of the best; 2=Far above the middle; 3=A little above the middle; 4=In the middle; 5=A little below the middle; 6=Far below the middle; 7=Near the bottom",""
-"kbi_y_grade_repeat","Integer","","Recommended","Have you ever repeated a grade?"," 0 ; 1 ; 777"," 1 = Yes; 0 = No ;  777 = Decline to answer ",""
+"kbi_y_grade_repeat","Integer","","Recommended","Have you ever repeated a grade?","0 ; 1 ; 777","1 = Yes; 0 = No ;  777 = Decline to answer",""
 "wn60a","String","20","Recommended","Which grades were 'Repeated'?","","",""
 "cd121","Integer","","Recommended","In the last year, have you been suspended from school? That is, told that you could not come back to school for a day or more?","0; 2","0= No; 1= Sometimes/ Somewhat; 2= Yes",""
 "demo_mother10","Integer","","Recommended","How much education did your mother complete?","0::7","0=No high school; 1=Some high school; 2=Graduated from high school; 3=Graduated from trade school; 4=Some college; 5=Graduated from college; 6=More than college; 7=Don''t know",""

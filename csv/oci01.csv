@@ -148,3 +148,4 @@
 "oci_pv_wash_f","Float","","Recommended","Washing Subscale - Frequency","0::32","Sum of frequency items 2, 4, 8, 21, 22, 27, 38, 42",""
 "oci_pv_wash_d","Float","","Recommended","Washing Subscale - Distress","0::32","Sum of distress items 2, 4, 8, 21, 22, 27, 38, 42",""
 "oci_pv_doubt_f","Float","","Recommended","Doubting Subscale - Frequency","0::12","Sum of frequency items 26, 37, 41",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

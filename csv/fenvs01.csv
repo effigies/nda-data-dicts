@@ -142,3 +142,4 @@
 "fam_together_2","Integer","","Recommended","Last month, things my family did together have been fun and interesting.","1::5; -9","1=Never true;  2=Sometimes true;  3=True about half the time;  4=Often true;  5=Always true; -9=Missing",""
 "fam_together_3","Integer","","Recommended","Last month, family members really backed each other up.","1::5; -9","1=Never true;  2=Sometimes true;  3=True about half the time;  4=Often true;  5=Always true; -9=Missing",""
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

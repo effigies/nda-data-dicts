@@ -231,3 +231,4 @@
 "pr_3","Integer","","Recommended","During the past month, did you use cannabis to improve your appetite?","0;1","0=No; 1=Yes",""
 "pr_3a","Integer","","Recommended","During the past month, on average, how helpful was cannabis in improving your appetite?","0::10","0=Not at all helpful; 10=Very helpful",""
 "pr_4","Integer","","Recommended","During the past month, did you use cannabis to improve your sleep?","0;1","0=No; 1=Yes",""
+"brfss1","Integer","","Recommended","During the past 30 days, on how many days did you use marijuana or hashish?","0::2","0= 0 days; 1= 1-30 days; 2= Don't know/not sure",""

@@ -31,3 +31,4 @@
 "assq25","Integer","","Recommended","Is bullied by other children","0; 1; 2","0 = No; 1 = Yes; 2 = Somewhat",""
 "assq26","Integer","","Recommended","Has markedly unusual facial expression","0; 1; 2","0 = No; 1 = Yes; 2 = Somewhat",""
 "assq27","Integer","","Recommended","Has markedly unusual posture","0; 1; 2","0 = No; 1 = Yes; 2 = Somewhat",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

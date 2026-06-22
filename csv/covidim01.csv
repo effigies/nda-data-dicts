@@ -799,7 +799,7 @@
 "ycdm11r","Integer","","Recommended","I have had a bad reaction to vaccines in the past","1::5;-99","1= Strongly disagree; 2= Disagree; 3= Neutral/Mixed; 4= Agree; 5= Strongly agree;-99= NA/RF",""
 "ycdm11x","String","50","Recommended","Any reason not listed above","","",""
 "ycdm03","Integer","","Recommended","How concerned are you about your exposure to COVID-19 at your workplace?","1::5;-99","1= Not at all; 2= Slightly; 3= Moderately; 4= Very; 5= Extremely; -99= NA/RF",""
-"ycdm04","Integer","","Recommended","How many times have you been infected with the coronavirus (COVID-19)?","1::4;-99","1= Never; 4= 4 or more; -99= NA/RF",""
+"ycdm04","Integer","","Recommended","How many times have you been infected with the coronavirus (COVID-19)?","0::4;-99","Number of times; 0= Never; 4= 4 or more; -99= NA/RF",""
 "ycdm05","Integer","","Recommended","Following your COVID-19 infection, would you say you are completely recovered from COVID-19 now?","0;1;-99","0= No; 1= Yes; -99= NA/RF",""
 "ycdm05b","Integer","","Recommended","How many days did it take for you to recover from COVID-19?","1::6;-99","1= 0 to 7 days; 2= 8 to 14 days; 3= 15 to 30 days; 4= 31 to 60 days; 5= 61 to 120 days; 6= Over 120 days; -99= NA/RF",""
 "ycdm06_01","Integer","","Recommended","At this time, do you have any of the following symptoms from your COVID illness? Please check all that apply: No symptoms","0;1","0= No; 1= Yes",""

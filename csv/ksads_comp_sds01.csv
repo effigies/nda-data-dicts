@@ -429,3 +429,4 @@
 "ksads_mddpsy_dx","Integer","","Recommended","Major Depressive Disorder (MDD) with Psychotic Features - CURRENT Dx","0;1","0 = No; 1 = Yes",""
 "ksads_mr_dx","Integer","","Recommended","Mental Retardation - CURRENT Dx","0;1","0 = No; 1 = Yes",""
 "ksads_depnos_dx","Integer","","Recommended","Depressive Disorder NOS - CURRENT Dx","0;1","0 = No; 1 = Yes",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

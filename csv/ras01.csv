@@ -41,3 +41,6 @@
 "ras05a","Integer","","Recommended","To what extent has your relationship met your original expectations:","1::5","1 = It has met none of my original expectations; 5 = It has met all of my original expectations",""
 "ras06a","Integer","","Recommended","How much do you love your partner?","1::5","1 = Not at all; 5 = Very much",""
 "ras07a","Integer","","Recommended","How many problems are there in your relationship?","1::5","1 = No problems; 5 = More problems than most relationships",""
+"prqc08","Integer","","Recommended","How much do you trust your partner?","1::7;-99","1= Not at all; 2= Slightly; 3= Less than average; 4= Moderately; 5= More than average; 6= Very much; 7= Extremely; -99 = Not Applicable",""
+"rel_intimacy6","Integer","","Recommended","I think in terms of ''we'' or ''us,'' instead of ''I'' or ''me''","1::9","1= Not at all true; 9= Very true",""
+"prqc09","Integer","","Recommended","How intimate is your relationship with [Partner Name]","1::7;-99","1= Not at all; 2= Slightly; 3= Less than average; 4= Moderately; 5= More than average; 6= Very much; 7= Extremely; -99 = Not Applicable",""

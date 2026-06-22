@@ -217,3 +217,4 @@
 "masc_oc_14","Integer","","Recommended","I have to move or talk in a special way","0::3","0= Never; 1= Rarely; 2= Sometimes; 3= Often",""
 "masc_oc_17","Integer","","Recommended","I have to touch things for no reason","0::3","0= Never; 1= Rarely; 2= Sometimes; 3= Often",""
 "masc_oc_19","Integer","","Recommended","I have to pick my skin, bite my nails, or pull my hair","0::3","0= Never; 1= Rarely; 2= Sometimes; 3= Often",""
+"mascoc_total","Integer","","Recommended","Total score for the 20-item MASC-OC measure","0::60","Sum of items masc_cv_39 through masc_cv_50, masc_oc_6, masc_cv_9, masc_cv_10, masc_cv_11, masc_cv_14, masc_cv_17, masc_cv_19, masc_cv_20",""

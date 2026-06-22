@@ -32,3 +32,4 @@
 "fasr_ocd_11","Integer","","Recommended","Modifying personal routine because of patient symptoms","0::4","0 = None; 1 = Once/week; 2 = 2-3 times/week; 3 = 4-6 times/week; 4 = Every day",""
 "fasr_ocd_12","Integer","","Recommended","Modifying family routine because of patient symptoms","0::4","0 = None; 1 = Once/week; 2 = 2-3 times/week; 3 = 4-6 times/week; 4 = Every day",""
 "fasr_ocd_total","Float","","Recommended","FAS-R OCD Total Score","0::48","Sum of items fasr_ocd_1-12",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

@@ -456,7 +456,7 @@ treatment (e.g., stopped early) but received medication for at least 80% of the 
 "a_acad_which_programs","String","100","Recommended","4. Which school(s) or programs(s) have you attended during the most recent school year?","","",""
 "c_acad_other_info_specify","String","100","Recommended","Specify:","","",""
 "c_acad_transcript_options","Integer","","Recommended","Academic Grades - Please answer the questions below or upload a current transcript/report card or this year. Check here how you would prefer to self-report grades","0::5","0= Upload; 1= Fax; 2= Email; 3= Mail; 4= Self-Report; 5= Have already submitted",""
-"kbi_y_grade_repeat","Integer","","Recommended","Have you ever repeated a grade?"," 0 ; 1 ; 777"," 1 = Yes; 0 = No ;  777 = Decline to answer ",""
+"kbi_y_grade_repeat","Integer","","Recommended","Have you ever repeated a grade?","0 ; 1 ; 777","1 = Yes; 0 = No ;  777 = Decline to answer",""
 "acad06b","Integer","","Recommended","Which grades have you repeated?","0::13","0= I am not currently enrolled in school; 1= Kindergarten; 2= 1st grade; 3= 2nd grade; 4= 3rd grade; 5= 4th grade; 6= 5th grade; 7= 6th grade; 8= 7th grade; 9= 8th grade; 10= 9th grade; 11= 10th grade; 12= 11th grade; 13= 12th grade",""
 "acad07","Integer","","Recommended","Are you in any accelerated/honors courses?","0;1","0 = No; 1 = Yes",""
 "acad01","Integer","","Recommended","What are your average grades in school?","1::5","1 = Mostly As; 2 = Mostly Bs; 3 = Mostly Cs; 4 = Mostly Ds; 5 = Mostly Fs",""

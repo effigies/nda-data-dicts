@@ -45,3 +45,4 @@
 "loi_cv_20_yn","Integer","","Recommended","Do you have special numbers or words you say, just because it keeps bad luck away or bad things from happening?","0;1","0 = No; 1 = Yes",""
 "loi_cv_20_interfere","Integer","","Recommended","Have special numbers or words you say, just because it keeps bad luck away or bad things from happening - interference","0::3","0 = Does not stop me from doing other things I want to do; 1 = A little (stops me a little or wastes a little of my time); 2 = Some (stops me from doing other things or wastes some of my time); 3 = A lot (stops me from doing a lot of things and wastes a lot of my time)",""
 "loi_cv_total","Float","","Recommended","LOI-CV Total Score","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

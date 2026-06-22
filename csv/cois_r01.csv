@@ -80,3 +80,4 @@
 "cois_rc_activities","Float","","Recommended","COIS-RC (Child Self-Report) Activities subscale","","Items cois_rc_4, 6, 8-9, 12-19, 21, 23, 27, 29-30",""
 "cois_rc_school","Float","","Recommended","COIS-RC (Child Self-Report) School subscale","","Items cois_rc_1, 3, 7, 10, 20, 24, 28, 31-33",""
 "cois_rc_social","Float","","Recommended","COIS-RC (Child Self-Report) Social subscale","","Items cois_rc_2, 5, 11, 22, 25-26",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

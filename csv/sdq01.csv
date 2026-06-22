@@ -174,3 +174,4 @@
 "t_c_sdq_5","Integer","","Recommended","Often loses temper","0::2;999","0 = Not True; 1 = Somewhat True; 2 = Certainly True; 999 = N/A or Prefer Not to Answer",""
 "t_c_sdq_6","Integer","","Recommended","Rather solitary, prefers to play alone","0::2;999","0 = Not True; 1 = Somewhat True; 2 = Certainly True; 999 = N/A or Prefer Not to Answer",""
 "t_c_sdq_7","Integer","","Recommended","Generally well behaved, usually does what adults request","0::2;999","0 = Not True; 1 = Somewhat True; 2 = Certainly True; 999 = N/A or Prefer Not to Answer",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

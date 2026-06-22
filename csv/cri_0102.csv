@@ -117,3 +117,4 @@
 "cri_q26","Integer","","Recommended","Does your child like to eat meals in a certain order or certain way?","0 :: 5;999","0= NA; 1= Not At All/Never; 2= A little/Rarely; 3= Somewhat/Sometimes; 4= Quite A Lot/Often; 5= Very Much/Always; 999= Missing Value",""
 "cri_q30","Integer","","Recommended","Does your child fiddle with certain objects (like toys, tags, or frayed ends of an object)?","0 :: 5;999","0= NA; 1= Not At All/Never; 2= A little/Rarely; 3= Somewhat/Sometimes; 4= Quite A Lot/Often; 5= Very Much/Always; 999= Missing Value",""
 "cri_q31","Integer","","Recommended","Is your child a picky eater?","0 :: 5;999","0= NA; 1= Not At All/Never; 2= A little/Rarely; 3= Somewhat/Sometimes; 4= Quite A Lot/Often; 5= Very Much/Always; 999= Missing Value",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
