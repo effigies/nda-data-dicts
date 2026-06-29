@@ -282,3 +282,4 @@
 "c_vexr_4a","Integer","","Recommended","How  many times has a person thrown something at you/the child? Who did this to you?","1::6","1 = Kid Sibling; 2 = Adult/teenage Sibling; 3 = Peer; 4 = Mom; 5 = Dad; 6 = Other Adult",""
 "c_vexr_5a","Integer","","Recommended","How many times have/has you/the child seen or heard a person push or shove another person really hard? Was this person a kid or an adult?","1;2","1 = Kid; 2 = Adult/teenager",""
 "c_vexr_6a","Integer","","Recommended","How many times has a person pushed or shoved you/the child really hard? Who did this to you?","1::6","1 = Kid Sibling; 2 = Adult/teenage Sibling; 3 = Peer; 4 = Mom; 5 = Dad; 6 = Other Adult",""
+"c_vexr_22a_spanked","Integer","","Recommended","How many times has a person spanked you/the child? Who did this to you?","1::6","1= Kid sibling; 2= Adult/teenage sibling; 3= Peer; 4= Mom; 5= Dad; 6= Other adult",""

@@ -156,3 +156,7 @@
 "idts8_5","Integer","","Recommended","Thinking of your drinking or drug use over the past year, select any that apply to you: Urges and temptations (e.g., when I walked by a pub or saw something that reminded me of drinking or drug use)","0;1","0 = No; 1 = Yes",""
 "idts8_6","Integer","","Recommended","Thinking of your drinking or drug use over the past year, select any that apply to you: Conflict with others (e.g., when I had an argument or was not getting along with someone)","0;1","0 = No; 1 = Yes",""
 "idts8_7","Integer","","Recommended","Thinking of your drinking or drug use over the past year, select any that apply to you: Social pressures (e.g., when someone offered alcohol or drugs)","0;1","0 = No; 1 = Yes",""
+"ids_alc20","Integer","","Recommended","I drank heavily when someone offered me a drink and I felt awkward about refusing.","0::3","0= Never; 1= Rarely; 2= Frequently; 3= Almost Always",""
+"ids_alc21","Integer","","Recommended","I drank heavily when someone pressured me to ''be a good sport'' and have a drink.","0::3","0= Never; 1= Rarely; 2= Frequently; 3= Almost Always",""
+"ids_alc22","Integer","","Recommended","I drank heavily when I was invited to someone's place and they offered me a drink.","0::3","0= Never; 1= Rarely; 2= Frequently; 3= Almost Always",""
+"ids_alc23","Integer","","Recommended","I drank heavily when someone in the same room was drinking.","0::3","0= Never; 1= Rarely; 2= Frequently; 3= Almost Always",""

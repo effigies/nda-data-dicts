@@ -57,7 +57,7 @@
 "active_calories","Float","","Recommended","Energy consumption caused by the physical activity of the day (kilocalories)","","Unit: Kilocalories",""
 "tags_timestamp","String","20","Recommended","Timestamp of event marker press by participant","","Timestamps in UTC (microseconds) of the event marks",""
 "skin_temp","Float","","Recommended","Skin temperature of the subject wearing device in degree Celsius","","",""
-"device_timestamp","String","20","Recommended","Device timestamp (date and time) when readings are recorded","","YYYY-MM-DD HH:MM:SS",""
+"device_timestamp","String","50","Recommended","Device timestamp (date and time) when readings are recorded","","YYYY-MM-DD HH:MM:SS.SSSSSS",""
 "accelerometers_std_g","Integer","","Recommended","Standard deviation of the accelerometer magnitude","","Accelerometer standard deviation",""
 "accelero_missing_value_reason","Integer","","Recommended","Standard deviation of the accelerometer magnitude - Reason for missing data","1;2","1 = Device not recording; 2 = Device not worn correctly",""
 "counts_x_axis","Integer","","Recommended","Actigraphy Counts X axis","","",""

@@ -90,3 +90,5 @@
 "saaq","Float","","Recommended","Global measure of abilityto respond to stimuli under lowdemand conditionsaccurately,quickly, and reliably(Auditory)","","",""
 "svaq","Float","","Recommended","Global measure of abilityto respond to stimuli under lowdemand conditionsaccurately,quickly, and reliably(Visual)","","",""
 "resp_source","Integer","","Recommended","Respondent Source","1::6","1= subject; 2= parent; 3= clinician; 4= teacher; 5= trainer; 6= fidelity reviewer",""
+"data_file1","File","255","Recommended","Data file 1","","Path to data file, e.g., Users/username/Documents/subjectABC_file1.csv",""
+"data_file1_type","String","300","Recommended","type of data file 1","","",""

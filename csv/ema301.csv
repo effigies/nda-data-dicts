@@ -851,3 +851,8 @@
 "ema_smq_10","Integer","","Recommended","How long did these thoughts of killing yourself last?","1::6","1=Less than a minute; 2=1-5 mins; 3=6-10 mins; 4=11-30 mins; 5=31-60 mins; 6=More than 60 mins",""
 "ema_smq_11","Integer","","Recommended","How strong was your intent to act on these suicidal thoughts?","0::100","0= None; 100 = Extreme",""
 "ema_smq_12","Integer","","Recommended","It seems like you are in a lot of distress right now. Are you in immediate danger of harming yourself?","0;1","0=No; 1=Yes",""
+"ema_smq_3","Integer","","Recommended","Right now, how sad or depressed are you feeling?","0::100","0=Not at all; 100=Extremely",""
+"ema_smq_4","Integer","","Recommended","Right now, how anxious or worried are you feeling?","0::100","0=Not at all; 100=Extremely",""
+"ema_smq_5","Integer","","Recommended","Right now, how hopeless are you feeling?","0::100","0=Not at all; 100=Extremely",""
+"ema_smq_6","Integer","","Recommended","How intense is your desire to kill yourself right now?","0::100","0=None; 100=Extreme",""
+"ema_smq_7","Integer","","Recommended","How strong is your intention to kill yourself right now?","0::100","0=None; 100=Extreme",""

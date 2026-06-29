@@ -34,3 +34,4 @@
 "smas03","Integer","","Recommended","How often have you tried to cut down on the use of social media without success?","1::5;99","1=Very rarely; 2=Rarely; 3=Sometimes; 4=Often; 5=Very often; 99=I prefer not to answer",""
 "smas04","Integer","","Recommended","How often have you become restless or troubled if you are prohibited from using social media?","1::5;99","1=Very rarely; 2=Rarely; 3=Sometimes; 4=Often; 5=Very often; 99=I prefer not to answer",""
 "smas05","Integer","","Recommended","How often have you used social media so much that it has had a negative impact on your studies?","1::5;99","1=Very rarely; 2=Rarely; 3=Sometimes; 4=Often; 5=Very often; 99=I prefer not to answer",""
+"smas06","Integer","","Recommended","How often have you felt an urge to use social media more and more?","1::5;99","1=Very rarely; 2=Rarely; 3=Sometimes; 4=Often; 5=Very often; 99=I prefer not to answer",""

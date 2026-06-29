@@ -501,7 +501,7 @@
 "family_id","String","20","Recommended","Family User-Defined ID","","","couple_id"
 "educ_attained","Integer","","Recommended","What level of education have you attained?","0::5","0 = Uneducated – illiterate; 1 = Primary (1-4); 2 = Middle (5-7); 3 = High school (8-10); 4 = Pre-University College (PUC) i.e., 11th and 12th; 5 = Above P.U.C.",""
 "arrangedmarr","Integer","","Recommended","How did your marriage take place? (Love or arranged)","0;1","0 = Marriage arranged by elders; 1 = Love marriage",""
-"relig_follow","Integer","","Recommended","What religion do you follow?","0::2;66","0 = Hinduism; 1 = Christianity; 2 = Islam; 66 = Other","religion"
+"relig_follow","Integer","","Recommended","What religion do you follow?","0::5;66","0 = Hinduism; 1 = Christianity; 2 = Islam; 3 = Buddhism; 4 = Kirat; 5 = Refused to answer; 66 = Other","religion"
 "resp_religion_other","String","100","Recommended","If not already listed, what is your religion?","","777=Not applicable","religion_oth"
 "have_children","Integer","","Recommended","Do you have children?","0;1","0 = No;  1 = Yes","children"
 "agechld1","Integer","","Recommended","Age of your first child (in years)","","",""
@@ -995,3 +995,4 @@
 "iy_mina_12","Integer","","Recommended","You said  Middle Eastern or North African. What specific ethnic group are you?  (choice=Morocco)","0;1","0=Unchecked; 1=Checked",""
 "iy_mina_13","Integer","","Recommended","You said  Middle Eastern or North African. What specific ethnic group are you?  (choice=Oman)","0;1","0=Unchecked; 1=Checked",""
 "iy_mina_14","Integer","","Recommended","You said  Middle Eastern or North African. What specific ethnic group are you?  (choice=Palestine)","0;1","0=Unchecked; 1=Checked",""
+"income_fam2","Integer","","Recommended","What was your family.s total income last year?","1::11; 98; 99","1=$14,999 or less; 2=$15,000-$24,999; 3=$25,000-$34,999; 4=$35,000-$49,999; 5=$50,000-$74,999; 6=$75,000-$99,999; 7=$100,000-$149,999; 8=$150,000-$199,999; 9=$200,000-$299,999; 10=$300,000-$399,999; 11=$400,000 or more; 98=I don't know; 99=I prefer not to answer",""

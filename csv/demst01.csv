@@ -102,7 +102,7 @@
 "dem_59_oth_med","String","150","Recommended","Please list any other medicationyou are currently taking and the dosage?","","",""
 "dem_60_p_med_tod","String","150","Recommended","Please list medications you have taken today, including any use of an inhaler","","",""
 "st_time_01","Integer","","Recommended","On a typical day, about how many hours of television/tablet/videos/computer/video games does this child watch at home per day","","",""
-"dem_09_hl","Integer","","Recommended","Respondent ethnicity","0::4;-5;-999","1=Hispanic or Latino; 0=Not Hispanic or Latino; 3=Unknown; 4 = Do not wish to report; -5=item seen but not answered; -999=data not submitted (incomplete)","qdem4"
+"dem_09_hl","Integer","","Recommended","Respondent ethnicity","0::4;-5;-999","1=Hispanic or Latino; 0=Not Hispanic or Latino; 3=Unknown; 4 = Do not wish to report/provide; -5=item seen but not answered; -999=data not submitted (incomplete)","qdem4"
 "timept","Integer","","Recommended","Time Point","","888 = not applicable; 999 = missing","dem_time"
 "dem_48_b","String","150","Recommended","Who has those medical problems?","","",""
 "paofwork5","Integer","","Recommended","39. Are you a student","1::3; -9","1 = Yes, Full-time; 2 = Yes, Part-time; 3 = No, -9 = Missing Data","qdem9"

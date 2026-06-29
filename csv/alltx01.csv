@@ -114,3 +114,4 @@
 "lt_tx_txt_type_4","Integer","","Recommended","Has your child ever used: In-home case management","0;1","0 = No; 1 = Yes",""
 "lt_tx_txt_type_5","Integer","","Recommended","Has your child ever used: Overnight treatment stays","0;1","0 = No; 1 = Yes",""
 "lt_tx_txt_type_6","Integer","","Recommended","Has your child ever used: Summer treatment program (most days of the week)","0;1","0 = No; 1 = Yes",""
+"psych_txt","Integer","","Recommended","Is your child seeing a therapist, counselor, or seeking some type of psychological treatment?","0;1","0 = No; 1 = Yes",""

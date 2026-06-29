@@ -7,7 +7,7 @@
 "ageyears","Integer","","Recommended","Age in years","","",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "version","String","20","Recommended","Version/code of assessment","","e.g., Self-Report, Parent Form, Short Form, Revised Version",""
-"sf_01","Integer","","Recommended","In general, how is your health?","1::5","1 = Excellent; 2 = Very Good; 3 = Good; 4 = Fair; 5 = Poor",""
+"sf_01","Integer","","Recommended","In general, how is your health?","1::5;98;99","1 = Excellent; 2 = Very Good; 3 = Good; 4 = Fair; 5 = Poor; 98=I don't know; 99=I prefer not to answer",""
 "sf_02","Integer","","Recommended","How much does your health limit your involvement in moderate activities (e.g., moving a table, pushing vacuum cleaner...)?","1::3","1 = Yes - Limited A Lot 2 = Yes - Limited A Little; 3 = No - Not Limited At All",""
 "sf_03","Integer","","Recommended","How much does health limit your ability to climb several flights of stair?","1::3","1 = Yes - Limited A Lot 2 = Yes - Limited A Little; 3 = No - Not Limited At All",""
 "sf_04","Integer","","Recommended","How often in the past 4 weeks did your physical health result in accomplishing less than you would like with work or other activities?","1::5","1 = All of the time; 2 = Most of the time; 3 = Some of the time; 4 = A little of the time; 5 = None of the time",""
