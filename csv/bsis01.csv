@@ -157,3 +157,6 @@
 "sis_rs_6","Integer","","Recommended","Suicide Note: Did you/child write a suicide note?","0::2","0= Absence of note; 1= Note written but torn up; 2= Presence of note",""
 "sis_rs_8","Integer","","Recommended","Stated intent: Did you/child want to die?","0::2","0= Did not want to die; 1= Uncertain or did not care if s/he lived or died; 2= Did want to die",""
 "sis_rs_13","String","40","Recommended","How long ago was this suicide attempt that we've been talking about?","","E.g., 2 weeks; 3 months; 4 years",""
+"bssi01_","Integer","","Recommended","Wish to live","1::5","1 = Not at all; 2; 3; 4; 5 = Extremely",""
+"bssi02_","Integer","","Recommended","Wish to die","1::5","1 = Not at all; 2; 3; 4; 5 = Extremely",""
+"bssi03_","Integer","","Recommended","There are more reasons for me to live than to die","1::5","1 = Not at all; 2; 3; 4; 5 = Extremely",""

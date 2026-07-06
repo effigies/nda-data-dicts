@@ -574,3 +574,8 @@
 "tool_improve_behavior","Integer","","Recommended","Do you feel that using (INSERT INTERVENTION) tool has helped to assess or understand multi-dimensional and multilevel stigma?","0;1","0= No; 1= Yes",""
 "tool_acceptable","Integer","","Recommended","How acceptable do you think (INSERT INTERVENTION) tool is to you?","1::5","1= Completely acceptable; 2= Acceptable; 3= Neither acceptable nor unacceptable; 4= Unacceptable; 5= Completely unacceptable",""
 "tool_recommend","Integer","","Recommended","Do you recommend this (INSERT INTERVENTION) tool to other healthcare workers of other ART Center?","0;1","0= No; 1= Yes",""
+"sessions_received","Integer","","Recommended","How many sessions did you receive in this intervention?","0::9","",""
+"incomplete_reason","String","300","Recommended","If you did not complete all the sessions, what were the reasons?","","",""
+"liked_intervention","Integer","","Recommended","Did you like participating in this intervention?","0;1","0= No; 1= Yes",""
+"relation_improved","Integer","","Recommended","Do you feel this intervention has improved your relationships?","0;1","0= No; 1= Yes",""
+"recommend_intervention","Integer","","Recommended","Would you recommend this intervention to others?","0::2","0= No; 1= Yes; 2= Don't Know",""
