@@ -24,3 +24,5 @@
 "site","String","101","Recommended","Site","","Study Site",""
 "completed","Integer","","Recommended","Checks if completed","-1::3","0=No; 1=Yes; 2=Yes, lost; 3=Unverified; -1= Not applicable",""
 "eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""
+"breath_datafile1","File","","Recommended","Breath Hold Run 1 Data File","","Physiological data with ratings pre-and post-task",""
+"breathdata_file1_type","String","255","Recommended","Breath Hold Run 1 Data File Type","","",""

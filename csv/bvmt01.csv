@@ -9,7 +9,7 @@
 "bvmt_trial3","Integer","","Recommended","BVMT- Trial 3 Score","0::12;-99;-98","0::12 = score range; -99 = participant did not show; -98 = participant showed but data was not collected",""
 "bvmt_totrec","Float","","Recommended","BVMT- Total Recall Score","0::36;-99;-98","0::36 = score range; -99 = participant did not show; -98 = participant showed but data was not collected",""
 "bvmt_delrec","Integer","","Recommended","BVMT- Delayed Recall Score","0::12;-99;-98","0::12 = score range; -99 = participant did not show; -98 = participant showed but data was not collected",""
-"bvmt_retent","Integer","","Recommended","BVMT- Retention Score","0::350;-99;-98","0::350 = Score range; -99 = Participant did not show; -98 = Participant showed but data was not collected",""
+"bvmt_retent","Integer","","Recommended","BVMT- Retention Score","0::400;-99;-98","0::400 = Score range; -99 = Participant did not show; -98 = Participant showed but data was not collected",""
 "bvmt_hits","Integer","","Recommended","BVMT- Total Number of Hits","0::6;-99;-98","0::6 = score range; -99 = participant did not show; -98 = participant showed but data was not collected",""
 "bvmt_falspos","Integer","","Recommended","BVMT- Total Number of False Positives","0::6;-99;-98","0::6 = score range; -99 = participant did not show; -98 = participant showed but data was not collected",""
 "bvmt_resbias","Float","","Recommended","BVMT- Response Bias","0::1;-99;-98","0::1 = score range; -99 = participant did not show; -98 = participant showed but data was not collected",""
