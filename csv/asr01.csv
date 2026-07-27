@@ -218,7 +218,7 @@
 "asr_53","Integer","","Recommended","I get along well with other students","0::2","0 = Not true; 1 = Somewhat or sometimes true; 2 = Very true or often true","a_i_get_along_well_with_ot"
 "asr_54","Integer","","Recommended","I achieve what I am capable of","0::2","0 = Not true; 1 = Somewhat or sometimes true; 2 = Very true or often true","b_i_achieve_what_i_am_capa"
 "asr_55","Integer","","Recommended","I have trouble finishing assignments","0::2","0 = Not true; 1 = Somewhat or sometimes true; 2 = Very true or often true","c_i_have_trouble_finishing"
-"asr_61","String","500","Recommended","Please describe the best thing about yourself","","","viii_please_describe_the_b"
+"asr_61","String","1000","Recommended","Please describe the best thing about yourself","","","viii_please_describe_the_b"
 "wrkfrpay","Integer","","Recommended","Work for Pay?","0;1;9;777","0=No; 1=Yes; 9=NK; 777=Not applicable",""
 "sni_8","Integer","","Recommended","Do you attend any classes (school, university, technical training, or adult education) on a regular basis","0;1","0=No; 1=Yes",""
 "demo_edu_other","String","100","Recommended","Education other: specify","","",""
