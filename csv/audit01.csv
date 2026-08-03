@@ -463,3 +463,4 @@
 "plus_3","Integer","","Recommended","Days since last alcohol binge (males 5+, females 4+ in one day)","","",""
 "plus_4a","Integer","","Recommended","Has participant ever used an illicit substance?","0;1","0=No; 1=Yes",""
 "plus_4","Integer","","Recommended","Days since last illicit substance use (other than marijuana)?","","",""
+"vape_type","Integer","","Recommended","Please indicate which e-cigarette or vaping type you use/used the most","1;2","1 = Disposable vape devices; 2 = Pod-style or refillable devices",""
