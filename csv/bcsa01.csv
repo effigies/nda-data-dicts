@@ -29,3 +29,7 @@
 "bcsa_online_2wk_10","Integer","","Recommended","In the past 2 weeks, Someone spread rumors about me online.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Quite a bit; 5=Very Much",""
 "bcsa_online_2wk_11","Integer","","Recommended","In the past 2 weeks, Someone threatened to hurt me through a cellphone or text message.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Quite a bit; 5=Very Much",""
 "bcsa_online_2wk_12","Integer","","Recommended","In the past 2 weeks, Someone threatened to hurt me online.","1::5","1= Not at all; 2= A little; 3= Somewhat; 4= Quite a bit; 5=Very Much",""
+"cyberbullying_abbrev_1","Integer","","Recommended","In the past 2 weeks, someone posted online mean or hurtful comments, images, or videos about me","1::4","1=Never; 2=Once; 3=A few times; 4=Many times",""
+"cyberbullying_abbrev_2","Integer","","Recommended","In the past 2 weeks, someone spread rumors about me online","1::4","1=Never; 2=Once; 3=A few times; 4=Many times",""
+"cyberbullying_abbrev_3","Integer","","Recommended","In the past 2 weeks, someone threatened to hurt me online","1::4","1=Never; 2=Once; 3=A few times; 4=Many times",""
+"cyberbullying_abbrev_4","Integer","","Recommended","In the past 2 weeks, someone pretended to be me online and acted in a way that was mean or hurtful to me","1::4","1=Never; 2=Once; 3=A few times; 4=Many times",""

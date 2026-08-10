@@ -9,3 +9,4 @@
 "bready1","Integer","","Recommended","How important is it to you to change the experiences you have during and after drinking?","1::10;-5","1 = Not at all important; 10 = Extremely important; -5 = Skipped",""
 "bready2","Integer","","Recommended","How important is it to you to have positive experiences during and after drinking?","1::10;-5","1 = Not at all important; 10 = Extremely important; -5 = Skipped",""
 "bready3","Integer","","Recommended","Do you want to have more positive experiences during and after drinking than what you recently have had?","0;1;-5","0 = No; 1= Yes; -5 = Skipped",""
+"rtcr_ready","Integer","","Recommended","On a scale from 0-10, how ready are you to change any aspect of your drinking, where 0 is definitely not ready to change and 10 is definitely ready to change?","0::10","0=Definitely not ready to change; 10=Definitely ready to change",""

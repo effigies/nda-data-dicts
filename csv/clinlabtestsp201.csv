@@ -799,3 +799,7 @@
 "vl_test_time_b","Float","","Recommended","Time since the participant's most recent viral load test (in days)","","",""
 "outcome_vl_test_b","Integer","","Recommended","What was the participant's viral load?","1;2","1= (Less than or equal to 20 copies/ml); 2= (More than 20 copies/ml)",""
 "hhh3","Integer","","Recommended","Was your last viral load test result detectable or undetectable?","0::1; 99","1= Detectable; 0= Undetectable; 99= Do Not Know",""
+"lab_tests_vl_c_ml","String","4000","Recommended","Viral Load (c/mL)","","",""
+"lab_tests_vl_logunits","String","4000","Recommended","Viral Load (log units)","","",""
+"lab_tests_vl_threshold","String","4000","Recommended","Viral Load test detectable threshold (i.e. 20 c/mL, 40 c/mL, etc.)","","",""
+"lab_tests_vl_detectable","Integer","","Recommended","Viral Load detectability","1;2;-999","1 = Undetectable VL; 2 = Detectable VL; -999 = Missing/Don't Know",""
