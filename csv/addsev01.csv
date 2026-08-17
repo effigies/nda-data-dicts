@@ -109,7 +109,7 @@
 "asi_famhis_dad02","Integer","","Recommended","(Fathers Side) Grandmother: Drug Problem","0;1;888","0= No; 1= Yes; 888= Uncertain, Do not know",""
 "asi_famhis_dad03","Integer","","Recommended","(Fathers Side) Grandmother: Psychiatric Problem","0;1;888","0= No; 1= Yes; 888= Uncertain, Do not know",""
 "asi_famhis_dad04","Integer","","Recommended","(Fathers Side) Grandmother: Psychiatric Problem Type","1 :: 7;888;999","1= Affective; 2= Anxiety; 3= Thought; 4= Alzheimers; 5= ADHD; 6= Eating; 7= Refused; 888= Do not know; 999= NA",""
-"asi_famhis_adopt","Integer","","Recommended","Was subject adopted?","0;1","0= No; 1= Yes",""
+"asi_famhis_adopt","Integer","","Recommended","Was subject adopted?","0;1;997","0= No; 1= Yes; 997= Don't Know",""
 "asi_famhis_dad05","Integer","","Recommended","(Fathers Side) Grandfather: Alcohol Problem","0;1;888;999","0= No; 1= Yes; 888= Uncertain, Do not know; 999= No relative from this category",""
 "asi_famhis_dad06","Integer","","Recommended","(Fathers Side) Grandfather: Drug Problem","0;1;888","0= No; 1= Yes; 888= Uncertain, Do not know",""
 "asi_famhis_dad07","Integer","","Recommended","(Fathers Side) Grandfather: Psychiatric Problem","0;1;888","0= No; 1= Yes; 888= Uncertain, Do not know",""

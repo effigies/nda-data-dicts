@@ -464,3 +464,5 @@
 "plus_4a","Integer","","Recommended","Has participant ever used an illicit substance?","0;1","0=No; 1=Yes",""
 "plus_4","Integer","","Recommended","Days since last illicit substance use (other than marijuana)?","","",""
 "vape_type","Integer","","Recommended","Please indicate which e-cigarette or vaping type you use/used the most","1;2","1 = Disposable vape devices; 2 = Pod-style or refillable devices",""
+"auditc_3_pastyr_v2","Integer","","Recommended","How often did you have 6 or more (for men) or 4 or more (for women and everyone 65 and older) drinks on an occasion in the past year?","0::4","0= Never; 1= Less than monthly; 2= Monthly; 3= Weekly; 4= Daily or almost daily",""
+"audit3_p2m_v2","Integer","","Recommended","How often did you have 6 or more (for men) or 4 or more (for women and everyone 65 and older) drinks on an occasion in the past 2 months?","0::4","0= Never; 1= Less than monthly; 2= Monthly; 3= Weekly; 4= Daily or almost daily",""
