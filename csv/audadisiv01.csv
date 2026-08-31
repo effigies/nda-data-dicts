@@ -227,7 +227,7 @@
 "sad36_12mo","Integer","","Recommended","In the last 12 months, did you have arguments or problems with your spouse or partner or family or friends because of your drinking?","0;1","0= No; 1= Yes",""
 "sad9ka_12mo","Integer","","Recommended","If you just mentioned that you had SOME bad aftereffects when stopping or cutting down on drinking in the last 12 months: Did at least 2 of these experiences happen around the same time DURING the last 12 months?","0;1","0= No; 1= Yes",""
 "sad30_12mo","Integer","","Recommended","In the last 12 months, did you feel a very strong urge or desire to drink?","0;1","0= No; 1= Yes",""
-"sad31_12mo","Integer","","Recommended","In the last 12 months, did you want a drink so badly that you could not think of anything else?","0;1","0= No; 1= Yes",""
+"sad31_12mo","Integer","","Recommended","In the last 12 months, did you want a drink so badly that you could not think of anything else?","0;1;999","0=No; 1=Yes; 999=Skipped",""
 "sad32_12mo","Integer","","Recommended","In the last 12 months, did you drive a car, motorcycle, truck, boat or other vehicle and have an accident WHILE you were under the influence of alcohol?","0;1","0= No; 1= Yes",""
 "sad33_12mo","Integer","","Recommended","In the last 12 months, did you drive a car, motorcycle, truck or other vehicle and injure yourself or someone else in an accident while you were under the influence of alcohol?","0;1","0= No; 1= Yes",""
 "sad34_12mo","Integer","","Recommended","In the last 12 months, did you accidentally injure yourself or someone else in any way other than motor vehicle accidents, like a bad fall or bad cut, while you were under the influence of alcohol?","0;1","0= No; 1= Yes",""
