@@ -382,7 +382,7 @@
 "imputation","Integer","","Recommended","Indicator noting imputed data set number ","1::20","",""
 "site","String","101","Recommended","Site","","Study Site",""
 "days_baseline","Integer","","Recommended","Days since baseline","","",""
-"informant","String","20","Recommended","Informant completing test","Mother;Father;Both Parents;Other;Self","",""
+"informant","String","20","Recommended","Informant completing test","Mother;Father;Both Parents;Other;Self;Missing","",""
 "compt3","Integer","","Recommended","Explains concepts of depression and suicidality to child or parent and establishes understanding in developmentally appropriate manner","1::5","1 = Superior; 2 = Satisfactory; 3 = Needs Improvement; 4 = Failed to Attempt; 5 = N/A 
 ",""
 "gom01","String","500","Recommended","Event","","",""
