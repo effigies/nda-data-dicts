@@ -72,3 +72,4 @@
 "asc_biology11","Integer","","Recommended","Do you think any of your biological siblings (same biological mother and father) have ever had a drinking problem?","0::3;888;999","0= No; 1= Yes; 2= I don't know; 3= I choose not to answer; 888= Not Applicable; 999= Incomplete",""
 "asc_biology12","Integer","","Recommended","Do you think any of your biological siblings have ever had problems with other drugs?","0::3;888;999","0= No; 1= Yes; 2= I don't know; 3= I choose not to answer; 888= Not Applicable; 999= Incomplete",""
 "asc_biology13","Integer","","Recommended","Do you think any of your biological siblings have ever had problems with depression or anxiety?","0::3;888;999","0= No; 1= Yes; 2= I don't know; 3= I choose not to answer; 888= Not Applicable; 999= Incomplete",""
+"asc_total_score","Integer","","Recommended","Alcohol Symptom Checklist - Total Score for DSM-5 AUD Criteria","0::11","Sum of items asc_alc1-11",""
