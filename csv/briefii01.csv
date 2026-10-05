@@ -179,3 +179,4 @@
 "brief_p_inconsistency_raw","Integer","","Recommended","BRIEF-2 (Parent): Inconsistency Raw Score","0::100;-999","'-999= Missing Data",""
 "brief_p_negativity_raw","Integer","","Recommended","BRIEF-2 (Parent): Negativity Raw Score","0::100;-999","'-999= Missing Data",""
 "brief_p_bri_raw","Integer","","Recommended","BRIEF-2 (Parent): Behavioral Regulation Index (BRI) Raw Score (Inhibit + Self Monitor)","0::100;-999","'-999= Missing Data",""
+"brief2_eri_percentile","Float","","Recommended","BRIEF-2: Emotional Regulation Index (ERI) Percentile (Shift + Emotional Control)","0::100;-999","-999= Missing Data",""

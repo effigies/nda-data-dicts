@@ -28,3 +28,6 @@
 "breath_alc","Float","","Recommended","Breath Alcohol Level of Subject at Each Timepoint","0::1","Percentage",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "et_dose_num","Integer","","Recommended","Dose number","","",""
+"dds1","Integer","","Recommended","Please place a mark on the line below indicating the degree to which you feel the drinks","0::100","0=None at all; 100=Very much",""
+"dds3","Integer","","Recommended","Please place a mark on the line below indicating the degree to which you desire more alcohol","0::100","0=None at all; 100=Very much",""
+"dds2","Integer","","Recommended","Please place a mark on the line below indicating the degree to which you like the effects of the drinks","0::100","0=None at all; 100=Very much",""
