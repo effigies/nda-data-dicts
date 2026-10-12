@@ -528,3 +528,4 @@
 "asr2_1_alt","Integer","","Recommended","ASR 7 I brag (0-2 scoring)","0::2;-99;77;90","0=Not True; 1=Somewhat or Sometimes True; 2=Very True or Often True; -99=N/A; 77=Refused; 88=Missing",""
 "asr17_4_alt","Integer","","Recommended","ASR 91 I think about killing myself (0-2 scoring)","0::2;-99;77;91","0=Not True; 1=Somewhat or Sometimes True; 2=Very True or Often True; -99=N/A; 77=Refused; 88=Missing",""
 "asr18_4_alt","Integer","","Recommended","ASR 97 I threaten to hurt people (0-2 scoring)","0::2;-99;77;88","0=Not True; 1=Somewhat or Sometimes True; 2=Very True or Often True; -99=N/A; 77=Refused; 88=Missing",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
