@@ -10,3 +10,7 @@
 "exp_time_cocaine","Float","","Recommended","Time from baseline in hours","-1;0::4","-1= Baseline (prior to cocaine intravenous administration); 0= At administration of cocaine; 0.25= 15 minutes after administration; 4= 4 hours after cocaine administration",""
 "stimulant_total","Integer","","Recommended","How stimulated a subject feels, per subjective self-report","0::64","",""
 "sedatitve_total","Integer","","Recommended","How sedated a subject feels, per subjective self-report","0::64","",""
+"troriluzole_dose","Integer","","Recommended","Level of troriluzole dose","0::2","0 = 0mg/day; 1 = 140 mg/day; 2 = 280 mg/day",""
+"meth_dose","Integer","","Recommended","Level of intravenous methamphetamine dose","0;15;30","0 = 0 mg; 15 = 15 mg; 30 = 30mg",""
+"comorbid_condition","Integer","","Recommended","Does the patient have MUD (Methamphetamine Use Disorder) alone, or comorbid Methamphetamine Use Disorder (MUD) and Opioid Use Disorder (OUD)?","0;1","0 = Methamphetamine Use Disorder only; 1 = Comorbid methamphetamine and opioid use disorder",""
+"exp_time_alt","Float","","Recommended","Time from baseline, in hours","0::3;-1","Baseline is -1 (prior to methamphetamine intravenous administration); 0 to 3 denotes time in hours from administration of methamphetamine, 0 is at administration of methamphetamine. Time is measured in minutes. 0.25 is 15 minutes. 3 is three hours after methamphetamine administration",""
