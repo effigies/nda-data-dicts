@@ -34,7 +34,7 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "gen002","Date","","Recommended","Collection Date: (mm/dd/yyyy)","","",""
 "gen003","String","10","Recommended","Collection Time: 
 (hh:mm, 24-hour clock; enter 55:55 if unknown; record start time)","","","v10_biobanking_timecollected,v1_biobanking_timecollected,v2_biobanking_timecollected,v4_biobanking_timecollected,v7_biobanking_timecollected"
-"biorepository","String","100","Recommended","Sample provider: i.e. NIMH_Genetics; ATP; Correil","","",""
+"biorepository","String","100","Recommended","Sample provider: i.e. NIMH_Genetics; ATP; Coriell","","",""
 "gen004","Integer","","Recommended","Was DNA sample shipped to biorepository?","0;1","0=No; 1=Yes",""
 "gen004a","Date","","Recommended","If ""Yes"", Date shipped to biorepository","","",""
 "gen005","Integer","","Recommended","Was RNA sample shipped to biorepository?","0;1","0=No; 1=Yes",""

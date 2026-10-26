@@ -23,3 +23,4 @@
 "cci_genfctr","Float","","Recommended","CCI-General Factor","","",""
 "cci_sleep","Float","","Recommended","CCI-Sleepy","","",""
 "cci_onefctr","Float","","Recommended","CCI-Daydreamer","","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

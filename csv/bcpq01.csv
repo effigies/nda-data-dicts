@@ -29,5 +29,5 @@
 "bcpqsenslocarm","Integer","","Recommended","Do you have sensory disturbances or discomfort in the area of the breast, armpit, side of the body, or arm on the side(s) where you were operated? If ''Yes'', where do you have sensory disturbance or discomfort? Arm","0;1","0 = Unchecked; 1 = Checked",""
 "bcpqotherpainyn","Integer","","Recommended","Question regarding other pain:  Do you frequently have pain in other parts of your body (e.g. back pain, headache or similar)?","0;1","0 = No; 1 = Yes",""
 "bcpqnumloccount","Integer","","Recommended","BCPQ - Number of breast cancer pain locations","0::4","Sum of bcpqpainlocbreast, bcpqpainlocside, bcpqpainlocaxilla, bcpqpainlocarm",""
-"bcpqworstpain","Integer","","Recommended","BCPQ - Worst pain severity","0::40","Sum of bcpqpainlvlbreast, bcpqpainlvlside, bcpqpainlvlaxilla, bcpqpainlvlarm,",""
+"bcpqworstpain","Integer","","Recommended","BCPQ - Worst pain severity","0::10","Worst of bcpqpainlvlbreast, bcpqpainlvlside, bcpqpainlvlaxilla, bcpqpainlvlarm",""
 "bcpq_pbi","Integer","","Recommended","BCPQ - Pain Burden Index","0::200","Scored as the sum of (pain severity at each location multiplied by the frequency of pain at each site)",""

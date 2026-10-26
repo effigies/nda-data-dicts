@@ -230,3 +230,6 @@
 "sti_satisfiedhelp","Integer","","Recommended","How satisfied are you with the amount of help (STI testing) received?","1::4","1= Quite dissatisfied; 2= Indifferent or mildly dissatisfied; 3= Mostly satisfied; 4= Very satisfied",""
 "sti_helpproblems","Integer","","Recommended","Have the STI testing services you received helped you to deal more effectively with your health?","1::4","1= No, they seemed to make things worse; 2= No, they really didn't help; 3= Yes, they helped somewhat; 4= Yes, they helped a great deal",""
 "sti_satisfiedoverall","Integer","","Recommended","Overall, how satisfied are you with your recent STI testing visit?","1::4","1= Quite dissatisfied; 2= Indifferent or mildly dissatisfied; 3= Mostly satisfied; 4= Very satisfied",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
+"csq8_9_comments","String","1000","Recommended","If I could change some things about the services, these are my ideas and preferences","","",""
+"csq8_8_comments","String","1000","Recommended","Please, write here, any additional comments and suggestions: The things I like the most about the services are:","","",""

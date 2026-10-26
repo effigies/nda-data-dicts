@@ -65,7 +65,7 @@
 "clwadj_stroop","Integer","","Recommended","STROOP Color-Word Age/Education Predicted Score","","-99 = participant did not show; -98 = participant showed but data was not collected, N/A",""
 "clwres_stroop","Integer","","Recommended","STROOP Colore-Word Residual Score","","",""
 "clwtsc_stroop","Integer","","Recommended","STROOP Color-Word T-Score","","-99 = participant did not show; -98 = participant showed but data was not collected, N/A",""
-"predct_stroop","Integer","","Recommended","STROOP Predicted Score ","","",""
+"predct_stroop","Float","","Recommended","STROOP Predicted Score ","","(word score * color score)/(word score + color score)",""
 "interf_stroop","Float","","Recommended","STROOP Interference Score","","",""
 "comment","String","500","Recommended","Miscellaneous comments about assessment","","","stroop_comments"
 "days_baseline","Integer","","Recommended","Days since baseline","","",""

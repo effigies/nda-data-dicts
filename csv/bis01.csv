@@ -141,3 +141,4 @@
 "bis_24hr_5","Integer","","Recommended","In the past 24 hours, I was a steady thinker.","1::4","1= Rarely/Never; 2=Occasionally; 3=Often; 4= Almost Always/Always",""
 "bis_24hr_6","Integer","","Recommended","In the past 24 hours, I acted ''on impulse''.","1::4","1= Rarely/Never; 2=Occasionally; 3=Often; 4= Almost Always/Always",""
 "bis_24hr_7","Integer","","Recommended","In the past 24 hours, I acted on the spur of the moment.","1::4","1= Rarely/Never; 2=Occasionally; 3=Often; 4= Almost Always/Always",""
+"interaction_id","String","10","Recommended","Clinician/Participant pairing identification","","First number indicates clinician, second number indicates numerical participant for clinician, e.g.: 2-1",""

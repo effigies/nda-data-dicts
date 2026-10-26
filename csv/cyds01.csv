@@ -134,3 +134,7 @@
 "cyd13","Integer","","Recommended","Drugs are a problem in my neighborhood","1::5","1 = Strongly agree; 2 = Agree; 3 = Neither agree nor disagree; 4 = Disagree; 5 = Strongly disagree",""
 "cyd14","Integer","","Recommended","Violent crime is a problem in my neighborhood","1::5","1 = Strongly agree; 2 = Agree; 3 = Neither agree nor disagree; 4 = Disagree; 5 = Strongly disagree",""
 "cyd27","Integer","","Recommended","I use the recreational facilities available in my neighborhood","0;1","0 = False; 1 = True",""
+"cyd13b","Integer","","Recommended","Drugs are a problem in my neighborhood","1::5","1= A little; 2= Some; 3= Pretty much; 4= A lot; 5= A serious problem",""
+"cyd12b","Integer","","Recommended","Graffiti is a problem in my neighborhood","1::5","1= A little; 2= Some; 3= Pretty much; 4= A lot; 5= A serious problem",""
+"cyd11b","Integer","","Recommended","Gangs are a problem in my neighborhood","1::5","1= A little; 2= Some; 3= Pretty much; 4= A lot; 5= A serious problem",""
+"cyd14b","Integer","","Recommended","Violent crime is a problem in my neighborhood","1::5","1= A little; 2= Some; 3= Pretty much; 4= A lot; 5= A serious problem",""

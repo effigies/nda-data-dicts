@@ -87,7 +87,7 @@
 "substance_dependence___99","Integer","","Recommended","Does patient have a lifetime history of clinically significant substance use problems by self report or clinical history with any of the following (Select all that apply): Unknown","0;1","0= Unchecked; 1= Checked",""
 "substance_use_other","String","255","Recommended","Specify ''Other'' substance used","","",""
 "lifetime_history_form_complete","Integer","","Recommended","Lifetime history form completed?","0::2","0= Incomplete; 1= Unverified; 2= Complete",""
-"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
+"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","Hispanic or Latino; Not Hispanic or Latino; Unknown; Prefer not to answer",""
 "education_years","Float","","Recommended","Number of years of completed education","1::999","1-6= Primary School; 7-12= High School; 13-16= College; >16= Post-Graduate; 999= Unknown",""
 "primary_life_dx","Integer","","Recommended","Patient's primary lifetime diagnosis","1::5;88","1= Major Depressive Disorder; 2= Bipolar I Disorder; 3= Bipolar II Disorder; 4= Schizoaffective Disorder-depressed; 5= Schizoaffective Disorder-bipolar; 88= Other",""
 "primary_diagnosis_other","String","50","Recommended","Patient's primary psychiatric diagnosis, if Other, then specify","","",""

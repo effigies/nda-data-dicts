@@ -145,3 +145,7 @@
 "cats_2wks03","Integer","","Recommended","How often the following things have bothered you in the last two weeks: Acting or feeling as if the stressful event is happening right now.","0::3","0= Never; 1= Once in a while; 2= Half the time; 3= Almost always",""
 "cats_2wks04","Integer","","Recommended","How often the following things have bothered you in the last two weeks: Feeling very emotionally upset when you are reminded of a stressful event.","0::3","0= Never; 1= Once in a while; 2= Half the time; 3= Almost always",""
 "cats_2wks05","Integer","","Recommended","How often the following things have bothered you in the last two weeks: Strong physical reactions when reminded of a stressful event (sweating, heart beating fast).","0::3","0= Never; 1= Once in a while; 2= Half the time; 3= Almost always",""
+"adopt_foster","Integer","","Recommended","Was your child adopted from foster care or the child welfare system?","1::4","1= Yes; 2=No; 3=I don't know; 4= Prefer not to answer",""
+"demo_adopt_age","String","20","Recommended","Reporting parent: At what age was your child adopted?","","",""
+"thi_c3803_11","Integer","","Recommended","Has your child ever been placed in foster care? (Lifetime)","0::3","0 = No; 1 = Yes; 2=I don't know; 3= Prefer not to answer",""
+"p_mdh_adopt","Integer","","Recommended","Was your child adopted?","0::3","0 = No; 1 = Yes; 2=I don't know; 3= Prefer not to answer",""

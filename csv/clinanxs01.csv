@@ -12,3 +12,6 @@
 "cas_6","Integer","","Recommended","Restlessness","0::4","4 = The patient is unable to keep still for more than a few minutes and engages in restless pacing or other purposeless activity. ;3 = As above, but he is able to keep still for an hour or so at time. ;2 = There is a feeling of """"needing to be on the move"""" which causes some, but not severe, distress. ;1 = Slight experience of restlessness which causes no distress. 0 = Absence of restlessness.",""
 "cas_total","Integer","","Recommended","Clinical Anxiety Scale Total","","",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
+"anxiety_1","Integer","","Recommended","Since the last, assessment have you felt anxious? If so, please rate your anxiety intensity and interference.","0;1","0=No; 1=Yes",""
+"anxiety_2","Integer","","Recommended","Please rate the intensity of the anxiety you experienced.","0::100","0=Not intense at all; 100=Extremely intense",""
+"anxiety_3","Integer","","Recommended","Please rate how much interference in your daily living the anxiety you experienced caused.","0::100","0=No interference at all; 100= Extreme interference",""

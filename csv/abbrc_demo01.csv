@@ -40,7 +40,7 @@
 "born_city","String","50","Recommended","City subject born in:","","",""
 "born_state","String","255","Recommended","State subject born in:","","",""
 "nimh_rv_dem_03","Integer","","Recommended","Current gender identity","0::11;999","0 = Male; 1 = Female; 2 = Trans male/Trans man; 3 = Trans female/Trans woman; 4 = Genderqueer or Gender non-conforming; 5 = Different identity; 6 = Non-binary; 7 = Refused/prefer not to answer; 8 = Do not know; 9 = Not listed; 10 = Multiple identities listed; 11 = Gender fluid; 999 = Missing","currentsex"
-"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
+"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","Hispanic or Latino; Not Hispanic or Latino; Unknown; Prefer not to answer",""
 "race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "lives_with","Integer","","Recommended","Who does the participant live with?","1::4","1 = Both biological parents, 2 = One biological parent, 3 = Adoptive parent(s), 4 = Other",""
 "livwith_oth","String","250","Recommended","If the participant live with not both biological parents, specify","","",""

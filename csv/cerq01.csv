@@ -111,3 +111,4 @@
 "req5_n","Integer","","Recommended","Please indicate how often you've experienced the following in the past 6 months: Things feel unreal (e.g., I feel strange, things around me feel strange).","1::5","1 = Not at all; 5 = Always",""
 "req6_n","Integer","","Recommended","Please indicate how often you've experienced the following in the past 6 months: I review (rethink) my thoughts or beliefs.","1::5","1 = Not at all; 5 = Always",""
 "req7_n","Integer","","Recommended","Please indicate how often you've experienced the following in the past 6 months: I review (rethink) my goals or plans.","1::5","1 = Not at all; 5 = Always",""
+"cerq21","Integer","","Recommended","I think of what I can do best","1::5;999","1=Almost never; 2=Sometimes; 3=Regularly; 4=Often; 5=Almost always; 999=Prefer not to answer/Left blank",""

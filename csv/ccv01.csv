@@ -12,7 +12,7 @@
 "update","Integer","","Recommended","Updated form","0;1","1= yes; 0= no",""
 "vis_type","Integer","","Recommended","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","locale,phone"
 "menop","Integer","","Recommended","Menopausal/post-hysterectomy/male","0;1","0=No; 1=Yes",""
-"mpdatm","Integer","","Recommended","Date of last menstrual period","","","mpdate"
+"mpdatm","String","10","Recommended","Date of last menstrual period","","","mpdate"
 "medication1_name","String","500","Recommended","Name first medication that the participant has taken","","0 = No medication; 999= Legitimately skipped","admd1,llaa3a,stnm1"
 "medication2_name","String","500","Recommended","Name second medication that the participant has taken","","0 = No medication; 999= Legitimately skipped","admd2,llaa3b,stnm2"
 "medication3_name","String","500","Recommended","Name third medication that the participant has taken","","0 = No medication; 999= Legitimately skipped","admd3,llaa3c,stnm3"
