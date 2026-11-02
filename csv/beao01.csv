@@ -14,3 +14,4 @@
 "beoa05_m","Integer","","Recommended","(For males) In the next TWO WEEKS, how likely is it that you will have 5 OR MORE DRINKS IN ONE SITTING: Within two hours of taking opioid medications.","1 :: 7","1= Extremely Unlikely; 7= Extremely Likely",""
 "beoa06_m","Integer","","Recommended","(For males) In the next TWO WEEKS, how likely is it that you will have 5 OR MORE DRINKS IN ONE SITTING: Close enough in time to taking your opioid medications where you can feel the effects of both substances at once.","1 :: 7","1= Extremely Unlikely; 7= Extremely Likely",""
 "beoa_score","Integer","","Recommended","Behavioral Expectations to Co-Use Alcohol and Opioids Score","","Total Sum of All 6 Items",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

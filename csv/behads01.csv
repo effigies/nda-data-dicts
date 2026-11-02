@@ -67,3 +67,4 @@
 "bads_24hr_7","Integer","","Recommended","In the past 24 hours I engaged in a wide and diverse array of activities.","0::6","0= Not at all; 1; 2= A little; 3; 4= A lot; 5; 6= Completely",""
 "instance_date","String","30","Recommended","Date and Time EMA survey was completed","","",""
 "badssf_total_score","Float","","Recommended","Activation Score","","Sum of bads2, bads3, bads4, bads5, bads7, bads8, bads13, bads24, bads26",""
+"interaction_id","String","10","Recommended","Clinician/Participant pairing identification","","First number indicates clinician, second number indicates numerical participant for clinician, e.g.: 2-1",""
