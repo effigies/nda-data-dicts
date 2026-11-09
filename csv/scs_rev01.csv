@@ -44,3 +44,6 @@
 "scsnr_5","Integer","","Recommended","I can''t tolerate being this upset any longer.","1::5","1 = Strongly Disagree; 5 = Strongly Agree",""
 "scsnr_6","Integer","","Recommended","I can never be forgiven for the mistakes I''ve made.","1::5","1 = Strongly Disagree; 5 = Strongly Agree",""
 "scsnr_7","Integer","","Recommended","No one can help me solve my problems.","1::5","1 = Strongly Disagree; 5 = Strongly Agree",""
+"burden_scs_rev","Integer","","Recommended","I consider myself as a burden to this earth.","1::5","1 = Strongly Disagree; 2 = Disagree; 3 = Neutral; 4 = Agree; 5 = Strongly Agree",""
+"irritable_scs_rev","Integer","","Recommended","I feel so irritated that I want to leave everything.","1::5","1 = Strongly Disagree; 2 = Disagree; 3 = Neutral; 4 = Agree; 5 = Strongly Agree",""
+"anger_scs_rev","Integer","","Recommended","I am capable of doing anything when I am angry. (For example smashing items, hurting myself, etc.)","1::5","1 = Strongly Disagree; 2 = Disagree; 3 = Neutral; 4 = Agree; 5 = Strongly Agree",""

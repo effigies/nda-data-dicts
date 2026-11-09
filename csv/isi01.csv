@@ -68,3 +68,4 @@
 "phys_mental_function","Integer","","Recommended","Functioning (physical and mental) during the day","1::4","1=Normal; 2=Slightly decreased; 3=Markedly decreased; 4=Very decreased",""
 "daytime_sleepy","Integer","","Recommended","Sleepiness during the day","1::4","1=None; 2=Mild; 3=Considerable; 4=Intense",""
 "sleep__quality","Integer","","Recommended","Overall quality of sleep (no matter how long you slept)","1::4","1=Satisfactory; 2=Slightly unsatisfactory; 3=Markedly unsatisfactory; 4=Very unsatisfactory or Did Not Sleep At All",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

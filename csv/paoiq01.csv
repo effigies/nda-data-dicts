@@ -14,3 +14,4 @@
 "paoiq08","Integer","","Recommended","Can quitting drinking alcohol help to improve pain and physical functioning?","0;1;999","0= No; 1= Yes; 999= Not Sure/Do Not Know",""
 "paoiq09","Integer","","Recommended","Can drinking alcohol while taking prescription opioid medication cause dangerous health effects?","0;1;999","0= No; 1= Yes; 999= Not Sure/Do Not Know",""
 "paoiq10","Integer","","Recommended","Can drinking alcohol slow down the metabolism of opioids and increase the risk of overdose?","0;1;999","0= No; 1= Yes; 999= Not Sure/Do Not Know",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

@@ -7,7 +7,7 @@
 "respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""
 "respondent_other_specify","String","50","Recommended","Respondent: Other (specify)","","",""
 "race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
-"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","","race_hispanic"
+"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","Hispanic or Latino; Not Hispanic or Latino; Unknown; Prefer not to answer","race_hispanic"
 "handedness","String","29","Recommended","handedness","R;L;B;999;888;777;555","R = Right; L = Left; B = Both; 999= No Answer; 888= Skipped; 777= Condition Skipped; 555= Missing",""
 "motherocccat","Integer","","Recommended","Mother's occupation","1::10; 999","1=homemaker, 2=laborer, 3=clerical, 4=craftsman or artist, 5=technical, 6=professional, 7=farmer, 8=self-employed, 9=other(mother specify), 10=other (father)",""
 "momoccuc","String","100","Recommended","mother's current occupation","","","motherocc_notes"

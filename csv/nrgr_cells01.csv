@@ -103,3 +103,4 @@
 "passage_reagent","String","128","Required","Cell culture passage reagent","","",""
 "freeze_method","String","128","Required","Cell culture freeze method","","",""
 "freeze_media","String","128","Required","Cell culture freeze media","","",""
+"nrgr_interview_age_known","Integer","","Recommended","Is subject's exact [interview_age] known?","0;1","0= No, subject age unknown; 1= Yes, subject age known",""

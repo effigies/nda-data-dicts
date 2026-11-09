@@ -44,3 +44,7 @@
 "viscount_trial3_counts","Integer","","Recommended","viscount trial3 counts","","",""
 "viscount_trial4_time","Integer","","Recommended","viscount trial4 time","25;35;45;100","",""
 "viscount_trial4_counts","Integer","","Recommended","viscount trial4 counts","","",""
+"heart_datafile1","File","","Recommended","Heartbeat Counting Run 1 Data File","","Physiological data with ratings pre-and post-task",""
+"heart_datafile2","File","","Recommended","Heartbeat Counting Run 2 Data File","","Physiological data with ratings pre-and post-task",""
+"heartdata_file1_type","String","255","Recommended","Heartbeat Counting Run 1 Data File Type","","",""
+"heartdata_file2_type","String","255","Recommended","Heartbeat Counting Run 2 Data File Type","","",""

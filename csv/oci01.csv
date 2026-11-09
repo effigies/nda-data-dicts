@@ -149,3 +149,8 @@
 "oci_pv_wash_d","Float","","Recommended","Washing Subscale - Distress","0::32","Sum of distress items 2, 4, 8, 21, 22, 27, 38, 42",""
 "oci_pv_doubt_f","Float","","Recommended","Doubting Subscale - Frequency","0::12","Sum of frequency items 26, 37, 41",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
+"oci12_total","Integer","","Recommended","OCI-12 - Total score","0::48","Sum of OCI-12 12 items: oci7, oci9, oci10, oci14, oci22, oci23, oci28, oci30, oci33, oci35, oci38, oci42",""
+"oci12_checking","Integer","","Recommended","OCI-12 - Checking subscale","0::12","Sum of oci7, oci9, oci10",""
+"oci12_ordering","Integer","","Recommended","OCI-12 - Ordering subscale","0::12","Sum of oci14, oci35, oci23",""
+"oci12_washing","Integer","","Recommended","OCI-12 - Washing subscale","0::12","Sum of oci22, oci38, oci42",""
+"oci12_obsessing","Integer","","Recommended","OCI-12 - Obsessing subscale","0::12","Sum of oci28, oci30, oci33",""

@@ -981,3 +981,4 @@ the Internet, or play outside).","0;1;2;999","0=Never;1=Sometimes;2=Usually","ad
 "vi3_cg_ss15","Integer","","Recommended","Copies a child playing nearby, even though they are not playing together. Example: Sees another child stacking blocks and then begins to stack blocks. Score 2 if he/she did this when younger, but has now outgrown it.","0::2;999","0 = Never; 1 = Sometimes; 2 = Usually or Often; 999 = Missing value",""
 "vi3_cg_ss16","Integer","","Recommended","Takes turns without having to be asked while playing games or sports.","0::2;999","0 = Never; 1 = Sometimes; 2 = Usually or Often; 999 = Missing value",""
 "vi3_cg_ss17","Integer","","Recommended","Uses words or gestures when he/she is upset instead of screaming, hitting, throwing something, etc.","0::2;999","0 = Never; 1 = Sometimes; 2 = Usually or Often; 999 = Missing value",""
+"vi3_cg_dl_ss","Float","","Recommended","Daily Living Standard Score","","",""

@@ -23,3 +23,4 @@
 "detransition_2_14","Integer","","Recommended","Why did you de-transition? In other words, why did you go back to living as your gender assigned at birth? (Select all that apply.) It was just too hard for me","0;1","0= No/Unchecked; 1= Yes/Checked",""
 "detransition_2_15","Integer","","Recommended","Why did you de-transition? In other words, why did you go back to living as your gender assigned at birth? (Select all that apply.) Not listed above","0;1","0= No/Unchecked; 1= Yes/Checked",""
 "detransition_2_15_txt","String","1000","Recommended","Why did you de-transition? In other words, why did you go back to living as your gender assigned at birth? (Select all that apply.) Not listed above (please specify)","","",""
+"detransition_2_16","Integer","","Recommended","Why did you de-transition? In other words, why did you go back to living as your gender assigned at birth? (Select all that apply.) Pressure from friends","0;1","0= No/Unchecked; 1= Yes/Checked",""

@@ -9,7 +9,7 @@
 "q1_6","String","200","Recommended","How did you hear about this study","","","dem_heard_12"
 "race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","","dem_race_12"
 "otherrace","String","200","Recommended","specify other race","","The following questions are about you or the child's family.","dem_race_spec_12"
-"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","","dem_hispanic_12"
+"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","Hispanic or Latino; Not Hispanic or Latino; Unknown; Prefer not to answer","dem_hispanic_12"
 "mother_race","String","55","Recommended","Mother's race","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported","","dem_race_mom_12"
 "p_race_bir","String","50","Recommended","Mother race, specified for more than one race","","","dem_spec_race_mom_12"
 "mother_ethnicity","String","30","Recommended","Mother ethnicity (choices are Hispanic/Latino or Not Hispanic/Latino)","Hispanic or Latino;Not Hispanic or Latino;Not Provided","","dem_hisp_mom_12"

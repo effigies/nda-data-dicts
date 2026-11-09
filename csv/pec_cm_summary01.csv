@@ -26,7 +26,7 @@
 "digs_mania_cl_epi_ons_age","Integer","","Recommended","Clean periods with significant role impairment (mania): Age at first and last clean manic periods: Ons Age","","Ons Age",""
 "dose","Float","","Recommended","Prescribed Dose in Phase (mg)","","",""
 "dthdate","String","30","Recommended","Date of death","","",""
-"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
+"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","Hispanic or Latino; Not Hispanic or Latino; Unknown; Prefer not to answer",""
 "exalz","Integer","","Recommended","Current diagnosis of dementia Alzheimer","0;1","0=No;1=Yes",""
 "global_cdr_score","Float","","Recommended","Dementia Rating (CDR) Global score","0 :: 3","0.0 = No Impairment; 0.5 = Questionable impairment; 1.0 = Mild impairment; 2.0 = Moderate impairment; 3.0 = Severe Impairment",""
 "hcdi_med_rcrd_tox","Integer","","Recommended","Is there a medical record toxicology report","0; 1","0=No; 1=Yes",""

@@ -948,3 +948,5 @@
 "fu_medication_change_yn","Integer","","Recommended","Have you had any changes in your medication(s) in the past 3 months?","0;1","0=No; 1=Yes",""
 "fu_medication_change_text","String","500","Recommended","If you have had any changes in your medication(s) in the past 3 months, please briefly describe these changes.","","",""
 "fu_new_medications_yn","Integer","","Recommended","In the past 3 months, have you started taking any new medication(s) for depression, anxiety, or other mood symptoms - or have you had any changes in medication(s) that you were previously taking for these symptoms?","0;1","0=No; 1=Yes",""
+"std_diagnosis_30d","Integer","","Recommended","Was the STD diagnosis in the past 30 days?","0;1","0=No; 1=Yes",""
+"health_condition01","String","2","Recommended","Health condition","HC;HD;AC;AH","HC = healthy control; HD = heavy drinkers without alcohol liver disease (ALD); AC = alcoholic cirrhosis; AH = alcoholic hepatitis",""

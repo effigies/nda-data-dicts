@@ -20,3 +20,7 @@
 "health_climate_quest13","Integer","","Recommended","I don't felt very good about the way my interventionist talked to me.","1::7; -99","1 = Strongly disagree; 4 = Neutral; 7 = Strongly agree; -99 = Missing",""
 "health_climate_quest14","Integer","","Recommended","My interventionist tried to understand how I see things before suggesting a new way to do things.","1::7; -99","1 = Strongly disagree; 4 = Neutral; 7 = Strongly agree; -99 = Missing",""
 "health_climate_quest15","Integer","","Recommended","I felt able to share my feelings with my interventionist.","1::7; -99","1 = Strongly disagree; 4 = Neutral; 7 = Strongly agree; -99 = Missing",""
+"aura_1","Integer","","Recommended","It is easy for me to ask my doctor questions.","1::4","1=Disagree a lot; 2=Disagree a little; 3=Agree a little; 4=Agree a lot",""
+"aura_2","Integer","","Recommended","It is easy for me to ask for help if I don't understand something.","1::4","1=Disagree a lot; 2=Disagree a little; 3=Agree a little; 4=Agree a lot",""
+"aura_3","Integer","","Recommended","It is easy for me to understand my doctor's instructions.","1::4","1=Disagree a lot; 2=Disagree a little; 3=Agree a little; 4=Agree a lot",""
+"aura_4","Integer","","Recommended","It is easy for me to remember my doctor's instructions.","1::4","1=Disagree a lot; 2=Disagree a little; 3=Agree a little; 4=Agree a lot",""

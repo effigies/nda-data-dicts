@@ -68,3 +68,4 @@
 "jia5","Integer","","Recommended","I got fidgety.","1::3","1=Not at all; 2=Sometimes; 3=Often",""
 "jia6","Integer","","Recommended","I felt relaxed.","1::3","1=Not at all; 2=Sometimes; 3=Often",""
 "jia7","Integer","","Recommended","I felt mentally prepared.","1::3","1=Not at all; 2=Sometimes; 3=Often",""
+"jim10","Integer","","Recommended","Getting a job will be a waste of time.","1::5","1=Not at all true; 3=Somewhat true; 5=Very True",""

@@ -64,7 +64,7 @@
 "cov_2r","Integer","","Recommended","Thinking about what you know of your family history, which of the following best describes the geographic regions from where your ancestors (i.e. your great great-grandparents) came? You may select as many choices as you need: Central or South America","0;1","0= No; 1= Yes",""
 "cov_2s","Integer","","Recommended","Thinking about what you know of your family history, which of the following best describes the geographic regions from where your ancestors (i.e. your great great-grandparents) came? You may select as many choices as you need: Don't know","0;1","0= No; 1= Yes",""
 "cov_2t","Integer","","Recommended","Thinking about what you know of your family history, which of the following best describes the geographic regions from where your ancestors (i.e. your great great-grandparents) came? You may select as many choices as you need: Other","0;1","0= No; 1= Yes",""
-"cdbs042","Integer","","Recommended","Are you of Hispanic or Latino origin or descent?","0::2","0 = No; 1 = Yes; 2 = Refused/Unknown",""
+"cdbs042","Integer","","Recommended","Are you of Hispanic or Latino/a/e/x origin or descent?","0::2","0 = No; 1 = Yes; 2 = Refused/Unknown",""
 "cov_4","Integer","","Recommended","Are you currently working or in school?","0::7","0= Working for pay; 1= On leave; 2= Laid off or lost job; 3= Unemployed and looking for a job; 4= Retired; 5= Staying at home / homemaker; 6= Disabled; 7= Enrolled in school/college/university",""
 "rifo_17","String","50","Recommended","What is your occupation?","","",""
 "cov_6","Integer","","Recommended","Have you served in the military?","","",""

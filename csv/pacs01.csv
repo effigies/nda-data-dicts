@@ -24,3 +24,5 @@
 "overall_pacs_today","Integer","","Recommended","On a scale from 1 (no craving) to 10 (highest craving), how much were you craving alcohol today?","1::10","1= No craving; 10= Highest craving",""
 "question_visit","Integer","","Recommended","Was the questionnaire administered during this visit?","0;1","0 = No; 1 = Yes",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
+"arccraving_100","Integer","","Recommended","How strong is your craving/urge to drink alcohol right now?","0::100","0= None; 100= Strongest imaginable",""
+"arccravingweek","Integer","","Recommended","Over the past week, how strong was your craving/urge to drink alcohol?","0::100","0= None; 100= Strongest imaginable",""

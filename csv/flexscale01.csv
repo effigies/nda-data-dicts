@@ -40,4 +40,4 @@
 "flex_sub_social_flex","Integer","","Recommended","Social Flexibility Subscale","","Sum of Items 5(REVERSE),7(REVERSE),8(REVERSE),22,23",""
 "flex_sub_generativity","Integer","","Recommended","Generativity Subscale","","Sum of Items  9(REVERSE),24(REVERSE),25(REVERSE),26(REVERSE)",""
 "flex_total_score","Integer","","Recommended","Total Score of Flexibility self-scale:","","Sum of all subscales",""
-"informant","String","20","Recommended","Informant completing test","Mother;Father;Both Parents;Other;Self","",""
+"informant","String","20","Recommended","Informant completing test","Mother;Father;Both Parents;Other;Self;Missing","",""

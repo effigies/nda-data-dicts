@@ -29,3 +29,8 @@
 "vswm_trial_set_size","Integer","","Recommended","VSWM Trial Set Size","3::6","",""
 "vswm_trial_accuracy","Integer","","Recommended","VSWM Trial Accuracy","0;1","0 = Incorrect; 1 = Correct",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"nback_pct_correct_1back","Float","","Recommended","Percentage of correct responses in the 1-back condition.","0::100","60 experimental trials. Study QC required at least 70% correct in the 1-back condition.",""
+"nback_pct_correct_0back","Float","","Recommended","Percentage of correct responses in the 0-back condition.","0::100","60 experimental trials. Study QC required at least 80% correct in the 0-back condition.",""
+"nback_pct_correct_2back","Float","","Recommended","Percentage of correct responses in the 2-back condition.","0::100","60 experimental trials.",""
+"nback_pct_correct_3back","Float","","Recommended","Percentage of correct responses in the 3-back condition.","0::100","60 experimental trials.",""
+"nback_pct_correct_overall","Float","","Recommended","Overall percentage of correct responses across the four Visuospatial N-Back load conditions (0-back through 3-back).","0::100","Primary behavioral outcome reported in the paper.",""

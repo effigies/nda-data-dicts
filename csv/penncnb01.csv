@@ -471,3 +471,5 @@
 "cnb_pra_letcr_raw","Integer","","Recommended","PRA Total Letter Score","0::16","",""
 "cnb_pra_wordcr_raw","Integer","","Recommended","PRA Total Word Score","0::60","",""
 "cnb_pra_cr_raw","Integer","","Recommended","PRA Total (Letter+Word) Score","0::76","",""
+"cnb_pltt_corr","Integer","","Recommended","PLLT Total Correct Responses over all trials","","",""
+"cnb_pltt_corr_wrepeats","Integer","","Recommended","PLLT Total Correct Responses over all trials including all the repeats/perseverations","","",""

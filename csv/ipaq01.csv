@@ -116,3 +116,6 @@ During the last 7 days, on how many days did you do vigorous physical activities
 "ipaqsf_5","Integer","","Recommended","During a typical week, how much time did you usually spend on one of those days doing vigorous physical activities: Don't know","0;1;999","0=Unselected; 1=Selected; 999 = Missing",""
 "ipaqsf_6","Integer","","Recommended","During a typical week, on how many DAYS do you do moderate physical activities","1::8;999","1 = 1 day per week; 2 = 2 days per week; 3 = 3 days per week; 4 =4 days per week; 5 = 5 days per week; 6 = 6 days per week; 7 = 7 days per week; 8 = No days; 999 = Missing",""
 "ipaqsf_7","String","100","Recommended","During a typical week, how much time did you usually spend on one of those days doing moderate physical activities: Hours","","",""
+"bpaa3","Integer","","Recommended","On average, how many minutes PER DAY do you engage in moderate-to-vigorous physical activity?","0::180","0=0; 180=180 or more",""
+"bpaa1","Integer","","Recommended","On average, how many days PER WEEK do you engage in moderate-to-vigorous physical activity (like brisk walking, jogging, swimming) for at least 30 minutes?","0::7","Number of days",""
+"bpaa2","Integer","","Recommended","How many days PER WEEK do you perform muscle strengthening exercises, such as bodyweight exercises or resistance training?","0::7","Number of days",""

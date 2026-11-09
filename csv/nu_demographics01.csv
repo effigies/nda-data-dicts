@@ -11,7 +11,7 @@
 "fh13","Integer","","Recommended","Birth order","0::13; 99","99 = Missing value","demo_order"
 "race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","","demo_race"
 "otherrace","String","200","Recommended","specify other race","","The following questions are about you or the child's family.","demo_mutiple_race"
-"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","","demo_ethnicity"
+"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","Hispanic or Latino; Not Hispanic or Latino; Unknown; Prefer not to answer","demo_ethnicity"
 "dem_12","Integer","","Recommended","Parents marital status","1::7","1=Married/common law 2=Not married, living together 3=Separated 4=Divorced/annulled 5=Widowed; 6=Never married, not living with someone; 7=other","demo_marital"
 "liveswith","String","100","Recommended","child lives with","Both biological mother and father;Biological mother only;Biological father only;Biological mother and stepfather;Biological father and stepmother;Adoptive parents;Foster parents;Relatives;Other","","demo_lives"
 "liveswithother","String","50","Recommended","Child lives with other, specify","","","demo_lives_spec"

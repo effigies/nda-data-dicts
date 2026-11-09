@@ -7,7 +7,7 @@
 "test_results","String","255","Required","Results of genetic test","","",""
 "test_provider","String","100","Required","Provider of genetic test","","",""
 "genetic_test_notes","String","255","Required","note regarding genetic tests","","",""
-"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
+"sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "gncnsnt","Integer","","Recommended","Genetic Material Consent Signed","1;2","1=Yes; 2=No",""
 "genmtst","Integer","","Recommended","Genetic Material Collection Completion Status","1;2","1=Completed; 2=Not Completed",""
 "gnmtcldt","Date","","Recommended","Genetic Material Collection Date Completed","","",""

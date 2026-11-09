@@ -174,3 +174,4 @@
 "mv_randomization_1","Integer","","Recommended","","Phase 1 Randomization","1;2","1= T-engage; 2= P-engage",""
 "mv_randomization_2","Integer","","Recommended","","Phase 2 Randomization","0::2","0= Responder; 1= Enhanced Condition; 2= Mi-CBT",""
 "ir_randomization","Integer","","Recommended","","Randomized Condition","1;2","1=Enhanced Usual Care; 2=MICBT",""
+"alcohol_group","Integer","","Recommended","","Alcohol Group","1::3","1 = No/low alcohol group (maximum 10 drinks over lifetime); 2 = Moderate alcohol group; 3 = Heavy alcohol group",""

@@ -146,7 +146,7 @@
 "sciddv_sad_f_cb03___f73age","Integer","","Recommended","Social Anxiety Disorder: Criterion F Select time since age ","0;1","0= Unchecked; 1= Checked/Present ",""
 "sciddv_sad_f_cb03___f73m","Integer","","Recommended","Social Anxiety Disorder: Criterion F Select time months","0;1","0= Unchecked; 1= Checked/Present ",""
 "sciddv_sad_f_cb03___f73y","Integer","","Recommended","Social Anxiety Disorder: Criterion F Select time years","0;1","0= Unchecked; 1= Checked/Present ",""
-"sciddv_f73l","String","20","Recommended","Social Anxiety Disorder: Criterion F Length of time","","",""
+"sciddv_f73l","String","4000","Recommended","Social Anxiety Disorder: Criterion F Length of time","","",""
 "sciddv_f74i","Integer","","Recommended","Social Anxiety Disorder: Criterion G: Impairment Severity of IMPAIRMENT","1::5;-999;-8","-999= Inadequate Information; 1= Absent or False; 2= Subthreshold (marginal evidence of impairment); 3= Mild (Impairment limited to one domain); 4= Moderate (Impairment in multiple domains); 5= Severe (Clear impairment across 2 or more domains); -8= Missing",""
 "sciddv_f74in","String","4000","Recommended","Social Anxiety Disorder: Criterion G: Impairment Notes","","",""
 "sciddv_time","Integer","","Recommended","Assessment Time","1::10","1 = Baseline",""

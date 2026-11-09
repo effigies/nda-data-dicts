@@ -108,7 +108,7 @@
 "mmq_procedure_type","String","4000","Recommended","Have you ever had any gynecological procedure? If yes, What type of procedure?","","",""
 "mmq_hormone","Integer","","Recommended","Do you currently receive hormone replacement therapy because of the procedure?","0;1","0=No; 1=Yes",""
 "mmq_number_mens","Integer","","Recommended","What is the number of periods you have had in the past three months?","","Number of periods in the last three months. If the answer is 0 then it means zero periods, if 1 then means 1 period, and etc.",""
-"usingbc","Integer","","Recommended","currently using birth control","0;1;-7","0=No; 1=Yes; -7=Refused",""
+"usingbc","Integer","","Recommended","currently using birth control","0;1;-7;-99","0=No; 1=Yes; -7=Refused; -99=Missing",""
 "mmq_bc_type","Integer","","Recommended","If yes, what type of birth control?","1::7","1=Birth control pill; 2=Hormonal implant; 3=IUD; 4=Birth control shot; 5=Birth control patch; 6=Vaginal ring; 7=Other",""
 "mmq_bc_other","String","20","Recommended","If you answered other, Describe:","","",""
 "exbreast","Integer","","Recommended","Pregnant or breastfeeding","0;1;-99","0=No; 1=Yes; -99 = Missing",""

@@ -15,3 +15,7 @@
 "ddnsi09","Integer","","Recommended","On average, do your nightmares wake you up?","0::4","0=Never/Rarely; 1=Occasionally; 2=Sometimes; 3=Frequently; 4=Always",""
 "ddnsi10","Integer","","Recommended","How would you rate the SEVERITY of your disturbing dreams and/or nightmare problem?","0::6","0=No problem; 1=Minimal problem; 2=Mild problem; 3=Moderate Problem; 4=Severe problem; 5=Very severe problem; 6=Extremely Severe Problem",""
 "ddnsi11","Integer","","Recommended","How would you rate the INTENSITY of your disturbing dreams and/or nightmares?","0::6","0=No intensity; 1=Minimal intensity; 2=Mild intensity; 3=Moderate intensity; 4=Severe intensity; 5=Very severe intensity; 6=Extremely Severe intensity",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
+"ddnsi08a","Integer","","Recommended","Please estimate the NUMBER of months or years you have had disturbing dreams and/or nightmares","","Number of months or years",""
+"ddnsi08b","Integer","","Recommended","Please estimate the NUMBER of months or years you have had disturbing dreams and/or nightmares - Unit of time","1;2","1=Months; 2=Years",""

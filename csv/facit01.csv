@@ -16,3 +16,5 @@
 "facitsp06","Integer","","Recommended","I find strength in my faith or spiritual beliefs","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much",""
 "facitsp07","Integer","","Recommended","Difficult times have strengthened my faith or spiritual beliefs","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much",""
 "facitsp08","Integer","","Recommended","Even during difficult times, I know that things will be okay","1::5","1=Not at all; 2=A little bit; 3=Somewhat; 4=Quite a bit; 5=Very much",""
+"sp_11","Integer","","Recommended","My illness has strengthened my faith or spiritual beliefs","0::4","0=Not at all; 1=A little bit; 2=Somewhat; 3=Quite a bit; 4=Very much",""
+"sp_12","Integer","","Recommended","I know that whatever happens with my illness, things will be okay","0::4","0=Not at all; 1=A little bit; 2=Somewhat; 3=Quite a bit; 4=Very much",""

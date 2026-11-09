@@ -48,3 +48,7 @@
 "yqol_015","Integer","","Recommended","I feel safe when I am at school","1::3","1 = Not At All/ Very Little ; 2 = Somewhat ; 3 = Completely",""
 "yqol_016","Integer","","Recommended","I feel life is worthwhile","1::3","1 = Not At All/ Very Little ; 2 = Somewhat ; 3 = Very Much",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
+"yqol_17","Integer","","Recommended","I feel I am getting the right amount of attention from my family","0::10","0 = Not at all; 10 = Very Much",""
+"yqol_18","Integer","","Recommended","I feel useful and important to my family","0::10","0 = Not at all; 10 = Very Much",""
+"yqol_19_alt","Integer","","Recommended","I feel my family cares about me","0::10","0 = Not at all; 10 = Very Much",""
+"yqol_20_alt","Integer","","Recommended","I feel I am getting along with my parents or guardians","0::10","0 = Not at all; 10 = Very Much",""

@@ -39,3 +39,5 @@
 "ycym15","Integer","","Recommended","Has someone ever done any of the following to you on an online dating site or dating app: Called you an offensive name","0;1;-99","0= No this has not happened to me; 1= Yes this has happened to me; -99= NA/RF",""
 "ycym16","Integer","","Recommended","Has someone ever done any of the following to you on an online dating site or dating app: Threatened to physically harm you","0;1;-99","0= No this has not happened to me; 1= Yes this has happened to me; -99= NA/RF",""
 "ycym17","Integer","","Recommended","Has someone ever done any of the following to you on an online dating site or dating app: Sent you a sexually explicit message or image you didn't ask for","0;1;-99","0= No this has not happened to me; 1= Yes this has happened to me; -99= NA/RF",""
+"timepoint_wave","Integer","","Recommended","Timepoint Wave data collected","1::4","1 = Wave 1; 2 = Wave 2; 3 = Wave 3; 4= Wave 4",""
+"peffsm","Integer","","Recommended","Overall, what effect do you think social media has on young people?","1::3","1 = Mostly positive; 2 = Mostly negative; 3 = Neither positive nor negative",""

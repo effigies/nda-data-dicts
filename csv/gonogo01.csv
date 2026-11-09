@@ -499,3 +499,8 @@
 "correctgo_sdrt","Float","","Recommended","Standard deviation of reaction time for correct go trials","","",""
 "incorrectgo_sdrt","Float","","Recommended","Standard deviation of reaction time for incorrect go trials","","",""
 "correctnogo_sdrt","Float","","Recommended","Standard deviation of reaction time for correct no-go trials","","",""
+"nih_pin","String","25","Recommended","PIN number assigned by the NIH Toolbox","","",""
+"behavioralobservations_hand","String","255","Recommended","Handedness","","",""
+"txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""
+"go_hit0","Integer","","Recommended","Number of hits","","",""
+"go_creject0","Integer","","Recommended","Number of correct rejects (not responding when they are not supposed to respond)","","",""

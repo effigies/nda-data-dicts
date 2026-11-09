@@ -25,3 +25,4 @@
 "gender_affirmation_1a_3mo","Integer","","Recommended","In the past 3 months, have you used hormones or hormone blockers for medical transition or gender affirmation?","0;1;777;999","0= No; 1= Yes; 777= I prefer not to answer; 999= Do not know",""
 "gender_affirmation_1b_3mo","Integer","","Recommended","In the past 3 months, have you had any type of surgery or cosmetic procedure for medical transition or gender affirmation?","0;1;777;999","0= No; 1= Yes; 777= I prefer not to answer; 999= Do not know",""
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"attraction_1_7","Integer","","Recommended","Are you attracted to...? (Please check all that apply): Other people not listed above","0;1","0= No/Unchecked; 1= Yes/Checked",""

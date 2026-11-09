@@ -27,7 +27,7 @@
 "ftds09","String","25","Recommended","Please indicate your certifications (Mark one or more): ","General Ed; Special Ed; PT; Social Work; BCBA or BCABA; Speech; School Psychologist; Other
 ","",""
 "ftds09_spec","String","25","Recommended","Other Education Certifications","","",""
-"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","","t_c_ethn"
+"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","Hispanic or Latino; Not Hispanic or Latino; Unknown; Prefer not to answer","t_c_ethn"
 "trf_i","Float","","Recommended","How many months you have known this pupil:","","","t_months"
 "t_see","Integer","","Recommended","How often do you see this child","1::5","1= 2-3 times a week; 2= 4-7 times a week; 3= Daily; 4= Once a week; 5= Once a month",""
 "t_schools","Integer","","Recommended","How many different daycares, preschools or schools have you worked in","","",""

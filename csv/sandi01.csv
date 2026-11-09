@@ -29,3 +29,6 @@
 "sandi_23","Integer","","Recommended","I do not have sex on the first date.","0::5","0 = Never; 1 = Rarely; 2 = Occasionally; 3 = Sometime; 4 = Usually ; 5 = Always",""
 "sandi_24","Integer","","Recommended","I do not meet my date at my home or their home.","0::5","0 = Never; 1 = Rarely; 2 = Occasionally; 3 = Sometime; 4 = Usually ; 5 = Always",""
 "sandi_total","Integer","","Recommended","SANDI Total Score","0::120","Sum of items sandi_1-sandi_24 converted to 6-point scale (0 points for items marked 0; 1 point for items marked 1; 5 points for items marked 5)",""
+"sandi_27","Integer","","Recommended","I requested an ''Angel Drink'' when I needed help at a bar or party","0::5","0=Never; 1=Rarely; 2=Occasionally; 3=Sometimes; 4=Usually; 5=Always",""
+"sandi_25","Integer","","Recommended","I pretended to get an urgent text or phone call to get out of an uncomfortable situation","0::5","0=Never; 1=Rarely; 2=Occasionally; 3=Sometimes; 4=Usually; 5=Always",""
+"sandi_26","Integer","","Recommended","I asked someone at a party or bar for help if I needed to get out of an uncomfortable situation","0::5","0=Never; 1=Rarely; 2=Occasionally; 3=Sometimes; 4=Usually; 5=Always",""

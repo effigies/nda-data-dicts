@@ -10,3 +10,4 @@
 "eaa04","Integer","","Recommended","When I feel pain, drinking alcohol can really help.","0 :: 9","0= Completely Unlikely; 1= Extremely Unlikely; 2= Very Unlikely; 3= Somewhat Unlikely; 4= A Little Unlikely; 5= A Little Likely; 6= Somewhat Likely; 7= Very Likely; 8= Extremely Likely; 9= Completely Likely",""
 "eaa05","Integer","","Recommended","I feel like drinking alcohol would help me cope with pain.","0 :: 9","0= Completely Unlikely; 1= Extremely Unlikely; 2= Very Unlikely; 3= Somewhat Unlikely; 4= A Little Unlikely; 5= A Little Likely; 6= Somewhat Likely; 7= Very Likely; 8= Extremely Likely; 9= Completely Likely",""
 "eaa_score","Integer","","Recommended","Expectancies for Alcohol Analgesia Score","0 :: 45","Sum of all items (eaa01 to eaa05)",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

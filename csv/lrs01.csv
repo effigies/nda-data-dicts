@@ -22,3 +22,4 @@
 "als_15","Integer","","Recommended","I am well like by the kids in my class.","1::5","1 = Always true; 2 = True most of the time; 3 = True sometimes; 4 = Hardly ever true; 5 = Not true at all","Asher_Loneliness15"
 "als_16","Integer","","Recommended","I don't have many friends in class.","1::5","5 = Always true; 4 = True most of the time; 3 = True sometimes; 2 = Hardly ever true; 1 = Not true at all","Asher_Loneliness16"
 "als_total","Integer","","Required","ALS Total","","999=missing","Asher_Loneliness17"
+"eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""

@@ -30,3 +30,5 @@
 "sd8","Integer","","Recommended","SD 8) In the past 12 months; how often did you do volunteer work for religious; charitable; political; health-related; or other organizations?  (please circle one)","1::7","1=Several times a week; 2=Every week; 3=About once a month; 4=Several times a year; 5=About once or twice a year; 6=Less than once a year; 7=Never",""
 "sd9","Integer","","Recommended","SD 9) Now; considering your answers to the previous questions about the past 12 months; how long have you been like this?","1::7","1=All my life; 2=Since late adolescence (16-20); 3=Since my 20's; 4=Since my 30's; 5=Since my 40's; 6=Since my 50's; 7=Only recently",""
 "sd_total","Integer","","Recommended","Social Disconnectedness Score: Sum of SD5 - SD9","","","sdtotal"
+"comm_tenure","Integer","","Recommended","Disruption in a person's tenure living in the community","0;1","0=No disruption in community tenure; 1=Disruption in community tenure",""
+"comm_tenure_desc","String","1000","Recommended","Disruption in a person's tenure living in the community - please describe","","",""

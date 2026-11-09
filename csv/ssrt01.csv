@@ -90,3 +90,8 @@
 "ss_acc","Integer","","Recommended","Accuracy on Stop Signal trial","0;1","0=Incorrect 1=Correct",""
 "ss_rt","Float","","Recommended","Reaction Time (s) on Stop Signal trial","","999=No response ",""
 "ss_td","Float","","Recommended","Stop Signal Tone Delay","","999=No signal",""
+"sst_pes","Float","","Recommended","Post-error slowing (PES), in milliseconds, calculated as the mean reaction time on correct no-stop trials immediately following a failed stop trial minus the mean reaction time on correct no-stop trials immediately following a successful stop trial.","-1500::1500","Larger positive values indicate greater slowing following a failed stop trial.",""
+"sst_pse_rt","Float","","Recommended","Mean reaction time, in milliseconds, on correct no-stop trials immediately following a failed stop trial.","0::1500","Person-level mean across eligible trials.",""
+"sst_pns_rt","Float","","Recommended","Mean reaction time, in milliseconds, on correct no-stop trials immediately following a no-stop trial.","0::1500","Person-level mean across eligible trials.",""
+"sst_direction_errors_total","Integer","","Recommended","Total number of direction errors on no-stop (go) trials across the full Stop Signal Task.","0::225","A direction error occurs when the participant presses the key corresponding to the wrong arrow direction. The task contains 225 no-stop trials.",""
+"sst_pss_rt","Float","","Recommended","Mean reaction time, in milliseconds, on correct no-stop trials immediately following a successful stop trial.","0::1500","Person-level mean across eligible trials.",""

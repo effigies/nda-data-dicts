@@ -14,7 +14,7 @@
 "sm_2m","Integer","","Recommended","Which cigarette would you hate most to give up?","1; 2; -5; -7; -8","1=The first one in the morning; 2=All others; -8=DON'T KNOW; -7=REFUSED; -5=Presented, not answered","cddr_8"
 "smkamt","Integer","","Recommended","About how many cigarettes smoke per day","","","cddr_9"
 "sm_2o","Integer","","Recommended","Do you smoke more frequently during the first hours after waking than during the rest of the day?","1;2","1=No; 2=Yes","cddr_10"
-"q06_ill","Integer","","Recommended","Do you smoke if you are so ill that you are in bed most of the day?","0;1;77;88;99","0=No (0 points); 1=Yes (1 point); 77=Don't know; 88=Refused; 99=Missing data","cddr_11"
+"q06_ill","Integer","","Recommended","Do you smoke if you are so ill that you are in bed most of the day?","0;1;77;88;99;999","0=No (0 points); 1=Yes (1 point); 77=Don't know; 88=Refused; 99=Missing data; 999=Prefer not to answer","cddr_11"
 "cddr_11a","Integer","","Recommended","Around this time 12 months ago, were you smoking cigarettes every day, some days, or not at all?","1::3","1= Every day; 2= Some days; 3= Not at all",""
 "cddr_12","Integer","","Recommended","How old were you when you first began drinking BEER? (More than a taste or sip)","","",""
 "cddr_13","Integer","","Recommended","How old were you when you first began drinking BEER regularly?","","",""

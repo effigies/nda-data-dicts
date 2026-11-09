@@ -534,3 +534,4 @@
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","cdi_comments,cdi_wg_notes"
 "mbexppr1","Float","","Recommended","interpolated percentile ranking based on MCDI words and gestures, understands and says category","","999=missing data",""
 "site","String","101","Recommended","Site","","Study Site",""
+"mcg_su_percentile","String","50","Recommended","MacArthur-Bates CDI Words and Gestures - First Signs of Understanding Percentile","","",""

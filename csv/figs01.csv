@@ -228,7 +228,7 @@
 "figs_schiz","Integer","","Recommended","Relative-Schizophrenia, schizoaffective, schizophreniform","1::5","1=Unknown;2=No; 3=Possibly; 4=Probably; 5=Definite","schizo_spectrum"
 "figs_man_bi","Integer","","Recommended","Relative-Mania or Bipolar","1::5","1=Unknown;2=No; 3=Possibly; 4=Probably; 5=Definite","mania_bipolar"
 "figs_mde","Integer","","Recommended","Relative-Major Depression","1::5","1=Unknown;2=No; 3=Possibly; 4=Probably; 5=Definite","major_depression"
-"informant","String","20","Recommended","Informant completing test","Mother;Father;Both Parents;Other;Self","","figs_informant"
+"informant","String","20","Recommended","Informant completing test","Mother;Father;Both Parents;Other;Self;Missing","","figs_informant"
 "respond_detail_oth_spec","String","255","Recommended","Respondent details","","","figs_person_described_sum"
 "figs_summary_mdd","Integer","","Recommended","Major Depressive Disorder","0::2","0= No Diagnosis; 1= Possible Diagnosis; 2= Probable Diagnosis","figs_summary_dx"
 "figs_summary_bd","Integer","","Recommended","Bipolar Disorder","0::2","0= No Diagnosis; 1= Possible Diagnosis; 2= Probable Diagnosis",""

@@ -54,3 +54,7 @@
 "experiment_id","Integer","","Recommended","ID for the Experiment/settings/run","","",""
 "file_source","String","1024","Recommended","File name/location","","",""
 "derived_results_version","String","20","Recommended","Analysis pipeline identifier for version results","","",""
+"emotionfaces_lpp_infant","Float","","Recommended","Amplitude of the Late Positive Potential (LPP) response to emotional faces in infants","","",""
+"emotionfaces_lpp_mom","Float","","Recommended","Amplitude of the Late Positive Potential (LPP) response to emotional faces in mothers","","",""
+"alphapower_infant","Float","","Recommended","Power in the alpha band during baseline in infants","","Hz",""
+"alphapower_mom","Float","","Recommended","Power in the alpha band during baseline in mothers","","Hz",""

@@ -6,3 +6,4 @@
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "ksspre_sleepiness","Integer","","Recommended","Please mark the number that best corresponds to how sleepy you feel right now. You may mark any number, but mark only one number.","1::9","1=Extremely alert; 3=Alert; 5=Neither alert nor sleepy; 7=Sleepy - but no difficulty remaining awake; 9=Extremely sleepy - fighting sleep",""
+"type_of_session","Integer","","Recommended","Type of session","1::3","1 = Pre-Infusion/Acclimation; 2 = Bedtime; 3 = Morning",""

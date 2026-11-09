@@ -81,7 +81,7 @@
 "mos_wb_wloss","Integer","","Recommended","Weight Loss","0::5","0=not present; 1=minimal; 2=mild; 3=moderate; 4=severe; 5=FDA ""Serious"" AE",""
 "mos_o_pain","Integer","","Recommended","Pain","0::5","0=not present; 1=minimal; 2=mild; 3=moderate; 4=severe; 5=FDA ""Serious"" AE",""
 "mos_o_chest","Integer","","Recommended","Chest Pain","0::5","0=not present; 1=minimal; 2=mild; 3=moderate; 4=severe; 5=FDA ""Serious"" AE",""
-"mos_o_traumas","String","50","Recommended","Trauma Specify","","Specified",""
+"mos_o_traumas","String","300","Recommended","Trauma Specify","","Specified",""
 "mos_o_trauma","Integer","","Recommended","Trauma","0::5","0=not present; 1=minimal; 2=mild; 3=moderate; 4=severe; 5=FDA ""Serious"" AE",""
 "mos_o_other1","Integer","","Recommended","Other SE 1","0::5","0=not present; 1=minimal; 2=mild; 3=moderate; 4=severe; 5=FDA ""Serious"" AE",""
 "mos_other1s","String","50","Recommended","Other SE1 : Specify Symptom","","Symptom name",""

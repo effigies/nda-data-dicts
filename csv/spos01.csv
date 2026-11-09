@@ -42,3 +42,5 @@
 "spos_35","Integer","","Recommended","The organization tries to make my job as interesting as possible.","1::7","1 = Strongly disagree; 7 = Strongly agree",""
 "spos_36","Integer","","Recommended","My supervisors are proud that I am a part of this organization.","1::7","1 = Strongly disagree; 7 = Strongly agree",""
 "spos_total_score","Integer","","Recommended","Survey of Perceived Organizational Support Total Score","","",""
+"org_support01","Integer","","Recommended","To what extent do you feel supported by your coworkers in your daily work tasks?","1::5","1=Not at all; 2=A little; 3=Somewhat; 4=Quite a bit; 5=A great deal",""
+"org_support02","Integer","","Recommended","To what extent do you feel supported by your supervisor in your daily work tasks?","1::5","1=Not at all; 2=A little; 3=Somewhat; 4=Quite a bit; 5=A great deal",""

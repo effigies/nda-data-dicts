@@ -34,3 +34,8 @@
 "ascs_7pt_03","Integer","","Recommended","Drinking is a part of my personality.","1::7","1= Strongly agree; 7= Strongly disagree",""
 "ascs_7pt_04","Integer","","Recommended","Drinking is a large part of my daily life.","1::7","1= Strongly agree; 7= Strongly disagree",""
 "ascs_7pt_05","Integer","","Recommended","Others view drinking as part of my personality.","1::7","1= Strongly agree; 7= Strongly disagree",""
+"ascs_2","Integer","","Recommended","Drinking is part of ''who I am.''","-3::3","-3 = Strongly disagree; 3 = Strongly agree",""
+"ascs_5","Integer","","Recommended","Others view drinking as part of my personality.","-3::3","-3 = Strongly disagree; 3 = Strongly agree",""
+"ascs_4","Integer","","Recommended","Drinking is a large part of my daily life.","-3::3","-3 = Strongly disagree; 3 = Strongly agree",""
+"ascs_1","Integer","","Recommended","Drinking is part of my self-image.","-3::3","-3 = Strongly disagree; 3 = Strongly agree",""
+"ascs_3","Integer","","Recommended","Drinking is a part of my personality.","-3::3","-3 = Strongly disagree; 3 = Strongly agree",""

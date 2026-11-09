@@ -344,3 +344,6 @@
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "mac_voc_36m_tot","Integer","","Recommended","Child Expressive Vocabulary Total Count of 36m Items (CDI Short Form)","0::100","",""
 "mac_voc_24m_tot","Integer","","Recommended","Child Expressive Vocabulary Total Count of 24m Items (CDI Short Form)","0::100","",""
+"mcsf_vc_tot","Float","","Recommended","MacArthur-Bates CDI III - Sum of Vocabulary","","",""
+"mcsf_meansent_morpho","Float","","Recommended","MacArthur-Bates CDI III - Average of morphemes","","",""
+"mcsf_morpho_pr","String","50","Recommended","MacArthur-Bates CDI III - Percentile of morphemes","","",""

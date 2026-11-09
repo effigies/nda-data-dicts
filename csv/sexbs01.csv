@@ -75,3 +75,7 @@
 "sexbs_q5","Integer","","Recommended","How often have you been hit or beaten due to your sexual orientation?","1::4;88;99","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 88=Refuse; 99=Don't know",""
 "sexbs_q6","Integer","","Recommended","How often have you been kicked out of school for your sexual orientation?","1::4;88;99","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 88=Refuse; 99=Don't know",""
 "sexbs_q7","Integer","","Recommended","How often have you changed accommodation due to your sexual orientation?","1::4;88;99","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 88=Refuse; 99=Don't know",""
+"vis01","Integer","","Recommended","How often do people who do not know your sexual identity assume you are...Heterosexual/straight?","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Most of the time; 5 = Always",""
+"vis02","Integer","","Recommended","How often do people who do not know your sexual identity assume you are...Lesbian?","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Most of the time; 5 = Always",""
+"vis03","Integer","","Recommended","How often do people who do not know your sexual identity assume you are...Bisexual?","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Most of the time; 5 = Always",""
+"vis04","Integer","","Recommended","How often do people who do not know your sexual identity assume you are...Not heterosexual/straight?","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Most of the time; 5 = Always",""

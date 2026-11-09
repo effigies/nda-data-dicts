@@ -16,7 +16,7 @@
 "work_engage","String","50","Recommended","","What kind of work are (or were you most recently) engaged in? (e.g. electronics engineer, nursing, stock-clerk, etc.):","","",""
 "industry","String","50","Recommended","","What kind of industry or organization is (was) your work in? (e.g. radio, manufacturing, retail, hospital, etc.):","","",""
 "duties","String","50","Recommended","","What are (or were) your major or most important duties at work? (e.g. selling cars, caring for patients, keeping accounts, etc.):","","",""
-"ethnicity","String","30","Recommended","","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","","sdis_3"
+"ethnicity","String","30","Recommended","","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","Hispanic or Latino; Not Hispanic or Latino; Unknown; Prefer not to answer","sdis_3"
 "pt_edu_years","Float","","Recommended","","Participant's years of education","","101=Missing",""
 "maritalstatus","Integer","","Recommended","","Marital Status:","0::6;-99;77;88","0= Married ; 1= Living together ; 2= Separated ; 3= Divorced ; 4= Single ; 5 = Widowed ; 6 = Civil Union ; -99= N/A ; 77= Refused ; 88= Missing",""
 "timepoint_label","String","50","Recommended","","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

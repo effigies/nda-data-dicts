@@ -55,3 +55,7 @@
 "cati_soc","Integer","","Recommended","CATI Social Interaction","7::35","Sum: 10, 17, 30, 35, 8 (rev), 15 (rev), 28 (rev)",""
 "cati_total","Integer","","Recommended","CATI total score","42::210","Sum: 1 - 42; reverse 8, 15, 19, 23, 28",""
 "reporter_type","Integer","","Recommended","Was the questionnaire completed by the participant themselves or by a proxy informant?","1;2","1 = Self; 2 = Informant",""
+"cati04_very","Integer","","Recommended","I am very sensitive to bright lighting.","1::5;-999","1=Definitely Disagree; 2=Somewhat disagree; 3=Neither agree nor disagree; 4=Somewhat Agree; 5=Definitely Agree; -999=Missing/Refused to answer",""
+"cati18_very","Integer","","Recommended","I am very sensitive to touch.","1::5;-999","1=Definitely Disagree; 2=Somewhat disagree; 3=Neither agree nor disagree; 4=Somewhat Agree; 5=Definitely Agree; -999=Missing/Refused to answer",""
+"cati24_very","Integer","","Recommended","I am very sensitive to particular tastes (e.g., salty, sour, spicy, or sweet).","1::5;-999","1=Definitely Disagree; 2=Somewhat disagree; 3=Neither agree nor disagree; 4=Somewhat Agree; 5=Definitely Agree; -999=Missing/Refused to answer",""
+"cati36_very","Integer","","Recommended","I react strongly to unexpected loud noises.","1::5;-999","1=Definitely Disagree; 2=Somewhat disagree; 3=Neither agree nor disagree; 4=Somewhat Agree; 5=Definitely Agree; -999=Missing/Refused to answer",""

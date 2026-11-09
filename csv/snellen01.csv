@@ -90,3 +90,5 @@
 "snellen_retesttype_colorvis","String","100","Recommended","Retest Color Vision Type","","",""
 "snellen_read4","Integer","","Recommended","Reading Vision: 638","0;1","0=Incorrect; 1=Correct",""
 "snellen_read5","Integer","","Recommended","Reading Vision: 8745","0;1","0=Incorrect; 1=Correct",""
+"snellen_left","String","10","Recommended","Visual acuity for left eye (Reported as 20/_)","","",""
+"snellen_right","String","10","Recommended","Visual acuity for right eye (Reported as 20/_)","","",""

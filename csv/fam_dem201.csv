@@ -28,7 +28,7 @@
 "a1demo_sexorient6d","Integer","","Recommended","What is your current sexual identity/orientation? (Select all that apply) Queer","0;1","0= No; 1= Yes",""
 "a1demo_sexorient6g","Integer","","Recommended","What is your current sexual identity/orientation? (Select all that apply) Other","0;1","0= No; 1= Yes",""
 "a1demo_sexorient6h","Integer","","Recommended","What is your current sexual identity/orientation? (Select all that apply) Decline to Answer","0;1","0= No; 1= Yes",""
-"demo_sex_orient_other","String","20","Recommended","If you selected Other for sexual orientation, please specify.","","",""
+"demo_sex_orient_other","String","200","Recommended","If you selected Other for sexual orientation, please specify.","","",""
 "live_mother","Integer","","Recommended","Who do you live with? (Check all that apply) Mother(s)","0;1","0= No; 1= Yes",""
 "live_father","Integer","","Recommended","Who do you live with? (Check all that apply) Father(s)","0;1","0= No; 1= Yes",""
 "live_brothers","Integer","","Recommended","Who do you live with now? (select all that apply) Brothers","0;1","0=No; 1=Yes",""

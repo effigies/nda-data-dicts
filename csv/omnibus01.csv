@@ -959,7 +959,7 @@
 "hufu9e_date9","Date","","Recommended","If there has been at least one direct admission to a hospital (without an ED visit), then please specify date of direct admit or transfer: Date 9","","",""
 "mra_5","Integer","","Recommended","","","",""
 "mra_7_other","Integer","","Recommended","","","",""
-"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
+"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","Hispanic or Latino; Not Hispanic or Latino; Unknown; Prefer not to answer",""
 "fsprg","String","150","Recommended","In your own words, to which race(s) or racial group(s) do you belong?","","",""
 "mra_1","String","10","Recommended","Emergency Department triage date","","99 = Not documented",""
 "mra_2","String","10","Recommended","Emergency Department triage time","","99 = Not documented",""

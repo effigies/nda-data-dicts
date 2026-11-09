@@ -312,7 +312,7 @@
 "sitbi_03","Integer","","Recommended","How old were you/your child the last time you/they had thoughts of killing yourself/themselves? (age)","","years","sitbi_6,stb_si_6"
 "sitbi_04","Integer","","Recommended","During how many separate times in your life have you had thoughts of killing yourself? (Please give your best estimate)","","number of times (If you do not know, type an approximate range or number)",""
 "sitbi_05","Integer","","Recommended","How many separate times in the past year have you had thoughts of killing yourself?","","number of times (If you do not know, type an approximate range or number)",""
-"m1_sitbi_si_l_yn","Integer","","Recommended","Have you ever had thoughts of killing yourself?","0;1;999","0 = No; 1 = Yes; 999 = N/A or Prefer Not to Answer",""
+"m1_sitbi_si_l_yn","Integer","","Recommended","Have you ever had thoughts of killing yourself?","0;1;999;-9","0=No; 1=Yes; 999=N/A or Prefer not to answer; -9=Missing",""
 "m1_sitbi_si_m_int","Float","","Recommended","On the scale of 0 to 4, on average, how intense were your thoughts of killing yourself in the  past month?","0::4;999","Average intensity in the past month; 999 = N/A or Prefer Not to Answer","sitbi_si_int"
 "m1_sitbi_sp_m","Integer","","Recommended","How many days in the past month have you made a suicide plan?","","Number of days in the past month",""
 "m1_sitbi_sp_int","Float","","Recommended","On the scale of 0 to 4, on average, how seriously have you considered acting on the plan(s) in the past month?","0::4;999","Average intensity in the past month; 999 = N/A or Prefer Not to Answer","sitbi_sp_int"
@@ -992,3 +992,4 @@
 "scores_qdeathassoc","Integer","","Recommended","To what extent do you think of death being ''like you'' versus ''not like you?''","1::11","1= 0% (death is not like me); 2= 10%; 3= 20%; 4= 30%; 5= 40%; 6= 50%; 7= 60%; 8= 70%; 9= 80%; 10= 90%; 11= 100% (death is like me)",""
 "scores_qdeathassoc_slide","Integer","","Recommended","To what extent do you think of death being ''like you'' versus ''not like you?'' - 0 to 100","0::100","0=0% (death is ''not like me''); 100=100% (death is ''like me'')",""
 "chanceattemptmonth_slide","Integer","","Recommended","What are the chances that you will make a suicide attempt at any point in the next 1 month? - 0 to 100","0::100","0=0% (0% chance of suicide attempt); 100=100% (100% chance of suicide attempt)",""
+"respondent","String","20","Recommended","Respondent","Mother;Father;Parent;Guardian;Teacher;Child;Self;Caregiver;Partner;Other;Biological mom;Biological dad;Adoptive mom;Adoptive dad;Grandparent;Other caregiver;NA","NA=Not Applicable",""

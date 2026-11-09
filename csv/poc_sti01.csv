@@ -60,7 +60,7 @@
 "nas_a5nal","Integer","","Recommended","What is your race? Mark all that apply (Other)","0;1","0=No; 1=Yes",""
 "nas_a5nan","Integer","","Recommended","What is your race? Mark all that apply (Prefer not to answer)","0;1","0=No; 1=Yes",""
 "riaya_gen11","String","600","Recommended","What is your race/ethnicity? (Check all that apply) Other (Please Specify)","","9999= Missing",""
-"cdbs042","Integer","","Recommended","Are you of Hispanic or Latino origin or descent?","0::2","0 = No; 1 = Yes; 2 = Refused/Unknown",""
+"cdbs042","Integer","","Recommended","Are you of Hispanic or Latino/a/e/x origin or descent?","0::2","0 = No; 1 = Yes; 2 = Refused/Unknown",""
 "clinical_role","Integer","","Recommended","What is your clinical role?","1::6","1= Nurse; 2= Nurse Practitioner; 3= Fellow Physician; 4= Attending Physician; 5= Medical Assistant; 6= Other",""
 "other_clinical_role","String","100","Recommended","What is your clinical role? Other, please describe","","",""
 "years_in_practice","Integer","","Recommended","How many years have you been in clinical practice?","1::4","1= 0-10 years; 2= 11-20 years; 3= 21-30 years; 4= 31 or more years",""

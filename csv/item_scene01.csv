@@ -23,3 +23,7 @@
 "mem_valence","Integer","","Recommended","Remembered valence","1::3","1 = Happy; 2 = Neutral; 3 = Unhappy",""
 "mem_arous","Integer","","Recommended","Remembered arousal rating","1::4","1 = Not at all; 4 = Extremely",""
 "mem_crav","Integer","","Recommended","Remembered craving rating","1::4","1 = Not at all; 4 = Extremely",""
+"exp_group_aud","Integer","","Recommended","Experimental group","1;2","1 = Light drinker; 2 = Individual with alcohol use disorder",""
+"assocrecog_spec_quote","Integer","","Recommended","Remembered exact associated quote","0;1","0 = Did not remember exact quote; 1 = Remembered exact quote",""
+"exp_condition","Integer","","Recommended","Which condition this was encoded under","1;2","1 = Stress; 2 = Control",""
+"assocrecog_story","Integer","","Recommended","Remembered correct story","0;1","0 = Did not remember story; 1 = Remembered story (exact or lure)",""

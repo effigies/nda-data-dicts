@@ -196,3 +196,5 @@
 "ipftot_t1","Float","","Recommended","Total IPF Score","0::100","","ipftot_t2,ipftot_t3,ipftot_t4"
 "bipf_6","Integer","","Recommended","Overall, over the past 30 days, I had trouble with my training and education.","0::7","0= Not at all; 3= Sometimes; 6= Very Much; 7 = Not applicable",""
 "bipf_7","Integer","","Recommended","Overall, over the past 30 days, I had trouble with day-to-day activities, such as doing household chores, running errands, and managing my medical care.","0::7","0= Not at all; 3= Sometimes; 6= Very Much; 7 = Not applicable",""
+"week","Float","","Recommended","Week in level/study","","99=week 10-week 14",""
+"bipf_total","Float","","Recommended","Brief Inventory of Psychosocial Functioning (B-IPF) total score","0::100","Sum of item scores divided by the maximum possible score for the items answered, multiplied by 100. Items rated 7 (Not applicable) are excluded. Higher scores indicate greater impairment.",""

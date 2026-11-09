@@ -50,3 +50,4 @@
 "rq_5","Integer","","Recommended","Our relationship makes my partner very happy.","1::7","1=Strongly Disagree; 2=Disagree; 3=Somewhat Disagree; 4=Neutral/Mixed; 5=Somewhat Agree; 6=Agree; 7=Strongly Agree",""
 "rq_6","Integer","","Recommended","My relationship with my partner is close to ideal.","1::7","1=Strongly Disagree; 2=Disagree; 3=Somewhat Disagree; 4=Neutral/Mixed; 5=Somewhat Agree; 6=Agree; 7=Strongly Agree",""
 "rq_7","Integer","","Recommended","My partner is very loving and affectionate.","1::7","1=Strongly Disagree; 2=Disagree; 3=Somewhat Disagree; 4=Neutral/Mixed; 5=Somewhat Agree; 6=Agree; 7=Strongly Agree",""
+"couple_dm7","Integer","","Recommended","In general, who would you say is generally in charge?","1::3","1= Respondent; 2= Partner; 3= Jointly",""

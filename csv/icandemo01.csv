@@ -7,7 +7,7 @@
 "demoses05j","String","100","Recommended","Specify other Gender Identity","","",""
 "race","String","100","Recommended","Race of study subject","American Indian/Alaska Native; Asian; Hawaiian or Pacific Islander; Black or African American; White; More than one race; Unknown or not reported; Other Non-White; Other; Prefer not to say","",""
 "otherrace","String","200","Recommended","specify other race","","The following questions are about you or the child's family.","q3a_race_other_desc"
-"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","","q3b_ethnicity"
+"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","Hispanic or Latino; Not Hispanic or Latino; Unknown; Prefer not to answer","q3b_ethnicity"
 "q4_living_arrange","Integer","","Recommended","Child's usual PRIMARY living arrangement","1::6;-9;97","1= Parental Home (at least one parent); 2= Parental Homes (shared custody- 50/50); 3= Relative (other than parents); 4= With unrelated adult(s); 5= Shared apt/residence with parent's friends; 6= Shelter/stree/homeless/transient; -9= unknown; 97= Other (specify)",""
 "living_notes","String","255","Recommended","Living arrangements (specify)","","","q4_living_arrange_desc"
 "q5a_primary_caregiver","Integer","","Recommended","In the child's usual living arrangement, who is the PRIMARY caregiver? If equal caregivers, please indicate which one is completing this form","1::12","1= Biological Mother; 2= Step-mother; 3= Adoptive Mother; 4= Foster Mother; 5= Grandmother; 6= Other Relative; 7= Other non-relative; 8= Biological Father; 9= Step-father; 10= Adoptive Father; 11= Grandfather; 12= Foster Father",""

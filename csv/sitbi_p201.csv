@@ -21,7 +21,7 @@
 "sitbir_si_9","Integer","","Recommended","In the past year, on how many days did you have these thoughts? (days)","","",""
 "sitbir_si_10","Integer","","Recommended","In the past year, during how many months did you have these thoughts?(months)","","",""
 "sitbir_si_11","Integer","","Recommended","How many days in your life have you had these thoughts?(days)","","",""
-"sitbir_plan_1","Integer","","Recommended","Have you ever thought of a way or method to kill yourself?","0;1","0 = No; 1 = Yes",""
+"sitbir_plan_1","Integer","","Recommended","Have you ever thought of a way or method to kill yourself?","0;1;-9","0=No; 1=Yes; -9=Missing",""
 "sitbir_plan_4","Integer","","Recommended","Have you ever thought of a specific place to kill yourself?","0;1","0 = No; 1 = Yes",""
 "sitbir_plan_5","Integer","","Recommended","Have you ever thought of a specific time to kill yourself?","0;1","0 = No; 1 = Yes",""
 "sitbir_plan_6","Integer","","Recommended","Have you ever thought about using a specific method to kill yourself in a specific place at a specific time?","","",""

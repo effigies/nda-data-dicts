@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported",""
 "rifo_17","String","50","Recommended","What is your occupation?","","",""
-"democ27d","String","500","Recommended","What's your job title?","","",""
+"democ27d","String","500","Recommended","What's your job title?","","-888 = I don't know; -999 = I prefer not to answer",""
 "sleepknow3","Integer","","Recommended","How many years have you been in practice?","0::5","0= Still in training; 1= 1-5 years; 2= 6-10 years; 3= 10-15 years; 4= 15+ years; 5= N/A",""
 "sleepknow4","Integer","","Recommended","Practice location","1::8","1= Academic outpatient clinic; 2= Academic hospital inpatient; 3= Private hospital inpatient; 4= Community mental health clinic; 5= Community mental health clinic; 6= Residential facility; 7= Partial hospital program/Intensive outpatient program; 8= Other:",""
 "sleepknow4other","String","500","Recommended","Practice location: Other, describe","","",""

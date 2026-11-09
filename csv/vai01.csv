@@ -131,7 +131,7 @@
 "voc3_employ_notes3_ya_par","String","1000","Recommended","If you have additional comments about this third program, or if there any circumstances you would like to explain, please feel free to elaborate.","","",""
 "voc3_add_3_par","Integer","","Recommended","Are you currently participating in any other employment, vocational, or volunteering activities since leaving high school?","0;1","0 = No; 1 = Yes",""
 "voc3_program_4_add","String","1000","Recommended","If more than 3 current vocational activities, please make notes about ALL the additional CURRENT vocational activities:","","",""
-"voc_act_add_notes","String","1000","Recommended","Additional notes:","","",""
+"voc_act_add_notes","String","2000","Recommended","Additional notes:","","",""
 "voc_genact_list_1","Integer","","Recommended","Please select the activities in which (youth_first_name) is CURRENTLY involved. Select all that apply: Post-secondary education program (can be traditional college, trade school, an academic program for individuals with IDD, etc.)?","0;1","0 = No; 1 = Yes",""
 "voc_genact_list_2","Integer","","Recommended","Please select the activities in which (youth_first_name) is CURRENTLY involved. Select all that apply: Vocational training program?","0;1","0 = No; 1 = Yes",""
 "voc_genact_list_3","Integer","","Recommended","Please select the activities in which (youth_first_name) is CURRENTLY involved. Select all that apply: Adult day program?","0;1","0 = No; 1 = Yes",""

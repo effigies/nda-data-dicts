@@ -16,3 +16,7 @@
 "phase","Integer","","Recommended","Phase","","9 =follow up",""
 "vis_type","Integer","","Recommended","Visit type","0::2","1=Phone/remote; 0=doctor's office/In person; 2=No, not phone interview","phone"
 "visitid","Integer","","Recommended","MetaTrial Visit ID","","System variable: unique code for each type of visit -use to merge files",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"fibser1","Integer","","Recommended","On a scale of 0-6 where 0 is no side effects and 6 is side effects present all the time, how often did you experience side effects from your antidepressant medication in the past week?","0::6","0=No side effects; 6=Side effects present",""
+"fibser2","Integer","","Recommended","On a scale of 0 to 6 where 0 is no side effects and 6 is very severe side effects, how severe have the side effects been from your antidepressant medication in the past week?","0::6","0=No side effects; 6=Very severe side effects",""
+"fibser3","Integer","","Recommended","On a scale of 0 to 6 where 0 is not at all and 6 is unable to function, how much have side effects from your antidepressant medication interfered with your day-to-day functioning in the last week?","0::6","0=Not at all; 6=Unable to function",""

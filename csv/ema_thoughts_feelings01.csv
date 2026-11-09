@@ -13,3 +13,4 @@
 "ema_k5","Float","","Recommended","Indicate how dissatisfied with your SHAPE you have been since your last survey prompt.","0::100","0=Not at all dissatisfied; 100=Very dissatisfied",""
 "ema_l1","Integer","","Recommended","To what extent did you compare yourself to other people yesterday?","1::5","1=Not at all; 5=A great deal",""
 "ema_l2","Integer","","Recommended","Considering how you were feeling about yourself yesterday morning, how did comparing yourself to others make you feel yesterday?","1::5","1=Much worse; 2=Worse; 3=About the same; 4=Better; 5=Much better",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

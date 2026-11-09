@@ -84,3 +84,4 @@ digit relates to the specific adjudicator who completed the adjudication form.",
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","","clinician_notes"
 "rand_treat","String","20","Recommended","Randomized treatment","","MST;ECT",""
 "rand_call_date","Date","","Recommended","Date of telephone call","","",""
+"condition_group","Integer","","Recommended","Randomized study condition","1;2","1 = Active tAN; 2 = Active sham",""

@@ -198,3 +198,4 @@
 "facesiii_14","Integer","","Recommended","Rules change in our family","1::5","1 = Almost never; 2 = Once in a while; 3 = Sometimes; 4 = Frequently; 5 = Almost always",""
 "facesiii_18","Integer","","Recommended","It is hard to identify the leader(s) in our family","1::5","1 = Almost never; 2 = Once in a while; 3 = Sometimes; 4 = Frequently; 5 = Almost always",""
 "facesiii_20","Integer","","Recommended","It is hard to tell who does which household chores","1::5","1 = Almost never; 2 = Once in a while; 3 = Sometimes; 4 = Frequently; 5 = Almost always",""
+"b_family_relations_a_7","Integer","","Recommended","Do you think that your family members love you?","1::5","1 = Never occurs; 2 = Sometimes occurs; 3 = Occurs about half the time; 4 = Occurs most of the time; 5 = Always occurs",""

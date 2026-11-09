@@ -26,3 +26,4 @@
 "paincatastrophizing","Float","","Recommended","HEAL pain catastrophizing summary score","0::24","Sum of 6 items pcs_04-06, 10, 11, 13 with missing value imputation","pcq_sum"
 "pcqtotalscoreval","Float","","Recommended","Pain Catastrophizing Scale-Short Form 6-Item (PCS-SF) score","0::24","Scored as sum of 6 items; utilize mean imputation for missing items to obtain sum score if at least 4 items answered; blank otherwise",""
 "survey_language","Integer","","Recommended","Language of survey","1;2","1 = English; 2 = Spanish",""
+"pcqtotalscoreval_alt","Integer","","Recommended","Pain Catastrophizing Questionnaire 13 item total score","0::52","Scored as sum of 13 items (pcs_01, pcs_02, pcs_03, pcs_04, pcs_05, pcs_06, pcs_07, pcs_08, pcs_09, pcs_10, pcs_11, pcs_12, pcs_13); blank if any items are missing",""

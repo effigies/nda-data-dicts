@@ -202,3 +202,5 @@
 "iipsc16","Integer","","Recommended","I open up to people too much","0::4","0 = Not at all; 1 = Somewhat; 2 = Moderately; 3 = Very; 4 = Extremely",""
 "iipsc6","Integer","","Recommended","It is hard for me to let other people know when I am angry","0::4","0 = Not at all; 1 = Somewhat; 2 = Moderately; 3 = Very; 4 = Extremely",""
 "iipsc25","Integer","","Recommended","I argue with other people too much","0::4","0 = Not at all; 1 = Somewhat; 2 = Moderately; 3 = Very; 4 = Extremely",""
+"relationship_conflict02","Integer","","Recommended","Thinking back over the past three months, how often have people in your life been critical of you and the things you have done?","1::4","1=Very often; 2=Sometimes; 3=Rarely; 4=Never",""
+"relationship_conflict01","Integer","","Recommended","Thinking back over the past three months, how often have people in your life made too many demands on you?","1::4","1=Very often; 2=Sometimes; 3=Rarely; 4=Never",""

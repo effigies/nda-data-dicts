@@ -19,7 +19,7 @@
 "cur_wrk_stats_9_text","String","600","Recommended","What is your current work status? (Mark all that apply.) (Other (specify):)","","",""
 "vis_soc_net","Integer","","Recommended","In the last 12 months, have you visited any social networking sites such as Facebook, LinkedIn, Instagram, Ello, or Twitter?","0;1","0=No; 1=Yes",""
 "oft_soc_net","Integer","","Recommended","If YES (visited social networking sites in the last 12 months), how often do you visit social networking sites?","1::5;88","1= Less than 1 time per month; 2= 1 - 3 times per month; 3= 1 - 3 times per week; 4= 4 - 6 times per week; 5= Everyday; 88= Not Applicable",""
-"phy_sex","Integer","","Recommended","What was your physical sex assigned at birth?","1::4","1= Male; 2= Female; 3= Intersex; 4= Other",""
+"phy_sex","Integer","","Recommended","What was your physical sex assigned at birth?","1::5","1= Male; 2= Female; 3= Intersex; 4= Other; 5= Prefer not to answer",""
 "cur_gen","Integer","","Recommended","What is your current gender?","1::6","1= Male; 2= Female; 3= Intersex; 4= Male to female transgender; 5= Female to male transgender; 6= Other (cur_gen_text)",""
 "cur_gen_text","String","1000","Recommended","What is your current gender? Other, specify","","",""
 "oft_walk","Integer","","Recommended","How often do you walk to places in your neighborhood where you need or want to do things? Examples of these types of activities include shopping, dining out, school, church, etc.","1::5","1= Daily; 2= 3 - 6 times a week; 3= 3 - 4 times a month; 4= 1 - 2 times a month; 5= Almost never or never",""

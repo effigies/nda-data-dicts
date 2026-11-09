@@ -8,3 +8,4 @@
 "cell_id_biorepository","String","100","Recommended","Biorepository cell line ID","","",""
 "site","String","101","Recommended","Site","","Study Site",""
 "medical_phen","Integer","","Recommended","Did the individual have a medical condition that affects brain tissue as self reported on interview, reviewed by research team physician, if any question then with permission of subject their outside medical record reviewed or clinician contacted","1;2","1= No medical disorder; 2= Had medical disorder",""
+"nrgr_interview_age_known","Integer","","Recommended","Is subject's exact [interview_age] known?","0;1","0= No, subject age unknown; 1= Yes, subject age known",""

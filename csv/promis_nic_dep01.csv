@@ -24,3 +24,5 @@
 "promis_smkndep14","Integer","","Recommended","The idea of not having any cigarettes causes me stress.","1::5","1 = Not at all; 2 =A little bit; 3 = Somewhat; 4 = Quite a bit; 5 = Very much",""
 "promis_smkndep15","Integer","","Recommended","When I run out of cigarettes, I find it almost unbearable.","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""
 "promis_smkndep16","Integer","","Recommended","I get a real gnawing hunger for a cigarette when l haven''t smoked in a while.","1::5","1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always",""
+"ecigpast30days","Integer","","Recommended","In the past 30 days, did you use an electronic cigarette, vape, or Juul?","0;1","0=No; 1=Yes",""
+"ecig1","Integer","","Recommended","On how many of the past 30 days did you use an electronic cigarette, vape, or Juul?","0::30","Number of days",""

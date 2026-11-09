@@ -75,3 +75,8 @@
 "smh_07a","Integer","","Recommended","How many hours of sleep do you usually get on weekdays (or days you work)?","0::24","Number of hours",""
 "slp01_1","Integer","","Recommended","In the past two weeks, how many hours, approximately, did you usually sleep during a workday/school day/weekday night?","0::5;999","0 = Less than 5 hours; 1 = 5 hours; 2 = 6 hours; 3 = 7 hours; 4 = 8 hours; 5 = Greater than or equal to 9 hours; 999 = No Answer",""
 "slp01_2","Integer","","Recommended","In the past two weeks, how many hours, approximately, did you usually sleep per night on days off/weekends?","0::5;999","0 = Less than 5 hours; 1 = 5 hours; 2 = 6 hours; 3 = 7 hours; 4 = 8 hours; 5 = Greater than or equal to 9 hours; 999 = No Answer",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"falling_sleep","Integer","","Recommended","Please rate how often in the past 4 weeks you have had: Trouble falling asleep","0::3","0 = Rarely/Never; 3 = Almost every day",""
+"midnight_waking","Integer","","Recommended","Please rate how often in the past 4 weeks you have had: Waking up in the middle of the night and finding it hard to get back to sleep","0::3","0 = Rarely/Never; 3 = Almost every day",""
+"early_waking","Integer","","Recommended","Please rate how often in the past 4 weeks you have had: Waking up early and being unable to get back to sleep","0::3","0 = Rarely/Never; 3 = Almost every day",""
+"sleep_hours_desc","String","50","Recommended","How many hours of sleep do you usually get at night?","","",""

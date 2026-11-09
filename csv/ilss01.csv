@@ -102,6 +102,6 @@
 "rifo_01","Integer","","Recommended","Is your main source of income from your parents, spouse, or partner?","0;1","0=No; 1=Yes",""
 "rifo_02","Integer","","Recommended","Is your main source of income from your own job?","0;1","0=No; 1=Yes",""
 "rifo_03","Integer","","Recommended","Do you receive disability income (SSI, SSD)?","0;1","0=No; 1=Yes",""
-"rifo_04","Integer","","Recommended","Do you receive public assistance income (i.e., food stamps, housing assistance, Medicare)? ","0::1; 99","0 = No; 1 = Yes; 99 = no data",""
+"rifo_04","Integer","","Recommended","Do you receive public assistance income (i.e., food stamps, housing assistance, Medicare)? ","0;1;99;999","0 = No; 1 = Yes; 99 = No data; 999= I prefer not to answer",""
 "rifo_05","Integer","","Recommended","Do you receive income from a pension or insurance?","0;1","0=No; 1=Yes",""
 "rifo_06","Integer","","Recommended","Does part of your income include student loans?","0;1","0=No; 1=Yes",""

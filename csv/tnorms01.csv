@@ -108,3 +108,5 @@
 "peers_2","Integer","","Recommended","What percentage of [teen's age] year-old Americans use alcohol in a typical month?","","",""
 "peers_3","Integer","","Recommended","What percent of U.S. [grade level] students use alcohol at least once in a typical month?","","",""
 "peers_4","Integer","","Recommended","What percent of U.S. [grade level] students disapprove of people who have five or more drinks once or twice each weekend?","","",""
+"percent_more","Float","","Recommended","Percentage of all US men/women (same gender) that drink MORE than user (based on drinks per week; NESAC)","0::100","",""
+"percent_less","Float","","Recommended","Percentage of all US men/women (same gender) that drink LESS than user (based on drinks per week; NESAC)","0::100","",""

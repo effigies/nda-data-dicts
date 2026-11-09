@@ -220,3 +220,6 @@
 "ygtssr_simp_phn_tics_3","Integer","","Recommended","Simple Phonic Symptoms - Humming","1;2","1=No; 2=Yes",""
 "ygtssr_simp_phn_tics_4","Integer","","Recommended","Simple Phonic Symptoms - Mouth Noises (e.g., forceful exhalation, wheezing, gasping, panting)","1;2","1=No; 2=Yes",""
 "ygtssr_simp_phn_tics_5","Integer","","Recommended","Simple Phonic Symptoms - Chirping or other bird noises (e.g., screeching)","1;2","1=No; 2=Yes",""
+"tic2s","Integer","","Recommended","Simple nose, mouth or tongue movements or facial grimacing","1;2","1=No; 2=Yes",""
+"tic5s","Integer","","Recommended","Simple arm or hand movements","1;2","1=No; 2=Yes",""
+"tic5c","Integer","","Recommended","Complex arm or hand movements","1;2","1=No; 2=Yes",""

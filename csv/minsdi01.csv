@@ -40,3 +40,5 @@
 "msdi26","Integer","","Recommended","Has someone made you feel less of a human because your identity in the last 30 days?","0;1","0= No; 1= Yes",""
 "msdi27","Integer","","Recommended","What was the related aspect of your identity when someone made you feel less of a human because your identity?","1::9","1= Sexual orientation; 2= Gender identity; 3= Gender expression; 4= Race/ethnicity; 5= Body size; 6= Mental or physical disability; 7= Age; 8= Social class; 9= Other identities",""
 "msdi27a","String","250","Recommended","What was the related aspect of your other identities when someone made you feel less of a human because your identity? Please Specify","","Other Identities",""
+"oeism01","String","200","Recommended","Please describe any additional experiences you have had in the last 6 months, where you were treated differently or encountered stigma because of who you are:","","",""
+"oo_rems01","String","300","Recommended","Please describe any additional experiences you have had in the last 6 months, where you were treated differently or encountered stigma related to your racial/ethnic identity:","","",""

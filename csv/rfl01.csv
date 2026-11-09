@@ -92,3 +92,4 @@
 "brfla_rf","Integer","","Recommended","Brief Reasons for Living - Responsibility to Family (RF) Subscale","","Sum of items brfla_10-12 (rfl_9, 16, 30)",""
 "brfla_fs","Integer","","Recommended","Brief Reasons for Living - Fear of Suicide (FS) Subscale","","Sum of items brfla_13-14 (rfl_6, 15)",""
 "brfla_tot","Integer","","Recommended","Brief Reasons for Living - Total Score","","Sum of items brfla_1-14 (rfl_5, 6, 9, 15, 16, 22, 27, 30, 31, 32, 34, 36, 40, 42)",""
+"rfl_13alt","Integer","","Recommended","I have future plans I am looking forward to carrying out.","1::6;999","1= Not at all important; 2= Quite unimportant; 3= Somewhat unimportant; 4= Somewhat important; 5= Quite important; 6= Extremely important; 999= DO NOT WISH TO ANSWER",""

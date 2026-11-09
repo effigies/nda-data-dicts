@@ -159,3 +159,4 @@
 "shipley_remember","Integer","","Recommended","Choose one word which means the same thing, or most nearly the same thing, as the following word - REMEMBER","1::4","1=Swim; 2=Recall; 3=Number; 4=Defy",""
 "shipley_tumble","Integer","","Recommended","Choose one word which means the same thing, or most nearly the same thing, as the following word - TUMBLE","1::4","1=Drink; 2=Dress; 3=Fall; 4=Think",""
 "shipley_hideous","Integer","","Recommended","Choose one word which means the same thing, or most nearly the same thing, as the following word - HIDEOUS","1::4","1=Silvery; 2=Tilted; 3=Young; 4=Dreadful",""
+"txgroup","String","50","Recommended","Treatment group","","e.g., Control, Intervention, Experimental, Placebo",""

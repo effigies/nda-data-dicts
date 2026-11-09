@@ -32,4 +32,4 @@
 "teq_03","Integer","","Recommended","How confident would you be in recommending this treatment to a friend?","1::10","1 = Not confident at all; 10= Very confident",""
 "teq_04","Integer","","Recommended","How willing are you (were you) to undergo this treatment?","1::10","1 = Not willing at all; 10= Very willing",""
 "teq_05","Integer","","Recommended","How successful do you think this treatment is for treating other people with insomnia?","1::10","1 = Not successful at all; 10= Very successful",""
-"teq_06","Integer","","Recommended","TEQ Score","5::20","Sum the responses to questions teq01-teq05",""
+"teq_06","Integer","","Recommended","TEQ Score","5::50","Sum the responses to questions teq01-teq05",""

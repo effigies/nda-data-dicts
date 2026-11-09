@@ -9,3 +9,8 @@
 "hark_rape","Integer","","Recommended","Rape - Within the last year, have you been raped or forced to have any kind of sexual activity by your partner or ex-partner?","0;1","0= No; 1= Yes",""
 "hark_kick","Integer","","Recommended","Kick - Within the last year, have you been kicked, hit, slapped or otherwise physically hurt by your partner or ex-partner?","0;1","0= No; 1= Yes",""
 "hark_score","Integer","","Recommended","HARK Score","0::4","Number of HARK items (hark_humiliation, hark_afraid, hark_rape, hark_kick) endorsed",""
+"hark_4","Integer","","Recommended","Have you ever been kicked, hit, slapped, or otherwise physically hurt by your partner or ex-partner?","0::3;999","0= No; 1=  Yes; 2= Yes, after I was 18; 3= Yes, before and after I was 18; 999= Prefer not to answer",""
+"hark_3","Integer","","Recommended","Have you been raped or forced to have any kind of sexual activity by your partner or ex-partner?","0::3;999","0= No; 1=  Yes; 2= Yes, after I was 18; 3= Yes, before and after I was 18; 999= Prefer not to answer",""
+"hark_2","Integer","","Recommended","Have you ever been afraid of your partner or ex-partner?","0::3;999","0= No; 1=  Yes; 2= Yes, after I was 18; 3= Yes, before and after I was 18; 999= Prefer not to answer",""
+"hark_pastyear","Integer","","Recommended","Did any of these experiences with a partner or ex-partner happen in the past year?","0;1;999","0= No; 1=  Yes; 999= Prefer not to answer",""
+"hark_1","Integer","","Recommended","Have you ever been humiliated or emotionally abused in other ways by your partner or ex-partner?","0::3;999","0= No; 1=  Yes; 2= Yes, after I was 18; 3= Yes, before and after I was 18; 999= Prefer not to answer",""

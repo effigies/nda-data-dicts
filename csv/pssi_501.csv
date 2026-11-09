@@ -42,3 +42,4 @@
 "pssi_loss_of_interest","Integer","","Recommended","Loss of interest in activities that you used to enjoy","0::4; 9","0 = Not at all; 1 = A little bit; 2 = Moderately; 3 = Quite a bit; 4 = Extremely; 9 = Blank/Missing","pssi_q12"
 "pssi_pos_feelings_trouble","Integer","","Recommended","Trouble experiencing positive feelings (for example, being unable to feel happiness or have loving feelings for people close to you)","0::4; 9","0 = Not at all; 1 = A little bit; 2 = Moderately; 3 = Quite a bit; 4 = Extremely; 9 = Blank/Missing","pssi_q14"
 "pssi_concentrating","Integer","","Recommended","Having difficulty concentrating","0::4; 9","0 = Not at all; 1 = A little bit; 2 = Moderately; 3 = Quite a bit; 4 = Extremely; 9 = Blank/Missing","pssi_q19"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""

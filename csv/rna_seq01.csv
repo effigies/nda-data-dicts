@@ -71,7 +71,7 @@
 "platform","String","255","Recommended","Name of particular experiment platform","","",""
 "assay","Integer","","Recommended","The technology used to generate the data in this file","0::15; 999","0=ATACSeq; 1=CUT(and)Tag; 2=ChIPSeq; 3=GO-CaRT; 4=HI-C; 5=RNA-seq; 6=TMT quantitation; 7=bisulfiteSeq; 8=errBisulfiteSeq; 9=label free mass spectrometry; 10=methylationArray; 11=mirnaSeq; 12=oxBS-Seq; 13=scrnaSeq; 14=snpArray; 15=wholeGenomeSeq; 999=Missing",""
 "hcdi_organ","Integer","","Recommended","Organ of origin for cells if applicable","1::19; -99","1=Lymph node; 2=Kidney; 3=Skin; 4=Mammary gland; 5=Nerves; 6=Brain; 7=Blood; 8=Breast; 9=Colon; 10=Lung; 11=Prostate; 12=Pancreas; 13=Ovary; 14=Spleen; 15=Bone marrow; 16=Bursa Of Fabricius; 17=Nose; 18=Cerebrospinal fluid; 19=Liver; -99=Other",""
-"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
+"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","Hispanic or Latino; Not Hispanic or Latino; Unknown; Prefer not to answer",""
 "psych_enc_datatype","Integer","","Recommended","RNA data type","0;1;999 ","0=lncRNA; 1=mRNA; 999=missing",""
 "rna_type","Integer","","Recommended","RNA type","0;1;999 ","0=rRNA-depleted; 1=total RNA; 999=missing",""
 "sequencing_assay","Integer","","Recommended","Sequencing assay","0::2;999 ","0=IsoSeq; 1=RNA-Seq; 2=SeqCap; 999=missing",""

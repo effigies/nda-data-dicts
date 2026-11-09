@@ -97,7 +97,7 @@
 "txpsi","Integer","","Recommended","treatment psychosocial","0;1;-7","0=No; 1=Yes; -7=Refused",""
 "txsh","Integer","","Recommended","treatment selfhelp group","0;1;-7","0=No; 1=Yes; -7=Refused",""
 "txoth","Integer","","Recommended","treatment other","1;0;-7","0=No; 1=Yes;-7=Refused",""
-"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","",""
+"ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","Hispanic or Latino; Not Hispanic or Latino; Unknown; Prefer not to answer",""
 "employcur","Integer","","Recommended","current employment status","1::13;-7","1=Full time; 2=Part time for pay; 3=Homemaker; 4=Incarcerated; 5=Disabled; 6=Leave of absence; 7=Unemployed; 8=Retired; 9=Other; 10=Student; 11=Volunteer; 12 = Maternity leave; 13 = Employed Occasionally; -7=Refused","dem8emp,employ"
 "fseqno","Integer","","Recommended","Sequence Number","0::999","The FSEQNO variable in the ADJ form has a special interpretation compared to other forms.
 For example, ADJ FSEQNO of '1' can be thought of as being '001', FSEQNO of '2' can be thought of as

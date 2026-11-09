@@ -300,7 +300,7 @@ household in item 2 who contribute financially)","1::10","1=less than $5,000; 2 
 "expend26","Integer","","Recommended","Did the household spend on vitamins, tonics and other health supplements?","0;1;98;99","0= No; 1= Yes; 98= Do not know; 99= Refused",""
 "expend26_val","String","200","Recommended","How much, roughly, did you spend on vitamins, tonics, and other health supplements?","","",""
 "expend27","Integer","","Recommended","Did the household spend on barber and beauty salon services?","0;1;98;99","0= No; 1= Yes; 98= Do not know; 99= Refused",""
-"occup_sp","String","100","Recommended","Occupation other. Please describe:","","",""
+"occup_sp","String","200","Recommended","Occupation other. Please describe:","","",""
 "household_sa1","Integer","","Recommended","Thinking about your household, how many adults live there (including you?)","","",""
 "household_sa2","Integer","","Recommended","Who is the head of your household?","1::8","1= Self; 2 = Partner; 3 = Your mother; 4 = Your partner''s mother; 5 = Your father; 6 = Your partner''s father; 7 = Sibling; 8 = Other",""
 "household_sa2_other","String","200","Recommended","If you selected other for head of your household, please specify","","",""

@@ -17,3 +17,5 @@
 "rs11","Integer","","Recommended","Besides attending services, about how many times a month do you take part in other religious activities like bible study, choir rehearsal, or committee ministry meetings?","0::2","0 = 0 ; 1 = 1-3 ; 2 = 4 or more",""
 "rel_freq1","Integer","","Recommended","Apart from special occasions such as weddings and funerals, how often do you attend religious services?","1::9","1= Every day; 2= More than once a week; 3= Once a week; 4= 2-3 times per month; 5= Once a month; 6= Several times a year; 7= Once or twice a year; 8= Less than once a year; 9= Never",""
 "rel_freq2","Integer","","Recommended","During the past week, how often did you attend religious services?","0::9","Number of times; 9= 9 or more",""
+"religiosity02","Integer","","Recommended","To what extent do your religious beliefs influence your daily decisions and actions?","0::3","0= Never; 1= A few times; 2= Once a week; 3= Frequently",""
+"religiosity01","Integer","","Recommended","How many times have you attended religious/spiritual services in the past month?","0::3","0= Never; 1= A few times; 2= Once a week; 3= Frequently",""

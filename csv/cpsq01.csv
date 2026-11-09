@@ -42,3 +42,4 @@
 "cpsq36","Integer","","Recommended","To what extent did you experience visual sensation (seeing lights for example) associated with the start or end of stimulation/the stimulation in the WEEK PRIOR to tDCS/Tacs","0::10","Higher number indicates greater symptom severity",""
 "cpsq37","Integer","","Recommended","Other effects in the WEEK PRIOR to tDAS/tACS","0::10","Higher number indicates greater symptom severity",""
 "cpsq38","String","100","Recommended","Describe other effects in the WEEK PRIOR to tDAS/tACS","","",""
+"session_number","Integer","","Recommended","Session number","","",""

@@ -120,7 +120,7 @@
 "ldp_drink_freq_per7","Float","","Recommended","PERIOD 7 drinking frequency: Days per week","0::7","",""
 "ldh170_ldh_drink_style_time7","Integer","","Recommended","Usual style of drinking during PERIOD 7","1::5;8;9","1 = Abstinent; 2 = Occasional; 3 = Weekend mainly; 4 = Binge; 5 = Frequent; 8 = N/A; 9 = Missing",""
 "height","Float","","Recommended","Medical history and physical development - Height (inches)","","inches",""
-"same_timeline1","Integer","","Recommended","Total drinks","","",""
+"same_timeline1","Float","","Recommended","Total drinks","","",""
 "ldp_number_of_periods","Integer","","Recommended","Total number of drinking pattern periods","","",""
 "ldp_start_age_per1","Integer","","Recommended","PERIOD 1 drinking: Starting age","","",""
 "ldp_end_age_per1","Integer","","Recommended","PERIOD 1 drinking: Ending age","","",""
@@ -210,3 +210,4 @@
 "alcmaxwaragi","Float","","Recommended","When you drank the most ever in a 24-hour period in the past 12 months, how much Waragi or other spirits did you have? INTERVIEWER: Convert participant's response to the number of 100ml servings. If they don't know the volume you can ask the cost and determine the volume based on the cost (e.g., 100ml costs 1000 UGX)","","",""
 "alcmaxtk","Float","","Recommended","When you drank the most ever in a 24-hour period in the past 12 months, how much Tonto/mwenge bigere/omwenge omuganda, mukomboti, or Kwete did you drink? INTERVIEWER: Convert participant's response to the number of 500ml servings.","","",""
 "alcmaxomul","Float","","Recommended","When you drank the most ever in a 24-hour period in the past 12 months, how much Omulamba did you drink? INTERVIEWER: Convert participant's response to the number of 450ml servings.","","",""
+"alchid","Integer","","Recommended","In the prior 30 days how many times did you have 7 or more drinks on one occasion (one drinking session; at the same time or within about 2 hours)? [Can review TLFB responses to answer this question]","0::7","0 = None; 7 = More than 6 times",""

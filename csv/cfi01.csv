@@ -27,3 +27,4 @@
 "cfi_factor1","Integer","","Recommended","Cognitive Flexibility Inventory Alternatives Subscale Score","13::91","",""
 "cfi_factor2","Integer","","Recommended","Cognitive Flexibility Inventory Control Subscale Score","7::49","",""
 "cfi_total","Integer","","Recommended","Cognitive Flexibility Inventory Total","20::140","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

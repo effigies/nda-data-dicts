@@ -11,7 +11,7 @@
 "btype","Integer","","Recommended","bipolar type","1;2","1=Bipolar Type I; 2=Bipolar Type II",""
 "taperrx","Integer","","Recommended","tapered antidepressants","0;1;-7","0=No; 1=Yes; -7=Refused",""
 "moodstab","Integer","","Recommended","mood stabilizer treatment","0;1;-7","0=No; 1=Yes; -7=Refused",""
-"usingbc","Integer","","Recommended","currently using birth control","0;1;-7","0=No; 1=Yes; -7=Refused","bcontrol"
+"usingbc","Integer","","Recommended","currently using birth control","0;1;-7;-99","0=No; 1=Yes; -7=Refused; -99=Missing","bcontrol"
 "unrespon","Integer","","Recommended","unresponsive to treatment","0;1;-7","0=No; 1=Yes; -7=Refused","failstx"
 "intoler","Integer","","Recommended","intolerance bupropion paroxetine","0;1;-7","0=No; 1=Yes; -7=Refused",""
 "unstable","Integer","","Recommended","unstable or contradication to treatment with antidepressants","0;1;-7","0=No; 1=Yes; -7=Refused",""

@@ -16,3 +16,4 @@
 "ace_09q","Integer","","Recommended","Prior to your 18th birthday, Was a household member depressed or mentally ill, or did a household member attempt suicide?","0;1","0=No; 1=Yes",""
 "ace_10q","Integer","","Recommended","Prior to your 18th birthday, Did a household member go to prison?","0;1","0=No; 1=Yes",""
 "ace_score","Integer","","Recommended","Total ACE Score (Prior to your 18th birthday)","0::10","Sum of items ace_01q-ace_10q",""
+"nrgr_interview_age_known","Integer","","Recommended","Is subject's exact [interview_age] known?","0;1","0= No, subject age unknown; 1= Yes, subject age known",""

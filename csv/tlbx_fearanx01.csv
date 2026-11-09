@@ -48,3 +48,4 @@
 "scared_35","Integer","","Recommended","Child/Adult: I worry about how well I do things. Parent: My child worries about how well he/she does things.","0::2; -99; 77; 88","0 = Not true or hardly ever true; 1 = Somewhat true or sometimes true; 2 = Very true or often true; -99= N/A; 77= Refused ; 88= Missing","pedproxanx85"
 "comqother","String","255","Recommended","Respondent - Other (text)","","","respondent"
 "fneproc","String","20","Recommended","name of trial procedure being run","","",""
+"eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""

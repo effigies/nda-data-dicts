@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "gender_identify","Integer","","Recommended","What is your current gender?","1::8","1= Male; 2= Female; 3= TransMale/Transman; 4= TransFemale/Transwoman; 5= Genderqueer; 6= Additional category; 7= Decline to state; 8 = Gender variant, Gender non-conforming","gender_identity"
-"gender_other_spec","String","100","Recommended","Gender identity of subject, if other","","","gender_identity_other"
+"gender_other_spec","String","200","Recommended","Gender identity of subject, if other","","","gender_identity_other"
 "sex_orient","String","30","Recommended","Sexual orientation of the subject","Primarily Heterosexual; Primarily Gay/Lesbian; Primarily Bisexual; Primarily Asexual; Questioning or Unsure; Other","","sexual_orientation"
 "sexual_orientation_descrip","String","200","Recommended","What is your sexual orientation?","","","sexual_orientation_other"
 "ethnicity_no","Integer","","Recommended","Ethnicity - Not Hispanic or Latino","0;1","0= No, 1= Yes",""

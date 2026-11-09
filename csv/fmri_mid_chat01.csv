@@ -111,3 +111,6 @@
 "chat_2d","Integer","","Recommended","How angry did you feel when someone expressed interest in chatting with you?","1::10","1=Not at all angry; 10=Extremely angry",""
 "chat_2e","Integer","","Recommended","How included did you feel when someone expressed interest in chatting with you?","1::10","1=Not at all included; 10=Extremely included",""
 "chat_2f","Integer","","Recommended","How excluded did you feel when someone expressed interest in chatting with you?","1::10","1=Not at all excluded; 10=Extremely excluded",""
+"fmri_task_funct_local1","File","","Recommended","Task BOLD","","Functional localizer task fMRI scan (.nii.gz) targeting rFFA2 for face and object recognition studies. 7T/3T PRESTO EPI. Targeting rFFA2 and obj-rLOC",""
+"fmri_task_funct_local2","String","2","Recommended","Each event (Face, Object, Scrambled)","","Includes trial-level timing for face, object, and scrambled image blocks, stimulus timing and trial information for FACE_ASDloc, OBJ_ASDloc, SCRAM_ASDloc",""
+"fmri_task_funct_local3","String","2","Recommended","Response to seeing image - button press","","Output from experiment software; includes trial, block, image, response, and reaction time, Participant response and reaction time log for fMRI localizer task",""

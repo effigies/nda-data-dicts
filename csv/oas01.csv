@@ -54,3 +54,5 @@
 "auto","String","15","Recommended","Autoaggression Behaviors (select all that apply)","","0 = No autoaggression ; 1 = Picks or scratches skin, pulls hair out, hits self (without injury) ; 2 = Bangs head, hits fists into walls, throws self onto floor ; 3 = Inflicts minor cuts, bruises, burns, or welts on self ; 4 = Inflicts major injury on self or makes a suicide attempt","auto0,auto1,auto2,auto3,auto4"
 "physa","String","15","Recommended","Physical Aggression Behaviors (select all that apply)","","0 = No physical aggression ; 1 = Makes menacing gestures, swings at people, grabs at clothing ; 2 = Strikes, pushes, scratches, pulls hair of others (without injury) ; 3 = Attacks others, causing mild injury (bruises, sprain, welts, etc.) ; 4 = Attacks others, causing serious injury","pa0,pa1,pa2,pa3,pa4"
 "va_sscore","Integer","","Recommended","Verbal Aggression Sum Score","0::10","","va_sum"
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

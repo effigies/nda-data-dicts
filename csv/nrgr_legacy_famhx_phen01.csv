@@ -12,3 +12,4 @@
 "mdd_famhx_phen","Integer","","Required","Does this family member have MDD?","1::3","1= Yes; 2= No; 3= Unknown",""
 "schizophrenia_famhx_phen","Integer","","Required","Does this family member have schizophrenia?","1::3","1= Yes; 2= No; 3= Unknown",""
 "bpd_famhx_phen","Integer","","Required","Does this family member have Bipolar Disorder?","1::3","1= Yes; 2= No; 3= Unknown",""
+"nrgr_interview_age_known","Integer","","Recommended","Is subject's exact [interview_age] known?","0;1","0= No, subject age unknown; 1= Yes, subject age known",""

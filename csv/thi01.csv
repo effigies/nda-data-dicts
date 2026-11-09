@@ -291,7 +291,7 @@
 "thi_c3803_08","Integer","","Recommended","Has your child ever lived in a group home? (Lifetime)","0;1","0 = No; 1 = Yes",""
 "thi_c3803_09","Integer","","Recommended","Has your child ever lived in a group home? (Past year)","0;1","0 = No; 1 = Yes",""
 "thi_c3803_10","Integer","","Recommended","Has your child ever lived in a group home? (Past 3 months)","0;1","0 = No; 1 = Yes",""
-"thi_c3803_11","Integer","","Recommended","Has your child ever been placed in foster care? (Lifetime)","0;1","0 = No; 1 = Yes",""
+"thi_c3803_11","Integer","","Recommended","Has your child ever been placed in foster care? (Lifetime)","0::3","0 = No; 1 = Yes; 2=I don't know; 3= Prefer not to answer",""
 "num13_1_lifetime","Integer","","Recommended","Number of times in lifetime residential treatment facility for subject was received","","",""
 "thi_c3803_12","Integer","","Recommended","Has your child ever been placed in foster care? (Past year)","0;1","0 = No; 1 = Yes",""
 "thi_c3803_13","Integer","","Recommended","Has your child ever been placed in foster care? (Past 3 months)","0;1","0 = No; 1 = Yes",""

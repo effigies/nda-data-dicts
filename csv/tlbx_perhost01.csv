@@ -27,3 +27,4 @@
 "comqother","String","255","Recommended","Respondent - Other (text)","","","respondent"
 "fneproc","String","20","Recommended","name of trial procedure being run","","",""
 "ntsr37","Integer","","Recommended","How often people tease me in a mean way","1::5;999","1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always; 999= Missing",""
+"eventname","String","60","Recommended","The event name for which the data was collected","","e.g., Pre-Task, Post-Intervention",""

@@ -8,7 +8,7 @@
 "sample_id_original","String","100","Required","Original, user-defined Sample ID","","",""
 "sample_amount","Float","","Required","Sample amount","","",""
 "sample_unit","String","50","Required","Measurement unit for Sample","","",""
-"biorepository","String","100","Required","Sample provider: i.e. NIMH_Genetics; ATP; Correil","","",""
+"biorepository","String","100","Required","Sample provider: i.e. NIMH_Genetics; ATP; Coriell","","",""
 "patient_id_biorepository","String","100","Required","Biorepository Patient ID","","",""
 "sample_id_biorepository","String","100","Required","Biorepository Sample ID","","",""
 "cell_id_original","String","100","Required","Original, user-defined cell line ID","","",""
