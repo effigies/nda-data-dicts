@@ -75,3 +75,7 @@
 "any_effects","Integer","","Recommended","To what extent did the subject experience any drug effects, per subjective self-report","0::100","0 = Not at all; 100 = Extremely",""
 "bad_effects","Integer","","Recommended","To what extent did the subject experience bad drug effects, per subjective self-report","0::100","0 = Not at all; 100 = Extremely",""
 "good_effects","Integer","","Recommended","To what extent did the subject experience good drug effects, per subjective self-report","0::100","0 = Not at all; 100 = Extremely",""
+"cocaine_dose","Integer","","Recommended","Level of intravenous cocaine dose","0;3;10;30","0= 0 mg/70 kg; 3= 3 mg/70 kg; 10= 10 mg/70 kg; 30= 30mg/70 kg",""
+"exp_time_cocaine_min","Float","","Recommended","Time from baseline in minutes","0::20;-1","Number of minutes after cocaine administration (in two minute increments); 0 = Time of cocaine administration; -1 = Baseline (30 min prior to cocaine intravenous administration)",""
+"cocaine_craving_100","Integer","","Recommended","To what extent did the subject experience craving, per subjective self-report","0::100","0 = Not at all; 100 = Extremely",""
+"cobenfy_dose","Integer","","Recommended","Level of Cobenfy dose","0;1","0 = 0mg/day; 1 = 100/20 mg/day, administered twice daily",""

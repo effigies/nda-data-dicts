@@ -17,3 +17,4 @@
 "mlq_presence","Integer","","Recommended","Meaning in Life Questionnaire Presence Subscale","0::70","",""
 "mlq_search","Integer","","Recommended","Meaning in Life Questionnaire Search Subscale","0::70","",""
 "mlq_total","Integer","","Recommended","Meaning in Life Questionnaire Total","0::140","",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

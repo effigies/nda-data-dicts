@@ -138,7 +138,7 @@
 "phne_sc_18","String","5","Recommended","11. Do you wear glasses or contact lenses?","Yes;No;999","999 = Missing/NA","medhist_glasses_contacts"
 "visionproblemdetail","String","300","Recommended","Details of the vision problem","","","medhist_visualprob_text"
 "scq_37_sp","String","300","Recommended","Specify any other medical condition","","","medhist_othermed_text"
-"current_medication","String","300","Recommended","subject's current medications","","","medication_current_notes,meds_current_text"
+"current_medication","String","1000","Recommended","subject's current medications","","","medication_current_notes,meds_current_text"
 "past_medication","String","300","Recommended","what are subjects past medications","","","meds_past_text"
 "medhist_liverkidgi","Integer","","Recommended","(A: Do you) (P: Does your child)  have liver, kidney or GI problems?","0;1","0=no; 1=yes",""
 "medhist_bloodpressure","Integer","","Recommended","(A: Do you) (P: Does your child)  have a history of blood pressure?","0;1","0=no; 1=yes",""

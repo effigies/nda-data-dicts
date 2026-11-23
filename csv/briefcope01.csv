@@ -120,3 +120,4 @@
 "relcope5","Integer","","Recommended","I do what I can and put the rest in Gods hands","1::4;99","1=Haven't been doing this at all; 2=Been doing this sometimes; 3=Been doing this often; 4=Been doing this a lot; 99=No answer",""
 "relcope6","Integer","","Recommended","I look for a stronger connection with a higher power","1::4;99","1=Haven't been doing this at all; 2=Been doing this sometimes; 3=Been doing this often; 4=Been doing this a lot; 99=No answer",""
 "relcope7","Integer","","Recommended","I offer spiritual support to family/friends","1::4;99","1=Haven't been doing this at all; 2=Been doing this sometimes; 3=Been doing this often; 4=Been doing this a lot; 99=No answer",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

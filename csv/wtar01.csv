@@ -5,7 +5,7 @@
 "interview_date","Date","","Required","Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY","","","wtar_date,wtar_doa,wtarsum_doa"
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "education","Integer","","Recommended","How much education have you completed?","5::20","""5 = Less Than 5 grade; 6 = 6 grade;7 = 7 grade; 8 = 8 grade; 9 = 9grade; 10 = 10 grade; 11 = 11 grade; 12 = 12 grade;13 = Some college, but no degree;14 = Technical Degree;15 = Associates Degree;16 = More than two years, but no degree;17 = Bachelor's Degree;18 = Some graduate level coursework;19 = Master's Degree;20 = Ph.D. or M.D.""",""
-"current_medication","String","300","Recommended","subject's current medications","","",""
+"current_medication","String","1000","Recommended","subject's current medications","","",""
 "current_diagnosis","String","255","Recommended","Present Classification/Diagnosis","","",""
 "behavior","String","250","Recommended","Behavior Observations","","",""
 "wtar_01","Integer","","Recommended","WTAR Scores: Predicted-Actual Comparison: Standard Score (Appendix A)","","",""

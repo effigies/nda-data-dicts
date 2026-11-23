@@ -447,7 +447,7 @@
 "edible","Integer","","Recommended","Did you eat an edible?","0;1","0=No; 1=Yes",""
 "can_hits","Integer","","Recommended","How many total hits of marijauan/cannabis did you have?","0::15","0=None; 15=15+",""
 "can_hours","Integer","","Recommended","How many hours high were you during this time period?","0::23","0=Less than 1 hour; 23=23-24 hours",""
-"num_puffs","Integer","","Recommended","How many puffs of e-cigarettes did you take?","0::40","0=None; 40=40+",""
+"num_puffs","Integer","","Recommended","How many puffs of e-cigarettes did you take?","0::100","0=None; 100=100",""
 "num_pods","Integer","","Recommended","How many cartridges/pods did you use?","0::100","Number of cartridges/pods",""
 "mood1","Integer","","Recommended","Since the last survey to what extent have you felt: Insecure","1::7","1=Never; 7=Always",""
 "mood2","Integer","","Recommended","Since the last survey to what extent have you felt: Energetic","1::7","1=Never; 7=Always",""

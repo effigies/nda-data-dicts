@@ -16,6 +16,6 @@
 "timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
 "aoi","String","20","Recommended","Area of Interest (AOI)","","e.g., EyeAOI; MouthAOI; Other; Fix. Other= Area in the face other than EyeAOI and MouthAOI. Fix = The cross on the monitor shown at the very beginning of each trial to draw a participant's attention.",""
-"emotion","String","10","Recommended","Emotion description","fear;sad;hap","",""
+"emotion","String","10","Recommended","Emotion description","fear;sad;hap;neu","fear = Fearful; sad = Sad; hap = Happy; neu = Neutral",""
 "raw_nfix","Integer","","Recommended","Raw counts of fixations to an AOI","","e.g., Counts of fixation to the eye AOI",""
 "filtered_nfix","Integer","","Recommended","Number of valid fixations after filtering greater than 100ms","","Fixations that are less than or equal to 100ms is filtered out.",""

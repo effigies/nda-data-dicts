@@ -92,3 +92,8 @@
 "hope_02","Integer","","Recommended","I felt worthless","1::3","1=Not true; 2=Sometimes; 3=True",""
 "hope_03","Integer","","Recommended","I believed things will improve","1::3","1=Not true; 2=Sometimes; 3=True",""
 "hope_04","Integer","","Recommended","I believed I will accomplish what I set out to do","1::3","1=Not true; 2=Sometimes; 3=True",""
+"hopelessq01","Integer","","Recommended","I see my future as gloomy.","1::4;-999","1=Not at all like me; 2=A little like me; 3=Somewhat like me; 4=A lot like me; -999=Pester skipped",""
+"hopelessq02","Integer","","Recommended","I feel hopeless.","1::4;-999","1=Not at all like me; 2=A little like me; 3=Somewhat like me; 4=A lot like me; -999=Pester skipped",""
+"hopelessq03","Integer","","Recommended","I believe that things in my life will not improve.","1::4;-999","1=Not at all like me; 2=A little like me; 3=Somewhat like me; 4=A lot like me; -999=Pester skipped",""
+"hopelessq04","Integer","","Recommended","I believe I am powerless to change my future.","1::4;-999","1=Not at all like me; 2=A little like me; 3=Somewhat like me; 4=A lot like me; -999=Pester skipped",""
+"hopelessq05","Integer","","Recommended","I doubt that anything is worthwhile.","1::4;-999","1=Not at all like me; 2=A little like me; 3=Somewhat like me; 4=A lot like me; -999=Pester skipped",""

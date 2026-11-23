@@ -7,3 +7,6 @@
 "mental_presc","Integer","","Recommended","In the past four weeks have you taken prescription medication for your mental health?","0;1;98","0=No; 1=Yes; 98=Don't know/not sure",""
 "received_counsel","Integer","","Recommended","In the past four weeks have you received counseling or therapy from a mental health professional such as a psychologist, social worker, or other licensed mental health professional?","0;1;98","0=No; 1=Yes; 98=Don't know/not sure",""
 "needed_counsel","Integer","","Recommended","In the past four weeks have you needed counseling or therapy from a mental health professional such as a psychologist, social worker, or other licensed mental health professional?","0;1;98","0=No; 1=Yes; 98=Don't know/not sure",""
+"mhth_01","Integer","","Recommended","Have you ever received psychological or emotional counseling?","0;1;-999;-9","0=No; 1=Yes; -999=Pester Skipped; -9=Missing",""
+"mhth_02","Integer","","Recommended","Have you ever thought you should get psychological or emotional counseling but you did not?","0;1;-999;-9","0=No; 1=Yes; -999=Pester Skipped; -9=Missing",""
+"mhth_03","Integer","","Recommended","Have you ever taken prescription medication for psychological or emotional problems?","0;1;-999;-9","0=No; 1=Yes; -999=Pester Skipped; -9=Missing",""

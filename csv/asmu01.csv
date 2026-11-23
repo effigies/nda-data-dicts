@@ -60,3 +60,7 @@
 "t1_slep5","Integer","","Recommended","How often are the following statements true for you when using social media? I lose track of time on social media and end up sleeping later than I planned.","1::5;-9","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Always; -9= I prefer not to answer",""
 "t1_slep6","Integer","","Recommended","How often are the following statements true for you when using social media? I check social media while I'm in bed before going to sleep.","1::5;-9","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Always; -9= I prefer not to answer",""
 "t1_slep7","Integer","","Recommended","How often are the following statements true for you when using social media? I wake up during the night to check social media messages or notifications.","1::5;-9","1= Never; 2= Rarely; 3= Sometimes; 4= Often; 5= Always; -9= I prefer not to answer",""
+"timepoint_label","String","50","Recommended","Timepoint/visit label","","e.g., Baseline, 6-Month Follow Up, Year 2; Morning, At Bedtime",""
+"sminf01","String","100","Recommended","Right now, who are your favorite content creators or influencers? Content Creator/Influencer 1","","",""
+"sminf02","String","100","Recommended","Right now, who are your favorite content creators or influencers? Content Creator/Influencer 2","","",""
+"sminf03","String","100","Recommended","Right now, who are your favorite content creators or influencers? Content Creator/Influencer 3","","",""

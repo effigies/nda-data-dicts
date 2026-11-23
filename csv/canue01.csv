@@ -20,3 +20,7 @@
 "canue12","Integer","","Recommended","In general, you would say your health is...","0::100","0=Poor; 100=Excellent",""
 "canue13","Integer","","Recommended","When I feel bad, I will often do things I later regret in order to make myself feel better now","0::100","0=Completely disagree; 100=Completely agree",""
 "canue14","Integer","","Recommended","When I feel rejected, I will often say things I later regret","0::100","0=Completely disagree; 100=Completely agree",""
+"phq2_1_daily","Integer","","Recommended","In the past day, how often have you been bothered by the following problems? Little interest or pleasure in doing things","0::3","0=Not at all; 1=Some of the time; 2=More than half of the time; 3=Nearly all day",""
+"phq2_2_daily","Integer","","Recommended","In the past day, how often have you been bothered by the following problems? Feeling down, depressed or hopeless","0::3","0=Not at all; 1=Some of the time; 2=More than half of the time; 3=Nearly all day",""
+"gad2_1_daily","Integer","","Recommended","In the past day, how often have you been bothered by the following problems? Feeling nervous, anxious or on edge","0::3","0=Not at all; 1=Some of the time; 2=More than half of the time; 3=Nearly all day",""
+"gad2_2_daily","Integer","","Recommended","In the past day, how often have you been bothered by the following problems? Not being able to stop or control worrying","0::3","0=Not at all; 1=Some of the time; 2=More than half of the time; 3=Nearly all day",""

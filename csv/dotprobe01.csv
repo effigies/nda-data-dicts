@@ -32,7 +32,7 @@
 "dot_rt","Integer","","Recommended","reaction time to dot","","",""
 "dot_rttime","Integer","","Recommended","exact time of response to dot relative to start of experiment","0::900000","",""
 "dotside","String","10","Recommended","dot side","left;right","",""
-"emotion","String","10","Recommended","Emotion description","fear;sad;hap","",""
+"emotion","String","10","Recommended","Emotion description","fear;sad;hap;neu","fear = Fearful; sad = Sad; hap = Happy; neu = Neutral",""
 "emotion_face","File","10","Recommended","picture file for affective face","","",""
 "fixation_durationerror","Integer","","Recommended","Fixation Duration Error","0","",""
 "fixation_onsetdelay","Integer","","Recommended","delay of onset of fixation cross","0::20","",""

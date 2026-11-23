@@ -210,3 +210,7 @@
 "mctq_sr_6b","Integer","","Recommended","On school or workdays and then it takes me __________ to fall asleep:","1;5;10;15;30;45;46","1=Less than 5 minutes; 5=About 5 minutes; 10=About 10 minutes; 15=About 15 minutes; 30=About 30 minutes; 45=About 45 minutes; 46=Longer than 45 minutes",""
 "mctq_sr_20a","Integer","","Recommended","How long per day do you spend on average outside (really outside) exposed to daylight? On school/workdays:","1;15;30;60;90;120;150;180;181","1=Less than 15 minutes; 15=About 15 minutes; 30=About 30 minutes; 60=About 1 hour; 90=About 1½ hours; 120=About 2 hours; 150=About 2½ hours; 180=About 3 hours; 181=More than 3 hours",""
 "mctq_sr_20b","Integer","","Recommended","How long per day do you spend on average outside (really outside) exposed to daylight? On free days:","1;15;30;60;90;120;150;180;181","1=Less than 15 minutes; 15=About 15 minutes; 30=About 30 minutes; 60=About 1 hour; 90=About 1½ hours; 120=About 2 hours; 150=About 2½ hours; 180=About 3 hours; 181=More than 3 hours",""
+"wrk_sleep_hr_min","String","50","Recommended","Go to sleep. On work days: (Hrs/Mins)","","",""
+"wrk_wake_hr_min","Integer","","Recommended","Wake up. On work days: (Hrs/Mins)","","",""
+"free_sleep_hr_min","Integer","","Recommended","Go to sleep. On free days: (Hrs/Mins)","","",""
+"free_wake_hr_min","Integer","","Recommended","Wake up. On free days: (Hrs/Mins)","","",""

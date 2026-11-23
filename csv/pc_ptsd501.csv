@@ -49,3 +49,4 @@
 "pcptsd5","Integer","","Recommended","Have you ever experienced this kind of event? Seeing someone be killed or seriously injured","0;1","0= No; 1= Yes",""
 "pcptsd6","Integer","","Recommended","Have you ever experienced this kind of event? Having a loved one die through homicide or suicide","0;1","0= No; 1= Yes",""
 "pcptsd1_1","Integer","","Recommended","Regarding the experience of a serious accident or fire: In the past month, have you had nightmares about the event(s) or thought about the event(s) when you did not want to?","0;1","0= No; 1= Yes",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

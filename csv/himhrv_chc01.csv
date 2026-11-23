@@ -5,7 +5,7 @@
 "interview_age","Integer","","Required","Age in months at the time of the interview/test/sampling/imaging.","0::1440","Age is rounded to chronological month. If the research participant is 15-days-old at time of interview, the appropriate value would be 0 months. If the participant is 16-days-old, the value would be 1 month.",""
 "sex","String","20","Required","Sex of subject at birth","M;F; O; NR","M = Male; F = Female; O=Other; NR = Not reported","gender"
 "nimh_rv_clinhx_01","Integer","","Recommended","Past treatment for medical/mental health condition","0::4","0=Medical hospitalization; 1=Mental health hospitalization; 2=Treatment for alcohol and/or drug abuse; 3=Mental health counseling; 4=Medication for a mental health condition",""
-"current_medication","String","300","Recommended","subject's current medications","","","nimh_rv_clinhx_02"
+"current_medication","String","1000","Recommended","subject's current medications","","","nimh_rv_clinhx_02"
 "nimh_rv_clinhx_03","Integer","","Recommended","Cancer","0::6","0=You; 1=Grandparents; 2=Father; 3=Mother; 4=Siblings; 5=Children; 6=None",""
 "nimh_rv_clinhx_04","Integer","","Recommended","Heart disease / Stroke","0::6","0=You; 1=Grandparents; 2=Father; 3=Mother; 4=Siblings; 5=Children; 6=None",""
 "nimh_rv_clinhx_05","Integer","","Recommended","Diabetes","0::6","0=You; 1=Grandparents; 2=Father; 3=Mother; 4=Siblings; 5=Children; 6=None",""

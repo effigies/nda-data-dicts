@@ -18,7 +18,7 @@
 "subj_motor_ability","String","100","Recommended","subject's motor ability","","",""
 "subj_sensory_response","String","100","Recommended","subject's sensory response","","",""
 "subj_motor_response","String","100","Recommended","subject's motor response","","",""
-"stimuli_type","String","50","Recommended","type of stimuli","","i.e. visual, sound, etc.",""
+"stimuli_type","String","50","Recommended","type of stimuli","","e.g., visual or sound, alcohol or water, etc.",""
 "subj_cognitive_ability","String","100","Recommended","subject's cognitiveability","","",""
 "subj_cognitive_response","String","100","Recommended","subject's cognitive response","","",""
 "medication_list_file","File","","Recommended","medication list","","",""

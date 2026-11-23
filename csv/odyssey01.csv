@@ -48,7 +48,7 @@
 "briefscreen_respondent_age_yrs","Integer","","Recommended","","age of Respondent in years","","",""
 "d4","Integer","","Recommended","","""Were you married, widowed, divorced, separated, never married, or living with a partner?""","1::6; 99; 77","1=married; 2=widowed; 3=divorced; 4=separated; 5=never married; 6=living with a partner; 99=Don't know; 77=Refused",""
 "d5","Integer","","Recommended","","""Did you have a disability, special health care need, or other condition?""","0;1; 99; 77","0=No; 1=Yes; 99=Don't know; 77=Refused",""
-"d5o","String","150","Conditional","d5 == '1'","""Specify type of disability, health care need or condition""","","",""
+"d5o","String","475","Conditional","d5 == '1'","""Specify type of disability, health care need or condition""","","",""
 "d6","Integer","","Recommended","","How would you describe your general health at that time? Would you say it was","1::5; 99; 77","1=Excellent; 2=very good; 3=good; 4= fair; 5=poor; 99=Don't know; 77=Refused; 9 = Missing",""
 "d7","String","15","Recommended","","Thinking back to what you were doing at the time you were first concerned, which of these best describes what you were doing? Were you working then, not working, looking for work, retired, a stay-at-home parent, a student, or something else?","","1=working; 2=temporarily laid off, sick leave, maternity leave; 3=unemployed - looking for work; 4=unemployed - not looking for work; 5=retired; 6=disabled - permanently or temporarily; 7=full time stay at home parent; 8=student; 9=other; 99=Don't know; 77=Refused ",""
 "d7o","String","100","Conditional","d7 == '9'","Specify other","","",""

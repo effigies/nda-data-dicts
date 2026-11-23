@@ -11,7 +11,7 @@
 "hospitalizations","String","200","Recommended","has the subject had any hospitalisations","","",""
 "hospitalizations_described","String","200","Recommended","Describe the hospitalizations","","",""
 "when_hospitalized","Date","","Recommended","when was the subject hospitalized","","",""
-"current_medication","String","300","Recommended","subject's current medications","","",""
+"current_medication","String","1000","Recommended","subject's current medications","","",""
 "current_meds_described","String","200","Recommended","Describe subject's current medications","","",""
 "past_medication","String","300","Recommended","what are subjects past medications","","",""
 "past_meds_described","String","200","Recommended","describe subjects past medications","","",""

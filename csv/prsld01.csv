@@ -92,3 +92,4 @@
 "sleep_2wk_110","Integer","","Recommended","In the past 2 weeks....I got enough sleep","1::5;-99","1= Not at all true; 2= A little bit true; 3= Somewhat true; 4= Quite a bit true; 5= Very much true; -99= Missing",""
 "sleep_2wk_87","Integer","","Recommended","In the past 2 weeks....I had trouble staying asleep","1::5;-99","1= Not at all true; 2= A little bit true; 3= Somewhat true; 4= Quite a bit true; 5= Very much true; -99= Missing",""
 "sleep_2wk_90","Integer","","Recommended","In the past 2 weeks....I had trouble sleeping","1::5;-99","1= Not at all true; 2= A little bit true; 3= Somewhat true; 4= Quite a bit true; 5= Very much true; -99= Missing",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

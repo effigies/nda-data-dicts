@@ -7,7 +7,7 @@
 "number_ppmed","Integer","","Recommended","Number or Prior Psychiatric Meds","","",""
 "med_nm","String","50","Recommended","Psychiatric medication: name","","","ppmed_names"
 "num_meds","Integer","","Recommended","Number of medications","","","number_cmed"
-"current_medication","String","300","Recommended","subject's current medications","","","cmed_names"
+"current_medication","String","1000","Recommended","subject's current medications","","","cmed_names"
 "cmed_antipsychotic","Integer","","Recommended","Current med: antipsyhotic","0;1","0=no; 1=yes",""
 "cmed_antidepressant","Integer","","Recommended","Current med: antidepressant","0;1","0=no; 1=yes",""
 "cmed_lithium","Integer","","Recommended","Current med: lithium","0;1","0=no; 1=yes",""

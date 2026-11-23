@@ -16,3 +16,6 @@
 "post_sam_dominance","Integer","","Recommended","Self-Assessment Manikin (SAM) Dominance rating after session","1::9","1 = Low (No Control/Controlled); 9 = High (Full Control/Controlling)",""
 "sam_valence_5p","Integer","","Recommended","How HAPPY are you RIGHT NOW? (Examples: If you are extremely happy, select the image at the far left. If you are extremely unhappy, select the image on the far right)","1::5","1 = Positive (Pleasant/Happy); 5 = Negative (Unpleasant/Unhappy)",""
 "sam_arousal_5p","Integer","","Recommended","What is your AROUSAL level RIGHT NOW? (Examples: If you are extremely aroused (i.e. excited or agitated), select the image at the far left. If you are extremely calm, select the image on the far right)","1::5","1 = High (Excited); 5 = Low (Calm)",""
+"sam_valence_5p_daily","Integer","","Recommended","On a scale of 1 to 5, how happy/unhappy do you feel?","1::5","1=Unhappy; 5=Happy",""
+"sam_dominance_5p_daily","Integer","","Recommended","On a scale of 1 to 5, how controlled/in control do you feel?","1::5","1=Unhappy; 5=Happy",""
+"sam_arousal_5p_daily","Integer","","Recommended","On a scale of 1 to 5, how excited/calm do you feel?","1::5","1=Unhappy; 5=Happy",""

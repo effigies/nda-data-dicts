@@ -66,3 +66,4 @@
 "promis_apsra_alt5","Integer","","Recommended","I can keep up with my social commitments","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always",""
 "promis_apsra_alt6","Integer","","Recommended","I am able to participate in leisure activities","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always",""
 "promis_apsra_alt7","Integer","","Recommended","I am able to perform my daily routines","1::5","1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always",""
+"visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""

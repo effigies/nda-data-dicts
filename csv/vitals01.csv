@@ -113,7 +113,7 @@
 "positive_drugs8","Integer","","Recommended","Positive for PCP","0 :: 1","0 = No; 1 = Yes",""
 "positive_drugs9","Integer","","Recommended","Positive for BAR","0 :: 1","0 = No; 1 = Yes",""
 "positive_drugs10","Integer","","Recommended","Positive for BZO","0 :: 1","0 = No; 1 = Yes","urine_uds___3"
-"current_medication","String","300","Recommended","subject's current medications","","","medications"
+"current_medication","String","1000","Recommended","subject's current medications","","","medications"
 "bp","String","25","Recommended","Blood Pressure","","","blood_pressure,blood_pressure2_1e7,bpressure,ch_bp_baseline"
 "pulse","Float","","Recommended","Pulse","","","vs_pulse"
 "trt_grp","String","10","Recommended","Treatment Group Assignment","1;1AO;1CT;2; 3;4;5;6;7;8;9;10;11;12;13;14;15;16; O; P; CCA; GCT; TCT; TAU; CGC; ESDM; NA; EG;EIBI;IG;CG","1=Group 1 first 8 weeks; 2=Group 2; 3=Group 3; 4 =active; 5=sham; 6=none; 7=ESDM High intensity; 8=ESDM Low intensity; 9=EIBI High intensity; 10=EIBI Low intensity; ESDM = Early Start Denver Model; EIBI = Early and Intensive Behavioral Intervention; 11 = Navigator; 12 = Care manager; 13=Waitlist Control; 14=Treatment; 1AO=Group 1 8 week add on; 1CT=Group 1 8 week cross taper; O=Oxytocin; P=Placebo; CCA=Community Control Arm; GCT=Generalized Cognitive Training; TCT=Targeted Cognitive Training; TAU=Treatment as Usual; CGC = Computer Games Control; NA=not assigned to treatment group; EG= Experimental Group; IG= Intervention Group; CG= Control Group; 15=aaasa_Control;16=aaasa_Treatment",""

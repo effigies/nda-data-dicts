@@ -47,3 +47,4 @@
 "burden_scs_rev","Integer","","Recommended","I consider myself as a burden to this earth.","1::5","1 = Strongly Disagree; 2 = Disagree; 3 = Neutral; 4 = Agree; 5 = Strongly Agree",""
 "irritable_scs_rev","Integer","","Recommended","I feel so irritated that I want to leave everything.","1::5","1 = Strongly Disagree; 2 = Disagree; 3 = Neutral; 4 = Agree; 5 = Strongly Agree",""
 "anger_scs_rev","Integer","","Recommended","I am capable of doing anything when I am angry. (For example smashing items, hurting myself, etc.)","1::5","1 = Strongly Disagree; 2 = Disagree; 3 = Neutral; 4 = Agree; 5 = Strongly Agree",""
+"scsnr_15a","Integer","","Recommended","Suicide is the only way to end this pain.","0::4","0 = Strongly Disagree; 1 = Disagree; 2 = Neutral; 3 = Agree; 4 = Strongly Agree",""

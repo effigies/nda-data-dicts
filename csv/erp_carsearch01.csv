@@ -7,7 +7,7 @@
 "visit","String","60","Recommended","Visit name","","e.g., Baseline, 6-Month Follow Up, Year 2, Daily",""
 "experiment_id","Integer","","Recommended","ID for the Experiment/settings/run","","",""
 "comments_misc","String","4000","Recommended","Miscellaneous comments on study, interview, methodology relevant to this form data","","",""
-"emotion","String","10","Recommended","Emotion description","fear;sad;hap","",""
+"emotion","String","10","Recommended","Emotion description","fear;sad;hap;neu","fear = Fearful; sad = Sad; hap = Happy; neu = Neutral",""
 "presentation","String","20","Recommended","Novel or Repeated face","Novel;Repeated","Novel=The face is presented for the first time; Repeated=The face is presented once again in another trial",""
 "condition_combined","String","100","Recommended","Combination of ''presentation'' and ''emotion''","","e.g., Novel_Happy",""
 "ntrial","Integer","","Recommended","The total number of trials for each ''condition_combined''","0::1440","",""

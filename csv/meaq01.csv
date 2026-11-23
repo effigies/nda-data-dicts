@@ -384,3 +384,4 @@
 "meaq_5_33_alt","Integer","","Recommended","When unpleasant memories come to me, I try to put them out of my mind","1::7","1 = Strongly disagree; 7 = Strongly agree",""
 "meaq_8_58_alt","Integer","","Recommended","The key to a good life is never feeling any pain","1::7","1 = Strongly disagree; 7 = Strongly agree",""
 "meaq_4_29_alt","Integer","","Recommended","Fear or anxiety won't stop me from doing something important","1::7","1 = Strongly disagree; 7 = Strongly agree",""
+"beaq_total","Integer","","Recommended","Brief Experiential Avoidance Questionnaire (BEAQ) - Total Score","15::90","Sum of the 15 BEAQ items (meaq_8_58, meaq_8_59, meaq_5_33, meaq_7_56, meaq_6_42, meaq_4_29 (reversed), meaq_6_44, meaq_2_14, meaq_6_41, meaq_5_36, meaq_6_45, meaq_4_25, meaq_4_27, meaq_4_32, meaq_7_50); Higher scores = Greater experiential avoidance",""

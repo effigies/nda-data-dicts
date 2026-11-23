@@ -99,7 +99,7 @@
 "q53_b6d1","String","50","Recommended","Medication 4","","Complete if there are concomitant medication",""
 "q53_b6d2","String","100","Recommended","Medication 4 Indication","","Indicate use of medication",""
 "medalgor","Integer","","Recommended","Current Medication Algorithm level: ","1::4;9","1=level 1; 2=level 2; 3=level 3; 4=level 4; 9=NA",""
-"current_medication","String","300","Recommended","subject's current medications","","",""
+"current_medication","String","1000","Recommended","subject's current medications","","",""
 "weeks1","Float","","Recommended","Duration in weeks first medication","","",""
 "dosetime","Float","","Recommended","Duration of time on current dose in weeks","","",""
 "reason_name1","String","150","Recommended","PT reason 1 for prescribing medication","","",""

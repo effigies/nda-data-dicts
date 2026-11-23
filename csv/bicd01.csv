@@ -109,3 +109,7 @@
 "cg_ethnic_mexican_american","Integer","","Recommended","Ethnicity - Please check all that apply. Are you (the caregiver): Mexican-American","0;1","0= No/Unchecked; 1= Yes/Checked",""
 "cg_ethnic_chicano","Integer","","Recommended","Ethnicity - Please check all that apply. Are you (the caregiver): Chicano","0;1","0= No/Unchecked; 1= Yes/Checked",""
 "cg_ethnic_puerto_rican","Integer","","Recommended","Ethnicity - Please check all that apply. Are you (the caregiver): Puerto Rican","0;1","0= No/Unchecked; 1= Yes/Checked",""
+"bi03_service","Integer","","Recommended","Please indicate whether or not you feel that because of the time you spend caring for [Service User's Name], you don't have enough time for yourself?","0::5","1=Never; 2=Some of the time; 3=About half of the time; 4=Most of the time; 5=All of the time",""
+"bi04_service","Integer","","Recommended","Do you feel stressed between caring for [Service User's Name], and trying to meet other responsibilities such as work or family needs?","0::5","1=Never; 2=Some of the time; 3=About half of the time; 4=Most of the time; 5=All of the time",""
+"bi10_service","Integer","","Recommended","Do you feel strained when you are caring for [Service User's Name]?","0::5","1=Never; 2=Some of the time; 3=About half of the time; 4=Most of the time; 5=All of the time",""
+"bi20_service","Integer","","Recommended","Do you feel uncertain about what to do about [Service User's Name]' care?","0::5","1=Never; 2=Some of the time; 3=About half of the time; 4=Most of the time; 5=All of the time",""

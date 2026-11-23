@@ -200,3 +200,4 @@
 "studyaudit5","Integer","","Recommended","How often since the beginning of this study have you failed to do what was normally expected from you because of drinking?","0::4","0= Never; 1= Less than monthly; 2= Monthly; 3= Weekly; 4= Daily or almost daily",""
 "studyaudit6","Integer","","Recommended","How often since the beginning of this study have you needed a first drink in the morning to get yourself going after a heavy drinking session?","0::4","0= Never; 1= Less than monthly; 2= Monthly; 3= Weekly; 4= Daily or almost daily",""
 "studyaudit7","Integer","","Recommended","How often since the beginning of this study have you had a feeling of guilt or remorse after drinking?","0::4","0= Never; 1= Less than monthly; 2= Monthly; 3= Weekly; 4= Daily or almost daily",""
+"usaudit_total_v2","Integer","","Recommended","Total AUDIT score","0::40;999","Sum of AUDIT items usaudit_q1_v2, usaudit_q2_v2, baudit3-8, usaudit_q9_v2, usaudit_q10_v2; 999= Missing value",""

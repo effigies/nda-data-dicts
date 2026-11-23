@@ -11,7 +11,7 @@
 "ethnicity","String","30","Recommended","Ethnicity of participant","Hispanic or Latino; Not Hispanic or Latino; Unknown","Hispanic or Latino; Not Hispanic or Latino; Unknown; Prefer not to answer",""
 "d5","Integer","","Recommended","""Did you have a disability, special health care need, or other condition?""","0;1; 99; 77","0=No; 1=Yes; 99=Don't know; 77=Refused",""
 "disab_type","Integer","","Recommended","If student has a disability, then what type is it?","1::4","1 = Learning Disability; 2 = Behavior Disorder; 3 = Cognitive Disability; 4 = Other Disability (specify)",""
-"d5o","String","150","Recommended","""Specify type of disability, health care need or condition""","","",""
+"d5o","String","475","Recommended","""Specify type of disability, health care need or condition""","","",""
 "casss1","Integer","","Recommended","My Parents show they are proud of me. How often?","1::6;99","1 = Never; 2 = Almost Never; 3 = Some of the Time; 4 = Most of the Time; 5 = Almost Always; 6 = Always; 99= Not Applicable",""
 "casss2","Integer","","Recommended","My Parents understand me. How often?","1::6;99","1 = Never; 2 = Almost Never; 3 = Some of the Time; 4 = Most of the Time; 5 = Almost Always; 6 = Always; 99= Not Applicable",""
 "casss3","Integer","","Recommended","My Parents listen to me when I need to talk. How often?","1::6;99","1 = Never; 2 = Almost Never; 3 = Some of the Time; 4 = Most of the Time; 5 = Almost Always; 6 = Always; 99= Not Applicable",""

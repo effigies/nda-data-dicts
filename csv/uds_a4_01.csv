@@ -308,7 +308,7 @@
 "medic_3_k_c","Integer","","Recommended","Was a cause found for the seizure(s)?","0::2","0= No; 1= Yes; 2= Not sure","ecp_etiologyyn"
 "curr_psych_meds","String","100","Recommended","What psychiatric medications do you take?","","","ecp_psychmeds"
 "curr_oth_psych_meds","String","100","Recommended","List of current other psychiatric medications","","","ecp_otherpsychmeds"
-"current_medication","String","300","Recommended","subject's current medications","","","ecp_genmeds"
+"current_medication","String","1000","Recommended","subject's current medications","","","ecp_genmeds"
 "list_painmeds","String","1000","Recommended","Please list medications you are taking for pain:","","","ecp_painmeds"
 "currentmed_other","String","100","Recommended","Other Medication","","","ecp_othermeds"
 "seizure_type_aura","Integer","","Recommended","Seizure types the patient has had: Subjective Aura","0;1","0= No/Unchecked; 1= Yes/Checked","ecp_sztype_aura"

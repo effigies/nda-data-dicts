@@ -14,7 +14,7 @@
 "cepisode","String","150","Recommended","Current diagnosis","","","diagnosis"
 "smoker","Integer","","Recommended","Smoker?","0::4;9","0=No; 1=Yes; 2= Yes, but not regularly (less than 10 per day); 3= Yes, regularly (10 or more a day); 4= Former smoker; 9=NK/missing","current_cigarette_status"
 "smoke_current_packs","Float","","Recommended","how many packs per day if yes?","0::10","","current_cigarette_packs_per_day"
-"current_medication","String","300","Recommended","subject's current medications","","",""
+"current_medication","String","1000","Recommended","subject's current medications","","",""
 "mental_ill","Integer","","Recommended","Do you have a family history of mental illness?","0;1;3","0 = No;  1 = Yes; 3 = Prefer not to answer","family_mental_illness_history"
 "notes","String","200","Recommended","Any additional notes","","","note"
 "handedness","String","29","Recommended","handedness","R;L;B;999;888;777;555","R = Right; L = Left; B = Both; 999= No Answer; 888= Skipped; 777= Condition Skipped; 555= Missing",""
